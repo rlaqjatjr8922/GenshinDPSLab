@@ -1,0 +1,218 @@
+Home
+Blog
+Genshin Impact Hub
+[V5.8] Genshin Impact Mualani Build Guide: Weapons, Artifacts, Team Comps and More!
+[V5.8] Genshin Impact Mualani Build Guide: Weapons, Artifacts, Team Comps and More!
+Daniel Mitchell
+Aug 19, 2025
+Share
+Mualani, a 5-star Hydro Catalyst wielder who makes her debut in
+Genshin Impact 5.0 banners
+, excels in the role as a DPS. And to maximize her potential, our
+Mualani build guide
+will provide insights into her optimal weapons and artifacts, as well as recommended team compositions. If you are interested, please keep reading!
+🔥 Bonus Tip: Don’t forget to visit
+Lootbar.gg
+for exclusive discounts on your next purchase!
+Secure Your Gaming Top-Up with Smart Savings on LootBar
+Premium Top-Up Service Tailored for Your Game.
+3-Minute Delivery for Non-Stop Gaming.
+Trusted 4.9/5 on Trustpilot, 10/10 among Players.
+Official Partnership Route, Protect Your Game Wallet.
+Top Up With Discount Now!
+catelog
+Mualani Character Profile
+Mualani Information
+Character Information
+Mualani
+Rarity
+★★★★★
+Element
+Hydro
+Weapon
+Rectifier
+Progression Bonus
+CRIT Rate +19.2%
+Combat Role
+DPS
+Mualani Gameplay
+Mualani is a
+Hydro
+character who wields a
+Catalyst
+. As a five-star character, she is a powerful DPS whose abilities scale with her
+HP
+. In combat, she utilizes her waveboard from her Elemental Skill to mark foes and then concludes her attack sequence with an empowered Normal Attack, strategically targeting enemies with the Vaporize Elemental Reaction to inflict substantial damage..
+For more detailed info, please check:
+Mualani Kit
+.
+Talent Priority
+Below are the best talent priorities for Mualani in Genshin Impact:
+Talent
+Priority
+Elemental Skill: Surfshark Wavebreaker
+★★★★★ (Top)
+Elemental Burst: Boomsharka-laka
+★★★★ (High)
+Normal Attack: Cooling Treatment
+★ (Low)
+Best Weapons
+Mualani's signature weapon,
+Surf's Up
+, is perfectly designed to complement her abilities and her focus on Vaporize reactions for damage output. In the absence of her signature weapon, alternative options include
+Sacrificial Jade, Tome of the Eternal Flow, The Widsith, the Sacrificial Jade,
+or the freely craftable weapon from Natlan for increasing her Normal Attack damage.
+Best Choice
+Signature Weapon
+Surf's Up (5★)
+Base ATK
+: 542
+Bonus Stat
+: CRIT DMG +88.2%
+Weapon Effect
+(R1): Max HP increased by 20% . Once every 15s, for the 14s after using an Elemental Skill: Gain 4 Scorching Summer stacks. Each stack increases Normal Attack DMG by 12% . For the duration of the effect, once every 1.5s, lose 1 stack after a Normal Attack hits an opponent; once every 1.5s, gain 1 stack after triggering a Vaporize reaction on an opponent. Max 4 Scorching Summer stacks..
+Welkin Moon for just
+$2
+?—Claim Yours Now!
+Blessing of the Welkin Moon
+Limited-Time Offer:
+$2
+|
+$4.99
+P.S. This is a limited-time offer from LootBar, exclusively for Genshin Impact players! Only
+200 Blessings of the Welkin Moon
+are available—first come, first served. Don’t miss out—claim yours now!If all Welkin Moons have been claimed, you’ll receive a
+10% OFF coupon
+instead.
+Alternatives
+1st(BP Weapon)
+Sacrificial Jade (4★)
+Base ATK
+: 454
+Bonus Stat
+: CRIT Rate +36.8%
+Weapon Effect
+(R5): When not on the field for more than 5s, Max HP will be increased by 64% and Elemental Mastery will be increased by 80. These effects will be canceled after the wielder has been on the field for 10s.
+2nd
+(Neuvillette's Signature Weapon)
+Tome of the Eternal Flow (5★)
+Base ATK
+: 542
+Bonus Stat
+: CRIT DMG +88.2%
+Weapon Effect
+(R1): HP is increased by 16%. When current HP increases or decreases, Charged Attack DMG will be increased by 14% for 4s. Max 3 stacks, can be triggered once every 0.3s. When you have 3 stacks or refresh a third stack's duration, 8 Energy will be restored. This Energy restoration effect can be triggered once every 12s.
+3rd
+Symphonist of Scents (4★)
+Base ATK
+: 510
+Bonus Stat
+: CRIT DMG +55.1%
+Weapon Effect
+(R5): When a character takes the field, they will gain a random theme song for 10s. This can only occur once every 30s.
+Recitative: ATK is increased by 120%.
+Aria: Increases all Elemental DMG by 96%.
+Interlude: Elemental Mastery is increased by 480.
+4th(Crafting Weapon)
+Ring of Yaxche (4★)
+Base ATK
+: 510
+Bonus Stat
+: HP +41.3%
+Weapon Effect
+(R5): Using an Elemental Skill grants the Jade-Forged Crown effect: Every 1,000 Max HP will increase the Normal Attack DMG dealt by the equipping character by 1% for 10s. Normal Attack DMG can be increased this way by a maximum of 32%.
+Best Artifacts & Stats
+★ Artifacts
+Best Choice
+Obsidian Codex
+2-PC
+: While the equipping character is in Nightsoul's Blessing and is on the field, their DMG dealt is increased by 15%.
+4-PC
+: After the equpping character consumes 1 Nightsoul point while on the field, CRIT Rate increases by 40% for 6s. This effect can trigger once every second.
+Beginner Choice
+Heart of Depth
+2-PC
+: Hydro DMG Bonus +15%.
+Vourukasha's Glow
+2-PC
+: HP +20%.
+★ Recommended Stats
+Here are the best Artifact main stats and sub-stats for Mualani in Genshin Impact:
+Artifact Main Stats
+Sands:
+HP / Elemental Mastery
+Goblet
+: Hydro DMG Bonus
+Circlet
+: CRIT Rate or CRIT DMG
+Artifact Sub Stats
+CRIT Rate/ CRIT DMG > HP%  = Elemental Mastery > others
+Best Team Comps
+Mualani’s kit confines her damage potential to teams that make use of the Vaporize reaction. As a result, her team compositions generally fall into two categories: pure
+Vaporize teams
+, which focus solely on Vaporize, and
+Burn-Vape teams
+, which combine both Burning and Vaporize reactions.
+1. Mualani Vaporize Team
+In Vaporize teams, Mualani relies on an off-field Pyro unit to consistently apply Pyro, allowing her to trigger Vaporize effectively. Adding supports that can reduce enemies’ Hydro resistance further amplifies her damage potential, with top choices including Xilonen, Kazuha, Zhongli, and Sucrose.
+Main DPS
+Pyro Applier
+Support
+Mualani
+(5★)
+Mavuika (5★)
+Xilonen (5★)
+Kazuha (5★)
+Mualani
+(5★)
+Pyro Traveler (5★)
+Xilonen (5★)
+Zhongli (5★)
+Mualani
+(5★)
+Xiangling (4★)
+Kachina (4★)
+Sucrose (4★)
+2. Mualani Burn-Vape Team
+The Burning state is effective for protecting Pyro elements, allowing Hydro elements to vaporize more reliably. This synergy is ideal for Mualani's team composition. To maintain the enemy's Burning state, it's essential to include both a Pyro and a Dendro character in the team.
+Main DPS
+Pyro Applier
+Dendro Applier
+Support
+Mualani
+(5★)
+Mavuika (5★)
+Nahida (5★)
+Xilonen (5★)
+Mualani
+(5★)
+Pyro Traveler (5★)
+Emilie (5★)
+Kazuha (5★)
+Mualani
+(5★)
+Xiangling (4★)
+Yaoyao (4★)
+Sucrose (4★)
+Mualani is a formidable DPS in Genshin Impact. By prioritizing her Elemental Skill and Burst, selecting the right weapons, and equipping optimal artifacts, you can fully unlock her capabilities in combat. And
+for
+players who want to maximize Mualani's potential, don’t forget to
+top up Genshin Impact
+at
+LootBar
+.
+↓
+Short on Primogems and Genesis Crystals? Try LootBar!
+↓
+☛ About LootBar
+LootBar is a global, professional, and secure gaming transaction platform offering services such as game top-ups, game coin trading, CD keys, and game items. Our mission is to provide a seamless and hassle-free experience for users worldwide, allowing you to enjoy your favorite games without delays or worries. We currently operate in Europe, America, Japan, Russia, Southeast Asia, and more.
+☛ Why Choose Us?
+100% Safe Transaction
+We are committed to providing you with efficient, professional, and secure transaction services. We will provide security guarantees for the process and related data information involved in your transactions on the platform, 100% safe, please rest assured.
+24/7 Support
+We have a strong customer team and multiple ways to access consultations, quickly and conveniently answering any questions you have during the transaction process, including any support needed before, during, and after the sale.
+Full Refund Guarantee
+LootBar provides you with competitive product prices and efficient delivery to your account. If the goods are not delivered or cannot be used after delivery, the platform promises to refund 100% and provide 100% financial security guarantee.
+Daniel Mitchell
+Gaming writer
+Daniel Mitchell is an accomplished American gaming writer and RPG enthusiast, currently serving as the Lead Editor of LootBar’s Genshin Impact Walkthrough Team. With dual degrees in English Literature, he blends his expertise in literary analysis with extensive knowledge of the gaming industry.

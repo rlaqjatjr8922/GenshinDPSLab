@@ -1,0 +1,302 @@
+Task Search
+Checklists
+Guides
+Markers
+Videos
+Sort and Filter
+No Results
+Checklists
+New Checklist
+All Lists
+My Checklists
+All
+All Lists
+My Checklists
+How creative can you get with your first free checklist?
+Create a free account
+All Interactive Maps and Locations
+Genshin Impact Pyro Traveler Build Guide - Best Weapons, Artifacts, and Teams
+By
+Cedric Pabriga
+,
+Jen Rothery
+,
+Triforce
+,
++30 more
+Updated
+:
+Jan 22, 2025 4:20pm UTC
+Pyro Traveler is the most obviously free Pyro unit in the game, and you get exactly what you pay for with this unit. The Traveler makes up for his damage output in versatility for newer players who need one character to be built in several different ways. This guide to the
+best Genshin Impact Pyro Traveler build
+will explain the best weapons, artifact sets, constellations, and team compositions for Pyro Traveler.
+Pyro Traveler
+Rarity:
+★★★★★
+Element:
+Pyro
+Weapon:
+Sword
+Table of Contents:
+How to Get Pyro Traveler
+Pyro Traveler Gameplay Overview
+Pyro Traveler Talents and Attack Combos
+Pyro Traveler Constellation Analysis
+Pyro Traveler's Best Weapons
+Pyro Traveler's Best Artifacts
+Pyro Traveler's Best Teams
+How to Get Pyro Traveler in Genshin Impact
+Pyro Traveler is a character you will have simply by playing through the Natlan storyline. There is no wishing required to use the Traveler or gain their Constellations.
+Genshin Pyro Traveler Gameplay Overview
+Element:
+Pyro
+Weapon:
+Catalyst
+Rarity:
+“5-star”
+Pyro Traveler is a weak character, generally speaking, but the Traveler excels in being accessible and versatile in playstyle. They can be played in nearly every playstyle available.
+First, they can be played as a general support to offer buffs, slow Pyro application, and energy to the team.
+Second, they can be built as a Burgeon DPS, maximizing the potency of these powerful reactions by building entirely into Elemental Mastery.
+Third, they can be built as an Off-Field DPS utilizing their held Skill to deal coordinated attacks without relying on energy.
+Finally, if you work for all six Constellations, the Traveler can be played as an on-field DPS using Normal, Charged, or Plunging Attacks.
+While the Traveler is not the best option in any of these roles, the fact that they can play any of them and cost zero wishes to acquire actually makes Traveler fairly valuable, especially on F2P accounts for casual players. It makes Pyro Traveler perhaps the best Traveler element after Dendro.
+Keep in mind that Traveler as a DPS is not typically recommended unless you want to put an enormous amount of investment into them compared to other Pyro characters. They are outclassed in support by most Natlan support characters, Thoma and Dehya as Burgeon triggers, Mavuika, Arlecchino, and Gaming as an on-field DPS, and Xiangling, who is also free to acquire, as an off-field DPS.
+Don’t anticipate them to carry you through Spiral Abyss, but they may one day end up being the last piece you need in your next F2P team.
+Stats Worth Consideration
+ATK%
+: This is the stat Pyro Traveler’s damage scales with
+Energy Recharge (optional)
+: This ensures you can reliably Burst every rotation. Building to Burst may lower overall damage potential in some cases with Pyro Traveler.
+Pyro DMG%
+: This is the element Pyro Traveler’s damage is aligned with.
+CRIT Rate + DMG
+: This is the stat Pyro Traveler’s damage scales with
+Nothing but EM (alternate build)
+: This is to maximize the damage from transformative reactions like Burning and Burgeon. Burning is not advised for Pyro Traveler, since Pyro cannot consistently be the trigger for Burning, so build this way only if you’re determined to play a Burgeon playstyle.
+For any character devoted to building damage, it is important to prioritize a 1-to-2 ratio between CRIT Rate and CRIT DMG. 1-3 ratios, while they may give dopamine through bigger Crit numbers, is actually less damage overall. Aim for 75;150 in most cases!
+Genshin Pyro Traveler Talents and Attack Combos
+Your talent-levelling priority should be Skill > Burst.
+Normal Attack
+Pyro Traveler is usually an off-field DPS who does not deal sufficient damage with Normal Attacks to consider investing… unless they are C6 and playing the role of on on-field DPS.
+While it’s not recommended to play Pyro Traveler in this role, it is at least possible to make work, so only level this talent if you really love using the Traveler on-field as much as possible.
+Elemental Skill
+There are two versions of the Traveler’s Skill: tap and hold. Both involve entering the Nightsoul state; a mechanic mostly unique to Natlanese characters.
+When tapping the Skill input, a small ring will form around the active character that deals minor Pyro damage once per second for as long as the Traveler has Nightsoul Points to burn. Using the Skill generates 42 that deplete over time.
+With standard internal cooldown on elemental application (3 hits or 2.5s), Traveler will only apply Pyro to enemies once every three seconds, but the additional hits of Pyro damage can still trigger Burgeon reactions. If you like this idea, you’ll want to build pure Elemental Mastery on Pyro Traveler.
+Holding the Skill enables the Traveler to deal coordinated Pyro attacks alongside your active character once every three seconds. Again, the application is quite slow, so it’s usually better to have the Traveler trigger reactions than generate Pyro aura for someone else to create reactions with.
+Elemental Burst
+The Burst, when used, will hit for a powerful single instance of Pyro damage while also generating 24 Nightsoul Points. This can extend the duration of the Traveler’s Skill.
+This isn’t a major part of their damage profile, so while it’s nice, you probably don’t need to dedicate building towards routinely using the Elemental Burst.
+Pyro Traveler
+Passives
+Next, come their passives.
+When Pyro Traveler has 20+ Nightsoul Points, the AOE of their Skill is increased.
+Once every 12s, Traveler can regain 5 energy when the Skill triggers a Pyro-base reaction. Ally Nightsoul Bursts will also generate 4 energy for Traveler.
+Pyro Traveler
+Field Time Inputs
+Pyro Traveler’s field time should be executed as such:
+Pyro Traveler Skill
+Pyro Traveler Burst (optional)
+Swap to someone else.
+If you decide to utilize Traveler as an on-field DPS, use his Skill and Burst, and then use two Normal Attacks, followed by a Charged Attack, repeatedly. Alternatively, spamming Charged Attacks at C6 will apply much more Pyro to enemies, allowing you to, with the right team composition, trigger Pyro reactions on command.
+Genshin Pyro Traveler Constellation Analysis
+Pyro Traveler’s Constellations are free. They just require effort playing through the game to unlock them. That said, Traveler needs all the help they can get to be competent at their job.
+Constellation Name
+Abbreviated In-Game Description
+Notes
+C1.
+When the Skill is active, the active character deals 6% more damage; 9% if the character is in the Nightsoul Blessing state (Natlan characters)
+This barely puts a dent in performance. Almost nothing when factoring in team DPS.
+C2.
++14 Nightsoul Points up to two separate times over 12s after using the Skill. Pyro-based reactions trigger this.
+Zero damage improvement besides the indirect buff to Skill duration.
+C3.
+Increase Skill talent level by 3.
+The most important part of their kit, but the damage remains unimpressive. Better than the previous two Constellations, however.
+C4.
+Using the Traveler’s Burst grants +20% Pyro DMG to themselves for 9s.
+This incentivizes using the Burst as often as possible, but it still may not be enough to be worth the Energy Recharge investment.
+C5.
+Increases Burst talent level by 3.
+Negligible; nothing really to see here.
+C6.
+While in Nightsoul Blessing State (after using Skill), the Traveler gains a Pyro infusion on Normal, Charged, or Plunging Attacks, and those attacks’ CRIT DMG (not including Skill and Burst) is boosted by 40%
+This constellation pivots Traveler into being an on-field DPS. The previous passives that granted additional Nightsoul Points become much more valuable, and the CRIT DMG% bonus is very nice, as well.
+Genshin Pyro Traveler's Best Weapons
+Pyro Traveler’s has multiple different builds: Burgeon trigger with full EM, dedicated generic support, and on-field DPS. This makes recommending weapons a little complicated. Please see the notes in the Best-in-Slot options for each playstyle to get a general grasp of all the weapons in that playstyle.
+Weapon Name
+Abbreviated In-Game Description
+Notes
+Favonius Sword
+61.3% Energy Recharge
+CRIT Hits have a 60-100% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 12-6s.
+Best Support and Generalist Option
+Generating energy for the team is enormously helpful and turns any weak sword-wielder into a Support machine. You only need to build a minimum of 30% CRIT Rate to reliably trigger its passive once per rotation.
+Mistsplitter Reforged
+44.1% CRIT DMG
+Gain a 12% Elemental DMG Bonus for all elements and receive the might of the Mistsplitter's Emblem. At stack levels 1/2/3, the Mistsplitter's Emblem provides a 8/16/28% Elemental DMG Bonus for the character's Elemental Type. The character will obtain 1 stack of Mistsplitter's Emblem in each of the following scenarios: Normal Attack deals Elemental DMG (stack lasts 5s), casting Elemental Burst (stack lasts 10s); Energy is less than 100% (stack disappears when Energy is full). Each stack's duration is calculated independently.
+Best for C6 On-Field
+Pyro Traveler wants CRIT weapons that boost the damage of Normal, Charged, and Plunging Attacks. Haran Geppaku Futsu is a close second, here. Black Sword becomes the best Battle Pass option, due to the massive Normal Attack buff and CRIT Rate stat. Lion’s Roar is a solid 4-star from wishing if you can maintain the Pyro aura on enemies.
+Xiphos Moonlight R5
+35.2% HP
+The following effect will trigger every 10s: The equipping character will gain 0.036% Energy Recharge for each point of Elemental Mastery they possess for 12s, with nearby party members gaining 30% of this buff for the same duration. Multiple instances of this weapon can allow this buff to stack. This effect will still trigger even if the character is not on the field.
+Best for Burgeon
+Traveler wants Elemental Mastery is maximize the damage of Burgeon reactions. Technically, Freedom-Sworn is the limited 5-star that offers the most Elemental Mastery, but offering the entire team bonus Energy Recharge just cannot be underestimated. It functions very much like Favonius Sword, but for Elemental Mastery units, it’s straight up better. There’s no need to build CRIT Rate and it helps reactions get stronger. For a craftable option, Iron Sting will get you far.
+Genshin Pyro Traveler's Best Artifacts
+Sands
+– ATK%, ER%, or EM, depending on needs.
+Goblet
+– Pyro DMG% or EM
+Circlet
+– CRIT% or EM
+There a really five options for Traveler depending on your build route, and luckily, three out of four of these options come from resin-efficient dungeons.
+Artifact Set Name
+Abbreviated In-Game Description
+Notes
+4pc Scroll of the Hero of Cinder City
+2pc: When a nearby party member triggers a Nightsoul Burst, the equipping character regenerates 6 Elemental Energy.
+4pc: After the equipping character triggers a reaction, all party members +12% Elemental DMG Bonus for the Elements involved in the reaction for 15s. If the equipping character is in the Nightsoul's Blessing state when triggering this effect, all nearby party members gain an additional 28% Elemental DMG Bonus for 20s. The equipping character can trigger this effect while off-field, and the DMG bonus from Artifact Sets with the same name do not stack.
+Best Generalist Option
+Pyro Traveler will have all buffs active during all points of his field time where it matters. The 2-piece is a guaranteed Favonius weapon proc equivalent, and the 4pc guarantees 40% damage increase.
+4pc Tenacity of Millelith
+2pc: +20% HP
+4pc: Whenever the wielder's Skill hits enemies (even when off-field), the team gains 20% ATK and 30% Shield Strength
+Secondary Support Option.
+ONLY use this set if another support on your team already has 4pc Cinder City, since the sets don’t stack. The 3s interval from Traveler’s Hold Skill is perfect to keep Tenacity active.
+4pc Flower of Paradise Lost
+2pc: +80 EM
+4pc: +40% Hyperbloom, Bloom, and Burgeon DMG. Each time one of these reactions are triggered, +25% of this type of damage for 10s (Max 4 Stacks).
+Best for Burgeon, Least Valuable Resin Investment.
+This is only marginally more efficient than Gilded Dreams for Hyperbloom damage. In many cases, the two artifact sets are comparable.
+4pc Gilded Dreams
+2pc: +80 EM
+4pc: After triggering a reaction, +14% ATK for each same-element character in team. +50 EM for each different-element character in team.
+Best for Burgeon, Best Resin Investment.
+Gilded Dreams sets are more widely usable, and so you'll get a better use of your resin in that dunegon, as Deepwood Dreams artifacts from that dungeon also have wide application.
+4pc Obsidian Codex
+2pc: +15% DMG when in Nightsoul’s Blessing.
+4pc: After the equipping character consumes 1 Nightsoul point while on the field, CRIT Rate increases by 40% for 6s. This effect can trigger once every second.
+Best for C6 On-Field
+Traveler will have all buffs active during all points of her field time where it matters, and no other artifact gives comparable buffs.
+Genshin Pyro Traveler's Best Teams
+Pyro Traveler will primarily want Hydro, Dendro, and occasionally Electro teammates. Dendro is needed for the transformative reactions an EM-based Traveler can trigger, and he can also be played in Burning teams as a support for Kinich. Hydro teammates are best for both on-field DPS and reaction playstyles, since Traveler can Reverse Vaporize attacks thanks to Yelan and Xingqiu.
+Electro teammates are used exclusively in Chevreuse teams that focus on Overloaded reactions. Cryo teammates like Citlali can also be used to forward Melt Traveler’s hits.
+Since their playstyle is so diverse, so are their teammates.
+Guide Character
+Dendro/Hydro/Electro/Cryo
+Flex
+Bennett/Flex
+Specific Teammate Choices
+Teammate Choices
+Character Name
+Notes
+Character Name
+Notes
+Bennett
+Support / Healer
+C1+ Recommended
+Huge Teamwide Flat ATK Buff
+Rapid Healing Within AoE
+Great Pyro energy supplier
+Short Cooldowns on Skill/Burst
+Accessible via Paimon's Bargains
+Mavuika
+Pyro DPS
+Incredible damage when paired with Natlan characters.
+Slow Pyro application works well with Forward Melt reactions.
+No energy requirements
+Perhaps the strongest Pyro DPS at time of writing.
+Arlecchino
+Pyro On-Field DPS
+Extremely potent Pyro DPS
+No energy requirement
+Benefits from having a shield
+Can Forward Melt thanks to standard ICD on infused attacks.
+Emilie
+Dendro Burning DPS/Support
+A near-mandatory teammate for Burning teams
+Low field time and high damage output
+Reduces self-burn by 80%
+Furina
+Off-Field DPS / Support
+Large, universal DMG% buff as long as you have a healer.
+Great personal damage while off-field.
+Decent Hydro application
+Great for long rotations due to long Skill duration.
+Xilonen
+Support
+Natlan character who can hold 4pc Scroll of Cinder City for massive teamwide buffs
+Multiple elemental resistance-shred
+Near-universal Pyro/Electro/Cryo/Hydro buffer
+Extremely flexible
+Often wields Favonius Sword for energy generation.
+Chevreuse
+Overloaded Support
+A mandatory teammate for Overloaded teams
+Shreds Electro and Pyro resistances
+Heals the active player over time
+Often wields Favonius for particle generation
+Kinich
+Dendro On-Field DPS
+The de-facto Burning on-field DPS
+Natlanian character adds to Fighting Spirit when using Mavuika
+Respectable damage output.
+Can reliably keep Burning on enemies thanks to Dendro application.
+Citlali
+Cryo Support
+Natlan support that provides Fighting Spirit for Mavuika
+4pc Cinder City offers huge elemental damage buffs to team.
+Thrilling Tales of Dragon Slayer buffer
+Amplifies Cryo, Hydro, and Pyro reactions and damage for teammates.
+Offers a modest shield.
+Alhaitham
+Dendro On-Field DPS
+Great on-field driver for coordinated attackers
+Enough application for Hyprbloom and Burgeon
+Respectable damage output
+Xingqiu
+Off-Field Hydro DPS
+Consistent Hydro application to ensure reactions.
+Interruption resistance
+Minor healing
+Excellent single-target damage output.
+Paired with Yelan, can often carry a team by themselves.
+Yelan
+Off-Field Hydro DPS
+Consistent Hydro application to ensure reactions.
+Paired with Xingqiu, can often carry a team by themselves.
+Sizeable buff to active character – up to 50% DMG bonus.
+Excellent single-target damage output.
+Nahida
+Dendro Support
+Goddess of Elemental Reactions
+Extremely valuable for Hyperbloom and Burgeon
+Shares EM with team based on who has most EM.
+Can drive coordinated attacks on-field.
+Exceptional Dendro application
+Ororon
+Electro Support / Off-Field DPS
+Natlan character who can hold 4pc Scroll of Cinder City for massive teamwide buffs
+Decent off-field damage
+Can wield a Favonius Bow as a Support
+Up Next:
+Genshin Impact Luna VI Details and Patch Notes
+Previous
+Hypostatic Symphony: Dissonant Verse
+Next
+Genshin Impact Luna VI Details and Patch Notes
+Top Guide Sections
+Genshin Impact Luna VI Details and Patch Notes
+Genshin Impact Luna IV Release Time and Details
+Genshin Impact Luna III Details and Patch Notes
+Genshin Impact Luna II Release Date and Details
+Was this guide helpful?
+Leave feedback
+In This Guide
+Genshin Impact
+HoYoverse
+Initial Release:
+Sep 27, 2020
++2
+Learn more
+Go to comments

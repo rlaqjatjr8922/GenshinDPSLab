@@ -1,0 +1,596 @@
+Home
+Genshin Impact
+All Categories
+Genshin Impact
+Genshin Impact Mika Build: Artifacts, Weapons & Team
+Genshin Impact
+By :
+KingLegend
+Last updated on: 2026-04-19 10:00 PM
+Genshin Impact Mika Build: Artifacts, Weapons & Team
+Find Mika Build, Weapons, and Artifacts that are suitable for Mika here.
+Table of Contents
+Mika Stats
+Best Constellation & Talent Priority For Mika
+Best Weapons For Mika
+Best 3 Stars Polearm Weapons
+Best 4 Stars Polearm Weapons
+Best 5 Stars Polearm Weapons
+Best Artifacts For Mika
+Best Build For Mika
+Best Mika Healer Build
+Best Mika Healer Build Stats
+Best Mika Buffer Build
+Best Mika Mika Buffer Build Stats
+Best Team Build For Mika
+Eula Physical Team
+Mika Stats
+How to get Mika
+Wishes
+Best Constellation & Talent Priority For Mika
+Constellations
+C4-SunFrost:
+Restore 3 energy for Mika after  Skyfeather.
+C6-Companion's Counsel:
+Active characters that affects by Soulwind will deal 60% more Physical CRIT DMG.
+Talent Priority
+1. Burst:
+Mika will help them regenerate HP based on his Max HP. Upgrade this first to increase Regeneration Upon Use and Eagleplume Regeneration.
+2.
+Skill:
+This will increase Cryo DMG and ATK SPD.
+3. Normal ATK:
+Lastly, This will be the last skill that we need to upgrade since he is a healer.
+Best Weapons For Mika
+Best 3 Stars Polearm Weapons
+For newbies, you can't find 4 5 stars weapons at low AR. If you just got
+Mika
+as your first 4 stars character and plan to use her as a healer you can also use these 3 stars weapons to maximize
+Mika's
+healing abilities. Since
+Mika
+is healing based on her HP Base, we will focus on Polearm which provides an
+HP
+or
+ATK%
+if you want to deal with some DMG at low AR.
+1. Black Tassel(Best Healer Polearm)
+This is the best polearm that provides
+HP%
+as a Sub Stats which is really great boost for her healing abilities and
+Increases DMG against Slimes
+by
+40%
+Best 4 Stars Polearm Weapons
+When you get higher AR you will start getting 4 stars weapons. They are P2P or Craft weapons or Battle Pass to use if you don't have primogem to do wishes. Here are a few weapons that are suitable for Mika's play style. Here we are looking for
+Energy Recharge
+for Healer or Crit DMG for sub DPS in these weapons.
+1. Favonius Lance(Best Healer Polearm)
+This is the best healer weapon for Mika that provide
+ER
+as sub-stats and have a
+60%
+chance to regenerate
+6
+Energy which occurs once every
+12s
+so you can healing abilities more.
+2. Prototype Starglitter
+With a huge amount of
+ER%
+as Sub-stats this is a good weapon if you are looking for ER% for uptime abilities.
+3. The Catch
+This polearm also comes with high
+ER%
+and Increased Elemental Burst DMG by
+16%
+and Elemental Burst CRIT Rate by
+6%
+.
+4. Cresent Pike(For Physical DPS Build)
+This is the best Polearm if you plan to use Mika as a Physical DMG dealer.
+5.
+Deathmatch
+Provide Crit Rate and increase 16% both ATK and DEF.
+Best 5 Stars Polearm Weapons
+The only way to get a 5-star weapon for Mika is by wishing. It will randomly drop when you are doing wish if you are a lucky one. There are some 5-star weapons that also fit her if you lost pity on her signature weapons. So we pick these weapon base on
+ER,and HP
+1. Staff of Homa
+With
+HP increased by 20%
+in passive, this is the best 5 stars so far for a healer build. Additionally, provides an ATK Bonus base on 0.8%-1% base on wielder's Max HP.
+2. Engulfing Lightning
+The highest polearm
+ER%
+with ATK increased by 28% of Energy Recharge over the base 100%. You can gain a maximum bonus of 80% ATK. Gain 30% ER for 12s after using an Elemental Burst.
+3. Skyward Spine
+ER%
+sub-stats and Increases CRIT Rate by 8% and increases Normal ATK SPD by 12%. This is a good weapon to use if you want some DMG with dendro reaction build.
+Find out all Polearm Weapon Details.
+Best Artifacts For Mika
+Here is the best artifacts list for Mika from
+best
+to
+good
+.
+Noblesse Oblige
+2 Pieces:
+Elemental Burst DMG +20%
+4 Pieces:
+Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.
+Maiden Beloved
+2 Pieces:
+Elemental Burst DMG +20%
+4 Pieces:
+Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.
+Ocean-Hued Clam
+2 Pieces:
+Healing Bonus +15%
+4 Pieces:
+When the character equipping this artifact set heals a character in the party, a Sea-Dyed Foam will appear for 3 seconds, accumulating the amount of HP recovered from healing (including overflow healing). At the end of the duration, the Sea-Dyed Foam will explode, dealing DMG to nearby opponents based on 90% of the accumulated healing.. Only one Sea Dyed Foam can be produced every 3.5 seconds. Each Sea-Dyed Foam can accumulate up to 30,000HP (including overflow healing). There can be no more one Sea Dyed Foam active at any given time. This effect can still be triggered even when the character who is using this artifact set is not on the field.
+Tenacity of The Millelith
+2 Pieces:
+HP +20%
+4 Pieces:
+When an Elemental Skill hits an opponent, ATK is increased by 9% for 7s. This effect stacks up to 2 times and can be triggered once every 0.3s. Once 2 stacks are reached, the 2 set is increased by 100%.
+The Exile
+2 Pieces:
+Energy Recharge +20%
+4 Pieces:
+Using an Elemental Burst regenerates 2 Energy for all party members (excluding the wearer) every 2s for 6s. This effect cannot stack.
+Find out more Artifacts details.
+Best Build For Mika
+Best Mika Healer Build
+For Mika Healer build Weapon
+, we focus on Mika's Elemental Burst to get higher up time and get more healing and faster so we should prioritize weapon that has high ER and HP%. The best weapon for Mika is
+Favonius Lance
+since it provides Elemental particle and generates 6 Energy giving Mika uptime using skill.
+For Mika Artifacts
+,
+Ocean-Hued Clam
+provides 15% Healing Bonus on 2 pieces which are overall the best for Healer Support Mika. You can also use
+Maiden Beloved
+to boost healing if you lack a healing bonus and increase healing received by all members.
+Best Mika Healer Build Stats
+For best healer artifacts stats are HP% and ER as sub stats because we need to get more healing abilities faster.
+Main Stats
+HP
+ATK
+HP%
+HP%
+Healing Bonus/HP%
+Sub Stats
+CRIT Rate
+Energy Recharge
+HP%
+CRIT DMG
+Best Mika Buffer Build
+For Mika Buffer weapons
+, we focus on ER to up time both skill and burst so we should prioritize a weapon that has a lot of ER and get some energy when using a skill is a big plus.
+Favonius Lance
+should be the best for Mika to regenerate his skill. You can also use Staff of homa which has 20% HP
+For Mika Buffer artifacts
+,
+Nobless Oblige
+is a great artifact to boost ATK for party member for 20% by using Elemental Burst.
+Tenacity of The Millelith
+will be the best artifact for Mika to boost team mate ATK and shield as well as Healing them
+Best Mika Buffer Build Stats
+For best Mika Buffer artifacts stats are ER, HP%, and EM because we need to maximize his healing and ATK boosting with her elemental skill and uptime her elemental skill with additional healing.
+Main Stats
+HP
+ATK
+HP%
+HP%
+Healing Bonus/HP%
+Sub Stats
+CRIT Rate
+Energy Recharge
+HP%
+CRIT DMG
+Best Team Build For Mika
+Eula Physical Team
+Eula
+Eula's Elemental Burst can be maximized by Mika ATK Buff and Physical DMG when he is C6.
+Yae Miko
+Triggered Super conduct to maximize Eula's DMG
+Nahida
+Provide continuous Dendro that triggers with Mika to create Aggravate
+End of Mika Build Guide
+Other Character Build
+Ayato
+Aloy
+Ayaka
+Albedo
+Amber
+Alhaitham
+Beidou
+Barbara
+Baizhu
+Baal
+Bennett
+Cyno
+Chongyun
+Candace
+Dori
+Diona
+Diluc
+Dehya
+Eula
+Faruzan
+Fischl
+Freeminet
+Furina
+Gorou
+Ganyu
+Itto
+Hu Tao
+Heizou
+Jean
+Kuki
+Kokomi
+Kazuha
+Kaeya
+Kaveh
+Kirara
+Kujou Sara
+Keqing
+Lisa
+Collei
+Layla
+Lynette
+Lyney
+Mika
+Mona
+Nahida
+Ningguang
+Noelle
+Neuvillette
+Navia
+Nilou
+Qiqi
+Razor
+Rosaria
+Sayu
+Shenhe
+Sucrose
+Tighnari
+Thoma
+Tartaglia
+Wanderer
+Xiao
+Xinyan
+Xingqiu
+Yun Jin
+Yelan
+Yae Miko
+Yoimiya
+Yanfei
+Zhongli
+Top Articles
+1
+Genshin Impact Anemoculus Locations Map Guide
+2
+Genshin Impact Battle Pass: Gnostic Hymn Rewards, Price, and BP Bounty
+3
+Genshin Impact Top 5 Best F2P Teams Comp
+4
+Diluc Build, Weapons, & Artifacts
+5
+Genshin Impact Foods List - Consumable Items
+View More
+Top Articles
+1
+Genshin Impact Anemoculus Locations Map Guide
+2
+Genshin Impact Battle Pass: Gnostic Hymn Rewards, Price, and BP Bounty
+3
+Genshin Impact Top 5 Best F2P Teams Comp
+4
+Diluc Build, Weapons, & Artifacts
+5
+Genshin Impact Foods List - Consumable Items
+View More
+Top Articles
+1
+Genshin Impact Anemoculus Locations Map Guide
+2
+Genshin Impact Battle Pass: Gnostic Hymn Rewards, Price, and BP Bounty
+3
+Genshin Impact Top 5 Best F2P Teams Comp
+4
+Diluc Build, Weapons, & Artifacts
+5
+Genshin Impact Foods List - Consumable Items
+View More
+Top Articles
+1
+Genshin Impact Anemoculus Locations Map Guide
+2
+Genshin Impact Battle Pass: Gnostic Hymn Rewards, Price, and BP Bounty
+3
+Genshin Impact Top 5 Best F2P Teams Comp
+4
+Diluc Build, Weapons, & Artifacts
+5
+Genshin Impact Foods List - Consumable Items
+View More
+Genshin Impact
+Genshin Impact Fontaine Character: Navia - Leak, Weapon, & Release Date
+Genshin Impact Hydro Archon: Furina - Leak, Weapon, & Release Date
+Genshin Impact X Prime Gaming Rewards: Wing of the Starlit Feast
+Genshin Impact 3.8 Banners: Characters, Weapons, Phases, & Release Date
+Best Catalysts In Genshin Impact 3.7 (June 2023)
+Best Bows In Genshin Impact 3.7 (June 2023)
+Best Polearms In Genshin Impact 3.7 (June 2023)
+Best Claymores In Genshin Impact 3.7 (June 2023)
+Best Swords In Genshin Impact 3.7 (June 2023)
+Best Weapons In Genshin Impact 3.7 (June 2023)
+Genshin Impact Top 5 Best F2P Teams Comp
+Best Characters In Genshin Impact 3.7 (June 2023)
+Genshin Impact Kirara Build: Artifacts, Weapons & Team
+Genshin Impact Candace Build: Artifacts, Weapons & Team
+Genshin Impact Baizhu Build: Artifacts, Weapons & Team
+Genshin Impact Kaveh Build: Artifacts, Weapons & Team
+Genshin Impact Dehya Build: Artifacts, Weapons & Team
+Genshin Impact Mika Build: Artifacts, Weapons & Team
+Genshin Impact Alhaitham Build: Artifacts, Weapons & Team
+Yaoyao Build, Weapons, Artifacts & Team
+All posts on Genshin Impact
+Character Ascension Materials
+Jewels
+Prithiva Topaz Gemstone
+Prithiva Topaz Chunk
+Prithiva Topaz Fragment
+Vayuda Turquoise Gemstone
+Vayuda Turquoise Chunk
+Prithiva Topaz Sliver
+Vayuda Turquoise Fragment
+Shivada Jade Gemstone
+Vayuda Turquoise Sliver
+Shivada Jade Sliver
+Shivada Jade Chunk
+Vajrada Amethyst Gemstone
+Vajrada Amethyst Chunk
+Varunada Lazurite Gemstone
+Vajrada Amethyst Fragment
+Varunada Lazurite Chunk
+Vajrada Amethyst Sliver
+Varunada Lazurite Fragment
+Shivada Jade Fragment
+Varunada Lazurite Sliver
+All posts on Jewels
+Elemental Stones
+Dragonheir's False Fin
+Riftborn Regalia
+Storm Beads
+Smoldering Pearl
+Perpetual Heart
+Marionette Core
+Juvenile Jade
+Dream Solvent
+Dew of Repudiation
+Crystalline Bloom
+Everflame Seed
+Cleansing Heart
+Hoarfrost Core
+Basalt Pillar
+Hurricane Seed
+Lightning Prism
+Common Materials
+Statuette
+Chaos
+Handguard
+Nectar
+Golden Raven Insignia
+Silver Raven Insignia
+Treasure Hoarders Insignis
+Officer's Insignia
+Weathered Arrowhead
+Sergeant's Insignia
+Sharp Arrowhead
+Recruit's Insignia
+Firm Arrowhead
+Ominous Mask
+Forbidden Curse Scroll
+Stained Mask
+Seal Scroll
+Damaged Mask
+Divining Scroll
+Slime Concentrate
+All posts on Common Materials
+Local Materials
+Violetgrass
+Silk Flower
+Qingxin
+Noctilucous Jade
+Jueyun Chili
+Glaze Lily
+Cor Lapis
+Wolfhook
+Windwheel Aster
+Valberry
+Small Lamp Grass
+Philanemo Mushroom
+Dandelion Seed
+Cecilia
+Calla Lily
+Talent Level-Up
+Wanderer's Advice
+Adventurer's Experience
+Hero's Wit
+Weapon Ascension Materials
+Primary Ascension
+Chunk of Aerosiderite
+Bit of Aerosiderite
+Piece of Aerosiderite
+Dream of the Dandelion Gladiator
+Grain of Aerosiderite
+Schackles of the Dandelion Gladiator
+Chains of the Dandelion Gladiator
+Mist Veiled Primo Elixir
+Bonds of the Dandelion Gladiator
+Mist Veiled Gold Elixir
+Mist Veiled Mercury Elixir
+Mist Veiled Lead Elixir
+Boreal Wolf's Nostalgia
+Boreal Wolf's Broken Fang
+Divine Body From Guyun
+Boreal Wolf's Cracked Tooth
+Relic From Guyun
+Boreal Wolf's Milk Tooth
+Lustrous Stone From Guyun
+Scattered Piece of Decarabian's Dream
+All posts on Primary Ascension
+Secondary Ascension
+Chaos Core
+Chaos Device
+Chaos Circuit
+Ley Line Sprouts
+Dead Ley Line Leaves
+Dead Ley Line Branches
+Inspector's Sacrificial Knife
+Agent's Sacrificial Knife
+Hunter's Sacrificial Knife
+Heavy Horn
+Mist Grass Lamp
+Mist Grass
+Build List
+Arlecchino Build: Teams, Weapons, & Artifacts
+Chiori Build: Teams, Weapons, & Artifacts
+Xianyun Build: Teams, Weapons, & Artifacts
+Gaming Build: Teams, Weapons, & Artifacts
+Chevreuse Build, Weapons, Artifacts & Teams
+Genshin Impact Dori Build: Artifacts, Weapons & Team
+Collei Build, Weapons, & Artifacts
+Faruzan Build, Weapons, & Artifacts
+Wanderer Build, Weapons, & Artifacts
+Layla Build, Weapons, & Artifacts
+Nahida Build, Weapons, & Artifacts
+Nilou Build, Weapons, & Artifacts
+Cyno Build, Weapons, & Artifacts
+Tighnari Build, Weapons, & Artifacts
+Collei Build, Weapons, & Artifacts
+Kuki Shinobu Build, Weapons, & Artifacts
+Shikanoin Heizou Build, Weapons, & Artifacts
+Yelan Build, Weapons, & Artifacts
+Kamisato Ayato Build, Weapons, & Artifacts
+Yae Miko Build, Weapons, & Artifacts
+All posts on Build List
+Wiki Page
+Genshin Impact Character Ascension Materials
+Genshin Impact Artifacts List
+Genshin Impact Materials List
+Genshin Impact Foods List - Consumable Items
+Genshin Impact Characters List
+Genshin Impact Weapon List, Rarity, and Leveling Up
+Materials List
+Character EXP
+Character Ascension
+Weapon Enhancement
+Mystic Enhancement Ore
+Fine Enhancement Ore
+Enhancement Ore
+Weapon Ascension
+Fragment of Decarabian's Epic
+Debris of Decarabian's City
+Common Ascension
+Black Crystal Horn
+Black Copper Horn
+Mist Flower Pollen
+Local Specialty
+Weapons List
+Catalysts List
+Polearms List
+Swords List
+Claymores List
+Bows List
+Weapons
+Genshin | Dragon Bane Best Character & How to Get | Genshin Impact
+Genshin | Crescent Pike Best Character & How to Get | Genshin Impact
+Genshin | Prototype Archaic Best Character & How to Get | Genshin Impact
+Genshin | Rightful Reward Best Character & How to Get | Genshin Impact
+Genshin | Verdict Best Character & How to Get | Genshin Impact
+Genshin | The Catch Best Character & How to Get | Genshin Impact
+Genshin Impact Tidal Shadow Best Character & How to get
+Thundering Pulse - Tier, Best User, & How to get
+A Thousand Floating Dreams - Tier, Best User, & How to get
+Jadefall's Splendor - Tier, Best User, & How to Use
+End of the Line Bow Stats, Passive Ranks, & Ascension
+Hunter's Path Bow Stats, Passive Ranks, & Ascension
+King's Squire Bow Stats, Passive Ranks, & Ascension
+Kagotsurube Isshin Stats, Passive Ranks, & Ascension
+Fading Twilight Stats, Passive Ranks, & Ascension
+Aqua Simulacra Stats, Passive, Ranks, & Ascension
+Haran Geppaku Futsu Stats, Passive Ranks, & Ascension
+Kagura's Verity Stats, Passive Ranks, & Ascension
+Oathsworn Eye Stats, Passive Ranks, & Ascension
+Cinnabar Spindle Stats, Passive Ranks, & Ascension
+All posts on Weapons
+Characters
+Arlecchino Kit, Material, & Detail | Genshin Impact
+Chiori Kit, Material, & Detail | Genshin Impact
+Xianyun Materials, Skills, & Constellation
+Gaming Materials, Skills, & Constellation
+Genshin Impact Chevreuse Materials, Talent, & Constellation
+Tighnari Skills, Constellation, Talent, & Ascension Material
+Dori Skills, Constellation, Talent, & Ascension Material
+Collei Skills, Constellation, Talent, & Ascension Material
+Shikanoin Heizou Skills, Constellation, Talent, & Ascension Material
+Yelan Skills, Constellation, Talent, & Ascension Material
+Kuki Shinobu Skills, Constellation, Talent, & Ascension Material
+Kamisato Ayato Skills, Constellation, Talent, & Ascension Material
+Yae Miko Skills, Constellation, Talent, & Ascension Material
+Shenhe Skills, Constellation, Talent, & Ascension Material
+Yun Jin Skills, Constellations, Talents, & Ascension Materials
+Arataki Itto Skills, Constellation, Talent, & Ascension Material
+Gorou Skills, Constellations, Talents, & Ascension Materials
+Aloy Skills, Constellation, Talents, & Ascension Materials
+Thoma Skills, Constellation, Talents, & Ascension Materials
+Kujou Sara Skills, Constellation, Talent, & Ascension Material
+All posts on Characters
+Tier List
+Best Sword in Genshin Impact Tier List
+Best Catalyst in Genshin Impact Tier List
+Best Polearm in Genshin Impact Tier List
+Best Claymore In Genshin Impact Tier List
+Best Bow in Genshin Impact Tier List
+Best Character in Genshin Impact Tier List [Version 2.0]
+Battle Pass
+Genshin Impact Battle Pass: Gnostic Hymn Rewards, Price, and BP Bounty
+Leaks
+Genshin Impact 2.8 Leaks: Release Date. Upcoming Characters, & New Skins
+Genshin Impact Version 2.5 Leaks: New Characters, Rerun Banner, Event & Release Date
+Genshin Impact 2.5 Upcoming Character Banner
+Arataki Itto Banner Leaks: 4 Stars Characters, Weapons, & Release Date
+Genshin Impact Version 2.4 Leaks: New Characters, New Area, Rerun Banner, Event & Release Date
+Genshin Impact 2.3 Upcoming New Characters
+Upcoming Character Genshin Impact 1.7
+Xiao Banner and Weapon Banner in Genshin Impact 1.3
+Genshin Impact 1.3 Leaks, New Character, and Release Date
+Ganyu Banner Genshin Impact 1.2
+Albedo Banner And Weapon Banner Leak Genshin Impact 1.2
+Genshin Impact Characters Leaks 1.2
+Genshin Impact Characters Leaks 1.1
+Gameplay Guide
+Dendrobium Location Map & Farm Route | Genshin Impact
+Kalpalata Lotus Location Map & Farm Route | Genshin Impact
+Clearwater Jade Location Map & Farm Route | Genshin Impact
+Genshin Impact Lantern Rite 2024: Guide & Rewards
+Spirit Carp Location Map & Farm Route | Genshin Impact
+How to do Quicken reaction in Genshin Impact
+Amakumo Fruit Location Map & Farm Route | Genshin
+Genshin Impact Prosperous Partnerships Best 4 star Characters
+Sango Pearl Location, Respawn Time & How To Get Genshin Impact 2.3
+Onikabuto Location & How To Get Genshin Impact 2.3
+Genshin Impact Moonchase Charm All Location Map
+Genshin Impact Mystmoon Chest Map Location
+Genshin Impact Fishing Guide, Locations, Spots, Bait, and Respawn Time
+Genshin Impact Wishful Drops Event
+Genshin Impact Invitation of Windblume Event
+Genshin Impact Vishaps and Where to Find Them Event
+Genshin Impact Ley Line Overflow Event
+Genshin Impact Stand By Me Best 4 star Character
+Genshin Impact Theater Mechanicus Event
+Genshin Impact Lantern Rite Event
+All posts on Gameplay Guide

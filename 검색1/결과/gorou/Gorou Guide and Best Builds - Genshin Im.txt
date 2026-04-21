@@ -1,0 +1,439 @@
+Home
+/
+Genshin Impact
+/
+Character List
+/
+Gorou Build
+Gorou Guide and Best Builds
+Gorou is the 4-Star
+Geo
+bow user from Inazuma who
+buffs Defense and Geo Damage. Read our Gorou guide to learn more about
+Gorou's kit, Gorou's best Builds and also his Ascension and Talent Materials.
+Last updated
+on
+Oct 20, 2025
+at
+02:48
+by
+Jaymo
+1 comment
+A
+Rank
+Geo
+Element
+Bow
+Weapon
+★
+★
+★
+★
+★
+Rarity
+Cory Yee
+EN Voice Actor
+Hatanaka Tasuku
+JP Voice Actor
+Gorou's Strengths & Weaknesses
+Strengths
+Easy to play.
+Perfect support for Geo teams.
+Rare character who boosts other character's DEF.
+Low investments needed for his build.
+Weaknesses
+Very limited team possibilities being tied heavily to Geo.
+Low energy generation.
+Most of his power is locked behind his constellations.
+1.
+Gorou Build Guide, Best Artifacts, Weapons and Talent Priority
+Gorou's best build is as a support. He has a unique ability to buff his teammate's DEF 
+and
+Geo
+DMG, making him the perfect support for
+Geo
+teams.
+BiS Weapon
+Favonius Warbow
+Alternative Weapons
+Sacrificial Bow
+Elegy for the End
+The Stringless
+End of the Line
+Best Artifacts
+The Exile
+Emblem of Severed Fate
++
+Husk of Opulent Dreams
+Noblesse Oblige
+Main Stats
+Sand Stats:
+Energy Recharge
+Goblet Stats:
+DEF %
+Circlet Stats:
+DEF % / CRIT Rate
+Substat Priority
+Energy Recharge to requirement
+DEF %
+CRIT Rate
+Talent Priority
+Elemental Skill
+Elemental Burst
+Normal Attack
+Gorou's best-in-slot weapon for this build is
+Favonius Warbow
+. Not only do 
+you obtain a free Favonius Warbow when you complete the first Archon Quest, but it 
+provides Gorou with Energy Recharge that is heavily needed on him. This weapon also allows Gorou 
+as well to be a battery for his teammates. If for some reason you can not equip
+Favonius Warbow
+on your Gorou, any Bow with Energy Recharge as main stat will do the job, just know that their 
+passives may be wasted on Gorou.
+For this Gorou Build we recommend you use
+The Exile
+. While it is only a 4-star 
+Artifact set, it provides energy recharge, making it a competitive option for Gorou.
+Noblesse Oblige
+is a good choice as well since it provides a team-wide buff, but 
+the ATK on it may be wasted. We recommend you wear it on another teammate instead. 
+You can also go for a 2-piece
+Husk of Opulent Dreams
+and 2-piece
+Emblem of Severed Fate
+for more DEF % and Energy Recharge.
+You do not have to invest in Gorou's Normal Attack, it is fully optional as you will not 
+really need it.
+2.
+Recommended Endgame Build Stats for Gorou
+Build recommendations assume a "decently built" level of artifact rolls alongside 
+Gorou's best weapon. Using other weapons may increase or decrease certain stats relative to these recommendations.
+DEF:
+1400 - 1800
+CRIT Rate:
+40 - 55%
+ER:
++220%
+For this build, Gorou's energy recharge is important so we can always have his Elemental Burst available 
+as soon as the cooldown is over. Aim for at least 220% ER with
+Favonius Warbow
+, and more without it. 
+You also need some CRIT Rate for the
+Favonius Warbow
+passive.
+After you reach the energy requirements, you will have to invest in a lot of Defense as Gorou's
+A Favor Repaid
+increases his Skill DMG based on his DEF. Additionally, if you have his C4
+Lapping Hound: Warm as Water
+, the healing Gorou provides 
+also scales on his DEF.
+3.
+Gorou Combos and How to Play
+Gorou's Elemental Skill
+Inuzaka All-Round Defense
+is what makes 
+him a specific
+Geo
+support. Depending on the number of 
+other
+Geo
+characters in the team you can get the following buffs:
+1
+Geo
+Character - DEF Bonus
+2
+Geo
+Characters - Increases the resistance to interruption
+3
+Geo
+Characters - Increases
+Geo
+DMG Bonus
+Of course if you have 3
+Geo
+characters, you gain all 
+three bonuses. Gorou counts as well, so you need at least two other
+Geo
+characters.
+When Gorou uses his Elemental skill it puts a Banner on the ground, and you have to stand in 
+the Banner's area with your active character to get the previously mentioned bonuses.
+Gorou's Elemental Burst
+Juuga: Forward Unto Victory
+will spawn a small floating dog 
+with an AoE zone which will follow the active character. This dog will periodically 
+deal
+Geo
+DMG to opponents in it's AoE area. It also provides 
+the same buffs and Gorou's skill.
+You will want to use his Burst first when available, and his skill next. Note that 
+when the burst is active, no banner is generated, but you still have the same bonuses from 
+the burst.
+4.
+Gorou's Best Team Comps
+Gorou functions best with
+Geo
+teams due to his three bonuses.
+You will want to add at least two
+Geo
+characters to maximize Gorou's 
+support abilities.
+4.1.
+Gorou Mono Geo Teams
+Main DPS
+Support
+Sub DPS
+Support
+Arataki Itto
+Gorou
+Chiori
+Xilonen
+Noelle
+Gorou
+Albedo
+Zhongli
+This is the best team builds for Gorou who is the perfect support for
+Geo
+DPS such as
+Arataki Itto
+or
+Noelle
+.
+Chiori
+or
+Albedo
+are two good additional DPS for Geo teams with their off-field DMG.
+Zhongli
+and
+Xilonen
+are an additional support.
+Main DPS
+Support
+Sub DPS
+Sub DPS
+Noelle
+Gorou
+Chiori
+Furina
+You can choose to switch the fourth slot with a flex character from another element, as 
+Gorou only requires 2 additional
+Geo
+character to maximize his buffs, 
+allowing to add characters such as
+Furina
+which can also provide some 
+buffs and additional DPS to the team.
+5.
+Gorou's Ascensions, Talents, and Constellations
+Gorou Ascensions
+Gorou Talents
+Gorou Constellations
+5.1.
+Gorou Ascension Passives and Materials
+Unlock
+Ascension Passive
+Explanation
+With Character
+Seeker of Shinies
+Displays the location of nearby resources unique to Inazuma on the mini-map.
+1st Ascension
+Heedless of the Wind and Weather
+After using
+Juuga: Forward Unto Victory
+, all nearby party members' DEF is increased by 25% for 12s.
+4th Ascension
+A Favor Repaid
+Gorou receives the following DMG Bonuses to his attacks based on his DEF:
+Inuzaka All-Round Defense
+: Skill DMG increased by 156% of DEF
+Juuga: Forward Unto Victory
+: Skill DMG and Crystal Collapse DMG increased by 15.6% of DEF
+Gorou requires a range of materials to ascend to the 6th ascension.
+Starting from the second ascension he gains additional
+Geo
+DMG
+Bonus as he levels, giving a total of 24% Bonus Geo DMG Bonus at the final
+ascension. The total cost to upgrade all ascensions is:
+Source
+Quantity
+Mora
+420,000 Mora
+Boss Material
+46x
+Perpetual Heart
+Ascension Material
+1x
+Prithiva Topaz Sliver
+9x
+Prithiva Topaz Fragment
+9x
+Prithiva Topaz Chunk
+6x
+Prithiva Topaz Gemstone
+Local Specialty
+168x
+Sango Pearl
+Enhancement Material
+18x
+Spectral Husk
+30x
+Spectral Heart
+36x
+Spectral Nucleus
+5.2.
+Gorou's Talents
+Listed below is each talent and a brief explanation of how they work.
+Type
+Talent Name
+Brief Explanation
+Normal
+Ripping Fang Fletching
+Standard normal attack performs 4 consecutive bow strikes. Charged Attack
+    unleashes a
+Geo
+DMG shot after a short charge up.
+    Plunging Attacks strike the ground below, dealing AoE DMG upon impact.
+Elemental Skill
+Inuzaka All-Round Defense
+Sets up a General's War Banner inside a large AoE ring. The General's War
+    Banner provides buffs to the active character depending on the number of
+Geo
+-based characters are on your team.
+1 Geo character: Adds "Standing Firm" - DEF Bonus.
+2 Geo characters: Adds "Impregnable" - Increased resistance to interruption.
+3 Geo characters: Adds "Crunch" -
+Geo DMG Bonus
+.
+Elemental Burst
+Juuga: Forward Unto Victory
+Deals Aoe Geo DMG and creates a field around the active character
+    known as the General's Glory. The General's Glory provides the following
+    bonuses to characters.
+Like the General's War Banner created by Inuzaka All-Round Defense,
+      provides buffs to active characters within the skill's AoE based on the
+      number of Geo characters in the party. Also moves together with your
+      active character.
+Generates 1 Crystal Collapse every 1.5s that deals AoE Geo DMG to 1
+      opponent within the skill's AoE.
+Pulls 1 elemental shard in the skill's AoE to your active character's
+      position every 1.5s (elemental shards are created by
+Crystallize
+reactions).
+To upgrade a single talent to level 10, it costs:
+Source
+Quantity
+Mora
+1,625,500 Mora
+Special Material
+1x
+Crown of Insight
+Boss Material
+6x
+Molten Moment
+Domain Material
+3x
+Teachings of Light
+21x
+Guide to Light
+38x
+Philosophies of Light
+Enhancement Material
+6x
+Spectral Husk
+22x
+Spectral Heart
+31x
+Spectral Nucleus
+5.3.
+Gorou's Constellations
+Gorou's constellations are rather good as they offer him even more abilities to buff 
+his teammates, on top of adding a bit of healing. However, it is a 4-star character, meaning you 
+will most likely get his constellations with time, so we do not recommend you try to 
+target-farm for them.
+#
+Name
+Explanation
+C1
+Rushing Hound: Swift as the Wind
+When characters (other than Gorou) within the AoE of Gorou's General's
+    War Banner or General's Glory deal Geo DMG to opponents, the CD of Gorou's
+Inuzaka All-Round Defense
+is decreased by 2s. This
+    effect can occur once every 10s.
+C2
+Sitting Hound: Steady as a Clock
+While General's Glory is in effect, its duration is extended by 1s when
+    a nearby active character obtains an Elemental Shard from a
+Crystallize
+reaction. This effect can occur once
+    every 0.1s. Max extension is 3s.
+C3
+Mauling Hound: Fierce as Fire
+Increases the Level of
+Inuzaka All-Round Defense
+by 3.
+Maximum upgrade level is 15.
+C4
+Lapping Hound: Warm as Water
+When General's Glory is in the "Impregnable" or "Crunch" states, it will
+    also heal active characters within its AoE by 50% of Gorou's own DEF every
+    1.5s.
+C5
+Striking Hound: Thunderous Force
+Increases the Level of
+Juuga: Forward Unto Victory
+by 3.
+Maximum upgrade level is 15.
+C6
+Valiant Hound: Mountainous Fealty
+For 12s after using Inuzaka All-Round Defense or Juuga: Forward Unto
+    Victory, increases the CRIT DMG of all nearby party members'
+Geo
+DMG based on the buff level of the skill's field at
+    the time of use:
+"Standing Firm": +10%
+"Impregnable": +20%
+"Crunch": +40%
+This effect cannot stack and will take reference from the last
+    instance of the effect that is triggered.
+Changelog
+20 Oct. 2025:
+Updated for Luna II.
+30 Jul. 2025:
+Updated for 5.8.
+17 Jun. 2025:
+Updated for 5.7.
+06 May 2025:
+Updated for 5.6.
+25 Mar. 2025:
+Updated for 5.5.
+11 Feb. 2025:
+Build updated for 5.3.
+18 Oct. 2024:
+Team added for Update 5.1 characters.
+16 Apr. 2024:
+Guide added.
+Show more
+Show less
+Need any help? Check out our
+General Discussion Forum
+!
+1 comment
+In The Same Category
+Zibai Profile & Talents
+Zibai Team Guide
+Illuga Profile & Talents
+Zhongli Best Builds Guide
+Yun-Jin Best Builds Guide
+Navia Best Builds Guide
+Chiori Profile & Talents
+Linnea Profile & Talents
+Linnea Best Builds Guide
+Arataki Itto Best Builds Guide
+Noelle Best Builds Guide
+Xilonen Team Guide
+ABOUT THE AUTHOR
+Written by Jaymo, a longtime gamer who spends way too many hours exploring
+        open worlds, grinding in MMOs, and pulling for his favorite gacha characters.
+        He covers news and guides for all kinds of games, and just likes helping people
+        enjoy them more. You can find him hanging out on Twitch or chatting in Discord (jaym0).
+SUPPORT OUR WRITERS

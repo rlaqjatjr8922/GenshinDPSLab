@@ -1,0 +1,471 @@
+Xiao Mains Guide - Teams
+Search this site
+Embedded Files
+Skip to main content
+Skip to navigation
+Xiao Mains Guide
+Main Guide
+Weapons
+Supports
+Teams
+Gameplay
+Optimizer
+Changelog
+Other Guides
+Should You Wish for Xiao?
+C6 Guide
+Lithic Teams Thesis
+Faruzan Guide
+Xianyun Guide
+Xiaoden Guide
+Other Helpful Links
+Xiao Mains Guide
+Main Guide
+Weapons
+Supports
+Teams
+Gameplay
+Optimizer
+Changelog
+Other Guides
+Should You Wish for Xiao?
+C6 Guide
+Lithic Teams Thesis
+Faruzan Guide
+Xianyun Guide
+Xiaoden Guide
+Other Helpful Links
+More
+Main Guide
+Weapons
+Supports
+Teams
+Gameplay
+Optimizer
+Changelog
+Other Guides
+Should You Wish for Xiao?
+C6 Guide
+Lithic Teams Thesis
+Faruzan Guide
+Xianyun Guide
+Xiaoden Guide
+Other Helpful Links
+Teams
+Expanded Guide on Xiao's
+Team Options
+Table of Contents
+Combo Notation
+Overview
+Battery
+Xiao Team Comp Formula
+Example Team Comps
+👑 FXX 👑
+Xiao Hypercarry
+Xiaorina
+Xiao Faruzan Triple Anemo
+Xiao Double Geo
+Xiao Double Pyro
+Xiao Double Cryo
+Xiao Self Battery / No Battery
+Lithic Teams
+Xiaoden
+Combo Notation
+N(#):
+Normal Attack (NA)
+. # refers to the number of consecutive NAs
+in the attack string. E
+.g.
+: N2 = NA twice.
+C
+or
+CA:
+Charged Attack
+E, hE:
+Elemental Skill, Hold Elemental Skill respectively
+Q:
+Elemental Burst
+P, HP, LP:
+Plunge, High Plunge, Low Plunge respectively
+J:
+Jump
+Overview
+Xiao is a Hypercarry, meaning that he should be on the field dealing damage as often as possible. Consequently, his most synergistic supports will help ensure the following:
+Xiao has enough energy to ensure consistent Bursts.
+Xiao’s time on-field dealing damage is maximized.
+Xiao’s team rotations are kept as short as possible.
+Xiao does not die.
+Xiao’s damage in Burst is being supported by his team and for as long as possible.
+To achieve these goals, we can generally categorize his supports into the following roles:
+Battery
+: Funds Xiao Energy for continuous Bursts
+Off-Field DPS / Burst DPS:
+A secondary damage dealer whose damage can be dealt off-field or quickly on ability cast.
+Sustain
+: Heals Xiao from enemy damage and Burst HP drain, or shields him from enemy damage
+Utility
+: Buffs Xiao’s damage, reduces enemy’s Defense/Resistance, provides anti-stagger, or offers crowd control for easier AoE
+Battery
+For more energy mechanics, please see
+Energy Management
+.
+Xiao is a character whose damage is reliant on the utilization of his Elemental Burst. For this reason, we strongly recommend a battery to reliably obtain his Burst back.
+The battery generates particles using their own Skills and then swaps to Xiao so that their particles “funnel” into Xiao and fund his Burst. As Xiao will gain more Energy absorbing Anemo Particles than other Elemental Particles, we generally recommend Anemo batteries.
+Note
+: If your Xiao team is strong enough to only require 1-2 Bursts to clear content, then you may not need to run a dedicated Anemo battery.
+Xiao Team Comp Formula
+The basics of Xiao’s team is pairing him with a battery and two flex characters. We recommend that at least one of these flex characters helps Xiao's sustain in order to ensure consistent and comfortable clears.
+However, t
+here is no set formula for creating a viable Xiao team. As long as the above five conditions are met, then his supports and build can be flex
+ible
+to meet individual enemy and Abyss chamber needs.
+Example Team Comps
+Disclaimer 1
+: This is not an exhaustive list. Many of these team comps are flexible, and many supports can be flexed in place of other options. Team comps in Spiral Abyss are also highly dependent per chamber. For specific team building advice, please visit Xiao Mains’ Discord and ask in the #questions and #spiral·abyss channels.
+Disclaimer 2
+:
+While this guide highlights certain teams themed around Elemental Resonances,
+Elemental Resonance bonuses are generally overrated and not necessary with Xiao
+. It is better to prioritize a character’s overall value in the team comp beyond just enabling certain Resonance bonuses.
+👑
+FXX
+👑
+Xiao's strongest teams have C6 Faruzan and Xianyun, as they cover many of Xiao's needs and have great synergy on multiple fronts.
+Energy
+: Since all three generate abundant Anemo particles, they can lower each other's ER requirements. This allows Xiao to allocate more CRIT and ATK substats, and Xianyun to allocate more ATK substats to increase her Flat DMG buff.
+Buffs
+: C6 Faruzan and C0/C2 Xianyun provide Xiao with enormous buffs, including Anemo RES Shred, CRIT, and Flat DMG.
+Sustain:
+Xianyun's heals keep the team alive.
+Utility
+:
+Eliminates virtually all "Circle Impact" due to Xianyun's buffs following the active character and Faruzan's
+Burst being wide-range.
+Considerations
+C6 Faruzan is not required to play this team. However, you may have to limit 4th team member options, adjust rotations, or build additional ER to account for the lack of
+energy
+.
+Xianyun Constellations are not required to play this team.
+However, they improve performance significantly: her C1 provides additional particles and her C2 doubles her Flat DMG buff, both of which are notable for endgame content like Stygian Onslaught.
+Flex Slot Options
+Because the FXX core is so self-sustaining, the last member of the team can be flexed based on who is available or enemy-specific requirements.
+Generally, the strongest option will be
+Furina
+or
+Durin
+. Both serve a similar function as supportive off-field damage dealers.
+Furina
+is a single-target focused Sub-DPS that provides DMG% bonus.
+Durin
+(Purity)
+is an AOE focused Sub-DPS that provides Anemo and Pyro RES Shred.
+We discuss these two teams in more detail below.
+Rotations
+Because of Furina and Durin's long ability durations, they play near identically in Xiao rotations.
+C6 Faruzan
+: Faruzan Q > Furina EQ / Durin EEQ > Xianyun EPQ > Xiao EE Q
+Non-C6 Faruzan
+: Faruzan EQ > Furina EQ  / Durin EEQ > Xianyun EPQ > Faruzan CA > Xiao EE Q E*
+*funnel one of Xiao's Skill particles after his Burst ends
+Furina Variant: FFXX (Final Fantasy 20)
+Xianyun's team-wide healing synergizes well with Furina's HP-draining mechanics, allowing her to consistently stack Fanfare while keeping the team healthy.
+Xianyun's Flat DMG buff scales with the DMG% provided by Furina's Burst.
+Furina's Elemental Skill generates particles throughout its duration so Xiao can absorb her energy particles while he is on-field, lowering his ER requirements.
+Durin Variant: FDXX (FedEx)
+Durin shreds Anemo and Pyro RES for the whole party, boosting damage for all team members.
+With Constellations, Durin also provides Flat DMG (C1) and DMG% (C2) buffs for the whole team.
+Durin vs Furina
+Overall, C0 Durin performs below C0 Furina. However, the gap in performance is small enough that their relative performance may change depending on multiple factors.
+Durin will tend to perform better against enemies with high Anemo RES or in AOE scenarios.
+At lower build investment where Furina’s personal damage contribution is diminished, Durin’s RES Shred may prove more valuable as it buffs Xiao’s damage directly.
+Durin has less personal ER requirements, which may make him more comfortable for energy deficient scenarios (i.e., Stygian Onslaught where characters start at 0 energy).
+Durin’s Constellations also help to decrease the gap between him and Furina. At C2, he may perform equally to Furina in non-VHA teams due to his team wide Flat DMG buffs, which increase the value of DMG% and CRIT stats.
+Source:
+Furina vs. Durin sheet
+by felic1an
+Xiao
+Hypercarry
+Xiao
+'s traditional Hypercarry teams focus on purely buffing Xiao's personal damage. They generally consist of
+C6 Faruzan and Bennett
+or Iansan,
+as these two supports provide not only huge personal buffs (Anemo DMG, RES Shred, CRIT DMG, ATK) but also satisfy Xiao's battery and sustain requirements.
+Sucrose with TTDS also functions as a viable Faruzan replacement, though not to the same efficacy.
+Considerations
+Team's DPS scales
+almost entirely off of Xiao's investment, with
+optional
+investment for his supports.
+Bennett's Burst creates "circle impact" for the team. If Xiao is forced outside of Bennett's Burst range, the team's DPS will drop dramatically.
+Iansan is a great alternative to Bennett, offering a comparable ATK buff. With her C6, she offers more buffs than Bennett due to her increased Burst duration (12s -> 15s).
+Flex Options
+Zhongli
+-
+Strong shield for survivability and Interruption Resistance. Additional RES Shred and buffs. His RES Shred is diminished in value with Faruzan’s Anemo RES Shred, but it is still valuable (especially for high Anemo RES enemies).
+Furina
+- Strong off-field DPS and buffs. Note: Furina will be unable to maximize Fanfare in this team at C0. See
+Xiaorina section below.
+Xianyun
+- Provides significant Flat DMG and minor CRIT Rate buffs to Xiao's Plunge Attacks. R1 Crane's Echoing Call can also provide Plunge Attack DMG%.
+Generates 5 Anemo particles on Skill-Plunge.
+Jean C4
+-
+Provides Anemo RES Shred and can wield Freedom-Sworn for additional ATK% and Plunge DMG buffs. When built for damage, also provides notable Burst DPS on cast.
+Yelan
+- Offers a high amount of single-target DPS and DMG Bonus through her Burst and A4, respectively. Requires N1 cancels to proc her Burst.
+Thoma
+- Long duration shield with 15% Plunge DMG Bonus at C6. However, it is not recommended to run Thoma in this slot unless he is C6 due to energy constraints, requiring lingering NA cancels, and limited utility.
+Xiaorina
+Xiao
+can benefit from Furina's strong off-field DPS and buffs, both of which have full uptime and no range limitations. To sustain both Xiao's self HP drain and Furina's party-wide HP drain, this team is generally incentivized to run a party-wide healer that can
+stack Fanfare points quickly and
+ensure the whole team stays HP positive.
+However, Furina can still be of great advantage to traditional Xiao-Bennett teams. Despite Bennett only healing the on-field character to 70% of their max HP (and thus cannot reliably proc Furina's A1 to heal the team), his strong ATK buffs make up for the reduced Fanfare points.
+Considerations
+High team DPS due to Furina buffing both her own and Xiao's damage. See
+XiaoRina sheet by itslin
+for team damage comparisons.
+Team DPS scales with both Xiao and Furina's investment. Furina's constellations (notably C2) increase both the team's DPS and team building flexibility.
+Furina can stack Fanfare points much more easily, granting the entire party up to 100% DMG Bonus.
+Due to the quick stacking, Bennett can be used as the solo healer and still allow the team to maximize Fanfare, although Jean is still the best option for capping C2 Furina's max HP increase.
+Incentivizes a strong party-wide healer to maximize Fanfare points.
+Generally more fragile, as Xiao is losing HP more quickly while on-field and may be lacking a defensive option in this team.
+Healer Options
+Xianyun
+- Provides consistent team-wide healing to maintain the entire team's HP and stack Fanfare. Provides significant Flat DMG and minor CRIT Rate buffs to Xiao's Plunge Attacks.
+Generates 5 Anemo particles on Skill-Plunge.
+Jean
+-
+She can
+fully heal
+everyone's HP with her
+initial
+Burst, battery Xiao, and provide buffs with 4pc NO
+,
+her C4,
+and
+Freedom Sworn.
+Bennett
+-
+Bennett's heals will mainly target Xiao and only trigger when he falls below 70% HP. Thus, Furina cannot reliably use her A1 to heal other party members and she will be unable to maximize Fanfare at C0.
+However, Bennett's strong ATK buffs to Xiao's personal DPS make up for the loss in DMG% from Fanfare.
+Bennett's drawbacks are relaxed with C2 Furina, as she can stack Fanfare much more quickly.
+Other healers are viable in this slot but with reduced efficacy.
+Flex
+Options
+Faruzan
+-
+BiS support. Use her if you have her C2+.
+Zhongli
+- Strong shield for survivability and Interruption Resistance. Additional RES Shred and buffs. Provides additional comfort on this team to minimize HP loss from enemy attacks.
+Yelan
+-
+Offers a high amount of single-target DPS as well as DMG% buffs. Enables
+Hydro Resonance and lowers ER requirements for both herself and Furina.
+Rotations
+With C6 Faruzan, the recommended rotation is:
+Faruzan Q > Furina E Q > Jean E Q > Xiao EE Q (
+example
+)
+With
+non-C6
+Faruzan, you may need to add in additional Skill
+usages
+from Faruzan and Jean to battery Xiao between Bursts. With non-C2 Faruzan, you
+will want to rotate Faruzan after Furina or Jean Q.
+With Bennett and C6 Faruzan, the recommended rotation is:
+Faruzan Q > Furina E Q > Bennett E Q > Xiao EE Q (
+example
+)
+With Bennett
+and Jean
+, the recommended rotation is:
+Furina E Q > Jean E Q > Bennett E Q > Xiao EE Q
+Xiao
+Faruzan Triple Anemo
+Xiao Faruzan Triple Anemo takes advantage of Faruzan's team wide Anemo buffs while also alleviating ER requirements. Anemo supports who were previously unideal batteries can now be run alongside Xiao as independent damage dealers. Because they are Anemo, they can also passively contribute Anemo Particles to the team.
+This team is recommended for both pre-C6 and C6 Faruzan players.
+Considerations
+Lowers ER requirements for all Anemo characters in the team, allowing them smoother rotations and more DMG oriented substats.
+Other Anemo characters may take buff uptime from Xiao, depending on rotation.
+Anemo Options
+Xianyun
+- Provides consistent team-wide healing to maintain the entire team's HP. Provides significant Flat DMG and minor CRIT Rate buffs to Xiao's Plunge Attacks. Generates 5 Anemo particles on Skill-Plunge.
+Jean
+- Provides team-wide healing and can serve as a Burst DPS when built. Generates particles relatively quickly with her Tap Skill. Her C4 is particularly strong in this slot due to additional Anemo RES Shred.
+Kazuha
+- Provides crowd control and Off-Field DPS. C2 Faruzan enables the option of
+CRIT
+Kazuha, but requires him to be built for a niche Anemo DPS option.
+Kazuha's Elemental Skill and Burst unfortunately takes quite a bit of time, which results with the loss of other party member's ability duration for Xiao. His long field presence also equals to extending rotations.
+Sucrose
+- Provides TTDS and battery capabilities. C2 Faruzan enables the option of
+CRIT
+Sucrose, but requires her to be built for a niche
+Anemo DPS
+option.
+Venti
+- Provides crowd control and off-field damage. Generates particles relatively quickly and can funnel other characters.
+Be careful that his Burst may lift enemies out of Xiao’s plunge range. Using his Burst at the start of rotations can mitigate this, but means he cannot snapshot buffs like Bennett.
+Flex Options
+Zhongli
+- Strong shield for survivability and Interruption Resistance. Additional RES Shred and buffs. His RES Shred is diminished in value with Faruzan’s Anemo RES Shred, but it is still valuable (especially for high Anemo RES enemies).
+Bennett
+- High ATK Buff and heals. There is potential loss of buff time with pre-C6 Faruzan due to her needing to pre-funnel Xiao.
+Furina
+- Strong off-field DPS and buffs.
+The third Anemo character should be a healer to keep the team healthy and stack Fanfare points.
+Yelan
+- Offers a high amount of single-target DPS as well as DMG% buffs. Locks your Anemo flex slot to sustain options (Jean or Sayu) and demands N1 procs.
+Xiao
+Double Geo
+A classic Xiao comp featuring the very Archon that Xiao devoted his life to. Zhongli ensures easy access to Geo Resonance for a stronger shield and 15% DMG Bonus for everyone in the party. His shield is also one of the few sources of Anemo RES Shred that can last for the entire duration of Xiao’s Burst. The main restriction of this comp is the necessity of a battery for the fourth slot.
+Geo Options
+Chiori
+- Chiori is a strong candidate as a second Geo teammate. She offers the highest off-field damage out of the flex options and can benefit from Geo Resonance and Zhongli's pillar construct, both of which add to her damage.
+Albedo
+- Albedo is Xiao's most comfortable off-field DPS, as his Skill is one of the few abilities that lasts for the entirety of Xiao’s Burst duration. His personal damage benefits massively from Geo Resonance with Zhongli.
+Geo Traveler
+- With low investment, Traveler provides 10%
+CRIT
+Rate, crowd control through caging enemies with the Burst, and another Geo Construct for Zhongli’s Pillar to resonate off of. At high investment, Traveler can also deal respectable damage.
+Battery / Healer Options
+Faruzan
+- BiS support. Recommended to have her C6 for this comp, though pre-C6 Faruzan may be used if you have higher ER or C1 on Xiao.
+Xianyun
+- Buffs Xiao substantially, and is a great healer if Xiao takes additional damage. It is recommended to at least have her C1 for team energy.
+Jean
+- The perfect package, offering battery, heals, and Burst damage. C4 Jean in particular shines in this comp and places it above the Sucrose variant.
+Sayu
+- Budget Jean option, offering battery and heals for Xiao.
+Sucrose
+- While not a healer, Sucrose is recommended for players who can rely solely on Zhongli’s shield to stay alive. Sucrose offers a lot of Energy and a TTDS buff. Especially valuable for Staff of Homa users.
+Rotations
+Adjust by Anemo unit used.
+Rotation with
+Chiori
+. Put her to the left of the unit that comes next in the rotation.
+Faruzan C6 Q (C2+ E CA Q)  > Zhongli hE > Chiori E tE > Jean E Q / Sucrose E / Lynette E Q E / Faruzan C0 E Q CA / Xianyun C1 EP EP Q > Xiao 2E Q
+Rotation with Albedo.
+Albedo hE > Faruzan C6 Q (C2+ E CA Q) > Zhongli hE > Jean E Q / Sucrose E / Lynette E Q E / Faruzan C0 E Q CA / Xianyun C1 EP EP Q > Xiao 2E Q
+Rotation with Geo MC.
+Faruzan C6 Q (C2+ E CA Q)  > Zhongli hE > GMC hE Q > Jean E Q / Sucrose E / Lynette E Q E / Faruzan C0 E Q CA / Xianyun C1 EP EP Q > Xiao 2E Q
+Xiao Double
+Pyro
+A comp that is heavily reliant on having Bennett. Bennett is ideal for this comp simply because he is a Pyro healer and can battery other Pyro characters through his Tap Elemental Skill. A secondary Pyro not only enables Pyro Resonance, which provides Xiao an additional 25% ATK, but also helps lower Bennett's ER needs.
+Pyro Options
+Xiangling
+- Off-field Pyro application and considerable Burst DPS. However her high Energy cost, and inability to generate many particles for herself, can make her difficult to use in a Xiao comp. It is recommended to build her with a lot of ER to minimize the field time needed to utilize Bennett to funnel her Burst.
+Video Example of Xiao/Sucrose/Xiangling/Bennett
+.
+Thoma
+- Long duration shield with 15% Plunge DMG Bonus at C6. However, it is not recommended to run Thoma in this slot unless he is C6 due to Energy constraints, requiring lingering NA cancels, and limited utility.
+Battery Options
+C6 Faruzan
+- BiS support. Not recommended unless C6 due to scarce team Energy.
+Sucrose
+- As Bennett will cover the healing, you can opt to bring Sucrose for more particles and easy uptime on Xiao’s Burst. Building her with 4VV and full EM provides Pyro RES Shred and add some passive DMG via Swirls.
+Jean
+- While pairing Jean and Bennett together leads to having two healers on the team, this is a common “Sunfire” comp. Jean can also utilize Bennett’s Burst to do significant Burst damage.
+Kazuha
+- While Kazuha is generally less recommended for Xiao as a battery option, he works well in a Double Pyro comp with Xiangling specifically due to being able to buff Xiangling’s Pyronado damage. His Swirls also contribute meaningful DMG and help shield break certain enemies.
+Video example with Kazuha/Xiangling/Bennett.
+Xiao Double
+Cryo
+A simple, non-Zhongli Xiao comp that begins with pairing him with Diona. Diona serves as a multi-purpose support with her shielding, healing, battery capability through Favonius Bow, and providing particles to the secondary Cryo character. A secondary Cryo is inserted for Cryo Resonance, which provides Xiao with 15%
+CRIT
+Rate against enemies applied with Cryo.
+Cryo Options
+Rosaria
+- Consistent Cryo application and
+CRIT
+Rate sharing capabilities (up to 15%). With investment, she can also be a strong off-field DPS.
+When in a team with Xiao/Sucrose/Diona/Rosaria, this team has very little Energy issues, making it comfortable and smooth to utilize. Sucrose’s Burst can absorb Cryo and spread the aura, allowing easier access to Cryo Resonance.
+Video example with Prototype Starglitter Xiao.
+Ganyu
+- Large-scale off-field Cryo application and taunt. Her capability to self-funnel her Burst makes her comfortable to utilize. She can be built entirely as a support, or as a fully invested o
+ff-
+f
+ield DPS
+.
+Qiqi
+- Can be used to replace Diona if a shield is not needed. Her excellent heals can easily keep Xiao alive while also dealing o
+ff-
+f
+ield
+DPS damage via the 4pc Clam set. Her lack of Energy can lead to uptime issues, which is why running her with a second Cryo is recommended.
+Xiao
+Self Battery / No Battery
+This is not recommended for the average Xiao player
+. Running no battery is an option for those who have invested in Xiao far enough that the extra time needed on generate Energy for his Burst is of no-concern.
+The lack of a battery can also be mended with:
+Having C1 and enough ER and DPS to self-battery his second Burst and finish all enemies within the second rotation.
+Using R5 Favonius Lance to battery himself, or having enough ER from an ER spear like Skyward Spine to rely on team and HP particles for Burst uptime.
+Utilizing a team where off-field particle generation is possible, or using a team with multiple high-refined Favonius weapons. Note that utilizing Favonius weapons requires you to invest in
+CRIT
+Rate for your supports.
+Generally suggested to run with Bennett and/or Faruzan in the team, since they permit Xiao to do enough damage within a singular Burst instance.
+Examples
+Xiao Bennett Zhongli Chiori/Albedo/GMC
+Xiao Bennett Xiangling Zhongli
+Xiao Bennett Xiangling Xingqiu
+Lithic Teams
+Lithic Spear has a unique passive that gives you ATK% and CRIT R
+ate
+for every Liyue party member in the team, including the wearer. The exact value depends on the refinement
+.
+The sheer stat value of this 4★ Polearm permits it to overthrow 5★ Polearm for Xiao's
+p
+ersonal
+d
+amage. However, it enforces the necessity of using Liyue units with Xiao. This makes it difficult to build around since:
+Currently, Xiao and Xianyun are the only Anemo Liyue units. With Xianyun's own high ER requirements and limited
+battery options for Xiao
+,
+this often caps sustainable Lithic-based teams at 3 Stacks.
+Faruzan is a Sumeru
+u
+nit.
+Our only
+s
+ustain Liyue options consist of Zhongli, Xianyun, Qiqi, Yaoyao and Xingqiu.
+When building Lithic Teams
+it
+i
+s important to not focus too hard on obtaining passive stacks
+.
+U
+sing an ineffective unit just to obtain an extra 7~9% ATK or 3~7% CRIT R
+ate
+is generally not considered valuable
+a
+s certain units can provide buffs, damage or utility that far surpasses the value of those stats.
+I
+f you
+woul
+d like further advice on building Liyue Teams, we suggest looking at our in-depth guide, written by
+alerine
+:
+Lithic Team Thesis
+Xiaoden
+Alatus Umbrosa: The Complete Xiaoden Guide
+Xiaoden
+refers to the concept of running Xiao and Raiden together in a dual carry team. Along with dealing her own damage during Burst, Raiden also serves as an additional damage dealer and battery for Xiao.
+Long thought of as an inferior comp to traditional Xiao teams, the guide linked above presents a new light for why Xiaoden is not only
+viable but also competitive
+.
+Xiaoden’s strongest benefit lies in its
+continuity
+which most batteries fail to sustain. Therefore,
+as the following calcs show
+, it can be competitive with pre-existing batteries at two rotations, and can
+yield a 12-15% damage increase during the third rotation
+at a mid-high investment.
+Xiao Mains | discord.gg/xiao
+If you have suggestions for our guides, please visit us at our Discord!
+Google Sites
+Report abuse
+Page details
+Page updated
+Google Sites
+Report abuse

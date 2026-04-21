@@ -1,0 +1,681 @@
+Genshin Impact Wriothesley Best Team Guide
+Last updated April 20, 2026. Looking for the best Wriothesley teams in
+        Genshin Impact? Start with the top team summary below, then pick the
+        lineup that fits your roster.
+This page provides the best team information for Wriothesley, primarily a Main DPS. Top teams include Permafrost and Melt compositions, and team positions can be adjusted based on your roster for flexibility.
+View Wriothesley's character page
+Wriothesley Team Summary
+#1
+Team Rating:S
+Wriothesley Furina Xilonen Charlotte Cryo Freeze Team
+#2
+Team Rating:S
+Wriothesley Furina Xilonen Chiori Freeze Support Team
+C1
+#3
+Team Rating:S
+Wriothesley Melt Team with Xilonen, Mavuika & Bennett
+#4
+Team Rating:S
+Wriothesley Melt Team 2 - Xilonen Xiangling Bennett
+#5
+Team Rating:S
+Wriothesley Melt with Xilonen Emilie Bennett
+#6
+Team Rating:S
+Wriothesley Melt Vaporize Team
+#7
+Team Rating:S
+Wriothesley Hyperbloom
+C2
+#8
+Team Rating:S
+Wriothesley Melt Team #4
+C1
+C6
+#1 Wriothesley Furina Xilonen Charlotte Cryo Freeze Team
+Tier S
+A strong Wriothesley Freeze-oriented team with powerful off-field Hydro application, RES shred, healing, and damage buffs. Furina and Charlotte help keep the team healthy while boosting overall damage, and Xilonen further amplifies team output through support utility.
+Wriothesley
+Main DPS
+Cryo
+On-field Cryo carry who deals most of the team's damage through Normal and Charged Attacks.
+Artifacts
+Marechaussee Hunter
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT DMG / CRIT Rate
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Cashflow Supervision
+The Widsith
+Furina
+Sub DPS
+Hydro
+Off-field Hydro application and strong team damage buff from her Burst based on HP changes. Her Skill provides consistent Hydro for reaction setup.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Favonius Sword
+Xilonen
+Support
+Geo
+Provides elemental RES reduction through Samplers and adds healing support for the team.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+DEF
+Circlet
+DEF
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Peak Patrol Song
+Favonius Sword
+Charlotte
+Support
+Cryo
+Team healer with Burst utility and additional Cryo application to help maintain Cryo-based reactions and survivability.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+Healing Bonus
+Substats
+Energy Recharge / ATK%
+Weapons
+Thrilling Tales of Dragon Slayers
+#2 Wriothesley Furina Xilonen Chiori Freeze Support Team
+Tier S
+A strong
+Wriothesley
+hypercarry-style team with
+Furina
+buffing damage and
+Xilonen
+providing RES shred and healing.
+Chiori C1
+adds extra off-field Geo damage, though this is an unusual mix for an Ice team and may lean more toward a mixed damage core than pure Freeze.
+Wriothesley
+Main DPS
+Cryo
+Deals most of the team's damage through Normal and Charged Attacks. Focus on Cryo damage and consistent on-field uptime.
+Artifacts
+Marechaussee Hunter
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT DMG / CRIT Rate
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Cashflow Supervision
+The Widsith
+Furina
+Sub DPS
+Hydro
+Provides strong off-field Hydro application and a powerful teamwide DMG buff through her Burst. Her Skill also helps enable reactions while she is off-field.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Favonius Sword
+Xilonen
+Support
+Geo
+Activates
+Scroll of the Hero of Cinder City
+for team buffs, reduces enemy Elemental RES through her Samplers, and provides healing support.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Peak Patrol Song
+Favonius Sword
+Chiori
+Sub DPS
+Geo
+Constellation 1+
+Off-field Geo damage dealer. At C1, her damage is significantly improved, especially with teammates that can trigger her talents and support her skill/burst output.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+DEF%
+Goblet
+Geo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / DEF% / ATK%
+Weapons
+Uraku Misugiri
+Wolf-Fang
+#3 Wriothesley Melt Team with Xilonen, Mavuika & Bennett
+Tier S
+A strong Melt composition built around
+Wriothesley
+'s on-field Cryo damage, with
+Mavuika
+and
+Bennett
+providing Pyro application and buffing, while
+Xilonen
+adds RES shred and healing. Very high damage ceiling when rotations are executed well.
+Wriothesley
+Main DPS
+Cryo
+On-field damage dealer. Uses Normal and Charged Attacks to trigger Melt reactions consistently.
+Artifacts
+Marechaussee Hunter
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT DMG / CRIT Rate
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Cashflow Supervision
+The Widsith
+Xilonen
+Support
+Geo
+Provides
+RES shred
+through Samplers and also offers healing to the team.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Peak Patrol Song
+Favonius Sword
+Mavuika
+Sub DPS
+Pyro
+Off-field Pyro application from her skill to help enable Melt reactions for Wriothesley.
+Artifacts
+Obsidian Codex
+Main Stats
+Sands
+ATK%
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+A Thousand Blazing Suns
+Serpent Spine
+Bennett
+Support
+Pyro
+Burst provides a massive
+ATK buff
+and healing for the team.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+Energy Recharge / HP%
+Weapons
+Mistsplitter Reforged
+The Alley Flash
+#4 Wriothesley Melt Team 2 - Xilonen Xiangling Bennett
+Tier S
+Wriothesley serves as the on-field Cryo DPS, triggering Melt reactions with Xiangling's Pyro application while Bennett provides a strong ATK buff and healing. Xilonen reduces enemy elemental RES and adds extra sustain through healing, making the team comfortable and high-damage.
+Wriothesley
+Main DPS
+Cryo
+On-field DPS who deals most of the team's damage through normal and charged attacks. Focus on maximizing Cryo damage and crit stats.
+Artifacts
+Marechaussee Hunter
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT DMG / CRIT Rate
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Cashflow Supervision
+The Widsith
+Xilonen
+Support
+Geo
+Provides elemental RES shred through Samplers and offers healing to the team. Builds for support utility and consistent uptime.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Peak Patrol Song
+Favonius Sword
+Xiangling
+Sub DPS
+Pyro
+High off-field Pyro damage from her Elemental Burst enables consistent Melt reactions for Wriothesley.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+ATK%
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Engulfing Lightning
+"The Catch"
+Bennett
+Support
+Pyro
+Burst provides a powerful ATK buff and healing, significantly boosting Wriothesley's damage and team survivability.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+Energy Recharge / HP%
+Weapons
+Mistsplitter Reforged
+The Alley Flash
+#5 Wriothesley Melt with Xilonen Emilie Bennett
+Tier S
+Wriothesley Melt team built around Cryo on-field damage, Pyro buffing, and off-field Dendro/ Pyro interactions. Xilonen provides RES shred and healing, Emilie contributes off-field Dendro damage, and Bennett supplies a strong ATK buff plus healing.
+Wriothesley
+Main DPS
+Cryo
+On-field Cryo DPS who deals most of the team's damage through Normal and Charged Attacks. Focus on keeping his Cryo uptime high while benefiting from Bennett's buff and Xilonen's RES shred.
+Artifacts
+Marechaussee Hunter
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT DMG / CRIT Rate
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Cashflow Supervision
+The Widsith
+Xilonen
+Support
+Geo
+Provides elemental RES reduction through Samplers and offers healing to the team. Use her to strengthen Wriothesley's damage and improve overall survivability.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+DEF
+Circlet
+DEF
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Peak Patrol Song
+Favonius Sword
+Emilie
+Sub DPS
+Dendro
+Off-field Dendro damage dealer whose Lumidouce Case deals periodic damage. Her damage increases in Burning situations, and her Burst further boosts Lumidouce Case output.
+Artifacts
+Unfinished Reverie
+Main Stats
+Sands
+ATK%
+Goblet
+Dendro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Lumidouce Elegy
+Deathmatch
+Bennett
+Support
+Pyro
+Provides a powerful ATK buff and healing through his Elemental Burst, greatly improving Wriothesley's damage consistency and team sustain.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+Energy Recharge / HP%
+Weapons
+Mistsplitter Reforged
+The Alley Flash
+#6 Wriothesley Melt Vaporize Team
+Tier S
+Wriothesley
+is the main on-field DPS. Furina provides off-field Hydro and damage amplification, Xiangling supplies strong off-field Pyro application, and Bennett offers healing plus a large ATK buff.
+This team can play as a Melt/Vaporize hybrid depending on aura management.
+Wriothesley
+Main DPS
+Cryo
+On-field Cryo damage dealer, focusing on Normal and Charged Attacks.
+Artifacts
+Marechaussee Hunter
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT DMG / CRIT Rate
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Cashflow Supervision
+The Widsith
+Furina
+Sub DPS
+Hydro
+Provides continuous off-field Hydro application and a strong team damage bonus through her Burst. Her Skill also enables HP fluctuation for maximizing Burst value.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Favonius Sword
+Xiangling
+Sub DPS
+Pyro
+Her Burst deals high damage and provides continuous Pyro application for reactions.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+ATK%
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Engulfing Lightning
+"The Catch"
+Bennett
+Support
+Pyro
+Provides strong ATK buff and healing with his Burst.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+Energy Recharge / HP%
+Weapons
+Mistsplitter Reforged
+The Alley Flash
+#7 Wriothesley Hyperbloom
+Tier S
+Hyperbloom team centered around
+Wriothesley
+as the on-field Cryo driver.
+Nahida
+supplies consistent Dendro application for Bloom setup,
+Furina
+adds strong off-field Hydro and team damage buffs, and
+Kuki Shinobu
+triggers Hyperbloom while providing healing. The team relies on elemental application uptime and Kuki's high EM to maximize reaction damage.
+Wriothesley
+Main DPS
+Cryo
+On-field main DPS. Deals most of his damage through Normal and Charged Attacks while benefiting from Furina's damage buff and Kuki's healing support.
+Artifacts
+Marechaussee Hunter
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT DMG / CRIT Rate
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Cashflow Supervision
+The Widsith
+Nahida
+Sub DPS
+Dendro
+Primary Dendro applicator. Her Skill links enemies and enables Bloom generation, while her Burst further enhances her Skill based on teammates' elements.
+Artifacts
+Deepwood Memories
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+A Thousand Floating Dreams
+Wandering Evenstar
+Furina
+Sub DPS
+Hydro
+Off-field Hydro damage and team buffer. Her Skill maintains Hydro application for Bloom generation, and her Burst increases team damage based on HP changes.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Favonius Sword
+Kuki Shinobu
+Support
+Electro
+Constellation 2+
+Healer and Hyperbloom trigger. Built with full Elemental Mastery to maximize Hyperbloom damage while providing sustain for the team.
+Artifacts
+Flower of Paradise Lost
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge
+Weapons
+Key of Khaj-Nisut
+Xiphos' Moonlight
+#8 Wriothesley Melt Team #4
+Tier S
+Wriothesley is the
+Main DPS
+of this Melt-oriented team. Shenhe boosts Cryo damage and shreds Cryo RES, Emilie adds off-field Dendro damage and helps enable Burning, and Mavuika provides off-field Pyro application for consistent elemental reactions.
+Wriothesley
+Main DPS
+Cryo
+Constellation 1+
+Deals damage primarily through Normal and Charged Attacks. Prioritize Melt-friendly Cryo DPS stats.
+Artifacts
+Marechaussee Hunter
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT DMG / CRIT Rate
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Cashflow Supervision
+The Widsith
+Shenhe
+Sub DPS
+Cryo
+Constellation 6+
+Provides ATK bonus to teammates and reduces enemies' Cryo RES, greatly amplifying Wriothesley's damage.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+ATK%
+Substats
+ATK% / Energy Recharge / CRIT Rate
+Weapons
+Calamity Queller
+Favonius Lance
+Emilie
+Sub DPS
+Dendro
+Summons
+Lumidouce Case
+, dealing intermittent Dendro damage. Burning increases its range and damage, and her Burst further boosts the summon.
+Artifacts
+Unfinished Reverie
+Main Stats
+Sands
+ATK%
+Goblet
+Dendro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Lumidouce Elegy
+Deathmatch
+Mavuika
+Sub DPS
+Pyro
+Summons a Ring of Searing Radiance that follows the active character and periodically attacks nearby opponents with Nightsoul-aligned Pyro damage.
+Artifacts
+Obsidian Codex
+Main Stats
+Sands
+ATK%
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+A Thousand Blazing Suns
+Serpent Spine
+Wriothesley Teams FAQ
+What is the best Wriothesley team in Genshin Impact?
+Wriothesley Furina Xilonen Charlotte Cryo Freeze Team is one of the strongest Wriothesley teams right now. Use the team summary and build cards on this page to pick the best version for your account.
+What are good Wriothesley teams without premium weapons?
+You can run strong Wriothesley teams without signature weapons by prioritizing reaction synergy, energy consistency, and artifact main stats shown in each build card.
+Which teammates are best with Wriothesley?
+Common high-performing partners include teams such as Wriothesley Furina Xilonen Charlotte Cryo Freeze Team, Wriothesley Furina Xilonen Chiori Freeze Support Team, Wriothesley Melt Team with Xilonen, Mavuika & Bennett. Check each lineup section for role breakdowns and gear priorities.

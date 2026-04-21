@@ -1,0 +1,404 @@
+Home
+Blog
+Genshin Impact Hub
+Genshin Impact Baizhu Builds, Weapons & Team Comps!
+Genshin Impact Baizhu Builds, Weapons & Team Comps!
+Alexa Hunter
+Mar 26, 2026
+Share
+Baizhu is a
+5-star Dendro Catalyst user
+who stands as a premier pillar of Dendro support and team survival in Teyvat. He excels as a top-tier
+Healer and Shielder
+, mostly because his
+Holistic Revivification
+burst allows him to provide consistent healing and protective shields while amping up Dendro reaction damage for his team. In this guide, we're going over the best ways to gear him, which weapons actually provide the most Max HP and Energy Recharge, and whether his constellations are worth your hard-earned Primogems.
+Secure Your Gaming Top-Up with Smart Savings on LootBar
+Premium Top-Up Service Tailored for Your Game.
+3-Minute Delivery for Non-Stop Gaming.
+Trusted 4.9/5 on Trustpilot, 10/10 among Players.
+Official Partnership Route, Protect Your Game Wallet.
+Top Up With Discount Now!
+🔥 Bonus Tip: For exclusive discounts on your next
+Genshin top up
+, visit
+Lootbar.gg
+!
+Baizhu Character Profile
+Baizhu Information
+Character Information
+Rarity
+5-Star
+Element
+Dendro
+Weapon
+Catalyst
+Progression Bonus
+CRIT DMG
+Combat Role
+Dendro Support & Healer
+Baizhu Gameplay
+Baizhu’s gameplay centers around his mastery of the
+Gossamer Sprite
+and
+Seamless Shield
+mechanics, transforming his medical expertise into a relentless defensive anchor for any Dendro-focused team. His kit primarily scales on
+Max HP
+, and he enables high-comfort elemental compositions by providing consistent team-wide healing, reaction-based damage buffs, and essential protection against the aggressive mechanics found in modern
+Snezhnayan
+combat.
+His
+Elemental Skill
+, Universal Diagnosis, controls a Gossamer Sprite that cruises through nearby enemies, dealing Dendro DMG before returning to provide an
+instant team-wide heal
+. This skill serves as his primary tool for rapid energy generation and reactionary healing; because it heals the entire party regardless of who is on the field, it is particularly effective at counteracting the health-drain of
+Void-status
+enemies or stacking
+Furina’s Fanfare
+points in a single cast.
+When he unleashes his
+Elemental Burst
+, Holistic Revivification, he enters the Pulsing Clarity state and generates a
+Seamless Shield
+every 2.5 seconds. Each time a shield is refreshed, shattered, or expires, it triggers a
+Spiritvein
+attack and heals the active character, effectively placing the team under a perpetual cycle of renewal. The best part is that these shields provide a recurring window of
+interruption resistance
+, allowing your primary DPS (like
+Skirk
+or
+Cyno
+) to maintain their aggressive attack strings without being staggered by heavy enemy strikes.
+His
+Passives
+are all about making his medicinal utility feel rewarding by directly converting his total health into offensive pressure for the entire team. One of them provides dynamic buffs to Baizhu based on the current HP of the active character, prioritizing healing when they are vulnerable and
+Dendro DMG
+when they are healthy, while the other significantly boosts the damage of all
+Dendro-related reactions
+for any character under his shield's care. It makes him incredibly satisfying to play in reaction-heavy cores, as he essentially turns his survival kit into a direct damage multiplier for his teammates.
+Baizhu Talent Priority
+Baizhu’s talent priority focuses on his
+Elemental Burst
+and
+Elemental Skill
+, which provide the backbone of his team-wide sustain and indispensable Dendro reaction buffs.
+Talent
+Recommended Level
+Elemental Burst
+(Holistic Revivification)
+9+
+Elemental Skill
+(Universal Diagnosis)
+8+
+Normal Attack
+(The Classics of Acupuncture)
+1+
+Elemental Burst - Holistic Revivification
+This is Baizhu's "bread and butter." It initiates the
+Pulsing Clarity
+state, summoning a
+Seamless Shield
+that refreshes every 2.5 seconds. While the shield itself is structurally thin, its value lies in the
+interruption resistance
+and constant healing it provides to your on-field character. In current meta, this talent is central to his
+buffing potential
+, as it triggers his A4 passive to massively increase Dendro reaction damage for any character under its protection.
+Elemental Skill - Universal Diagnosis
+Baizhu’s Skill is his primary tool for
+party-wide health management
+. He unleashes a
+Gossamer Sprite
+that attacks up to three times before returning to heal the
+entire
+party based on Baizhu’s Max HP. This is essential for surviving high-corrosion environments or quickly building stacks for
+Furina’s Fanfare
+. While it doesn't provide the same buffing utility as his Burst, leveling this talent ensures that a single Skill cast can bring a dying team back to full health.
+Normal Attack - The Classics of Acupuncture
+As a Support/Healer, Baizhu spends very little time performing basic strikes. His Normal Attack string consists of melee-range Dendro hits with relatively low scaling. Unless you are building him as a dedicated
+on-field driver
+for Hyperbloom or Aggravate teams, this talent can be left at Level 1 to save on precious resources. His value is almost entirely off-field, making his physical combat presence a low priority for his effectiveness.
+Baizhu Best Weapons
+To maximize Baizhu's performance, prioritize catalysts with high
+HP%
+and
+Energy Recharge (ER)
+substats to ensure he can reach his
+50,000 HP cap
+while maintaining his Burst every rotation. Since his primary value lies in the off-field utility of his
+Seamless Shield
+and reaction buffs, the ideal weapon logic balances raw stat padding with energy management to keep the team immortal.
+Recommended weapon
+s
+Option 1
+Jadefall’s Splendor (5★)
+Base ATK
+: 608
+Bonus Stat
+: HP +49.6%
+Weapon Effect
+(R1): For 3s after using an Elemental Burst or creating a shield, the equipping character can gain the Primordial Jade Regalia effect: Restore
+4.5
+Energy every 2.5s, and gain
+0.3
+% Elemental DMG Bonus for their corresponding Elemental Type for every 1,000 Max HP they possess, up to
+12
+%. Primordial Jade Regalia will still take effect even if the equipping character is not on the field.
+Option 2
+Prototype Amber (4★)
+Base ATK
+: 510
+Bonus Stat
+: HP +41.3%
+Weapon Effect
+(R5): Using an Elemental Burst regenerates
+6
+Energy every 2s for 6s. All party members will regenerate
+6
+% HP every 2s for this duration.
+Option 3
+A Thousand Floating Dreams (5★)
+Base ATK
+: 542
+Bonus Stat
+: Elemental Mastery +265
+Weapon Effect
+(R1): Party members other than the equipping character will provide the equipping character with buffs based on whether their Elemental Type is the same as the latter or not. If their Elemental Types are the same, increase Elemental Mastery by
+32
+. If not, increase the equipping character's DMG Bonus from their Elemental Type by
+10
+%. Each of the aforementioned effects can have up to 3 stacks. Additionally, all nearby party members other than the equipping character will have their Elemental Mastery increased by
+40
+. Multiple such effects from multiple such weapons can stack.
+Option 4
+Favonius Codex (4★)
+Base ATK
+: 510
+Bonus Stat
+: Energy Recharge +45.9%
+Weapon Effect
+(R5): CRIT hits have a
+100
+% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every
+6
+s.
+Baizhu Best Artifacts and Stats
+When choosing suitable artifacts for Baizhu, there are two main aspects to consider: first, enhancing his
+support
+capabilities through artifact set effects; and second, increasing his
+healing
+. Below are some recommended artifact options and the scenarios in which they perform best.
+Deepwood Memories:
+Best-in-slot option in most Dendro teams. The 4-piece effect reduces enemies’ Dendro RES after triggering Elemental Skill or Burst, significantly boosting the team’s overall Dendro damage. If no other teammate is equipped with this set, it is the optimal choice for Baizhu.
+Song of Days Past:
+This set's 2-piece effect can increase Baizhu's healing, while the 4-piece effect focuses on converting healing into damage bonuses for teammates’ Normal Attacks, Charged Attacks, Plunging Attacks, Elemental Skills, and Elemental Bursts. If your Baizhu is not used in a Dendro-focused team, this becomes a strong support-oriented artifact option.
+Ocean-Hued Clam:
+This set's 2-piece effect can increase Baizhu's healing, while the 4-piece effect can convert excess healing into AoE damage. This set is versatile and works well in most situations, allowing Baizhu to keep the team alive while also contributing additional damage.
+Recommended Artifacts
+Option 1
+Deepwood Memories (4-Piece)
+2-PC:
+Dendro DMG Bonus
++15%.
+4-PC:
+After Elemental Skills or Bursts hit opponents, the targets' Dendro RES will be decreased by 30% for 8s. This effect can be triggered even if the equipping character is not on the field.
+Option 2
+Song of Days Past (4-Piece)
+2-PC:
+Healing Bonus +15%.
+4-PC:
+When the equipping character heals a party member, the Yearning effect will be created for 6s, which records the total amount of healing provided (including overflow healing). When the duration expires, the Yearning effect will be transformed into the "Waves of Days Past" effect: When your active party member hits an opponent with a Normal Attack, Charged Attack, Plunging Attack, Elemental Skill, or Elemental Burst, the DMG dealt will be increased by 8% of the total healing amount recorded by the Yearning effect. The "Waves of Days Past" effect is removed after it has taken effect 5 times or after 10s. A single instance of the Yearning effect can record up to 15,000 healing, and only a single instance can exist at once, but it can record the healing from multiple equipping characters. Equipping characters on standby can still trigger this effect.
+Option 3
+Ocean-Hued Clam (4-Piece)
+2-PC:
+Healing Bonus +15%.
+4-PC:
+When the character equipping this artifact set heals a character in the party, a Sea-Dyed Foam will appear for 3 seconds, accumulating the amount of HP recovered from healing (including overflow healing). At the end of the duration, the Sea-Dyed Foam will explode, dealing DMG to nearby opponents based on 90% of the accumulated healing. (This DMG is calculated similarly to Reactions such as Electro-Charged, and Superconduct, but is not affected by Elemental Mastery, Character Levels, or Reaction DMG Bonuses). Only one Sea-Dyed Foam can be produced every 3.5 seconds. Each Sea-Dyed Foam can accumulate up to 30,000 HP (including overflow healing). There can be no more than one Sea-Dyed Foam active at any given time. This effect can still be triggered even when the character who is using this artifact set is not on the field.
+Recommended Stats and Sub-Stats
+Main Stat
+Sands:
+HP% or Energy Recharge
+Goblet:
+HP%
+Circlet:
+Healing Bonus or HP%
+Sub Stat
+Energy Recharge (ER%) > HP% (up to 50k) > Flat HP > Elemental Mastery
+Baizhu Best Team Compositions
+You can focus on his indispensable
+off-field Dendro application
+to maintain high Quicken uptime in
+Aggravate or Spread teams
+, granting your Electro and Dendro carries vital interruption resistance while amplifying their raw reaction damage through his unique passive. Alternatively, Baizhu serves as a premier sustain unit in
+Dendro-focused compositions
+, where his team-wide healing is essential to neutralize the self-inflicted damage and maximize the lethality of
+Bloom or Hyperbloom reactions
+. Finally, for high-pressure
+Burning or Burgeon setups
+, he acts as a definitive defensive anchor, utilizing his consistent
+Seamless Shields
+to stabilize your active character against the relentless health drain of environmental fire and volatile elemental explosions.
+Baizhu Hyperbloom Teams
+Support
+Main DPS
+Sub DPS
+Sub DPS
+Baizhu (5★)
+Cyno (5★)
+Nahida (5★)
+Yelan (5★)
+Baizhu (5★)
+Alhaitham (5★)
+Raiden Shogun (5★)
+Furina (5★)
+Baizhu (5★)
+Ayato (5★)
+Kuki Shinobu (4★)
+Nahida (5★)
+Baizhu (5★)
+Kevah (5★)
+Kuki Shinobu (4★)
+Xingqiu (4★)
+Baizhu (5★)
+Neuvillette (5★)
+Lauma (5★)
+Ineffa (5★)
+Baizhu Aggravate/Spread Teams
+Support
+Main DPS
+Sub DPS
+Sub DPS
+Baizhu (5★)
+Alhaitham (5★)
+Yae Miko (5★)
+Fischl (4★)
+Baizhu (5★)
+Cyno (5★)
+Nahida (5★)
+Fischl (4★)
+Baizhu (5★)
+Alhaitham (5★)
+Yae Miko (5★)
+Nahida (5★)
+Baizhu (5★)
+Keqing (5★)
+Fischl (4★)
+Nahida (5★)
+Baizhu Burning Teams
+Support
+Main DPS
+Sub DPS
+Sub DPS
+Baizhu (5★)
+Kinich (5★)
+Thoma (4★)
+Xiangling (4★)
+Baizhu (5★)
+Emilie (5★)
+Thoma (4★)
+Xiangling (4★)
+Baizhu (5★)
+Kinich (5★)
+Mavuika (5★)
+Emilie (5★)
+Baizhu (5★)
+Mavuika (5★)
+Emilie (5★)
+Dehya (5★)
+Baizhu Bloom Teams
+Support
+Main DPS
+Sub DPS
+Sub DPS
+Baizhu (5★)
+Nahida (5★)
+Nilou (5★)
+Xingqiu (4★)
+Baizhu (5★)
+Alhaitham (5★)
+Nilou (5★)
+Yelan (5★)
+Baizhu (5★)
+Xingqiu (4★)
+Lauma (5★)
+Nilou (5★)
+Baizhu Constellations
+While Baizhu is a complete and exceptional character at
+C0
+, offering incredible team-wide healing and reaction buffs, his constellations primarily provide meaningful boosts to his
+off-field Dendro application
+and help manage his
+Energy
+requirements.
+Constellation Performance
+Constellation
+Rating
+Explanation
+C1
+★★★★☆
+Universal Diagnosis gains
+1 additional charge
+. This is a significant quality-of-life upgrade that drastically lowers his Energy Recharge requirements and provides a "panic button" for instant team-wide healing.
+C2
+★★★★★
+When the active character hits an enemy, Baizhu fires an automatic sprite every 5s. This is his
+best constellation
+, granting permanent off-field Dendro application and extra healing without ever needing to swap Baizhu onto the field.
+C4
+★★★☆☆
+Increases the party's
+Elemental Mastery by 80
+for 15s after his Burst. While a solid offensive buff for reaction-heavy teams, the value is relatively low compared to the high investment required to reach C4.
+C6
+★★★★☆
+Increases Burst damage by
+8% of Max HP
+and allows his Skill/C2 hits to generate shields. This transforms Baizhu into a "shielding powerhouse," providing nearly 100% uptime on interruption resistance and sustain.
+Constellation Effect
+Constellation
+Effect
+C1
+''Attentive Observation''
+Universal Diagnosis
+gains 1 additional charge.
+C2
+''Incisive Discernment''
+When your own active character hits a nearby opponent with their attacks, Baizhu will unleash a Gossamer Sprite: Splice. Gossamer Sprite: Splice will initiate 1 attack before returning, dealing 250% of Baizhu's ATK as Dendro DMG and healing for 20% of
+Universal Diagnosis
+'s Gossamer Sprite's normal healing. DMG dealt this way is considered Elemental Skill DMG. This effect can be triggered once every 5s.
+C3
+''All Aspects Stabilized''
+Increases the level of
+Holistic Revivification
+by 3. Maximum upgrade level is 15.
+C4
+''Ancient Art of Perception''
+For 15s after
+Holistic Revivification
+is used, Baizhu will increase all nearby party members' Elemental Mastery by 80.
+C5
+''The Hidden Ebb and Flow''
+Increases the Level of Universal Diagnosis by 3. Maximum upgrade level is 15.
+C6
+''Elimination of Malicious Qi''
+Increases the DMG dealt by Holistic Revivification's Spiritveins by 8% of Baizhu's Max HP. Additionally, when a Gossamer Sprite or Gossamer Sprite: Splice hits opponents, there is a 100% chance of generating one of Holistic Revivification's Seamless Shields. This effect can only be triggered once by each Gossamer Sprite or Gossamer Sprite: Splice.
+Conclusion
+This comprehensive guide demonstrates
+Baizhu's
+position as one of
+Genshin Impact's
+premier 5-star Dendro Healers and enablers, bringing both deep lore significance as the master of Bubu Pharmacy and exceptional gameplay mechanics. His unique
+Seamless Shield
+healing, continuous off-field Dendro application, and unmatched synergies in various reaction-based teams make him incredibly valuable for players seeking a versatile, high-utility anchor for their rosters. While he is exceptionally complete at
+C0
+, his constellations provide meaningful improvements to off-field damage and energy management, with
+C2
+being a particularly valuable stopping point.
+To fully prepare for Baizhu's next arrival and maximize his potential, consider
+topping up Genshin Impact
+via
+LootBar
+to secure the Primogems needed for his limited-time banners and signature weapon. Ensuring you have the character and his best in slot gear is the essential first step before you head into the world to farm the materials required for his ascension and talents.
+Top Up With Discount Now!
+Alexa Hunter
+Gaming Writer
+Alexa Hunter has spent the past 7 years exploring the world of gaming, focusing particularly on light - hearted, relaxing titles like Whiteout Survival and AFK Journey. Her articles offer tips and guides on maximizing the enjoyment of these games on Lootbar.

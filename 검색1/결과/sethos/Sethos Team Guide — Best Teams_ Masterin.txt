@@ -1,0 +1,186 @@
+Genshin Impact Sethos Best Team Guide
+Last updated April 20, 2026. Looking for the best Sethos teams in
+        Genshin Impact? Start with the top team summary below, then pick the
+        lineup that fits your roster.
+This page provides the best team information for Sethos, primarily a DPS. Top teams include Thunder, Aggravate, Electro-Charged, and Overload compositions. Team positions can be adjusted based on your roster and build.
+View Sethos's character page
+Sethos Team Summary
+#1
+Team Rating:S
+Sethos Aggravate S Tier Team
+C6
+#2
+Team Rating:S
+Sethos Hyperbloom Team
+#1 Sethos Aggravate S Tier Team
+Tier S
+Sethos Aggravate
+is a high-damage Electro reaction team that amplifies Sethos' charged attacks through
+Aggravate
+. Kazuha provides grouping, resistance shred, and DMG buffs, while Fischl supplies constant off-field Electro application. Kirara adds shielding and extra team comfort, with strong value at C6.
+Sethos
+Main DPS
+Electro
+Main on-field DPS. Sethos' passive reduces charging time, enabling rapid Charged Attacks and frequent
+Aggravate
+procs.
+Artifacts
+Wanderer's Troupe
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / ATK% / Energy Recharge
+Weapons
+Amos' Bow
+Scion of the Blazing Sun
+Kaedehara Kazuha
+Support
+Anemo
+Groups enemies, provides crowd control, buffs teammates, and reduces enemy Elemental Resistance with Viridescent Venerer.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Freedom-Sworn
+Iron Sting
+Fischl
+Sub DPS
+Electro
+Constellation 6+
+Off-field Electro application from Oz helps maintain
+Catalyze/Aggravate
+uptime.
+C6
+is a major upgrade for the team.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Aqua Simulacra
+The Stringless
+Kirara
+Support
+Dendro
+Provides shielding and helps prevent interruption. At
+C6
+, Kirara grants nearby party members
+12% All Elemental DMG Bonus
+after using Skill or Burst.
+Artifacts
+Tenacity of the Millelith
+Vourukasha's Glow
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Key of Khaj-Nisut
+Sapwood Blade
+#2 Sethos Hyperbloom Team
+Tier S
+Sethos is the Main DPS, enabled by off-field Hydro application from Yelan and Furina plus Dendro from Nahida to generate cores and trigger Hyperbloom reactions for additional damage.
+Sethos
+Main DPS
+Electro
+Rapid Charged Attack driver. Sethos can trigger Electro-Charged and Hyperbloom for extra damage; build for Elemental Mastery and Electro damage.
+Artifacts
+Wanderer's Troupe
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / ATK% / Energy Recharge
+Weapons
+Amos' Bow
+Scion of the Blazing Sun
+Nahida
+Sub DPS
+Dendro
+Off-field Dendro application and reaction enabler. Her Skill links enemies and her Burst buffs Tri-Karma Purification based on team elements.
+Artifacts
+Deepwood Memories
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / ATK% / Energy Recharge
+Weapons
+A Thousand Floating Dreams
+Solar Pearl
+Yelan
+Sub DPS
+Hydro
+Off-field Hydro application to help create Dendro Cores with Nahida. Strong continuous Hydro damage and support.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+HP%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG / CRIT Rate
+Substats
+HP% / Energy Recharge / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Aqua Simulacra
+Favonius Warbow
+Furina
+Sub DPS
+Hydro
+Provides consistent off-field Hydro application and a strong team-wide damage buff from her Burst. HP fluctuation synergy improves her value in this team.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Fleuve Cendre Ferryman
+Sethos Teams FAQ
+What is the best Sethos team in Genshin Impact?
+Sethos Aggravate S Tier Team is one of the strongest Sethos teams right now. Use the team summary and build cards on this page to pick the best version for your account.
+What are good Sethos teams without premium weapons?
+You can run strong Sethos teams without signature weapons by prioritizing reaction synergy, energy consistency, and artifact main stats shown in each build card.
+Which teammates are best with Sethos?
+Common high-performing partners include teams such as Sethos Aggravate S Tier Team, Sethos Hyperbloom Team. Check each lineup section for role breakdowns and gear priorities.

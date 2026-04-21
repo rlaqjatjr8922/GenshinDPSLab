@@ -1,0 +1,658 @@
+Genshin Impact Thoma Best Team Guide
+Last updated April 20, 2026. Looking for the best Thoma teams in
+        Genshin Impact? Start with the top team summary below, then pick the
+        lineup that fits your roster.
+This page shows best teams for Xingqiu, primarily a Sub DPS. Top teams include Vaporize, Permafrost, or Melt comps. Can swap with other Hydro characters in some teams.
+View Thoma's character page
+Thoma Team Summary
+#1
+Team Rating:SS
+Ayato Nahida Yelan Thoma Burgeon Team
+C6
+#2
+Team Rating:S
+Nahida Xingqiu Yelan Thoma Burgeon
+C6
+#3
+Team Rating:SS
+hu_tao_xingqiu_kazuha_thoma_vaporize
+#4
+Team Rating:S
+Thoma Vaporize Melt Team
+#5
+Team Rating:S
+Thoma Vaporize Hu Tao Team #2
+#6
+Team Rating:A
+Eula Raiden Superconduct Shield Team with Rosaria and Thoma
+C6
+#7
+Team Rating:B
+eula_superconduct_thoma_shield_team
+C2
+#8
+Team Rating:A
+Yanfei Vaporize with Xingqiu, Sucrose and Thoma
+#1 Ayato Nahida Yelan Thoma Burgeon Team
+Tier SS
+Thoma Burgeon Team
+A strong Burgeon comp built around Ayato’s on-field Hydro application, with Nahida and Yelan creating Dendro Cores and Thoma triggering Burgeon through his Burst. Thoma also provides shielding and interruption resistance, making the team safe and consistent.
+Kamisato Ayato
+Main DPS
+Hydro
+On-field driver and main damage dealer. His Normal Attacks apply Hydro to generate Bloom seeds with Nahida and Yelan, then trigger Burgeon with Thoma’s Burst active.
+Artifacts
+Echoes of an Offering
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / HP% / Energy Recharge
+Weapons
+Haran Geppaku Futsu
+The Black Sword
+Yelan
+Sub DPS
+Hydro
+Off-field Hydro application and strong burst damage. Helps create Dendro Cores consistently alongside Nahida.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+HP%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG / CRIT Rate
+Substats
+HP% / Energy Recharge / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Aqua Simulacra
+Favonius Warbow
+Nahida
+Sub DPS
+Dendro
+Core Dendro applier for Bloom setup. Her Skill links multiple enemies and her Burst further buffs her reaction-focused damage, with increased duration from the team’s mixed elements.
+Artifacts
+Deepwood Memories
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / ATK% / Energy Recharge
+Weapons
+A Thousand Floating Dreams
+Solar Pearl
+Thoma
+Support
+Pyro
+Constellation 6+
+Shielder and Burgeon trigger. His Burst adds Pyro hits to the active character’s attacks, detonating Dendro Cores for Burgeon while his shield keeps the team safe. C6 further boosts Ayato’s Normal Attack damage when the shield is obtained or refreshed.
+Artifacts
+Flower of Paradise Lost
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Elemental Mastery / HP%
+Circlet
+Elemental Mastery / HP%
+Substats
+Energy Recharge / Elemental Mastery / HP%
+Weapons
+Rightful Reward
+#2 Nahida Xingqiu Yelan Thoma Burgeon
+Tier S
+Burgeon team centered around
+Nahida
+generating Dendro Cores with off-field Hydro from
+Xingqiu
+and
+Yelan
+, while
+Thoma
+triggers Burgeon with his Pyro Burst and provides shielding.
+Notes: Thoma is ideally
+C6
+for extra comfort and damage. The guide mentions Bennett in places, but the intended final team is Thoma as the Pyro trigger/support.
+Nahida
+Main DPS
+Dendro
+On-field driver and main source of Dendro application. Her Skill links enemies and deals strong Dendro damage while enabling Bloom reactions.
+Artifacts
+Deepwood Memories
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / ATK% / Energy Recharge
+Weapons
+A Thousand Floating Dreams
+Solar Pearl
+Xingqiu
+Sub DPS
+Hydro
+Off-field Hydro application through Burst to help trigger Bloom consistently.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG / CRIT Rate
+Substats
+Energy Recharge / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Sapwood Blade
+Yelan
+Sub DPS
+Hydro
+Provides continuous off-field Hydro damage and application to support Bloom production.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+HP%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG / CRIT Rate
+Substats
+HP% / Energy Recharge / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Aqua Simulacra
+Favonius Warbow
+Thoma
+Support
+Pyro
+Constellation 6+
+Provides shielding and serves as the Burgeon trigger via his Burst. At C6, he also buffs Nahida's Normal Attack damage when the shield is obtained or refreshed.
+Artifacts
+Flower of Paradise Lost
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Elemental Mastery / HP%
+Circlet
+Elemental Mastery / HP%
+Substats
+Energy Recharge / Elemental Mastery / HP%
+Weapons
+Rightful Reward
+#3 hu_tao_xingqiu_kazuha_thoma_vaporize
+Tier SS
+Thoma Vaporize team built around Hu Tao's Pyro damage and Xingqiu's continuous Hydro application for consistent Vaporize reactions. Kazuha provides grouping, crowd control, elemental buffing, and resistance shred, while Thoma adds shielding and extra team safety with HP stacking.
+Hu Tao
+Main DPS
+Pyro
+Main DPS. Her damage is amplified through Vaporize reactions in this team.
+Artifacts
+Crimson Witch of Flames
+Main Stats
+Sands
+HP% / Elemental Mastery
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Elemental Mastery / ATK%
+Weapons
+Staff of Homa
+Deathmatch
+Xingqiu
+Sub DPS
+Hydro
+Provides continuous Hydro application through Elemental Burst to enable Vaporize for Hu Tao.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Sacrificial Sword
+Kaedehara Kazuha
+Support
+Anemo
+Groups enemies, provides crowd control, buffs teammates' damage, and reduces enemy Elemental Resistance.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Freedom-Sworn
+Iron Sting
+Thoma
+Support
+Pyro
+Shield/support unit. His Elemental Skill and Burst benefit from stacking Max HP, helping provide a safer environment for the team.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP / Energy Recharge
+Weapons
+Staff of Homa
+Black Tassel
+#4 Thoma Vaporize Melt Team
+Tier S
+Thoma provides a strong HP-scaled shield and survivability, while the team enables Hu Tao to maximize Vaporize damage with Xingqiu's Hydro application and Chongyun's Cryo support.
+Hu Tao
+Main DPS
+Pyro
+Main DPS. Hu Tao's damage is amplified through Vaporize reactions in this team.
+Artifacts
+Crimson Witch of Flames
+Main Stats
+Sands
+HP% / Elemental Mastery
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Elemental Mastery / ATK%
+Weapons
+Staff of Homa
+Deathmatch
+Xingqiu
+Sub DPS
+Hydro
+Applies Hydro consistently with Elemental Burst to enable Vaporize reactions for Pyro damage dealers.
+Artifacts
+Noblesse Oblige
+Heart of Depth
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Sacrificial Sword
+Chongyun
+Sub DPS
+Cryo
+Provides Cryo damage from off-field and can help with Burst uptime; best utility starts at C2.
+Artifacts
+Blizzard Strayer
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Wolf's Gravestone
+Serpent Spine
+Thoma
+Support
+Pyro
+HP-scaling shield support that keeps the team safe. Builds maximum HP to strengthen shielding.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Staff of Homa
+Black Tassel
+#5 Thoma Vaporize Hu Tao Team #2
+Tier S
+Thoma
+provides shielding and HP-scaling utility, helping Hu Tao stay safe while enabling strong Vaporize damage through Xingqiu's Hydro application.
+Bennett adds healing and a strong ATK buff, making the team more comfortable and consistent.
+Hu Tao
+Main DPS
+Pyro
+Main DPS of the team. Her damage is heavily amplified by Vaporize reactions.
+Artifacts
+Crimson Witch of Flames
+Main Stats
+Sands
+HP% / Elemental Mastery
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Elemental Mastery / ATK%
+Weapons
+Staff of Homa
+Deathmatch
+Xingqiu
+Sub DPS
+Hydro
+Provides continuous Hydro application through his Elemental Burst, enabling Hu Tao to trigger Vaporize consistently.
+Artifacts
+Noblesse Oblige
+Heart of Depth
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Sacrificial Sword
+Bennett
+Support
+Pyro
+Burst grants a large ATK buff and healing for the team.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+Thoma
+Support
+Pyro
+Shield support. Builds HP to strengthen his shield and improve team survivability.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Staff of Homa
+Black Tassel
+#6 Eula Raiden Superconduct Shield Team with Rosaria and Thoma
+Tier A
+Superconduct-focused Eula team with strong physical burst damage and layered utility. Raiden enables Electro application and burst support, Rosaria batteries Eula and can shred Physical RES at C6, while Thoma provides HP-scaled shielding and team survivability.
+Eula
+Main DPS
+Cryo
+Core damage dealer. Her Elemental Burst is the focus of the team and is amplified by Superconduct and off-field support.
+Artifacts
+Pale Flame
+Main Stats
+Sands
+ATK%
+Goblet
+Physical DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Song of Broken Pines
+Serpent Spine
+Raiden Shogun
+Sub DPS
+Electro
+Provides consistent Electro application to trigger Superconduct for Eula, contributes damage during Eula downtime, and boosts team Energy Recharge while increasing teammates' Elemental Burst damage.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Engulfing Lightning
+"The Catch"
+Rosaria
+Sub DPS
+Cryo
+Constellation 6+
+Deals most of her damage through Elemental Burst and acts as a battery for Eula. At C6, she reduces enemy Physical RES, further maximizing Eula's Burst damage.
+Artifacts
+Blizzard Strayer
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Skyward Spine
+Favonius Lance
+Thoma
+Support
+Pyro
+HP-scaled shielder built for maximum survivability. His shield keeps the team safe, and Tenacity of the Millelith increases team utility through its set bonus.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP / Energy Recharge
+Weapons
+Staff of Homa
+Black Tassel
+#7 eula_superconduct_thoma_shield_team
+Tier B
+A physical Eula Superconduct team with strong defensive utility from Thoma and off-field Electro application from Fischl. Chongyun adds extra Cryo support and cooldown utility, though his value is more situational here than in Eula's strongest teams.
+Eula
+Main DPS
+Cryo
+Core damage dealer. Her Elemental Burst is the centerpiece of the team and benefits heavily from Superconduct to boost Physical DMG output.
+Artifacts
+Pale Flame
+Main Stats
+Sands
+ATK%
+Goblet
+Physical DMG Bonus
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Song of Broken Pines
+Serpent Spine
+Fischl
+Sub DPS
+Electro
+Provides consistent off-field Electro application with Oz to maintain Superconduct uptime for Eula.
+Artifacts
+Thundering Fury
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Skyward Harp
+The Stringless
+Chongyun
+Sub DPS
+Cryo
+Constellation 2+
+Offers Cryo support and some cooldown reduction value at C2, though his Cryo infusion is generally not very relevant for Eula's physical-focused damage.
+Artifacts
+Blizzard Strayer
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Wolf's Gravestone
+Serpent Spine
+Thoma
+Support
+Pyro
+Shield support built for maximum HP to improve survivability. Tenacity of the Millelith helps further support the team with its buff uptime.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Staff of Homa
+Black Tassel
+#8 Yanfei Vaporize with Xingqiu, Sucrose and Thoma
+Tier A
+A Vaporize-focused Yanfei team with strong Hydro application from Xingqiu, Pyro shielding from Thoma, and Anemo support from Sucrose. Sucrose boosts team Elemental Mastery to increase Vaporize damage, while Thoma offers protection and extra survivability.
+Yanfei
+Main DPS
+Pyro
+Yanfei is the main DPS; her damage is amplified by Vaporize reactions in this team.
+Artifacts
+Wanderer's Troupe
+Main Stats
+Sands
+ATK%
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Lost Prayer to the Sacred Winds
+The Widsith
+Xingqiu
+Sub DPS
+Hydro
+Xingqiu's Elemental Burst applies Hydro continuously, enabling Yanfei to trigger Vaporize consistently.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Sacrificial Sword
+Sucrose
+Sub DPS
+Anemo
+Sucrose provides Elemental Mastery bonuses to the team, increasing Vaporize damage. Viridescent Venerer also helps reduce enemy elemental resistance.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Sacrificial Fragments
+Mappa Mare
+Thoma
+Support
+Pyro
+Thoma builds max HP to strengthen his shield and improve survivability for the team. Tenacity of the Millelith helps support the party while keeping the team protected.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Staff of Homa
+Black Tassel
+Thoma Teams FAQ
+What is the best Thoma team in Genshin Impact?
+Ayato Nahida Yelan Thoma Burgeon Team is one of the strongest Thoma teams right now. Use the team summary and build cards on this page to pick the best version for your account.
+What are good Thoma teams without premium weapons?
+You can run strong Thoma teams without signature weapons by prioritizing reaction synergy, energy consistency, and artifact main stats shown in each build card.
+Which teammates are best with Thoma?
+Common high-performing partners include teams such as Ayato Nahida Yelan Thoma Burgeon Team, Nahida Xingqiu Yelan Thoma Burgeon, hu_tao_xingqiu_kazuha_thoma_vaporize. Check each lineup section for role breakdowns and gear priorities.

@@ -1,0 +1,547 @@
+Home
+/
+Genshin Impact
+/
+Character List
+/
+Wriothesley Build
+Wriothesley Guide and Best Builds
+Wriothesley is the 5-Star
+Cryo
+Ousia-aligned character,
+Administrator of the Fortress of Meropide in Fontaine who enhances his own Normal and Charged
+attacks. Read our Wriothesley guide to learn more about
+Wriothesley's kit, Wriothesley's best Builds and also his Ascension and Talent Materials.
+Last updated
+on
+Oct 20, 2025
+at
+01:04
+by
+Jaymo
+1 comment
+A
+Rank
+Cryo
+Element
+Catalyst
+Weapon
+★
+★
+★
+★
+★
+Rarity
+Joe Zieja
+EN Voice Actor
+Daisuke Ono
+JP Voice Actor
+Wriothesley's Strengths & Weaknesses
+Strengths
+Constant Cryo use allowing frequent Freeze and Melt.
+Most damage comes from enhanced Normal attack, so Wriothesley is less dependent on any cooldowns or energy.
+Has low Energy requirements since he does not need to Burst every rotation.
+Self-Heal ability.
+Can cross water during exploration better than Kaeya or Chongyun.
+Weaknesses
+Needs a healer and a shielder, even when you have constellations.
+Maintaining high HP values can be tricky.
+Struggles in multi-target combat.
+Needs his C1 to be able to use efficiently his Charged Attack and personal healing.
+1.
+Wriothesley Build Guide, Best Artifacts, Weapons and Talent Priority
+Wriothesley focuses on dealing
+Cryo
+damage. Wriothesley's best
+build is as Main DPS in
+Melt
+and
+Freeze
+teams.
+As a Fontaine character, he also triggers Ousia.
+BiS Weapon
+Cashflow Supervision
+Alternative Weapons
+Tulaytullah's Remembrance
+Flowing Purity
+The Widsith
+Tome of the Eternal Flow
+Skyward Atlas
+Lost Prayer to the Sacred Winds
+Surf's Up
+Ballad of the Boundless Blue
+Dodoco Tales
+Blackcliff Agate
+Favonius Codex
+Kagura's Verity
+Memory of Dust
+Best Artifacts
+Marechaussee Hunter
+Main Stats
+Sand Stats:
+ATK %
+Goblet Stats:
+Cryo
+DMG
+Circlet Stats:
+CRIT Rate / DMG
+Substat Priority
+CRIT Rate / DMG
+ATK %
+Elemental Mastery
+Energy Recharge
+Talent Priority
+Normal Attack
+Elemental Skill
+Elemental Burst
+For Wriothesley's build, his best-in-slot weapon is his signature
+Cashflow Supervision
+.
+It is perfectly fitting for Wriothesley as it plays with his HP fluctuations and increases his
+Normal and Charged ATK DMG, which is what Wriothesley uses the most.
+Tulaytullah's Remembrance
+is also very good.
+Flowing Purity
+is the best F2P weapon as you can craft it and
+it provides some good bonuses as well.
+Wriothesley's build works best with the
+Marechaussee Hunter
+Artifact set fitting perfectly into his toolkit. It is also a set that a lot of
+characters can use, so it is always worth farming it.
+Wriothesley’s Energy Recharge requirements are in theory very low, unless you really want to
+be able to use his Burst every rotation. Know that it is not necessary to Burst every rotation
+with Wriothesley. However, if you still wish to do so, you will need around 200 %+ Energy
+Recharge. If you are ok with Bursting only every few rotations, then 100 % energy regeneration
+will be enough.
+For Wriothesley’s build, focus on his upgrading his Normal Attack in priority,
+as it is your primary source of damage.
+2.
+Recommended Endgame Build Stats for Wriothesley
+Build recommendations assume a "decently built" level of artifact rolls alongside 
+Wriothesley's best weapon. Using other weapons may increase or decrease certain stats relative to these recommendations.
+HP:
+15,000 - 20,000
+ATK:
+1700 - 2200
+CRIT Rate:
+40 - 60%
+CRIT DMG:
+200 - 240%
+Cryo DMG
+:
+40 - 50%
+ER:
+120 - 130%
+3.
+Wriothesley Combos and How to Play
+Wriothesley's damage comes mostly from his
+Forceful Fists of Frost
+:
+This attack allows him to deal up to 5
+Cryo
+DMG. Using your
+Elemental skill in between will not reset the combo, however, if you wait too long to hit again it will
+reset.
+Forceful Fists of Frost
+can be enhanced through
+Wriothesley’s Elemental Skill
+Icefang Rush
+. The Elemental skill
+also increases your resistance to interruption, and if Wriothesley’s HP is above 50%
+it will:
+Increase the Normal Attack DMG
+When you hit with the enhanced attacks, Wriothesley will loose HP
+To remedy the loss of HP, Wriothesley’s Charged Attack will be used. The Charged Attack
+unleashes a small AoE attack, and thanks to the
+There Shall Be a Plea for Justice
+passive,
+if you do the Charged attack when Wriothesley HP is under 60%, it will be enhanced as well:
+Enhanced Charged Attacks do not consume stamina
+Enhanced Charged Attacks deal more damage
+Enhanced Charged Attacks heal you
+You should use your Charged Attack when you are under
+Icefang Rush
+and under 60% HP in order to launch an extremely powerful charged attack that costs no stamina and
+heals you back up.
+His Elemental Burst on the other side is rather straight forward.
+Darkgold Wolfbite
+will activate Wriothesley’s Gauntlet and launch a
+Cryo
+attack in
+front of him. This attack hits in AoE and will also deal Ousia DMG.
+It is important to note that Wriothesley's C1 makes his rotation a lot smoother, as is will allow
+Wriothesley to trigger his
+There Shall Be a Plea for Justice
+through normal attacks,
+regarding of the amount of HP left.
+The proper rotation for C0 Wriothesley is:
+Icefang Rush
+x3
+Forceful Fists of Frost
+1
+Charged Attack
+You can use his Burst when it's available. If you have C1+ Wriothesley you can use 5
+Forceful Fists of Frost
+each time instead of 3.
+Be careful in Mono-Cryo teams as his Charged Attack Shatters Frozen enemies.
+4.
+Wriothesley's Best Team Comps
+Wriothesley functions the best in
+Melt
+and
+Freeze
+teams as a main DPS.
+4.1.
+Wriothesley Freeze Teams
+Main DPS
+Hydro
+Support
+Flex
+Wriothesley
+Furina
+Yelan
+Shenhe
+Xilonen
+Wriothesley
+Furina
+Kaedehara Kazuha
+Mika
+Wriothesley
+Furina
+Xingqiu
+Charlotte
+Wriothesley
+Furina
+Shenhe
+Citlali
+Sangonomiya Kokomi
+Wriothesley
+Furina
+Escoffier
+Citlali
+Yelan
+Wriothesley
+Furina
+Escoffier
+Dahlia
+Wriothesley’s Freeze team can be very flexible as the choice of teammates is very large.
+Hydro
+characters such as
+Furina
+,
+Yelan
+,
+or
+Xingqiu
+are very good characters that will help with Freeze while also providing
+buffs or off-field damage.
+Shenhe
+is one of the top buffer for
+Cryo
+characters, so if you have her, she will be the best buffer for Wriothesley.
+Escoffier
+is the best support for Wriothesley as well!
+The fourth slot is more of a flex: you can choose to use
+Anemo
+characters such as
+Kaedehara Kazuha
+to pack enemies, or a shielder to prevent
+Wriothesley from getting interrupted. A healer can also be appreciated as his self-heal
+will not necessary be enough against tough enemies.
+4.2.
+Wriothesley Melt Teams
+Main DPS
+Pyro
+Support
+Support
+Wriothesley
+Mavuika
+Bennett
+Zhongli
+Wriothesley
+Xiangling
+Dehya
+Bennett
+Kaedehara Kazuha
+Melt
+teams are another good option for Wriothesley.
+Bennett
+is a must have for the Melt teams. Additionally a sub-dps such as
+Mavuika
+or
+Xiangling
+will apply Pyro and trigger Melt.
+The fourth slot is best if filled with a shielder or anemo such as
+Kaedehara Kazuha
+or
+even a healer such as
+Xilonen
+.
+Main DPS
+Sub DPS
+Support
+Support
+Wriothesley
+Emilie
+Nahida
+Bennett
+Thoma
+An alternative to
+Melt
+is a Burnmelt
+team. This team will provide huge Pyro application through the burning from
+Dendro
+and
+Pyro
+that
+Wriothesley will be able to melt down.
+Emilie
+or
+Nahida
+are your best choices as they provide good
+Dendro
+application as well as
+off-field DMG.
+Thoma
+provides slow Pyro application and a good enough shield for Wriothesley.
+4.3.
+Wriothesley Mono Cryo Team
+Main DPS
+Sub DPS
+Support
+Support
+Wriothesley
+Rosaria
+Kaeya
+Shenhe
+Citlali
+Mika
+Layla
+Wriothesley can also be played in a Mono
+Cryo
+team.
+Rosaria
+is a good off-field DPS and battery, and she also provides some buffs.
+Shenhe
+is a must have buffer for mono
+Cryo
+teams.
+The fourth slot should be filled with a
+Cryo
+shielder or healer.
+5.
+Wriothesley's Ascensions, Talents, and Constellations
+Wriothesley Ascensions
+Wriothesley Talents
+Wriothesley Constellations
+5.1.
+Wriothesley Ascension Passives and Materials
+Unlock
+Ascension Passive
+Explanation
+With Character
+The Duke's Grace
+When Wriothesley crafts Weapon Ascension Materials, he has a 10%
+     chance to receive double the product.
+1st Ascension
+There Shall Be a Plea for Justice
+When Wriothesley's HP is less than 60%, he obtains a Gracious
+    Rebuke. The next Charged Attack of his Normal Attack: Forceful Fists of
+    Frost is enhanced to become Rebuke: Vaulting Fist. It does not consume
+    Stamina, deals 50% increased DMG, and after hitting restores HP for
+    Wriothesley equal to 30% of his Max HP. You can gain a Gracious Rebuke this
+    way once every 5s.
+4th Ascension
+There Shall Be a Reckoning for Sin
+When Wriothesley's current HP increases or decreases, if he is in the
+    Chilling Penalty state conferred by
+Icefang Rush
+,
+    Chilling Penalty gains one stack of Prosecution Edict. Max 5 stacks.
+    Each stack increases Wriothesley's ATK by 6%.
+Wriothesley requires a range of materials to ascend to the 6th ascension.
+Starting from the second ascension he gains additional CRIT DMG
+as he gains levels, giving a total of 38.4% CRIT DMG at the final ascension.
+The total cost to upgrade all ascensions is:
+Source
+Quantity
+Mora
+420,000 Mora
+Boss Material
+46x
+"Tourbillon Device"
+Ascension Material
+1x
+Shivada Jade Sliver
+9x
+Shivada Jade Fragment
+9x
+Shivada Jade Chunk
+6x
+Shivada Jade Gemstone
+Local Specialty
+168x
+Subdetection Unit
+Enhancement Material
+18x
+Meshing Gear
+30x
+Mechanical Spur Gear
+36x
+Artificed Dynamic Gear
+5.2.
+Wriothesley's Talents
+Listed below is each talent and a brief explanation of how they work.
+Type
+Talent Name
+Brief Explanation
+Normal
+Forceful Fists of Frost
+Standard normal attack deals 5
+Cryo
+DMG attacks.
+     Charged attack will unleash a Cryo AoE DMG around him. Plunging attacks
+     strike the ground below with an AoE of Cryo Damage.
+Elemental Skill
+Icefang Rush
+Wriothesley charges forward and enters a state of enhanced Normal
+    Attacks based on his current HP levels. He will increase his damage as long
+    as his health stays above 50%.
+Elemental Burst
+Darkgold Wolfbite
+Wriothesley activates his Cryo Gauntlets and strikes the area with
+    multiple Cryo AoE attacks in front of him.
+To upgrade a single talent to level 10, it costs:
+Source
+Quantity
+Mora
+1,625,500 Mora
+Special Material
+1x
+Crown of Insight
+Boss Material
+6x
+Primordial Greenbloom
+Domain Material
+3x
+Teachings of Order
+21x
+Guide to Order
+38x
+Philosophies of Order
+Enhancement Material
+6x
+Meshing Gear
+22x
+Mechanical Spur Gear
+31x
+Artificed Dynamic Gear
+5.3.
+Wriothesley's Constellations
+Wriothesley is perfectly viable at C0, however, his C1 adds real comfort to his gameplay,
+as well as much higher damage. The rest of his Constellations are very good as well,
+but you can do just fine at C1 max.
+#
+Name
+Explanation
+C1
+Terror for the Evildoers
+The Gracious Rebuke from
+There Shall Be a Plea for Justice
+is changed to the
+      following.
+When Wriothesley's HP is less than 60% or while he is in the Chilling
+      Penalty state caused by Icefang Rush, when the fifth attack of Repelling
+      Fists hits, it will create a Gracious Rebuke. 1 Gracious Rebuke effect
+      can be obtained every 2.5s.
+Additionally, Rebuke: Vaulting Fist will obtain the following
+      enhancementd.
+The DMG Bonus gained will be further increased to 200%.
+When it hits while Wriothesley is in the Chilling Penalty state,
+        that state's duration is extended by 4s. 1 such extension can occur per
+        1 Chilling Penalty duration.
+C2
+Shackles for the Arrogant
+When using
+Darkgold Wolfbite
+, each Prosecution
+    Edict stack from the Passive Talent "There Shall Be a Reckoning for Sin"
+    will increase said ability's DMG dealt by 40%.  You must first unlock the
+    Passive Talent
+There Shall Be a Reckoning for Sin
+.
+C3
+Punishment for the Frauds
+Increases the Level of
+Forceful Fists of Frost
+by 3.
+Maximum upgrade level is 15.
+C4
+Redemption for the Suffering
+The HP restored to Wriothesley through Rebuke: Vaulting Fist will be
+      increased to 50% of his Max HP. You must first unlock the Passive Talent
+There Shall Be a Plea for Justice
+.
+Additionally, when Wriothesley is healed, if the amount of healing
+      overflows, the following effects will occur depending on whether he is on
+      the field or not. If he is on the field, his ATK SPD will be increased by
+      20% for 4s. If he is off-field, all of your own party members' ATK SPD
+      will be increased by 10% for 6s. These two methods of increasing ATK SPD
+      cannot stack.
+C5
+Mercy for the Wronged
+Increases the Level of
+Darkgold Wolfbite
+by 3.
+Maximum upgrade level is 15.
+C6
+Esteem for the Innocent
+The CRIT Rate of Rebuke: Vaulting Fist will be
+    increased by 10%, and its CRIT DMG by 80%. When unleashed, it will also
+    create an additional icicle that deals 100% of Rebuke: Vaulting Fist's Base
+    DMG as Cryo DMG. DMG dealt this way is regarded as Charged Attack DMG. You
+    must first unlock the Passive Talent
+There Shall Be a Plea for Justice
+.
+Changelog
+20 Oct. 2025:
+Updated for Luna II.
+30 Jul. 2025:
+Updated for 5.8.
+17 Jun. 2025:
+Updated for 5.7.
+06 May 2025:
+Updated for 5.6.
+25 Mar. 2025:
+Updated for 5.5.
+09 Feb. 2025:
+Build Updated for 5.3.
+22 Oct. 2024:
+Build adjustment for new characters.
+14 Dec. 2023:
+Guide added.
+Show more
+Show less
+Need any help? Check out our
+General Discussion Forum
+!
+1 comment
+In The Same Category
+Kamisato Ayaka Best Builds Guide
+Skirk Best Builds Guide
+Escoffier Team Guide
+Kaeya Best Builds Guide
+Chongyun Best Builds Guide
+Diona Best Builds Guide
+Escoffier Profile & Talents
+Shenhe Best Builds Guide
+Ganyu Best Builds Guide
+Citlali Best Builds Guide
+Aloy Best Builds Guide
+Charlotte Best Builds Guide
+ABOUT THE AUTHOR
+Written by Jaymo, a longtime gamer who spends way too many hours exploring
+        open worlds, grinding in MMOs, and pulling for his favorite gacha characters.
+        He covers news and guides for all kinds of games, and just likes helping people
+        enjoy them more. You can find him hanging out on Twitch or chatting in Discord (jaym0).
+SUPPORT OUR WRITERS

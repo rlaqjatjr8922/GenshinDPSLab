@@ -1,0 +1,456 @@
+Home
+/
+Genshin Impact
+/
+Character List
+/
+Sucrose Build
+Sucrose Guide and Best Builds
+Sucrose is a 4-star Anemo Catalyst character that brings an Elemental Mastery
+boost to any team. She excels with Elemental Burst teams, adding a simple 'off-field'
+play style to power up other characters and their abilities. Not only can she boost
+damage for the rest of the team, but she can use her skills to group enemies up into
+packs and help to control the flow of battle.
+Last updated
+on
+Dec 02, 2025
+at
+20:55
+by
+Jaymo
+1 comment
+S+
+Rank
+Anemo
+Element
+Catalyst
+Weapon
+★
+★
+★
+★
+★
+Rarity
+Valeria Rodriguez
+EN Voice Actor
+Fujita Akane
+JP Voice Actor
+Sucrose's Strengths & Weaknesses
+Strengths
+Powerful Elemental Mastery Buff.
+Massive Team Versatility.
+Reliable both On-field and Off-field.
+Great CC from both Skill and Burst.
+Weaknesses
+Challenging to target desired elements to absorb with Burst.
+High Energy Cost Burst.
+Constellations feel required.
+1.
+Elemental Support Sucrose
+Sucrose's primary role is buffing other Elemental Damage dealers. She has a
+simple and fast rotation, swap her into the field and use her Elemental Skill
+to pull enemies together than boost another Element's DMG with her Elemental
+Burst. Now your ready to switch to another Sub DPS role and create some
+elemental reactions. Lastly, have your Main DPS join the party and watch the
+numbers explode. She can also be an On-field Driver, using her skills as the
+final trigger for chain reactions to devastate your enemies. Sucrose can repeat
+both these processes quite quickly and she is an amazing addition to any Elemental
+Burst team.
+BiS Weapon
+A Thousand Floating Dreams
+Alternate Weapons
+Wandering Evenstar
+Sacrificial Fragments
+Thrilling Tales of Dragon Slayers
+Best Artifacts
+Viridescent Venerer
+— 4-piece
+Instructor
+— 4-piece
+Main Stats
+Sand Stats
+: Elemental Mastery
+Goblet Stats
+: Elemental Mastery
+Circlet Stats
+: Elemental Mastery
+Substat Priority
+Energy Recharge
+Elemental Mastery
+CRIT Rate
+CRIT DMG
+Talent Priority
+Elemental Skill
+Elemental Burst
+Normal Attack
+Sucrose is solely focused on Elemental Mastery when it comes down to her weapon
+and Artifact choices. As for her Artifact selection there are two clear choices,
+Viridescent Venerer
+for its abilities to shred enemy RES
+and boost both
+Anemo
+and
+Swirl
+DMG. The
+Instructor
+set works for
+early game potential (pre-AR 45) and easily acquired. When it comes to her desired
+sub stats, we fall back to focusing on Energy Recharge and continue to stack
+Elemental Mastery. In either On or Off-field scenarios, aim for an Energy Recharge of
+120% for On-field play and 160% for Off-field.
+2.
+Combos and How to Play Sucrose
+When using Sucrose on your team, your first priority is to understand which
+reactions you should be targeting to maximize your damage. Sucrose has
+half-a-dozen teams she can be an effectively Off-fielder, and several more as
+an on-field driver. Each team has a unique style of targeting a different
+Elemental Reaction
+all with powerful results so you need to understand the three main
+reactions: Transformative, Amplifying and Additive.
+Transformative reactions use Elemental Mastery and Character levels to
+determine their damage. These reactions are:
+Bloom
+,
+Burgeon
+,
+Burning
+,
+Electro-Charged
+,
+Hyperbloom
+,
+Overloaded
+,
+Shatter
+,
+Superconduct
+and
+Swirl
+.
+These reactions typically ignore enemy defense stats and focus solely on
+their elemental Resistances which means you can target a given elemental
+weakness.
+Amplifying reactions scale from offensives stats on your characters
+and can CRIT. These hits are then multiplied by a reaction multiplier
+when triggered.. These reactions include:
+Melt
+and
+Vaporize
+.
+Additive reactions are similar to Transformative reactions in that they
+scale from Elemental Mastery and Character Level, but can also benefit
+from % DMG and CRITs. These reactions include:
+Aggravate
+and
+Spread
+.
+Every team that uses Sucrose will be driving for these triggered reactions
+and its important to develop your rotations, timing and needed stats to
+trigger massive damage. Overall, Sucrose is a powerful elemental ally with
+a huge versatility and very little talent investment.
+3.
+Sucrose's Best Team Comps
+Again, Sucrose can fit into so many teams, it can difficult to select
+which team preforms the best rather each one excels at different situations.
+However, with that being said we have chosen our team build based upon
+character availability (4 stars vs 5 stars), ease of play and overall damage potential.
+3.1.
+Sucrose National Team
+Main DPS
+Sub DPS
+Sub DPS
+Pyro buffer
+Xiangling
+Xingqiu
+Sucrose
+Bennett
+This team takes full advantage of the powerful Elemental Mastery stacking
+and buff provided by both Sucrose and
+Bennett
+. Using
+Xiangling
+'s powerful
+Pyronado
+you can build up some huge
+Vaporize
+DMG. Using this
+team you will need to develop your timing and skill using Xiangling's
+Guoba Attack
+in combination with Sucrose's
+Astable Anemohypostasis Creation - 6308
+to create a
+Pyro Swirl
+.
+3.2.
+Sucrose Taser Team
+Main DPS
+Sub DPS
+Sub DPS
+Shielder
+Sucrose
+Xingqiu
+Kuki Shinobu
+Beidou
+This is a great survival team with healing from
+Kuki Shinobu
+and
+Beidou
+'s powerful
+Stormbreaker
+which provides a good deal of DMG Reduction for Sucrose to
+be on-field driving reactions. This simple rotation doesn't provide
+massive damage numbers but triggers so many times against enemies that your
+damage will stack up quickly. Using Sucrose to trigger
+Swirl
+and
+Electro-Charged
+DMG is quite simple as long as you keep
+her defenses up and have
+Kuki Shinobu
+'s
+Sanctifying Ring
+heal at the ready.
+3.3.
+Sucrose Aggravate Team
+Main DPS
+Sub DPS
+Sub DPS
+Sub DPS
+Sucrose
+Fischl
+Kuki Shinobu
+Dendro Traveler
+This is fun and easy Aggravate to build with non-stop character swapping, good
+healing and too many reactions to count. To start this powerful rotation, use
+both
+Kuki Shinobu
+'s Elemental Skill
+Sanctifying Ring
+and Burst
+Gyoei Narukami Kariyama Rite
+. Then swap to
+Dendro Traveler
+using
+his Elemental Burst
+Surgent Manifestation
+to tag all of the
+enemies around you with
+Dendro
+. Now swap to
+Fischl
+and unleash Oz on to
+the field with
+Nightrider
+. Next, go for Sucrose and dump her
+skills, dragging the enemies into a big pile. Switching back to your Dendro
+Traveler to use his Elemental skill
+Razorgrass Blade
+this time,
+while you spam your Normal attacks. Your screen will fill with damage
+numbers and once they slow down, start everything over again with Kuki.
+This combination is fast and pays off well.
+Overall, there so many other teams that Sucrose is a key component for and
+the elemental reactions are incredible to watch. She truly is a master of
+the elements, and she proves that with her amazing versatility.
+4.
+Sucrose's Ascensions, Talents, and Constellations
+Sucrose's Ascensions
+Sucrose's Talents
+Sucrose's Constellations
+4.1.
+Sucrose's Ascension Passives and Materials
+Unlock
+Ascension Passive
+Explanation
+With Character
+Astable Invention
+When Sucrose crafts Character and Weapon Enhancement Materials, she
+     has a 10% chance to obtain double the product.
+1st Ascension
+Catalyst Conversion
+When Sucrose triggers a
+Swirl
+effect, all characters in the
+    party with the matching element (excluding Sucrose) have their
+    Elemental Mastery increased by 50 for 8s.
+4th Ascension
+Mollis Favonius
+When
+Astable Anemohypostasis Creation - 6308
+or
+Forbidden Creation - Isomer 75 / Type II
+hits an opponent, increases all
+    party members' (excluding Sucrose) Elemental Mastery based on 20% of
+    Sucrose's Elemental Mastery for 8s.
+Sucrose requires a range of materials to ascend to the 6th ascension.
+After her second ascension she gains an additional Anemo DMG bonus going up to 24% at
+her final Ascension(6th). The total cost of all Sucrose's Ascensions is:
+Source
+Quantity
+Mora
+420,000 Mora
+Boss Material
+46x
+Hurricane Seed
+Ascension Material
+1x
+Vayuda Turquoise Sliver
+9x
+Vayuda Turquoise Fragment
+9x
+Vayuda Turquoise Chunk
+6x
+Vayuda Turquoise Gemstone
+Local Specialty
+168x
+Windwheel Aster
+Enhancement Material
+18x
+Whopperflower Nectar
+30x
+Shimmering Nectar
+36x
+Energy Nectar
+4.2.
+Sucrose's Talents
+Listed below is each talent and a brief explanation of how they work.
+Type
+Talent Name
+Brief Explanation
+Normal
+Wind Spirit Creation
+Standard normal attack dealing 4 consecutive strikes with
+     Anemo DMG.
+Charged Attack
+casts an AoE
+     Anemo spell after a short casting time. Her
+Plunging Attack
+is a mid-air strike with an AoE Anemo
+     DMG ring upon impact.
+Elemental Skill
+Astable Anemohypostasis Creation - 6308
+Creates a small Wind Spirit that pulls opponents and objects towards
+    its location, launches opponents within its AoE, and deals
+Anemo
+DMG.
+Elemental Burst
+Forbidden Creation - Isomer 75 / Type II
+Casts a Large Wind spirit. While it persists, the Large Wind Spirit
+      will continuously pull in surrounding opponents and objects, launch
+      nearby opponents, and deal Anemo DMG.
+If the Wind Spirit comes into contact with
+Hydro
+/
+Pyro
+/
+Cryo
+/
+Electro
+energy, it will deal additional Elemental DMG of that type.
+To upgrade a single talent to level 10, it costs:
+Source
+Quantity
+Mora
+1,625,500 Mora
+Special Material
+1x
+Crown of Insight
+Boss Material
+6x
+Spirit Locket of Boreas
+Domain Material
+3x
+Teachings of Freedom
+21x
+Guide to Freedom
+38x
+Philosophies of Freedom
+Enhancement Material
+6x
+Whopperflower Nectar
+22x
+Shimmering Nectar
+31x
+Energy Nectar
+4.3.
+Sucrose's Constellations
+Clustered Vacuum Field
+(C1) and
+Chaotic Entropy
+(C6)
+are the two most prized constellations you want to aim for. The first grants
+Sucrose an additional charge for her
+Astable Anemohypostasis Creation - 6308
+. The second one grants all
+party members 20% increased Elemental DMG for the corresponding element
+Sucrose's
+Forbidden Creation - Isomer 75 / Type II
+absorbs.
+#
+Name
+Explanation
+C1
+Clustered Vacuum Field
+Astable Anemohypostasis Creation - 6308
+gains 1
+    additional charge.
+C2
+Beth: Unbound Form
+The duration of
+Forbidden Creation - Isomer 75 / Type II
+is
+    increased by 2s.
+C3
+Flawless Alchemistress
+Increases the Level of
+Astable Anemohypostasis Creation - 6308
+by 3.
+Maximum upgrade level is 15.
+C4
+Alchemania
+Every 7 Normal and Charged Attacks, Sucrose will reduce the CD of
+Astable Anemohypostasis Creation - 6308
+by 1-7s.
+C5
+Caution: Standard Flask
+Increases the Level of
+Forbidden Creation - Isomer 75 / Type II
+by 3.
+Maximum upgrade level is 15.
+C6
+Chaotic Entropy
+If
+Forbidden Creation - Isomer 75 / Type II
+triggers an
+    Elemental Absorption, all party members gain a 20% Elemental DMG Bonus for
+    the corresponding absorbed element during its duration.
+Changelog
+22 Oct. 2024:
+Build Reviewed for Update 5.1.
+29 Nov. 2023:
+Guide added.
+Show more
+Show less
+Need any help? Check out our
+General Discussion Forum
+!
+1 comment
+In The Same Category
+Shikanoin Heizou Best Builds Guide
+Jahoda Best Builds Guide
+Prune Team Guide
+Venti Best Builds Guide
+Lan Yan Best Builds Guide
+Faruzan Profile & Talents
+Xiao Team Guide
+Xianyun Best Builds Guide
+Prune Profile & Talents
+Wanderer Best Builds Guide
+Varka Team Guide
+Kaedehara Kazuha Best Builds Guide
+ABOUT THE AUTHOR
+Written by Jaymo, a longtime gamer who spends way too many hours exploring
+        open worlds, grinding in MMOs, and pulling for his favorite gacha characters.
+        He covers news and guides for all kinds of games, and just likes helping people
+        enjoy them more. You can find him hanging out on Twitch or chatting in Discord (jaym0).
+SUPPORT OUR WRITERS

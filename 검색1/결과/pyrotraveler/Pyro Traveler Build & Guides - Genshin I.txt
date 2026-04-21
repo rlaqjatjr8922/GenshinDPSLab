@@ -1,0 +1,451 @@
+Home
+/
+Genshin Impact
+/
+Character List
+/
+Pyro Traveler Build
+Pyro Traveler Guide and Best Builds
+The
+Pyro
+Traveler is Natlan's version of
+our traveler kit featuring their own Nightsoul Blessing state
+like other Natlan characters. Our Pyro Traveler guide covers 
+their best build and other information.
+Last updated
+on
+Oct 26, 2025
+at
+09:35
+by
+Shikhu
+1 comment
+B
+Rank
+Pyro
+Element
+Sword
+Weapon
+★
+★
+★
+★
+★
+Rarity
+Aether: Zach Aguilar, Lumine: Sarah Miller-Crews
+EN Voice Actor
+Aether: Horie Shun, Lumine: Yuuki Aoi
+JP Voice Actor
+Pyro Traveler's Strengths & Weaknesses
+Strengths
+Simple and easy to play.
+C6 grants a Pyro Infusion making reactions much easier.
+Able to hold Scroll of the Hero of Cinder City to buff the team.
+Weaknesses
+High Energy Recharge requirements.
+Constellations locked behind Natlan reputation meaning they take months of weeklies to unlock.
+Low damage as a result of poor scaling and low Pyro application.
+1.
+Pyro Traveler Build Guide, Best Artifacts, Weapons and Talent Priority
+The Pyro Traveler has 2 different available builds. The first being as a 
+general support and providing team utility and the second being as a 
+source of Pyro for elemental reactions in mainly Overload and Burgeon teams.
+2.
+Pyro Traveler's Build Options
+Support Build
+Reaction DPS Build
+3.
+Support Pyro Traveler Build
+BiS Weapon
+Favonius Sword
+Alternative Weapons
+Peak Patrol Song
+Freedom-Sworn
+Sacrificial Sword
+Best Artifacts
+Scroll of the Hero of Cinder City
+Tenacity of the Millelith
+Main Stats
+Sand Stats:
+Energy Recharge
+Goblet Stats:
+Pyro
+DMG
+Circlet Stats:
+CRIT Rate / DMG
+Substat Priority
+Energy Recharge to Requirements
+CRIT Rate / DMG
+ATK %
+DEF % (With
+Peak Patrol Song
+)
+Talent Priority
+Elemental Skill
+Elemental Burst
+In this support Traveler build, your best weapon is
+Favonius Sword
+which provides energy for the team making it the perfect supportive weapon. 
+Outside of
+Sacrificial Sword
+, other good options are 5-Star weapons 
+generally best placed on the characters they are designed for.
+Scroll of the Hero of Cinder City
+is by far the best artifact
+set to use in most situations due to the buffs it grants the team however 
+other generalist supportive sets such as
+Tenacity of the Millelith
+,
+Noblesse Oblige
+and even
+Instructor
+can be good 
+depending on the team.
+As a Support you want around 210-240% Energy Recharge with the
+exact amount highly depending on your team. Aside from that,
+focus on CRIT Rate/DMG to increase your damage.
+4.
+Reaction Pyro Traveler Build
+BiS Weapon
+Freedom-Sworn
+Alternative Weapons
+Xiphos' Moonlight
+Favonius Sword
+Iron Sting
+Sacrificial Sword
+Best Artifacts
+Scroll of the Hero of Cinder City
+Flower of Paradise Lost
+Main Stats
+Sand Stats:
+Elemental Mastery / Energy Recharge
+Goblet Stats:
+Elemental Mastery
+Circlet Stats:
+Elemental Mastery
+Substat Priority
+Energy Recharge to Requirements
+Elemental Mastery
+CRIT Rate (with Favonius)
+Talent Priority
+Elemental Skill
+Elemental Burst
+In this build the main focus is entirely on Elemental Mastery to increase 
+reaction damage.
+Freedom-Sworn
+is your best weapon for this, 
+however as a F2P build option
+Favonius Sword
+is still great 
+due to how much it lowers ER requirements.
+Scroll of the Hero of Cinder City
+is generally the best artifact
+set to use in most situations due to the buffs it grants the team however
+Flower of Paradise Lost
+is a great second place.
+This build needs a lot more Energy Recharge compared to the previous build, 
+often wanting around 240-270 depending on if playing the Traveler in Overload 
+teams or in Burgeon team compositions.
+5.
+Combos and How to Play Pyro Traveler
+The Pyro Traveler as a support is incredibly easy to play.
+Flowfire Blade
+is your Elemental Skill and how you apply
+Pyro
+while off-field.
+This skill has 2 variations that both generate the same amount of nightsoul (42):
+Tap - Periodically deals
+Pyro
+to nearby enemies.
+Hold - Deals
+Pyro
+in the form of Coordinated Attacks once every 3s.
+Both drain nightsoul over time, whats best can depend but most of the
+time
+Hold
+will be your best option outside of
+Burgeon
+.
+Outside of that, all you need to worry about is your Elemental Burst
+Plains Scorcher
+which deals AoE
+Pyro
+DMG but more importantly restores nightsoul. Because of that, you want to burst
+every rotation alongside your skill before swapping characters.
+6.
+Pyro Traveler Best Team Comps
+The Pyro Traveler can be a great F2P support option for teams that
+want additional
+Pyro
+application for example
+Burning
+and
+Overload
+teams.
+6.1.
+Pyro Traveler Support Teams
+Main DPS
+Support
+Support
+Support
+Varesa
+Pyro Traveler
+Chevreuse
+Iansan
+Mualani
+Pyro Traveler
+Sucrose
+Xilonen
+Kinich
+Pyro Traveler
+Emilie
+Bennett
+Raiden Shogun
+Pyro Traveler
+Chevreuse
+Bennett
+Our recommended build is as a support to utilise
+Scroll of the Hero of Cinder City
+and their off-field
+Pyro
+application. While not 
+exclusively, this often means that the Pyro Traveler is best to support 
+Natlan DPS such as
+Mualani
+,
+Kinich
+,
+Varesa
+and so on.
+6.2.
+Pyro Traveler Burgeon Teams
+Main DPS
+Support
+Support
+Support
+Nahida
+Pyro Traveler
+Furina
+Sangonomiya Kokomi
+The Pyro Traveler is a great option in Burgeon teams with their slower
+Pyro
+application. This involves at least 1
+Dendro
+unit however 2 can also be great for Dendro Resonance, and a
+Hydro
+character for bloom cores to generate.
+7.
+Pyro Traveler's Ascensions, Talents, and Constellations
+Pyro Traveler Ascensions
+Pyro Traveler Talents
+Pyro Traveler Constellations
+7.1.
+Pyro Traveler Ascension Passives and Materials
+Ascension Passive
+Explanation
+True Flame of Incineration
+When the Traveler has over 20 Nightsoul points, the attack AoE of the
+     Blazing and Scorching Thresholds from the Elemental Skill
+Flowfire Blade
+after they hit opponents is increased.
+Embers Unspent
+After the current active character inside a Blazing Threshold or
+    Scorching Threshold triggers Burning, Vaporize, Melt, Overloaded, Burgeon,
+    a Pyro Swirl or a Pyro Crystallize reaction, the Traveler will regain 5
+    Energy. This can occur once every 12s. Additionally, when a nearby party
+    member triggers a Nightsoul Burst, the Traveler will regain 4 Energy.
+Pyro Traveler gains ATK % as they levels giving them a total of 24% ATK %
+at level 90.
+The total cost to upgrade all ascensions is:
+Source
+Quantity
+Mora
+420,000 Mora
+Ascension Material
+1x
+Brilliant Diamond Sliver
+9x
+Brilliant Diamond Fragment
+9x
+Brilliant Diamond Chunk
+6x
+Brilliant Diamond Gemstone
+Local Specialty
+168x
+Windwheel Aster
+Enhancement Material
+18x
+Damaged Mask
+30x
+Stained Mask
+36x
+Ominous Mask
+7.2.
+Pyro Traveler's Talents
+Type
+Talent Name
+Brief Explanation
+Normal
+Foreign Blaze
+Normal Attack
+Performs up to 5 rapid strikes.
+Charged Attack
+Consumes a certain amount of Stamina to unleash 2 rapid sword strikes.
+Plunging Attack
+Plunges from mid-air to strike the ground below, damaging opponents
+      along the path and dealing AoE DMG upon impact.
+Elemental Skill
+Flowfire Blade
+Wields a searing flame that can incinerate the very earth. Has different
+    effects when Tapped or Held.
+Tap
+Call forth flames in a raging blaze. When used, the Traveler gains 42
+    Nightsoul points and enters the Nightsoul's Blessing state, summoning a
+    Blazing Threshold that follows the current active character.
+    When the Blazing Threshold gets close to opponents, it will deal
+    Nightsoul-aligned
+Pyro
+DMG to nearby opponents at intervals.
+Hold
+Unleash fire in a composed manner, dealing Nightsoul-aligned AoE
+Pyro
+DMG to nearby opponents. When used, the Traveler gains 42 Nightsoul points
+    and enters the Nightsoul's Blessing state, summoning a Scorching Threshold
+    that follows the current active character.
+When the current active character within a Scorching Threshold deals
+    DMG to opponents, the Threshold will launch a Coordinated Attack that
+    deals Nightsoul-aligned Pyro DMG based on the Traveler's ATK. This effect can occur once every 3s.
+Nightsoul's Blessing: Traveler
+Continuously consumes Nightsoul points. The Traveler's Nightsoul's
+    Blessing state lasts 12s at maximum, and when their Nightsoul points are
+    exhausted, or if the skill is used again, this state will end.
+Blazing and Scorching Thresholds will disappear once the Traveler's
+    Nightsoul's Blessing state ends, and only 1 Blazing or Scorching Threshold
+    summoned by the Traveler themselves can exist at any one time.
+Elemental Burst
+Plains Scorcher
+Condense the flames into a mark, dealing Nightsoul-aligned AoE Pyro DMG to opponents up ahead. Within the next 4s, the Traveler restores 7 Nightsoul points per second.
+The Pyro Traveler's Talent materials works differently compared to
+both other characters in Genshin as well as other Elements that the Traveler
+has that you can build. Unlike previous Traveler builds, Pyro Traveler
+uses an unlockable item called
+The Cornerstone of Stars and Flames
+which can be obtained from Archon Quests, World Quests and Tribal Chronicles.
+These are used after Talent Level 6.
+The total costs to level a single talent to level 10 is:
+Source
+Quantity
+Mora
+1,625,500 Mora
+Special Material
+1x
+Crown of Insight
+Unique Material
+4x
+The Cornerstone of Stars and Flames
+Domain Material
+3x
+Teachings of Contention
+6x
+Guide to Contention
+6x
+Philosophies of Contention
+4x
+Guide to Conflict
+20x
+Philosophies of Conflict
+11x
+Guide to Kindling
+12x
+Philosophies of Kindling
+Enhancement Material
+6x
+Sentry's Wooden Whistle
+22x
+Warrior's Metal Whistle
+31x
+Saurian-Crowned Warrior's Golden Whistle
+7.3.
+Pyro Traveler's Constellations
+Pyro Traveler's Constellations work differently to other characters. Firstly,
+the Traveler has a set of constellations from the Archon Quest to be used
+exclusively on a weekly boss battle and have no benefits in
+normal combat. Secondly, Pyro Traveler's Constellations are obtained with
+Blazing Flint Ore
+'s from Trial Reputation in Natlan. This 
+means if you are just starting now, it will take a while before you can 
+unlock these constellations.
+Natlan Tribal Reputation
+#
+Name
+Explanation
+C1
+Starfire's Flowing Light
+While Blazing Threshold or Scorching Threshold are active, the current
+    active character deals 6% increased DMG. If said character is in the
+    Nightsoul's Blessing state, they will deal an additional 9% DMG.
+C2
+Ever-Lit Candle
+Within 12s of using the Elemental Skill Flowfire Blade, after nearby
+    party members trigger Burning, Vaporize, Melt, Overloaded, Burgeon, a
+    Pyro Swirl or a Pyro Crystallize reaction on an opponent, the Traveler
+    will regain 14 Nightsoul points. Each use of Flowfire Blade will restore at
+    most 28 Nightsoul points in this way.
+C3
+Relayed Beacon
+Increases the Level of
+Flowfire Blade
+by 3.
+C4
+Ravaging Flame
+After using the Elemental Burst
+Plains Scorcher
+,
+    the Traveler gains 20% Pyro DMG Bonus for 9s.
+C5
+The Fire Inextinguishable
+Increases the Level of
+Plains Scorcher
+by 3.
+C6
+The Sacred Flame Imperishable
+While in the Nightsoul's Blessing state, the Traveler's Normal,
+    Charged, and Plunging Attacks will be converted to Nightsoul-aligned
+Pyro
+DMG that cannot be overridden, and the CRIT
+    DMG of these attacks is increased by 40%.
+Changelog
+26 Oct. 2025:
+Updated for 6.1.
+12 Feb. 2025:
+Reviewed for 5.4.
+02 Jan. 2025:
+Full guide released.
+10 Dec. 2024:
+Page added.
+Show more
+Show less
+Need any help? Check out our
+General Discussion Forum
+!
+1 comment
+In The Same Category
+Lyney Best Builds Guide
+Hu Tao Best Builds Guide
+Durin Team Guide
+Dehya Best Builds Guide
+Thoma Best Builds Guide
+Mavuika Best Builds Guide
+Durin Profile & Talents
+Mavuika Profile & Talents
+Diluc Profile & Talents
+Xiangling Best Builds Guide
+Chevreuse Best Builds Guide
+Diluc Team Guide
+ABOUT THE AUTHOR
+This guide has been written by Shikhu (Discord - Shikhu), an avid Genshin Impact player who has
+          been exploring Teyvat since the game has launched. He has experienced
+          all the game has to offer from building his favorite characters,
+          exploring the world to clearing Spiral Abyss each rotation. His
+          favorite character being his C6 Furina.
+SUPPORT OUR WRITERS

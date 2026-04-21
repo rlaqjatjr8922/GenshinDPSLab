@@ -1,0 +1,146 @@
+Home
+Blog
+Genshin Impact Hub
+Genshin impact 4.8: Navia Build Guide, optimal artifacts, weapons, and team comps
+Genshin impact 4.8: Navia Build Guide, optimal artifacts, weapons, and team comps
+Daniel Mitchell
+Aug 15, 2024
+Share
+Navia is a 5-star Geo Claymore user in Genshin Impact 4.3.
+Welcome to the ultimate guide on mastering the art of playing Navia in Genshin Impact! As a Geo-aligned character from the Ousia faction, Navia brings a unique blend of power and strategy to the battlefield. As the current president of the Spina di Rosula, she not only carries the legacy of her late father Callas but also the responsibility of leading her people with honor and strength.
+This comprehensive build guide will delve into the intricacies of Navia's artifacts, weapons, and team compositions, providing you with the knowledge and tools needed to optimize her potential in every battle. Whether you're a seasoned Genshin Impact player or just starting your journey, this guide from
+Lootbar.gg
+will be your go-to resource for harnessing the full might of Navia. Let's gear up and dive into the world of Geo magic with Navia at the helm!
+Basic information
+Navia Ascension and Talent Material Conclusion
+Best build for Navia
+1
+.
+Nighttime Whispers DPS
+Embracing the Crystallize mechanic as a core component of her combat style, Navia excels as a Damage Per Second (DPS) character. The Nighttime Whispers artifact set is her optimal choice, expertly crafted to amplify her elemental prowess and enhance her synergy with the Crystallize reaction, boosting her overall damage output significantly.
+While you're on the quest to acquire the perfect set, don't overlook the potential of mixing and matching pieces from Archaic Petra, the Golden Troupe, or even focusing on raw ATK with sets like Gladiator's Finale.
+For the pinnacle of her arsenal, the newly introduced 5-star claymore, Verdict, stands out as the quintessential weapon for Navia. It's designed to elevate her Crystallize synergy to new heights, ensuring that each swing of her blade packs a devastating punch. Let's explore how to make the most of these elements to craft the ultimate Navia build.
+2
+.
+Marechausee Hunter DPS with Furina
+In the company of Furina, Navia can be strategically tailored into a specialized build that maximizes her role as a Main DPS. The Marechaussee Hunter artifact set is an excellent choice for this purpose, as it not only bolsters her Normal Attack damage but also alleviates the pressure on achieving a high CRIT Rate through traditional means.
+This build opens up the possibility for Navia to wield weapons that capitalize on Health Point (HP) fluctuations, providing a dynamic approach to combat where her damage potential can surge in tandem with her resilience. By integrating this specialized build with the right weapon selection, Navia can become a formidable force on the battlefield, striking with both precision and power. Let's delve into the details of how this build can elevate Navia's performance in your team compositions.
+3
+.
+Quick-swap Geo Burst DPS
+Embracing a swift and tactical quick-swap playstyle, Navia's build can be creatively assembled with a combination of the latest artifact set or by incorporating pieces from the Golden Troupe, Archaic Petra, or even the prestigious Noblesse Oblige. This versatile approach allows for flexibility in enhancing her abilities while maintaining a strong elemental foundation.
+Our recommendation for optimizing Navia's potential includes pairing her with another Geo DPS character to amplify the Crystallize reaction. Additionally, having an elemental applicator in your team ensures a steady supply of elemental particles, which are crucial for generating the Crystallize shards that Navia needs to maximize her elemental skill effects.
+This strategic ensemble not only enhances Navia's burst capabilities but also ensures that she remains a pivotal element in your team's overall elemental strategy. Let's explore how this quick-swap burst playstyle can be seamlessly integrated into your team's composition for optimal results.
+Best weapons for Navia
+The Verdict stands as Navia's ultimate weapon choice, providing a comprehensive boost to her combat prowess. This 5-star claymore not only enhances her Critical (CRIT) stats and Attack (ATK), but also offers Elemental Skill bonuses, all of which are essential for amplifying her initial burst of damage. Its well-rounded stats make it an ideal fit for Navia's aggressive playstyle.
+However, if you're looking to experiment with different strategies, consider equipping her with the Serpent Spine or The Unforged. These weapons can offer alternative benefits, particularly when you aim to leverage the Crystallize reaction for creating powerful shields. The Serpent Spine, with its focus on HP and DEF, can be a strategic choice for enhancing survivability, while The Unforged can provide a unique utility in managing elemental reactions.
+By selecting the right weapon, you can tailor Navia's role in your team, whether you prioritize raw damage output or strategic shielding. Let's delve into how these weapon options can complement Navia's capabilities and further refine her gameplay.
+1.
+Verdict
+Base ATK
+: 674
+Bonus Stat
+: CRIT Rate 22.1%
+Skill Effect
+: Increases ATK by
+20%
+. When characters in your party obtain Elemental Shards from Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by
+18%
+. The Seal lasts for 15s, and the equipper may have up to 2 Seals at once. All of the equipper's Seals will disappear 0.2s after their Elemental Skill deals DMG.
+2.
+Serpent Spine
+Base ATK
+: 510
+Bonus Stat
+: CRIT Rate 27.6%
+Skill Effect
+: Every 4s a character is on the field, they will deal
+6%
+more DMG and take
+3%
+more DMG. This effect has a maximum of 5 stacks and will not be reset if the character leaves the field, but will be reduced by 1 stack when the character takes DMG.
+3.
+The Unforged
+Base ATK
+: 608
+Bonus Stat
+: ATK 49.6%
+Skill Effect
+: Increases Shield Strength by 20%. Scoring hits on opponents increases ATK by 4% for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, ATK increase effect is increased by 100%.
+4.
+Beacon of the Reed Sea
+Base ATK
+: 608
+Bonus Stat
+: CRIT Rate 33.1%
+Skill Effect
+: After the character's Elemental Skill hits an opponent, their ATK will be increased by
+20%
+for 8s. After the character takes DMG, their ATK will be increased by
+20%
+for 8s. The 2 aforementioned effects can be triggered even when the character is not on the field. Additionally, when not protected by a shield, the character's Max HP will be increased by
+32%
+.
+5.
+Ultimate Overlord' s Mega Magic Sword
+Base ATK
+: 565
+Bonus Stat
+: Energy Recharge 30.6%
+Skill Effect
+: ATK increased by
+12%
+. That's not all! The support from all Melusines you've helped in Merusea Village fills you with strength! Based on the number of them you've helped, your ATK is increased by up to an additional
+12%
+.
+Best Artifacts for Navia
+Nighttime Whispers from the Echoing Woods is the optimal artifact set for Navia, amplifying her overall damage output. It perfectly complements her dependence on the Crystallize reaction.
+1.
+Nighttime Whispers
+2-PC
+: ATK +18%
+4-PC
+: After using an Elemental Skill, gain a 20% Geo DMG Bonus for 10s. While under a shield granted by the Crystallize reaction, the above effect will be increased by 150%, and this additional increase disappears 1s after that shield is lost.
+2.
+Marechaussee Hunter
+2-PC
+: Normal and Charged Attack DMG +15%
+4-PC
+: When current HP increases or decreases, CRIT Rate will be increased by 12% for 5s. Max 3 stacks.
+3.
+Archaic Petra
+2-PC
+: Geo DMG Bonus +20%
+4.
+Gladiator' s Finale
+2-PC
+:ATK +18%
+Team Comps Recommendations
+Navia thrives in a team adept at activating the Crystallize reaction efficiently. To maximize her potential, she requires skilled Sub-DPS allies capable of introducing additional elemental effects and delivering off-field damage.
+1.
+Navia Hypercarry Team
+In these team compositions, Navia's role is to capitalize on the elemental diversity applied to enemies, enabling her to execute Crystallize effectively. As a core player on-field, she'll initiate her own Elemental Skills or Bursts following the setup by her teammates.
+Characters like Xiangling and Yelan work well in this as they are capable in dealing Off-Field damage as Navia takes the field.
+2.
+Navia Main DPS in Furina Teams
+Navia's compatibility with the Marechaussee Hunter set makes her an excellent partner for Furina, especially in leveraging her off-field capabilities. Integrating a team-wide healer such as Charlotte can further enhance Furina's damage output, but traditional support characters like Bennett are equally viable for boosting the team's overall performance.
+3.
+Navia Sub DPS Teams
+Navia's agility in quickswapping positions her well for a Sub-DPS role within teams featuring other prominent DPS characters. By incorporating Furina alongside Noelle as the Main DPS, you can create a balanced team composition that offers healing, damage, elemental resonance, and damage buffs specifically for Navia.
+Additionally, Navia can don the Archaic Petra set to bolster her teammates from the sidelines, switching to her strategically to introduce Geo elements amidst a mix of other elemental influences.
+Summary
+Firstly, it should be noted that Navia, as a C0 character, is not particularly highly recommended for pulling, because the strength of Neuvillette, Furina, and Arlecchino is clearly much higher than that of Navia. In the case of full constellation, Wriothesley and Clorinthe are also stronger than Navia. Therefore, it is not recommended to pull for Navia if you have other elemental main DPS characters. However, if you enjoy playing with a Geo team and lack a character for single-target combat, then Navia could be a good pull for you.
+Conclusion
+Navia Caspar, a 5-star Geo Claymore user in Genshin Impact 4.3, is a powerful character from the Ousia faction. This guide covers her optimal builds, including artifacts, weapons, and team compositions. Navia excels as a DPS character, leveraging the Crystallize reaction with the Nighttime Whispers artifact set and the 5-star claymore, Verdict. Alternative builds include Marechaussee Hunter DPS with Furina and a quick-swap Geo Burst DPS. While not the strongest pull compared to other characters, Navia is ideal for Geo teams and single-target combat.
+Are you an avid Genshin Impact player looking to enhance your gaming experience? You absolutely need to purchase Genesis Crystals to unlock new characters, weapons, and other exciting in-game items. The best place to top up your Genshin Impact account is at
+LootBar.gg
+. Follow the simple steps to get your Genesis Crystals quickly and securely. Don't miss out on the additional rewards for your first recharge!
+For a seamless and hassle-free top-up process, head over to
+LootBar.gg
+. Select Genshin Impact from the top-up column, decide the amount of Genesis Crystals you want, and enter your Genshin Impact UID and server. It's that easy! Make sure to fill in the required information accurately to ensure your recharge is successful. LootBar.gg is the go-to platform for all your Genshin Impact top-up needs.
+Why wait? Enhance your Genshin Impact gameplay today by purchasing Genesis Crystals from
+LootBar.gg
+. Not only will you receive your crystals instantly, but you'll also benefit from additional in-game rewards if it's your first recharge. Remember, by clicking Top-up Now, you agree to the terms and conditions, ensuring a secure and reliable transaction. Don't miss out on this opportunity to elevate your gaming experience!
+Daniel Mitchell
+Gaming writer
+Daniel Mitchell is an accomplished American gaming writer and RPG enthusiast, currently serving as the Lead Editor of LootBar’s Genshin Impact Walkthrough Team. With dual degrees in English Literature, he blends his expertise in literary analysis with extensive knowledge of the gaming industry.

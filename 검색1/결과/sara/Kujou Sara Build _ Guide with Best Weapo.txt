@@ -1,0 +1,254 @@
+Kujou Sara
+4
+★
+Bow
+Electro
+A general of the Tenryou Commission
+.
+Basic Stats
+Nv.
+90
+HP
+9570
+ATK
+195
+DEF
+628
+ATK
+24%
+Basic Stats
+Nv.
+90
+HP
+9570
+ATK
+195
+DEF
+628
+ATK
+24%
+Kujou Sara
+Ascension Materials
+Vajrada Amethyst Sliver
+Dendrobium
+Storm Beads
+Damaged Mask
+Teachings of Elegance
+Ashen Heart
+Kujou Sara
+Best Weapon
+Skyward Harp
+Level
+.
+90
+ATK
+674
+CRIT Rate
+22.1%
+Refinement
+.
+5
+Increases CRIT DMG by 40%. Hits have a 100% chance to inflict a small AoE attack, dealing 125% Physical ATK DMG. Can only occur once every 2s.
+Other Weapons
+2
+°
+Elegy for the End
+Energy Recharge
+3
+°
+Chain Breaker
+ATK
+4
+°
+Sacrificial Bow
+Energy Recharge
+Kujou Sara
+Best Artifact Set
+Emblem of Severed Fate
+2 Pc
+:
+Energy Recharge +20%
+4 Pc
+:
+Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.
+Artifacts Main Stats
+Sands
+:
+ATK % / ER %
+Goblet
+:
+Electro Bonus
+Circlet
+:
+Crit Rate / Crit Damage
+Artifacts Substats
+Energy Recharge
+Crit Rate
+Crit Damage
+ATK %
+Other Artifacts Sets
+2
+°
+4x
+Noblesse Oblige
+3
+°
+2x
+Thundering Fury
+2x
+Noblesse Oblige
+Kujou Sara
+Talent Priority
+1
+°
+Elemental Skill
+2
+°
+Elemental Burst
+Kujou Sara
+Best Teams
+Time #
+1
+Main DPS
+Sub-DPS
+Support
+Support
+Raiden
+Kazuha
+Sara
+Bennett
+Time #
+2
+Main DPS
+Sub-DPS
+Support
+Support
+Raiden
+Xiangling
+Sara
+Bennett
+Kujou Sara
+Ascension Costs
+Cost
+5
+→
+6
+120
+K
+Vajrada Amethyst Gemstone
+6
+Storm Beads
+20
+Dendrobium
+60
+Ominous Mask
+24
+Kujou Sara
+Talents Costs
+Cost
+9
+→
+10
+700
+K
+Philosophies of Elegance
+16
+Ominous Mask
+12
+Ashen Heart
+2
+Crown of Insight
+1
+Kujou Sara
+Talents
+Normal Attack
+Tengu Bowmanship
+Normal Attack
+Performs up to 5 consecutive shots with a bow.
+Charged Attack
+Performs a more precise
+Aimed Shot
+with increased DMG.
+While aiming, crackling lightning will accumulate on the arrowhead. An arrow fully charged with the storm's might will deal
+Electro DMG
+.
+When in the Crowfeather Cover state, a fully-charged arrow will leave a Crowfeather behind after it hits.
+Plunging Attack
+Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.
+Elemental Skill
+Tengu Stormcall
+Retreats rapidly with the speed of a tengu, summoning the protection of the Crowfeather.
+Gains Crowfeather Cover for 18s, and when Kujou Sara fires a fully-charged Aimed Shot, Crowfeather Cover will be consumed, and will leave a Crowfeather at the target location.
+Crowfeathers will trigger Tengu Juurai: Ambush after a short time, dealing
+Electro DMG
+and granting the active character within its AoE an ATK Bonus based on Kujou Sara's Base ATK.
+The ATK Bonuses from different Tengu Juurai will not stack, and their effects and duration will be determined by the last Tengu Juurai to take effect.
+The tengu race have never lacked for exceptional talents who have received an Electro Vision. It's just that they often habitually chant praises to the Electro Archon while manipulating Electro. The chants go something like this
+"Show forth your might, O praiseworthy Narukami, and grant this supplicant your thunderous might! Sowaka!"
+Elemental Burst
+Subjugation: Koukou Sendou
+Casts down Tengu Juurai: Titanbreaker, dealing
+AoE Electro DMG
+. Afterwards, Tengu Juurai: Titanbreaker spreads out into 4 consecutive bouts of Tengu Juurai: Stormcluster, dealing
+AoE Electro DMG
+.
+Tengu Juurai: Titanbreaker and Tengu Juurai: Stormcluster can provide the active character within their AoE with the same ATK Bonus as given by the Elemental Skill, Tengu Stormcall.
+The ATK Bonus provided by various kinds of Tengu Juurai will not stack, and their effects and duration will be determined by the last Tengu Juurai to take effect.
+Sara departed from her people, the tengu, and also temporarily lost her faith in the Tenryou Commission. But once the clouds over her heart cleared, she found her own lightning anew.
+Kujou Sara
+Passives
+Passive
+1
+Immovable Will
+While in the Crowfeather Cover state provided by
+Tengu Stormcall
+, Aimed Shot charge times are decreased by 60%.
+Passive
+2
+Decorum
+When Tengu Juurai: Ambush hits opponents, Kujou Sara will restore 1.2 Energy to all party members for every 100% Energy Recharge she has. This effect can be triggered once every 3s.
+Passive
+3
+Land Survey
+When dispatched on an expedition in Inazuma, time consumed is reduced by 25%.
+Kujou Sara
+Constellations
+C
+1
+Crow's Eye
+When Tengu Juurai grants characters ATK Bonuses or hits opponents, the CD of
+Tengu Stormcall
+is decreased by 1s.
+This effect can be triggered once every 3s.
+C
+2
+Dark Wings
+Unleashing
+Tengu Stormcall
+will leave a weaker Crowfeather at Kujou Sara's original position that will deal 30% of its original DMG.
+C
+3
+The War Within
+Increases the Level of
+Subjugation: Koukou Sendou
+by 3.
+Maximum upgrade level is 15.
+C
+4
+Conclusive Proof
+The number of Tengu Juurai: Stormcluster released by
+Subjugation: Koukou Sendou
+is increased to 6.
+C
+5
+Spellsinger
+Increases the Level of
+Tengu Stormcall
+by 3.
+Maximum upgrade level is 15.
+C
+6
+Sin of Pride
+The
+Electro DMG
+of characters who have had their ATK increased by Tengu Juurai has its CRIT DMG increased by 60%.

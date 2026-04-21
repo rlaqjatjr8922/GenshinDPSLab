@@ -1,0 +1,202 @@
+Genshin Impact Lyney Build
+Pyro
+Bow
+Main DPS
+Lyney Upgrade Materials
+Equity
+Primordial Greenbloom
+Agnidus Agate Sliver
+Rainbow Rose
+Recruit's Insignia
+Emperor's Resolution
+Lyney Best Weapons
+1
+The First Great Magic
+2
+Aqua Simulacra
+3
+Thundering Pulse
+4
+Skyward Harp
+5
+Prototype Crescent
+Lyney Best Artifacts
+1
+Marechaussee Hunter
+4
+2
+Vermillion Hereafter
+4
+3
+Shimenawa's Reminiscence
+4
+4
+Lavawalker
+4
+5
+Crimson Witch of Flames
+2
+Marechaussee Hunter
+2
+Lyney Best Stats
+Sands:
+ATK%
+Goblet:
+Pyro DMG
+Circlet:
+CRIT Rate / CRIT DMG
+Substats:
+CRIT Rate / CRIT DMG > ATK% > Energy Recharge
+Character Builds by Genshin Impact Helper →
+Showcase
+Teams
+Talents
+Passives
+Constellations
+Ascension
+Lyney Showcase
+Lyney video guide by
+Braxophone
+.
+Check out his content!
+Best Lyney Teams
+Lyney Mono Pyro
+Lyney Mono Pyro
+Lyney Mono Pyro
+Lyney Talents
+Normal Attack
+Card Force Translocation
+Normal Attack Performs up to 4 consecutive shots with a bow. Plunging Attack Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact. Charged Attack Performs a more precise Aimed Shot with increased DMG. While aiming, flames will run across the arrowhead before being fired. Different effects will occur based on the time spent charging. Charge Level 1: Fires off a Pyro-infused arrow, dealing
+Pyro
+DMG. Charge Level 2: Fires off a Prop Arrow that deals
+Pyro
+DMG, and upon hit, it will summon a Grin-Malkin Hat. When firing the Prop Arrow, and when Lyney has more than 60% HP, he will consume a portion of his HP to obtain 1 Prop Surplus stack. Max 5 stacks. The effect will be removed after the character spends 30s out of combat. The lowest Lyney can drop to through this method is 60% of his Max HP. Grin-Malkin Hat Can taunt nearby opponents and attract their attacks. Each opponent can only be taunted by the Hat once every 5s. The Hat will inherit a percentage of Lyney's Max HP. If destroyed, or if its duration expires, it will fire off a Pyrotechnic Strike at 1 nearby opponent, dealing
+Pyro
+DMG. Only 1 Hat can exist at any given time. Arkhe: Pneuma At certain intervals, the Prop Arrow will cause a Spiritbreath Thorn to descend upon its hit location, dealing Pneuma-aligned
+Pyro
+DMG.
+Elemental Skill
+Bewildering Lights
+Lyney does a flourish with his hat, unleashing a firework surprise! When used, he will clear all current Prop Surplus stacks and deal AoE
+Pyro
+DMG to opponents in front of him. DMG will be increased according to the stacks cleared, and this will also regenerate Lyney's HP based on his Max HP. When a Grin-Malkin Hat created by Lyney is on the field, the fireworks will cause it to explode, dealing AoE
+Pyro
+DMG equal to that of a Pyrotechnic Strike. The DMG dealt through the Grin-Malkin Hat in this way is considered Charged Attack DMG.
+Elemental Burst
+Wondrous Trick: Miracle Parade
+Unleashing his magic, Lyney turns himself into a Grin-Malkin Cat that can move around quickly. (Not to be mistaken for the Grin-Malkin Hat. They're two different props!) When the Grin-Malkin Cat gets close to opponents, it will send flames falling down on them, dealing at most 1 instance of
+Pyro
+DMG to each opponent. When the duration ends, he will dismiss the Grin-Malkin Cat and ignite fireworks that deal AoE
+Pyro
+DMG, summon 1 Grin-Malkin Hat, and grant himself 1 Prop Surplus stack. Grin-Malkin Cat can be actively canceled.
+Lyney Passives
+Ascension 1
+Perilous Performance
+If Lyney consumes HP when firing off a Prop Arrow, the Grin-Malkin hat summoned by the arrow will, upon hitting an opponent, restore 3 Energy to Lyney and increase DMG dealt by 80% of his ATK.
+Ascension 4
+Conclusive Ovation
+The DMG Lyney deals to opponents affected by
+Pyro
+will receive the following buffs: Increases the DMG dealt by 60%. Each
+Pyro
+party member other than Lyney will cause the DMG dealt to increase by an additional 20%. Lyney can deal up to 100% increased DMG to opponents affected by
+Pyro
+in this way.
+Passive
+Trivial Observations
+Displays the location of nearby resources unique to Fontaine on the mini-map.
+Lyney Constellations
+Constellation 1
+Whimsical Wonders
+Lyney can have 2 Grin-Malkin Hats present at once. Additionally, Prop Arrows will summon 2 Grin-Malkin Hats and grant Lyney 1 extra stack of Prop Surplus. This effect can occur once every 15s.
+Constellation 2
+Loquacious Cajoling
+When Lyney is on the field, he will gain a stack of Crisp Focus every 2s. This will increase his CRIT DMG by 20%. Max 3 stacks. This effect will be canceled when Lyney leaves the field.
+Constellation 3
+Prestidigitation
+Increases the Level of Card Force Translocation by 3. Maximum upgrade level is 15.
+Constellation 4
+Well-Versed, Well-Rehearsed
+After an opponent is hit by Lyney's
+Pyro
+Charged Attack, this opponent's
+Pyro
+RES will be decreased by 20% for 6s.
+Constellation 5
+To Pierce Enigmas
+Increase the Level of Wondrous Trick: Miracle Parade by 3. Maximum upgrade level is 15.
+Constellation 6
+Guarded Smile
+When Lyney fires a Prop Arrow, he will fire a Pyrotechnic Strike: Reprised that will deal 80% of a Pyrotechnic Strike's DMG. This DMG is considered Charged Attack DMG.
+Lyney Ascension Costs
+Rank
+Lvl
+Cost
+Material
+Material
+Material
+Material
+1
+20
+20000
+1
+Agnidus Agate Sliver
+3
+Rainbow Rose
+3
+Recruit's Insignia
+2
+40
+40000
+3
+Agnidus Agate Fragment
+2
+Emperor's Resolution
+10
+Rainbow Rose
+15
+Recruit's Insignia
+3
+50
+60000
+6
+Agnidus Agate Fragment
+4
+Emperor's Resolution
+20
+Rainbow Rose
+12
+Sergeant's Insignia
+4
+60
+80000
+3
+Agnidus Agate Chunk
+8
+Emperor's Resolution
+30
+Rainbow Rose
+18
+Sergeant's Insignia
+5
+70
+100000
+6
+Agnidus Agate Chunk
+12
+Emperor's Resolution
+45
+Rainbow Rose
+12
+Lieutenant's Insignia
+6
+80
+120000
+Agnidus Agate Gemstone
+20
+Emperor's Resolution
+60
+Rainbow Rose
+24
+Lieutenant's Insignia
+Loading...

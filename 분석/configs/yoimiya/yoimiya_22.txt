@@ -1,0 +1,56 @@
+options iteration=1000 duration=10.5 swap_delay=6 workers=4;
+options hitlag=true defhalt=false ignore_burst_energy=false;
+
+target lvl=100 resist=0.1 pos=1,0 radius=3 freeze_resist=0;
+
+active yoimiya;
+
+# =========================
+# 캐릭터 1 (yoimiya)
+# =========================
+yoimiya char lvl=90/90 cons=0 talent=9,9,9;
+yoimiya add weapon="thunderingpulse" refine=1 lvl=90/90;
+yoimiya add set="echoesofanoffering" count=4;
+
+# =========================
+# 캐릭터 2 (bennett)
+# =========================
+bennett char lvl=90/90 cons=0 talent=9,9,9;
+bennett add weapon="skywardblade" refine=1 lvl=90/90;
+bennett add set="noblesseoblige" count=4;
+
+# =========================
+# 캐릭터 3 (xingqiu)
+# =========================
+xingqiu char lvl=90/90 cons=0 talent=9,9,9;
+xingqiu add weapon="favoniussword" refine=1 lvl=90/90;
+xingqiu add set="emblemofseveredfate" count=4;
+
+# =========================
+# 캐릭터 4 (yunjin)
+# =========================
+yunjin char lvl=90/90 cons=0 talent=9,9,9;
+yunjin add weapon="blacktassel" refine=1 lvl=90/90;
+yunjin add set="huskofopulentdreams" count=4;
+
+
+# =========================
+# Entry Order
+# =========================
+# yunjin -> bennett -> xingqiu -> yoimiya
+
+# =========================
+# Rotation
+# =========================
+yunjin skill;
+yunjin burst;
+yunjin attack;
+bennett skill;
+bennett burst;
+bennett attack;
+xingqiu skill;
+xingqiu burst;
+xingqiu attack;
+yoimiya skill;
+yoimiya burst;
+yoimiya attack;

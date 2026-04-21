@@ -1,0 +1,48 @@
+options iteration=100 duration=10.5 swap_delay=6 workers=4;
+options hitlag=true defhalt=false ignore_burst_energy=false;
+
+target lvl=100 resist=0.1 pos=1,0 radius=3 freeze_resist=0 hp=1000000000;
+
+active beidou;
+
+# =========================
+# 캐릭터 1 (beidou)
+# =========================
+beidou char lvl=90/90 cons=0 talent=9,9,9;
+beidou add weapon="serpentspine" refine=1 lvl=90/90;
+beidou add set="emblemofseveredfate" count=4;
+
+# =========================
+# 캐릭터 2 (qiqi)
+# =========================
+qiqi char lvl=90/90 cons=0 talent=9,9,9;
+qiqi add weapon="favoniussword" refine=1 lvl=90/90;
+qiqi add set="oceanhuedclam" count=4;
+
+# =========================
+# 캐릭터 3 (eula)
+# =========================
+eula char lvl=90/90 cons=0 talent=9,9,9;
+eula add weapon="songofbrokenpines" refine=1 lvl=90/90;
+eula add set="paleflame" count=4;
+
+# =========================
+# 캐릭터 4 (fischl)
+# =========================
+fischl char lvl=90/90 cons=0 talent=9,9,9;
+fischl add weapon="aquasimulacra" refine=1 lvl=90/90;
+fischl add set="goldentroupe" count=4;
+
+# =========================
+# 파티 정보
+# =========================
+# main = qiqi
+# party = beidou / qiqi / eula / fischl
+
+# =========================
+# 생성된 행동 로테이션
+# =========================
+beidou burst;
+qiqi jump;
+eula attack;
+fischl attack;

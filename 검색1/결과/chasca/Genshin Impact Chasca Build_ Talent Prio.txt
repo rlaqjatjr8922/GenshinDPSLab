@@ -1,0 +1,198 @@
+Home
+Blog
+Genshin Impact Hub
+Genshin Impact Chasca Build: Talent Priority, Weapons, Artifacts, Team Comps!
+Genshin Impact Chasca Build: Talent Priority, Weapons, Artifacts, Team Comps!
+Daniel Mitchell
+Dec 16, 2024
+Share
+Chasca is a 5-star Anemo Main DPS in Genshin Impact who is able to utilise elements of other elements to boost her own damage. In this
+Chasca build guide
+, we’ll cover her top weapons, artifact setups, optimal team compositions, and talent priorities. Keep reading for all the essential details!
+★ List of Contents ★
+★
+Brief Introduction
+★
+Talent Priority
+★
+Best Weapons
+★
+Artifacts & Stats
+★
+Best Teams
+Secure Your Gaming Top-Up with Smart Savings on LootBar
+Enjoy up to 20% Off on Game Top-Ups.
+3-Minute in Delivery for Non-Stop Gaming.
+Trusted 4.9/5 on Trustpilot, 10/10 among Players.
+Official Partnership Route, Protect Your Game Wallet.
+Top Up With Discount Now!
+★ Brief Introduction ★
+Chasca is a
+five-star
+Anemo
+character who wields a
+Bow
+. After casting Elemental Skill, she will ride on a
+Revolver and enter a speacial suspending state. In this state, she can fly in the sky or use the Revolver to shoot enemies. And
+Shells loaded into the cylinder will undergo Elemental Conversion based on the Elemental Types of the other characters in the party: For each Pyro, Hydro, Cryo, or Electro character in the party, one Shadowhunt Shell will randomly be Converted into a "
+Shining Shadowhunt Shell
+" of one of these corresponding Elemental Types, dealing Nightsoul-aligned DMG corresponding to that Elemental Type.
+More details about Chasca's kit, please click:
+Chasca kit
+.
+★ Rarity:
+Five-star
+★ Element:
+Anemo
+★ Weapon:
+Bow
+★ Role:
+Main DPS
+★ Talent Priority ★
+Chasca mainly deals damage by
+Shining Shadowhunt Shell
+, so prioritize upgarding her
+Elemental Skill
+. Then, upgrading her Elemental Burst could be considered, as it still has a high proportion of overall damage. As for her Normal Attack, you can skip levelling it to save materials. In summary, prioritize Chasca's talents in this order:
+Elemental Skill > Elemental Burst > Normal Attack
+.
+★ Best Weapons ★
+Chasca primarily deals damage through Charged Attacks, so weapons that enhance Charged Attack DMG are highly recommended. Additionally, Chasca benefits from a high CRIT Rate due to her Ascension stats, and the Obsidian Codex artifact set can further boost her CRIT Rate by 40%. Therefore, bows with CRIT DMG as a sub-stat are particularly suitable for her. Based on these factors, we recommend the following weapons:
+Astral Vulture's Crimson Plumage, The First Great Magic, Aqua Simulacra, Flower-Wreathed Feathers, Scion of the Blazing Sun and Chain Breaker
+.
+1. Best Option:
+Astral Vulture's Crimson Plumage
+608 / +66.2% CRIT DMG
+For 12s after triggering a Swirl reaction, ATK increases by
+24% / 30% / 36% / 42% / 48%
+. In addition, when 1/2 or more characters in the party are of a different Elemental Type from the equipping character, the DMG dealt by the equipping character's Charged Attacks is increased by
+20%/48%
+/
+25%/60%
+/
+30%/72%
+/
+35%/84%
+/
+40%/96%
+and Elemental Burst DMG dealt is increased by
+10%/24%
+/
+12.5%/30%
+/
+15%/36%
+/
+17.5%/42%
+/
+20%/48%
+.
+2. Second choice: The First Great Magic
+608 / +66.2% CRIT DMG
+DMG dealt by Charged Attacks increased by
+16% / 20% / 24% / 28% / 32%
+. For every party member with the same Elemental Type as the wielder (including the wielder themselves), gain 1 Gimmick stack. For every party member with a different Elemental Type from the wielder, gain 1 Theatrics stack. When the wielder has 1/2/3 or more Gimmick stacks, ATK will be increased by
+16%/32%/48%
+/
+20%/40%/60%
+/
+24%/48%/72%
+/
+28%/56%/84%
+/
+32%/64%/96%
+. When the wielder has 1/2/3 or more Theatrics stacks, Movement SPD will be increased by
+4%/7%/10%
+/
+6%/9%/12%
+/
+8%/11%/14%
+/
+10%/13%/16%
+/
+12%/15%/18%
+.
+3.
+Third choice: Aqua Simulacra or Flower-Wreathed Feathers or Scion of the Blazing Sun
+Aqua Simulacra
+542 / +88.2% CRIT DMG
+HP is increased by
+16% / 20% / 24% / 28% / 32%
+. When there are opponents nearby, the DMG dealt by the wielder of this weapon is increased by
+20% / 25% / 30% / 35% / 40%
+. This will take effect whether the character is on-field or not.
+Flower-Wreathed Feathers
+510 / +41.3% ATK
+Decreases Gliding Stamina consumption by 15%. When using Aimed Shots, the DMG dealt by Charged Attacks increases by
+6% / 7.5% / 9% / 10.5% / 12%
+every 0.5s. This effect can stack up to 6 times and will be removed 10s after leaving Aiming Mode.
+Scion of the Blazing Sun
+565 / +18.4% CRIT Rate
+After a Charged Attack hits an opponent, a Sunfire Arrow will descend upon the opponent hit, dealing
+60% / 75% / 90% / 105% / 120%
+ATK as DMG, and applying the Heartsearer effect to the opponent damaged by said Arrow for 10s. Opponents affected by Heartsearer take
+28% / 35% / 42% / 49% / 56%
+more Charged Attack DMG from the wielder. A Sunfire Arrow can be triggered once every 10s.
+4. Budget Option:
+Chain Breaker
+Chain Breaker
+565 / +27.6% ATK
+For every party member from Natlan or who has a different Elemental Type from the equipping character, the equipping character gains
+4.8% / 6% / 7.2% / 8.4% / 9.6%
+increased ATK. When there are no less than 3 of the aforementioned characters, the equipping character gains
+24 / 30 / 36 / 42 / 48
+Elemental Mastery.
+★ Best Artifacts & Stats ★
+★ Artifacts
+The only Artifacts set recommended is Natlan's
+Obsidian Codex
+. 2-Pc can increase the DMG Chasca deals. What's more, its 4-Pc effect can provide 40% CRIT Rate, making it easier for Chasca to meet the requirements of CRIT Rate.
+★ Stats
+1. Main Stats:
+•
+Sand
+: ATK
+•
+Goblet
+: ATK
+•
+Circlet
+: CRIT DMG
+2. Sub Stats
+CRIT DMG / CRIT Rate > ATK > Elemetal Mastery > Energy Regeneration
+★ Best Teams ★
+Thanks to Chasca's kit, Chasca can trigger Elemental Reactions on her own even her teammates do not apply Elemental Aura to enemies. And her attacks will be enhanced based on the Elemental Types of the other characters in the party: For each Pyro, Hydro, Cryo, or Electro character in the party, one Shadowhunt Shell of Chasca's will randomly be Converted into a "Shining Shadowhunt Shell". So try to include more teammates of Pyro, Hydro, Cryo, or Electro Attribute in your Chasca's teams. Futhermore, Chasca lacks DMG increased ways so try to add Funina in your teams.
+Team comps: Chasca + Funina + Pyro / Electro / Cyro characters.
+1. Frozen Teams
+▷ Other possible team comps:
+Chasca + Furina +
+Rosaria
++ Bennett
+2. Vaporize Teams
+▷ Other possible team comps:
+Chasca + Furina +
+Xilonen / Kazuha
++ Bennett
+3. Electro-Charged Teams
+In summary, Chasca stands out as a powerful 5-star Anemo Main DPS capable of harnessing the elemental strengths of her teammates to maximize her damage potential. By prioritizing her Elemental Skill and Burst, selecting the right weapons, and equipping optimal artifacts, players can fully unlock her capabilities in combat.
+Whether you choose to build a Frozen, Vaporize, or Electro-Charged team, integrating characters that complement her elemental conversion mechanics will significantly enhance her effectiveness. With the right team composition and strategy, Chasca can become a formidable force on the battlefield.
+For a seamless gaming experience, don’t forget to
+top up Genshin Impact
+at LootBar.gg. Enjoy smart savings and swift delivery, ensuring you can focus on what matters most—dominating your enemies and enjoying your time in Teyvat!
+Thank you for reading this Chasca build guide! We hope it helps you harness her full potential. Happy adventuring!
+Why You Need Genshin Impact Genesis Crystals
+Genshin Impact Genesis Crystals are essential for enhancing your gaming experience. They allow you to purchase various in-game items, making your journey through Teyvat more enjoyable and rewarding. If you haven't recharged your Genesis Crystals yet, now is the perfect time to do so. By making your first purchase, you will receive additional in-game rewards. Don't miss out on this opportunity to boost your gameplay. Visit
+LootBar.gg
+to get started!
+Exclusive Benefits of Purchasing from LootBar.gg
+When you choose to buy your Genshin Impact Genesis Crystals from LootBar.gg, you are guaranteed a seamless and secure transaction. Our platform ensures that your required Genshin Impact information is accurately filled in, so your recharge won't be affected. Plus, our customer service is always ready to assist you with any queries. Make the smart choice and head over to Lootbar
+for your Genesis Crystals top-up.
+How to Ensure a Successful Genesis Crystals Recharge
+To ensure a successful recharge of your Genshin Impact Genesis Crystals, make sure to provide your Genshin Impact UID and server information accurately. This will help avoid any delays or issues with your top-up. Once the recharge is successful, you can check your Genesis Crystals in the game. Remember, by clicking Top-up Now, you agree to the terms and conditions, including the non-refundable policy. For a hassle-free experience, visit
+LootBar.gg
+today and enjoy
+LootBar Genshin Top-up
+services
+!
+Daniel Mitchell
+Gaming writer
+Daniel Mitchell is an accomplished American gaming writer and RPG enthusiast, currently serving as the Lead Editor of LootBar’s Genshin Impact Walkthrough Team. With dual degrees in English Literature, he blends his expertise in literary analysis with extensive knowledge of the gaming industry.

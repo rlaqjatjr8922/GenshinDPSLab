@@ -1,0 +1,202 @@
+HoYoverse
+Xiao is one of the first characters to make his appearance in Genshin Impact and has been a part of the game for a really long time.
+This guide will go over the best build for him in Version 4.4 and what you can do to make him do a ton of damage!
+Table of Contents
+Who is Xiao
+Xiao Skills
+Xiao Skills
+Xiao Passives
+Xiao Best Weapons
+Xiao Weapons
+Xiao Best Artifact Sets
+Xiao Best Artifacts
+Xiao Best Teams
+Best Team
+Anemo - Geo Team
+Free to Play (F2P) Team
+Summary
+Who is Xiao
+Xiao Build Guide
+Xiao is a 5-star Anemo character that was first released way back in February 2021. For some years, he had seemingly been forgotten without having a good artifact set for him, as well as no teammates to boost his damage potential.
+However, with the recent updates Xiao now has some amazing artifact sets to go with him, alongside some teammates that greatly boost his damage.
+Let’s see how to build him!
+Advertisement
+Xiao Skills
+Xiao’s kit mostly revolves around gathering enough energy to unleash his Ultimate which gives him the ability to Plunge Attack, dealing a ton of damage in a wide area when he lands.
+He is one of the few characters that utilizes plunging attacks and that makes him a unique character to have on your roster.
+Here is the full breakdown of Xiao’s skills and passives:
+Xiao Skills
+Whirlwind Thrust
+Normal Attack
+Performs up to
+6
+consecutive spear strikes.
+Charged Attack
+Consumes a certain amount of Stamina to perform an upward thrust.
+Plunging Attack
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Xiao does not take DMG from performing Plunging Attacks.
+Lemniscatic Wind Cycling
+Xiao lunges forward, dealing Anemo DMG to opponents in his path.
+Can be used in mid-air.
+Starts with
+2
+charges.
+Bane of All Evil
+Xiao dons the Yaksha Mask that set gods and demons trembling millennia ago.
+Yaksha's Mask:
+Greatly increases Xiao's Jumping ability.
+Increases his attack AoE attack and DMG
+Converts attack DMG into Anemo DMG, which cannot be overridden by any other elemental infusion.
+In this state, Xiao will continuously lose HP.
+The effects of this skill end when Xiao leaves the field.
+Skill Level Up Priority:
+Normal Attack > Elemental Burst > Elemental Skill
+Advertisement
+Xiao Passives
+Transcension: Gravity Defier
+Decreases climbing Stamina consumption for your own party members by
+20%
+.
+Not stackable with Passive Talents that provide the exact same effects.
+Conqueror of Evil: Tamer of Demons
+While under the effects of Bane of All Evil, all DMG dealt by Xiao increases by
+5%
+.
+DMG increases by a further
+5%
+for every
+3s
+the ability persists.
+The maximum DMG Bonus is
+25%
+.
+Dissolution Eon: Heaven Fall
+Using Lemniscatic Wind Cycling increases the DMG of subsequent uses of Lemniscatic Wind Cycling by
+15%
+.
+This effect lasts for
+7s
+, and has a maximum of
+3
+stacks.
+Gaining a new stack refreshes the effect's duration.
+Advertisement
+Xiao Best Weapons
+When it comes to weapons Xiao has a wide variety of Polearms he can choose from. Below you will see all of the weapons we think work the best on him:
+Xiao Weapons
+Best Weapon:
+Primordial Jade Winged-Spear
+On hit, increases ATK by
+3.2%
+for
+6s
+. Max
+7
+stacks. This effect can only occur once every
+0.3s
+. While in possession of the maximum possible stacks, DMG dealt is increased by
+12%
+.
+Alternative:
+Staff of Homa
+HP increased by
+20%
+. Additionally, provides an ATK Bonus based on
+0.8%
+of the wielder's Max HP. When the wielder's HP is less than
+50%
+, this ATK Bonus is increased by an additional
+1%
+of Max HP.
+Deathmatch
+If there are at least
+2
+opponents nearby, ATK is increased by
+16%
+and DEF is increased by
+16%
+. If there are fewer than
+2
+opponents nearby, ATK is increased by
+24%
+.
+F2P Option:
+White Tassel
+Increases Normal Attack DMG by
+24%
+.
+Advertisement
+Xiao Best Artifact Sets
+Although he was quite tough to build before, currently Xiao has some great artifact sets that he can choose from, that greatly boost his damage.
+Here is the full breakdown of the artifacts we think work best on him:
+Xiao Best Artifacts
+Best Artifact Set
+Vermillion Hereafter
+2 Piece: ATK
++18%
+4 Piece: After using an Elemental Burst, this character will gain the Nascent Light effect, increasing their ATK by
+8%
+for
+16s
+.
+When the character's HP decreases, their ATK will further increase by
+10%
+. This further increase can occur this way a maximum of
+4
+times. This effect can be triggered once every
+0.8s
+.
+Nascent Light will be dispelled when the character leaves the field. If an Elemental Burst is used again during the duration of Nascent Light, the original Nascent Light will be dispelled.
+Alternative
+Marechaussee Hunter
+2 Piece: Normal and Charged Attack DMG
++15%
+4 Piece: When current HP increases or decreases, CRIT Rate will be increased by
+12%
+for
+5s
+. Max
+3
+stacks.
+For Main and Sub Stats you'd want to go for:
+Sands:
+ATK%
+Goblet:
+Anemo DMG Bonus%
+Circlet:
+Crit DMG/Crit Rate
+For Sub-Stats you should focus on:
+CRIT DMG/CRIT Rate > Energy Recharge > ATK%
+Advertisement
+Xiao Best Teams
+Xiao Build Guide
+Similar to his artifact sets, for quite some time Xiao didn’t have good dedicated teammates, however, with recent updates new characters have been released that are able to bring Xiao’s potential to a whole new level.
+However, it is worth noting that, Xiao’s best team is not easy to get for F2P players due to the character and constellation requirements.
+With that out of the way, here are the best teams for Xiao:
+Best Team
+Xiao
+Cloud Retainer
+Faruzan (C6)
+Furina
+All the characters here synthesize great Xiao allowing him to reach his full potential. However, this team is quite premium, needing 3 limited 5-star units and one 4-star unit at C6. This makes the team hard to obtain, but if you do, it is the best team for Xiao by far.
+Anemo - Geo Team
+Xiao
+Jean
+Albedo
+Zhongli
+This is one of Xiao's earlier teams which although doesn't allow him to reach his full potential is able to use a lot of his strengths.
+Free to Play (F2P) Team
+Xiao
+Faruzan
+Sucrose
+Bennett
+Apart from Xiao all of the characters in this team are 4-stars and can be obtained through one means or another. Although this team is somewhat lacking in comparison to the other two, it is a great alternative if you are building Xiao on a budget.
+Advertisement
+Summary
+Xiao Build Guide
+Xiao is an interesting character and one of the older characters in Genshin Impact. Throughout the years he has been somewhat lackluster due to his lack of a designated artifact set and good teammates.
+With the recent updates in the game, Xiao now has a good artifact set that he can use, and great Anemo supports to buff his damage.
+Unfortunately, his best team is quite premium, requiring you to spend a lot in order to get all of the characters, with three of them being premium and one needing C6.
+Despite this, Xiao is a great addition for players who love slightly unique play styles and are a fan of faster characters that do a ton of damage.
+Advertisement

@@ -1,0 +1,271 @@
+Thoma
+4
+★
+Polearm
+Pyro
+The Kamisato Clan's housekeeper
+.
+Basic Stats
+Nv.
+90
+HP
+10331
+ATK
+202
+DEF
+751
+ATK
+24%
+Basic Stats
+Nv.
+90
+HP
+10331
+ATK
+202
+DEF
+751
+ATK
+24%
+Thoma
+Ascension Materials
+Agnidus Agate Sliver
+Fluorescent Fungus
+Smoldering Pearl
+Treasure Hoarder Insignia
+Teachings of Transience
+Hellfire Butterfly
+Thoma
+Best Weapon
+Favonius Lance
+Level
+.
+90
+ATK
+565
+Energy Recharge
+30.6%
+Refinement
+.
+5
+CRIT Hits have a 100% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 6s.
+Other Weapons
+2
+°
+Engulfing Lightning
+Energy Recharge
+3
+°
+The Catch
+Energy Recharge
+4
+°
+Kitain Cross Spear
+Elemental Mastery
+Thoma
+Best Artifact Set
+Noblesse Oblige
+2 Pc
+:
+Elemental Burst DMG +20%
+4 Pc
+:
+Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.
+Artifacts Main Stats
+Sands
+:
+HP % / ER %
+Goblet
+:
+HP %
+Circlet
+:
+HP % / Crit Rate
+Artifacts Substats
+HP %
+Energy Recharge
+HP
+Crit Rate
+Other Artifacts Sets
+2
+°
+4x
+Instructor
+3
+°
+4x
+Deepwood Memories
+Thoma
+Talent Priority
+1
+°
+Elemental Skill
+2
+°
+Elemental Burst
+Thoma
+Best Teams
+Time #
+1
+Main DPS
+Sub-DPS
+Support
+Support
+Yoimiya
+Xingqiu
+Sucrose
+Thoma
+Time #
+2
+Main DPS
+Sub-DPS
+Support
+Support
+Arlecchino
+Xingqiu
+Bennett
+Thoma
+Thoma
+Ascension Costs
+Cost
+5
+→
+6
+120
+K
+Agnidus Agate Gemstone
+6
+Smoldering Pearl
+20
+Fluorescent Fungus
+60
+Golden Raven Insignia
+24
+Thoma
+Talents Costs
+Cost
+9
+→
+10
+700
+K
+Philosophies of Transience
+16
+Golden Raven Insignia
+12
+Hellfire Butterfly
+2
+Crown of Insight
+1
+Thoma
+Talents
+Normal Attack
+Swiftshatter Spear
+Normal Attack
+Performs up to 4 consecutive spear strikes.
+Charged Attack
+Consumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.
+Plunging Attack
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Elemental Skill
+Blazing Blessing
+Thoma vaults forward with his polearm and delivers a flame-filled flying kick that deals
+AoE Pyro DMG
+, while also summoning a defensive Blazing Barrier. At the moment of casting, Thoma's Elemental Skill applies
+Pyro
+to himself.
+The DMG Absorption of the Blazing Barrier scales off Thoma's Max HP.
+The Blazing Barrier has the following traits:
+·Absorbs
+Pyro DMG
+250% more effectively.
+·When a new Blazing Barrier is obtained, the remaining DMG Absorption of an existing Blazing Barrier will stack and its duration will be refreshed.
+The maximum DMG Absorption of the Blazing Barrier will not exceed a certain percentage of Thoma's Max HP.
+As a guest from afar, only the most burning passion would allow one to master the pure and precise spear arts of Inazuma. Thoma's mastery, indeed, is not limited to being the
+"swiftest-studying student"
+or
+"a master of the spear,"
+but he has imbued his will to protect others and fend off foes into his art as well.
+Elemental Burst
+Crimson Ooyoroi
+Thoma spins his polearm, slicing at his foes with roaring flames that deal
+AoE Pyro DMG
+and weave themselves into a Scorching Ooyoroi.
+Scorching Ooyoroi
+While Scorching Ooyoroi is in effect, the active character's Normal Attacks will trigger Fiery Collapse, dealing
+AoE Pyro DMG
+and summoning a Blazing Barrier.
+Fiery Collapse can be triggered once every 1s.
+Except for the amount of DMG they can absorb, the Blazing Barriers created in this way are identical to those created by Thoma's Elemental Skill, Blazing Blessing:
+·Absorbs
+Pyro DMG
+250% more effectively.
+·When a new Blazing Barrier is obtained, the remaining DMG Absorption of an existing Blazing Barrier will stack and its duration will be refreshed.
+The maximum DMG Absorption of the Blazing Barrier will not exceed a certain percentage of Thoma's Max HP.
+If Thoma falls, the effects of Scorching Ooyoroi will be cleared.
+"I will not forget my initial promise. Let this burning flame protect those I cherish, and may it never be extinguished."
+Thoma
+Passives
+Passive
+1
+Imbricated Armor
+When your current active character obtains or refreshes a
+Blazing Barrier
+, this character's Shield Strength will increase by 5% for 6s.
+This effect can be triggered once every 0.3s seconds. Max 5 stacks.
+Passive
+2
+Flaming Assault
+DMG dealt by
+Crimson Ooyoroi
+'s Fiery Collapse is increased by 2.2% of Thoma's Max HP.
+Passive
+3
+Snap and Swing
+When you
+fish
+successfully in Inazuma, Thoma's help grants a 20% chance of scoring a double catch.
+Thoma
+Constellations
+C
+1
+A Comrade's Duty
+When a character protected by Thoma's own
+Blazing Barrier
+(Thoma excluded) is attacked, Thoma's own
+Blazing Blessing
+CD is decreased by 3s, while his own
+Crimson Ooyoroi
+'s CD is decreased by 3s.
+This effect can be triggered once every 20s.
+C
+2
+A Subordinate's Skills
+Crimson Ooyoroi
+'s duration is increased by 3s.
+C
+3
+Fortified Resolve
+Increases the Level of
+Blazing Blessing
+by 3.
+Maximum upgrade level is 15.
+C
+4
+Long-Term Planning
+After using
+Crimson Ooyoroi
+, 15 Energy will be restored to Thoma.
+C
+5
+Raging Wildfire
+Increases the Level of
+Crimson Ooyoroi
+by 3.
+Maximum upgrade level is 15.
+C
+6
+Burning Heart
+When a
+Blazing Barrier
+is obtained or refreshed, the DMG dealt by all party members' Normal, Charged, and Plunging Attacks is increased by 15% for 6s.

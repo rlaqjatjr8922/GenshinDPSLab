@@ -1,0 +1,559 @@
+Home
+/
+Genshin Impact
+/
+Character List
+/
+Clorinde Build
+Clorinde Guide and Best Builds
+Clorinde is a 5-star Electro Sword character in Genshin Impact.
+Our Clorinde guide and build will focus on Clorinde's best weapons,
+best artifacts, skills, constellations and Clorinde's best teams.
+Last updated
+on
+Sep 12, 2025
+at
+08:52
+by
+Mistsplitter Reforged
+1 comment
+S
+Rank
+Electro
+Element
+Sword
+Weapon
+★
+★
+★
+★
+★
+Rarity
+Crystal Lee
+EN Voice Actor
+Ishikawa Yui
+JP Voice Actor
+Clorinde's Strengths & Weaknesses
+Strengths
+Flexible character, that does not hoard on-field time
+Centered around her Elemental skill instead of Burst for her Damage
+Loads of free CRIT Rate in her kit, making her easier to build.
+Weaknesses
+Forced to do Electro-based Reactions to unlock a large portion of her damage.
+Bond of Life mechanics can be punishing if you get hit by mechanics at the wrong time.
+Large amount of damage locked behind her first and second constellations.
+1.
+Clorinde DPS Build
+Clorinde plays around her Elemental skill converting her Normal Attacks for 7.5 seconds,
+then most likely swapping out to setup another rotation. Her skill has a 16s cooldown,
+so you would have ~7-8 seconds to setup Bursts and effects from other characters.
+BiS Weapon
+Absolution
+Alternative Weapons
+Light of Foliar Incision
+Haran Geppaku Futsu
+Mistsplitter Reforged
+Primordial Jade Cutter
+Uraku Misugiri
+Freedom-Sworn
+Calamity of Eshu
+Finale of the Deep
+The Black Sword
+R5
+Harbinger of Dawn
+Artifact Options
+Fragment of Harmonic Whimsy
+Thundering Fury
+Echoes of an Offering
+Gladiator's Finale
+Main Stats
+Sand Stats
+: ATK %
+Goblet Stats
+:
+Electro
+DMG
+Circlet Stats
+: CRIT DMG
+Substat Advice
+CRIT DMG
+Energy Recharge
+ATK % / CRIT Rate
+Flat ATK
+Talent Priority
+Elemental Skill
+Elemental Burst
+Normal Attack
+Clorinde's best weapon is her signature weapon
+Absolution
+. Not only is it a CRIT DMG weapon, it also tied for the
+highest base Attack on Swords, on top of its effect increasing CRIT DMG even
+further. Its effect is easy to maintain, as Clorinde has no issue generating
+and clearing Bond of Life. Other options are also swords that
+complements Clorinde's kit really well. Just be aware of
+Haran Geppaku Futsu
+, as this weapon gives CRIT Rate instead
+of CRIT DMG. At lv90, it gives 33.08%, which means you will baseline have 75.08%
+CRIT Rate. This drops the value of CRIT Rate drastically.
+Mistsplitter Reforged
+as a base, is the exact same as
+Absolution
+, and Mistsplitter's Effect is easy to maintain as long as you
+use your Burst as it comes up.
+The Black Sword
+is an easy weapon to
+pick up, as it is on the Battle Pass, which buffs your Normal Attacks and gives
+you a small heal now and then, which will be converted to Bond of Life. This
+weapon also gives CRIT Rate, although slightly less. Nevertheless, it
+drops your need for CRIT Rate significantly. Between the 4 star weapons,
+Calamity of Eshu
+comes out on top if you can maintain a shield
+on Clorinde. Otherwise Finale of the Deep takes over.
+Fragment of Harmonic Whimsy
+is her best artifact set,
+however
+Gladiator's Finale
+is the easiest to passively farm as you
+can get this from any world boss.
+A note on
+Thundering Fury
+, on paper it seems to perform pretty well
+especially in
+Aggravate
+comps, however
+it extends your rotation by a significant
+amount, as your skill comes off cooldown faster, which may reduce your
+overall DPS.
+With regards to stat priorities, Clorinde is a
+Main DPS or an
+Electro
+Driver, with a heavy focus on ATK % and CRIT DMG,
+as her kit gives her a lot of free CRIT Rate. Energy Recharge is not a bad
+stat either, as her Burst does lean into her Skill by generating a lot of
+Bond of Life instantly.
+2.
+Clorinde's Mechanics and Bond of Life
+Clorinde's kit revolves around her Elemental Skill, where she will enter a new stance
+called
+Night Vigil
+. This stance works akin to
+Tartaglia
+'s, where her Normal
+Attack changes and is converted to
+Electro
+DMG. However unlike Childe, the Cooldown of her skill is static.
+During this period, her skill changes into a lunge attack.
+While
+Night Vigil
+is up, Her Normal Attacks will generate 35% Bond of Life if the
+Bond of Life equals to less than 100% of your health. Any healing received during this
+will generate Bond of Life instead of healing as well. The Lunge attack has 3 stages
+based on how much Bond of Life you have generated, where its damage increases with each stage.
+The 1st stage only happens if you have no Bond of Life and only deals damage,
+while the 2 other stages will convert the Bond of Life cleared, into healing.
+All the DMG from her Skill is considered Normal Attack DMG, thus any %Skill DMG is avoided.
+Her skill multipliers seems low on paper, however her 1st Ascension talent is the reason for this.
+Whenever an
+Electro-based
+Reaction happens, Clorinde gains a buff that stacks up to 3 times.
+This buff makes her
+Electro
+DMG from Normal Attacks and Elemental Burst deal additional damage
+equal to 20% of her ATK (up to 1800). This is a base damage increase, meaning its
+added onto the damage before any other % modifier.
+3.
+Clorinde's Best Team Comps
+Due to Clorinde's 1st Ascension passive, you want to be triggering Electro-based
+Reactions like
+Aggravate
+,
+Hyperbloom
+,
+Electro-Charged
+(Taser teams) and maybe
+Overload
+.
+There are some example team composition based around this below:
+3.1.
+Clorinde's Aggravate comp
+Main DPS
+Dendro Enabler
+Sub DPS
+Support
+Clorinde
+Nahida
+Kirara
+Fischl
+Yae Miko
+Kujou Sara
+Sucrose
+Kaedehara Kazuha
+Zhongli
+Above is a pretty straight forward
+Aggravate
+team
+with a bit of a flexibility in the last slot.
+Sucrose
+and
+Kaedehara Kazuha
+are both great for shredding Elemental
+resistance with
+Viridescent Venerer
+and will also group up smaller targets.
+They are both interchangeable, although Kazuha tends to be preferred.
+Zhongli
+can also be used, if you prefer to have some more defensive power through his Shield.
+3.2.
+Clorinde's Quickbloom comp
+Main DPS
+Dendro Enabler
+Sub DPS
+Hydro Enabler
+Clorinde
+Nahida
+Fischl
+Furina
+Yelan
+This team doesn't deviate too much from your normal
+Hyperbloom
+teams,
+Clorinde is just there to trigger
+Electro
+reactions and to trigger
+Yelan
+'s Burst damage if you use her.
+If you are not familiar with
+Hyperbloom
+, it is a triple
+Elemental Reaction, where you first apply
+Hydro
+to
+Dendro
+(or vice versa). This creates
+the Reaction
+Bloom
+, which leaves a green seed nearby. Triggering
+Electro
+near the seed with cause it to trigger Hyperbloom, which expends the seed to
+shoot a projectile at your target.
+3.3.
+Clorinde's Electro-Charged comp
+Main DPS
+Sub DPS
+Sub DPS
+Healer
+Clorinde
+Furina
+Yelan
+Jean
+This team revolves around applying
+Hydro
+to just about everything in the vicinity and
+subsequently triggering
+Electro-Charged
+with Clorinde. This comp uses
+Furina
+and
+Jean
+for a very large damage boost. Furina also provides excellent off-field damage together with
+Yelan
+, while Jean shreds Elemental resistances.
+Anemo
+is also good at spreading
+elements and also acts as an Element cleanse on yourself.
+3.4.
+Clorinde's Overload comp
+Main DPS
+Sub DPS
+Support
+Support
+Clorinde
+Fischl
+Kujou Sara
+Chevreuse
+Thoma
+This team is solely built around
+Overload
+, which
+means that
+Chevreuse
+in this setup is mandatory. Her damage
+increases to
+Pyro
+and
+Electro
+damage are simply
+too large to skip. Outside of this, there is a bit of flexibility for the two other slots, although
+Thoma
+is nice to have for the interrupt resistance from his Shield.
+Between
+Fischl
+and
+Kujou Sara
+is a matter of preference.
+Kujou Sara is less damage when off-field, but gives Clorinde more ATK, while Fischl deals
+a lot of damage while off-field.
+4.
+Clorinde's Ascensions, Talents and Constellations
+Clorinde's Ascensions
+Clorinde's Talents
+Clorinde's Constellations
+4.1.
+Clorinde's Ascension Passives and Materials
+Unlock
+Ascension Passive
+Explanation
+With Character
+Night Vigil's Harvest
+Displays the location of nearby resources unique to Fontaine on the mini-map.
+1st Ascension
+Dark-Shattering Flame
+After a nearby party member triggers a Electro-related reaction against an
+	opponent,
+Electro
+DMG dealt by Normal Attacks and Last Lightfall will be increased
+	by 20% of Clorinde's ATK for 15s. Max 3 stacks. Each stack is counted independently.
+	The Maximum DMG increase achievable for the above attacks is 1,800.
+4th Ascension
+Lawful Remuneration
+If Clorinde's Bond of Life is equal to or greater than 100% of her Max HP,
+	her CRIT Rate will increase by 10% for 15s whenever her Bond of Life value increases
+	or decreases. Max 2 stacks. Each stack is counted independently.
+Additionally, Hunter's Vigil's Night Vigil state is buffed: While it is active,
+	the percent of healing converted to Bond of Life increases to 100%.
+Clorinde requires a range of materials to ascend to the 6th ascension.
+Starting from the second ascension she gains CRIT Rate as she levels,
+giving a total of 19.2% CRIT Rate at the final ascension.
+The total cost to upgrade all ascensions is:
+Source
+Quantity
+Mora
+420,000 Mora
+Boss Material
+46x
+Fontemer Unihorn
+Ascension Material
+1x
+Vajrada Amethyst Sliver
+9x
+Vajrada Amethyst Fragment
+9x
+Vajrada Amethyst Chunk
+6x
+Vajrada Amethyst Gemstone
+Local Specialty
+168x
+Lumitoile
+Enhancement Material
+18x
+Transoceanic Pearl
+30x
+Transoceanic Chunk
+36x
+Xenochromatic Crystal
+4.2.
+Clorinde's Talents
+Listed below is each talent alongside the talents explanation of how they work.
+Type
+Talent Name
+Skill Explanation
+Normal
+Oath of Hunting Shadows
+Normal Attack
+Performs up to 5 consecutive attacks with her Sword. As of right now, her
+	    3rd hit has 2 attacks and the 4th hit has 3 attacks.
+Charged Attack
+Consumes 20 Stamina to dash forward, slashing and fanning her pistol.
+Plunging Attack
+Plunges from mid-air to strike the ground below, damaging opponents along the
+	  path and dealing AoE DMG upon impact.
+Elemental Skill
+Hunter's Vigil
+Preparing her pistolet, she enters the "Night Vigil" state, using steel and
+	  shot together. In this state, Clorinde's Normal Attacks will be transformed into
+	  "Swift Hunt" pistolet attacks, and the DMG dealt is converted into
+Electro
+DMG that
+	  cannot be overridden by infusions. Her Elemental Skill will be transformed into
+	  "Impale the Night": Performs a lunging attack, dealing Electro DMG. The DMG done
+	  through the aforementioned method is considered Normal Attack DMG.
+Swift Hunt
+When her Bond of Life is equal to or greater than 100% of her max HP:
+	  Performs a standard pistolet shot.
+When her Bond of Life is less than 100%, firing her pistolet will grant her
+	  Bond of Life, with the amount gained based on her max HP. The shots she fires
+	  can pierce opponents, and DMG dealt to opponents in their path is increased.
+Impale the Night
+Clear Clorinde's Bond of Life, and enhance this usage of Impale the Night based
+	  on the value of the Bond of Life cleared as a percentage of her max HP:
+When no Bond of Life is cleared, perform a normal lunging strike.
+When the value of the Bond of Life cleared is less than 100% of her max HP,
+	  increase the AoE of the lunging attack and the DMG dealt, and heal Clorinde,
+	  with the amount healed based on the value of the Bond of Life cleared.
+In addition, when Clorinde is in the Night Vigil state, healing effects other
+	  than Impale the Night will not take effect and will instead be converted into a
+	  Bond of Life that is a percentage of the healing that would have been received.
+Arkhe: Ousia
+Periodically, when Clorinde's pistolet shots strike opponents, a Surging Blade
+	  will fall on their position, dealing Ousia-aligned
+Electro
+DMG.
+Elemental Burst
+Last Lightfall
+Grants herself a Bond of Life based upon her own max HP before swiftly evading
+	  and striking with saber and sidearm as one, dealing AoE
+Electro
+DMG.
+To upgrade Clorinde's talents, it costs:
+Source
+One Talent to Lv10
+10/10/10
+Mora
+1,625,500 Mora
+4,876,500 Mora
+Special Material
+1x
+Crown of Insight
+3x
+Crown of Insight
+Boss Material
+6x
+Everamber
+18x
+Everamber
+Domain Material
+3x
+Teachings of Justice
+21x
+Guide to Justice
+38x
+Philosophies of Justice
+9x
+Teachings of Justice
+63x
+Guide to Justice
+114x
+Philosophies of Justice
+Enhancement Material
+6x
+Transoceanic Pearl
+22x
+Transoceanic Chunk
+31x
+Xenochromatic Crystal
+18x
+Transoceanic Pearl
+66x
+Transoceanic Chunk
+93x
+Xenochromatic Crystal
+4.3.
+Clorinde's Constellations
+Clorinde's Constellations are not essential to her playstyle, however they do add
+a lot of damage, especially her first constellation. Generally speaking, if you are going
+to roll for multiple copies or her weapon, roll for C1 first. It is more often a larger
+upgrade over replacing
+Finale of the Deep
+. Her C2 is also close to the same,
+so if you don't want to risk it, then rolling for C2 is also advisable. C3-5 are unfortunately
+lukewarm at best in terms of damage.
+#
+Name
+Explanation
+C1
+"From This Day, I Pass the Candle's Shadow-Veil"
+While Hunter's Vigil's Night Vigil state is active, when
+Electro
+DMG
+    from Clorinde's Normal Attacks hit opponents, they will trigger 2 coordinated
+    attack from a Nightwatch Shade summoned near the hit opponent, each dealing 30% of
+	  Clorinde's ATK as Electro DMG.
+This effect can occur once every 1s. DMG dealt this way is considered Normal
+	  Attack DMG.
+C2
+"Now, As We Face the Perils of the Long Night"
+The Passive Talent "Dark-Shattering Flame" will be buffed: After a nearby
+	  party member triggers a Electro-related reaction against an opponent,
+Electro
+DMG
+	  dealt by Normal Attacks and Last Lightfall will be increased by 30% of Clorinde's
+	  ATK for 15s. Max 3 buff stacks. Each stack is counted independently.
+When you have 3 stacks,Clorinde's interruption resistance will be increased.
+	  The Maximum DMG increase achievable through such attacks is 2,700.
+You must first unlock the Passive Talent "Dark-Shattering Flame."
+C3
+"I Pledge to Remember the Oath of Daylight"
+Increases the Level of
+Hunter's Vigil
+by 3.
+Maximum upgrade level is 15.
+C4
+"To Enshrine Tears, Life, and Love"
+When Last Lightfall deals DMG to opponent(s), DMG dealt is increased based on
+	  Clorinde's Bond of Life percentage. Every 1% of her current Bond of Life will
+  	increase Last Lightfall DMG by 2%. The maximum Last Lightfall DMG increase achievable
+	  this way is 200%.
+C5
+"Holding Dawn's Coming as My Votive"
+Increases the Level of
+Last Lightfall
+by 3.
+Maximum upgrade level is 15.
+C6
+"And So Shall I Never Despair"
+For 12s after Hunter's Vigil is used, Clorinde's CRIT Rate will be increased by
+	  10%, and her CRIT DMG by 70%.
+Additionally, while Night Vigil is active, a Glimbright Shade will appear under
+	  specific circumstances, decreasing DMG dealt to Clorinde by 80% for 1s and
+	  increasing her interruption resistance; it will also attack opponents, dealing 200%
+	  of Clorinde's ATK as
+Electro
+DMG. DMG dealt this way is considered Normal Attack DMG.
+The Glimbright Shade will appear under the following circumstances:
+When Clorinde is about to be attacked by an opponent.
+When Clorinde uses Impale the Night: Pact.
+1 Glimbright Shade can be summoned in the aforementioned ways every Xs.
+	  6 Shades can be summoned per single Night Vigil duration.
+Changelog
+31 Jul. 2025:
+Reviewed for patch 5.8, slight update to weapon selection.
+08 May 2025:
+Reviewed for patch 5.6
+17 Feb. 2025:
+Reviewed for patch 5.4
+05 Jan. 2025:
+Added additional information on Calamity of Eshu and a team comp.
+05 Jun. 2024:
+Guide finalized for release.
+22 May 2024:
+Added Team information and expanded on weapons/artifacts/constellations
+16 May 2024:
+Corrected localization changes and other beta changes.
+30 Apr. 2024:
+Tentative Guide Added.
+Show more
+Show less
+Need any help? Check out our
+General Discussion Forum
+!
+1 comment
+In The Same Category
+Beidou Best Builds Guide
+Sethos Best Builds Guide
+Iansan Best Builds Guide
+Flins Best Builds Guide
+Cyno Best Builds Guide
+Varesa Best Builds Guide
+Raiden Shogun Team Guide
+Yae Miko Best Builds Guide
+Ineffa Team Guide
+Flins Profile & Talents
+Cyno Team Guide
+Cyno Profile & Talents
+ABOUT THE AUTHOR
+Wrtiten by Mistsplitter Reforged, a day one player of Genshin 
+        Impact and Zenless Zone Zero, and a Guide Maker on Youtube, 
+        striving to provide helpful content and useful tips. Spends time 
+        collecting characters and enjoying what the games have to offer. Make sure to
+check out their YouTube guides!
+SUPPORT OUR WRITERS

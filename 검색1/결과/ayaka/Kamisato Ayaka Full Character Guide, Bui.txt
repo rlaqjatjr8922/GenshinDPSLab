@@ -1,0 +1,324 @@
+Kamisato Ayaka is a Cryo main DPS who deals a powerful amount of Cryo Damage. Updated for version Luna IV.
+Table of Contents
+Table of Contents
+Should I pull Ayaka?
+Base Stats
+Talent Overview
+Normal Attack
+Multipliers
+Elemental Skill
+Elemental Burst
+Alternate Sprint
+Ascension 1
+Ascension 4
+Talent Priority
+Constellations
+Combos
+Burst-related
+NA/CA-related
+Weapons
+Energy Recharge Requirements
+Artifacts
+Artifact Sets
+Main Stats
+Stat Priority
+Teambuilding
+Notable Teammates
+Cryo
+Hydro
+Other
+Example Teams
+Other Gameplay Notes
+Cancels
+Crowd Control
+Multiwave Content
+Energy
+Footnotes
+Should I pull Ayaka?
+Pros
+Cons
+Synergizes very well with modern supports (Furina, Escoffier)
+Very easy to play with simple rotations
+Lots of F2P weapon options
+Free constellations from the selector
+A lot of AOE damage
+Will teach you how to dance
+Very reliant on burst to do damage
+Burst is prone to missing or knocking back small enemies that are not frozen
+Very reliant on specific supports to keep up with modern teams and characters
+Basically outclasses by Skirk in every situation
+Wet socks
+Base Stats
+Non-crit stats that are not 0 are rounded to the nearest integer. Any stat not listed can be assumed to be 0.
+80/90
+90/90
+HP
+11954
+12858
+ATK
+318
+342
+DEF
+784
+812
+CRIT Rate
+5.0
+5.0
+CRIT DMG
+88.4
+88.4
+Talent Overview
+Normal Attack
+Normal Attack
+Performs up to 5 rapid strikes.
+Charged Attack
+Consumes a certain amount of Stamina to unleash a flurry of sword ki.
+Plunging Attack
+Plunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact
+A nice source of damage for Ayaka during her combos.
+Multipliers
+Lvl 1
+Lvl 6
+Lvl 9
+Lvl 10
+N1
+45.73
+66.46
+84.01
+90.39
+N2
+48.68
+70.76
+89.44
+96.24
+N3
+62.62
+91.02
+115.15
+123.79
+C
+55.13 x 3
+80.13 x 3
+101.28 x 3
+108.97 x 3
+Elemental Skill
+Summons blooming ice to launch nearby opponents, dealing AoE Cryo DMG.
+Not a significant source of damage. However, it does generate a lot of particles for Ayaka that help with energy management. It also technically is Ayaka's single most powerful hit of damage, except at C6.
+Elemental Burst
+Summons forth a snowstorm with flawless poise, unleashing a Frostflake Seki no To that moves forward continuously.
+Frostflake Seki no To
+A storm of whirling icy winds that slashes repeatedly at every enemy it touches, dealing Cryo DMG.
+The snowstorm explodes after its duration ends, dealing AoE Cryo DMG.
+This is Ayaka's main source of damage. Her burst deals many cuts of Cryo damage in quick succession. However, once cast, her burst does not really track enemies, meaning that enemies who move outside of her burst's path will not take any damage. Additionally, her burst can also knock non-frozen enemies (like Geovishaps) out of its path. This talent also snapshots.
+1
+Alternate Sprint
+Ayaka consumes Stamina and cloaks herself in a frozen fog that moves with her.
+In Senho form, she moves swiftly upon water.
+When she reappears, the following effects occur:
+Ayaka unleashes frigid energy to
+apply Cryo
+on nearby opponents.
+Coldness condenses around Ayaka's blade,
+infusing her attacks with Cryo
+for a brief period.
+This is an extremely important part of Ayaka's kit. By applying Cryo to enemies through alternate sprint, she can maintain 100% uptime of Cryo infusion on her normal and charged attacks
+Ascension 1
+After using Kamisato Art: Hyouka, Kamisato Ayaka's Normal and Charged attacks deal
+30% increased DMG
+for 6s.
+A nice damage bonus to have, especially at C6.
+Ascension 4
+When the Cryo application at the end of Kamisato Art: Senho hits an opponent, Kamisato Ayaka gains the following effects:
+Restores
+10 Stamina
+Gains
+18% Cryo DMG
+Bonus for 10s.
+This is an important ascension talent that is essentially just a free 18% Cryo DMG bonus for her. Since she can basically infinitely sprint (especially with the stamina restoration effect) and apply Cryo to an enemy, she can always maintain the bonus. Note that hitting an enemy that already has Cryo applied to it will still give Ayaka the boons of the passive.
+Talent Priority
+Q > NA > E
+Constellations
+Descriptions are condensed. Good constellations are given a ⭐.
+C1
+When Kamisato Ayaka's Normal or Charged Attacks deal
+Cryo DMG
+to opponents, it has a 50% chance of decreasing the CD of her E by 0.3s. This effect can occur once every 0.1s.
+One of the most useless constellations in the game. Since the effect is not enough to allow her to fit an extra E in her rotations, it is wasted.
+C2⭐
+When bursting, release two smaller bursts that deal 20% of the original burst's damage. They appear on the side of the burst
+A very good constellation that can increase her DPS by upwards of 40%. However, it is less effective in single-target scenarios against smaller enemies since the smaller bursts will not hit.
+C3
+Increase Q by 3 levels
+A nice talent increase to her main damage source.
+C4⭐
+Decrease the DEF by enemies damaged by her burst by 30%
+Perhaps Ayaka's best constellation. It gives some rare DEF% shred to massively increase her DPS, and it unlocks Ayaka's support potential. However, it does not work against Cryo-immune enemies
+2
+C5
+Increase E by 3 levels
+Since Ayaka's E does minimal damage, this constellation does not do much.
+C6⭐
+Gives a huge boost (298%) to Ayaka's charged attacks every 10s
+This can help turn Ayaka into a huge nuke DPS. Her new charged attacks hit really, really hard.
+3
+Combos
+Burst-related
+EDQ
+A good general-use combo. This allows Ayaka to pre-funnel energy for her burst next rotation while snapshotting the Cryo DMG% bonus from her dash.
+DEQ
+This can be used if your E is on cooldown or if you are not confident in being able to make the tight window to pre-funnel energy from EDQ
+ED N1 Q
+Basically EDQ but with Mistsplitter Reforged to snapshot the passive buff.
+DE N1 Q
+Basically DEQ but with Mistsplitter Reforged to snapshot the passive buff.
+NA/CA-related
+N2C
+Her best general-use combo to use while filling downtime in the rotation.
+N3C
+If you are low on stamina for her CA, you can use a third normal attack. Additionally, it can also synergize well with characters like Yelan who require normal attacks to proc their abilities
+N1C
+This combo can be used if you need to readjust your position. However, it eats up your stamina very, very quickly
+Weapons
+Mistsplitter Reforged
+Mistsplitter is Ayaka's signature weapon. It has good base attack and CRIT DMG as well as providing her with a hefty amount of DMG% Bonus.
+Absolution
+A solid stat-stick for Ayaka. Its stats are identical to Mistplitter's, but it only gives 20% CRIT DMG from its passive
+Azurelight
+Azurelight gives 24% ATK from its passive. However, the rest of the passive can be extremely hard to get, as random particle drops can result in Ayaka's burst not snapshotting it. Additionally, the CRIT Rate can be hard to build around.
+Athame Artis
+A good 5* weapon that gives some CRIT DMG to her elemental burst and some ATK% to her teammates. However, the CRIT Rate can be very hard to build around
+Uraku Misugiri
+Cool stat stick.
+4
+Wolf Fang
+Ayaka's best 4* weapon. It gives good elemental burst DMG% and CRIT Rate. However, the CRIT Rate can be hard to build around, and the other passive effects cannot be taken advantage of since Ayaka's burst snapshots.
+Finale of the Deep
+Finale is Ayaka's best permanently available 4* weapon, providing her with a lot of ATK. It is also extremely F2P-friendly.
+Amenoma Kageuchi
+Amenoma is a slightly worse Finale with less Base ATK. Older players may already have an Amenoma crafted. However, Amenoma does ease Ayaka's ER requirements. It also looks really cool.
+Energy Recharge Requirements
+As a DPS who mainly uses her burst to deal damage, managing her energy and making sure she has enough ER is extremely important.
+Favonius procs can reduce her energy requirements by ~10%
+No Amenoma
+Amenoma
+Double Cryo
+~150%
+~130%
+Triple Cryo
+~140%
+~125%
+Artifacts
+Artifact Sets
+Marechausse Hunter
+Marechausse Hunter is Ayaka's general BiS with Furina. She gets 36% CRIT Rate for free and a nice bonus to her normal and charged attacks.
+Blizzard Strayer
+Blizzard Strayer is Ayaka's BiS against freezable enemies, as it provides 40% CRIT Rate and 15% Cryo DMG Bonus. However, it falls off against unfreezable enemies, most notably bosses that populate endgame content
+Emblem of Severed Fate
+Emblem is a set that provides some ER and gives a decent elemental burst DMG% buff. However, since Ayaka does not build much ER (except in quickswap teams) and the set doesn't buff the rest of her damage, the set is mostly wasted. 2pc/2pc sets perform similarly
+Main Stats
+Sands
+Goblet
+Circlet
+ATK%
+Cryo DMG% > ATK%
+5
+CRIT DMG > ATK%
+6
+While either an ATK% goblet or circlet are viable, do not use triple ATK%
+Stat Priority
+ER (until requirement) > CRIT > ATK%
+As a burst-reliant DPS, having enough ER to burst every rotation is extremely important. However, building ER beyond that (while technically useless) can be good, as it allows for more comfortable gameplay and gives leeway to make small mistakes. Building more ER than required on a spreadsheet can also be good against enemies that don't drop a lot of particles or bad Favonius/Sacrificial RNG.
+Teambuilding
+Ayaka generally prefers to play in freeze teams over melt teams. This is because freeze supports are generally better than melt supports right now, and her kit synergizes more with freeze. After all, melting with her alternate sprint instead of her damaging hits would be quite inconvenient. Furthermore, her burst being many quick ticks of damage in succession means that ICD limitations and overwhelming Cryo aura would prevent melts.
+Notable Teammates
+Cryo
+Since Ayaka is a burst-reliant DPS, having a Cryo teammate to battery energy or even just generate Cryo particles will greatly increase her comfort and ease of use. Running her as the lone Cryo in her team will skyrocket her ER requirements and decrease her personal damage.
+Cryo units also enable Cryo resonance, which increases CRIT Rate by 15% (assuming uptime of enemies being affected by Cryo).
+Escoffier
+Escoffier is the premium Cryo and freeze support. She brings a huge 55% RES shred in the right teams, great sub DPS, and extremely good healing. Additionally, her skill also generates a good amount of particles
+Shenhe
+Shenhe is another great Cryo support, being able to buff Cryo damage with her quills as well as shred resistance. She is a very good addition to an Ayaka team
+Citlali
+Citlali is a Cryo unit who can hold Scroll to buff all damage. Additionally, she is also a good freeze support, but she only shreds Hydro RES. She provides a shield and generates a generous amount of particles. Finally, she can hold TTDS if need be.
+Charlotte
+Charlotte is a good F2P Cryo option; since she can heal, she is especially good with Furina. She can also hold TTDS
+Diona
+Diona has both shielding and healing. Her hold skill also generates a lot of particles. However, she is pretty clunky and annoying to play with
+Skirk
+While Skirk does not provide any supportive utility, she can function as a quickswap burst DPS
+Ganyu
+While Ganyu does not provide any supportive utility, she can function as a quickswap burst DPS
+Hydro
+Hydro units can provide many supportive buffs as well as enable the freeze reaction.
+Furina
+Furina is a great DMG% buffer who brings a considerable amount of sub DPS. However, using Furina does warrant using a healer, and her application is mostly single-target.
+Sangonomiya Kokomi
+Kokomi is a great AOE hydro applicator who provides a lot of healing. However, her skill is very "circle impact" and may have uptime issues without her burst. She can also equip TTDS
+Mona
+Mona has some hydro application with her E, though it's not the greatest in both uptime and AOE. However, her E does act as sort of a poor man's crowd control. Her burst also provides a good amount of buffs. As a catalyst user, she can hold TTDS.
+Yelan
+Yelan is a strong hydro applicator with good sub DPS and a ramping DMG% bonus. However, her hydro application is essentially single-target only and struggles in AOE scenarios.
+Xingqiu
+Xingqiu is a good alternative to Yelan. Though he has less damage and offensive buffs, his hydro application is much better against multi-target scenarios
+Other
+Other teammates can bring general DMG% bonus, RES shred, or crowd control
+Kaedehara Kazuha
+Kazuha has some of the best crowd control in the game against multi-target scenarios. In such scenarios, he becomes a BiS teammate for Ayaka, as she really needs her burst to hit all the enemies. He also gives some DMG% bonus and RES shred with VV.
+Xilonen
+Xilonen has a great amount of RES shred and DMG% bonus with Scroll. She also provides healing with her burst if Furina is also on the team.
+Sucrose
+Sucrose has slightly weaker crowd control than Kazuha and is relatively burst-reliant. However, she can equip TTDS.
+Venti
+Venti has some crowd control with his burst. However, his burst tends to lift enemies up into the air where Ayaka can't reach.
+Example Teams
+Ayaka/Furina/Escoffier/Shenhe
+Furina EDQ > Escoffier EQ > Shenhe QtE > Ayaka EDQ 2(N2C N2CD)E
+Ayaka's best team in single target scenarios, especially against bosses.
+Ayaka/Kokomi/Shenhe/Kazuha
+Kazuha EPQ
+7
+> Shenhe tEQ > Kokomi E > Ayaka EDQ N2C > Shenhe tE
+8
+> Ayaka N2C N2CD N2CED
+One of Ayaka's best teams against situations where crowd control is needed. Kokomi provides sustain, and Shenhe is the best Cryo support (Escoffier can't be used due to needing Kazuha for grouping, and Furina can't be used since there is no other healer).
+Ayaka/Furina/Charlotte/Kazuha
+Furina EDQ > Kazuha tEQ > Charlotte QtE > Ayaka EDQ 2(N2C) > Kazuha tE > Ayaka D 2(N2C)
+Ayaka's best Furina team when crowd control is needed.
+Ayaka/Ganyu/Shenhe/Escoffier
+Escoffier EQ > Shenhe tEQ > Ganyu EQC > Ayaka EDQ 2(N2C) > Shenhe tE > Ganyu CE > Ayaka D 2(N2C) E
+A mono-cryo team. Since all members are Cryo, they can take maximal advantage from Shenhe's Icy Quills and other effects like Escoffier's C1. Escoffier can be replaced with Kazuha or Xilonen.
+Ayaka/Xingqiu/Charlotte/Sucrose
+Ayaka D N1 > Sucrose QE > Xingqiu EQ > Charlotte QE > Ayaka EDQ > Sucrose E > Ayaka 3(N2CD) E
+A good F2P team for Ayaka. Xingqiu provides consistent Hydro application, and Charlotte can heal. Sucrose has some grouping.
+Other Gameplay Notes
+Cancels
+Ayaka can use dash cancels very liberally. Since her A4 restores 10 stamina after her dash finishes (if you hit an enemy with it), you can dash almost infinitely. Additionally, dashing also gives you a lot of invulnerability frames against enemy attacks.
+Crowd Control
+Ayaka essentially needs enemy mobs to be crowd-controlled and together so her burst can hit as many as possible. While some characters (e.g., Kazuha) can essentially trivialize this through their skills and the freeze reaction freezes enemies in place so they can't move, there sometimes must be other solutions in case things don't work out.
+Enemy movement. You can abuse enemy movement patterns to get them to group together, especially when they are too far to be effectively crowd controlled. Some enemies (like Geovishaps or whooperflowers) like to jump around when you're far enough away, so you can make enemies that spawn far apart from one another group together naturally without a dedicated character.
+Unfreezable enemies are generally larger (and there's only one of them), so they are less of a concern. However, they can often move and jump away from your burst (e.g., the Lunar Dog jumping into his own domain), resulting in a huge DPS loss. To negate this, wait to burst after they have used their movement ability.
+Character placement. Even if enemies are relatively close together, it is possible to suffer a DPS loss from poor character placement. Ayaka's burst will travel forward toward enemies. This means that if she's standing in the middle of two enemies, even if they're close together, her burst will only hit a single enemy a lot of the time. To negate this, try to make sure you are casting your burst in a place where Ayaka and all enemies are lined up as much as possible.
+Frozen. Freeze is essential to bring against smaller enemies or essentially any enemy that can be frozen. Ayaka's burst is powerful enough that many freezable enemies will be knocked away, so even perfectly grouped mobs can end up splitting up. As such, try to maintain 100% freeze uptime against freezable enemies.
+Kazuha. Kazuha's plunge attack after grouping enemies with his skill can sometimes knock enemies away.
+Multiwave Content
+Against multiwave content (e.g., 12-1-1 during the Luna 3 abyss with 41 enemies), Ayaka must play much differently. Against enemies like hilichurls, Ayaka's E is often enough to kill them in one shot. As such, without prior knowledge of enemy spawn points and immediate grouping, it is inadvisable to burst immediately after.
+Energy
+It is important to get as many particles to Ayaka as possible in order to minimize her ER requirements and maximize her personal damage. As such, it is recommended to run Favonius or Sacrificial weapons on teammates to maximize particle generation. Sometimes, you may have to normal attack a few times to proc Favonius, which will be fine.
+When pre-funneling particles to Ayaka's burst with the EDQ combo, make sure to dash away from the particles so they spend more time coming to you, and you have already cast your burst by the time they have arrived. However, if you are in a situation where you only get your burst back after the particles from your E arrive (possibly due to poor pre-funneling on a previous rotation), you should dash toward your particles to get them as fast as possible (still make sure to apply Cryo with your dash, though).
+Footnotes
+Snapshotting is when a character's stats at the talent's cast are the values used to calculate damage for the whole duration. If Ayaka casts the skill while in Bennett's circle before leaving the field, her burst will still deal damage as if she had the ATK bonus.
+↩︎
+Why are you using Ayaka against Cryo-immune enemies?
+↩︎
+C6 Ayaka/C6 Shenhe used to be one of the premiere speedrunning duos, for a very very long time
+↩︎
+Other stat sticks, like PJC, are also in this category
+↩︎
+You may use an ATK% goblet if you have a high refinement Furina or are playing with a lot of DMG% buffers (e.g., Furina)
+↩︎
+You may use an ATK% circlet if you have a lot of CRIT on your point to the point it is saturated (e.g., you're using Light of Foliar Incision with 50cv pieces)
+↩︎
+On the first rotation, dash with Ayaka to apply Cryo before swirling
+↩︎
+You can put a second Kazuha skill in if you need particles for his burst next rotation
+↩︎

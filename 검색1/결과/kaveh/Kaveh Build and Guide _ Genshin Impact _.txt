@@ -1,0 +1,533 @@
+Home
+/
+Genshin Impact
+/
+Character List
+/
+Kaveh Build
+Kaveh Guide and Best Builds
+Kaveh is a 4-Star
+Dendro
+Claymore character in Genshin
+Impact who supports Dendro reactions with his ability to explode Dendro Cores
+at will. Our Kaveh build guide will focus on his Best Artifacts,
+Team Comps, Ascension Materials and More.
+Last updated
+on
+Sep 27, 2025
+at
+10:18
+by
+Shikhu
+1 comment
+A
+Rank
+Dendro
+Element
+Claymore
+Weapon
+★
+★
+★
+★
+★
+Rarity
+Ben Balmaceda
+EN Voice Actor
+Uchida Yuma
+JP Voice Actor
+Kaveh's Strengths & Weaknesses
+Strengths
+Able to manually detonate Dendro Cores using their Elemental Skill or Burst.
+Elemental Burst provides a Dendro infusion allowing him to drive Dendro reactions.
+Taking damage from Dendro Cores activates Kaveh's powerful self healing abilities.
+Weaknesses
+Unable to provide anything of value to the team while off-field.
+High Energy Recharge requirements and has no Constellation to reduce or solve it.
+Low damage while having an on-field role.
+1.
+Kaveh Build Guide, Best Artifacts, Weapons and Talent Priority
+Kaveh is often built as a Driver for
+Dendro
+reactions
+due to their ability to apply Dendro while on-field.
+BiS Weapon
+Flame-Forged Insight
+Alternative Weapons
+Favonius Greatsword
+Master Key
+Mailed Flower
+Sacrificial Greatsword
+Makhaira Aquamarine
+Wolf's Gravestone
+Song of Broken Pines
+Sacrificial Greatsword
+Forest Regalia
+Katsuragikiri Nagamasa
+Best Artifacts
+Deepwood Memories
+Flower of Paradise Lost
+Ocean-Hued Clam
+Main Stats
+Sand Stats
+: Energy Recharge / Elemental Mastery
+Goblet Stats
+: Elemental Mastery
+Circlet Stats
+: Elemental Mastery
+Substat Priority
+Energy Recharge to requirements
+Elemental Mastery
+CRIT Rate (With Favonius)
+ATK %
+CRIT Rate / DMG
+Talent Priority
+Elemental Burst
+Normal Attack
+Elemental Skill
+Kaveh's best weapons tend to revolve around either building Elemental Mastery
+or Energy Recharge. This is because Elemental Mastery helps to
+not only improve his
+Bloom
+DMG but also his
+self healing. Kaveh's best weapon currently is the event 
+weapon
+Flame-Forged Insight
+,
+Favonius Greatsword
+is a 
+great supportive option otherwise and the Nod-Krai
+Master Key
+is 
+another option if your team does not need the energy and you want to pack 
+extra EM.
+Build Kaveh with
+Deepwood Memories
+if no one else in the
+team is using it. It is important that at least 1 character is built
+with Deepwood. Ideally, Kaveh should not build Deepwood Memories
+and a
+Dendro
+support should instead. This then allows
+Kaveh to either use
+Flower of Paradise Lost
+when Kaveh is
+triggering the majority of
+Bloom
+s or
+Ocean-Hued Clam
+when he is not.
+2.
+Recommended Endgame Build Stats for Kaveh
+Build recommendations assume a "decently built" level of artifact rolls alongside 
+Kaveh's best weapon. Using other weapons may increase or decrease certain stats relative to these recommendations.
+HP:
+17,000 - 20,000
+ATK:
+1100 - 1400
+Elemental Mastery:
+550 - 700
+Note: Many Weapons will grant Kaveh a lot of additional Elemental Mastery if not using Favonius
+Energy Recharge:
+See Below
+2.1.
+Kaveh's Energy Recharge Requirements
+Listed below are some recommended Energy Recharge requirements to aim for
+depending on if your build uses
+Favonius Greatsword
+and if
+the team has 1 or 2
+Dendro
+characters. Generally
+Kaveh should proc Favonius twice when played on-field however if your
+Favonius Greatsword is a lower refinement or if you have low
+CRIT Rate you may only proc one time.
+If you build Kaveh as an off-field character, aim for the higher
+end of the "1 Self Favonius Proc" row.
+Weapon
+Sole Dendro
+Double Dendro
+No specific weapon
+240 - 260%+
+175 - 195%
+1 Self Favonius Proc
+200 - 220%
+155 - 175%
+2 Self Favonius Procs
+180 - 200%
+140 - 150%
+3.
+Combos and How to Play Kaveh
+Kaveh's gameplay revolves around his ability to burst Dendro Cores
+automatically in several ways. These are:
+Upon use of
+Artistic Ingenuity
+which will cause all
+Dendro Cores to explode if they are in the AoE.
+Upon use of
+Painted Dome
+which also causes Dendro Cores
+to explode withing the AoE.
+When Kaveh has the Elemental Conversion of
+Painted Dome
+while having
+Pairidaeza's Dreams
+(C6).
+Do not forget that Dendro Cores burst by Kaveh does not necessarily
+mean they have been
+triggered
+by Kaveh. If he was not the character
+who specifically made the Cores they do not gain the effect of
+Feast of Apadana
+(C4) and do not scale on the Elemental Mastery
+that Kaveh has been built with. Instead, they scale based off of the stats of the
+character who did trigger the reaction.
+It is also worth noting, Kaveh's Dendro Core triggers do in fact
+trigger with
+Nilou
+'s Bountiful Cores as a result of
+being counted as Dendro Cores. That being said, the explode quickly regardless
+creating anti-synergy.
+Kaveh's Elemental Burst
+Painted Dome
+not only
+causes Dendro Cores to explode, it also converts your DMG into
+Dendro
+DMG, increases your Interruption RES and
+increases the DMG of all Dendro Cores that the party generates.
+This Dendro conversion goes away when Kaveh leaves the field so you
+want to make the most of it while he is on-field. After using your
+Elemental Burst, the Attack combo is 3 Normal Attacks and then a dash cancel
+before the 4th Attack which you then repeat while dealing Dendro DMG.
+4.
+Kaveh Best Team Compositions
+Kaveh's best team compositions revolve around
+Bloom
+,
+Hyperbloom
+or
+Burgeon
+. Because
+Kaveh's
+Dendro
+application comes while on-field,
+his party needs to revolve around off-field characters with ideally a
+second Dendro character to ease Energy Recharge requirements.
+Kaveh has
+the ability to self heal meaning another healer may not necessarily be
+required or characters with less healing such as
+Xingqiu
+can suffice.
+4.1.
+Kaveh in Nilou Bloom Teams
+Main DPS
+Sub DPS
+Sub DPS
+Sub DPS
+Kaveh
+Nilou
+Lauma
+Xingqiu
+Kaveh
+Nilou
+Lauma
+Sangonomiya Kokomi
+With the recent addition of
+Lauma
+, Kaveh's teams with Lauma 
+perform significantly better than other options.
+Nilou
+Bloom teams can work great with Kaveh. Because of
+Nilou's Ascension Passive
+Court of Dancing Petals
+you are
+forced into only using
+Hydro
+and
+Dendro
+characters. With Kaveh being the on-field character, you can run teams of both 
+2 or 3 Hydro characters.
+This ultimately works similarly to other Bloom teams
+but in this team Kaveh is unable to as effectively explode Dendro Cores
+because Nilou's Bountiful Cores explode immediately anyway. His self healing
+however allows him to be tankier on field than many of the other
+on-field Dendro options.
+4.2.
+Kaveh Bloom Team
+Main DPS
+Sub DPS
+Sub DPS
+Support
+Kaveh
+Xingqiu
+Yelan
+Baizhu
+Kaveh
+Xingqiu
+Nahida
+Sangonomiya Kokomi
+Listed are 2 examples of Bloom teams. 2
+Hydro
+characters are important to ensure there can be enough
+elemental application while Kaveh is on-field. Characters such as
+Xingqiu
+,
+Yelan
+and
+Sangonomiya Kokomi
+and
+Furina
+are great for this.
+Additional
+Dendro
+application from characters like
+Nahida
+and
+Baizhu
+can also be useful
+as well as the buffs they provide to the team. 2 Dendro characters also
+helps to lower Energy Recharge requirements as well as provide
+Dendro Resonance
+.
+Alternatively,
+Anemo
+characters such as
+Kaedehara Kazuha
+and
+Sucrose
+to group
+up Dendro Cores. This makes it easier for Kaveh to detonate them within
+his AoE.
+4.3.
+Kaveh Hyperbloom Team
+Main DPS
+Sub DPS
+Sub DPS
+Support
+Kaveh
+Raiden Shogun
+Nahida
+Xingqiu
+Kaveh
+Xingqiu
+Yelan
+Kuki Shinobu
+Listed are some example of Hyperbloom teams which
+require an
+Electro
+character to be able to
+trigger the
+Hyperbloom
+reaction to deal damage.
+The ideal options here are
+Raiden Shogun
+or
+Kuki Shinobu
+built with Elemental Mastery to increase
+damage.
+5.
+Kaveh's Ascensions, Talents and Constellations
+Kaveh's Ascensions
+Kaveh's Talents
+Kaveh's Constellations
+5.1.
+Kaveh's Ascension Passives and Materials
+Unlock
+Ascension Passive
+Explanation
+With Character
+The Art of Budgeting
+When Kaveh crafts Landscape, Building, and Courtyard-type Furnishings,
+    he has a 100% chance to refund a portion of the materials used.
+1st Ascension
+An Architect's Undertaking
+When DMG dealt by a Dendro Core (including DMG from
+Burgeon
+and
+Hyperbloom
+)
+    hits Kaveh, Kaveh will regain HP equal to 300% of his
+    Elemental Mastery. This effect can be triggered once
+    every 0.5s.
+4th Ascension
+A Craftsman's Curious Conceptions
+During
+Painted Dome
+, after Kaveh's Normal, Charged,
+    or Plunging Attacks hit opponents, his Elemental Mastery will
+    increase by 25. This effect can be triggered once every 0.1s. Max 4 stacks.
+    This effect will be canceled when Painted Dome's effects end.
+Kaveh requires a range of materials to ascend to the 6th ascension.
+Starting from the second ascension he gains Elemental Mastery as he levels,
+giving a total of 96 Bonus Elemental Mastery at the final ascension.
+The total cost to upgrade all ascensions is:
+Source
+Quantity
+Mora
+420,000 Mora
+Boss Material
+46x
+Quelled Creeper
+Ascension Material
+1x
+Nagadus Emerald Sliver
+9x
+Nagadus Emerald Fragment
+9x
+Nagadus Emerald Chunk
+6x
+Nagadus Emerald Gemstone
+Local Specialty
+168x
+Mourning Flower
+Enhancement Material
+18x
+Fungal Spores
+30x
+Luminescent Pollen
+36x
+Crystalline Cyst Dust
+5.2.
+Kaveh's Talents
+Listed below is each talent and a simplified explanation of how they work.
+Type
+Talent Name
+Brief Explanation
+Normal
+Schematic Setup
+Normal, Charged and Plunging Attacks are all controlled by his
+    Suitcase Mehrak. Although they functionally act the same as other
+    Claymore characters.
+Elemental Skill
+Artistic Ingenuity
+Deals AoE
+Dendro
+DMG around Kaveh and detonates any
+    Dendro Cores within the radius.
+Elemental Burst
+Painted Dome
+Deals AoE
+Dendro
+DMG in front of Kaveh, detonating
+      any Dendro Cores inside the area. It also:
+Converts Normal, Charged and Plunging DMG into Dendro DMG while
+        increasing the attacks AoE.
+Makes Dendro Cores deal additional DMG based on the level of the skill.
+Gives Kaveh increased Interruption RES.
+To upgrade a single talent to level 10, it costs:
+Source
+Quantity
+Mora
+1,625,500 Mora
+Special Material
+1x
+Crown of Insight
+Boss Material
+6x
+Primordial Greenbloom
+Domain Material
+3x
+Teachings of Ingenuity
+21x
+Guide to Ingenuity
+38x
+Philosophies of Ingenuity
+Enhancement Material
+6x
+Fungal Spores
+22x
+Luminescent Pollen
+31x
+Crystalline Cyst Dust
+5.3.
+Kaveh's Constellations
+Kaveh has some very impactful Constellations.
+Sublime Salutations
+(C1) increases his survivability against Dendro Core explosions making it easier
+to not use a healer in teams.
+Pairidaeza's Dreams
+(C6)
+massively increases how often Kaveh can detonate Dendro Cores.
+#
+Name
+Explanation
+C1
+Sublime Salutations
+Within 3s after using
+Artistic Ingenuity
+, Kaveh's
+Dendro
+RES and Incoming Healing Bonus will be increased by
+    50% and 25% respectively.
+C2
+Grace of Royal Roads
+Kaveh's Normal Attack SPD increases by 15% during
+Painted Dome
+.
+C3
+Profferings of Dur Untash
+Increases the Level of
+Painted Dome
+by 3.
+Maximum upgrade level is 15.
+C4
+Feast of Apadana
+Dendro Cores created from
+Bloom
+reactions Kaveh
+    triggers will deal 60% more DMG when they burst.
+C5
+Treasures of Bonkhanak
+Increases the Level of
+Artistic Ingenuity
+by 3.
+Maximum upgrade level is 15.
+C6
+Pairidaeza's Dreams
+When Kaveh's Normal, Charged, or Plunging Attacks hit opponents
+    during
+Painted Dome
+, they will unleash Pairidaeza's Light
+    upon the opponent's position, dealing 61.8% of Kaveh's ATK as AoE
+Dendro
+DMG and causing all Dendro Cores within that AoE
+    to burst. This effect can be triggered once every 3s.
+Changelog
+27 Sep. 2025:
+Updated for 6.0.
+10 Jul. 2025:
+Updated for 5.7.
+12 Feb. 2025:
+Reviewed for 5.4.
+29 Jan. 2025:
+Reviewed for 5.3.
+05 Jun. 2024:
+Reviewed for 4.7.
+25 Feb. 2024:
+Guide added.
+Show more
+Show less
+Need any help? Check out our
+General Discussion Forum
+!
+1 comment
+In The Same Category
+Kinich Best Builds Guide
+Kirara Best Builds Guide
+Emilie Team Guide
+Baizhu Best Builds Guide
+Nefer Best Builds Guide
+Kinich Team Guide
+Nefer Profile & Talents
+Nefer Team Guide
+Dendro Traveler Best Builds Guide
+Alhaitham Team Guide
+Alhaitham Profile & Talents
+Tighnari Best Builds Guide
+ABOUT THE AUTHOR
+This guide has been written by Shikhu (Discord - Shikhu), an avid Genshin Impact player who has
+          been exploring Teyvat since the game has launched. He has experienced
+          all the game has to offer from building his favorite characters,
+          exploring the world to clearing Spiral Abyss each rotation. His
+          favorite character being his C6 Furina.
+SUPPORT OUR WRITERS

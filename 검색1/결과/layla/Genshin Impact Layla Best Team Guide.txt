@@ -1,0 +1,327 @@
+Genshin Impact Layla Best Team Guide
+Last updated April 20, 2026. Looking for the best Layla teams in
+        Genshin Impact? Start with the top team summary below, then pick the
+        lineup that fits your roster.
+This page provides the best Layla Team information. Layla will be Support/Shield in most of the situation, primarily a Support. Top teams include Permafrost and Melt comps. Team positions can be adjusted based on your roster.
+View Layla's character page
+Layla Team Summary
+#1
+Team Rating:SS
+Ayaka Shenhe Xingqiu Layla Permafrost Freeze Team
+#2
+Team Rating:SS
+Layla Melt Vaporize Yoimiya Team
+#3
+Team Rating:SS
+Layla Melt Freeze Ganyu Team
+#4
+Team Rating:SS
+Gaming Layla Ganyu Xianyun Melt Plunge Team
+#1 Ayaka Shenhe Xingqiu Layla Permafrost Freeze Team
+Tier SS
+Layla Permafrost Team
+A strong Freeze composition centered on Ayaka’s Burst damage with Shenhe buffing Cryo output, Xingqiu maintaining Hydro application, and Layla providing a durable shield plus additional off-field Cryo damage and Normal Attack support.
+Kamisato Ayaka
+Main DPS
+Cryo
+Primary on-field damage dealer. Ayaka deals most of her damage through her Elemental Burst, and her Cryo attacks freeze enemies when paired with Xingqiu’s Hydro application.
+Artifacts
+Blizzard Strayer
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Mistsplitter Reforged
+Amenoma Kageuchi
+Shenhe
+Sub DPS
+Cryo
+Cryo buffer and off-field damage support. Shenhe increases Ayaka’s damage through ATK-based buffs and lowers enemy Cryo RES.
+Artifacts
+Gladiator's Finale
+Shimenawa's Reminiscence
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+ATK%
+Substats
+ATK% / Energy Recharge / CRIT DMG / CRIT Rate
+Weapons
+Calamity Queller
+Wavebreaker's Fin
+Xingqiu
+Sub DPS
+Hydro
+Provides consistent Hydro application through his Elemental Burst, enabling Freeze reactions with Ayaka, Shenhe, and Layla’s Cryo damage.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Sacrificial Sword
+Layla
+Support
+Cryo
+Shield and utility support. Layla gives the team strong protection, contributes off-field Cryo damage, and boosts teammates’ Normal Attack damage.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+Cryo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+HP% / CRIT Rate / CRIT DMG
+Weapons
+Primordial Jade Cutter
+Harbinger of Dawn
+#2 Layla Melt Vaporize Yoimiya Team
+Tier SS
+Layla provides Cryo shielding and off-field Cryo application, enabling Freeze setups with Xingqiu/Yelan before Yoimiya triggers Melt and Vaporize reactions. Strong single-target damage with excellent survivability.
+Yoimiya
+Main DPS
+Pyro
+On-field carry and main source of damage. Prioritize Normal Attack uptime to maximize reaction-based damage.
+Artifacts
+Shimenawa's Reminiscence
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Thundering Pulse
+Rust
+Yelan
+Sub DPS
+Hydro
+Provides strong off-field Hydro application to enable Vaporize and help maintain Freeze alongside Layla's Cryo.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+HP%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+HP% / CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Aqua Simulacra
+Favonius Warbow
+Xingqiu
+Sub DPS
+Hydro
+Off-field Hydro application from Burst supports Freeze and Vaporize reactions for Yoimiya.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Sacrificial Sword
+Layla
+Support
+Cryo
+Shield support with off-field Cryo damage and Normal Attack damage bonus utility. Provides safety and helps enable Freeze reactions.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+Cryo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+HP% / CRIT Rate / CRIT DMG
+Weapons
+Primordial Jade Cutter
+Harbinger of Dawn
+#3 Layla Melt Freeze Ganyu Team
+Tier SS
+Layla Melting Team #1
+Layla provides shielding and off-field Cryo damage, while Ganyu acts as the main Charged Attack DPS. Xiangling supplies strong off-field Pyro application for Melting, and Xingqiu adds Hydro application for Freeze utility and more reaction control.
+Ganyu
+Main DPS
+Cryo
+Ganyu is the on-field carry. Her Charged Attacks deal high damage and apply Cryo to enable Melt reactions.
+Artifacts
+Wanderer's Troupe
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Hunter's Path
+Hamayumi
+Xiangling
+Sub DPS
+Pyro
+Xiangling provides strong off-field Pyro damage through her Elemental Burst, enabling Ganyu's Melt reactions.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Pyro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Engulfing Lightning
+"The Catch"
+Xingqiu
+Sub DPS
+Hydro
+Xingqiu's Burst continuously applies Hydro, adding Freeze utility and reaction control alongside the Cryo/Pyro core.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Sacrificial Sword
+Layla
+Support
+Cryo
+Layla provides a strong shield, off-field Cryo damage, and extra damage support for Ganyu's Charged Attacks.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+Cryo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+HP% / CRIT Rate / CRIT DMG
+Weapons
+Primordial Jade Cutter
+Harbinger of Dawn
+#4 Gaming Layla Ganyu Xianyun Melt Plunge Team
+Tier SS
+Team Rating: SS Tier
+Gaming is the on-field Main DPS, using Plunging Attacks to apply consistent Pyro for Melt reactions. Ganyu provides off-field Cryo application, while Layla supplies shielding and additional Cryo support. Xianyun acts as the Support/Healer and boosts Gaming’s Plunging Attacks.
+Gaming
+Main DPS
+Pyro
+On-field carry. His Plunging Attacks provide continuous Pyro application to trigger Melting.
+Artifacts
+Crimson Witch of Flames
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Pyro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Wolf's Gravestone
+Serpent Spine
+Ganyu
+Sub DPS
+Cryo
+Off-field Cryo applicator. Her Elemental Burst provides Cryo attachment to trigger Melt reactions from backstage.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Amos' Bow
+Hamayumi
+Layla
+Support
+Cryo
+Provides strong shielding for the team and contributes off-field Cryo damage.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+Cryo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+HP% / CRIT Rate / CRIT DMG
+Weapons
+Primordial Jade Cutter
+Harbinger of Dawn
+Xianyun
+Support
+Anemo
+Healer/support who keeps the team alive and enhances Gaming’s Plunging Attacks.
+Artifacts
+Song of Days Past
+Main Stats
+Sands
+Energy Recharge
+Goblet
+ATK%
+Circlet
+Healing Bonus
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Crane's Echoing Call
+Oathsworn Eye
+Layla Teams FAQ
+What is the best Layla team in Genshin Impact?
+Ayaka Shenhe Xingqiu Layla Permafrost Freeze Team is one of the strongest Layla teams right now. Use the team summary and build cards on this page to pick the best version for your account.
+What are good Layla teams without premium weapons?
+You can run strong Layla teams without signature weapons by prioritizing reaction synergy, energy consistency, and artifact main stats shown in each build card.
+Which teammates are best with Layla?
+Common high-performing partners include teams such as Ayaka Shenhe Xingqiu Layla Permafrost Freeze Team, Layla Melt Vaporize Yoimiya Team, Layla Melt Freeze Ganyu Team. Check each lineup section for role breakdowns and gear priorities.

@@ -1,0 +1,137 @@
+Share
+Facebook
+𝕏
+Reddit
+Email
+This build guide will go over the strongest Artifact sets, weapons, and teams for Noelle in Genshin Impact.
+Best Noelle build guide in Genshin Impact (Image via HoYoverse)
+If you want a good Geo DPS unit in
+Genshin Impact
+, then Noelle might not have been your first pick a while ago. However, with the introduction of Lunar Reactions (and specifically Lunar-Crystallize), Noelle has become a formidable unit. However, this does rely on how well you can build her.
+This guide will show you the best build for Noelle in Genshin Impact.
+Table of Contents
+[
+hide
+]
+Best Artifact Sets for Noelle in Genshin Impact
+Recommended Artifact Stats
+Best Weapons for Noelle in Genshin Impact
+Best 5-star Weapons for Noelle in Genshin Impact
+Best F2P Weapons for Noelle in Genshin Impact
+Best Teams for Noelle in Genshin Impact
+Best Artifact Sets for Noelle in Genshin Impact
+Husk of Opulent Dreams (Image via HoYoverse)
+Here are the best Artifact sets to use for the strongest Noelle build in Genshin Impact:
+Role
+Artifact
+Set Bonus
+Main DPS
+Husk of Opulent Dreams
+2pc:
+DEF +30%
+4pc:
+A character equipped with this Artifact set will obtain the Curiosity effect in the following conditions:
+When on the field, the character gains 1 stack after hitting an opponent with a Geo attack, triggering a maximum of once every 0.3s. When off the field, the character gains 1 stack every 3s.
+Curiosity can stack up to 4 times, each providing 6% DEF and a 6% Geo DMG Bonus. When 6 seconds pass without gaining a Curiosity stack, 1 stack is lost.
+Main DPS
+Marechaussee Hunter
+2pc:
+Normal and Charged Attack DMG +15%
+4pc:
+When the current HP increases or decreases, the CRIT Rate will be increased by 12% for 5s. Max 3 stacks.
+Note:
+Marechaussee Hunter is only meant to be used for Noelle when paired with Furina. In her absence, stick to Husk of Opulent Dreams.
+Recommended Artifact Stats
+These are the recommended main stats for your best Artifacts for this Noelle build in Genshin Impact:
+Artifact
+Stat
+Sands
+DEF %
+Goblet
+Geo Damage Bonus %
+Circlet
+Crit Damage/Crit Rate
+Moreover, the preferred sub-stats for your Artifacts are:
+Energy Recharge (until you meet Energy requirements)
+Crit Rate/Crit Damage
+DEF %
+Best Weapons for Noelle in Genshin Impact
+Redhorn Stonethresher (Image via HoYoverse)
+Noelle has a bunch of weapons to use in Genshin. These range from premium five-star options, all the way down to free event weapons and other craftable four-star choices. The best of these will be mentioned below:
+Best 5-star Weapons for Noelle in Genshin Impact
+The best five-star weapons for this Noelle build in Genshin Impact will be mentioned below, along with their reasons:
+Weapon
+Reason
+Stat
+Effect
+Redhorn Stonethresher
+Greatly increases Crit Damage, while also improving Normal and Charged Attack damage by a significant amount, since Noelle will have a lot of Defence.
+CRIT Damage 88.2%
+DEF is increased by 28%. Normal and Charged Attack DMG is increased by 40% of DEF.
+Verdict
+Navia utilizes Crystallize shards in her kit, and this weapon supports that mechanic. So, if you are using Lunar-Crystallize or Crystallize teams, then this weapon will be great.
+CRIT Rate 22.1%
+Increases ATK by 20%.
+When characters in your party obtain Elemental Shards from Crystallize or trigger Lunar-Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by 18%. The Seal lasts for 15s, and the equipped may have up to 2 Seals at once. All of the equipper’s Seals will disappear 0.2s after their Elemental Skill deals DMG. Up to 1 Seal may be obtained every second through the Lunar-Crystallize reaction.
+Note:
+The above weapon effects are at Refinement 1 and level 90.
+Best F2P Weapons for Noelle in Genshin Impact
+The best free-to-play/four-star weapons are:
+Weapon
+Reason
+Stat
+Effect
+Whiteblind
+This is an easy to make craftable weapon, which works very well for Noelle.
+DEF 51.7%
+On hit, Normal or Charged Attacks increase ATK and DEF by 12% for 6s. Max 4 stacks (48% total). Can only occur once every 0.5s.
+Tidal Shadow
+This is a craftable weapon that offers a huge Attack boost for a simple condition of a healer.
+ATK 41.3 %
+After the wielder is healed, ATK will be increased by 48% for 8s. This can be triggered even when the character is not on the field.
+Note:
+The above weapon effects are at
+Refinement 5 and level 90
+. This is because four-star weapons are considerably easier to obtain, and some of these can even be crafted. So, you can easily obtain multiple copies of these weapons in most cases.
+Best Teams for Noelle in Genshin Impact
+Best Noelle teams guide in Genshin Impact (Image via HoYoverse)
+Noelle can be used as a free-to-play Geo DPS in many teams, as shown below:
+Character 1
+Character 2
+Character 3
+Character 4
+Noelle
+Durin
+Bennett
+Zhongli
+Noelle
+Furina
+Bennett
+Xilonen
+Noelle
+Columbina
+Yelan
+Illuga
+Noelle
+Columbina
+Ineffa
+Illuga
+Moreover, these are some of the best free-to-play Noelle teams:
+Character 1
+Character 2
+Character 3
+Character 4
+Noelle
+Xiangling
+Bennett
+Gorou
+Noelle
+Xingqiu
+Xiangling
+Bennett
+We provide simple and reliable guides for Genshin Impact characters. From builds to team comps, we help you make the most of every character. Check out some of our Genshin Impact character guides below
+Genshin Impact: Best Varka Build Guide
+Genshin Impact: Best Durin Build Guide
+Genshin Impact: Best Venti Build Guide
+Genshin Impact: Best Fischl Build Guide
+Genshin Impact: Best Albedo Build Guide

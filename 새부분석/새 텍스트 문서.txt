@@ -1,0 +1,30 @@
+project/
+├── main.py
+├── config.py
+│
+├── core/
+│   ├── __init__.py
+│   ├── utils.py
+│   ├── state.py
+│   ├── legal.py
+│   ├── actions.py
+│
+├── ga/
+│   ├── __init__.py
+│   ├── genome.py
+│   ├── operators.py
+│   ├── evolution.py
+│
+├── gcsim/
+│   ├── __init__.py
+│   ├── builder.py
+│   ├── runner.py
+│
+├── data/
+│   ├── best_orders.json
+│   ├── gear.json
+│   ├── gcsim_legal_actions_all.json
+│   ├── gcsim_legal_actions_parser.json
+│
+└── output/
+    └── generated_rotations/

@@ -1,0 +1,315 @@
+[
+  {
+    "note": "0 for no collision dmg (default), 1 for collision dmg.",
+    "condition": {
+      "type": "option_flag",
+      "name": "collision_damage",
+      "allowed_values": [0, 1],
+      "default": 0
+    }
+  },
+  {
+    "note": "Cancel the CA immediately after absorbing nearby Blood-Debt Directives. The next action must be Dash or Jump. Default 0 (false), 1 for true",
+    "condition": {
+      "type": "special_option",
+      "name": "early_cancel_charge",
+      "requires_state": ["blood_debt_absorbed"],
+      "next_action_required": ["dash", "jump"],
+      "allowed_values": [0, 1],
+      "default": 0
+    }
+  },
+  {
+    "note": "Cannot be used in Seven-Phase Flash.",
+    "condition": {
+      "type": "forbidden_state",
+      "state": ["seven_phase_flash"]
+    }
+  },
+  {
+    "note": "Cannot dash while in spirit envoy state.",
+    "condition": {
+      "type": "forbidden_state",
+      "state": ["spirit_envoy"]
+    }
+  },
+  {
+    "note": "Everything except charge and burst followed by walk has proper frames.",
+    "condition": {
+      "type": "walk_prev_action_whitelist_inverse",
+      "forbidden_prev_actions": ["charge", "burst"]
+    }
+  },
+  {
+    "note": "Everything except normal followed by walk has proper frames.",
+    "condition": {
+      "type": "walk_prev_action_whitelist_inverse",
+      "forbidden_prev_actions": ["attack"]
+    }
+  },
+  {
+    "note": "Hold skill is not implemented.",
+    "condition": {
+      "type": "not_implemented",
+      "action_variant": "skill_hold"
+    }
+  },
+  {
+    "note": "Must have just exited Nightsoul Blessing",
+    "condition": {
+      "type": "required_recent_state_exit",
+      "state": "nightsoul_blessing"
+    }
+  },
+  {
+    "note": "Need to use attack right before charge.",
+    "condition": {
+      "type": "prev_action_required",
+      "value": ["attack"]
+    }
+  },
+  {
+    "note": "Need to use attack right before charge. Cannot charge in nightsoul blessing",
+    "condition": {
+      "type": "compound",
+      "all": [
+        {
+          "type": "prev_action_required",
+          "value": ["attack"]
+        },
+        {
+          "type": "forbidden_state",
+          "state": ["nightsoul_blessing"]
+        }
+      ]
+    }
+  },
+  {
+    "note": "No action followed by walk (except low_plunge and high_plunge) has proper frames.",
+    "condition": {
+      "type": "walk_prev_action_whitelist",
+      "allowed_prev_actions": ["low_plunge", "high_plunge"]
+    }
+  },
+  {
+    "note": "No action followed by walk has proper frames.",
+    "condition": {
+      "type": "action_forbidden",
+      "action": "walk"
+    }
+  },
+  {
+    "note": "Normal Attacks do not have legal walk cancels recorded, but Skill, Burst and Low/High Plunge do.",
+    "condition": {
+      "type": "walk_prev_action_whitelist",
+      "allowed_prev_actions": ["skill", "burst", "low_plunge", "high_plunge"],
+      "forbidden_prev_actions": ["attack"]
+    }
+  },
+  {
+    "note": "Not available in skill state. Need to use attack right before charge.",
+    "condition": {
+      "type": "compound",
+      "all": [
+        {
+          "type": "forbidden_state",
+          "state": ["skill_state"]
+        },
+        {
+          "type": "prev_action_required",
+          "value": ["attack"]
+        }
+      ]
+    }
+  },
+  {
+    "note": "Not implemented yet.",
+    "condition": {
+      "type": "not_implemented"
+    }
+  },
+  {
+    "note": "Only aim followed by walk and walk followed by skill have proper frames.",
+    "condition": {
+      "type": "sequence_whitelist",
+      "allowed_sequences": [
+        ["aim", "walk"],
+        ["walk", "skill"]
+      ]
+    }
+  },
+  {
+    "note": "Only aim followed by walk has proper frames.",
+    "condition": {
+      "type": "sequence_whitelist",
+      "allowed_sequences": [
+        ["aim", "walk"]
+      ]
+    }
+  },
+  {
+    "note": "Only available for Lumine. Previous action must be a jump buffed via Xianyun's burst for example.",
+    "condition": {
+      "type": "compound",
+      "all": [
+        {
+          "type": "character_required",
+          "value": ["Lumine"]
+        },
+        {
+          "type": "prev_action_required",
+          "value": ["xianyun_buffed_jump"]
+        }
+      ]
+    }
+  },
+  {
+    "note": "Only available for a short time after Windfavored state ends.",
+    "condition": {
+      "type": "required_recent_state_exit",
+      "state": "windfavored"
+    }
+  },
+  {
+    "note": "Only available if in skill state. Need to use attack right before charge.",
+    "condition": {
+      "type": "compound",
+      "all": [
+        {
+          "type": "required_state",
+          "state": ["skill_state"]
+        },
+        {
+          "type": "prev_action_required",
+          "value": ["attack"]
+        }
+      ]
+    }
+  },
+  {
+    "note": "Only available if not in skill state.",
+    "condition": {
+      "type": "forbidden_state",
+      "state": ["skill_state"]
+    }
+  },
+  {
+    "note": "Only burst and aim followed by walk have proper frames.",
+    "condition": {
+      "type": "walk_prev_action_whitelist",
+      "allowed_prev_actions": ["burst", "aim"]
+    }
+  },
+  {
+    "note": "Only skill and burst followed by walk have proper frames.",
+    "condition": {
+      "type": "walk_prev_action_whitelist",
+      "allowed_prev_actions": ["skill", "burst"]
+    }
+  },
+  {
+    "note": "Previous action must be a jump buffed via Xianyun's burst for example.",
+    "condition": {
+      "type": "prev_action_required",
+      "value": ["xianyun_buffed_jump"]
+    }
+  },
+  {
+    "note": "Previous action must be a jump buffed via Xianyun's burst for example. Cannot be used while in skill state.",
+    "condition": {
+      "type": "compound",
+      "all": [
+        {
+          "type": "prev_action_required",
+          "value": ["xianyun_buffed_jump"]
+        },
+        {
+          "type": "forbidden_state",
+          "state": ["skill_state"]
+        }
+      ]
+    }
+  },
+  {
+    "note": "Previous action must be a jump buffed via Xianyun's burst for example. Cannot low plunge in nightsoul blessing.",
+    "condition": {
+      "type": "compound",
+      "all": [
+        {
+          "type": "prev_action_required",
+          "value": ["xianyun_buffed_jump"]
+        },
+        {
+          "type": "forbidden_state",
+          "state": ["nightsoul_blessing"]
+        }
+      ]
+    }
+  },
+  {
+    "note": "Previous action must be a walking Flamestrider jump or jump buffed via Xianyun's burst for example.",
+    "condition": {
+      "type": "prev_action_required",
+      "value": ["walking_flamestrider_jump", "xianyun_buffed_jump"]
+    }
+  },
+  {
+    "note": "Previous action must be charge or jump buffed via Xianyun's burst for example.",
+    "condition": {
+      "type": "prev_action_required",
+      "value": ["charge", "xianyun_buffed_jump"]
+    }
+  },
+  {
+    "note": "Previous action must be jump buffed via Xianyun's burst for example or must be still in Cloud Transmogrification state (Xianyun E).",
+    "condition": {
+      "type": "or",
+      "any": [
+        {
+          "type": "prev_action_required",
+          "value": ["xianyun_buffed_jump"]
+        },
+        {
+          "type": "required_state",
+          "state": ["cloud_transmogrification"]
+        }
+      ]
+    }
+  },
+  {
+    "note": "Previous action must be jump buffed via Xianyun's burst for example.",
+    "condition": {
+      "type": "prev_action_required",
+      "value": ["xianyun_buffed_jump"]
+    }
+  },
+  {
+    "note": "Previous action must be skill or a jump buffed via Xianyun's burst for example.",
+    "condition": {
+      "type": "prev_action_required",
+      "value": ["skill", "xianyun_buffed_jump"]
+    }
+  },
+  {
+    "note": "Previous action must be skill[hold=1] or a jump buffed via Xianyun's burst for example.",
+    "condition": {
+      "type": "prev_action_required",
+      "value": ["skill_hold", "xianyun_buffed_jump"]
+    }
+  },
+  {
+    "note": "Previous action must be skill[hold=1].",
+    "condition": {
+      "type": "prev_action_required",
+      "value": ["skill_hold"]
+    }
+  },
+  {
+    "note": "Swapping while Windfavored state is active is not legal.",
+    "condition": {
+      "type": "forbidden_state",
+      "state": ["windfavored"],
+      "action": "swap"
+    }
+  }
+]

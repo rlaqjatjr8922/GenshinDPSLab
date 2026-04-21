@@ -1,0 +1,524 @@
+Genshin Impact Eula Best Team Guide
+Last updated April 20, 2026. Looking for the best Eula teams in
+        Genshin Impact? Start with the top team summary below, then pick the
+        lineup that fits your roster.
+This page provides the best team info for Eula, primarily a main Cryo DPS. Top teams focus on Super Conduct reactions with Electro Sub-DPS/Support (e.g., Raiden Shogun, Beidou, Fischl) to maximize her Elemental Burst damage. Flexibility allows swapping Electro characters based on build or roster availability.
+View Eula's character page
+Eula Team Summary
+#1
+Team Rating:SS
+Eula Physical SS Team with Mika, Rosaria & Bennett
+C6
+#2
+Team Rating:S
+Eula Superconduct S Tier Raiden Rosaria Zhongli Team
+C6
+#3
+Team Rating:S
+Eula Superconduct Burst Team with Zhongli and Off-field Electro
+C2
+#4
+Team Rating:S
+eula_superconduct_team_4
+#5
+Team Rating:S
+Eula Superconduct S-Tier Burst Team
+#6
+Team Rating:S
+Eula Superconduct Team #6
+#1 Eula Physical SS Team with Mika, Rosaria & Bennett
+Tier SS
+Eula is the Main DPS. Her Elemental Burst is the core of the team and is heavily amplified by teammate buffs, Cryo battery support, and Physical RES reduction.
+Eula
+Main DPS
+Cryo
+Main on-field damage dealer. Focus on maximizing Elemental Burst damage with Physical DMG Bonus and strong ATK/CRIT investment.
+Artifacts
+Pale Flame
+Main Stats
+Sands
+ATK%
+Goblet
+Physical DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Song of Broken Pines
+Serpent Spine
+Mika
+Support
+Cryo
+Provides Attack SPD and Physical DMG buffs for Eula. Also helps with healing/support utility.
+Artifacts
+Ocean-Hued Clam
+Main Stats
+Sands
+Energy Recharge
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Favonius Lance
+Rosaria
+Sub DPS
+Cryo
+Constellation 6+
+Deals damage mainly through Elemental Burst and serves as a battery for Eula. At C6, she reduces enemy Physical RES, further boosting Eula’s Burst damage.
+Artifacts
+Blizzard Strayer
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Favonius Lance
+Bennett
+Support
+Pyro
+His Elemental Burst provides a huge ATK buff and healing to the team.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+#2 Eula Superconduct S Tier Raiden Rosaria Zhongli Team
+Tier S
+Eula
+is the main on-field DPS. The team focuses on maximizing her Elemental Burst through
+Superconduct
+, Raiden Shogun’s off-field Electro application and Burst support, Rosaria’s Cryo damage and battery utility, and Zhongli’s powerful shield plus
+Tenacity of the Millelith
+buff.
+Eula
+Main DPS
+Cryo
+Core carry of the team. Prioritizes Physical DMG and Burst damage, with Superconduct support to reduce enemy Physical RES.
+Artifacts
+Pale Flame
+Main Stats
+Sands
+ATK%
+Goblet
+Physical DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Song of Broken Pines
+Serpent Spine
+Raiden Shogun
+Sub DPS
+Electro
+Provides consistent Electro application for
+Superconduct
+, boosts team Energy via her Burst, and adds Burst DMG support through her Skill. Deals strong damage during Eula downtime.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+Energy Recharge / ATK%
+Goblet
+ATK%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Engulfing Lightning
+"The Catch"
+Rosaria
+Sub DPS
+Cryo
+Constellation 6+
+Burst-focused Cryo sub DPS and battery for Eula. At
+C6
+, she reduces enemy Physical RES, further increasing Eula’s Burst damage.
+Artifacts
+Blizzard Strayer
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Skyward Spine
+Favonius Lance
+Zhongli
+Support
+Geo
+Provides a strong shield for safety and activates
+Tenacity of the Millelith
+for a team-wide ATK buff.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Staff of Homa
+Black Tassel
+#3 Eula Superconduct Burst Team with Zhongli and Off-field Electro
+Tier S
+Eula-focused Superconduct team built to maximize her Burst damage with off-field Electro application and strong shielding from Zhongli.
+Eula
+Main DPS
+Cryo
+Core carry of the team. Her Elemental Burst is the main damage source and is amplified by Superconduct and team support.
+Artifacts
+Pale Flame
+Main Stats
+Sands
+ATK%
+Goblet
+Physical DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Song of Broken Pines
+Serpent Spine
+Beidou
+Sub DPS
+Electro
+Provides continuous off-field Electro damage through her Burst, enabling Superconduct for Eula's Physical damage.
+Artifacts
+Thundering Fury
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Skyward Pride
+Serpent Spine
+Chongyun
+Sub DPS
+Cryo
+Constellation 2+
+Offers additional Cryo damage from off-field and, at C2, can reduce Elemental Skill and Burst cooldowns, helping Eula's rotation.
+Artifacts
+Blizzard Strayer
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Wolf's Gravestone
+Serpent Spine
+Zhongli
+Support
+Geo
+Provides strong shielding for safe gameplay and the 4-piece Tenacity of the Millelith ATK buff for the whole team.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP / Energy Recharge
+Weapons
+Staff of Homa
+Black Tassel
+#4 eula_superconduct_team_4
+Tier S
+Eula is the main DPS. This team centers on maximizing
+Superconduct
+and Eula’s Elemental Burst with strong buff support from
+Bennett
+and electro application from
+Raiden Shogun
+.
+Diona adds shielding and Cryo battery support for Eula.
+Eula
+Main DPS
+Cryo
+Main carry of the team. Build for Physical DMG and CRIT to maximize Burst damage.
+Artifacts
+Pale Flame
+Main Stats
+Sands
+ATK%
+Goblet
+Physical DMG Bonus
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Song of Broken Pines
+Serpent Spine
+Raiden Shogun
+Sub DPS
+Electro
+Provides consistent Electro application to trigger
+Superconduct
+for Eula, deals damage during Eula's downtime, and helps recharge the team while boosting Burst damage with her Skill.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+Energy Recharge / ATK%
+Goblet
+ATK%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Engulfing Lightning
+"The Catch"
+Bennett
+Support
+Pyro
+His Elemental Burst provides a huge ATK buff and healing for the team.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+Diona
+Support
+Cryo
+Provides shielding and acts as a Cryo battery for Eula, improving survivability and Burst uptime.
+Artifacts
+Maiden Beloved
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP / Energy Recharge
+Weapons
+Sacrificial Bow
+Favonius Warbow
+#5 Eula Superconduct S-Tier Burst Team
+Tier S
+Eula is the Main DPS. The team focuses on maximizing
+Superconduct
+for physical resistance shred, while Bennett provides a strong ATK buff and healing, and Diona offers shielding plus Cryo battery support for Eula's Burst uptime.
+Eula
+Main DPS
+Cryo
+Core physical carry of the team. Her Elemental Burst is the main source of damage and benefits heavily from Superconduct and Bennett's buff.
+Artifacts
+Pale Flame
+Main Stats
+Sands
+ATK%
+Goblet
+Physical DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Sacrificial Bow
+Favonius Warbow
+Fischl
+Sub DPS
+Electro
+Provides consistent off-field Electro application through Oz, enabling reliable Superconduct reactions for Eula.
+Artifacts
+Thundering Fury
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Skyward Harp
+The Stringless
+Bennett
+Support
+Pyro
+Burst grants a large ATK buff and healing, significantly boosting Eula's Burst damage output.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+Diona
+Support
+Cryo
+Provides shielding and serves as a Cryo battery for Eula, helping with survivability and Burst energy needs.
+Artifacts
+Maiden Beloved
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Sacrificial Bow
+Favonius Warbow
+#6 Eula Superconduct Team #6
+Tier S
+Eula
+is the main DPS. This team focuses on maximizing Eula’s Elemental Burst through
+Superconduct
+, Bennett’s ATK buff, and consistent off-field Electro application from Beidou.
+Eula
+Main DPS
+Cryo
+Core damage dealer. Prioritize Burst damage and Physical DMG scaling. Superconduct greatly boosts her damage output.
+Artifacts
+Pale Flame
+Main Stats
+Sands
+ATK%
+Goblet
+Physical DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Song of Broken Pines
+Serpent Spine
+Beidou
+Sub DPS
+Electro
+Off-field Electro application from her Burst helps trigger
+Superconduct
+for Eula. Also adds strong AoE damage.
+Artifacts
+Thundering Fury
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Skyward Pride
+Serpent Spine
+Bennett
+Support
+Pyro
+Provides a massive
+ATK buff
+and healing through his Burst. Also enables
+Noblesse Oblige
+uptime for team support.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+Diona
+Support
+Cryo
+Provides shielding and helps battery
+Eula
+with Cryo particles. Improves survivability and team comfort.
+Artifacts
+Maiden Beloved
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Sacrificial Bow
+Favonius Warbow
+Eula Teams FAQ
+What is the best Eula team in Genshin Impact?
+Eula Physical SS Team with Mika, Rosaria & Bennett is one of the strongest Eula teams right now. Use the team summary and build cards on this page to pick the best version for your account.
+What are good Eula teams without premium weapons?
+You can run strong Eula teams without signature weapons by prioritizing reaction synergy, energy consistency, and artifact main stats shown in each build card.
+Which teammates are best with Eula?
+Common high-performing partners include teams such as Eula Physical SS Team with Mika, Rosaria & Bennett, Eula Superconduct S Tier Raiden Rosaria Zhongli Team, Eula Superconduct Burst Team with Zhongli and Off-field Electro. Check each lineup section for role breakdowns and gear priorities.

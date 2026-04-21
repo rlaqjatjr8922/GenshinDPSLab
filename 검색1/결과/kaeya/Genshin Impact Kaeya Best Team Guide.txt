@@ -1,0 +1,341 @@
+Genshin Impact Kaeya Best Team Guide
+Last updated April 20, 2026. Looking for the best Kaeya teams in
+        Genshin Impact? Start with the top team summary below, then pick the
+        lineup that fits your roster.
+This page shows the best teams for Kaeya, primarily a DPS or Sub-DPS. Top teams include Permafrost and Melt archetypes. Flexibility allows swapping Kaeya with Chongyun or adjusting roles based on build and roster.
+View Kaeya's character page
+Kaeya Team Summary
+#1
+Team Rating:B
+Kaeya Melt Vaporize Hu Tao Team
+#2
+Team Rating:B
+Kaeya Melt Team
+C2
+#3
+Team Rating:B
+Rosaria Permafrost Freeze Team #1
+#4
+Team Rating:B
+Kaeya Permafrost Freeze Team
+C2
+#1 Kaeya Melt Vaporize Hu Tao Team
+Tier B
+Kaeya
+is a Sub DPS in the team. Hu Tao's DMG is amplified by Melting and Vaporization.
+Hu Tao
+Main DPS
+Pyro
+Hu Tao is the main DPS, her DMG is amplified by Vaporization in this team.
+Artifacts
+Crimson Witch of Flames
+Main Stats
+Sands
+HP% / Elemental Mastery
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Elemental Mastery / ATK%
+Weapons
+Staff of Homa
+Deathmatch
+Kaeya
+Sub DPS
+Cryo
+Kaeya mainly deals DMG by his Elemental Burst in this build. Kaeya's Cryo attachment reacts with Hu Tao's Pyro DMG to trigger Melting and reacts with Xingqiu's Hydro DMG to trigger Freezing.
+Artifacts
+Blizzard Strayer
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Primordial Jade Cutter
+The Black Sword
+Xingqiu
+Sub DPS
+Hydro
+Xingqiu's Elemental Burst can attach Hydro element to enemies continuously, and so react with Hu Tao's DMG to trigger Vaporization and react with Kaeya's Cyro DMG to trigger Freezing.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Sacrificial Sword
+Zhongli
+Support
+Geo
+Zhongli's shield provides safe environment for team members, and increase ATK of whole team by using full set of Tenacity of the Millelith.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP / Energy Recharge
+Weapons
+Staff of Homa
+Black Tassel
+#2 Kaeya Melt Team
+Tier B
+Kaeya is a Main DPS in the team. Kaeya’s Cryo DMG is maximized by
+Melt
+.
+Kaeya
+Main DPS
+Cryo
+Kaeya mainly deals DMG by his Elemental Burst in this build.
+Artifacts
+Blizzard Strayer
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Primordial Jade Cutter
+The Black Sword
+Chongyun
+Sub DPS
+Cryo
+Constellation 2+
+Chongyun’s Elemental Skill (requires C2) lowers teammates’ Elemental Burst cooldowns, infuses Kaeya’s Normal Attacks with Cryo, and increases Kaeya’s Attack Speed.
+Chongyun’s Elemental Burst provides Cryo DMG from off-field.
+Artifacts
+Blizzard Strayer
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Wolf's Gravestone
+Serpent Spine
+Xiangling
+Sub DPS
+Pyro
+Xiangling’s Elemental Burst provides a huge amount of DMG from off-field.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+ATK% / Energy Recharge
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Engulfing Lightning
+"The Catch"
+Bennett
+Support
+Pyro
+Bennett’s Elemental Burst provides a huge ATK buff and healing to other members.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+#3 Rosaria Permafrost Freeze Team #1
+Tier B
+Permafrost team centered on Freeze uptime. Ayaka is the main on-field Cryo DPS, Kaeya provides off-field Cryo Burst damage, Venti groups enemies and spreads Hydro for easier Freeze, and Kokomi keeps the team alive while applying consistent Hydro and
+Tenacity of the Millelith
+uptime.
+Kamisato Ayaka
+Main DPS
+Cryo
+Main on-field damage dealer. Relies on her Elemental Burst and Cryo damage to trigger Freeze with Kokomi's Hydro application.
+Artifacts
+Blizzard Strayer
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Mistsplitter Reforged
+Amenoma Kageuchi
+Kaeya
+Sub DPS
+Cryo
+Off-field Cryo Burst damage dealer. His Elemental Burst helps maintain Freeze when paired with Kokomi's Hydro.
+Artifacts
+Blizzard Strayer
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Primordial Jade Cutter
+The Black Sword
+Venti
+Sub DPS
+Anemo
+Provides strong crowd control with Elemental Burst and helps spread Hydro to nearby enemies for easier Freeze uptime.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Skyward Harp
+Rust
+Sangonomiya Kokomi
+Support
+Hydro
+Healer and Hydro enabler. Her Elemental Skill applies steady Hydro and triggers
+Tenacity of the Millelith(4)
+effects.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+Hydro DMG
+Circlet
+Healing Bonus
+Substats
+HP% / Energy Recharge / HP% / ATK% / Elemental Mastery
+Weapons
+Everlasting Moonglow
+Thrilling Tales of Dragon Slayers
+#4 Kaeya Permafrost Freeze Team
+Tier B
+Permafrost
+team built around Kaeya as the on-field Cryo Main DPS, using Xingqiu to maintain Hydro application for consistent Freeze uptime. Chongyun enables Cryo infusion for Kaeya’s Normal Attacks, while Diona provides shielding, healing, and Energy support.
+Kaeya
+Main DPS
+Cryo
+On-field Cryo carry for the team. His Cryo damage consistently triggers Freeze with Xingqiu’s Hydro application.
+Artifacts
+Blizzard Strayer
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Primordial Jade Cutter
+The Black Sword
+Chongyun
+Sub DPS
+Cryo
+Constellation 2+
+Provides Cryo infusion to Kaeya’s Normal Attacks and increases attack speed. His Elemental Skill also lowers teammates’ Burst cooldowns at
+C2
+. Burst adds off-field Cryo damage.
+Artifacts
+Blizzard Strayer
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Wolf's Gravestone
+Serpent Spine
+Xingqiu
+Sub DPS
+Hydro
+Provides continuous off-field Hydro application through Burst to enable Freeze reactions with Kaeya’s Cryo attacks.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Sacrificial Sword
+Diona
+Support
+Cryo
+Offers shielding and healing, creating a safer playstyle while also helping with Kaeya’s Burst energy needs.
+Artifacts
+Maiden Beloved
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP / Energy Recharge
+Weapons
+Sacrificial Bow
+Favonius Warbow
+Kaeya Teams FAQ
+What is the best Kaeya team in Genshin Impact?
+Kaeya Melt Vaporize Hu Tao Team is one of the strongest Kaeya teams right now. Use the team summary and build cards on this page to pick the best version for your account.
+What are good Kaeya teams without premium weapons?
+You can run strong Kaeya teams without signature weapons by prioritizing reaction synergy, energy consistency, and artifact main stats shown in each build card.
+Which teammates are best with Kaeya?
+Common high-performing partners include teams such as Kaeya Melt Vaporize Hu Tao Team, Kaeya Melt Team, Rosaria Permafrost Freeze Team #1. Check each lineup section for role breakdowns and gear priorities.

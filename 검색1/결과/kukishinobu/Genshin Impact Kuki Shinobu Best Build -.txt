@@ -1,0 +1,90 @@
+Kuki Shinobu is one of the Sub-DPS Support units in
+Genshin Impact
+that got introduced to the game with the version 2.7 update second half. You can obtain her by performing wishes on the current Oni’s Royale banner or the permanent Wanderlust Invocation banner after version 2.7.
+Shinobu is a great Support unit as her kit allows her to heal characters or deal Elemental DMG even when she is not on-field. You can use her abilities in coordination with other characters’ abilities to benefit from the Elemental Reactions game mechanic.
+In our Genshin Impact Kuki Shinobu build guide, we do a breakdown of Kuki Shinobu’s abilities and Constellations while sharing the best weapons and artifacts you need to attain different builds with her. We also share the best team composition for her. So, without any further ado, let us check out the best build for Kuki Shinobu in Genshin Impact.
+Genshin Impact Kuki Shinobu Ratings and Abilities
+Upgrading Shinobu’s Sanctifying Ring talent should be your first priority. (Picture: Hritwik/HoYoverse)
+Kuki Shinobu is a four-star Electro element user and a Sword wielder, best suited for the Electro Support role. While her abilities kit makes her a Healer Support—on-field, she doesn’t provide party-wide healing, making her an okay-ish Healer.
+Kuki Shinobu’s Elemental Skill, Sanctifying Ring, creates a Grass Ring of Sanctification at the cost of part of her HP, dealing Electro DMG to nearby opponents.
+Meanwhile, the Grass Ring of Sanctification follows your currently active character around, dealing Electro DMG to nearby opponents every 1.5s while restoring HP for the active party member(s) within the ring’s AoE based on Kuki Shinobu’s Max HP.
+Bennett – Rating & Best Build in Genshin Impact
+Genshin Impact Surreptitious Seven-Star Seal Sundering Quest Guide
+Genshin Impact Shikanoin Heizou – Release Date, Abilities, Talents
+Genshin Impact Shinobu – Abilities, Talents, Constellations
+The Grass Ring of Sanctification effect does bring down Kuki Shinobu’s HP by 20%. But, the individual character healing done by the ability is much higher, considering Shinobu only losses 20% of her HP.
+Upgrading Shinobu’s Kariyama Rite talent should be your second priority. (Picture: Hritwik/HoYoverse)
+Talking about Kuki Shinobu’s Elemental Burst, Gyoei Narukami Kariyama Rite. When players use this ability, Shinobu stabs an evil-excoriating blade into the ground, creating a field that cleanses the area of all that is foul, dealing continuous Electro DMG to opponents within its AoE based on her Max HP.
+Moreover, if Shinobu’s HP is less than or equal to 50% when players use her Elemental Burst, the said field will last longer.
+Kuki Shinobu Constellations
+A look at Kuki Shinobu’s Constellations. (Picture: Hritwik/HoYoverse)
+Here are all six Constellations for Kuki Shinobu that you can unlock using her Stella Fortuna. On the same note, you can get her Stella Fortuna by getting a copy of Kuki Shinobu by performing wishes on the Oni’s Royale banner. Or the Wanderlust Invocation permanent banner, once Genshin Impact 2.7 update ends.
+C1: To Cloister Compassion –
+Gyoei Narukami Kariyama Rite’s AoE is increased by 50%.
+C2: To Forsake Fortune –
+Grass Ring of Sanctification’s duration is increased by 3s.
+C3: To Sequester Sorrow –
+Increases the Level of Sanctifying Ring by 3. The maximum upgrade level is 15.
+C4: To Sever Sealing –
+When the Normal, Charged or Plunging Attacks of the character affected by Shinobu’s Grass Ring of Sanctification hit opponents, a Thundergrass Mark will land on the opponent’s position and deal AoE Electro DMG based on 9.7% of Shinobu’s Max HP. This effect can occur once every 5s.
+C5: To Cease Courtesies –
+Increase the Level of Gyoei Narukami Kariyama Rite by 3. The maximum upgrade level is 15.
+C6: To Ward Weakness –
+When Kuki Shinobu takes lethal DMG, this instance of DMG will not take her down. This effect will automatically trigger when her HP reaches 1 and will trigger once every 60s. When Shinobu’s HP drops below 25%, she will gain 150 Elemental Mastery for 15s. This effect will trigger once every 60s.
+Should You Unlock Kuki Shinobu Constellations?
+Yes! Unlike most of the units in Genshin Impact, where having C1 and C2 Constellations are more than enough, we recommend players to go for a C6 Kuki Shinobu to maximize her Sub DPS Electro Support, as well as her Healer Support potential.
+Genshin Impact Kuki Shinobu Best Builds
+To achieve Electro Sub DPS (also a Support role) and Healer Support builds with Kuki Shinobu, you can equip her with the following weapons and artifacts.
+Best Weapons for Kuki Shinobu
+The most accessible free-to-get sword for Kuki Shinobu. (Picture: Hritwik/HoYoverse)
+The best weapon for Kuki Shinobu is the four-star Iron Sting sword. It is a free-to-get sword you can craft at any of the blacksmiths. It increases Shinobu’s Elemental Mastery that you need for the Electro Sub DPS role by 165. Moreover, the weapon skill, Infusion Stinger, increases all DMG by 6% for 6s up to 2 stacks every 1s whenever you deal element-based damage.
+You can get the Favonius Sword by performing wishes on any of the banners. (Picture: Hritwik/HoYoverse)
+Apart from Iron Sting, you can also use the four-star Sword, Favonius Sword for Healer Support, and the Festering Desire sword for any of the two builds.
+If you want to equip Kuki Shinobu with fancy and paid five-star weapons, Freedom-Sworn is the best choice. It increases Shinobu’s Elemental Mastery by 198, while its weapon skill, Revolutionary Chorale, further increases the damage dealt by the character.
+Best Artifacts for Kuki Shinobu
+You can get the Tenacity of Milelith artifact set from the Ridge Watch domain. (Picture: Hritwik/HoYoverse)
+Kuki Shinobu’s elemental abilities scale with her HP. Seeing that, the best artifact for Shinobu is none other than the Tenacity of the Millelith artifact set. Here is what the set bonus looks like –
+2-Piece Bonus –
+HP +20%
+4-Piece Bonus –
+When an Elemental Skill hits an opponent, the ATK of all nearby party members is increased by 20%, and their Shield Strength is increased by 30% for 3s. This effect can be triggered once every 0.5s. This effect can still be triggered even when the character who is using this artifact set is not on the field.
+You can go for the Ocean Hued artifact set if you purely want to build Kuki Shinobu as a Healer Support. If not, you can try out the Thundering Fury artifact set to get an Electro Damage bonus while getting increased damage whenever you trigger an Electro-based elemental reaction.
+Ocean-Hued Artifact Set Bonus
+2-Piece Bonus:
+Healing Bonus +15%
+4-Piece Bonus:
+When the character equipping this artifact set heals a character in the party, a Sea-Dyed Foam will appear for 3 seconds, accumulating the amount of HP recovered from healing (including overflow healing).
+At the end of the duration, the Sea-Dyed Foam will explode, dealing DMG to nearby opponents based on 90% of the accumulated healing. (This DMG is calculated similarly to Reactions such as Electro-Charged, and Superconduct, but is not affected by Elemental Mastery, Character Levels, or Reaction DMG Bonuses). Only one Sea-Dyed Foam can be produced every 3.5 seconds.
+Each Sea-Dyed Foam can accumulate up to 30,000 HP (including overflow healing). There can be no more than one Sea-Dyed Foam active at any given time. This effect can still be triggered even when the character who is using this artifact set is not on the field.
+Thundering Fury Artifact Set
+2-Piece:
+Electro DMG Bonus +15%
+4-Piece:
+Increases damage caused by Overloaded, Electro-Charged, and Superconduct by 40%. Triggering such effects decreases Elemental Skill CD by 1s. It can only occur once every 0.8s.
+Best Team Composition for Kuki Shinobu
+Here are some of the best team compositions for Kuki Shinobu in Genshin Impact:
+Team Composition 1
+This team composition is based on the Electro Charged elemental reaction.
+Yelan
+Kazuha
+Kuki Shinobu
+Raiden Shogun
+Team Composition 2
+This team composition is based on the Superconduct elemental reaction.
+Eula
+Kuki Shinobu
+Rosaria
+Shenhe
+Team Composition 3
+This team composition is based on the Overloaded elemental reaction.
+Bennet
+Xiangling
+Kuki Shinobu
+Kujou Sara
+If you want to use Kuki Shinobu as a Healer Support, you can add her to any team.
+For more content from Teyvat, check out our section dedicated to the latest
+Genshin Impact news, updates, guides, features
+, and more. Also, make sure to keep an eye on our
+Genshin Impact Twitter account
+.
+Featured image courtesy of HoYoverse.

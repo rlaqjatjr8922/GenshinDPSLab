@@ -1,0 +1,271 @@
+Lynette
+4
+★
+Sword
+Anemo
+A magic assistant of few words, her emotions are as inscrutable as any cat's
+.
+Basic Stats
+Nv.
+90
+HP
+12397
+ATK
+232
+DEF
+712
+Anemo DMG Bonus
+24%
+Basic Stats
+Nv.
+90
+HP
+12397
+ATK
+232
+DEF
+712
+Anemo DMG Bonus
+24%
+Lynette
+Ascension Materials
+Vayuda Turquoise Sliver
+Lumidouce Bell
+Artificed Spare Clockwork Component — Coppelia
+Meshing Gear
+Teachings of Order
+Everamber
+Lynette
+Best Weapon
+Freedom-Sworn
+Level
+.
+90
+ATK
+608
+Elemental Mastery
+198.5
+Refinement
+.
+5
+A part of the "Millennial Movement" that wanders amidst the winds. Increases DMG by 20%. When the character wielding this weapon triggers Elemental Reactions, they gain a Sigil of Rebellion. This effect can be triggered once every 0.5s and can be triggered even if said character is not on the field. When you possess 2 Sigils of Rebellion, all of them will be consumed and all nearby party members will obtain "Millennial Movement: Song of Resistance" for 12s. "Millennial Movement: Song of Resistance" increases Normal, Charged and Plunging Attack DMG by 32% and increases ATK by 40%. Once this effect is triggered, you will not gain Sigils of Rebellion for 20s. Of the many effects of the "Millennial Movement," buffs of the same type will not stack.
+Other Weapons
+2
+°
+Xiphos' Moonlight
+Elemental Mastery
+3
+°
+Favonius Sword
+Energy Recharge
+4
+°
+Iron Sting
+Elemental Mastery
+Lynette
+Best Artifact Set
+Viridescent Venerer
+2 Pc
+:
+Anemo DMG Bonus +15%
+4 Pc
+:
+Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s.
+Artifacts Main Stats
+Sands
+:
+EM / ER %
+Goblet
+:
+Elemental Mastery
+Circlet
+:
+Elemental Mastery
+Artifacts Substats
+Energy Recharge
+Elemental Mastery
+Crit Rate
+Other Artifacts Sets
+2
+°
+4x
+Noblesse Oblige
+3
+°
+4x
+Emblem of Severed Fate
+Lynette
+Talent Priority
+1
+°
+Elemental Burst
+2
+°
+Elemental Skill
+Lynette
+Best Teams
+Time #
+1
+Main DPS
+Sub-DPS
+Support
+Support
+Hu Tao
+Yelan
+Lynette
+Zhongli
+Time #
+2
+Main DPS
+Sub-DPS
+Support
+Support
+Tartaglia
+Xiangling
+Lynette
+Bennett
+Lynette
+Ascension Costs
+Cost
+5
+→
+6
+120
+K
+Vayuda Turquoise Gemstone
+6
+Artificed Spare Clockwork Component — Coppelia
+20
+Lumidouce Bell
+60
+Artificed Dynamic Gear
+24
+Lynette
+Talents Costs
+Cost
+9
+→
+10
+700
+K
+Philosophies of Order
+16
+Artificed Dynamic Gear
+12
+Everamber
+2
+Crown of Insight
+1
+Lynette
+Talents
+Normal Attack
+Rapid Ritesword
+Normal Attack
+Performs up to 4 rapid strikes.
+Charged Attack
+Consumes a certain amount of Stamina to unleash 2 rapid sword strikes.
+Plunging Attack
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Elemental Skill
+Enigmatic Feint
+#Flicks her mantle and executes an Enigma Thrust, dealing
+Anemo DMG
+.
+When the Enigma Thrust hits an opponent, it will restore Lynette's HP based on her Max HP, and in the 4s afterward, she will lose a certain amount of HP per second.
+Based on whether you {LAYOUT_MOBILE#tap}{LAYOUT_PC#press}{LAYOUT_PS#press} or hold this ability, she will use Enigma Thrust differently.
+{LAYOUT_MOBILE#Tap}{LAYOUT_PC#Press}{LAYOUT_PS#Press}
+She swiftly uses an Enigma Thrust.
+Hold
+Lynette will enter a high-speed Pilfering Shadow state and apply Shadowsign to a nearby opponent. You can control her movement direction during this state, and you can end it prematurely by using this skill again.
+When this high-speed state ends, Lynette will unleash her Enigma Thrust. If there is an opponent with Shadowsign applied to them nearby, Lynette will approach them in a flash before using Enigma Thrust.
+A maximum of 1 opponent can have Shadowsign at any one time. When this opponent gets too far from Lynette, the Shadowsign will be canceled.
+Arkhe: Ousia
+At specific intervals, Lynette will unleash a Surging Blade when she uses Enigma Thrust, dealing Ousia-aligned
+Anemo DMG
+.
+"Now then, turn your eyes to the stage and continue to enjoy the performance. When I next appear, I'll be where you least expect."
+Elemental Burst
+Magic Trick: Astonishing Shift
+Lynette raises her mantle high, dealing
+AoE Anemo DMG
+, using skillful sleight of hand to make a giant Bogglecat Box appear!
+Bogglecat Box
+·Taunts nearby opponents, attracting their attacks.
+·Deals
+Anemo DMG
+to nearby opponents at intervals.
+·When the Bogglecat Box comes into contact with
+Hydro
+/
+Pyro
+/
+Cryo
+/
+Electro
+, it will gain the corresponding element and additionally fire Vivid Shots that will deal DMG from that element at intervals.
+Elemental Absorption of this kind will only occur once during this ability's duration.
+"Look this way, and look closely. This is a time for miracles, just for us."
+Lynette
+Passives
+Passive
+1
+Sophisticated Synergy
+Within 10s after using
+Magic Trick: Astonishing Shift
+, when there are 1/2/3/4 Elemental Types in the party, all party members' ATK will be increased by 8%/12%/16%/20% respectively.
+Passive
+2
+Props Positively Prepped
+After the Bogglecat Box summoned by
+Magic Trick: Astonishing Shift
+performs Elemental Conversion, Lynette's Elemental Burst will deal 15% more DMG. This effect will persist until the Bogglecat Box's duration ends.
+Passive
+3
+Loci-Based Mnemonics
+Shows the location of nearby
+Recovery Orbs
+on the minimap. The Aquatic Stamina and HP gained from touching Orbs will be increased by 25%.
+Lynette
+Constellations
+C
+1
+A Cold Blade Like a Shadow
+When
+Enigmatic Feint
+'s Enigma Thrust hits an opponent with Shadowsign, a vortex will be created at that opponent's position that will pull nearby opponents in.
+C
+2
+Endless Mysteries
+Whenever the Bogglecat Box summoned by
+Magic Trick: Astonishing Shift
+fires a Vivid Shot, it will fire an extra Vivid Shot.
+C
+3
+Cognition-Inverting Gaze
+Increases the Level of
+Magic Trick: Astonishing Shift
+by 3.
+Maximum upgrade level is 15.
+C
+4
+Tacit Coordination
+Increases
+Enigmatic Feint
+'s charges by 1.
+C
+5
+Obscuring Ambiguity
+Increases the Level of
+Enigmatic Feint
+by 3.
+Maximum upgrade level is 15.
+C
+6
+Watchful Eye
+When Lynette uses
+Enigmatic Feint
+'s Enigma Thrust, she will gain an
+Anemo Infusion
+and 20%
+Anemo DMG Bonus
+for 6s.

@@ -1,0 +1,56 @@
+options iteration=1000 duration=10.5 swap_delay=6 workers=4;
+options hitlag=true defhalt=false ignore_burst_energy=false;
+
+target lvl=100 resist=0.1 pos=1,0 radius=3 freeze_resist=0;
+
+active razor;
+
+# =========================
+# 캐릭터 1 (razor)
+# =========================
+razor char lvl=90/90 cons=0 talent=9,9,9;
+razor add weapon="serpentspine" refine=1 lvl=90/90;
+razor add set="emblemofseveredfate" count=4;
+
+# =========================
+# 캐릭터 2 (albedo)
+# =========================
+albedo char lvl=90/90 cons=0 talent=9,9,9;
+albedo add weapon="urakumisugiri" refine=1 lvl=90/90;
+albedo add set="goldentroupe" count=4;
+
+# =========================
+# 캐릭터 3 (fischl)
+# =========================
+fischl char lvl=90/90 cons=0 talent=9,9,9;
+fischl add weapon="aquasimulacra" refine=1 lvl=90/90;
+fischl add set="goldentroupe" count=4;
+
+# =========================
+# 캐릭터 4 (rosaria)
+# =========================
+rosaria char lvl=90/90 cons=0 talent=9,9,9;
+rosaria add weapon="engulfinglightning" refine=1 lvl=90/90;
+rosaria add set="blizzardstrayer" count=4;
+
+
+# =========================
+# Entry Order
+# =========================
+# razor -> fischl -> albedo -> rosaria
+
+# =========================
+# Rotation
+# =========================
+razor skill;
+razor burst;
+razor attack;
+fischl skill;
+fischl burst;
+fischl attack;
+albedo skill;
+albedo burst;
+albedo attack;
+rosaria skill;
+rosaria burst;
+rosaria attack;

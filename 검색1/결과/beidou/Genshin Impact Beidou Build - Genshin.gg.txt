@@ -1,0 +1,197 @@
+Genshin Impact Beidou Build
+Electro
+Claymore
+Sub DPS
+Beidou Upgrade Materials
+Gold
+Dvalin's Sigh
+Vajrada Amethyst Sliver
+Lightning Prism
+Noctilous Jade
+Treasure Hoarder Insignia
+Beidou Best Weapons
+1
+Wolf's Gravestone
+2
+Serpent Spine
+3
+Beacon of the Reed Sea
+4
+Redhorn Stonethresher
+5
+Akuoumaru
+Beidou Best Artifacts
+1
+Emblem of Severed Fate
+4
+2
+Emblem of Severed Fate
+2
+Noblesse Oblige
+2
+3
+Emblem of Severed Fate
+2
+Thundering Fury
+2
+4
+Noblesse Oblige
+2
+Thundering Fury
+2
+5
+Thundersoother
+4
+Beidou Best Stats
+Sands:
+ATK% / Energy Recharge
+Goblet:
+Electro DMG
+Circlet:
+CRIT Rate / CRIT DMG
+Substats:
+CRIT Rate / CRIT DMG > ATK% > Energy Recharge
+Character Builds by Genshin Impact Helper →
+Showcase
+Teams
+Talents
+Passives
+Constellations
+Ascension
+Beidou Showcase
+Beidou video guide by
+Zy0x
+.
+Check out his content!
+Best Beidou Teams
+Ayato Electro-Charged
+Childe Electro-Charged
+Keqing Electro-Charged
+Beidou Talents
+Normal Attack
+Oceanborne
+Normal Attack Performs up to 5 successive strikes. Charged Attack Drains Stamina over time to perform continuous slashes. At end of the sequence, perform a more powerful slash. Plunging Attack Plunges from mid-air to strike the ground, damaging enemies along the path and dealing AoE DMG upon impact.
+Elemental Skill
+Tidecaller
+Nothing to worry about. Should anyone raise a hand against her or her men, she will avenge it ten-fold with sword and thunder. Press Accumulating the power of lightning, Beidou swings her blade forward fiercely, dealing
+Electro
+DMG. Hold Lifts her weapon up as a shield. Max DMG absorbed scales off Beidou's Max HP. Attacks using the energy stored within the greatsword upon release or once this ability's duration expires, dealing
+Electro
+DMG. DMG dealt scales with the number of times Beidou is attacked in the skill's duration. The greatest DMG Bonus will be attained once this effect is triggered twice. The shield possesses the following properties: Has 250%
+Electro
+DMG Absorption Efficiency. Applies the
+Electro
+element to Beidou upon activation.
+Elemental Burst
+Stormbreaker
+Recalling her slaying of the great beast Haishan. Beidou calls upon that monstrous strength and the lightning to create a Thunderbeast's Targe around herself. Thunderbeast's Target When Normal and Charged Attacks hit, they create a lightning discharge that can jump between enemies, dealing
+Electro
+DMG. Increases the character's resistance to interruption, and decreases DMG taken.
+Beidou Passives
+Ascension 1
+Retribution
+Counterattacking with Tidecaller at the precise moment when the character is hit grants the maximum DMG Bonus.
+Ascension 4
+Lightning Storm
+Gain the following effects for 10s after unleashing Tidecaller with its maximum DMG Bonus: DMG dealt by Normal and Charged Attacks is increased by 15%. ATK SPD of Normal and Charged Attacks is increased by 15%. Greatly reduced delay before unleashing Charged Attacks.
+Passive
+Conqueror of Tides
+Decreases all party member's swimming Stamina consumption by 20%.
+Beidou Constellations
+Constellation 1
+Sea Beast's Scourge
+When Stormbreaker is used: Creates a shield that absorbs up to 16% of Beidou's Max HP for 15s. This shield absorbs
+Electro
+DMG 250% more effectively.
+Constellation 2
+Upon the Turbulent Sea, the Thunder Arises
+Stormbreaker's arc lightning can jump 2 additional targets.
+Constellation 3
+Summoner of Storm
+Increases the Level of Tidecaller by 3. Maximum upgrade level is 15.
+Constellation 4
+Stunning Revenge
+Within 10s of taking DMG, Beidou's Normal Attacks gain 20% additional
+Electro
+DMG.
+Constellation 5
+Crimson Tidewalker
+Increase the Level of Stormbreaker by 3. Maximum upgrade level is 15.
+Constellation 6
+Bane of the Evil
+During the duration of Stormbreaker, the
+Electro
+RES of surrounding enemies is decreased by 15%.
+Beidou Ascension Costs
+Rank
+Lvl
+Cost
+Material
+Material
+Material
+Material
+1
+20
+20000
+1
+Vajrada Amethyst Sliver
+3
+Noctilous Jade
+3
+Treasure Hoarder Insignia
+2
+40
+40000
+3
+Vajrada Amethyst Fragment
+2
+Lightning Prism
+10
+Noctilous Jade
+15
+Treasure Hoarder Insignia
+3
+50
+60000
+6
+Vajrada Amethyst Fragment
+4
+Lightning Prism
+20
+Noctilous Jade
+12
+Silver Raven Insignia
+4
+60
+80000
+3
+Vajrada Amethyst Chunk
+8
+Lightning Prism
+30
+Noctilous Jade
+18
+Silver Raven Insignia
+5
+70
+100000
+6
+Vajrada Amethyst Chunk
+12
+Lightning Prism
+45
+Noctilous Jade
+12
+Golden Raven Insignia
+6
+80
+120000
+6
+Vajrada Amethyst Gemstone
+20
+Lightning Prism
+60
+Noctilous Jade
+24
+Golden Raven Insignia
+Loading...

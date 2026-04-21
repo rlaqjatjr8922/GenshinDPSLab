@@ -1,0 +1,208 @@
+Walkthroughs
+Genshin Impact Traveler (Geo) Guide - best build, strengths and weaknesses
+All you need to know about the Traveler (Geo)
+By
+Bryan Taylor
+|
+Jul 24, 2021
+iOS
++
+Android
+|
+Genshin Impact
+Prefer Pocket Gamer on Google
+X
+Facebook
+Reddit
+Updated on
+: July 24 2021
+Welcome to PocketGamers' detailed
+Genshin Impact Traveler Geo guide!
+Aether or Lumine, depending on whether you chose the male or female sibling, are from another world and attacked by an Unknown God. Facing insurmountable odds against this powerful being, they are whisked away and trapped in the land known as Teyvat. Soon after, you meet up with your essential, if a bit rude, travel companion Paimon, and she helps you get your bearings in this new world.
+In the guide below you will find the following features:
+General Info & how to get Traveler (Geo)
+Strengths & Weaknesses
+Best Build (Artifacts & Weapons
+)
+Best Party Members for Traveler (Geo)
+Talents / Skills / Passive
+Talent Leveling Materials
+Constellations
+Ascensions costs
+Traveler (Geo) Wishes / Availability
+Traveler (Geo) Appearance
+Character Element / Tier / Rarity / Weapon
+Geo / B Tier / 5* Rarity / Sword
+The Traveler begins the game without an elemental alignment, but after using the first Statue of the Seven in Mondstadt, they receive their Anemo powers. Beyond that, if the Traveler visits a Statue of the Seven in Liyue, they can imbue themselves with Geo powers instead.
+You know that we have a list of codes for Genshin Impact, right?
+How to get Traveler (Geo)?
+The Traveler is the character you begin the game with and is not featured in any wishes.
+Combat Info
+Strengths
+You can use Traveler’s Elemental Skill “Starfall Sword” to summon a pillar for bow or catalyst users to stand on, which will allow them to fire away at enemies while out of reach.
+Traveler’s Elemental Burst can create a stone wall that will block incoming damage.
+Weaknesses
+A lot of times your skill can block your teammates' attacks and visibility.
+Not a relatively strong DPS character.
+Best Build
+It’s best to pair the Traveler with the Skyward Blade and Archaic Petra artifacts, as it will embolden their Geo damage. The damage is decent enough and the buff from a level 1 Constellation adds to the party’s crit rates and helps them resist interruption.
+Best Artifacts and Weapons
+Archaic Petra
+ATK% / Geo DMG / ATK%
+Set Bonuses:
+(2) Gain a 15% Geo DMG Bonus.
+(4) Upon obtaining an Elemental Shard created through a Crystallize Reaction, all party members gain a 35% DMG Bonus for that particular element for 10s. Only one form of Elemental DMG Bonus can be gained in this manner at any one time.
+How to Obtain:
+Domain of Guyun rewards
+Skyward Blade
+Base Attack:
+46
+Rating:
+5*
+Bonus Effect:
+Energy Recharge + 12.0%
+Skill:
+(Sky-piercing Fang) CRIT Rate increased by 4%. Gains Skypiercing Might upon using an Elemental
+Burst:
+Increases Movement SPD by 10%, increases ATK SPD by 10%, and increases the DMG of Normal and Charged Attack hits by 20% for 12s.
+How to Obtain:
+Gacha pull
+Best Party Members to match with
+Premium (Gacha) Team
+While the Traveler can fit into nearly any team with a relatively versatile Element and skill set, their primary function in a team is to use their Elemental Skill and Burst to deliver maximum Geo damage. Traveler is best paired with Zhongli as a secondary DPS, as Zhongli can expand Traveler’s Geo damage with structure and their resonance can also expand the effectiveness of Zhongli’s jade shield. Xiao can serve as the primary DPS, and with Zhongli’s shield, he can get some serious damage in. Bennett is useful as a support to provide some additional damage buffs with his Burst and provide health regen.
+F2P Team
+The Geo form of the Traveler is best paired with Noelle for primary DPS, Kaeya as a secondary DPS, and Barbara as a Support character. This allows Noelle to tank and do what she does best - spin wildly with her claymore, as Traveler can boost Geo resonance when using their shield. Using Barbara’s Hydro powers allows you to then follow up with Kaeya to freeze enemies for maximum DPS.
+Talents / Skills / Passive
+Foreign Rockblade - Normal Attack
+Normal:
+Perform up to 5 rapid strikes.
+Charged:
+Consumes a certain amount of Stamina to unleash 2 rapid sword strikes.
+Plunge Attack:
+Plunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.
+Skill Attributes
+1-Hit DMG - 44.5%
+2-Hit DMG - 43.4%
+3-Hit DMG - 53.0
+4-Hit DMG - 58.3%
+5-Hit DMG - 70.8%
+Charged Attack DMG
+55.9%+72.2%
+Charged Attack Stamina Cost
+20.0
+Plunge DMG
+63.9%
+Low/High Plunge DMG
+128%/160%
+Starfell Sword
+- Elemental Skill
+Normal:
+You disgorge a meteorite from the depths of the earth, dealing AoE Geo DMG.
+The meteorite is considered a Geo Construct, and can be climbed or used to block attacks.
+Hold Attack:
+This skill’s positioning may be adjusted.
+Skill Attributes:
+Skill DMG
+248%
+Meteorite Duration
+30.0s
+CD
+8.0s
+Wake of Earth - Elemental Burst
+Energizing the Geo elements deep underground, you set off expanding shockwaves.
+Launches surrounding enemies back and deals AoE Geo DMG.
+A stone wall is erected at the edges of the shockwave.
+The stone wall is considered a Geo Construct, and may be used to block attacks.
+Skill Attributes
+DMG Per Shockwave
+148%
+Stonewall Duration
+15.0s
+CD
+15.0s
+Energy Cost
+60
+Shattered Darkrock - 1st Ascension Passive
+Reduces Starfell Sword’s CD by 2s
+Frenzied Rockslide - 4th Ascension Passive
+The final hit of a Normal Attack combo triggers a collapse, dealing 60% of ATK as AoE Geo DMG.
+Talent Leveling Materials
+Gained from Enemy Drops (Samachurls):
+Divining Scroll
+Sealed Scroll
+Forbidden Curse Scroll
+Acquired from Domains (Monday/Thursday/Sunday):
+Teachings of Freedom
+Guide to Freedom
+Guide to Resistance
+Guide to Ballad
+Philosophies of Freedom
+Philosophies of Resistance
+Philosophies of Ballad
+Obtained after defeating Bosses (Dvalin):
+Dvalin's Sigh
+Constellations
+Invincible Stonewall
+Party members within the radius of Wake of Earth have their CRIT Rate increased by 10% and have increased resistance against interruption.
+Rockcore Meltdown
+When the meteorite created by Starfell Sword is destroyed, it will also explode, dealing additional AoE Geo DMG equal to the amount of damage dealt by Starfell Sword.
+Will of the Rock
+Increases the Level of Wake of Earth by 3.
+Maximum upgrade level is 15.
+Reaction Force
+The shockwave triggered by Wake of Earth regenerates 5 Energy for every enemy hit.
+A maximum of 25 Energy can be regenerated in this manner at any one time.
+Meteorite Impact
+Increases the Level of Starfell Sword by 3.
+Maximum upgrade level is 15.
+Everlasting Boulder
+The barrier created by Wake of Earth lasts 5s longer.
+The meteorite created by Starfell Sword lasts 10s longer.
+Ascensions costs
+Phase 1
+Lv.20→Lv.40
+Mora Cost: 20,000
+Windwheel Aster x3
+Brilliant Diamond Sliver x1
+Damaged Mask x3
+Phase 2
+Lv.40→Lv.50
+Mora Cost: 40,000
+Windwheel Aster x10
+Brilliant Diamond Fragment x3
+Damaged Mask x15
+Phase 3
+Lv.50→Lv.60
+Mora Cost: 60,000
+Windwheel Aster x20
+Brilliant Diamond Fragment x6
+Stained Mask x12
+Phase 4
+Lv.60→Lv.70
+Mora Cost: 80,000
+Windwheel Aster x30
+Brilliant Diamond Chunk x3
+Stained Mask x18
+Phase 5
+Lv.70→Lv.80
+Mora Cost: 100,000
+Windwheel Aster x45
+Brilliant Diamond Chunk x6
+Ominous Mask x12
+Phase 6 (MAX)
+Lv.80→Lv.90
+Mora Cost: 120,000
+Windwheel Aster x60
+Brilliant Diamond Gemstone x6
+Ominous Mask x24
+Base Stats
+At Level 1, Traveler starts with 912 HP, 18 ATK, and 57 DEF.
+Wishes / Availability
+Traveler is not featured in any wishes or timed events.
+We also have a
+Genshin Impact tier list
+if you want to check how well Traveler (Geo) performs in comparison to the other characters!
+Bryan Taylor
+Bryan has a passion for writing and has been gaming since the 80s. His favourite games include Super Metroid, Chrono Trigger, and Rez, and he joins us bringing his vast knowledge of games to the team.
+Next Up :
+MU: Dark Awakening codes (April 2026) - Eliminate those Yetis and Golems with ease

@@ -1,0 +1,469 @@
+Home
+/
+Genshin Impact
+/
+Character List
+/
+Xingqiu Build
+Xingqiu Guide and Best Builds
+Xingqiu is a 4-star
+Hydro
+DPS in Genshin Impact
+focusing in off-field damage and incredible Hydro application to set up for
+a range of reactions. Read our Xingqiu guide to learn more about
+Xingqiu's kit, Xingqiu's best Builds and also his Ascension and Talent Materials.
+Last updated
+on
+Oct 26, 2025
+at
+11:41
+by
+GachaHub
+1 comment
+S
+Rank
+Hydro
+Element
+Sword
+Weapon
+★
+★
+★
+★
+★
+Rarity
+Cristina Valenzuela
+EN Voice Actor
+Junko Minagawa
+JP Voice Actor
+Xingqiu's Strengths & Weaknesses
+Strengths
+Incredible single-target Hydro application.
+Elemental Skill provides damage reduction, stagger resistance and healing making Xingqiu have supportive utility.
+Weaknesses
+Requires a lot of Energy for Xingqiu's Elemental Burst.
+Elemental Skill has a long 21 second cooldown limiting use.
+Can accidentally freeze themselves due to the self-Hydro application of their Elemental Skill.
+1.
+Xingqiu Build Guide, Best Artifacts, Weapons and Talent Priority
+Xingqiu is built as a Sub DPS who deals damage off-field and
+consistently applies
+Hydro
+for use in elemental reactions.
+BiS Weapon
+Primordial Jade Cutter
+Alternative Weapons
+Mistsplitter Reforged
+Haran Geppaku Futsu
+Azurelight
+Light of Foliar Incision
+Absolution
+Skyward Blade
+Wolf-Fang
+Fleuve Cendre Ferryman
+Favonius Sword
+Finale of the Deep
+Sacrificial Sword
+Amenoma Kageuchi
+Best Artifacts
+Emblem of Severed Fate
+Noblesse Oblige
+Main Stats
+Sand Stats:
+Energy Recharge / ATK %
+Goblet Stats:
+Hydro
+DMG
+Circlet Stats:
+CRIT Rate / DMG
+Substat Priority
+Energy Recharge to breakpoint
+CRIT Rate / DMG
+ATK %
+Talent Priority
+Elemental Burst
+Elemental Skill
+Xingqiu can be built with a wide range of viable weapons. Xingqiu's
+best weapon being
+Primordial Jade Cutter
+while some good 4-Star build
+options include
+Wolf-Fang
+,
+Favonius Sword
+and
+Fleuve Cendre Ferryman
+.
+Depending on your build and Energy Recharge breakpoints
+(see next section) consider using a weapon that provides Energy
+Recharge.
+Build Xingqiu with either
+Emblem of Severed Fate
+or
+Noblesse Oblige
+. Emblem is your best-in-slot artifact set due to the
+range of buffs it provides but Noblesse is a nice secondary option and
+handy in some situations if no one else is using the set.
+1.1.
+Energy Recharge Breakpoints
+Listed below is a brief table showing what Energy Recharge
+you want to aim for depending on your weapons and constellations. Exact Energy
+Recharge requirements vary based on your specific team composition, certain
+character skills, the weapons your team has and if Xingqiu will be on-field to
+pick up the particles.
+Weapon
+C0 - C5
+C6
+Favonius Sword
+190 - 220%
+150 - 180%
+Sacrificial Sword
+150 - 180%
+130 - 150%
+Fleuve Cendre Ferryman
+200 - 230%
+170 - 200%
+Other Weapons
+220 - 260%
+180 - 220%
+2.
+Combos and How to Play Xingqiu
+Xingqiu's Elemental Skill,
+Guhua Sword: Fatal Rainscreen
+, and
+Burst,
+Guhua Sword: Raincutter
+are both incredibly useful. When using
+Guhua Sword: Fatal Rainscreen
+be careful that you do not swap
+characters too early to ensure
+Hydro
+Particles are collected if you need the
+energy for your Burst.
+At lower constellations, use your Elemental Skill first. However, at C4 you
+should use your Elemental Burst
+before
+your Skill for increased damage. This is
+assuming you have the energy to do so.
+That is all you need to do for Xingqiu, once your burst is used. Swap to other
+supports or your Main DPS and the rain swords will do all the work to facilitate
+elemental reactions and deal damage.
+Be careful when using either Skill or Burst! They both apply the
+Hydro
+Wet status to yourself. This can be useful to cleanse
+anything such as
+Pyro
+burning off but does cause
+Cryo
+to freeze you.
+2.1.
+How Does Xingqiu Compare to Yelan?
+Many people may compare Xingqiu to his 5-star counterpart,
+Yelan
+. However, Xingqiu offers increased
+Hydro
+application for reactions and survivability instead of
+the damage Yelan provides.
+That being said, many team compositions will actually use both Xingqiu and Yelan at the same
+time! Combined they have amazing elemental application.
+3.
+Xingqiu's Best Team Compositions
+Xingqiu is used in a wide range of teams, anything that
+benefits from
+Hydro
+application benefits from
+having Xingqiu. Listed below are a few of the most popular examples.
+3.1.
+Xingqiu in Hyperbloom Team Compositions
+Main DPS
+Sub DPS
+Sub DPS
+Support
+Lauma
+Xingqiu
+Nahida
+Kuki Shinobu
+Alhaitham
+Xingqiu
+Yelan
+Kuki Shinobu
+Nahida
+Xingqiu
+Ororon
+Kuki Shinobu
+Hyperbloom team compositions benefit from
+Xingqiu's
+Hydro
+application as well as his supportive
+capabilities due to
+Guhua Sword: Fatal Rainscreen
+.
+Many of the characters are flexible simply requiring a
+Hydro
+,
+Dendro
+and
+Electro
+character. The final position can be flexible, giving you a wide range of
+potential Hyperbloom compositions.
+3.2.
+Xingqiu in Double Hydro Hu Tao
+Main DPS
+Sub DPS
+Sub DPS
+Support
+Hu Tao
+Xingqiu
+Yelan
+Citlali
+Hu Tao
+Xingqiu
+Furina
+Xianyun
+Xingqiu has great synergy with
+Hu Tao
+and is often
+paired with either
+Yelan
+or
+Furina
+to
+ensure there is more than enough
+Hydro
+application
+so that every charged attack from Hu Tao creates a reaction. One example includes
+Citlali
+who provides buffs to both
+Pyro
+and
+Hydro
+alongside creating
+Melt
+reactions for higher damage, while the
+Xianyun
+variant
+changes Hu Tao's playstyle and supports
+Furina
+'s damage buffs.
+3.3.
+National and International Teams
+Main DPS
+Sub DPS
+Sub DPS
+Support
+Raiden Shogun
+Xingqiu
+Xiangling
+Bennett
+Tartaglia
+Sucrose
+Kaedehara Kazuha
+Xiangling
+Bennett
+National/International is a team
+composition involving Xingqiu,
+Xiangling
+,
+Bennett
+and a Main DPS in the flex position. While there are a
+range of variants, the above 2 using
+Raiden Shogun
+and
+Tartaglia
+are generally the most common.
+4.
+Xingqiu's Ascensions, Talents, and Constellations
+Xingqiu Ascensions
+Xingqiu Talents
+Xingqiu Constellations
+4.1.
+Xingqiu Ascension Passives and Materials
+Unlock
+Ascension Passive
+Explanation
+With Character
+Flash of Genius
+When Xingqiu crafts Character Talent Materials, he has a 25% chance to
+     refund a portion of the crafting materials used.
+1st Ascension
+Hydropathic
+When a Rain Sword is shattered or when its duration expires, it
+    regenerates the current character's HP based on 6% of Xingqiu's Max
+    HP.
+4th Ascension
+Blades Amidst Raindrops
+Xingqiu gains a 20%
+Hydro
+DMG Bonus.
+Xingqiu requires a range of materials to ascend to the 6th ascension.
+Starting from the second ascension, he gains additional Attack as his
+bonus stat giving a total of 24% increased Attack at the final ascension.
+The total cost to upgrade all ascensions is:
+Source
+Quantity
+Mora
+420,000 Mora
+Boss Material
+46x
+Cleansing Heart
+Ascension Material
+1x
+Varunada Lazurite Sliver
+9x
+Varunada Lazurite Fragment
+9x
+Varunada Lazurite Chunk
+6x
+Varunada Lazurite Gemstone
+Local Specialty
+168x
+Silk Flower
+Enhancement Material
+18x
+Damaged Mask
+30x
+Stained Mask
+36x
+Ominous Mask
+4.2.
+Xingqiu's Talents
+Listed below is each talent and a simplified explanation of how they work.
+Type
+Talent Name
+Brief Explanation
+Normal
+Guhua Style
+5 Normal Attacks and a normal charged attack.
+Elemental Skill
+Guhua Sword: Fatal Rainscreen
+Deals
+Hydro
+damage and creates Rain Swords around the
+    character. These reduce damage taken, provide interruption resistance and
+    are used up as damage is dealt.
+Elemental Burst
+Guhua Sword: Raincutter
+Creates Rain Swords around active character, normal attacks deal
+        additional hydro damage from them.
+Rain swords are not used up as damage is dealt when created from
+Guhua Sword: Raincutter
+.
+To upgrade a single talent to level 10, it costs:
+Source
+Quantity
+Mora
+1,625,500 Mora
+Special Material
+1x
+Crown of Insight
+Boss Material
+6x
+Tail of Boreas
+Domain Material
+3x
+Teachings of Gold
+21x
+Guide to Gold
+38x
+Philosophies of Gold
+Enhancement Material
+6x
+Damaged Mask
+22x
+Stained Mask
+31x
+Ominous Mask
+5.
+Xingqiu's Constellations
+Xingqiu's most important constellation is
+Hence, Call Them My Own Verses
+providing increased damage and
+makes builds easier by lowering energy requirements. As a 4-star character this
+is something you can obtain over time from Paimon's Bargains.
+Rainbow Upon the Azure Sky
+can also be significant due to the reduced
+Hydro resistance
+increasing damage as well as the damage
+of other Hydro characters such as
+Yelan
+.
+#
+Name
+Explanation
+C1
+The Scent Remained
+Increases the maximum number of Rain Swords by 1.
+C2
+Rainbow Upon the Azure Sky
+Extends the duration of
+Guhua Sword: Raincutter
+by 3s.
+Decreases the Hydro RES of opponents hit by sword rain attacks by 15% for 4s.
+C3
+Weaver of Verses
+Increases the Level of
+Guhua Sword: Raincutter
+by 3.
+Maximum upgrade level is 15.
+C4
+Evilsoother
+Throughout the duration of
+Guhua Sword: Raincutter
+,
+    the DMG dealt by
+Guhua Sword: Fatal Rainscreen
+is increased by
+    50%.
+C5
+Embrace of Rain
+Increases the Level of
+Guhua Sword: Fatal Rainscreen
+by 3.
+Maximum upgrade level is 15.
+C6
+Hence, Call Them My Own Verses
+Activating 2 of
+Guhua Sword: Raincutter
+'s sword
+        rain attacks greatly enhances the third sword rain attack.
+On hit, the third sword rain attack also regenerates 3 Energy for Xingqiu.
+Changelog
+26 Oct. 2025:
+Updated for 6.1.
+12 Feb. 2025:
+Reviewed for 5.4.
+04 Feb. 2025:
+Updated for 5.3.
+03 Jun. 2024:
+Reviewed for 4.7.
+31 Jan. 2024:
+Guide reviewed for Patch 4.4.
+29 Nov. 2023:
+Guide added.
+Show more
+Show less
+Need any help? Check out our
+General Discussion Forum
+!
+1 comment
+In The Same Category
+Yelan Best Builds Guide
+Dahlia Best Builds Guide
+Tartaglia Best Builds Guide
+Furina Best Builds Guide
+Columbina Best Builds Guide
+Kamisato Ayato Best Builds Guide
+Neuvillette Best Builds Guide
+Sigewinne Best Builds Guide
+Sangonomiya Kokomi Best Builds Guide
+Columbina Profile & Talents
+Candace Best Builds Guide
+Mualani Best Builds Guide
+ABOUT THE AUTHOR
+Asher is a Genshin Impact and Wuthering Waves creator and theorycrafter 
+        with over three years of experience in Teyvat and one year in Solaris-3. 
+        He has been producing guides and analysis content consistently for the past 
+        six months, building a growing YouTube community of more than 8,000 subscribers. 
+        He focuses on creating simple, clear, and beginner-friendly guides designed 
+        to help new players understand characters, builds, and meta strategies with ease.
+SUPPORT OUR WRITERS

@@ -1,0 +1,110 @@
+Genshin Impact 5.4: Yumemizuki Mizuki best build guide, gear, and teams | GosuGamers
+gosugamers
+gosuentertainment
+gosubattles
+Games
+Articles
+Tournaments
+Matches
+Rankings
+Home
+/
+All News
+Genshin Impact
+1 year ago
+Arianne "YanKu" Blanco
+Share
+{" "}
+Genshin Impact 5.4: Yumemizuki Mizuki best build guide, gear, and teams
+Image: HoYoverse
+Wondering how to build Yumemizuki Mizuki? We’ve got you covered.
+Yumemizuki Mizuki is a brand-new character joining Genshin Impact’s playable roster, with Anemo as her element. With a kit that’s focused on the Swirl reaction, Mizuki can do reliable damage on-field while providing adequate healing to party members. She also offers players a less stressful battle experience– true to her profession as Inazuma’s top psychiatrist!
+Mizuki’s skill,
+Aisa Utamakura Pilgrimage
+, allows her to enter the
+Dreamdrifter State.
+While in this state, Mizuki will continuously float above ground and drift forward to deal area-of-effect Anemo DMG to opponents within her vicinity at intervals. Her skill will also allow her to increase the Swirl DMG of nearby party members based on Mizuki’s Elemental Mastery.
+Her burst,
+Anraku Secret Spring Therapy
+, creates a vacuum that will pull in nearby objects and opponents, dealing AoE Anemo DMG and summoning a
+Mini Baku
+.
+The Mini Baku is a summonable that will follow any current active party member, and will create a
+Yumemi Style Special Snack
+at regular intervals. The Yumemi Style Special Snack has two possible uses once picked up by a character, these being:
+If the player’s HP is
+higher
+than 70%, the snack will explode, unleashing a
+Munen Shockwave
+that will deal 1 instance of AoE Anemo DMG to nearby enemies.
+If the player’s HP is
+lower
+than 70%, the snack will heal the active party member based on Mizuki’s total Elemental Mastery.
+If the snack is not picked up and a certain amount of time passes, it will explode and release a Munen Shockwave to deal AoE Anemo DMG to surrounding opponents.
+Since Mizuki specialises in the Swirl reaction, her 1st and 4th ascension passive focus on buffing herself, those being:
+1st Ascension Passive: Bright Moon’s Restless Voice
+- Mizuki’s Dreamdrifter State duration is increased by 2.5s once every 0.3s for a maximum of 2 times every time she triggers Swirl.
+4th Ascension Passive: Thoughts by Day Bring Dreams by Night
+- Whenever a party member hits an opponent with Pyro, Hydro, Cryo, or Electro during when Mizuki is in the Dreamdrifter state, her EM will increase by 100 for 4s.
+Since Mizuki is a catalyst unit, her talent level up priority should be on ascending her
+Burst
+, then
+Skill
+. Levelling up her normal attacks isn’t really a necessity, but can be given notice once her Burst and Skill are at higher levels.
+Best Gear
+When it comes to gear, here’s what you can give Mizuki to maximise her DMG potential:
+Weapons:
+Sunny Morning Sleep-In
+(5-star, gacha) - Mizuki’s signature weapon, this catalyst provides a whopping 265 EM at max level and further EM buffs. If you unleash Mizuki’s Skill then Burst while wielding this weapon, you can expect her EM to reach
+393 EM
+, not including the EM you can get through artifacts. These EM buffs are:
+After a skill hits an opponent, increases EM by 96 for 9s.
+After a burst hits an opponent, increases EM by 32 for 30s.
+A Thousand Floating Dreams
+(5-star, gacha) - provides additional 265 EM at max level and DMG buffs to teammates.
+Sacrificial Fragments
+(4-star, gacha) -
+provides 221 EM at max level and the ability to reset Mizuki’s skill cooldown.
+Artifacts
+When it comes to artifacts, the best option you can give Mizuki is
+Viridescent Venerer.
+The set is designed to focus on buffing Swirl DMG, with its 2pc-set providing a 15% Anemo DMG increase. The full set will increase Swirl DMG by 60% and decrease opponent’s Elemental RES to the element infused in the Swirls by 40% for 10s.
+Since the bulk of Mizuki’s DMG is Swirl-dependent, you need to give her as much EM as possible. Swirls don’t need crits, so if you have any Viridescent pieces with no crit, but you have massive EM and additional Energy Recharge substats, then you’re pretty much set!
+Main stats to gun for are:
+Sands - Elemental Mastery.
+Goblet - Anemo DMG% / Elemental Mastery; whichever is lacking.
+Circlet - Elemental Mastery.
+Best Teams
+Since Mizuki’s Dreamdrifter State doesn’t make her compatible with sub-DPS characters who thrive on Normal Attack proc, you can’t really pair her with characters like Xinqiu, Yelan, or Beidou. But don’t be deterred! She perfectly synergises with off-field characters. Here are a few compositions you can try out:
+Mizuki, Furina, Ororon, Fischl - Furina will provide Hydro and increase everyone’s DMG with her burst buff, while Ororon and Fischl will enable the Electro-charged reaction. Mizuki’s healing will mitigate Furina’s HP drain, and Swirl all elements for an overpowered Taser team.
+Mizuki, Mavuika, Citlali, Furina - focuses on Melt and Vaporise empowered by Mizuki’s Swirl.
+Author
+Arianne "YanKu" Blanco
+Full time gamer, writer, and cat parent.
+Related Articles
+General
+Lohen revealed as new playable character for Genshin Impact Version Luna VII
+General
+Genshin Impact unveils Nicole as next playable character for Version Luna VII
+General
+Genshin Impact Version Luna VI launches on 8 April–Linnea to debut with map expansion, and more
+General
+Genshin Impact reveals Linnea as next playable character
+General
+Genshin Impact Version Luna V Varka's best gear and team compositions
+General
+Genshin Impact Version Luna IV Zibai's best gear and team compositions
+Data will be updated soon
+Data will be updated soon
+Top headlines
+Windrose gets more than 100,000 concurrent players, with 500,000 copies sold in 48 hours
+Slay the Spire II update targets Ascension, economy, and top builds in latest patch
+Pokémon copycat Pickmos delisted from Steam, publisher intervenes amidst controversy
+Cygames to launch Granblue Fantasy Relink–Endless Ragnarok open beta this month
+Resident Evil Requiem datamined tracks fuel speculation over upcoming Mercenaries mode
+Dragon Ball Xenoverse 3 announced for 2027 release on Steam, PS5, and Xbox
+Top headlines
+“A Pen, Handcuffs, and a Common-Law Marriage” manga gets anime adaptation
+Original anime “Goodbye, Lara” unveils new PV, additional cast, and more ahead of July premiere
+“The Klutzy Class Monitor and the Girl with the Short Skirt” English dub premieres on 20 April
+Silent Hill f manga adaptation to start serialisation on 22 April

@@ -1,0 +1,217 @@
+Home
+/
+Genshin Impact
+/
+Character List
+/
+Cyno Profile
+/
+Cyno Build
+/
+Cyno Teams
+Cyno Best Teams and Team Compositions
+Cyno is a 5-Star Electro Polearm user in Genshin Impact who deals
+powerful damage using their alternate form from
+his Elemental Burst. This guide will focus on Cyno's best builds,
+artifacts, weapons and best team compositions.
+Last updated
+on
+Jan 12, 2026
+at
+12:35
+by
+GxG Noir
+A
+Rank
+Electro
+Element
+Polearm
+Weapon
+★
+★
+★
+★
+★
+Rarity
+Alejandro Saab
+EN Voice Actor
+Irino Miyu
+JP Voice Actor
+Profile & Talents
+Build Guide
+Team Guide
+Cyno's Best Teams & Character Synergies
+Welcome to our Cyno team composition guide and 
+character synergies overview for Genshin Impact. 
+In this guide, we'll explore the best teams to build for Cyno, including 
+recommended characters, character synergies, and Team Compositions to help Cyno 
+reach his full damage potential.
+Best Pairings and Synergies With Cyno
+Cyno works best when paired with a second Electro character for energy. He 
+also works best in teams that focus on Electro reactions, so characters that can 
+enable and buff these reactions for him will be ideal.
+Ineffa
+Ineffa
+Ineffa is currently one of Cyno’s most valuable teammate - paired with 
+	Hydro, she enables the Lunar-Charged reaction, which deals damage based on 
+	each characters CRIT and Elemental Mastery. These are both stats that Cyno 
+	builds high amounts of. At the same time, Ineffa will deal tremendous damage 
+	of her own from off-field, while providing a high amount of Electro particles 
+	for Cyno, buffing his Elemental Mastery via her Burst, and has a decently 
+	strong Shield to cover the sustain slot. Furthermore, her abilities all have 
+	high uptime for Cyno’s long 
+rotations.
+Electro
+Electro
+If Ineffa is unavailable or doesn’t work in your team, a different 
+	Electro unit should be used. Generally, the best will be Fischl or Iansan. 
+	Fischl deals good damage and can provide some Elemental Mastery and/or ATK %
+	buffing if there is a second Hexerei character on the team.
+Iansan can provide an Attack buff and 40 DMG% via 4pc Scroll of the Hero of 
+Cinder City, which will last for Cyno’s long field time.
+Kuki Shinobu can be used if you need a Healer.
+Columbina
+Columbina
+Columbina is also one of Cyno’s most valuable teammates. She enables and 
+	buffs Lunar-Charged, while providing the Hydro needed to trigger the 
+	reaction. Pairing Columbina and Ineffa together results in great 
+	buffing for Lunar-Charged while they both deal excellent damage from 
+	off-field. This will also enable Ascendant Gleam, allowing Cyno to use 
+	Night of the Sky’s Unveiling, and allow a support to use Silken Moon’s 
+	Serenade for more buffing.
+Hydro
+Hydro
+If Columbina is unavailable or you aren't playing a Lunar-Charged team, a 
+	differentHydro unit should be used. If using a Healer, Furina will be good, 
+	as her  abilities have long durations, and she buffs DMG%, which is a stat 
+	Cyno tends to lack. Xingqiu can be a strong option in Hyperbloom teams, as
+	he has the next longest uptime and by far the fastest Hydro application, 
+	which is especially great in Hyperbloom teams. Yelan is also a good option, 
+	but her slower Hydro application and shorter duration makes her less ideal 
+	than Xingqiu.
+Lauma
+Lauma
+If using Hyperbloom, Lauma is by far the best Dendro option, providing 
+	excellent buffs to all Bloom reactions. She applies Dendro at 2 second 
+	intervals, which is enough to still get Lunar-Charged with Hydro appliers 
+	like Xingqiu and Furina, but not enough with Columbina. Lauma will also 
+	provide Ascendant Gleam when paired with Ineffa. Note that if using Lauma 
+	with Furina, it is recommended to have Lauma's Constellation 1 for healing.
+Dendro
+Dendro
+If playing Hyperbloom and Lauma is unavailable, another Dendro should be 
+	used instead. Nahida provides the best buffing, but applies too much Dendro 
+	for Lunar-Charged. Baizhu is the next best option, particularly if using 
+	Furina, as he provides great healing for her Fanfare.
+Durin
+Durin
+In a Lunar-Charged team, Durin is a fantastic option for the last slot, 
+	as he can trigger both Vaporize and Overload, allowing him to deal good 
+	damage while reducing the enemy’s resistance. His 20 second Burst duration 
+	is also good for Cyno’s long rotation length. Durin is also great for Cyno's
+	Overload teams, providing the necessary off-field Pyro application to 
+	activate Chevreuse’s buffs, while also dealing good damage of his own.
+Sucrose
+Sucrose
+Sucrose is a good option for Lunar-Charged, as she provides teamwide 
+	Elemental Mastery buffs and can lower enemy resistance with the 4pc 
+	Viridescent Venerer set effect. However, Cyno’s long field time results in 
+	Sucrose's buff uptime not being great here, so Durin is superior to her for
+	this team slot.
+Chevreuse
+Chevreuse
+If your team consists entirely of Electro and Pyro units, Chevreuse 
+	provides excellent buffs with great uptime. This makes Overload a viable 
+	team option for Cyno. Due to the team restriction, it's not quite as strong 
+	as his Lunar-Charged team at the moment, but is a strong alternative with 
+	more of a focus on Cyno's personal damage.
+Pyro
+Pyro
+If playing Overload, you’ll need a second Pyro unit, one with off-field 
+	application in order to trigger Overload and activate Chevreuse’s buffs. 
+	If not using Durin, Xiangling is currently the next best option for this 
+	slot.
+Cyno's Best Team Compositions
+Listed below are a range of team compositions we recommend you use 
+with Cyno. His best teams however can depend both on what boss you are against 
+as well as how you have built him. The inclusion or exclusion of any given team 
+does not necessarily reflect their overall power for example, some F2P teams 
+may also be present.
+Lunar-Charged Teams
+Lunar-Charged Teams
+Cyno
+Ineffa
+Columbina
+Durin
+Cyno
+Ineffa
+Columbina
+Sucrose
+Overload Teams
+Cyno
+Fischl
+Chevreuse
+Durin
+Cyno
+Iansan
+Chevreuse
+Xiangling
+Cyno
+Fischl
+Chevreuse
+Xiangling
+Hyperbloom Teams
+Cyno
+Ineffa
+Xingqiu
+Lauma
+Cyno
+Ineffa
+Furina
+Lauma
+Cyno
+Ineffa
+Xingqiu
+Nahida
+Cyno
+Ineffa
+Furina
+Baizhu
+Changelog
+11 Mar. 2026:
+Updated for 6.4
+12 Jan. 2026:
+Updated for 6.2.
+05 Jun. 2024:
+Reviewed for 4.7.
+17 Jan. 2024:
+Guide added.
+15 Feb. 2026:
+Updated for 6.4
+Show more
+Show less
+Profile & Talents
+Build Guide
+Team Guide
+In The Same Category
+Cyno Profile & Talents
+Cyno Best Builds Guide
+Keqing Best Builds Guide
+Clorinde Best Builds Guide
+Ineffa Profile & Talents
+Fischl Best Builds Guide
+Sethos Best Builds Guide
+Raiden Shogun Team Guide
+Razor Best Builds Guide
+Ororon Best Builds Guide
+Kujou Sara Best Builds Guide
+Raiden Shogun Profile & Talents
+ABOUT THE AUTHOR
+GxG Noir has been traversing the world of Teyvat since patch 1.1. 
+        He has a passion for doing calculations and theorycrafting, especially on 
+        some of the more underrated characters. You can find him on
+YouTube
+as well as
+Discord
+.
+SUPPORT OUR WRITERS

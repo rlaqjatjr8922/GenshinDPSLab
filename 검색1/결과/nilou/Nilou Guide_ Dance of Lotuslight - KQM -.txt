@@ -1,0 +1,695 @@
+A Nilou Guide
+Written by .jdha
+Updated for Version 4.8
+Official Art by
+Genshin Impact
+“Hello, I’m Nilou from Zubayr Theater. We have one dance scheduled for today, and it’s about to start — keep your eyes peeled!”
+Display Artwork
+Table of Contents
+Introduction
+Why Play Nilou?
+TL;DR
+FAQ
+Glossary
+Playstyles Overview
+Talents
+Level and Talent Priority
+Talent Overview
+Constellations
+Playstyles and Gearing
+Bountiful Bloom
+Pros and Cons
+Maximizing Blooms
+Combos
+ER Requirements
+Stat Priorities
+Artifact Sets
+Weapons
+Teams and Synergies
+Bountiful Bloom
+Notable Teammates
+Double Hydro
+Xingqiu/Yelan
+Triple Hydro
+C6 Vaporize
+Notable Teammates
+Example Teams
+Other Teams
+Credits
+References
+Introduction
+Nilou, the star performer of the Zubayr Theater, is a 5-star Hydro Sword user whose kit revolves around modifying and strengthening the Bloom reaction. Not only is Nilou beginner-friendly, but she also performs well with minimal investment, allows for unique team compositions, and has varied gameplay. This guide examines Nilou’s kit in-depth to help you better understand her best builds, best teams, best weapons, best artifacts, synergies, Talents, Constellations, and more!
+Why Play Nilou?
+“The strengths and weaknesses of a performing artist are quite clear. Nilou knows how to play to her strengths, which enables her to live a happy and simple life.”
+— Alhaitham
+There are many factors to consider when evaluating Nilou’s benefits. The following list of pros and cons summarizes Nilou in and out of Bountiful Bloom teams. The
+Playstyles and Gearing
+section covers Bountiful Bloom teams in greater detail.
+Pros
+Holds a unique niche as a mandatory component for Bountiful Bloom teams
+Very easy to build in Bountiful Bloom teams due to her almost sole focus on HP% stats, while Talent levels and 4pc artifact sets are unnecessary
+C6 Vaporize teams are potent in speedruns and do not require Bennett
+High Base HP, HP% Ascension Stat, and common use of healer and defensive units contribute to overall tankiness
+Cons
+Limited viability outside of Bountiful Bloom teams without Constellations and a dedicated team
+TL;DR
+Credits to: kolvii, mocha_biscuit, .jdha, and KQM Staff
+FAQ
+Can Nilou be played on-field?
+In Bountiful Bloom teams, Nilou should remain off-field by performing Whirling Steps. As there is little for Nilou to do after activating or refreshing Golden Chalice’s Bounty effect, it is more efficient to let other characters create Bountiful Cores, generate Energy, and keep the team healthy.
+For those who wish to experience Nilou’s on-field gameplay in non-Bloom teams, choosing to end Pirouette state with Sword Dance allows her to deal Hydro damage. However, as Nilou’s base kit is designed around Bountiful Bloom, it is difficult to get good results without high levels of investment. Even at high levels of investment with Nilou’s Constellations, her potential for non-Bloom damage mostly lies within her Burst, leaving her with little reason to remain on-field in optimized rotations.
+Is EM necessary for Nilou?
+As Nilou triggers Bloom through Tranquility Aura and sometimes through her Burst, EM is a relevant stat that improves her Bloom damage. However, it is not recommended to prioritize EM over Max HP. EM only affects Nilou’s Bloom damage, whereas Max HP affects every character’s Bloom damage through Nilou’s A4 Passive.
+More details on
+stat priorities
+for Nilou can be found below.
+What is Nilou’s Bloom ownership like?
+Nilou’s Bloom ownership, like the Bloom ownership of every character in general, is inconsistent. Bountiful Bloom teams’ theoretical and realistic performances are very different. There are too many external factors that can affect Dendro Core production, such as enemy density, positioning, hitboxes, and even Nahida’s Burst Talent level.
+In general, Hydro characters trigger Bloom more often than Dendro characters, as many teams apply Hydro on an enemy with Dendro aura to consume a small amount of Elemental Gauge and maximize Dendro Core production. For this reason, Nilou triggers a non-negligible number of Blooms herself, provided enemies are kept within Tranquility Aura’s range. In Double Hydro teams, Nilou tends to trigger fewer Blooms than the other Hydro unit due to her lower Hydro application.
+For more information on Dendro Core production and Elemental Gauge changes with Bloom, refer to
+Maximizing Dendro Core Production
+.
+When should I use Nilou’s Burst?
+Nilou prioritizes maximizing her Max HP and has very poor Talent damage in Bountiful Bloom teams, so her Burst may seem unnecessary. While completely skipping Nilou’s Burst does not have any significant caveats, there are also a few important benefits to using it.
+Nilou’s Burst has a large AoE. In Bountiful Bloom teams, it is rare for other Hydro characters to have similar AoE range of Hydro application (with some exceptions like Ayato’s Burst). Her Burst also applies Hydro twice without ICD, meaning both hits of Nilou’s Burst can produce Dendro Cores in a large area. This allows it to function as a pseudo-nuke by generating a large number of Dendro Cores.
+Additionally, Nilou is usually the character with the highest Max HP in the team, so switching to Nilou and gaining i-frames during her Burst can function as a panic button. This is notable for Bountiful Bloom teams, as characters must survive Bloom’s self-damage on top of enemy attacks.
+Can I play Bountiful Bloom teams without Nahida?
+It cannot be denied that every Dendro team won’t perform the same without Nahida. However, Bountiful Bloom is still viable using other Dendro characters.
+Bountiful Bloom teams can somewhat overcome Nahida’s absence, filling missing holes of her particle generation and unconditional AoE 1.5U Dendro application. Thanks to their flexible rotations, Bountiful Bloom teams can maintain Dendro aura by giving Dendro characters more field time. Additionally, since most characters need only EM and ER% stats, missing out on Nahida’s particle generation does not significantly hinder the team’s Energy economy.
+How important is Key of Khaj-Nisut?
+Overall, the choice of obtaining Key and committing to further upgrades for Nilou should be decided based on your willingness to improve Bountiful Bloom teams’ single-target DPS and to let Nilou pack other stats like EM and ER% once Key of Khaj-Nisut allows her to cap out her A4 Passive.
+Key of Khaj-Nisut is one of the few Swords in the game that gives HP%. Key provides massive HP% and a teamwide EM buff, making it handy for Nilou in both Bountiful Bloom and Vaporize teams. Other 5-star Swords lack these strengths, so obtaining Key is one of the biggest early upgrades for Nilou.
+That said, as Bountiful Bloom teams have the freedom to build EM from various sources, they deal excellent AoE damage even without Key of Khaj-Nisut.
+Should I play Double or Solo Dendro Bloom teams?
+While both archetypes are viable, they have different primary goals. Double Dendro teams maximize Dendro Core production through steady Hydro application on enemies with a Dendro aura. In contrast, Solo Dendro teams trade Dendro application for greater personal damage from off-field Hydro characters, and they tend to deal more damage in single-target. Furthermore, Solo Dendro teams can better guarantee Bloom ownership because the Dendro character owns most Blooms (although with strong Dendro appliers like on-field Nahida, Hydro characters still own some Blooms).
+The
+Teams and Synergies
+section has further details on this information.
+Glossary
+Show Glossary
+Area of Effect (AoE)
+An area in which certain attacks or passives take effect.
+Battery
+A character that generates Energy to fund another character’s Burst.
+DPS
+An acronym which stands for Damage Per Second. Used to measure damage dealt over time or to describe a character that deals a lot of damage.
+Elemental Aura
+The presence of an Element on a character or enemy that can be reacted with using another Element (e.g., an enemy that has been applied with the Dendro Element now has a Dendro aura on them).
+Elemental Gauge Units (U)
+A unit of measurement that tracks the application and consumption of Elemental auras.
+Elemental RES Shred
+An effect applied on the enemy to reduce their Elemental RES so that matching Elemental damage deals more damage to that enemy.
+Energy / Particles
+Energy is the “currency” to use a character’s Burst. Energy particles are mainly dropped by enemies and created by characters’ Elemental Skills. How much the Burst recharges per particle caught is affected by the Element of the particle, whether the character is on-field or off-field, and the character’s Energy Recharge (ER%) stat.
+Grouping
+Refers to being able to manipulate the enemies’ location. Allows for ease of play and saves time from moving towards scattered enemies. Due to the nature of some AoE attacks, it can be a damage increase to have enemies close together. Example: Venti’s Burst, Kazuha’s Skill.
+Internal Cooldown
+(ICD)
+A game mechanism that limits how often an Element can be applied and trigger reactions. ICD is counted separately for each enemy and can have a hit rule, a time rule, or both. Standard ICD is every 3 hits or 2.5s.
+Interruption Resistance
+A character with interruption resistance is less likely to get staggered when hit by an opponent. Often a QoL and DPS improvement, especially for characters who would like to perform a full string of attacks.
+VV
+Viridescent Venerer artifact set.
+Playstyles Overview
+Bountiful Bloom
+Nilou’s primary team archetype is Bloom since her Ascension Passives convert all Dendro Cores created by her team to Bountiful Cores. These teams are easy to build, even easier to play, and deal excellent AoE damage.
+Others
+In many teams, Nilou’s poor personal damage and weak synergy with non-Bloom teams cause her to fall behind as an on-field character or a support.
+Nilou is a situationally acceptable pick in some teams for her Hydro application through Tranquility Aura (and EM buff through Key of Khaj-Nisut). For example, Hu Tao can use Nilou with another Hydro character like Xingqiu or Yelan to activate Hydro Resonance and use Key’s EM buff.
+Some teams allow Nilou to Vaporize her attacks in her on-field Sword Dance state. Certain Constellations significantly improve Nilou’s personal Talent damage, increasing her viability as a non-Bloom DPS unit.
+Talents
+Level and Talent Priority
+>
+>>
+Skill > Burst >> Normal Attack
+Leveling Nilou to 90 is crucial to boost both her HP and her Bountiful Bloom damage. Nilou’s Talents need not be leveled in Bountiful Bloom teams, as they do not increase Bloom damage nor contribute a significant share of the team’s overall damage.
+Talent Overview
+Normal Attack
+Elemental Skill
+Elemental Burst
+Ascension 1 Passive
+Ascension 4 Passive
+Utility Passive
+Normal Attack
+Normal Attack |
+Dance of Samser
+Talent Description
+Normal Attack
+Performs up to 3 consecutive sword strikes.
+Charged Attack
+Consumes a certain amount of Stamina to perform a twirling slash.
+Plunging Attack
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+As Nilou’s gameplay centers around Bloom or Vaporize, her Normal Attack Talent can be left unleveled. Even when using Sword Dance, the damage depends on the Talent level of Nilou’s Skill, not her Normal Attacks.
+Elemental Skill
+Elemental Skill |
+Dance of Haftkarsvar
+Talent Description
+Enters the Pirouette state, dealing Hydro DMG to nearby opponents based on Nilou's Max HP.
+While she is in the Pirouette state, Nilou's Normal Attacks and Elemental Skill will cause her to enter the Sword Dance and Whirling Steps stances respectively, causing DMG she deals to be converted to Hydro DMG that cannot be overridden and that is considered Elemental Skill DMG.
+In these stances, Nilou's third dance step will end Pirouette, and has the following effects:
+Sword Dance: unleashes a Luminous Illusion that deals Hydro DMG to opponents it touches and grants Nilou the Lunar Prayer effect. This effect converts Nilou's Normal Attacks into Sword Dance techniques, and her final hit will unleash a Luminous Illusion.
+Whirling Steps: Nilou unleashes a Whirling Water Wheel that deals AoE Hydro DMG and creates a Tranquility Aura that follows your active character around and applies Wet to opponents within its AoE.
+Nilou is unable to perform Charged Attacks when under the effect of Pirouette or Lunar Prayer. These effects will be removed once she leaves the field.
+Nilou’s Elemental Skill lets her choose between an on-field or off-field playstyle. Sword Dance (using her altered Normal Attacks) leans towards the on-field playstyle, while Whirling Steps (using her altered Skill inputs) leans towards the off-field version.
+Note that the first two steps in the Pirouette state do not impact which stance she enters next.
+Normal Attack steps are slightly faster than Elemental Skill steps, so it is recommended to use Sword Dance for the first two dance steps to quickly end Pirouette.
+When playing Bountiful Bloom, Whirling Steps is the more recommended option, as Tranquility Aura has a longer duration and provides off-field Hydro application to help produce Dendro Cores. When playing in Vaporize teams, using Sword Dance is recommended to avoid excessive Hydro application and allow an Anemo unit’s Burst to absorb Pyro.
+Although Nilou’s attacks during her Sword Dance utilize Normal Attack animations, they are considered Elemental Skill DMG. However, they can trigger Talents that activate with Normal Attack animations, such as Xingqiu and Yelan’s Elemental Bursts.
+Nilou’s Tranquility Aura lasts for 12s and has a unique ICD of 4 hits / 1.9s.
+Elemental Burst
+Elemental Burst |
+Dance of Abzendegi: Distant Dreams, Listening Spring
+Talent Description
+Begins the dance of faraway dreams and springs that hear, causing a Lotus of Distant Waters to bloom, dealing AoE Hydro DMG based on Nilou's Max HP and applying the Lingering Aeon effect to all opponents hit.
+After an interval, opponents affected by Lingering Aeon will take Hydro DMG.
+Nilou’s Elemental Burst inflicts two instances of Hydro damage with no other effects. It has no ICD, meaning both hits can trigger reactions.
+As Nilou’s Burst applies Hydro slow enough for both hits to Forward Vape, maximizing its damage is a primary goal of Forward Vape teams.
+Ascension 1 Passive
+Ascension 1 Passive |
+Court of Dancing Petals
+Talent Description
+When all characters in the party are all Dendro or Hydro, and there are at least one Dendro character and one Hydro character:
+The completion of the third dance step of Nilou's Dance of Haftkarsvar will grant all nearby characters the Golden Chalice's Bounty for 30s.
+Characters under the effect of Golden Chalice's Bounty will increase the Elemental Mastery of all nearby characters by 100 for 10s whenever they are hit by Dendro attacks. Also, triggering the Bloom reaction will create Bountiful Cores instead of Dendro Cores.
+Such Cores will burst very quickly after being created, and they have larger AoEs.
+Bountiful Cores cannot trigger Hyperbloom or Burgeon, and they share an upper numerical limit with Dendro Cores. Bountiful Core DMG is considered DMG dealt by Dendro Cores produced by Bloom.
+Should the party not meet the conditions for this Passive Talent, any existing Golden Chalice's Bounty effects will be canceled.
+Nilou’s A1 Passive is her defining ability, and it is also the first character kit in Genshin’s history to modify an Elemental Reaction. With this Talent, Bloom is upgraded to Bountiful Bloom.
+Apart from gaining a significant upgrade in range, Bountiful Cores also explode much quicker than Dendro Cores (almost immediately after they are generated). On one hand, characters can easily maintain the EM buff from this passive since they are always hit by Bountiful Cores’ explosions. On the other hand, they also sustain heavy damage throughout combat. As such, Bountiful Bloom teams generally want a strong healer or on-field character with self-sustainability.
+Nilou’s A1 Passive restricts her teams to consist of only Hydro and Dendro characters. Bountiful Bloom teams remain diverse in spite of such restrictions, but it can be a nuisance when enemies like Abyss Heralds or Abyss Mages require specific Elements for breaking their shields.
+Ascension 4 Passive
+Ascension 4 Passive |
+Dreamy Dance of Aeons
+Talent Description
+Every 1,000 points of Nilou's Max HP above 30,000 will cause the DMG dealt by Bountiful Cores created by characters affected by Golden Chalice's Bounty to increase by 9%.
+The maximum increase in Bountiful Core DMG that can be achieved this way is 400%.
+Nilou’s A4 Passive greatly amplifies Bountiful Bloom damage up to a 400% damage increase. Though the description mentions a buff to Bountiful Core damage for every 1,000 point increase in Nilou’s Max HP, the damage of Bountiful Cores is actually increased for
+every point
+of her Max HP, meaning that Nilou reaches her A4 Passive cap when she has a Max HP of 74,445 (74,444.44 to be precise).
+Utility Passive
+Utility Passive |
+White Jade Lotus
+Talent Description
+When Perfect Cooking is achieved on Food with Adventure-related effects, there is a 12% chance to obtain double the product.
+This Utility Passive is identical to Yun Jin’s: a chance to double Stamina-related food when cooking.
+Constellations
+Nilou’s DPS increase from Constellations is difficult to determine since Bountiful Bloom teams vary in performance. Regardless, Nilou’s C1 and C2 do provide minor and major upgrades for said playstyle, respectively. Other Constellations improve Nilou’s personal damage to the point where other playstyles like Vaporize become viable for endgame content.
+Even at C0, Nilou already has every key ability necessary for Bountiful Bloom teams to perform well. It can be more beneficial to go for Key of Khaj-Nisut or Nahida’s C2 instead of Nilou’s Constellations, as these upgrades have uses outside of Bountiful Bloom teams.
+Constellation 1
+Constellation 2
+Constellation 3
+Constellation 4
+Constellation 5
+Constellation 6
+Constellation 1
+Constellation 1 |
+Dance of the Waning Moon
+Dance of Haftkarsvar will be enhanced as follows:
+Luminous Illusion DMG is increased by 65%.
+The Tranquility Aura's duration is extended by 6s.
+C1 provides Nilou with a significant damage increase for attacks in the Sword Dance stance. Note that on-field Nilou requires significant investment in CRIT Rate, CRIT DMG, HP%, and EM stats to be competitive.
+Tranquility Aura’s duration with C1 lasts 18s instead of 12s. How much this improves Dendro Core production varies depending on the second Hydro unit in Bountiful Bloom teams; nevertheless, it is an upgrade to the team’s overall Hydro application and hence Dendro Core production.
+Constellation 2
+Constellation 2 |
+The Starry Skies Their Flowers Rain
+After characters affected by the Golden Chalice's Bounty deal Hydro DMG to an opponent, that opponent's Hydro RES will be decreased by 35% for 10s. After a triggered Bloom reaction deals DMG to opponents, their Dendro RES will be decreased by 35% for 10s.
+You need to have unlocked the "Court of Dancing Petals" Talent.
+Bountiful Bloom teams only have Dendro and Hydro characters; thus, they make full use of this Constellation after Nilou completes the third dance step of her Skill. The scarcity of RES Shred for Bountiful Bloom teams makes this Constellation a noticeable improvement for Bountiful Core damage, especially against enemies with high Dendro RES. Decreasing Hydro RES is also valuable for units like Yelan, Xingqiu, Neuvillette, and Furina, who can amplify their personal damage through this Constellation. Assuming enemies with 10% Base RES stats, no other sources of Hydro RES Shred, and use of 4pc Deepwood Memories, Nilou’s C2 increases Hydro damage more than Dendro damage.
+Overall, C2 is a powerful upgrade to Bountiful Bloom teams at any level of investment and a good stopping point.
+Constellation 3
+Constellation 3 |
+Beguiling Shadowstep
+Increases the Level of Dance of Abzendegi: Distant Dreams, Listening Spring by 3.
+Maximum upgrade level is 15.
+An upgrade to Nilou’s Elemental Burst damage. Unfortunately, this is not a notable upgrade to Nilou’s personal damage in Bountiful Bloom teams. For Vaporize teams, however, this Constellation is important because it boosts Nilou’s biggest source of damage.
+Constellation 4
+Constellation 4 |
+Fricative Pulse
+After the third dance step of Dance of Haftkarsvar's Pirouette hits opponents, Nilou will gain 15 Elemental Energy, and DMG from her Dance of Abzendegi: Distant Dreams, Listening Spring will be increased by 50% for 8s.
+Another upgrade to Nilou’s Burst damage if the third hit of Nilou’s Skill hits an enemy. This setup greatly empowers Nilou’s Burst, making it one of the most lethal nukes in the game with her C6 and supports that allow both hits of her Burst hit to trigger Forward Vape.
+Even in Bountiful Bloom teams, this Constellation isn’t entirely pointless. Nilou’s Burst essentially has a 55 Burst Cost instead of 70 at C4, and some players prefer the comfort of using Nilou’s Burst for invincibility frames.
+Constellation 5
+Constellation 5 |
+Twirling Light
+Increases the Level of Dance of Haftkarsvar by 3.
+Maximum upgrade level is 15.
+Similar to C3, this Constellation is an upgrade to Nilou’s personal damage. Players may get some value out of this Constellation if they dedicate a team to Nilou’s damage across an extended field time. Vaporize teams generally benefit little from this Constellation since Nilou’s Skill is used primarily to activate her C4 and Key of Khaj-Nisut’s passive.
+Constellation 6
+Constellation 6 |
+Frostbreaker's Melody
+For every 1,000 points of Max HP, Nilou's CRIT Rate and CRIT DMG will increase by 0.6% and 1.2% respectively.
+The maximum increase in CRIT Rate and CRIT DMG via this method is 30% and 60% respectively.
+As previously mentioned, teams centered around Nilou’s personal damage may struggle to be competitive due to the difficulty of balancing multiple stats. This Constellation, however, solves the issue.
+Up to 50,000 Max HP, Nilou can gain up to 30% CRIT Rate and 60% CRIT DMG. While 50,000 Max HP may seem difficult to reach, assuming you have R1 Key of Khaj-Nisut, an HP% Sands, a Level 20 Flower, and Hydro Resonance, Nilou at Level 90 only needs about 12% HP from substats to reach this quota, disregarding Flat HP rolls. With external HP% buffs like Key refinements and Yelan’s C4, players have even more freedom with acquiring CRIT Rate, CRIT DMG, and EM to further improve Nilou’s personal damage.
+Nilou still gains a significant EM buff from Key of Khaj-Nisut as well. Combined with the aforementioned upgrades, Nilou deals significant damage through Vaporize.
+Further information on such a playstyle is covered in the
+Vaporize
+section.
+Playstyles and Gearing
+Official Art by
+Genshin Impact
+“My teacher taught me everything there is to know about dance, but she said that the most important thing is putting feeling into your movements. Only then can you move your audience and convey emotion.”
+Bountiful Bloom
+Pros and Cons
+Gameplay
+Pros
+Excellent AoE damage with low investment into character level and EM.
+Easy gameplay for any kind of player.
+High skill ceiling, so performs even better with better game knowledge.
+Large AoE damage via Bountiful Cores along with AoE teammate abilities, helping address the lack of grouping.
+Interruption resistance is not mandatory since many teammate abilities don’t require attack inputs.
+Cons
+Bountiful Cores’ high self-damage requires caution, particularly when using frail characters like Nahida.
+As Nilou’s Bloom teams are composed of solely Dendro and Hydro units, enemies such as the Abyss Herald: Frost Fall and the Cryo Iniquitous Baptist may cause issues since they require specific Elements to break shields or fulfill mechanics.
+Teams
+Pros
+Dendro Core damage is affected by character level and EM; characters who have low multipliers can still be valuable.
+Upgrades through Key of Khaj-Nisut, Nilou’s C2, and Nahida’s C2 significantly increase AoE damage, while investment into characters like Yelan improves single-target damage to boost consistency.
+Does not require contested supports like Bennett, Kazuha, and Furina; Nahida’s absence is noticeable but does not significantly impact the team’s functionality.
+Cons
+As every team member is either Dendro or Hydro, enemy lineups that require specific Elements to break shields or fulfill mechanics may cause issues.
+Xingqiu, Yelan, and healers may struggle balancing EM for Bountiful Core damage and other stats for their primary roles.
+Without Nahida’s 1.5U Dendro application, some teams may require careful rotations to avoid Bloom ownership becoming more skewed toward characters who do not build high EM.
+Builds
+Pros
+Resin-efficient artifact options (unless using 4pc Flower of Paradise Lost).
+Nilou’s Talents can be left unleveled.
+Nilou herself does not need to Burst every rotation, so the team can shift its focus to battery other units.
+Cons
+Artifacts with EM main stats are difficult to optimize due to their rarity.
+Many units prefer to be Level 90 for higher Max HP and Bloom damage, and this may be an intimidating investment floor for newer players.
+Key of Khaj-Nisut and Dockhand’s Assistant are the only Swords with an HP% secondary stat, both of which are only available on time-limited weapon banners.
+Maximizing Dendro Core Production
+Bountiful Bloom teams can be played with little prerequisite knowledge. However, there are a few notable game mechanics that directly impact Dendro Core production.
+Hydro as the “Weak” Element in Bloom
+Bloom is a Transformative Reaction that involves Hydro and Dendro, and applying both Elements to an enemy in any order generates a Dendro Core. When applying Hydro before Dendro, the Hydro aura is consumed when a Dendro Core is generated. In order to generate more Dendro Cores, players have to apply both Elements again.
+However, when applying Dendro before Hydro, the Dendro aura remains on the enemy after a Dendro Core is generated because Hydro is a “weak” Element in the Bloom reaction. Applying Hydro on an enemy with Dendro aura consumes less gauge than applying Dendro on an enemy with Hydro aura. The latter allows players to generate more Dendro Cores with less Dendro application, assuming that the Hydro and Dendro sources are the same number of gauge units.
+As such, most Bountiful Bloom teams prefer keeping a Dendro aura on enemies, continuously applying Hydro, and building high EM on Hydro characters (except Nilou) to maximize Dendro Core production and damage. Teams that focus more on single-target damage may prefer building other stats on Hydro characters instead, but even then, EM buffs from Dendro Resonance and Key of Khaj-Nisut come in handy since those units usually trigger many Blooms.
+For more information on Elemental Gauge Theory, you may check the
+KQM TCL
+or
+Genshin Wiki
+.
+Nahida’s Tri-Karma Purification
+Nahida’s Elemental Skill’s strong 1.5U Dendro application is very helpful for Dendro Core production. However, don’t rely solely on Nahida’s Skill to keep Dendro aura on enemies, as Tri-Karma Purification does not reactivate if Dendro-related reactions stop occurring. In the case of Bountiful Bloom teams, if Bloom does not trigger continuously, neither will Tri-Karma Purification. If the Dendro aura on an enemy is depleted, Hydro aura will remain on them and Bloom will no longer trigger without an additional source of Dendro application.
+Fortunately, there is no shortage of good Dendro application to complement Nahida’s. Some teams face issues when using units with poor Dendro application or when an enemy is out of reach from summons that apply Dendro, but Nahida can also apply Dendro with her Normal Attacks. Keep an eye on the Element applied to an enemy, and if the Dendro aura is gone or an enemy has Hydro aura, be quick to remove the Hydro aura by applying Dendro.
+Combos
+E N2 E
+(Recommended)
+Skill, 2 Sword Dance attacks, 1 Whirling Step attack
+Applies the Golden Chalice’s Bounty buff to Nilou’s party and creates the Tranquility Aura. This combo finishes Pirouette state the fastest. Be careful with this combo as fast inputs can cause an accidental trigger of Lunar Prayer.
+4[E]
+Skill, 3 Whirling Steps attacks
+Applies the Golden Chalice’s Bounty buff to Nilou’s party and creates the Tranquility Aura. This combo is easier to perform but slower than the combo above.
+E N3
+(Forward Vape)
+Skill, 3 Sword Dance attacks
+Used to quickly activate Key of Khaj-Nisut’s passive and Nilou’s C4 without creating an extra source of Hydro application that would otherwise remove the Pyro aura from enemies.
+ER Requirements
+Nilou’s high-cost Burst is useful for players who want consecutive instances of Hydro application and a panic button. To maintain high Bountiful Bloom damage, Nilou sacrifices ER% (and thus Burst frequency) to maximize her HP and EM stats; as such, she prefers using her Burst every other rotation at most.
+The table below shows Nilou’s ER requirements based on the number of particles generated by the second Hydro character. It assumes the Dendro characters to be Nahida and Yaoyao. Make sure that every hit from Nilou’s Pirouette state (Skill damage) hits an enemy to maximize her own particle generation. Note that ER requirements can be lower in practice due to the production of clear enemy particles or an increase in Nilou’s field time.
+# of Teammate Hydro Particles
+Scenario
+ER Requirement
+(Burst Every Other Rotation
+)
+8–10
+2 Yelan Skills or 2 Xingqiu Skills
+100%
+5–6
+Kokomi Skill and Burst Refresh
+100%
+5
+1 Xingqiu Skill
+100–110%
+4
+1 Yelan Skill or 2 Candace Skill
+110–120%
+0
+Barbara
+150–160%
+Assumptions:
+Every hit from Nilou’s Pirouette state hits enemies to generate 4–5 Hydro Particles.
+Each off-field Favonius proc reduces Nilou’s ER requirements by 10–15%.
+For a more accurate estimate of your ER requirements, use the
+Energy Recharge Calculator
+.
+Stat Priorities
+Sands
+Goblet
+Circlet
+HP%
+HP%
+HP%
+Substats:
+Burst Every Other / Third Rotation:
+HP% > EM > Flat HP > ER% > CRIT
+Burst Every Rotation:
+ER% (until requirement) > HP% > Flat HP > EM > CRIT
+HP is Nilou’s most prioritized stat in Bountiful Bloom teams because Bountiful Core damage scales with Nilou’s Max HP. EM is the next worthwhile stat to grab, as Nilou herself triggers a sizable portion of Blooms.
+Assuming Hydro Resonance’s 25% HP buff, R1 Key of Khaj-Nisut, HP% | HP% | HP% main stats, Level 20 Flower, and 2pc Tenacity + 2pc Vourukasha, Nilou needs about 39% HP from substats to reach 74,445 HP (her A4 Passive’s cap). With Flat HP from substats, this threshold becomes easier to reach. After optimizing Nilou’s Max HP, EM substats come in handy as Nilou triggers some Blooms herself.
+Without Key of Khaj-Nisut, it is near impossible for Nilou to reach 74,445 HP without external buffs other than Hydro Resonance. In this case, you should acquire as many HP% and Flat HP substats as possible to maximize Bountiful Bloom damage.
+If you prefer using Nilou’s Burst for comfort, building ER% until her requirement can be considered at any investment level, provided it does not overly sacrifice Nilou’s Max HP.
+To compare the actual artifacts on your account, use
+Genshin Optimizer
+.
+Artifact Sets
+2pc Tenacity + 2pc Vourukasha
+Both sets’ 2-piece bonuses combined provide 40% HP, greatly lowering the threshold to reach Nilou’s A4 Passive cap. This is the most recommended set for Nilou.
+2pc HP% + 2pc EM
+For players who can reach enough Max HP without using a second 2pc HP% set, 2pc EM improves Nilou’s Bloom damage.
+4pc Flower of Paradise Lost (FoPL)
+4pc FoPL can be considered in teams where Nilou triggers a high portion of Blooms, such as when the second Hydro unit deals primarily single-target damage or has a moderate rate of Hydro application. While 4pc FoPL sacrifices a substantial amount of HP%, it increases Nilou’s Bloom damage by effectively 80%, helping offset the loss.
+Farming 4pc FoPL for Nilou also allows you to, at the same time, obtain the gear for other units that trigger Bloom.
+4pc Gilded Dreams (GD)
+4pc GD struggles to outperform HP% artifact sets in most scenarios. Its potential is also worse than 4pc FoPL’s, as its ATK% buff is useless.
+Weapons
+As Bountiful Bloom's damage is affected by Nilou’s Max HP, Swords with HP% secondary stats should be prioritized. When they are not available, Swords with EM secondary stats can be considered, and they perform well in practice if players properly utilize Nilou’s Tranquility Aura.
+Key of Khaj-Nisut
+Key of Khaj-Nisut is Nilou’s signature weapon and her uncontested Best-in-Slot in both Bountiful Bloom and Vaporize teams. It grants a massive HP increase to Nilou and a sizable EM buff to the entire team, significantly upgrading Bountiful Bloom damage. The teamwide buff also allows Hydro teammates to deal considerable Bloom damage regardless of their builds.
+The Dockhand’s Assistant
+Dockhand’s Assistant is the only other Sword with an HP% secondary stat, making it Nilou’s Best-in-Slot 4-star option. As Nilou does not heal herself and spends little time on-field, she needs to be healed by a teammate during her field time for the weapon’s passive to activate.
+The gap between the Dockhand’s Assistant and Swords with EM secondary stats can be fairly small in practice, depending on Nilou’s Bloom ownership.
+Freedom-Sworn
+Freedom-Sworn is a viable Sword since Nilou can make use of its EM substat. However, Bountiful Bloom teams mostly rely on Transformative Reaction damage, so its passive rarely finds good use.
+Xiphos’ Moonlight
+Xiphos’ Moonlight is the best option with an EM secondary stat since its passive provides a teamwide ER% buff.
+However, without high refinements nor investment into more EM substats for Nilou, Xiphos’ Moonlight’s passive does not provide meaningful utility. This weapon is better equipped on teammates like Xingqiu or Ayato on an EM build or other characters like Dendro MC that have small incentive to build for multiple stats.
+Nilou can reach over 400 EM with Xiphos’ EM secondary stat, Dendro Resonance, artifact substats, and her A1 Passive.
+Iron Sting, Toukabou Shigure
+For Nilou, Iron Sting is essentially Xiphos’ Moonlight without its passive. However, Xiphos’ Moonlight wants high refinements, is harder to obtain, and has better wielders. As such, Iron Sting (or the Version 3.3 Event weapon Toukabou Shigure) is a fine F2P option that improves Nilou’s Bloom damage.
+Splendor of Tranquil Waters
+Splendor of Tranquil Waters at R1 can increase Nilou’s HP by up to 28% thanks to Bountiful Bloom’s self-damage. Unfortunately, its massive CRIT DMG secondary stat and the Skill DMG Bonus from its passive are practically unused in Bloom teams, but they are good when building Nilou for personal damage.
+Primordial Jade Cutter
+Primordial Jade Cutter’s passive increases Nilou’s HP, making it a viable choice if no other character uses it. The Flat ATK from its passive and its CRIT Rate secondary stat are unfortunately practically unused.
+Sapwood Blade
+Sapwood Blade’s ER% secondary stat comes in handy if you want to make Nilou’s Burst more accessible. To make the best use of this weapon’s passive, you should pick up the Leaf of Consciousness with a character that triggers many Blooms.
+Favonius Sword
+Favonius Sword can be considered if you wish to have a more convenient rotation and let other characters invest more into different stats. Nilou can proc the Favonius passive reasonably well even with low CRIT Rate, since her Skill hits once on cast and three times during her Pirouette state.
+However, characters like Dendro Traveler, Yaoyao, Kirara, and Baizhu function as better Favonius holders, as they can equip Favonius weapons without compromising their roles. Even Xingqiu and Yelan can viably fit Favonius weapons in their standard builds. Since these characters take up more field time than Nilou does, you should find an alternative weapon for her as the team reaches higher levels of investment.
+Sacrificial Sword
+Sacrificial Sword is an option for C0 Nilou to improve her uptime on Tranquility Aura. Similarly to Favonius Sword, Sacrificial Sword benefits from Nilou’s Skill hitting multiple times during the Pirouette state. Its ER% secondary stat comes in handy if you want to use Nilou’s Burst often.
+Teams and Synergies
+Official Art by
+Genshin Impact
+“Sometimes, you can convey more with dance than words. If you don't know what to say, then just dance.”
+Bountiful Bloom
+Nilou — Hydro — Dendro — Dendro / Hydro
+Nilou’s Bountiful Bloom teams use only Hydro and Dendro units due to her A1 Passive’s teammate restriction. Though this significantly limits the choices available for her teams, the options for units within each Element and role are quite flexible. At least one strong healer should be considered to survive both enemy attacks and Bloom’s heavy self-damage.
+As previously mentioned, Nilou’s Bountiful Bloom teams have diverse options despite their build restrictions. Bountiful Bloom damage mostly depends on how you gear characters, not which characters you use; the teammate flexibility lets you explore Bountiful Bloom teams with creativity. This guide covers the basics, provides a few example compositions, and explains how each team is played.
+Successful Bountiful Bloom teams:
+maintain good Energy economy and thus have consistent Dendro and Hydro application through Skills and Bursts
+cycle through Skills and Bursts properly to maximize Bountiful Core generation
+survive enemy attacks and Bloom’s self-damage.
+You can achieve these goals respectively by using the
+Energy Recharge Calculator
+, finding comfortable and viable rotations, and using a properly built defensive unit.
+Notable Teammates
+Hydro
+Dendro
+Hydro
+Xingqiu and Yelan are interchangeable if interruption resistance or rotation length is not a serious issue.
+Furina can be considered over Xingqiu or Yelan if you have a well-built Dendro healer and want to improve the team’s non-reaction damage.
+Barbara and Kokomi are interchangeable due to kit and playstyle similarities.
+Ayato
+Ayato’s interruption resistance and Hydro application make him a viable Hydro option. Standard builds are viable, especially if Ayato is vertically invested. Nevertheless, an EM build is recommended in Bountiful Bloom teams. Ayato’s Burst has no ICD, so this makes building EM even more rewarding when he is the primary Bloom trigger.
+A full-EM build gives more breathing room for Ayato to build ER%, letting him consistently Burst while using one Skill per rotation. Ayato can also choose Iron Sting as a F2P option or Xiphos’ Moonlight to lower everyone’s ER requirements.
+Barbara
+Barbara is a F2P unit who fulfills many important roles in Bountiful Bloom teams by virtue of being a healer and a Catalyst unit with access to off-field Hydro application. Her long Elemental Skill cooldown can be circumvented by equipping Sacrificial Fragments. Her Melody Loop applies Hydro reasonably frequently, up to 13 times in ideal scenarios.
+4pc Ocean-Hued Clam, 4pc Flower of Paradise Lost, or other sets that increase Barbara’s EM work well. Babara can opt to forgo some EM stats for HP or Healing Bonus for stronger healing.
+Unlike Kokomi, Barbara has more freedom to switch to a different character and save her Burst for an emergency. That said, Barbara’s healing significantly improves with more field time, so you should use proper rotations to keep the team healthy.
+Candace
+Candace is an option for off-field Hydro application who also enables other melee units to trigger Blooms with Hydro-infused Normal Attacks. She has great synergy with Yaoyao, who can heal the team while using Hydro-infused Normal Attacks and applying Dendro through her Burst.
+At C6, Candace’s Hydro application significantly improves.
+Furina
+While Furina can work in Bountiful Bloom teams, her synergy is somewhat lacking. Bountiful Bloom teams’ main focus is Transformative Reaction damage, but Furina struggles to fit EM in her standard build without another Key of Khaj-Nisut. And although Furina’s Burst improves her and other characters’ non-reaction damage, it does not buff Bloom damage.
+Nonetheless, Furina’s personal damage at any level of investment is serviceable enough to somewhat outweigh the worth of building EM. Bountiful Bloom teams with Furina are easy to play since her Skill has a decent rate of Hydro application with a lengthy duration. A well-built Baizhu or Yaoyao can quickly gather Fanfare points while keeping the team healthy against Bloom’s self-damage and Furina’s teamwide HP drain.
+Kokomi
+Similar to Barbara, Kokomi can take the field to trigger Blooms and fully utilize her Burst to keep the team alive. Sacrificial Fragments is generally used to bypass Bake-Kurage’s immobility and increase Kokomi’s Bountiful Bloom damage.
+Kokomi’s healing may feel insufficient when she focuses on EM and forgoes other stats that increase her healing. You may forgo some EM stats in favor of HP stats or Healing Bonus or use a second healer to remedy this issue.
+Mona
+While Mona seems like a suitable substitution for Kokomi and Barbara, her lack of healing and lower rate of Hydro application make her a worse fit for Bountiful Bloom teams. As Bountiful Bloom is a Transformative Reaction, its damage is not boosted by her Omen debuff, which is a significant part of Mona’s kit.
+Neuvillette
+Neuvillette benefits from Hydro Resonance and assists the team's non-reaction damage with his Charged Attacks. His long range comes in handy due to the lack of crowd control in this team archetype. However, playing Neuvillette in Bountiful Bloom limits his personal damage, as he needs both his C1 and an enemy with a self-applied Element for his A1 Passive to reach 3 stacks. Nilou’s teams also tend to lack means to improve Neuvillette’s personal damage outside of Hydro Resonance and Nilou’s C2.
+Neuvillette can reasonably sustain himself against incoming damage because he heals himself by absorbing Sourcewater Droplets. When using Prototype Amber, he can even sustain teams without a healer. If using Sacrificial Jade, Neuvillette can deal serviceable non-reaction damage and Bloom damage.
+If Neuvillette is C0, you can use Kirara or Baizhu for interruption resistance.
+Sigewinne
+Sigewinne can conveniently keep the team alive with her Skill, as its utility is not compromised by long cooldowns, Energy, or immobile turrets. She is also easy to build: she heals a great amount with Recurve Bow, and she doesn't need Talent levels on her Normal Attack and Burst.
+Due to her lacking off-field Hydro application, it is recommended to use Sigewinne in Triple Hydro teams where another Hydro character will consistently apply Hydro throughout the rotation.
+Tartaglia
+Tartaglia has an AoE Hydro application that requires careful gameplay for the best results. His Elemental Skill’s dynamic cooldown, his lack of off-field presence without C4, and his fast Hydro application that can overwhelm even Nahida’s Dendro application all encourage intentional gameplay and rotations.
+Tartaglia’s Hydro application can skew Bloom ownership by taking over the Dendro aura; however, it also enables the rapid production of Bountiful Cores in a short window of time. This can combine with Tartaglia’s Riptide to front-load significant AoE damage that scales with the number of enemies. Note that this strategy is still niche as Blooms have ICD.
+Xingqiu
+Xingqiu has extended, consistent off-field Hydro application from his orbitals and Burst. He does not reduce Bloom’s self-damage, but his defensive utility remains effective for its interruption resistance and enemy damage mitigation. Xingqiu’s single-target damage can also make up for Nilou’s weakness in single-target.
+If you build for Bountiful Bloom damage, Xingqiu becomes straightforward to build, as he only needs EM and ER%. Sacrificial Sword, Favonius Sword, and Xiphos’ Moonlight are all good options in EM builds.
+Yelan
+While off-field, Yelan applies Hydro in a similar way to Xingqiu. Yelan’s C2 improves her Hydro application, and her other Constellations provide substantial damage increases. In some teams, Yelan can take up more field time to use her Elemental Skill and Breakthrough Barb to apply Hydro to multiple enemies. Yelan’s single-target damage helps mitigate Nilou’s weakness in single-target.
+Due to Stringless’s good passive and EM secondary stat, it can be viable in Nilou’s teams to improve both Yelan’s personal damage and Bountiful Bloom damage. Elegy for the End is a potent option for any build as it helps Yelan meet her ER requirements and improves the whole team’s Bountiful Bloom damage.
+Nilou reduces both Xingqiu and Yelan’s ER requirements through her particle generation.
+Dendro
+Nahida can partially be replaced by other Dendro units with long off-field Dendro application (like Traveler), though they perform noticeably worse.
+Yaoyao and Baizhu, however, are less interchangeable due to their different Dendro application, field time, and team support.
+If there is another character using 4pc Deepwood Memories, 4pc Instructor can be used on characters who have poor non-reaction damage.
+Alhaitham
+Alhaitham’s Dendro application depends on the number of his Mirror stacks. 1 or 2 Mirror stacks allows Alhaitham to own the majority of Blooms with C6 Xingqiu or C2 Yelan. 3 Mirror stacks causes Alhaitham to apply Dendro twice every other proc, allowing Hydro units to trigger Blooms instead. Withdraw Alhaitham from the field before his Mirror stacks get lowered to 1 at the latest.
+Due to Alhaitham’s lack of off-field presence and defensive utility, it is recommended to pair him with a well-built healer and a second Dendro unit. Black Sword can be used to improve both Alhaitham’s personal damage and survivability, and 4pc Marechaussee Hunter can be used with a healer to further improve Alhaitham’s personal damage and pack more CRIT DMG and ER% from artifacts.
+Baizhu
+Baizhu is a strong healer with numerous accessible build options. Just about any artifact setup that helps Baizhu’s HP reach around 50k works fine. Prototype Amber, Favonius Codex, and Thousand Floating Dreams are all viable weapons. Since he is a Catalyst unit, he can also apply Dendro with Normal Attacks if needed.
+With short field time, Baizhu guarantees healing on the whole team and even more healing for the active character. His A4 Passive also increases the reaction damage of said on-field character. Combined with Nahida’s A1 and Nilou’s Key of Khaj-Nisut, the on-field character can deal high Bloom damage even with low EM investment.
+Baizhu’s shield usually serves only as partial protection against Bloom’s self-damage, while his healing provides most of the team's sustain. He prefers Nahida as a second Dendro character to alleviate his high ER requirements and overall poor Dendro application.
+Collei
+Collei’s selling point is her flexible Dendro application. Her A1 Passive comes in handy since it applies Dendro to nearby enemies. Against grouped enemies, Collei’s Burst has high potential as its fast Dendro application produces a large number of Dendro Cores.
+While Collei is a free unit and can easily be built with Favonius Warbow or Sacrificial Bow, further investment through her Constellations, Elegy for the End, and even 4pc Instructor is highly beneficial. Her C2 is the first major upgrade since it maintains Dendro application in most scenarios when paired with Sacrificial Bow.
+Dendro Traveler
+Dendro Traveler is the cheapest Dendro support in Bountiful Bloom teams. They only need to build ER% (and some CRIT Rate for Favonius Sword). With straightforward gameplay and a large Burst AoE, Dendro Traveler is overall a convenient option.
+Note that the Burst’s random targeting can cause issues against scattered enemies.
+Emilie
+Emilie can conveniently apply Dendro from off-field through her long-lasting, long-range Skill that can be repositioned with her Burst. Overall, Emilie’s use is similar to that of Dendro Traveler, but she provides noticeably better comfort and flexibility.
+Kaveh
+Kaveh is arguably the sturdiest on-field character in Nilou’s Bountiful Bloom teams thanks to his interruption resistance boost from his Burst and built-in healing that activates whenever Dendro Cores explode. His C1 elevates these strengths further with increased healing and Dendro RES. Thanks to these traits, Kaveh can serve as an on-field tank that allows the rest of the team to run without another form of sustain. Favonius Greatsword can be used to reduce team ER requirements and allow strong units like Nahida, Xingqiu, and Yelan to focus more on offensive stats.
+4pc Ocean-Hued Clam should be used on Kaveh for extra damage. It is recommended to use Prototype Amber Nahida or a healer as Kaveh cannot heal other characters.
+Kirara
+Kirara provides a remarkably sturdy shield that absorbs Bloom’s self-damage with 250% efficiency. This can complement on-field units like Kokomi for convenient gameplay. Her Burst applies 2U of Dendro, which can be handy when trying to remove Hydro aura from enemies or attempting to set up a nuke using Cat Grass Cardamoms and Hydro units with fast application. With her C4, Kirara has consistent off-field Dendro application.
+An interesting playstyle around Kirara’s Hold Skill, Urgent Neko Parcel, is also possible. Kirara can simply move around enemies with another teammate’s source of Hydro off-field application to trigger Blooms while having a better shield and particle generation. Unfortunately, this playstyle does not pair well with characters like Yelan.
+Nahida
+To no one’s surprise, the Dendro Archon is one of the best upgrades to Bountiful Bloom teams for a plethora of reasons. First, her Skill’s 1.5U Dendro application enables frequent Dendro Core production, and her Hold Skill’s utility can remedy AoE issues that arise from lack of grouping. Second, her significant EM buff improves the on-field character’s Bountiful Bloom damage. Third, Nahida generates ample Dendro Particles that lower the ER requirements of the other Dendro character. Fourth, she deals respectful personal damage even when fully building EM. Last, Nahida has good Constellations, with C2 and C6 being significant upgrades to this archetype.
+It is important to note that Nahida is very frail and vulnerable due to her low Base HP and DEF. When Nahida is on-field, exercise caution against aggressive endgame content.
+Yaoyao
+Yaoyao’s primary perks of partywide healing and Dendro application are available at C0, so there are very few prerequisites to using her. Yaoyao maximizes her HP through artifacts and chooses an appropriate weapon out of Favonius Lance, Dialogues of the Desert Sages, Rightful Reward, and Kitain Cross Spear depending on the team’s needs. When paired with Candace, however, she should build EM and can use Dragon’s Bane.
+Yaoyao’s Dendro application mostly relies on Yuegui, a stationary turret. She can provide greater healing and Dendro application with her Burst, but this requires her to be on-field. She also lacks relevant party buffs for this archetype and has, at most, moderate healing without her Burst. Despite this, Yaoyao’s C6 greatly improves her Dendro application and healing.
+Standard Double Hydro
+Nilou — Hydro — Dendro — Dendro
+Nilou’s Bountiful Bloom teams commonly include two Hydro characters and two Dendro characters. This way, Dendro characters maintain a Dendro aura on enemies while Hydro characters use their Hydro application to maximize Bountiful Core generation. Additionally, characters lower each other’s ER requirements, and both Hydro Resonance and Dendro Resonance improve Bountiful Bloom damage.
+Nilou — Barbara — Collei — Dendro Traveler
+Nilou — Barbara — Collei — Dendro Traveler
+Bountiful Bloom teams can take off even with just Barbara, Collei, and Dendro Traveler, all of whom are given for free. Upgrades for this team are cheap: Barbara and Collei have their first important boosts at C2, and Dendro Traveler’s Constellations do not require wishing. Barbara and Collei also prefer 4-star weapons like Sacrificial Fragments and Sacrificial Bow respectively, so you can fully build this team with little investment.
+There are a few cautions to take when playing with Barbara, however. Sacrificial Fragments circumvents Barbara’s very long Skill cooldown, but the cooldown of its weapon passive may not line up with the rotation length before R3. Barbara’s Skill periodically applies Hydro on the active character, so be wary of Cryo attacks to avoid being Frozen. Lastly, the short range of Barbara’s Skill may force you closer to enemies; this can increase the vulnerability of this team, particularly for Barbara and Collei who have poor Base HP, Base DEF, and interruption resistance. You can consider partially sacrificing Bloom damage for increased survivability by building higher HP on Barbara or by using a Healing Bonus Circlet.
+Example Rotation
+Nilou E N2 E > Barbara E > Collei EQ > Traveler EQ > Barbara combo
+Rotation Video by clevernt
+Nilou — Kokomi — Nahida — Collei
+Nilou — Kokomi — Nahida — Collei
+When using Kokomi instead of Barbara and Nahida instead of Dendro Traveler, the team sees significant improvement thanks to Kokomi’s better healing and Nahida’s greater Skill range. Kokomi’s Skill can be repositioned with Sacrificial Fragments or have its duration refreshed with her Burst. This complements Collei’s numerous methods of Dendro application across her Skill, Burst, A1 Passive, and C6 (if you have it).
+Make sure to mark enemies with Nahida at the start of combat and apply new marks to new waves of enemies. Equipping Kokomi and Collei with Sacrificial weapons allows players to be more creative with rotations and appropriately adapt to different situations, especially in multi-wave content.
+Example Rotation
+Nahida E Q > Kokomi E > Nilou E N2 E > Collei EQ > Kokomi Q combo
+Rotation Video by pjeljr
+Nilou — Barbara / Kokomi — Nahida — Kirara / Yaoyao
+Nilou — Barbara / Kokomi — Nahida — Kirara / Yaoyao
+Kirara or Yaoyao can be played over Dendro Traveler and Collei for more comfort. Their inclusion also makes it far more convenient for Barbara or Kokomi to focus on EM and ER%. Kirara has shorter animations and prevents interruption with her shield, while Yaoyao has more consistent Dendro application across the rotation. Either unit can be chosen based on the team’s needs.
+Both Kirara and Yaoyao work with accessible weapon options like Sacrificial Sword, Sapwood Blade, Favonius Lance, and Kitain Cross Spear. In addition, they fulfill their roles well without a specific artifact set or Constellations, which makes for very cheap teams if you use Barbara over Kokomi. Kirara and Yaoyao’s defensive utilities are particularly handy for Barbara, as her Hydro application requires fighting enemies at close range.
+Barbara + Kirara Variation
+Nahida E Q > Barbara E > Nilou E N2 E > Kirara shEQ > Barbara combo > Kirara shE
+Kokomi + Yaoyao Variation
+Nahida E Q > Kokomi E > Nilou E N2 E > Yaoyao E > Kokomi Q combo
+Rotation Video by pjeljr
+Nilou — Ayato — Nahida — Yaoyao
+Nilou — Ayato — Nahida — Yaoyao
+Using Ayato as an on-field character allows for more comfort in gameplay since he is easy to play and has good interruption resistance from his Skill. You should use Ayato’s Skill once per rotation for a shorter rotation. Players can opt to use a longer rotation if Ayato is using a standard build and requires 2 Skills to meet his ER requirements.
+Baizhu can be used over Yaoyao, as he becomes more valuable with vertical investment. His C2 and C6 improve his Dendro application, and his A4 Passive allows Ayato to deal higher Bountiful Bloom damage.
+Example Rotation
+Nahida E Q > Ayato Q > Nilou E N2 E > Yaoyao Q combo E > Nahida E > Ayato E combo
+Rotation Video by .jdha
+Nilou — Candace — Nahida / Dendro — Yaoyao
+Nilou — Candace — Nahida / Dendro — Yaoyao
+This team uses Candace’s melee Hydro Infusion to let Yaoyao trigger Blooms herself. With Nahida, Candace, and Yaoyao all building high EM, this team offers more consistent Bloom damage. Yaoyao benefits from her C4 with this setup, which is another bonus.
+This team mitigates survivability issues with EM builds on healers since Yaoyao has increased Dendro RES during her Burst, and Candace can tank hard-hitting enemy attacks with her Skill.
+Candace’s C1 is recommended to maintain her Burst uptime, and her C6 greatly improves Hydro application. Start the rotation with Candace’s Skill to activate Dendro Resonance before using Nahida’s Burst, and use her Skill again after Yaoyao leaves the field to keep Candace’s ER requirements reasonable.
+Example Rotation
+Candace E > Nahida E Q > Nilou E N2 E > Candace EQ > Yaoyao Q combo E
+Rotation Video by .jdha
+Nilou — Neuvillette — Nahida — Baizhu / Kirara
+Nilou — Neuvillette — Nahida — Baizhu / Kirara
+Neuvillette can be considered in Bountiful Bloom teams should players seek to take advantage of his long-ranged Charged Attacks and good non-reaction damage. It is recommended to pair him with Nahida and a second Dendro unit who provides sustain and off-field Dendro application. Nahida’s Skill duration is long enough to last throughout this team’s lengthy rotation, and a second Dendro unit keeps other characters alive while making sure that Tri-Karma Purification consistently activates. Having Kirara at C4 is preferred for this role. If Neuvillette is C1, he no longer needs a support unit to provide interruption resistance.
+Bountiful Bloom does not maximize Neuvillette’s A1 Passive stacks and provides little for him aside from Hydro Resonance. As such, this team’s main selling point is Neuvillette’s simple gameplay and easy setups. Nevertheless, the composition can still be considered for players who want to free up Furina and Kazuha, both of whom are popular synergies with Neuvillette but are also valued in many other teams. In addition, with further investment through Constellations like Nilou’s C2, Neuvillette’s C1, and Nahida’s C2, and weapons like Key of Khaj-Nisut and Thousand Floating Dreams, this team will have good Bloom and non-reaction damage alike.
+Example Rotation
+Neuvillette E > Nilou E N2 E > Nahida E Q > Baizhu EQ > Neuvillette C Q E C > Baizhu E > Neuvillette 2[C]
+Rotation Video by pjeljr
+Nilou — Furina — Nahida — Baizhu
+Nilou — Furina — Nahida — Baizhu
+Bountiful Bloom teams with Furina can quickly gather Fanfare points thanks to Bloom’s self-damage, Furina’s teamwide HP drain, and a healer. Baizhu is the best healer for this slot due to his strong teamwide healing and off-field Dendro application. As Fanfare points increase incoming healing, this can combine with Furina’s A1 Passive to offset the HP loss that would otherwise overwhelm this team.
+Once every character uses their Skill, Furina’s Salon Members automatically produce Dendro Cores, so players can focus on dodging enemy attacks, mark new waves of enemies with Nahida’s Skill, and keep Dendro auras on enemies by using Nahida’s Normal Attacks.
+This team improves with vertical investment, as both Furina and Nahida have high-value Constellations that significantly improve their damage or utility.
+Example Rotation
+Baizhu E > Nilou E N2 E > Nahida E Q > Furina ED Q > Baizhu E¹Q > Nahida combo
+¹Baizhu’s second Skill can be used at different times according to convenience.
+Rotation Video by .jdha
+Nilou — Furina — Alhaitham — Baizhu
+Nilou — Furina — Alhaitham — Baizhu
+Alternatively, Alhaitham can be used over Nahida due to his better use of Furina’s buffs and higher personal damage. Baizhu can help quickly stack Fanfare points within his short field time, and his A4 Passive allows Alhaitham to deal high Bloom damage even with his standard build. If trying to fit a second use of Baizhu’s Skill, consider using a longer rotation where Alhaitham has two split field times. In this case, consider performing Normal Attacks between Alhaitham’s Burst and his field time to proc Favonius’s passive.
+If Furina is C6, she can perform teamwide healing with her Ousia state, so it becomes possible to replace Baizhu with Nahida to significantly boost this team’s damage.
+Long Rotation
+Nilou E N2 E > Baizhu EQ > Furina ED Q > Alhaitham hEP 2[N3D] > Baizhu E > Alhaitham Q > Baizhu N2 > Alhaitham 2[N3D] E 2[N3D]
+Short Rotation
+Nilou E N2 E > Baizhu EQ > Furina ED Q > Alhaitham Q > Baizhu N2 > Alhaitham 2[N3D] E [2N3D] C 2[N3D]
+Rotation Video by .jdha
+Xingqiu or Yelan Double Hydro
+Nilou — Xingqiu / Yelan — Dendro — Dendro
+Teams with Xingqiu or Yelan can take advantage of their fast, long-lasting off-field Hydro application, as well as their other assets like damage reduction and personal damage. While building high EM on them is viable, the low drop rate of pieces with an EM main stat and their strong personal damage make regular builds arguably better, especially with Constellations. With Key of Khaj-Nisut, Baizhu, 4pc Instructor, or other external buffs to Bountiful Bloom damage, players can freely use regular builds on Xingqiu and Yelan and take advantage of their strong single-target non-reaction damage, which can ameliorate typically unfavorable enemy scenarios.
+Nilou — Xingqiu — Nahida — Yaoyao
+Nilou — Xingqiu — Nahida — Yaoyao
+This team uses reasonably accessible units to consistently generate Dendro Cores while having improved single-target damage thanks to Xingqiu. For those with Yaoyao’s C6, it becomes more viable to replace Nahida with another Dendro unit due to Yaoyao’s improved Dendro application. Using Nahida as an on-fielder is much less of a concern in this team thanks to Xingqiu’s damage reduction and interruption resistance and Yaoyao’s increased Dendro RES during her Burst. Sacrificial Sword or Xiphos’ Moonlight on Xingqiu makes the team even more fail-safe since Nilou can use her Burst more frequently.
+Xingqiu’s Skill and Burst have a long cooldown, and the example rotation intends to have his cooldowns back when the rotation repeats. Adjust the rotation as needed if you want to start generating Bountiful Blooms earlier.
+Example Rotation
+Nahida E Q > Xingqiu E Q > Nilou E N2 E > Yaoyao E > Nahida combo
+Yaoyao’s Burst can be used as needed.
+Rotation Video by .jdha
+Nilou — Xingqiu — Alhaitham — Yaoyao / Kirara
+Nilou — Xingqiu — Alhaitham — Yaoyao / Kirara
+Using Alhaitham instead of Nahida to apply Dendro has its pros and cons. Alhaitham boasts higher personal damage than Nahida, which can improve the team’s performance against a single enemy. Yaoyao’s Yuegui and Kirara’s C4 can apply the 4pc Deepwood Memories debuff from off-field, and Alhaitham’s situational mobility from his Skill can reduce inconveniences that Bountiful Bloom teams would otherwise experience against multiple waves of enemies spawning in undesired locations.
+However, Alhaitham’s ER requirement may be noticeably higher when not using Nahida as a second Dendro unit. If he fails to consistently use his Burst and attack enemies with 3 Mirror stacks, it’s more difficult to maintain Dendro aura on enemies, and a defensive Dendro unit with low EM may take some Bloom ownership. Alhaitham also has no way to heal himself or increase his resistance to interruption, which makes it important to use Xingqiu over Yelan and have Yaoyao or Kirara well-built.
+When Alhaitham is on-field, it is preferable for him to switch out once he can no longer maintain 3 Mirror stacks. A rotation using Alhaitham’s split or extended field isn’t restrictive to what defensive unit is chosen; the viability of each rotation depends on enemy lineups and players’ preferences.
+Yaoyao Variation
+Yaoyao E > Nilou E N2 E > Alhaitham Q > Xingqiu Q N1 > Alhaitham 2[N3D] E 2[N3D] C 2[N3D] > Xingqiu E
+Yaoyao’s Burst can be used as needed.
+Rotation Video by .jdha
+Kirara Variation
+Nilou E N2 E > Kirara shEQ > Xingqiu EQ > Alhaitham hEP 2[N3D] > Kirara shE > Alhaitham Q > Xingqiu N2 > Alhaitham 2[N3D] C 2[N3D]
+Rotation Video by .jdha
+Nilou — Xingqiu — Kaveh — Nahida
+Nilou — Xingqiu — Kaveh — Nahida
+Kaveh is a durable on-field character. His overall great interruption resistance combined with Xingqiu’s damage reduction and interruption resistance minimizes the difficulty of playing this team. By using Favonius Greatsword and EM build, Kaveh can lower the team’s ER requirements while reliably out-healing Bloom’s self-damage.
+Nahida can use Prototype Amber to keep the team alive. However, using Kirara, Yaoyao or Baizhu is an option if you desire further comfort.
+Nahida Variation
+Nilou E N2 E > Nahida E (Q) > Xingqiu EQ > Kaveh Q combo
+Rotation Video by pjeljr
+Baizhu Variation
+Baizhu EQ > Nilou E N2 E > Xingqiu EQ > Kaveh Q combo
+Rotation Video by pjeljr
+Nilou — Yelan — Nahida — Baizhu
+Nilou — Yelan — Nahida — Baizhu
+This team has a high damage ceiling due to its high-value Constellations across multiple characters. With increased vertical investment, Yelan's Constellations allow her to build for non-reaction damage while still dealing a fairly high amount of Bountiful Bloom damage, thanks to buffs from Key of Khaj-Nisut, Thousand Floating Dreams, and Baizhu's A4 Passive. Nahida can also deal high non-reaction damage with her C6. Yelan’s C4 also makes Nilou and Baizhu easier to build.
+When Yelan is on-field, she can also benefit from her own A4 Passive and Nahida’s A1 Passive for non-reaction damage and Bountiful Bloom damage respectively. Yelan’s Burst does not expire when she leaves the field, so Nahida can freely switch in and mark new waves of enemies to make up for Baizhu’s weak Dendro application. This team is very easy and comfortable to play thanks to Yelan’s straightforward kit and Baizhu’s almost unrivaled healing.
+Example Rotation
+Baizhu E > Nilou E N2 E > Nahida E Q > Baizhu E¹Q > Yelan Q combo
+¹Baizhu’s second Skill can be used at different times according to convenience.
+Rotation Video by pjeljr
+Triple Hydro
+Nilou — Kokomi / Sigewinne — Hydro — Dendro
+Triple Hydro teams have the Dendro unit trigger more Blooms than usual, as enemies constantly have their Hydro or Dendro aura removed due to having many sources of Hydro application. This leads to inconsistent Bountiful Bloom ownership as well as more varied Bloom damage due to Nilou and a healer not building high EM. The Dendro unit has to be on-field to consistently trigger Blooms, and this mandates Hydro healers like Kokomi and Sigewinne.
+As Triple Hydro teams have inconsistent Bloom damage and potential survival issues, they often include healers with high HP like Kokomi or Barbara to maximize healing, alongside a Hydro unit that aids in improving the team’s non-reaction damage.
+Nilou — Kokomi / Barbara — Xingqiu / Yelan — Nahida
+Nilou — Kokomi — Xingqiu / Yelan — Nahida
+Nahida’s 1.5U Dendro application causes the Hydro characters to trigger a noticeable portion of Blooms. Although a high-EM build is viable, Xingqiu and Yelan can still use their standard builds for non-reaction damage. Maximize Kokomi or Barbara’s HP since Nahida is on-field more frequently and needs to survive.
+Kokomi + Yelan Variation
+Nilou E N2 E > Kokomi E > Yelan EQ > Nahida E combo > Yelan E¹ > Nahida combo
+¹Fit a second use of Yelan’s Skill during Nahida’s field time as appropriate.
+Rotation Video by pjeljr
+Nilou — Kokomi — Furina — Alhaitham
+Nilou — Kokomi — Furina — Alhaitham
+Without Nahida, Triple Hydro teams experience issues with Dendro Core production due to the Dendro character’s application downtime. This team utilizes Alhaitham’s high Dendro application and long field time, as well as Furina buffing both her and Alhaitham’s non-reaction damage, to have good performances in single-target and AoE scenarios alike.
+Due to inconsistency in Bloom ownership, Alhaitham performs similarly between full-EM and standard builds. He can use 4pc Deepwood Memories to improve Bloom damage and his non-reaction damage.
+Example Rotation
+Furina ED Q > Nilou E N2 E > Alhaitham Q > Kokomi E > Alhaitham 2[N3D] > Kokomi Q¹ > Alhaitham hEP 2[N3D]
+¹Use Kokomi’s Burst to refresh her jellyfish.
+Rotation Video by pjeljr
+Nilou — Sigewinne — Xingqiu / Yelan / Furina — Nahida / Alhaitham
+Nilou — Sigewinne — Xingqiu / Yelan / Furina — Nahida / Alhaitham
+Sigewinne has the highest amount of off-field healing out of any Hydro character, and she only has to use her Skill to keep the team alive. As Sigewinne has low off-field Hydro application, she hardly ever triggers any Blooms; other Hydro units generate the majority of Bountiful Cores. This is helpful if Xingqiu or Yelan are built with high EM, and it helps remedy the aforementioned issues of Triple Hydro teams' inconsistent Bloom damage and shaky survivability.
+If paired with Furina, Sigewinne’s gradual healing helps stack Fanfare points, and her buff further boosts Furina’s Skill’s damage. Xingqiu or Yelan can be chosen depending on whether you prefer interruption resistance or shorter rotation length. To make the most value out of Furina in this team, consider using Alhaitham.
+The example rotations below assume Alhaitham has a single long field time. Refer to the above team’s rotation for variations with split time.
+Xingqiu Variation
+Xingqiu EQ > Nilou E N2 E > Alhaitham Q > Sigewinne tE > Alhaitham combo
+Furina Variation
+Furina ED Q > Nilou E N2 E > Alhaitham Q > Sigewinne tE > Alhaitham combo
+C6 Forward Vaporize (Speedrun)
+C6 Nilou — C6 Yelan — Anemo — Pyro
+C6 Nilou’s niche in Vaporize teams comes from her synergy with C6 Yelan in speedruns. Nilou has a Burst that can trigger Forward Vape twice and a teamwide EM buff through Key of Khaj-Nisut. Nilou’s contribution to Hydro Resonance and reasonable ER requirements also make this team a good option for speedrunners. Furthermore, the team can split the damage as needed since Nilou’s Burst, Yelan’s multiple Skills, and Yelan’s C6 all deal significant damage on their own.
+The remainder of the team consists of an Anemo unit and a Pyro unit. The Anemo unit provides grouping, 4pc VV RES Shred, and buffs relevant to Vaporize, while the Pyro unit enables Forward Vape by allowing the Anemo unit’s Burst to absorb Pyro. 4pc Instructor is recommended on the Pyro unit due to their minimal damage contribution.
+When playing Forward Vape, it is advised to end Nilou’s Skill with Sword Dance in order to avoid an extra instance Hydro application from Whirling Steps that may otherwise interfere with Vaporizing important attacks.
+Notable Teammates
+Hydro
+Anemo
+Pyro
+Hydro
+Yelan
+(C6)
+C6 Yelan front-loads a significant amount of damage by Vaporizing her Skill and consecutively using her Mastermind Breakthrough Barbs. Yelan and Nilou both make good use of Yelan’s A4 Passive.
+Anemo
+Kazuha
+Kazuha is the best choice for an Anemo unit due to his grouping, 4pc VV RES Shred, Elemental DMG Bonus, and 200 EM Bonus from his C2. He can provide further support with Freedom-Sworn or Xiphos’ Moonlight.
+Sucrose
+When Kazuha is not available, Sucrose is the best alternative due to her EM buffs.
+Pyro
+Xiangling
+Xiangling easily enables Kazuha or Sucrose’s Burst to absorb Pyro through her Elemental Skill, as Guoba briefly self-infuses Pyro at regular intervals. Her Burst has no ICD, which means consecutive Forward Vapes become easier to execute if you carefully time your inputs.
+Detailed information on Guoba’s mechanics can be found in the
+Xiangling Extended Guide
+.
+Klee
+(C2)
+Klee becomes the best support for this team thanks to her C2’s DEF Shred. A Thousand Floating Dreams can be used for its partywide EM buff.
+Bennett
+Bennett is an overall underwhelming option since Nilou and Yelan scale purely with HP. While he has strong Pyro application with his Skill and Burst, he lacks any off-field Pyro application. However, he can still be considered for comfort with his healing and easy setups.
+Example Teams
+Forward Vape — Klee
+C6 Nilou — C6 Yelan — Kazuha — C2 Klee
+Klee’s DEF Shred from her C2, access to Thousand Floating Dreams, and lack of concern for Energy make her a consistently good support for this team. Unlike when using Xiangling, make sure that at least one enemy has a Pyro aura before using Kazuha’s Burst to make sure that his Burst absorbs Pyro. Since Yelan’s Burst applies 2U of Hydro, consider missing her Burst’s initial hit so that Klee can quickly apply Pyro to an enemy.
+This team may face more difficulties against multiple waves of enemies unless they spawn in similar locations and can be defeated before Kazuha’s Burst expires.
+Example Rotation
+Yelan Q > Nilou E N3 > Klee E > Kazuha Q > Nilou Q > Yelan E combo > Yelan combo
+This rotation is extremely flexible, especially in speedruns where the goal is minimizing clear time as opposed to doing the maximum possible damage. The order of teammate abilities may be changed, and the rotation may be extended to generate Energy if needed.
+Forward Vape — Xiangling
+C6 Nilou — C6 Yelan — Kazuha — Xiangling
+Xiangling has narrower options to support this team, and her high demand for Energy makes it trickier to utilize 4pc Instructor. However, she can skip her Burst against weaker enemies, and players can still perform Forward Vape setups with Xiangling’s Skill and Kazuha’s Burst.
+Despite lacking Klee’s aforementioned utilities, using Xiangling can result in faster clears in practice as it becomes much easier to consecutively Forward Vape multiple hits with Xiangling’s Burst, Skill, and Kauzha’s Burst. When facing distanced enemies, the mobility of Xiangling’s Burst also comes in handy.
+Keep in mind that rotations are rarely immutable, and this is especially true in speedruns where the goal is minimizing clear time as opposed to doing the maximum possible damage. To minimize clear time, take full advantage of Xiangling’s ability to apply Pyro for an extended amount of time and be flexible with rotations depending on how much damage is needed to clear a chamber.
+Example Rotation
+Yelan Q > Nilou E N3 > Xiangling (Q) E > Kazuha Q > Nilou Q > Yelna E Combo > Yelan combo
+This rotation is extremely flexible, especially in speedruns where the goal is minimizing clear time as opposed to doing the maximum possible damage. The order of teammate abilities may be changed, and the rotation may be extended to generate Energy if needed.
+Speedrun Showcase by isilas
+Other Potential Teams With Nilou
+As Nilou’s kit is mostly focused on Bountiful Bloom teams, she sees little use in other team archetypes. However, there are a few teams where Nilou can be a niche yet viable option due to her status as a Hydro unit and her ability to maximize Key of Khaj-Nisut’s weapon passive. Do note that using Nilou in the following teams is not an optimal choice for most players.
+Reverse Vape — Arlecchino
+Arlecchino — Bennett — Nilou — Flex
+Arlecchino can consistently Vaporize a portion of her Normal Attacks with Nilou as the only source of Hydro application. Key of Khaj-Nisut’s EM buff can also come in handy. With no concerns for ER requirements, this team remains convenient to play as Nilou does not need Burst to provide off-field Hydro application.
+Reverse Vape — Hu Tao
+Hu Tao — Xingqiu / Yelan — Nilou — Flex
+Similarly to Arlecchino, Hu Tao also benefits from Nilou’s Hydro application and Key of Khaj-Nisut’s EM buff. However, as Hu Tao Vaporizes her hits far more often, she prefers having a second Hydro unit who can help maintain the Hydro aura on enemies and activate Hydro Resonance.
+Freeze
+Cryo — Cryo — Nilou — Anemo
+Nilou’s off-field Hydro application with a decent AoE can be useful in Freeze teams. Unlike Xingqiu and Yelan, Nilou does not require frequent Normal Attacks from an active character in order to apply Hydro. However, she doesn't do much in Freeze teams besides applying Hydro, which can make her a subpar choice compared to other Hydro units with more support utility.
+Mono Hydro
+Nilou — Furina — Xingqiu / Yelan — Jean
+If trying to play Nilou on-field without significant investment into Constellations and weapons, players can consider playing her in Mono Hydro teams. Nilou can take advantage of Furina’s buffs through Fanfare points and 4pc Viridescent Venerer’s Elemental RES Shred while using Normal Attacks in her Sword Dance state to trigger Xingqiu or Yelan’s Burst. Consider gearing Nilou with 4pc Marechaussee Hunter and weapons like Splendor of Tranquil Waters, Mistsplitter Reforged, Wolf-Fang, or Festering Desire to get the best results.
+Credits
+Official Art by
+Genshin Impact
+Writing:
+.jdha
+Special Thanks:
+chibichu, pjeljr, isilas
+Editing:
+cuppacote,
+au_rio,
+notnilou, nova_licious, irokei, idkanonymized, polomo
+TC Verification:
+.tokkitsune, baloopy
+Document Formatting:
+cuppacote
+Transcribers:
+chasing_haze
+References
+Nilou ER Calculation Sheet
+by .jdha

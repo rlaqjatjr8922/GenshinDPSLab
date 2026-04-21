@@ -1,0 +1,133 @@
+0
+Bookmark (
+0
+)
+Please login to bookmark
+Close
+Username or Email Address
+Password
+Remember Me
+Don't have an account? Register here.
+Create an account to bookmark articles.
+Username
+*
+3-60 characters, letters, numbers, spaces, and these symbols: @._-
+Email
+*
+You will receive an email to set your password after registration.
+Subscribe to The Destructoid Checkpoint Newsletter
+Get the latest gaming news and updates delivered to your inbox.
+Create Account
+Already have an account? Sign in here.
+Back to top
+Home
+Guides
+Best Yelan Builds, Weapons, and Teams in Genshin Impact
+Would you like some more dice in your gacha game?
+Christine Choi
+| Aug 21, 2023 10:23 am
+Image via HoYoverse
+Yelan is a 5-star Hydro Bow user in
+Genshin Impact
+who excels as an off-field DPS. This guide will cover Yelan’s best weapons, artifacts, and teams to ensure your battles always end in your favor.
+Recommended Videos
+Playstyles
+Yelan is typically used as an off-field DPS. Her teams usually feature someone else on-field using their Normal Attacks to proc her damaging Burst waves. Yelan’s combo is usually Skill, then Burst, then swap to other characters. To get the most damage from her Burst, consider weaving Normal Attacks in between your other characters’ actions and swaps in order to trigger more waves.
+Using her Skill twice in a rotation will help provide Energy, but can prolong your rotation. You should choose whether you want to do longer rotations, build her with more Energy Recharge, or use her with specific teammates who provide Energy.
+Pulling for
+Yelan’s Constellations will boost her damage and give her more incentive to spend time on-field, but she is already a powerhouse at C0.
+Screenshot by Destructoid
+Weapons
+Aqua Simulacra
+– Yelan’s signature 5-star Bow and her best-in-slot. Aqua has a CRIT DMG secondary stat and its passive grants additional DMG Bonus when you are near an enemy. The passive’s range is pretty generous, and you shouldn’t have a problem maintaining its uptime unless you specialize in ranged Normal Attack damage (i.e., Yoimiya).
+Favonius Warbow
+– Yelan requires a lot of Energy, and this 4-star weapon is the best at providing Energy. Its low Base ATK doesn’t matter to Yelan since she scales with HP instead. With Favonius, Yelan is able to use an HP Sands where she would otherwise require Energy Recharge. Best of all, you get a Favonius Warbow automatically upon finishing the Mondstadt Archon Quests, making it completely accessible to free-to-play players.
+Elegy for the End
+– The 5-star Elegy also provides Energy Recharge, allowing Yelan to focus more on HP with her artifacts. Its passive grants Elemental Mastery and ATK to the entire team. Yelan herself doesn’t benefit from these stats, but they contribute to overall team damage in Vaporize or Bloom-based teams.
+Sacrificial Bow
+– This 4-star Bow allows Yelan to use her Skill twice in a row, mimicking her Constellation 1. This can be good for generating more Hydro Particles to satisfy Yelan’s insatiable thirst for Energy.
+Screenshot by Destructoid
+Artifacts
+4pc Emblem of Severed Fate (4EoSF)
+– Yelan needs Energy Recharge and most of her damage comes from her Burst, making her a great 4EoSF user. There really isn’t any other set that comes close to 4EoSF in damage, so you should really try for a full set if at all possible.
+2pc HP / 2pc Energy Recharge / 2pc Hydro DMG combos
+– While you’re working towards a full 4EoSF set, you can mix and match 2pc sets that grant useful stats.
+Artifact Stats
+Sands
+Goblet
+Circlet
+Energy Recharge
+HP
+Hydro DMG
+HP
+CRIT Rate/DMG
+HP
+Yelan’s Energy Recharge needs can be quite high, reaching over 200% in some teams. With another Hydro teammate and a Favonius/Sacrificial weapon, this can be lowered to about 160-170%. I find 190% to be a comfortable ER threshold as long as I pair her with Raiden or Xingqiu for additional Energy.
+The rest of your stats should focus on CRIT and HP. Yelan’s Skill and Burst damage both scale with her max HP, so
+you can avoid ATK altogether.
+You can use HP main stat artifacts with good substats as long as you have enough Energy Recharge. Try to avoid going triple HP if you can though.
+Screenshot by Destructoid
+Teams
+Hydro is an extremely flexible element in
+Genshin Impact
+, and off-field Hydro is especially valuable.
+Yelan’s kit shares similarities with Xingqiu’s, allowing them to be largely interchangeable. However, Yelan and Xingqiu together form a powerful double Hydro pair that can be slotted into any team that uses Normal Attacks. Having the two together also means they can provide Energy for each other, lowering both of their Energy Recharge requirements.
+Vaporize
+The classic Vaporize team consists of a Pyro DPS that uses Yelan’s Hydro to trigger Vaporize. There’s quite a lot of flexibility in this team.
+Pyro DPS
+– You have several options for this role, including Hu Tao, Yoimiya, Diluc, and Xiangling. Xiangling is notable because she does not require field time, so you can have someone else on-field instead. If you choose to use Xiangling, you should pair her with Bennett.
+Anemo Support
+– While not strictly necessary, having an Anemo unit with 4pc Viridescent Venerer will increase your elemental damage by lowering enemy RES. If they have crowd-control abilities, then they will also help your team hit multiple enemies at once. Good options for this role are Kazuha, Venti, or Sucrose.
+Flex
+– You have a lot of options for the last slot. Xingqiu is recommended as a second Hydro unit. Otherwise, you can bring a shielder or healer like Zhongli or Diona. Bennett is particularly good for his massive ATK buff and to provide Energy for your Pyro DPS.
+Nilou Bloom / Hyperbloom / Burgeon
+Yelan is a great Hydro source for Bloom-based teams as long as you are able to use Normal Attacks.
+Dendro Enabler
+– Practically any Dendro character works here, with the best options being Nahida and Alhaitham. Dendro Traveler or Collei can work too though, and if you need a healer, Baizhu and Yaoyao are fine options. You can even double up and bring two Dendro units if you wish!
+Nilou
+– Mandatory for Nilou Bloom teams. If playing this team, you should pick two Dendro units from the above list, making sure one of them is a healer.
+Electro Applier
+– Required for Hyperbloom teams. Kuki Shinobu or Raiden are best for this. Make sure that they are built with full Elemental Mastery.
+Pyro Applier
+– Required for Burgeon teams. Thoma is the best for this role, and he should be built with full Elemental Mastery. If playing Burgeon, I recommend bringing Xingqiu to help reduce Burning.
+0
+Christine Choi
+Contributing Writer - Christine has been gaming since she first stole her brother's Game Boy as a kid. She's come a long way since then and has been creating content for Genshin Impact since 2021.
+Tags:
+Genshin Impact
+guides
+HoYoverse
+miHoYo
+mobile
+PC
+PS4
+PS5
+0
+Bookmark (
+0
+)
+Please login to bookmark
+Close
+Username or Email Address
+Password
+Remember Me
+Don't have an account? Register here.
+Create an account to bookmark articles.
+Username
+*
+3-60 characters, letters, numbers, spaces, and these symbols: @._-
+Email
+*
+You will receive an email to set your password after registration.
+Subscribe to The Destructoid Checkpoint Newsletter
+Get the latest gaming news and updates delivered to your inbox.
+Create Account
+Already have an account? Sign in here.
+Share
+this article
+Destructoid is supported by our audience. When you purchase through links on our site, we may earn a small affiliate commission.
+Learn more about our Affiliate Policy
+.
+Like our content? Set Destructoid as a
+Preferred Source on Google
+in just one step to ensure you see us more frequently in your Google searches!

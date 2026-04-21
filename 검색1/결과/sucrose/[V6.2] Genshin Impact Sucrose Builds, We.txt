@@ -1,0 +1,272 @@
+Home
+Blog
+Genshin Impact Hub
+[V6.2] Genshin Impact Sucrose Builds, Weapons & Team Comps!
+[V6.2] Genshin Impact Sucrose Builds, Weapons & Team Comps!
+Alexa Hunter
+Dec 11, 2025
+Share
+Sucrose is a 4-star Anemo Catalyst wielder who functions as a versatile support character specializing in Elemental Mastery sharing and crowd control. Her kit revolves around buffing teammates' Elemental Mastery through her passive talents while providing consistent Anemo application for Swirl reactions and enemy grouping. This
+Sucrose build guide
+covers her complete build optimization, including her talent priorities, recommended weapons and artifacts, the best team compositions, and her constellation value analysis.
+🔥 Bonus Tip:
+For exclusive discounts on your next
+Genshin top up
+, visit
+Lootbar.gg
+!
+Secure Your Gaming Top-Up with Smart Savings on LootBar
+Premium Top-Up Service Tailored for Your Game.
+3-Minute Delivery for Non-Stop Gaming.
+Trusted 4.9/5 on Trustpilot, 10/10 among Players.
+Official Partnership Route, Protect Your Game Wallet.
+Top Up With Discount Now!
+Sucrose Character Profile
+Sucrose Information
+Character Information
+Sucrose
+Rarity
+★ ★ ★ ★
+Element
+Anemo
+Weapon
+Catalyst
+Progression Bonus
+Anemo DMG Bonus +32%
+Combat Role
+Support / EM Buffer / Swirl Driver
+Sucrose Gameplay
+Sucrose's gameplay centers around her ability to share Elemental Mastery with teammates through her passive talents. Her A1 Passive, grants 50 Elemental Mastery to party members with the matching element for 8 seconds whenever Sucrose triggers a Swirl reaction. Her A4 Passive, grants all party members (excluding Sucrose) 20% of Sucrose's own Elemental Mastery for 8 seconds when her Elemental Skill or Burst hits an opponent. This makes stacking Elemental Mastery on Sucrose incredibly valuable, as she can share hundreds of EM to her entire team.
+Her Elemental Skill creates a small Wind Spirit that pulls opponents and objects towards its location before launching them, dealing Anemo damage and generating 4 energy particles when hitting at least one target. The skill's short cooldown and grouping capability make it excellent for both crowd control and energy generation. Her Elemental Burst hurls an unstable concoction that creates a Large Wind Spirit (Crystalfly) which continuously pulls and launches nearby enemies while dealing AoE Anemo damage over 6 seconds. The Burst can absorb Hydro, Pyro, Cryo, or Electro elements to deal additional elemental damage with each pulse.
+Her primary strengths include providing massive Elemental Mastery buffs that dramatically increase reaction damage, excellent crowd control from both Skill and Burst with consistent enemy grouping, holding Viridescent Venerer 4-piece to shred enemy elemental resistance by 40%, versatile playstyle working as both off-field support and on-field driver, and being easily accessible as a 4-star character with high constellation potential. She functions effectively at C0, making her extremely F2P-friendly.
+However, she has some limitations. Her Burst's Elemental Absorption can be inconsistent and difficult to control, often absorbing undesired elements. Her crowd control is less powerful than Venti or Kazuha against heavier enemies. Her personal damage is relatively low compared to other Anemo characters. Most of her value lies in her passive talents rather than her active abilities, meaning talent levels are less impactful.
+Upcoming Hexerei Buffs (Version 6.2)
+In the upcoming Version 6.2 update, Sucrose will receive significant buffs through the Hexerei Resonance mechanic after completing Witch's Homework: Of Wonderland Flowers. These buffs activate when paired with at least one other Hexerei character (Durin, Venti, Klee, Albedo, Mona, Fischl, or Razor).
+The core buff introduces the "Witch's Eve Rite: Sevenfold Transmutation" passive: When Sucrose creates a Small Wind Spirit (using her Elemental Skill), nearby party members gain a 5.7% increase to all damage types (Normal Attacks, Charged Attacks, Plunging Attacks, Elemental Skills, and Elemental Bursts) for 15 seconds. When she creates a Large Wind Spirit (using her Elemental Burst), nearby Hexerei characters gain an even stronger 7.1% increase to all damage types for 20 seconds.
+Her C6 constellation also receives a significant enhancement in Version 6.2. In addition to its original effect (granting 20% Elemental DMG Bonus when the Burst absorbs an element), C6 will now also provide an 8.5% Elemental DMG Bonus specifically to Hexerei character teammates, making it significantly more valuable in Hexerei team compositions.
+These buffs transform Sucrose from purely an Elemental Mastery support into a dual-purpose character who provides both EM sharing and flat damage amplification. The damage buffs are universal and stack with her existing EM sharing capabilities, making her an even more valuable team member in Hexerei compositions. While the percentage increases may seem modest, they apply to all damage instances and synergize with her frequent skill and burst usage.
+Sucrose Talent Priority
+Sucrose's talent priority is relatively low compared to other characters because most of her value comes from her passive talents and artifact set rather than her active abilities.
+Talent
+Priority
+Elemental Skill
+★ ★ ★ (Medium)
+Elemental Burst
+★ ★ ★ (Medium)
+Normal Attack
+★ (Lowest)
+Elemental Skill - Astable Anemohypostasis Creation - 6308
+Level Sucrose's Elemental Skill first if you plan to invest in her talents at all. The Skill provides crowd control, generates energy particles, and triggers her A4 Passive to share Elemental Mastery with the team. Each cast applies Anemo and can trigger Swirl reactions, activating both her A1 and A4 Passives. The short cooldown (15 seconds base, or 13 seconds at C1 with two charges) makes it her most frequently used ability. However, the damage scaling is relatively low, so leveling it past 6 is optional unless pursuing higher personal damage.
+Elemental Burst - Forbidden Creation - Isomer 75 / Type II
+Level Sucrose's Elemental Burst second, though priority depends on team composition. The Burst creates a Large Wind Spirit that continuously pulls and launches enemies while dealing Anemo damage and potentially absorbing elements. For on-field driver builds where Sucrose uses her Burst frequently, leveling it provides more value. For pure support builds where field time is limited, Burst levels are less critical. The main value comes from triggering Viridescent Venerer and her passive talents rather than raw damage.
+Normal Attack - Wind Spirit Creation
+Normal Attack investment is the lowest priority for support Sucrose. Her Normal Attack is a 4-hit combo with relatively low base damage used primarily for applying Anemo when on-field as a driver. For on-field driver builds in Electro-Charged or Hyperbloom teams, some investment can be worthwhile, but it remains the least important talent overall. Most Sucrose builds leave Normal Attacks at level 1.
+Welkin Moon for just
+$2
+?—Claim Yours Now!
+Blessing of the Welkin Moon
+Limited-Time Offer:
+$2
+|
+$4.99
+P.S. This is a limited-time offer from LootBar, exclusively for
+LootBar's new users
+! Only
+200 Blessings of the Welkin Moon
+are available—first come, first served. Don’t miss out—claim yours now!If all Welkin Moons have been claimed, you’ll receive a
+10% OFF coupon
+instead.
+Sucrose Best Weapons
+Sucrose's best weapon varies depending on your preferred role and team needs. For
+Support builds
+, Elemental Mastery weapons maximize her EM sharing. For
+Utility builds
+, team buffing weapons like Thrilling Tales provide greater overall team value.
+Elemental Mastery Support Weapons
+Option 1
+Sacrifical Fragments (4★)
+Base ATK
+: 454
+Bonus Stat
+: Elemental Mastery +221
+Weapon Effect
+(R5): After damaging an opponent with an Elemental Skill, the skill has an 80% chance to end its own CD. Can only occur once every 14s.
+Option 2
+A Thousand Floating Dreams (5★)
+Base ATK
+: 542
+Bonus Stat
+: Elemental Mastery +265
+Weapon Effect
+(R1):
+Party members other than the equipping character will provide the equipping character with buffs based on whether their Elemental Type is the same as the latter or not. If their Elemental Types are the same, increase Elemental Mastery by
+32
+. If not, increase the equipping character's DMG Bonus from their Elemental Type by
+10%
+. The aforementioned effects can have 3 stacks. Additionally, all nearby party members other than the equipping character will have their Elemental Mastery increased by
+40
+. Multiple such effects from multiple such weapons can stack.
+Option 3
+Fruit of Fulfillment (4★)
+Base ATK
+: 510
+Bonus Stat
+: Energy Recharge +45.9%
+Weapon Effect
+(R5): Obtain the "Wax and Wane" effect after obtaining an Elemental Orb/Particle, gaining 36 Elemental Mastery for 12s. Max 5 stacks. Additionally, for every party member of the same Elemental Type as the wielder, gain 1 stack every 6s. Max 3 stacks.
+Option 4
+Magic Guide (3★)
+Base ATK
+: 354
+Bonus Stat
+: Elemental Mastery +187
+Weapon Effect
+(R5): Increases DMG against opponents affected by Hydro or Electro by 24%.
+Team Utility Weapons
+Option 1
+Thrilling Tales of Dragon Slayers (3★)
+Base ATK
+: 401
+Bonus Stat
+: HP +35.2%
+Weapon Effect
+(R5): When switching characters, the new character taking the field has their ATK increased by 48% for 10s. This effect can only occur once every 20s.
+Option 2
+Hakushin Ring (4★)
+Base ATK
+: 565
+Bonus Stat
+: Energy Recharge +30.6%
+Weapon Effect
+(R5): After the character equipped with this weapon triggers an Electro-related Elemental Reaction, nearby party members of an Elemental Type involved in the elemental reaction receive a 20% Elemental DMG Bonus for their element, lasting 6s.
+Option 3
+Prototype Amber (4★)
+Base ATK
+: 510
+Bonus Stat
+: HP +41.3%
+Weapon Effect
+(R5): Using an Elemental Burst regenerates 18 Energy over 6s. All party members will regenerate 6% HP every 2s for this duration.
+Sucrose Best Artifacts & Stats
+Sucrose's artifact selection is straightforward, with Viridescent Venerer being the universally best choice for nearly all builds.
+Viridescent Venerer:
+Best artifact set for Sucrose in nearly all situations. The 40% elemental resistance shred is incredibly powerful and benefits the entire team. The 60% Swirl damage increase also boosts her personal damage. This set is essential for maximizing team damage in reaction-based compositions.
+Instructor:
+Budget early-game option before AR 45. Provides massive EM sharing (120 EM teamwide) on top of Sucrose's passive talents. Maximum rarity is 4-star (+16), making it inferior at endgame but useful for new players.
+Support Build Artifacts & Stats
+Viridescent Venerer
+2-PC
+: Anemo DMG Bonus +15%
+4-PC
+: Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s.
+Instructor
+2-PC
+: Elemental Mastery +80
+4-PC
+: Upon triggering an Elemental Reaction, increases all party members' Elemental Mastery by 120 for 8s.
+Main Stat
+Sands: Elemental Mastery
+Goblet: Elemental Mastery
+Circlet: Elemental Mastery
+Sub Stat
+Elemental Mastery > Energy Recharge > ATK%
+Sucrose Best Team Compositions
+Sucrose's versatility allows her to fit into numerous team archetypes, particularly those focused on Elemental Reactions.
+1. Electro-Charged Team
+Electro-Charged teams leverage Sucrose as an on-field driver who continuously triggers Swirl while maintaining both Hydro and Electro auras on enemies for rapid chain reactions.
+Driver/Support
+Sub DPS
+Sub DPS
+Healer/Support
+Sucrose (4★)
+Fischl (4★)
+Beidou (4★)
+Xingqiu (4★)
+Sucrose (4★)
+Fischl (4★)
+Yelan
+(5★)
+Kuki Shinobu (4★)
+2. Hyperbloom Team
+Hyperbloom teams use Sucrose to trigger Swirl reactions while maintaining Dendro cores that are detonated by Electro application for massive single-target damage.
+Driver/Support
+Dendro Enabler
+Hydro Enabler
+Electro Trigger
+Sucrose (4★)
+Nahida
+(5★)
+Xingqiu (4★)
+Kuki Shinobu (4★)
+Sucrose (4★)
+Dendro Traveler (5★)
+Kokomi (5★)
+Raiden Shogun (5★)
+3. Vaporize Team
+Sucrose fits into National team variants, providing EM buffs for Pyro DPS's Vaporize reactions while offering Viridescent Venerer resistance shred.
+Support
+Pyro DPS
+Hydro DPS
+Buffer
+Sucrose (4★)
+Arlecchino
+(5★)
+Yelan
+(5★)
+Bennett (4★)
+Sucrose (4★)
+Xiangling (4★)
+Tartaglia (4★)
+Bennett (4★)
+Sucrose (4★)
+Xiangling (4★)
+Xingqiu (4★)
+Bennett (4★)
+Sucrose (4★)
+Diluc
+(5★)
+Xingqiu (4★)
+Bennett (4★)
+4. Freeze Team
+Freeze teams utilize Sucrose for grouping, Viridescent Venerer resistance shred, and EM sharing (which benefits from Shatter reactions).
+Support
+Main DPS
+Cryo Support
+Healer/Support
+Sucrose (4★)
+Ayaka (5★)
+Rosaria (4★)
+Kokomi (5★)
+Sucrose (4★)
+Ganyu (5★)
+Diona (4★)
+Mona
+(5★)
+Sucrose (4★)
+Wriothesley (5★)
+Layla (4★)
+Xingqiu (4★)
+Sucrose Constellations
+Sucrose is fully functional at C0, but her constellations provide meaningful improvements. As a 4-star character appearing regularly on banners, most players will naturally acquire constellations over time.
+C1 Performance
+Astable Anemohypostasis Creation - 6308 gains 1 additional charge.
+C1 is Sucrose's best constellation and represents a significant power spike. The additional Skill charge provides doubled energy generation (8 particles instead of 4), increased crowd control frequency, more consistent Viridescent Venerer uptime, and additional Swirl triggers for her A1 Passive. With Sacrificial Fragments, C1 enables up to 4 Skill casts in rapid succession (2 charges + 2 potential resets), creating exceptional energy generation and EM sharing uptime.
+C2 Performance
+The duration of Forbidden Creation - Isomer 75 / Type II is increased by 2s.
+C2 extends Sucrose's Burst duration from 6 seconds to 8 seconds, providing one additional pulse of the Large Wind Spirit. This translates to more damage, additional Swirl triggers, longer crowd control, and extended Viridescent Venerer window. The value is higher for on-field driver builds where Sucrose remains active during the full Burst duration.
+C4 Performance
+Sucrose will reduce the CD of Astable Anemohypostasis Creation - 6308 by 1-7s for every 7 Normal or Charged Attack hits she scores against opponents. This effect can occur once every second.
+C4 is Sucrose's most impactful constellation for on-field driver playstyles. By performing 7 Normal/Charged Attacks, Sucrose reduces her Skill cooldown by up to 7 seconds, effectively giving her near-permanent Skill uptime when actively attacking. Combined with C1's double charges, this creates incredible Skill spam potential for energy generation, Swirl triggers, and crowd control. Essential for maximizing on-field driver builds.
+C6 Performance
+If Forbidden Creation - Isomer 75 / Type II triggers an Elemental Absorption, all party members gain a 20% Elemental DMG Bonus for the corresponding absorbed element during its duration.
+C6 provides a powerful team-wide 20% Elemental DMG Bonus for the absorbed element, lasting for the Burst's full duration (8 seconds with C2). This buff affects the entire team and significantly increases damage in mono-element or focused elemental teams. The Elemental Absorption mechanic can be inconsistent, requiring careful execution to absorb the desired element. With Version 6.2 buffs, C6 also grants an additional 8.5% Elemental DMG Bonus specifically to Magic character teammates, making it even more valuable in Hexenzirkel compositions.
+Conclusion
+This comprehensive guide demonstrates Sucrose's position as one of the most valuable and accessible support characters in Genshin Impact. Her unique Elemental Mastery sharing mechanics, combined with Viridescent Venerer resistance shred and versatile playstyle options, make her an exceptional choice for reaction-based team compositions. As a 4-star character, she offers incredible value relative to her rarity, functioning effectively at C0 while gaining meaningful improvements from constellations that most players will naturally acquire over time.
+With the upcoming Version 6.2 Hexenzirkel buffs, Sucrose is poised to receive enhancements that expand her role from pure EM support into a dual-purpose buffer providing both Elemental Mastery sharing and universal damage amplification. The Witch's Eve Rite passive grants flat damage increases to all party members through her Skill (5.7%) and stronger buffs to Magic characters through her Burst (7.1%), while her enhanced C6 provides additional Elemental DMG bonuses. These updates ensure that the shy alchemist remains a top-tier support option in the evolving meta, particularly in Hexenzirkel team compositions.
+To fully unlock Sucrose's potential and enhance your overall team power, consider
+topping up on Genshin Impact
+resources through reliable top-up services to acquire the in-game currency needed for upgrades, weapons, and essential gear, ensuring that Sucrose and your other characters are ready for any challenge.
+Top Up With Discount Now!
+Alexa Hunter
+Gaming Writer
+Alexa Hunter has spent the past 7 years exploring the world of gaming, focusing particularly on light - hearted, relaxing titles like Whiteout Survival and AFK Journey. Her articles offer tips and guides on maximizing the enjoyment of these games on Lootbar.

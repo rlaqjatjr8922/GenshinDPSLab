@@ -1,0 +1,121 @@
+0
+Bookmark (
+0
+)
+Please login to bookmark
+Close
+Username or Email Address
+Password
+Remember Me
+Don't have an account? Register here.
+Create an account to bookmark articles.
+Username
+*
+3-60 characters, letters, numbers, spaces, and these symbols: @._-
+Email
+*
+You will receive an email to set your password after registration.
+Subscribe to The Destructoid Checkpoint Newsletter
+Get the latest gaming news and updates delivered to your inbox.
+Create Account
+Already have an account? Sign in here.
+Back to top
+Home
+Guides
+Best Lyney Builds, Weapons, and Teams in Genshin Impact
+Hold the Lyney.
+Christine Choi
+| Aug 16, 2023 10:18 am
+Lyney is a Pyro Bow DPS character
+introduced
+in Version 4.0 of
+Genshin Impact
+. This guide will cover Lyney’s best weapons, artifacts, and teams that will make your enemies disappear in a puff of smoke.
+Recommended Videos
+Playstyles
+Lyney’s kit encourages an on-field DPS playstyle. Furthermore, he prefers mono Pyro teams, or teams that focus primarily on pure Pyro damage with no reactions other than Swirl.
+His usual combo will be to perform two to four Charged Shots, then cast his Burst, then Skill. How many Charged Shots you’re able to fire will depend on your team and whether or not you get interrupted. In general, three Charged Shots is a good number to aim for. His Burst can be canceled early by pressing your Skill button, and you should take advantage of this when possible. Canceling early just shortens the time Lyney spends in his cat state, you’ll still get the big hit of Pyro damage at the end.
+Screenshot via Destructoid
+Weapons
+The First Great Magic
+– Lyney’s signature 5-star bow and uncontested best-in-slot. This bow was tailor-made for him.
+Aqua Simulacra or Thundering Pulse
+– These are great 5-star CRIT DMG stat sticks. Thundering Pulse’s passive doesn’t help Lyney, but he should be able to maintain Aqua’s buff with relative ease.
+Prototype Crescent or Song of Stillness
+– The free-to-play options that should do fairly well as long as you can maintain uptime on their passives.
+CRIT Rate weapons like Skyward Harp or Hunter’s Path can be considered
+only if Lyney is not running 4pc Marechausee Hunter.
+Screenshot via Destructoid
+Artifacts
+4pc Marechausee Hunter (4MH)
+– An interesting set that grants a massive amount of CRIT Rate when Lyney’s HP changes, whether by healing or taking damage. Lyney is able to consume his own HP with Charged Shots in order to activate this effect. This set bonus along with Lyney’s natural CRIT Rate Ascension stat brings Lyney to 75% CRIT Rate. It is his best artifact set by a wide margin, though it can make him slightly harder to build since it places greater emphasis on CRIT DMG artifact rolls.
+4pc Lavawalker (4LW)
+– A staple for mono Pyro teams, and still functional for Lyney. If you happen to already have a Lavawalker set lying around, then Lyney can use it. This set allows you to use CRIT Rate weapons without exceeding 100% CRIT Rate.
+2pc ATK / 2pc Pyro DMG / 2pc Normal/Charged Attack DMG combos
+– These are serviceable combos you can use while you are still farming for a full 4pc set. Mix and match with whatever you have.
+Artifact Stats
+Sands
+Goblet
+Circlet
+ATK
+Pyro DMG
+CRIT DMG
+CRIT Rate*
+*CRIT Rate Circlet only if not equipping 4pc Marechausee Hunter.
+Lyney works best in mono Pyro teams where there are one or two other Pyro units to help generate Energy. For these teams, try to shoot for around 140-150% Energy Recharge to allow him to use his Burst every rotation.
+With Lyney’s CRIT Rate Ascension stat and 4pc Marechausee Hunter, CRIT DMG substats become much more valuable than CRIT Rate. Use a CRIT DMG Circlet and don’t be too fussed if an artifact lacks CRIT Rate. ATK can be valuable too, though having Bennett in your team takes care of most of your ATK needs.
+Screenshot via Destructoid
+Teams
+Mono Pyro
+Lyney’s kit encourages mono Pyro teams. That’s not to say he
+can’t
+be used in other teams, but you’ll get the best results by focusing on Lyney’s pure Pyro damage. This generally consists of Bennett with two other flex units of your choice.
+Bennett
+– Provides a massive ATK buff and healing to offset Lyney’s HP consumption and to help him obtain 4MH stacks.
+Anemo Buffer
+– Kazuha works best in this role, but this can be any Anemo character with 4pc Viridescent Venerer.
+Interruption Resistance
+– While not strictly necessary, a shielder enables Lyney to perform Charged Shots without interruption. You can use any shielder you want, though Zhongli and Yanfei are the best for this role. Dehya can also be useful, since even though she doesn’t provide a shield, she can still provide some interruption resistance.
+Xiangling
+– If you’ve got space and you’re already bringing Bennett, why not bring Xiangling too? She’s a powerhouse of an off-field DPS and fits nicely in Lyney’s mono Pyro team.
+0
+Christine Choi
+Contributing Writer - Christine has been gaming since she first stole her brother's Game Boy as a kid. She's come a long way since then and has been creating content for Genshin Impact since 2021.
+Tags:
+Genshin Impact
+guides
+HoYoverse
+miHoYo
+mobile
+PC
+PS4
+PS5
+0
+Bookmark (
+0
+)
+Please login to bookmark
+Close
+Username or Email Address
+Password
+Remember Me
+Don't have an account? Register here.
+Create an account to bookmark articles.
+Username
+*
+3-60 characters, letters, numbers, spaces, and these symbols: @._-
+Email
+*
+You will receive an email to set your password after registration.
+Subscribe to The Destructoid Checkpoint Newsletter
+Get the latest gaming news and updates delivered to your inbox.
+Create Account
+Already have an account? Sign in here.
+Share
+this article
+Destructoid is supported by our audience. When you purchase through links on our site, we may earn a small affiliate commission.
+Learn more about our Affiliate Policy
+.
+Like our content? Set Destructoid as a
+Preferred Source on Google
+in just one step to ensure you see us more frequently in your Google searches!

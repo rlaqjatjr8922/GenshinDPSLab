@@ -1,0 +1,256 @@
+Ineffa
+5
+★
+Polearm
+Electro
+A multifunctional robot containing integrated mechanical components from various nations
+.
+Basic Stats
+Nv.
+90
+HP
+12613
+ATK
+330
+DEF
+828
+CRIT Rate
+24.2%
+Basic Stats
+Nv.
+90
+HP
+12613
+ATK
+330
+DEF
+828
+CRIT Rate
+24.2%
+Ineffa
+Ascension Materials
+Vajrada Amethyst Sliver
+Glowing Hornshroom
+Secret Source Airflow Accumulator
+Sentry's Wooden Whistle
+Teachings of Conflict
+Eroded Sunfire
+Ineffa
+Best Weapon
+Fractured Halo
+Level
+.
+90
+ATK
+608
+CRIT DMG
+66.2%
+Refinement
+.
+5
+After an Elemental Skill or Elemental Burst is used, ATK is increased by 48% for 20s. If the equipping character creates a Shield while this effect is active, they will gain the Electrifying Edict effect for 20s: All nearby party members deal 80% more Lunar-Charged DMG.
+Other Weapons
+2
+°
+Staff of the Scarlet Sands
+CRIT Rate
+3
+°
+Deathmatch
+CRIT Rate
+4
+°
+Missive Windspear
+ATK
+Ineffa
+Best Artifact Set
+Gilded Dreams
+2 Pc
+:
+Increases Elemental Mastery by 80.
+4 Pc
+:
+Within 8s of triggering an Elemental Reaction, the character equipping this will obtain buffs based on the Elemental Type of the other party members. ATK is increased by 14% for each party member whose Elemental Type is the same as the equipping character, and Elemental Mastery is increased by 50 for every party member with a different Elemental Type. Each of the aforementioned buffs will count up to 3 characters. This effect can be triggered once every 8s. The character who equips this can still trigger its effects when not on the field.
+Artifacts Main Stats
+Sands
+:
+ATK % / EM
+Goblet
+:
+ATK % / EM
+Circlet
+:
+Crit Rate / Crit Damage
+Artifacts Substats
+Crit Rate / Crit Damage
+ATK %
+Energy Recharge
+Elemental Mastery
+Other Artifacts Sets
+2
+°
+4x
+Thundering Fury
+3
+°
+2x
+Shimenawa's Reminiscence
+2x
+Gilded Dreams
+Ineffa
+Talent Priority
+1
+°
+Elemental Skill
+2
+°
+Elemental Burst
+Ineffa
+Best Teams
+Time #
+1
+Main DPS
+Sub-DPS
+Sub-DPS
+Support
+Neuvillette
+Furina
+Ineffa
+Kazuha
+Time #
+2
+Main DPS
+Sub-DPS
+Sub-DPS
+Support
+Keqing
+Yelan
+Ineffa
+Kazuha
+Ineffa
+Ascension Costs
+Cost
+5
+→
+6
+120
+K
+Vajrada Amethyst Gemstone
+6
+Secret Source Airflow Accumulator
+20
+Glowing Hornshroom
+60
+Saurian-Crowned Warrior's Golden Whistle
+24
+Ineffa
+Talents Costs
+Cost
+9
+→
+10
+700
+K
+Philosophies of Conflict
+16
+Saurian-Crowned Warrior's Golden Whistle
+12
+Eroded Sunfire
+2
+Crown of Insight
+1
+Ineffa
+Talents
+Normal Attack
+Cyclonic Duster
+Normal Attack
+Performs up to 4 consecutive spear strikes.
+Charged Attack
+Consumes a certain amount of Stamina to perform a spinning attack.
+Plunging Attack
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Elemental Skill
+Cleaning Mode: Carrier Frequency
+Ineffa engages her Enhanced Cleaning Module, dealing a single instance of
+AoE Electro DMG
+to nearby opponents, activating her Optical Flow Shield Barrier, and summoning the Multipurpose Smart Assistance Unit, {LINK#N11160001}
+Birgitta
+{/LINK}.
+The Optical Flow Shield Barrier absorbs DMG based on Ineffa's ATK, and it will absorb
+Electro DMG
+with 250% effectiveness.
+Elemental Burst
+Supreme Instruction: Cyclonic Exterminator
+Through Multipurpose Smart Assistance Unit, {LINK#N11160001}
+Birgitta
+{/LINK}, Ineffa can use Rocket Punches to quickly clean up opponents! Shoots Birgitta into the fray, dealing
+AoE Electro DMG
+and allowing Birgitta to remain on the field.
+If Birgitta is already on the field, having been summoned by Ineffa, this Skill will re-summon Birgitta at the target's location and reset her duration.
+Ineffa
+Passives
+Passive
+1
+Overclocking Circuit
+If there are thunderclouds created by Lunar-Charged reactions nearby when {LINK#N11160001}
+Birgitta
+{/LINK} unleashes Discharge attacks, she will initiate an additional attack, dealing
+AoE Electro DMG
+equal to 65% of Ineffa's ATK. This DMG is considered Lunar-Charged DMG.
+Passive
+2
+Panoramic Permutation Protocol
+When using the Elemental Burst
+{LINK#S11165}Supreme Instruction: Cyclonic Exterminator{/LINK}
+, all your party members will gain the Parameter Permutation effect: Increases Ineffa and your own active party member's Elemental Mastery by 6% of Ineffa's ATK for 20s.
+Passive
+3
+Moonsign Benediction: Assemblage Hub
+When a party member triggers an Electro-Charged reaction, it will be converted into the Lunar-Charged reaction, with every 100 ATK that Ineffa has increasing Lunar-Charged's Base DMG by 0.7%, up to a maximum of 14%.
+Further blessings may follow the new moon's rise...
+Passive
+4
+Flavor Synthesis Unit
+When Ineffa uses food, there is a 30% chance of gaining a seasoning ingredient.
+Additionally, in Nod-Krai, it seems you'll be able to change Birgitta's appearance through certain means...
+Ineffa
+Constellations
+C
+1
+Rectifying Processor
+When Ineffa activates her Optical Flow Shield Barrier, all nearby party members will gain the Carrier Flow Composite effect for 20s: Increases Lunar-Charged DMG by 2.5% for every 100 ATK that Ineffa has, up to a maximum of 50%.
+C
+2
+Support Cleaning Module
+After the Elemental Burst
+{LINK#S11165}Supreme Instruction: Cyclonic Exterminator{/LINK}
+hits opponents, it will inflict the Punishment Edict status on one of those hit opponents: After a brief delay, or when this opponent is defeated, nearby opponents will take
+AoE Electro DMG
+equal to 300% of Ineffa's ATK. This DMG is considered Lunar-Charged DMG.
+Additionally, when the Elemental Burst
+Supreme Instruction: Cyclonic Exterminator
+is unleashed, nearby party members will gain Optical Flow Shield Barriers.
+C
+3
+Enhanced Emotion Emulator
+Increases the Level of
+{LINK#S11162}Cleaning Mode: Carrier Frequency{/LINK}
+by 3.
+Maximum upgrade level is 15.
+C
+4
+The Edictless Path
+When your own party members trigger Lunar-Charged reactions, recover 5 Elemental Energy. This effect can occur once every 4s.
+C
+5
+Mirror's Dream Transcension
+Increases the Level of
+{LINK#S11165}Supreme Instruction: Cyclonic Exterminator{/LINK}
+by 3.
+Maximum upgrade level is 15.
+C
+6
+A Dawning Morn for You
+When Ineffa is affected by the Carrier Flow Composite effect, she will deal
+AoE Electro DMG
+equal to 135% of her ATK to opponents in the current active character's vicinity after nearby thunderclouds release bursts of lightning at opponents. This DMG is considered Lunar-Charged DMG. The aforementioned effect can trigger once every 3.5s.

@@ -1,0 +1,139 @@
+0
+Bookmark (
+0
+)
+Please login to bookmark
+Close
+Username or Email Address
+Password
+Remember Me
+Don't have an account? Register here.
+Create an account to bookmark articles.
+Username
+*
+3-60 characters, letters, numbers, spaces, and these symbols: @._-
+Email
+*
+You will receive an email to set your password after registration.
+Subscribe to The Destructoid Checkpoint Newsletter
+Get the latest gaming news and updates delivered to your inbox.
+Create Account
+Already have an account? Sign in here.
+Back to top
+Home
+Guides
+Best Beidou Builds, Weapons, and Teams in Genshin Impact
+The captain of the Crux Fleet has your back.
+Christine Choi
+| Nov 2, 2023 10:47 am
+Image via HoYoverse
+Beidou is a 4-star Electro Claymore DPS character in
+Genshin Impact
+.
+Conquer the seas with Beidou’s best weapons, artifacts, and teams!
+Recommended Videos
+Playstyles
+Beidou is an off-field DPS. Her Burst is the highlight of her kit, creating a shield and dealing Electro damage when your on-field character uses Normal Attacks. These lightning discharges can bounce between enemies, making Beidou more effective in AoE scenarios.
+On top of this, Beidou’s Burst snapshots all buffs at the time of casting. This means that if she is standing in Bennett’s circle when she casts her Burst, his ATK buff will affect
+all
+of her Burst hits, even after the circle disappears.
+Beidou’s Skill is the only counter mechanic in
+Genshin Impact.
+Tapping the Skill key deals Electro damage in an AoE around Beidou and generates some particles. Holding the Skill key creates a shield, and releasing it at the moment she gets hit deals even more damage and generates more particles. It can be difficult to consistently pull off counters though, since that means relying on enemy AI to hit you. I tend to just use the tap version of her Skill.
+As an off-field DPS, Beidou will use her Skill, then Burst, then swap to an on-field DPS who uses Normal Attacks. Try to swap to Beidou at some point to use her Skill again to generate particles.
+Weapons
+Serpent’s Spine / Akuoumaru
+These 4-star Claymores can actually outperform 5-stars at high Refinement, especially with Bennett. They’re not very accessible though, since Serpent Spine is obtained through the
+Battle Pass
+and Akuoumaru is gacha-exclusive.
+Redhorn Stonethresher / Wolf’s Gravestone / Skyward Pride
+These are Beidou’s 5-star options. They function as 5-star stat sticks that provide CRIT, ATK, or Energy Recharge, all of which are useful to Beidou.
+Luxurious Sea-Lord / Prototype Archaic / Rainslasher
+These are the more accessible 4-star options. Luxurious Sea-Lord was obtainable through a past event and lets Beidou whack enemies with a giant fish. Rainslasher is only recommended if you’re able to keep an Electro or Hydro aura on enemies.
+Artifacts
+4pc Emblem of Severed Fate (4EoSF)
+This is Beidou’s best artifact set. It converts a portion of her Energy Recharge into Burst DMG. Since Beidou tends to need a lot of Energy Recharge and deals damage with her Burst, this set is practically tailor-made for her.
+2pc combos
+2pc combos of Energy Recharge, Electro DMG, ATK, and Burst DMG are viable interim sets while you farm for 4EoSF. If Beidou is in an Energy-rich team where she needs less Energy Recharge, 2pc combos gain value and can be competitive with 4EoSF.
+Artifact Stats
+Sands
+Goblet
+Circlet
+ATK
+Energy Recharge
+Electro DMG
+CRIT Rate/DMG
+Beidou should be paired with at least one other Electro teammate to help generate Energy
+(i.e.,
+Fischl
+or Yae Miko). Beidou as the sole Electro character in a team can require obscene amounts of Energy Recharge. Having Fischl brings her Energy Recharge requirements down to a more manageable 150-160%. I still recommend around 170-180%, just to be safe and allow for more flexibility.
+Aside from Energy Recharge, Beidou should be built with the typical DPS stats: CRIT and ATK. Elemental Mastery can be beneficial in Quicken teams, but ATK should remain the focus.
+Teams
+A quick note:
+Raiden’s Normal Attacks during her Burst state do not trigger Beidou’s lightning discharges.
+Using Raiden and Beidou together is still possible, but can be tricky.
+Electro-Charged
+Beidou and Xingqiu are a strong pair for Electro-Charged teams. They both deal damage and grant damage reduction with their Bursts.
+These damage reduction effects stack,
+meaning teams with both Beidou and Xingqiu can often forgo a healer. Add Fischl to provide Energy and an Anemo unit as an on-field Normal Attacker, and you’ve got a classic taser team. Alternatively, you can play Kokomi on-field as a source of healing.
+Beidou –
+Xingqiu
+– Fischl/Yae Miko – Sucrose/Heizou
+Beidou –
+Kokomi
+– Fischl/Yae Miko – Sucrose/
+Venti
+/Kazuha
+Quicken
+Quicken teams feature an on-field Dendro or Electro unit that uses Normal Attacks to deal damage. As long as you continuously apply Dendro and Electro, you should be able to trigger Spread or Aggravate. The flex slot can be any defensive utility that doesn’t interfere with Quicken. This includes Baizhu, Zhongli, Diona, Layla, Jean, and Sayu.
+Beidou – Alhaitham/Nahida – Fischl/Yae Miko – flex
+Beidou – Cyno/Yae Miko – Nahida/Dendro Traveler/Collei – flex
+Hyperbloom
+Beidou makes for unique Hyperbloom teams, since
+her lightning discharges do not target Dendro Cores
+. This leaves room for a dedicated Hyperbloom trigger like Kuki Shinobu or Raiden. Alternatively, you can trigger Hyperbloom with Swirls using on-field Sucrose or Heizou.
+Beidou – Xingqiu/Yelan – Nahida/
+Baizhu
+– Raiden/Kuki Shinobu
+Beidou – Xingqiu – Nahida/Dendro Traveler – Sucrose/Heizou
+0
+Christine Choi
+Contributing Writer - Christine has been gaming since she first stole her brother's Game Boy as a kid. She's come a long way since then and has been creating content for Genshin Impact since 2021.
+Tags:
+Genshin Impact
+guides
+HoYoverse
+miHoYo
+mobile
+PC
+PS4
+PS5
+0
+Bookmark (
+0
+)
+Please login to bookmark
+Close
+Username or Email Address
+Password
+Remember Me
+Don't have an account? Register here.
+Create an account to bookmark articles.
+Username
+*
+3-60 characters, letters, numbers, spaces, and these symbols: @._-
+Email
+*
+You will receive an email to set your password after registration.
+Subscribe to The Destructoid Checkpoint Newsletter
+Get the latest gaming news and updates delivered to your inbox.
+Create Account
+Already have an account? Sign in here.
+Share
+this article
+Destructoid is supported by our audience. When you purchase through links on our site, we may earn a small affiliate commission.
+Learn more about our Affiliate Policy
+.
+Like our content? Set Destructoid as a
+Preferred Source on Google
+in just one step to ensure you see us more frequently in your Google searches!

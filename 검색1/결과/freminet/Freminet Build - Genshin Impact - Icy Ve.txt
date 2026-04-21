@@ -1,0 +1,552 @@
+Home
+/
+Genshin Impact
+/
+Character List
+/
+Freminet Build
+Freminet Guide and Best Builds
+Freminet is a 4-star Cryo character in Genshin
+Impact who focuses on powerful Physical, Frozen and Shatter damage.
+Our Freminet build guide will focus on his Best Artifacts,
+Team Comps, Ascension Materials and More.
+Last updated
+on
+Sep 28, 2025
+at
+12:09
+by
+Shikhu
+1 comment
+C
+Rank
+Cryo
+Element
+Claymore
+Weapon
+★
+★
+★
+★
+★
+Rarity
+Paul Castro Jr.
+EN Voice Actor
+Toki Shunichi
+JP Voice Actor
+Freminet's Strengths & Weaknesses
+Strengths
+One of the only characters able to effectively utilise the Shatter reaction.
+Reduced stamina consumption underwater aiding underwater exploration.
+Capable of being built as either a Physical DPS or Cryo DPS depending on your gameplay preferences.
+Weaknesses
+As a character who focuses on Shatter and Physical DMG, Freminet lacks the supports to be able to fully utilise him.
+Low skill multipliers generally causing low damage.
+High energy Recharge requirements.
+1.
+Freminet Build Guide, Best Artifacts, Weapons and Talent Priority
+Freminet has 2 different build options. You can either focus on building 
+Freminet as a Physical DPS, or as a Cryo DPS. Both are valid playstyles with 
+the Physical playstyle focusing on weaving Normal Attacks and hitting Level 4 
+Shattering Pressure and the Cryo Playstyle focusing on more repeated skill spamming.
+2.
+Freminet's Build Options
+Physical DPS Freminet
+Cryo DPS Freminet
+3.
+Physical DPS Freminet Build
+BiS Weapon
+Skyward Pride
+Alternative Weapons
+Fang of the Mountain King
+A Thousand Blazing Suns
+Song of Broken Pines
+Verdict
+Beacon of the Reed Sea
+Wolf's Gravestone
+Serpent Spine
+Snow-Tombed Starsilver
+Prototype Archaic
+Best Artifacts
+Pale Flame
+2 Piece set of
+Pale Flame
+and
+Emblem of Severed Fate
+Main Stats
+Sand Stats
+: ATK %
+Goblet Stats
+: Physical DMG
+Circlet Stats
+: CRIT Rate / CRIT DMG
+Substat Priority
+Energy Recharge to requirements
+CRIT Rate / CRIT DMG
+ATK %
+Talent Priority
+Elemental Skill
+Normal Attack
+Elemental Burst
+Freminet's best weapon tends to be
+Skyward Pride
+having high
+base ATK, Energy Recharge to lower requirements as well as a DMG buff. That
+being said, there are many good build options for Freminet.
+Serpent Spine
+is his best 4-star weapon although free weapons such as
+Prototype Archaic
+and
+Snow-Tombed Starsilver
+can also be effective.
+Pale Flame
+4-piece is significant better than any 2 piece
+combination. Therefore we would recommend either going straight for it,
+or slotting in 2
+Emblem of Severed Fate
+while you work towards
+a 4 piece bonus. This is because Emblem helps with Energy Recharge which
+will make gameplay smoother while your still working towards better
+artifacts while your current artifacts likely do not meet requirements.
+Once Freminet has enough Energy Recharge, you should focus on building
+up CRIT and ATK.
+4.
+Cryo DPS Freminet Build
+BiS Weapon
+A Thousand Blazing Suns
+Alternative Weapons
+Fang of the Mountain King
+Verdict
+Serpent Spine
+Wolf's Gravestone
+Skyward Pride
+Beacon of the Reed Sea
+The Unforged
+Tidal Shadow
+Mailed Flower
+Best Artifacts
+Blizzard Strayer
+2 Piece set of
+Blizzard Strayer
+and
+        Any +18% ATK set.
+Golden Troupe
+Main Stats
+Sand Stats
+: ATK %
+Goblet Stats
+:
+Cryo
+DMG
+Circlet Stats
+: CRIT Rate / CRIT DMG
+Substat Priority
+Energy Recharge to requirements
+CRIT Rate / CRIT DMG
+ATK %
+Talent Priority
+Elemental Skill
+Normal Attack
+Elemental Burst
+Freminet has plenty of good build options as a
+Cryo
+DPS, 
+generally speaking they share a lot of similarities between each build with the main differences 
+in builds being Freminet's artifacts.
+Blizzard Strayer
+is by far his best artifact set and should be
+the goal. That being said,
+Golden Troupe
+is an incredibly resin
+efficient domain which can be "good enough" if you are focusing mainly on
+building other characters.
+With regards to substats, once Freminet has enough Energy Recharge you
+should build him with CRIT and ATK.
+4.1.
+Energy Recharge for Freminet
+Freminet has different energy Recharge requirements depending on if
+he is played as a Physical DPS or as a
+Cryo
+DPS. You can roughly take off 20% Energy Recharge when Freminet is played with
+an
+Electro
+character or if a teammate is using a Favonius Weapon.
+Setup
+Physical Build C0
+Physical Build C2+
+Cryo Build C0
+Cryo Build C2+
+Single Cryo
+170 - 190%
+145 - 165%
+180 - 200%
+150 - 180%
+Double Cryo
+150 - 170%
+125 - 145%
+160 - 180%
+130 - 150%
+5.
+Combos and How to Play Freminet
+Freminet's gameplay mainly revolves around using Normal Attacks
+while under the effects of his Elemental Skill
+Pressurized Floe
+.
+Upon use of the skill, it activates his
+Pers Timer
+.
+This causes Normal Attacks to deal additional
+Cryo
+DMG as
+well as increase the Pressure Level by 1 up to a maximum of 4. These change from
+blue to yellow as they increase. Pressing Freminet's Elemental Skill
+a second time will activate
+Shattering Pressure
+which does different things depending on the Pressure level:
+Level 0 - An attack dealing Cryo DMG.
+Level 1 to 3 - Attacks dealing both Cryo and Physical DMG.
+Level 4 - Simply deals Physical DMG. Will automatically trigger if you use
+a Normal Attack at level 4.
+Once Shattering Pressure is used, the Pers Timer will end.
+As the Pressure levels increase, more damage will be dealt however as
+you can see, Level 4 only deals Physical DMG.
+Freminet's Elemental Burst
+Shadowhunter's Ambush
+helps to support this gameplay loop by resetting the CD of
+Pressurized Floe
+, decreasing the CD by 70%
+while also making Normal Attacks add 2 per hit to the Pressure Level.
+You therefore want to use the following combos depending on a Physical
+or Cryo build.
+Physical:
+Pressurized Floe
+Shadowhunter's Ambush
+Normal Attack x2
+Pressurized Floe
+Normal Attack x2
+Pressurized Floe
+Normal Attack x1
+Pressurized Floe
+Normal Attack x2
+Pressurized Floe
+Normal Attack x1
+Cryo:
+Pressurized Floe
+Shadowhunter's Ambush
+Pressurized Floe
+x2
+Normal Attack
+Pressurized Floe
+x2
+Normal Attack
+Pressurized Floe
+x2
+Normal Attack
+Pressurized Floe
+x2
+Normal Attack
+6.
+Freminet Best Team Comps
+Freminet's best teams tend to include another
+Cryo
+character to help reduce Energy Recharge requirements, provide
+Cryo Resonance
+and also
+provide off-field Elemental Application. A
+Hydro
+character is then needed to trigger
+Shatter
+to
+activate
+Parallel Condensers
+. From there, it
+depends on if you are playing Cryo or Physical.
+6.1.
+Physical Freminet Teams
+Main DPS
+Sub DPS
+Sub DPS
+Support
+Freminet
+Ineffa
+Furina
+Mika
+Freminet
+Rosaria
+Fischl
+Sangonomiya Kokomi
+Freminet
+Yelan
+Yae Miko
+Layla
+Freminet
+Xingqiu
+Shenhe
+Kuki Shinobu
+Physical teams with Freminet include an
+Electro
+character
+so that he can trigger
+Superconduct
+to
+further boost his damage. Noteable examples include
+Fischl
+and
+Ineffa
+.
+6.2.
+Cryo Freminet Teams
+Freminet's
+Cryo
+teams include an additional
+Anemo
+character to Shred the enemies Cryo RES using
+Viridescent Venerer
+.
+Main DPS
+Sub DPS
+Support
+Support
+Freminet
+Rosaria
+Sangonomiya Kokomi
+Kaedehara Kazuha
+Freminet
+Yelan
+Furina
+Jean
+Listed are some examples of Cryo teams for Freminet. Powerful
+Hydro
+application is incredibly important to
+ensure
+Shatter
+can regularly occur. This
+means characters such as
+Xingqiu
+,
+Yelan
+and
+Sangonomiya Kokomi
+are great for this team.
+6.3.
+Freminet Plunge Team
+Main DPS
+Sub DPS
+Sub DPS
+Support
+Freminet
+Escoffier
+Ineffa
+Xianyun
+With the release of
+Xianyun
+, Freminet can be used as a
+Physical Plunge DPS due to Claymore characters having high Plunge Attack
+scaling.
+7.
+Freminet's Ascensions, Talents and Constellations
+Freminet's Ascensions
+Freminet's Talents
+Freminet's Constellations
+7.1.
+Freminet's Ascension Passives and Materials
+Unlock
+Ascension Passive
+Explanation
+With Character
+Deepwater Navigation
+Decreases Aquatic Stamina consumption for your own party members by 35%.
+    Not stackable with Passive Talents that provide the exact same effects.
+1st Ascension
+Saturation Deep Dive
+When Freminet unleashes
+Pressurized Floe
+:
+Shattering Pressure
+, if
+Pers Timer
+has yet to reach Pressure Level 4, the CD of Pressurized Floe will be
+    decreased by 1s.
+4th Ascension
+Parallel Condensers
+When Freminet triggers
+Shatter
+against
+    opponents, the DMG dealt by
+Shattering Pressure
+will
+    be increased by 40% for 5s.
+Freminet requires a range of materials to ascend to the 6th ascension.
+Starting from the second ascension he gains ATK as he levels,
+giving a total of 24% Bonus ATK at the final ascension.
+The total cost to upgrade all ascensions is:
+Source
+Quantity
+Mora
+420,000 Mora
+Boss Material
+46x
+Artificed Spare Clockwork Component — Coppelius
+Ascension Material
+1x
+Shivada Jade Sliver
+9x
+Shivada Jade Fragment
+9x
+Shivada Jade Chunk
+6x
+Shivada Jade Gemstone
+Local Specialty
+168x
+Romaritime Flower
+Enhancement Material
+18x
+Transoceanic Pearl
+30x
+Transoceanic Chunk
+36x
+Xenochromatic Crystal
+7.2.
+Freminet's Talents
+Listed below is each talent and a simplified explanation of how they work.
+Type
+Talent Name
+Brief Explanation
+Normal
+Flowing Eddies
+Standard 4-hit Normal Attack strikes.
+Cryo
+DMG from
+    Normal Attacks utilised during his Elemental Skill count as Skill damage
+    not Normal Attacks.
+Elemental Skill
+Pressurized Floe
+Deals
+Cryo
+DMG and enters
+Pers Timer
+for 10s changing the Elemental Skill to
+Shattering Pressure
+.
+Normal Attacks deal Cryo DMG and build up Per's Pressure Level.
+Elemental Burst
+Shadowhunter's Ambush
+Resets the Cooldown of
+Pressurized Floe
+while
+    also decreasing it by 70% so that the CD is only 3 seconds. Normal
+    Attacks now increase the Pers Timer by 2 while the
+Cryo
+attacks DMG is increased.
+Also increases Interruption RES.
+To upgrade a single talent to level 10, it costs:
+Source
+Quantity
+Mora
+1,625,500 Mora
+Special Material
+1x
+Crown of Insight
+Boss Material
+6x
+Worldspan Fern
+Domain Material
+3x
+Teachings of Justice
+21x
+Guide to Justice
+38x
+Philosophies of Justice
+Enhancement Material
+6x
+Transoceanic Pearl
+22x
+Transoceanic Chunk
+31x
+Xenochromatic Crystal
+7.3.
+Freminet's Constellations
+Freminet's best Constellations are
+Penguins and the Land of Plenty
+(C2) due to it helping to alleviate Energy Recharge issues.
+Moment of Waking and Resolve
+(C6) is also a great Constellation
+because of the 36% CRIT DMG increase it can provide.
+#
+Name
+Explanation
+C1
+Dreams of the Foamy Deep
+The CRIT Rate of Pressurized Floe:
+Shattering Pressure
+will be increased by 15%.
+C2
+Penguins and the Land of Plenty
+Unleashing Pressurized Floe:
+Shattering Pressure
+will
+    restore 2 Energy to Freminet. If a Pressure Level 4 Shattering Pressure is
+    unleashed, this will restore 3 Energy.
+C3
+Song of the Eddies and Bleached Sands
+Increases the Level of
+Flowing Eddies
+by 3.
+Maximum upgrade level is 15.
+C4
+Dance of the Snowy Moon and Flute
+After Freminet triggers
+Frozen
+,
+Shatter
+, or
+Superconduct
+against opponents, his ATK will be increased by 9% for 6s. Max 2 stacks.
+    This can be triggered once every 0.3s.
+C5
+Nights of Hearth and Happiness
+Increases the Level of
+Pressurized Floe
+by 3.
+Maximum upgrade level is 15.
+C6
+Moment of Waking and Resolve
+After Freminet triggers
+Frozen
+,
+Shatter
+, or
+Superconduct
+against opponents, his CRIT DMG will be increased by 12% for 6s. Max 3
+    stacks. This can be triggered once every 0.3s.
+Changelog
+28 Sep. 2025:
+Updated for 6.0.
+12 Mar. 2024:
+Guide added.
+Show more
+Show less
+Need any help? Check out our
+General Discussion Forum
+!
+1 comment
+In The Same Category
+Shenhe Best Builds Guide
+Aloy Best Builds Guide
+Rosaria Best Builds Guide
+Eula Best Builds Guide
+Chongyun Best Builds Guide
+Kaeya Best Builds Guide
+Charlotte Best Builds Guide
+Mika Best Builds Guide
+Ganyu Best Builds Guide
+Skirk Best Builds Guide
+Citlali Team Guide
+Kamisato Ayaka Best Builds Guide
+ABOUT THE AUTHOR
+This guide has been written by Shikhu (Discord - Shikhu), an avid Genshin Impact player who has
+          been exploring Teyvat since the game has launched. He has experienced
+          all the game has to offer from building his favorite characters,
+          exploring the world to clearing Spiral Abyss each rotation. His
+          favorite character being his C6 Furina.
+SUPPORT OUR WRITERS

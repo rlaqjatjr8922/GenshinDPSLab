@@ -1,0 +1,257 @@
+Yanfei
+4
+★
+Catalyst
+Pyro
+A well-known legal adviser active in Liyue Harbor
+.
+Basic Stats
+Nv.
+90
+HP
+9352
+ATK
+240
+DEF
+587
+Pyro DMG Bonus
+24%
+Basic Stats
+Nv.
+90
+HP
+9352
+ATK
+240
+DEF
+587
+Pyro DMG Bonus
+24%
+Yanfei
+Ascension Materials
+Agnidus Agate Sliver
+Noctilucous Jade
+Juvenile Jade
+Treasure Hoarder Insignia
+Teachings of Gold
+Bloodjade Branch
+Yanfei
+Best Weapon
+Surf's Up
+Level
+.
+90
+ATK
+542
+CRIT DMG
+88.2%
+Refinement
+.
+5
+Max HP increased by 40%. Once every 15s, for the 14s after using an Elemental Skill: Gain 4 Scorching Summer stacks. Each stack increases Normal Attack DMG by 24%. For the duration of the effect, once every 1.5s, lose 1 stack after a Normal Attack hits an opponent; once every 1.5s, gain 1 stack after triggering a Vaporize reaction on an opponent. Max 4 Scorching Summer stacks.
+Other Weapons
+2
+°
+Tome of the Eternal Flow
+CRIT DMG
+3
+°
+Cashflow Supervision
+CRIT Rate
+4
+°
+The Widsith
+CRIT DMG
+Yanfei
+Best Artifact Set
+Crimson Witch of Flames
+2 Pc
+:
+Pyro DMG Bonus +15%
+4 Pc
+:
+Increases Overloaded, Burning, and Burgeon DMG by 40%. Increases Vaporize and Melt DMG by 15%. Using Elemental Skill increases the 2-Piece Set Bonus by 50% of its starting value for 10s. Max 3 stacks.
+Artifacts Main Stats
+Sands
+:
+ATK % / EM
+Goblet
+:
+Pyro Bonus
+Circlet
+:
+Crit Rate / Crit Damage
+Artifacts Substats
+Crit Rate / Crit Damage
+ATK %
+Energy Recharge
+Elemental Mastery
+Other Artifacts Sets
+2
+°
+4x
+Gilded Dreams
+3
+°
+4x
+Wanderer's Troupe
+Yanfei
+Talent Priority
+1
+°
+Normal Attack
+2
+°
+Elemental Burst
+3
+°
+Elemental Skill
+Yanfei
+Best Teams
+Time #
+1
+Main DPS
+Sub-DPS
+Sub-DPS
+Support
+Yanfei
+Xingqiu
+Yelan
+Bennett
+Time #
+2
+Main DPS
+Sub-DPS
+Sub-DPS
+Support
+Yanfei
+Xingqiu
+Fischl
+Bennett
+Yanfei
+Ascension Costs
+Cost
+5
+→
+6
+120
+K
+Agnidus Agate Gemstone
+6
+Juvenile Jade
+20
+Noctilucous Jade
+60
+Golden Raven Insignia
+24
+Yanfei
+Talents Costs
+Cost
+9
+→
+10
+700
+K
+Philosophies of Gold
+16
+Golden Raven Insignia
+12
+Bloodjade Branch
+2
+Crown of Insight
+1
+Yanfei
+Talents
+Normal Attack
+Seal of Approval
+Normal Attack
+Shoots fireballs that deal up to three counts of
+Pyro DMG
+.
+When Yanfei's Normal Attacks hit enemies, they will grant her a single Scarlet Seal. Yanfei may possess a maximum of 3 Scarlet Seals, and each time this effect is triggered, the duration of currently possessed Scarlet Seals will refresh.
+Each Scarlet Seal will decrease Yanfei's Stamina consumption and will disappear when she leaves the field.
+Charged Attack
+Consumes Stamina and all Scarlet Seals before dealing
+AoE Pyro DMG
+to opponents after a short casting time.
+This Charged Attack's AoE and DMG will increase according to the amount of Scarlet Seals consumed.
+Plunging Attack
+Gathering the power of Pyro, Yanfei plunges towards the ground from mid-air, damaging all opponents in her path. Deals
+AoE Pyro DMG
+upon impact with the ground.
+Elemental Skill
+Signed Edict
+Summons blistering flames that deal
+AoE Pyro DMG
+.
+Opponents hit by the flames will grant Yanfei the maximum number of Scarlet Seals.
+Apart from their legal uses, Yanfei's seals also come with her customized additional terms and conditions. Well, it's not as if the Ministry of Civil Affairs can change the laws of nature.
+Elemental Burst
+Done Deal
+Triggers a spray of intense flames that rush at nearby opponents, dealing
+AoE Pyro DMG
+, granting Yanfei the maximum number of Scarlet Seals, and applying Brilliance to her.
+Brilliance
+Has the following effects:
+·Grants Yanfei a Scarlet Seal at fixed intervals.
+·Increases the DMG dealt by her Charged Attacks.
+The effects of Brilliance will end if Yanfei leaves the field or falls in battle.
+"Here are the full terms for this matter of life and death — by which I mean my life and your death!"
+Yanfei
+Passives
+Passive
+1
+Proviso
+When Yanfei consumes Scarlet Seals by using a Charged Attack, each Scarlet Seal will increase Yanfei's
+Pyro DMG Bonus
+by 5%. This effect lasts for 6s. When a Charged Attack is used again during the effect's duration, it will dispel the previous effect.
+Passive
+2
+Blazing Eye
+When Yanfei's Charged Attack deals a CRIT Hit to opponents, she will deal an additional instance of
+AoE Pyro DMG
+equal to 80% of her ATK. This DMG counts as Charged Attack DMG.
+Passive
+3
+Encyclopedic Expertise
+Displays the location of nearby
+resources unique to Liyue
+on the mini-map.
+Yanfei
+Constellations
+C
+1
+The Law Knows No Kindness
+When Yanfei uses her Charged Attack, each existing Scarlet Seal additionally reduces the stamina cost of this Charged Attack by 10% and increases resistance against interruption during its release.
+C
+2
+Right of Final Interpretation
+Increases Yanfei's Charged Attack CRIT Rate by 20% against enemies below 50% HP.
+C
+3
+Samadhi Fire-Forged
+Increases the Level of
+Signed Edict
+by 3.
+Maximum upgrade level is 15.
+C
+4
+Supreme Amnesty
+When
+Done Deal
+is used:
+Creates a shield that absorbs up to 45% of Yanfei's Max HP for 15s.
+This shield absorbs
+Pyro DMG
+250% more effectively.
+C
+5
+Abiding Affidavit
+Increases the Level of
+Done Deal
+by 3.
+Maximum upgrade level is 15.
+C
+6
+Extra Clause
+Increases the maximum number of Scarlet Seals by 1.

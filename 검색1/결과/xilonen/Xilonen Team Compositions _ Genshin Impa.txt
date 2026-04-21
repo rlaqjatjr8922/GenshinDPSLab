@@ -1,0 +1,200 @@
+Xilonen
+is a 5-star Geo Sword character that is both a support and a healer. Her role in the team is to enhance survivability and provide Elemental RES reduction through her Source Samples while applying significant DEF-scaling Geo DMG.
+How
+Xilonen
+Helps:
+Xilonen
+’s
+Source Samples
+can decrease Elemental RES, allowing DPS units to trigger strong reactions.
+During
+Nightsoul’s Blessing
+, she reduces Elemental RES and adds rapid Geo DMG through her
+Blade Roller
+kicks, supplementing team DPS without overtaking the main reaction.
+When using her Burst
+Ocelotlicue Point!
+,
+Xilonen
+can heal teammates if at least two of her Source Samples are non-Geo, keeping DPS characters sustained.
+You can find some popular team compositions and builds below, as well as recommended team rotations!
+Vaporise
+In Vaporise teams,
+Xilonen
+provides a reduction in resistance which can be shifted to Pyro or Hydro, depending on the team. Her DEF-scaling Geo DMG complements Vaporise reactions by lowering Elemental RES, while her Elemental Burst provides additional healing to sustain aggressive gameplay. Below is an example of a Vaporise team that includes
+Mualani
+as the Main DPS,
+Furina
+and
+Xiangling
+as the Sub DPS', and
+Xilonen
+as the Support / Healer.
+Alternate Vaporise teams could have a composition of:
+Hu Tao
+(Main DPS) –
+Xingqiu
+(Sub DPS) –
+Thoma
+(Support) –
+Xilonen
+(Support / Healer)
+Yanfei
+(Main DPS) –
+Xingqiu
+(Sub DPS) –
+Kazuha
+/
+Sucrose
+(Support) –
+Xilonen
+(Support / Healer)
+Ayato
+(Main DPS) –
+Yelan
+(Sub DPS) –
+Xiangling
+(Sub DPS) –
+Xilonen
+(Support / Healer)
+Mono Pyro
+In a Mono Pyro team,
+Xilonen
+offers consistent support and healing. She can decrease Pyro RES, further enhancing Pyro DPS output and protecting them from incoming damage, with her Geo abilities adding off-field support, enhancing Pyro DMG without disrupting Pyro resonance. Below is an example of a Mono Pyro team that includes
+Arlecchino
+as the Main DPS,
+Kazuha
+and
+Xilonen
+as the Supports, and
+Bennett
+as the Healer.
+Alternate Mono Pyro teams could have a composition of:
+Diluc
+(Main DPS) –
+Thoma
+(Sub DPS) –
+Kazuha
+(Support) –
+Xilonen
+(Support / Healer)
+Yoimiya
+(Main DPS) –
+Klee
+(Sub DPS) –
+Sucrose
+(Support) –
+Xilonen
+(Support / Healer)
+Yanfei
+(Main DPS) –
+Xiangling
+(Sub DPS) –
+Sucrose
+(Support) –
+Xilonen
+(Support / Healer)
+Mono Geo
+This setup takes full advantage of
+Xilonen
+’s Geo resonance and her DEF-based DMG. She synergises well with other Geo characters, adding sustainability and maintaining a high DEF boost that further scales her healing capabilities. Below is an example of a Mono Geo team that includes
+Arataki Itto
+as the Main DPS,
+Furina
+as the Sub DPS,
+Gorou
+as the Support, and
+Xilonen
+as the Support / Healer.
+Alternate Mono Geo teams could have a composition of:
+Noelle
+(Main DPS) –
+Ningguang
+(Sub DPS) –
+Gorou
+(Support) –
+Xilonen
+(Support / Healer)
+Navia
+(Main DPS) –
+Yunjin
+(Sub DPS) –
+Zhongli
+(Shielder) –
+Xilonen
+(Support / Healer)
+Below is an example of a Mono Geo team that includes
+Navia
+as the Main DPS,
+Xiangling
+as the Sub DPS,
+Xilonen
+as the Support, and
+Bennett
+as the Healer.
+Mono Hydro
+In a Mono Hydro team,
+Xilonen
+serves as a defensive anchor, boosting Hydro DMG potential and adding consistent AoE Geo support. Her DEF-based healing and Blade Roller mode make her a durable teammate, allowing Hydro DPS characters to maximise their offensive capabilities while staying shielded and sustained. Below is an example of a Mono Hydro team that includes
+Neuvillette
+as the Main DPS,
+Furina
+as the Sub DPS,
+Kazuha
+as the Support, and
+Xilonen
+as the Support / Healer.
+Alternate Mono Hydro teams could have a composition of:
+Tartaglia
+(Main DPS) –
+Yelan
+(Sub DPS) –
+Mona
+(Support) –
+Xilonen
+(Support / Healer)
+Ayato
+(Main DPS) –
+Candace
+(Sub DPS) –
+Xingqiu
+(Sub DPS) –
+Xilonen
+(Support / Healer)
+Catalyse
+In a Catalyse team,
+Xilonen
+provides support by lowering Electro and Dendro RES with her Source Samples and by using Blade Roller mode for DEF-based Geo DMG. She helps amplify Aggravate and Spread reactions for Dendro-Electro synergy, while her healing and shields keep high-risk, high-reward DPS characters protected. Below is an example of a Catalyse team that includes
+Raiden Shogun
+as the Main DPS,
+Nahida
+as the Sub DPS,
+Kujou Sara
+as the Support, and
+Xilonen
+as the Support / Healer.
+Alternate Catalyse teams could have a composition of:
+Keqing
+(Main DPS) –
+Yae Miko
+(Sub DPS) –
+Collei
+(Sub DPS) –
+Xilonen
+(Support / Healer)
+Cyno
+(Main DPS) –
+Nahida
+(Sub DPS) –
+Kuki Shinobu
+(Support) –
+Xilonen
+(Support / Healer)
+Alhaitham
+(Main DPS) –
+Fischl
+(Sub DPS) –
+Sucrose
+(Support) –
+Xilonen
+(Support / Healer)

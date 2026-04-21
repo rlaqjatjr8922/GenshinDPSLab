@@ -1,0 +1,432 @@
+Home
+/
+Genshin Impact
+/
+Character List
+/
+Fischl Build
+Fischl Guide and Best Builds
+Fischl is a 4-Star Electro Bow character in Genshin Impact. Our Fischl build 
+guide will focus on Fischl's best weapons, best artifacts, skills and 
+constellations for Fischl's best teams.
+Last updated
+on
+Sep 28, 2025
+at
+09:07
+by
+Mistsplitter Reforged
+1 comment
+S
+Rank
+Electro
+Element
+Bow
+Weapon
+★
+★
+★
+★
+★
+Rarity
+Brittany Cox
+EN Voice Actor
+Maaya Uchida
+JP Voice Actor
+Fischl's Strengths & Weaknesses
+Strengths
+Very little field time required to play Fischl.
+Fischl can act as a powerful battery for your team's Energy Recharge needs.
+Consistent Electro Application due to their 4th Ascension passive.
+Weaknesses
+Can be unreliable in Hyperbloom teams.
+Fischl is not invulnerable when transforming into OZ meaning they can take damage or be defeated while using her Elemental Burst.
+1.
+Fischl Build Guide, Best Artifacts, Weapons and Talent Priority
+Fischl can be built as either your standard off-field DPS or focused instead as 
+an off-field DPS for Aggravate-reactions. This impact's Fischl's
+best stats primarily sets alongside how she is played.
+BiS Weapon
+Polar Star
+Alternative Weapons
+Aqua Simulacra
+Hunter's Path
+Thundering Pulse
+Other 5-Stat Statsticks
+The Stringless
+(Aggravate)
+Song of Stillness
+Chain Breaker
+Alley Hunter
+The Stringless
+The Viridescent Hunt
+Best Artifacts
+Golden Troupe
+Main Stats
+Sand Stats:
+ATK % / Elemental Mastery (in Aggravate)
+Goblet Stats:
+Electro
+DMG
+Circlet Stats:
+CRIT Rate / DMG
+Substat Priority
+Energy Recharge to requirements
+CRIT Rate / DMG
+ATK %
+Elemental Mastery
+Talent Priority
+Elemental Skill
+Elemental Burst
+Fischl is best build with
+Polar Star
+however this can impact 
+rotations, requiring you to activate Polar's effects before summoning Oz. Fischl 
+otherwise has plenty of comparable 5-Star weapons that she can use while
+Song of Stillness
+and
+Chain Breaker
+are her best 4-Star options.
+Build Fischl with
+Golden Troupe
+which is by far her best artifact set 
+for either build type. If you are still leveling artifacts, you can opt instead of a 2-piece 
+setup instead with another EM or ATK% set.
+Fischl does not need to level her Normal Attack.
+2.
+Combos and How to Play Fischl
+As an off-field Sub DPS, Fischl will often have very little
+screen time with the majority of her damage coming from Oz, her summon. Oz can
+be summoned using either your Elemental Skill,
+Nightrider
+and remains
+as a result of your Elemental Burst,
+Midnight Phantasmagoria
+.
+Because both
+Nightrider
+and
+Midnight Phantasmagoria
+will summon Oz, you are able to have
+high uptime by consistently alternating whether you use your Skill or Burst.
+Always make sure to keep an eye on cooldown timers and bursts to help maintain
+Oz uptime.
+When using
+Midnight Phantasmagoria
+, exercise caution.
+Unlike many characters, Fischl has next to no invincibility frames during her
+Burst so enemy attacks can still kill you while you have limited control over
+your movement.
+3.
+Fischl Best Team Comps
+As an off-field DPS, Fischl is flexible in a wide range of team compositions
+such as Aggravate, Taser and
+Overload.
+3.1.
+Fischl Teams With Neuvillette and Clorinde
+Main DPS
+Sub DPS
+Support
+Support
+Neuvillette
+Fischl
+Furina
+Kaedehara Kazuha
+Neuvillette
+Fischl
+Furina
+Xilonen
+Clorinde
+Fischl
+Furina
+Xilonen
+Fischl currently is mostly played with either
+Clorinde
+or
+Neuvillette
+. In Neuvillette teams especially, Fischl provides
+Electro
+which is needed for one of Neuvillette's stacking buffs.
+3.2.
+Fischl Aggravate Teams
+Main DPS
+Sub DPS
+Sub DPS
+Support
+Keqing
+Nahida
+Fischl
+Zhongli
+Yae Miko
+Nahida
+Fischl
+Baizhu
+Yumemizuki Mizuki
+Nahida
+Fischl
+Yae Miko
+Focusing on
+Spread
+and
+Aggravate
+damage is a great way to play
+Fischl. Generally, teams contain two
+Electro
+characters
+especially with
+Nahida
+in the party because of
+Nahida's powerful
+Dendro
+application. This
+however is by no means a requirement. Characters such as
+Tighnari
+and
+Dendro Traveler
+can also be
+used.
+3.3.
+Fischl Taser Teams
+Driver
+Sub DPS
+Support
+Support
+Ifa
+Fischl
+Furina
+Ororon
+Yumemizuki Mizuki
+Fischl
+Furina
+Ororon
+Wanderer
+Fischl
+Xingqiu
+Beidou
+Taser teams are also known as Electro-Charged because
+of the reaction of
+Hydro
+and
+Electro
+.  An
+Anemo
+character generally acts as the driver 
+to swirl reactions.
+3.4.
+Fischl Overload Team
+Main DPS
+Sub DPS
+Support
+Support
+Mavuika
+Fischl
+Chevreuse
+Iansan
+Arlecchino
+Fischl
+Chevreuse
+Bennett
+Fischl in Overload teams works incredibly well with
+Pyro
+DPS such as
+Mavuika
+,
+Arlecchino
+or even
+Yoimiya
+. As is always the case with overloaded, 
+enemies will be knocked around often.
+4.
+Fischl's Ascensions, Talents, and Constellations
+Fischl Ascensions
+Fischl Talents
+Fischl Constellations
+4.1.
+Fischl Ascension Passives and Materials
+Unlock
+Ascension Passive
+Explanation
+With Character
+Mein Hausgarten
+When dispatched on an expedition in Mondstadt, time
+     consumed is reduced by 25%.
+1st Ascension
+Stellar Predator
+When Fischl hits Oz with a fully-charged Aimed Shot, Oz brings down
+    Thundering Retribution, dealing AoE Electro DMG equal to 152.7% of the
+    arrow's DMG.
+4th Ascension
+Undone Be Thy Sinful Hex
+If your active character triggers an Electro-related Elemental Reaction
+    when Oz is on the field, the opponent shall be stricken with Thundering
+    Retribution that deals Electro DMG equal to 80% of Fischl's ATK.
+Fischl requires a range of materials to ascend to the 6th ascension.
+Starting from the second ascension they gain additional Attack as their
+bonus stat giving a total of 24% increased Attack at the final ascension.
+The total cost to upgrade all ascensions is:
+Source
+Quantity
+Mora
+420,000 Mora
+Boss Material
+46x
+Lightning Prism
+Ascension Material
+1x
+Vajrada Amethyst Sliver
+9x
+Vajrada Amethyst Fragment
+9x
+Vajrada Amethyst Chunk
+6x
+Vajrada Amethyst Gemstone
+Local Specialty
+168x
+Small Lamp Grass
+Enhancement Material
+18x
+Firm Arrowhead
+30x
+Sharp Arrowhead
+36x
+Weathered Arrowhead
+4.2.
+Fischl's Talents
+Listed below is each talent and a simplified explanation of how they work.
+Type
+Talent Name
+Brief Explanation
+Normal
+Bolts of Downfall
+Performs up to 5 consecutive shots with a bow.
+"Rachsüchtig Blitz" from her normal attack is not a real effect and
+        charged attack simply works like other bow characters and is just an
+        aspect of Fisch's character.
+Elemental Skill
+Nightrider
+Summon Oz who will deal damage to nearby opponents.
+You can move Oz using your Elemental Skill.
+Elemental Burst
+Midnight Phantasmagoria
+Become Oz and glide around the area dealing Electro damage to nearby
+    opponents. When finished, Oz stays on the field.
+To upgrade a single talent to level 10, it costs:
+Source
+Quantity
+Mora
+1,625,500 Mora
+Special Material
+1x
+Crown of Insight
+Boss Material
+6x
+Spirit Locket of Boreas
+Domain Material
+3x
+Teachings of Ballad
+21x
+Guide to Ballad
+38x
+Philosophies of Ballad
+Enhancement Material
+6x
+Firm Arrowhead
+22x
+Sharp Arrowhead
+31x
+Weathered Arrowhead
+4.3.
+Fischl's Constellations
+The two most valuable constellations are Fischl's C1,
+Gaze of the Deep
+, and C6,
+Evernight Raven
+. This is
+because they both provide additional attacks from Oz. With
+Gaze of the Deep
+providing Normal Attacks and
+Evernight Raven
+providing
+Electro
+Attacks.
+Evernight Raven
+also helps improve Oz uptime which is very
+useful.
+#
+Name
+Explanation
+C1
+Gaze of the Deep
+Even when Oz is not present in combat, he can still watch over
+        Fischl through his raven eyes.
+When Fischl performs a Normal Attack against an opponent, Oz fires
+        a coordinated attack, dealing DMG equal to 22% of Fischl's ATK.
+C2
+Devourer of All Sins
+When
+Nightrider
+is used, it deals an additional 200%
+    ATK as DMG, and its AoE is increased by 50%.
+C3
+Wings of Nightmare
+Increases the Level of
+Nightrider
+by 3.
+Maximum upgrade level is 15.
+C4
+Her Pilgrimage of Bleak
+When
+Midnight Phantasmagoria
+is used, it deals
+        222% of ATK as
+Electro
+DMG to surrounding opponents.
+When the skill duration ends, Fischl regenerates 20% of her HP.
+C5
+Against the Fleeing Light
+Increases the Level of
+Midnight Phantasmagoria
+by 3.
+Maximum upgrade level is 15.
+C6
+Evernight Raven
+Extends the duration of Oz's presence on the field by 2s.
+Additionally, Oz performs coordinated attacks with your active
+        character when present, dealing 30% of Fischl's ATK as
+Electro
+DMG.
+Changelog
+28 Sep. 2025:
+Updated for 6.0.
+05 Jun. 2024:
+Added Clorinde to Aggravate.
+31 Jan. 2024:
+Guide reviewed for Patch 4.4.
+29 Nov. 2023:
+Guide added.
+Show more
+Show less
+Need any help? Check out our
+General Discussion Forum
+!
+1 comment
+In The Same Category
+Beidou Best Builds Guide
+Sethos Best Builds Guide
+Lisa Best Builds Guide
+Cyno Best Builds Guide
+Razor Best Builds Guide
+Ineffa Best Builds Guide
+Clorinde Best Builds Guide
+Flins Profile & Talents
+Raiden Shogun Profile & Talents
+Cyno Profile & Talents
+Ineffa Team Guide
+Raiden Shogun Best Builds Guide
+ABOUT THE AUTHOR
+Wrtiten by Mistsplitter Reforged, a day one player of Genshin 
+        Impact and Zenless Zone Zero, and a Guide Maker on Youtube, 
+        striving to provide helpful content and useful tips. Spends time 
+        collecting characters and enjoying what the games have to offer. Make sure to
+check out their YouTube guides!
+SUPPORT OUR WRITERS

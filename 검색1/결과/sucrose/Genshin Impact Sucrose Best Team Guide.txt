@@ -1,0 +1,772 @@
+Genshin Impact Sucrose Best Team Guide
+Last updated April 20, 2026. Looking for the best Sucrose teams in
+        Genshin Impact? Start with the top team summary below, then pick the
+        lineup that fits your roster.
+This page provides the best Sucrose Team information. Sucrose is a Support DPS in most situations. Top teams include Elemental RES teams and Swirl teams. Team positions can be adjusted based on your roster.
+View Sucrose's character page
+Sucrose Team Summary
+#1
+Team Rating:S
+Sucrose Lunar-Charged Team #1
+#2
+Team Rating:S
+Sucrose Vaporize Klee Hypercarry
+#3
+Team Rating:S
+Sucrose Lunar-Bloom Team
+#4
+Team Rating:SS
+Sucrose Lunar-Charged Team #2
+#5
+Team Rating:S
+Sucrose Aggravate Team
+#6
+Team Rating:S
+Arlecchino Sucrose Melt Team with Citlali & Bennett
+#7
+Team Rating:S
+Sucrose Mavuika Melt Team
+#8
+Team Rating:S
+Sucrose Hyperbloom Hydro Core
+#9
+Team Rating:SS
+Sucrose Vaporize Team #2 (Mualani Overvape Support)
+#1 Sucrose Lunar-Charged Team #1
+Tier S
+Sucrose drives a Lunar-Charged reaction team with consistent Hydro/Electro application from Xingqiu and Fischl, while Ineffa enables Lunar-Charged conversion, shielding, and extra reaction-based damage. Strong grouping, high reaction uptime, and solid teamwide EM scaling.
+Sucrose
+Main DPS
+Anemo
+On-field driver for the team. Her Burst absorbs an element and pulls enemies together, while her Skill/Burst share Elemental Mastery with allies. With at least 2 Hexerei characters, her Skill and Burst also increase overall team DMG.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Sunny Morning Sleep-In
+Wandering Evenstar
+Xingqiu
+Sub DPS
+Hydro
+Provides continuous Hydro application through his Burst to enable reactions.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Sacrificial Sword
+Fischl
+Sub DPS
+Electro
+Summons Oz for persistent Electro damage and reaction support. With at least 2 Hexerei characters, Oz also provides extra team buffs: Overloaded boosts ATK, while Electro-Charged or Lunar-Charged increases nearby active characters' Elemental Mastery.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Aqua Simulacra
+The Stringless
+Ineffa
+Support
+Electro
+Converts Electro-Charged into Lunar-Charged, with Lunar-Charged damage scaling from her ATK. Her Skill grants a shield and summons Birgitta, which can trigger extra attacks from Lunar-Charged reactions. Her Burst increases the active character's Elemental Mastery.
+Artifacts
+Wanderer's Troupe
+Gilded Dreams
+Main Stats
+Sands
+ATK%
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Fractured Halo
+Ballad of the Fjords
+#2 Sucrose Vaporize Klee Hypercarry
+Tier S
+A strong
+Vaporize
+team built around
+Klee
+enabling Pyro reactions with
+Furina
+and
+Sucrose
+, while
+Bennett
+provides massive ATK buffs and healing.
+Sucrose also helps group enemies, shred resistance with Viridescent Venerer, and boost team Elemental Mastery.
+Klee
+Main DPS
+Pyro
+Primary on-field DPS. Uses Pyro-infused attacks and Charged Attacks to drive Vaporize reactions.
+Artifacts
+Marechaussee Hunter
+Main Stats
+Sands
+ATK%
+Goblet
+ATK% / Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Cashflow Supervision
+The Widsith
+Sucrose
+Support
+Anemo
+Provides crowd control, Viridescent Venerer resistance shred, and Elemental Mastery share to boost reaction damage.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Sunny Morning Sleep-In
+Wandering Evenstar
+Furina
+Sub DPS
+Hydro
+Off-field Hydro application and powerful team damage amplification through her Burst. Works best with healing to offset HP drain.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Favonius Sword
+Bennett
+Support
+Pyro
+Provides healing and a huge ATK buff through his Burst, making him a cornerstone for Klee damage.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+Energy Recharge / HP%
+Weapons
+Mistsplitter Reforged
+The Alley Flash
+#3 Sucrose Lunar-Bloom Team
+Tier S
+Sucrose Lunar-Bloom team built around Nefer and Lauma, with Sucrose providing Anemo utility and EM buffs while Aino enables steady Hydro application for Lunar-Bloom reactions.
+Nefer
+Main DPS
+Dendro
+Nefer is the on-field driver and main damage dealer. Her Elemental Skill enters Shadow Dance, replacing Charged Attacks with Phantasm Performance and converting Bloom reactions into Lunar-Bloom reactions, boosting her reaction damage.
+Artifacts
+Night of the Sky's Unveiling
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery
+Weapons
+Reliquary of Truth
+Dawning Frost
+Lauma
+Support
+Dendro
+Lauma enables and amplifies Lunar-Bloom. She converts Bloom into Lunar Bloom, can stack Hymn of Eternal Rest to further boost Lunar-Bloom damage, reduces enemy Dendro and Hydro RES, and scales team damage with her Elemental Mastery.
+Artifacts
+Deepwood Memories
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Nightweaver's Looking Glass
+Etherlight Spindlelute
+Sucrose
+Support
+Anemo
+Sucrose groups enemies and spreads elements with her Burst. Her Skill and Burst share Elemental Mastery with the team, and with at least 2 Hexerei characters she also increases overall team damage.
+Artifacts
+Wanderer's Troupe
+Gilded Dreams
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery
+Weapons
+Sacrificial Fragments
+Aino
+Support
+Hydro
+Aino provides continuous Hydro application through her Elemental Burst, summoning the Cool Your Jets Ducky for sustained Hydro damage and reaction setup.
+Artifacts
+Instructor
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Energy Recharge
+Weapons
+Flame-Forged Insight
+#4 Sucrose Lunar-Charged Team #2
+Tier SS
+Lunar-Charged reaction team built around Flins as the on-field damage dealer, with Aino providing Hydro application, Sucrose enabling grouping and EM buffs plus Viridescent Venerer shred, and Ineffa supplying shielding, additional Lunar-Charged triggers, and EM support.
+Flins
+Main DPS
+Electro
+On-field carry. His Elemental Skill transforms him into Manifest Flame form, converting Normal Attacks into Electro DMG and empowering his Skill. After using it, he can unleash a special Elemental Burst that deals Lunar-Charged AoE Electro DMG. He also converts allies' Electro-Charged DMG into Lunar-Charged DMG, with the DMG increased based on his ATK.
+Artifacts
+Night of the Sky's Unveiling
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge / Elemental Mastery
+Weapons
+Bloodsoaked Ruins
+Deathmatch
+Aino
+Support
+Hydro
+Provides continuous Hydro DMG through her Elemental Burst by summoning the Cool Your Jets Ducky, helping maintain Electro-Charged/Lunar-Charged uptime.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / Energy Recharge
+Weapons
+Flame-Forged Insight
+Sucrose
+Support
+Anemo
+Groups enemies and swirls the first element her Burst contacts. Her Skill and Burst share Elemental Mastery with allies based on her own EM. With at least 2 Hexerei characters in the party, her Skill and Burst also increase the team's overall DMG.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge
+Weapons
+Sunny Morning Sleep-In
+Wandering Evenstar
+Ineffa
+Support
+Electro
+Provides shielding and summons Birgitta. Her passive converts Electro-Charged into Lunar-Charged, and Lunar-Charged damage scales with her ATK. Her Burst also increases the active character's Elemental Mastery.
+Artifacts
+Silken Moon's Serenade
+Main Stats
+Sands
+ATK%
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Fractured Halo
+Ballad of the Fjords
+#5 Sucrose Aggravate Team
+Tier S
+Aggravate-focused team built around
+Clorinde
+as the on-field Electro DPS, with
+Fischl
+and
+Nahida
+enabling strong off-field Electro and Dendro application.
+Sucrose
+provides crowd control, Viridescent Venerer RES shred, and Elemental Mastery buffs to amplify reaction damage.
+Clorinde
+Main DPS
+Electro
+On-field Electro carry. Use her Elemental Skill to convert Normal Attacks into Electro pistol attacks and maintain Bond of Life for sustained damage.
+Artifacts
+Fragment of Harmonic Whimsy
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Absolution
+The Black Sword
+Fischl
+Sub DPS
+Electro
+Summons Oz for consistent off-field Electro damage and Aggravate procs. Strong single-target and sustained reaction support.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Aqua Simulacra
+The Stringless
+Sucrose
+Support
+Anemo
+Provides crowd control,
+Viridescent Venerer
+RES shred, and shares Elemental Mastery to boost team reaction damage. Her Burst can absorb an element for extra reaction utility.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge
+Weapons
+Sunny Morning Sleep-In
+Wandering Evenstar
+Nahida
+Sub DPS
+Dendro
+Applies Dendro via her Elemental Skill to maintain Quicken/Aggravate setup and deal strong off-field damage. Her Burst further enhances her Skill based on the team.
+Artifacts
+Deepwood Memories
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / CRIT Rate / CRIT DMG / Energy Recharge / ATK%
+Weapons
+A Thousand Floating Dreams
+Wandering Evenstar
+#6 Arlecchino Sucrose Melt Team with Citlali & Bennett
+Tier S
+Highly offensive Melt composition centered around Arlecchino. Sucrose provides grouping and EM share, Citlali offers shielding plus Cryo application and RES shred, while Bennett supplies a massive ATK buff and healing.
+Arlecchino
+Main DPS
+Pyro
+Arlecchino is the on-field damage dealer. Her attacks convert to Pyro while Bond of Life is above 20% HP, and her Burst deals AoE Pyro damage while resetting Skill cooldown. She can only be healed by her Burst.
+Artifacts
+Fragment of Harmonic Whimsy
+Main Stats
+Sands
+ATK%
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Crimson Moon's Semblance
+Deathmatch
+Sucrose
+Support
+Anemo
+Sucrose groups enemies with Burst and shares Elemental Mastery through Skill/Burst hits. With 2 Hexerei characters in the party, her Skill and Burst also increase the team’s overall damage.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge
+Weapons
+Sunny Morning Sleep-In
+Wandering Evenstar
+Citlali
+Support
+Cryo
+Citlali provides a shield scaling with Elemental Mastery and summons a creature that deals AoE Cryo damage. When nearby party members trigger Frozen or Melt, affected enemies have their Pyro and Hydro RES reduced.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge / CRIT Rate / CRIT DMG
+Weapons
+Starcaller's Watch
+Thrilling Tales of Dragon Slayers
+Bennett
+Support
+Pyro
+Bennett’s Burst provides a large ATK buff and healing for the team.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+Energy Recharge / HP%
+Weapons
+Mistsplitter Reforged
+The Alley Flash
+#7 Sucrose Mavuika Melt Team
+Tier S
+Melt-focused team built around
+Mavuika
+as the on-field Main DPS, with
+Sucrose
+providing grouping, Elemental Mastery buffs, and Viridescent Venerer shred.
+Citlali
+supplies shielding and Cryo application, while
+Bennett
+offers strong ATK buff and healing.
+Mavuika
+Main DPS
+Pyro
+Main on-field DPS. Her Elemental Burst is charged through Nightsoul points generated by Natlan characters or by teammates' Normal Attacks. Upon activation, her abilities and interruption resistance are significantly enhanced for 7 seconds.
+Artifacts
+Obsidian Codex
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+A Thousand Blazing Suns
+Fang of the Mountain King
+Serpent Spine
+Sucrose
+Support
+Anemo
+Provides crowd control, Elemental Mastery sharing, and
+Viridescent Venerer
+resistance shred. Her Burst can absorb an element and pull enemies together. With at least 2 Hexerei characters in the party, her Skill and Burst also increase overall team DMG.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge
+Weapons
+Sunny Morning Sleep-In
+Wandering Evenstar
+Citlali
+Support
+Cryo
+Provides a shield scaling with Elemental Mastery and summons a creature that deals AoE Cryo damage. While active, nearby party members triggering Frozen or Melt reactions reduce the affected enemies' Pyro and Hydro RES.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge / CRIT Rate / CRIT DMG
+Weapons
+Starcaller's Watch
+Thrilling Tales of Dragon Slayers
+Bennett
+Support
+Pyro
+Provides a massive ATK buff and healing through his Elemental Burst.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+Energy Recharge / HP%
+Weapons
+Mistsplitter Reforged
+The Alley Flash
+#8 Sucrose Hyperbloom Hydro Core
+Tier S
+A strong
+Hydro damage core
+built around
+Neuvillette
+and
+Furina
+, with
+Sucrose
+providing Anemo grouping, Swirl setup, and team EM buffs.
+Xilonen
+adds RES shred, healing, and additional team damage support. The team is flexible, but note that
+Sucrose is primarily here for utility and Hexerei synergy
+.
+Neuvillette
+Main DPS
+Hydro
+Main on-field DPS. Uses charged attacks to deal sustained Hydro damage. Benefits greatly from Hydro buffing, RES shred, and team-wide damage bonuses.
+Artifacts
+Marechaussee Hunter
+Main Stats
+Sands
+HP%
+Goblet
+Hydro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Tome of the Eternal Flow
+Sacrificial Jade
+Furina
+Sub DPS
+Hydro
+Off-field Hydro damage and a powerful team DMG buff through her Burst. Wants consistent HP fluctuation and enough Energy Recharge to Burst reliably.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Wolf-Fang
+Sucrose
+Support
+Anemo
+Provides crowd control, Swirl application, and Elemental Mastery sharing. With at least 2 Hexerei characters in the party, her Skill and Burst also increase team damage.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge
+Weapons
+Sunny Morning Sleep-In
+Sacrificial Fragments
+Xilonen
+Support
+Geo
+Applies RES shred through Samplers and provides healing for the team. Also helps increase overall team damage with
+Scroll of the Hero of Cinder City
+.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Peak Patrol Song
+Favonius Sword
+#9 Sucrose Vaporize Team #2 (Mualani Overvape Support)
+Tier SS
+High-damage Vaporize team built around
+Mualani
+as the on-field Hydro DPS, with
+Xilonen
+shredding RES and healing,
+Sucrose
+providing grouping and Elemental Mastery buffs, and
+Xiangling
+supplying strong off-field Pyro application for Vaporize reactions.
+Mualani
+Main DPS
+Hydro
+Primary on-field damage dealer. Uses her Skill to enter Nightsoul’s Blessing and perform enhanced
+Sharky Bite
+attacks. Build for HP and Hydro DMG to maximize her Vaporize hits.
+Artifacts
+Obsidian Codex
+Main Stats
+Sands
+HP%
+Goblet
+Hydro DMG
+Circlet
+Elemental Mastery
+Substats
+HP% / CRIT DMG / CRIT Rate / Elemental Mastery / Energy Recharge
+Weapons
+Surf's Up
+Sacrificial Jade
+Xilonen
+Support
+Geo
+Provides enemy elemental RES reduction through Samplers and also offers team healing. Best used for utility and sustain while enabling stronger Vaporize damage.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Peak Patrol Song
+Favonius Sword
+Sucrose
+Support
+Anemo
+Groups enemies with Burst and spreads Pyro/Hydro via
+Viridescent Venerer
+Swirls. Also shares Elemental Mastery to boost team reaction damage. Her Burst can absorb the first element it touches.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge / CRIT Rate / CRIT DMG
+Weapons
+A Thousand Floating Dreams
+Sacrificial Fragments
+Xiangling
+Sub DPS
+Pyro
+Off-field Pyro applicator and major source of reaction damage through her Burst. Needs high Energy Recharge to maintain consistent Pyronado uptime.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Engulfing Lightning
+Favonius Lance
+Sucrose Teams FAQ
+What is the best Sucrose team in Genshin Impact?
+Sucrose Lunar-Charged Team #1 is one of the strongest Sucrose teams right now. Use the team summary and build cards on this page to pick the best version for your account.
+What are good Sucrose teams without premium weapons?
+You can run strong Sucrose teams without signature weapons by prioritizing reaction synergy, energy consistency, and artifact main stats shown in each build card.
+Which teammates are best with Sucrose?
+Common high-performing partners include teams such as Sucrose Lunar-Charged Team #1, Sucrose Vaporize Klee Hypercarry, Sucrose Lunar-Bloom Team. Check each lineup section for role breakdowns and gear priorities.

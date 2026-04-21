@@ -1,0 +1,120 @@
+0
+Bookmark (
+0
+)
+Please login to bookmark
+Close
+Username or Email Address
+Password
+Remember Me
+Don't have an account? Register here.
+Create an account to bookmark articles.
+Username
+*
+3-60 characters, letters, numbers, spaces, and these symbols: @._-
+Email
+*
+You will receive an email to set your password after registration.
+Subscribe to The Destructoid Checkpoint Newsletter
+Get the latest gaming news and updates delivered to your inbox.
+Create Account
+Already have an account? Sign in here.
+Back to top
+Home
+Guides
+Best Dori Builds, Weapons, and Teams in Genshin Impact
+How to get the best return on your investment.
+Christine Choi
+| Oct 26, 2023 7:56 am
+Image via HoYoverse
+Dori is a 4-star Electro Claymore support character in
+Genshin Impact
+.
+Dori is rarely optimal, but she can still be a flexible support in a pinch. Here are the best weapons, artifacts, and teams to make the best use of our little Mora gremlin.
+Recommended Videos
+Playstyles
+Dori is most often a support. Her Burst summons a Jinni that continuously heals any on-field character and regenerates some of their Energy. Her healing and Energy generation are adequate, but lackluster, limiting her use in the Spiral Abyss. However, Dori truly shines in co-op, where her Burst can heal and provide Energy to all on-field teammates at once. Dori’s basic combo as a support is using her Skill, then Burst, then swapping to teammates.
+DPS Dori is also a possibility at Constellation 6. Her Electro-infused Normal Attacks as well as the Electro damage from her Skill and Burst can be used to trigger Aggravate. This should only be attempted if you really want to play Dori though, since there are better Aggravate DPS options out there. Fischl, Beidou, and Lisa make good 4-star options, while 5-star options include Keqing, Cyno, and Yae Miko.
+This guide will focus on her support build, since support Dori is her generally recommended playstyle.
+Screenshot by Destructoid
+Weapons
+Favonius Greatsword
+This is the generally recommended option. Its passive allows Dori to generate extra particles when she scores a CRIT, making it beneficial to build some CRIT Rate when using this weapon.
+Sacrificial Greatsword / Katsuragikiri Nagamasa / Forest Regalia
+These are alternatives that help with Dori’s Energy needs. Sacrificial Greatsword allows her to use two Skills in a row. Katsuragikiri Nagamasa makes it so you need to use Dori’s Burst before her Skill. Forest Regalia has a useful team buff built into its passive. These are all fairly accessible, decent Claymores.
+The Bell
+Yes, Dori can use The Bell. It doesn’t help with her Energy Recharge at all, but its HP secondary stat does improve her healing. I would recommend one of the other options above, if any are available to you.
+Screenshot by Destructoid
+Artifacts
+4pc Noblesse Oblige (4NO)
+Since Dori will be using her Burst every rotation, she might as well buff the team while she’s at it.
+4pc The Exile / 4pc Instructor
+These 4-star sets have lower max stats, but give Dori some extra team utility. Since she doesn’t deal much damage to begin with, the lower stats aren’t too much of a drawback for her. The Exile allows Dori to generate additional Energy for her team. Instructor grants a sizable Elemental Mastery team buff when Dori triggers a reaction.
+Artifact Stats
+Sands
+Goblet
+Circlet
+Energy Recharge
+HP
+HP
+Healing Bonus
+HP
+CRIT Rate (if Favonius)
+Dori can require more than 220% Energy Recharge if she is the sole Electro character on your team. You might want to equip Favonius Greatsword or have another Electro teammate to get this down to a more reasonable 160%-ish. As always, try her out in your team to figure out a comfortable Energy Recharge threshold.
+Once you have enough Energy Recharge, you can invest in HP and Healing Bonus to increase Dori’s healing. Some CRIT Rate is nice too if you have Favonius Greatsword equipped. If you want Dori to deal damage, you can try to build some offensive stats like ATK, EM, and CRIT, but her damage tends to be quite low either way.
+Screenshot by Destructoid
+Teams
+Generic Support
+Dori’s ability to both heal and generate Energy makes her a viable support for on-field DPS units who rely on their Bursts. You will get better results with a more specialized support, but Dori’s strength is in her universal Energy generation, allowing her to be flexible.
+Dori – Eula –
+Fischl
+– Rosaria/Shenhe
+Dori – Xiao – Faruzan –
+Bennett
+/Jean
+Dori – Itto – Albedo – Gorou
+Dori – Cyno – Nahida/Dendro Traveler – flex
+Dori-Jean Hyperbloom
+Dori’s Burst applies Electro to on-field characters, and Jean’s Burst applies Anemo. Combine the two, and you get Swirl. By overlapping Dori and Jean’s Bursts, you can repeatedly trigger Electro Swirls on yourself, dealing damage in a small AoE based on Jean’s Elemental Mastery stat. Take this a step further by adding Hydro and Dendro teammates, allowing those Electro Swirls to trigger Hyperbloom.
+Dori – Jean – Dendro – Hydro
+0
+Christine Choi
+Contributing Writer - Christine has been gaming since she first stole her brother's Game Boy as a kid. She's come a long way since then and has been creating content for Genshin Impact since 2021.
+Tags:
+Genshin Impact
+guides
+HoYoverse
+miHoYo
+mobile
+PC
+PS4
+PS5
+0
+Bookmark (
+0
+)
+Please login to bookmark
+Close
+Username or Email Address
+Password
+Remember Me
+Don't have an account? Register here.
+Create an account to bookmark articles.
+Username
+*
+3-60 characters, letters, numbers, spaces, and these symbols: @._-
+Email
+*
+You will receive an email to set your password after registration.
+Subscribe to The Destructoid Checkpoint Newsletter
+Get the latest gaming news and updates delivered to your inbox.
+Create Account
+Already have an account? Sign in here.
+Share
+this article
+Destructoid is supported by our audience. When you purchase through links on our site, we may earn a small affiliate commission.
+Learn more about our Affiliate Policy
+.
+Like our content? Set Destructoid as a
+Preferred Source on Google
+in just one step to ensure you see us more frequently in your Google searches!

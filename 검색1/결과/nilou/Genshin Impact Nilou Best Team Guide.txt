@@ -1,0 +1,757 @@
+Genshin Impact Nilou Best Team Guide
+Last updated April 20, 2026. Looking for the best Nilou teams in
+        Genshin Impact? Start with the top team summary below, then pick the
+        lineup that fits your roster.
+This page provides the best Nilou Team information. Nilou is a DPS in most of the situation, primarily a Sub DPS. Top teams include Blooming teams composed of only Dendro and Hydro Characters.
+View Nilou's character page
+Nilou Team Summary
+#1
+Team Rating:A
+Nilou Bloom Team 1 - Barbara Bloom Driver
+#2
+Team Rating:S
+Nilou Bloom Team 2 - Kokomi Nilou Nahida Collei Bountiful Cores
+#3
+Team Rating:S
+Nilou Bloom Team #3 - Nahida Xingqiu Nilou Yaoyao
+#4
+Team Rating:S
+Nilou Bloom Bountiful Cores with Nahida, Yelan & Baizhu
+#5
+Team Rating:S
+Nilou Bloom S+ Core with Kokomi Nahida Lauma
+#6
+Team Rating:S
+Nilou Blooming Team #6
+C1
+#7
+Team Rating:S
+Nilou Hydro Team #2
+#8
+Team Rating:S
+Nilou Permafrost Team
+#9
+Team Rating:S
+Nilou Vaporize Team
+#1 Nilou Bloom Team 1 - Barbara Bloom Driver
+Tier A
+Nilou Bloom team centered around Barbara as the on-field driver. Barbara continuously applies Hydro with her Skill to trigger Bloom reactions, while Nilou enables Bountiful Cores for stronger Bloom damage. Collei and Dendro Traveler provide off-field Dendro application and support.
+Barbara
+Main DPS
+Hydro
+On-field driver for the team. Barbara's Elemental Skill helps keep Hydro applied to enemies and provides healing for the party.
+Artifacts
+Flower of Paradise Lost
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Healing Bonus
+Substats
+Elemental Mastery / HP% / Energy Recharge
+Weapons
+Sacrificial Fragments
+Nilou
+Sub DPS
+Hydro
+Provides Hydro application for Bloom reactions. Her passive turns Bloom cores into Bountiful Cores when the team is limited to Hydro and Dendro characters, increasing AoE and damage.
+Artifacts
+Tenacity of the Millelith
+Vourukasha's Glow
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / Elemental Mastery
+Weapons
+Key of Khaj-Nisut
+The Dockhand's Assistant
+Collei
+Sub DPS
+Dendro
+Off-field Dendro applier and source of supplemental damage for triggering Bloom.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Dendro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Elegy for the End
+Sacrificial Bow
+Traveler (Dendro)
+Support
+Dendro
+Provides off-field Dendro application and additional damage for Bloom triggering.
+Artifacts
+Deepwood Memories
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Dendro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+#2 Nilou Bloom Team 2 - Kokomi Nilou Nahida Collei Bountiful Cores
+Tier S
+Nilou Bloom team focused on fast
+Bountiful Core
+generation through only Hydro and Dendro characters. Kokomi stays on-field to apply Hydro and sustain the team, while Nilou enables enhanced Bloom cores. Nahida and Collei provide off-field Dendro application and reaction support.
+Sangonomiya Kokomi
+Main DPS
+Hydro
+On-field Hydro driver and healer. Her continuous Hydro application triggers Bloom reactions with Dendro enemies.
+Artifacts
+Flower of Paradise Lost
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Healing Bonus
+Substats
+Elemental Mastery / HP% / Energy Recharge
+Weapons
+Everlasting Moonglow
+Sacrificial Fragments
+Nilou
+Sub DPS
+Hydro
+Enables
+Bountiful Cores
+through her passive when the team contains only Hydro and Dendro characters. Provides Hydro application for Bloom.
+Artifacts
+Tenacity of the Millelith
+Vourukasha's Glow
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Elemental Mastery
+Weapons
+Key of Khaj-Nisut
+The Dockhand's Assistant
+Nahida
+Sub DPS
+Dendro
+Primary off-field Dendro applier. Her Elemental Skill links enemies and triggers reactions; Burst buffs her skill based on teammates' elements.
+Artifacts
+Deepwood Memories
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / Energy Recharge / ATK%
+Weapons
+A Thousand Floating Dreams
+Wandering Evenstar
+Collei
+Sub DPS
+Dendro
+Off-field Dendro support that adds extra Dendro application and some damage to keep Bloom reactions going.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Dendro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Elegy for the End
+Sacrificial Bow
+#3 Nilou Bloom Team #3 - Nahida Xingqiu Nilou Yaoyao
+Tier S
+Nilou Bloom team focused on triggering
+Bountiful Cores
+through Hydro + Dendro reactions. Nahida drives Dendro application, Xingqiu supplies consistent off-field Hydro, Nilou enables Bloom core transformation, and Yaoyao provides healing and survivability.
+Nahida
+Main DPS
+Dendro
+Main on-field or quickswap Dendro damage dealer. Her Elemental Skill can mark multiple enemies and trigger reactions reliably, while her Burst buffs her Skill based on teammates' elements.
+Artifacts
+Deepwood Memories
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / Energy Recharge / ATK%
+Weapons
+A Thousand Floating Dreams
+Wandering Evenstar
+Xingqiu
+Sub DPS
+Hydro
+Provides consistent off-field Hydro application through his Burst, enabling frequent Bloom reactions. His Skill also offers interruption resistance.
+Artifacts
+Flower of Paradise Lost
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge / ATK%
+Weapons
+Xiphos' Moonlight
+Nilou
+Sub DPS
+Hydro
+Enables Bloom teams by converting Bloom Cores into
+Bountiful Cores
+when the team is composed only of Hydro and Dendro characters. Focus on HP for maximizing her passive.
+Artifacts
+Tenacity of the Millelith
+Vourukasha's Glow
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Elemental Mastery
+Weapons
+Key of Khaj-Nisut
+The Dockhand's Assistant
+Yaoyao
+Support
+Dendro
+Healer who keeps the team healthy and can hold Tenacity of the Millelith for additional team value. Provides a safe environment for Bloom damage.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+CRIT Rate / HP% / Energy Recharge
+Weapons
+Staff of Homa
+Dialogues of the Desert Sages
+#4 Nilou Bloom Bountiful Cores with Nahida, Yelan & Baizhu
+Tier S
+A strong
+Nilou Bloom
+team built around fast Dendro/Hydro application and
+Bountiful Cores
+. Nahida drives Dendro application and reaction consistency, Yelan and Nilou provide off-field Hydro, and Baizhu supplies healing/shielding while adding extra Bloom damage scaling through his Max HP.
+Nahida
+Main DPS
+Dendro
+Primary on-field driver and main source of Dendro application. Her Elemental Skill can link up to 8 enemies, and her Burst enhances the Skill based on teammate elements.
+Artifacts
+Deepwood Memories
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / Energy Recharge / ATK%
+Weapons
+A Thousand Floating Dreams
+Wandering Evenstar
+Yelan
+Sub DPS
+Hydro
+Off-field Hydro applier that helps trigger Bloom consistently while contributing strong personal damage.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge / Elemental Mastery
+Weapons
+Aqua Simulacra
+The Stringless
+Nilou
+Sub DPS
+Hydro
+Provides Hydro application and enables
+Bountiful Cores
+through her passive when the team consists only of Hydro and Dendro characters. Her cores explode faster and deal larger AoE damage.
+Artifacts
+Tenacity of the Millelith
+Vourukasha's Glow
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Elemental Mastery
+Weapons
+Key of Khaj-Nisut
+The Dockhand's Assistant
+Baizhu
+Support
+Dendro
+Provides healing and shielding to keep the team safe. His passive also increases Blooming damage based on his Max HP.
+Artifacts
+Tenacity of the Millelith
+Vourukasha's Glow
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+CRIT Rate / HP% / Energy Recharge
+Weapons
+Jadefall's Splendor
+Prototype Amber
+Favonius Codex
+#5 Nilou Bloom S+ Core with Kokomi Nahida Lauma
+Tier S
+Nilou Bloom #5
+— S+ tier Bloom/Bountiful Core team focused on massive AoE reaction damage. Nilou enables Bountiful Cores, while Kokomi sustains the team and keeps Hydro application consistent. Nahida provides strong off-field Dendro application and Deepwood RES shred, and Lauma upgrades Bloom into
+Lunar Bloom
+, adding Crit scaling, extra damage, and Dendro/Hydro RES reduction.
+Nilou
+Main DPS
+Hydro
+Primary enabler of Bountiful Cores. Keep the team strictly Hydro/Dendro to fully benefit from Nilou's passive.
+Artifacts
+Tenacity of the Millelith
+Vourukasha's Glow
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / Elemental Mastery
+Weapons
+Key of Khaj-Nisut
+The Dockhand's Assistant
+Sangonomiya Kokomi
+Support
+Hydro
+Healer and consistent Hydro applier. Her Skill helps trigger Bloom reactions reliably while sustaining the team.
+Artifacts
+Flower of Paradise Lost
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Healing Bonus
+Substats
+Elemental Mastery / HP% / Energy Recharge
+Weapons
+Everlasting Moonglow
+Sacrificial Fragments
+Nahida
+Sub DPS
+Dendro
+Strong off-field Dendro damage and application. Her Skill can link multiple enemies, and her Burst enhances her skill based on teammates' elements.
+Artifacts
+Deepwood Memories
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / ATK%
+Weapons
+A Thousand Floating Dreams
+Wandering Evenstar
+Lauma
+Support
+Dendro
+Transforms Bloom into
+Lunar Bloom
+, enabling Crits and boosting reaction damage. Also provides Dendro/Hydro RES shred and scales team Lunar Bloom damage with EM.
+Artifacts
+Silken Moon's Serenade
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / ATK% / Energy Recharge
+Weapons
+Nightweaver's Looking Glass
+Wandering Evenstar
+#6 Nilou Blooming Team #6
+Tier S
+Nilou is the Main DPS in this Bloom team. The squad focuses on triggering Bloom/Bountiful Core reactions with strong Hydro and Dendro application. Lauma upgrades the team into
+Lunar Bloom
+, increasing Bloom damage and enabling crit-based scaling.
+Nilou
+Main DPS
+Hydro
+Provides Hydro application for Bloom triggers. If the team is composed only of Hydro and Dendro characters, Bloom cores become
+Bountiful Cores
+, which explode faster and deal larger AoE DMG.
+Artifacts
+Tenacity of the Millelith
+Vourukasha's Glow
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / Elemental Mastery
+Weapons
+Key of Khaj-Nisut
+The Dockhand's Assistant
+Xingqiu
+Sub DPS
+Hydro
+His Elemental Burst applies Hydro continuously, helping maintain Bloom triggers throughout the rotation.
+Artifacts
+Flower of Paradise Lost
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Xiphos' Moonlight
+Nahida
+Sub DPS
+Dendro
+Deals most of her damage through Elemental Skill, linking multiple enemies and applying consistent Dendro. Her Burst enhances her Skill depending on teammates' elements.
+Artifacts
+Deepwood Memories
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / ATK%
+Weapons
+A Thousand Floating Dreams
+Wandering Evenstar
+Lauma
+Support
+Dendro
+Constellation 1+
+Transforms Bloom into
+Lunar Bloom
+, which can crit and deals increased damage. Her Skill builds
+Hymn of Eternal Rest
+stacks to further boost team Lunar Bloom damage, while also reducing enemy Dendro and Hydro RES and scaling team bonuses from EM.
+Artifacts
+Silken Moon's Serenade
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / ATK% / Energy Recharge
+Weapons
+Nightweaver's Looking Glass
+Wandering Evenstar
+#7 Nilou Hydro Team #2
+Tier S
+Nilou Hydro team with strong off-field Hydro application and healing support. Furina boosts team damage through HP fluctuation, while Jean provides healing and
+Viridescent Venerer
+RES shred. The team is built around Nilou as the on-field carry with Yelan adding consistent Hydro damage and application.
+Nilou
+Main DPS
+Hydro
+On-field Hydro DPS and the team's main driver. Focus on HP scaling and Hydro damage uptime.
+Artifacts
+Tenacity of the Millelith
+Vourukasha's Glow
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP / Elemental Mastery
+Weapons
+Splendor of Tranquil Waters
+Wolf-Fang
+Yelan
+Sub DPS
+Hydro
+Provides continuous off-field Hydro application and strong burst damage.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge / Elemental Mastery
+Weapons
+Aqua Simulacra
+The Stringless
+Furina
+Sub DPS
+Hydro
+Off-field Hydro support whose Elemental Skill applies Hydro consistently and whose Burst increases team damage based on HP changes. Benefits from team healing to restore lost HP.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+Energy Recharge
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Favonius Sword
+Jean
+Support
+Anemo
+Healer and Viridescent Venerer user. Provides team sustain, applies Anemo for swirls, and reduces enemy RES.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Energy Recharge
+Goblet
+ATK%
+Circlet
+Healing Bonus
+Substats
+Energy Recharge / CRIT Rate / ATK%
+Weapons
+Skyward Blade
+Favonius Sword
+#8 Nilou Permafrost Team
+Tier S
+Nilou
+serves as the Main DPS and enables Hydro application for Freeze-oriented reaction play. The team combines Cryo support, Hydro off-field damage, and healing/utility to maintain uptime and team survivability.
+Note: some source text appears internally inconsistent about elements; roles and gear are preserved as provided.
+Nilou
+Main DPS
+Hydro
+Main on-field carry and primary Hydro applier for the team.
+Artifacts
+Marechaussee Hunter
+Main Stats
+Sands
+HP%
+Goblet
+Hydro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / HP% / Energy Recharge
+Weapons
+Key of Khaj-Nisut
+Wolf-Fang
+Citlali
+Support
+Cryo
+Provides shielding, Cryo damage, and resistance shred through reaction-triggered debuffs.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge / CRIT Rate / CRIT DMG
+Weapons
+Starcaller's Watch
+Sacrificial Fragments
+Furina
+Sub DPS
+Hydro
+Provides continuous Hydro application and team damage buffing through HP fluctuation mechanics.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Favonius Sword
+Escoffier
+Support
+Cryo
+Summons off-field Cryo attacks, heals the team, and reduces enemy Cryo/Hydro resistance; debuff strength scales with Cryo and Hydro teammates.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Symphonist of Scents
+Favonius Lance
+#9 Nilou Vaporize Team
+Tier S
+Nilou is the Main DPS in the team. The team focuses on Hydro application for Vaporize reactions, with Furina providing off-field Hydro and damage buffs, Kazuha grouping enemies and boosting team damage, and Xiangling contributing strong off-field Pyro damage for Vaporize triggers.
+Nilou
+Main DPS
+Hydro
+Nilou is the Main DPS in this team. Nilou provides Hydro element to trigger Vaporization.
+Artifacts
+Tenacity of the Millelith
+Vourukasha's Glow
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP / Elemental Mastery
+Weapons
+Key of Khaj-Nisut
+Wolf-Fang
+Furina
+Sub DPS
+Hydro
+Furina’s Elemental Skill can provide continuous Hydro application even while off-field, enabling consistent reaction triggers.
+Her Elemental Burst increases team damage based on HP changes, which can be maintained through her skill’s HP drain and healing.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+Energy Recharge
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Wolf-Fang
+Kaedehara Kazuha
+Support
+Anemo
+Kazuha helps by grouping enemies together, providing crowd control, buffing teammate damage, and reducing enemy Elemental RES.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge / CRIT Rate
+Weapons
+Freedom-Sworn
+Xiphos' Moonlight
+Xiangling
+Sub DPS
+Pyro
+Xiangling’s Elemental Burst deals massive off-field Pyro damage for triggering Vaporization.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate
+Substats
+Energy Recharge / CRIT Rate
+Weapons
+Engulfing Lightning
+Favonius Lance
+Nilou Teams FAQ
+What is the best Nilou team in Genshin Impact?
+Nilou Bloom Team 1 - Barbara Bloom Driver is one of the strongest Nilou teams right now. Use the team summary and build cards on this page to pick the best version for your account.
+What are good Nilou teams without premium weapons?
+You can run strong Nilou teams without signature weapons by prioritizing reaction synergy, energy consistency, and artifact main stats shown in each build card.
+Which teammates are best with Nilou?
+Common high-performing partners include teams such as Nilou Bloom Team 1 - Barbara Bloom Driver, Nilou Bloom Team 2 - Kokomi Nilou Nahida Collei Bountiful Cores, Nilou Bloom Team #3 - Nahida Xingqiu Nilou Yaoyao. Check each lineup section for role breakdowns and gear priorities.

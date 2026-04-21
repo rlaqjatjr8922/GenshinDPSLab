@@ -1,0 +1,579 @@
+Genshin Impact Candace Build
+Polearm
+Hydro
+Aaru Village
+3/5
+Sagitta Scutum
+Steeple of Ignorance
+A descendant of King Deshret with an amber left eye. The defender of Aaru Village.
+Best builds for Candace
+BUFF SUPPORT Build
+Weapons
+1
+Favonius Lance
+Energy Recharge
+2
+Engulfing Lightning
+Energy Recharge
+3
+Staff of Homa
+CRIT DMG
+4
+Deathmatch
+CRIT Rate
+5
+"The Catch"
+Energy Recharge
+6
+Prototype Starglitter
+Energy Recharge
+7
+Skyward Spine
+Energy Recharge
+8
+Black Tassel
+HP%
+Artifacts
+1
+Scroll of the Hero of Cinder City
+4
+2
+Emblem of Severed Fate
+4
+3
+Instructor
+4
+Choose 2
+Emblem of Severed Fate
+2
+Hydro DMG Bonus +15% set
+2
+Noblesse Oblige
+2
+HP +20% set
+2
+Substats Priority
+1
+Energy Recharge
+2
+CRIT Rate
+3
+HP%
+4
+HP
+Talents Priority
+1
+Q
+Burst
+2
+E
+Skill
+3
+NA
+Normal Attack
+Recommended Primary Stats
+Sands
+Energy Recharge / HP%
+Goblet
+HP% / Hydro DMG Bonus
+Circlet
+HP% / CRIT Rate / CRIT DMG
+In some teams,
+Candace
+'s hold
+Elemental Skill
+cooldown is too long for rotations to work properly, so if
+Candace
+isn't
+C4
+, it's recommended to avoid getting hit and to do a tap
+Skill
+as quick as possible.
+To optimize
+Candace
+'s performance, consider the following:
+Avoid taking damage to minimize
+Elemental Skill
+cooldown
+Use tap
+Skill
+to quickly apply
+Elemental
+effects
+Invest in
+ER
+and
+EM
+to improve
+Candace
+'s overall
+Elemental
+damage
+Candace
+is a 4*
+Hydro
+Support that specializes in providing off-field
+Hydro
+application with her HP% scaling Burst, infusing the autos of melee allies (Sword/Claymore/Polearm) with
+Hydro
+via her Burst's Prayer of the Crimson Crown effect, and providing defensive utility with her Elemental Skill. It is worth noting that
+Candace
+will never be the strongest option for your teams; at the cost of having different kinds of utility options in one kit, she will never be the best at them. Her damage contribution will be surpassed by other offensive-type
+Hydro
+supports like
+Xingqiu
+and her defensive capabilities are outclassed by the healing capabilities of the other
+Hydro
+healers. Thus, it is recommended to focus on her strength as a consistent
+Hydro
+applier by getting as much
+Energy Recharge
+as possible, which will help her maintain a consistent uptime on her Burst (her main source of
+Hydro
+application). For this reason,
+Candace
+'s weapon and artifact rankings will focus on getting the highest amounts of
+Particle
+generation and
+Energy Recharge
+.
+Regarding Weapon Choices:
+Favonius Lance
+: This is going to be
+Candace
+'s BIS option because of her drastically high
+ER
+requirement. If she's the only
+Hydro
+character in one team,
+Candace
+will need nearly
+300%
+ER
+to maintain a consistent burst uptime. With another
+Hydro
+character to help her out, this
+ER
+requirement is lowered down to the
+200-250%
+ER
+range. This kind of
+ER
+requirement is difficult to reach with most polearms, but
+Favonius Lance
+makes it possible because each proc of its passive cuts down this requirement by
+20%
+(
+1
+proc -->
+-20%
+ER
+req). Note that with this polearm equipped,
+Crit Rate
+also needs to be prioritized on
+Candace
+to ensure that its passive is constantly procced.
+Engulfing Lightning
+: This polearm offers a large amount of
+ER%
+, which makes it the next best option for
+Candace
+after
+Favonius Lance
+.
+Staff of Homa
+and
+Deathmatch
+: These weapons can be considered if you want
+Candace
+to have high personal damage, which is usually notable at
+C6
+.
+The Catch
+: This polearm is going to be
+Candace
+'s strongest F2P option, due to its high amount of
+ER
+and burst-enhancing capabilities.
+Regarding Artifact Choices:
+Scroll of the Hero of Cinder City (4)
+: Even if
+Candace
+is not from
+Natlan
+, she can still take advantage of the
+12%
+DMG Bonus
+buff to the team, alongside the Flat
+Energy
+refund from
+Scroll of the Hero of Cinder City (2)
+if there is a
+Nightsoul Burst
+being activated on the team.
+Emblem of Severed Fate (4)
+and
+Emblem of Severed Fate (2)
++
+Hydro Damage Bonus
+/
+Noblesse (2)
+: With
+Candace
+, the only "necessary" stat from her artifacts is the
+20%
+ER
+you get from
+EOSF
+'s
+2
+-piece effect.
+Emblem of Severed Fate
+'s
+4
+-piece effect allows her to better capitalize on the high amounts of
+ER%
+that you'll be equipping on her, which makes it her strongest option. However,
+EoSF
+is a highly contested artifact set and thus it is possible for you to end up using the
+2
+-piece +
+2
+-piece alternatives listed above.
+Most-used community build
+This build is based on the community's most-used artifacts and weapons. Submit your UID to help improve this data.
+Weapons
+1
+Favonius Lance
+Energy Recharge
+2
+Black Tassel
+HP%
+3
+Staff of Homa
+CRIT DMG
+4
+"The Catch"
+Energy Recharge
+5
+Staff of the Scarlet Sands
+CRIT Rate
+Artifacts
+1
+Emblem of Severed Fate
+2
+Tenacity of the Millelith
+2
+2
+Emblem of Severed Fate
+4
+3
+Heart of Depth
+2
+Tenacity of the Millelith
+2
+4
+Heart of Depth
+4
+5
+Noblesse Oblige
+4
+Best teams for Candace
+Open the full Candace team guide
+#
+1
+Candace Skills
+Gleaming Spear - Guardian Stance
+Normal Attack
+Performs up to 4 consecutive spear strikes.
+Charged Attack
+Consumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.
+Plunging Attack
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Level
+1
+1-Hit DMG
+60.8%
+2-Hit DMG
+61.1%
+3-Hit DMG
+35.5% + 43.4%
+4-Hit DMG
+94.9%
+Charged Attack DMG
+124.2%
+Charged Attack Stamina Cost
+25
+Plunge DMG
+63.9%
+Low/High Plunge DMG
+127.8% / 159.7%
+Sacred Rite: Heron's Sanctum
+The oath of the guardians is more stalwart yet than the shields they inherit.
+Candace's fighting style is capable of warding off an entire tide of foes.
+Tap
+Rushes forward with her shield, dealing
+Hydro DMG
+to opponents in front of her.
+Hold
+Raises her shield to block incoming attacks from nearby opponents, forming a barrier that absorbs DMG based on her Max HP and absorbs
+Hydro DMG
+250% more effectively. This barrier lasts until the Elemental Skill is unleashed.
+After holding for a certain period of time, Candace will finish charging, and when the skill button is released, the skill duration expires, or when the barrier is broken, she will perform a leaping strike that deals
+Hydro DMG
+to opponents in front of her.
+Level
+1
+Shield DMG Absorption
+12% Max HP + 1156
+Basic DMG
+12% Max HP
+Charged Up DMG
+19% Max HP
+Press CD
+6s
+Hold CD
+9s
+Sacred Rite: Wagtail's Tide
+This secret rite has been passed down through Candace's clan from generation to generation. Though the old faiths have become lost over the years, the sands still protect the heirs of the ancient realm.
+Raising her weapon on high, Candace calls upon a divine blessing that deals
+AoE Hydro DMG
+based on her Max HP and continuously confers the Prayer of the Crimson Crown on your active character.
+Prayer of the Crimson Crown
+This effect has the following properties:
+·Characters deal increased Elemental DMG with their Normal Attacks.
+·Whenever a character takes the field, they will unleash a rippling wave of water that deals
+Hydro DMG
+to nearby opponents. There is a limited number of waves that can be triggered in the duration of this skill.
+·Sword, Claymore, and Polearm-wielding characters under this effect will obtain a
+Hydro Infusion
+.
+Level
+1
+Skill DMG
+6.6% Max HP
+Duration
+9s
+DMG Bonus
+20%
+Wave Impact DMG
+6.6% Max HP
+Wave Instances
+3
+CD
+15s
+Energy Cost
+60
+Passive Talents
+Aegis of Crossed Arrows
+Ascension Phase 1
+If Candace is hit by an attack in the Hold duration of
+Sacred Rite: Heron's Sanctum
+, that skill will finish charging instantly.
+Celestial Dome of Sand
+Ascension Phase 4
+Characters affected by the Prayer of the Crimson Crown caused by
+Sacred Rite: Wagtail's Tide
+will deal 0.5% increased DMG to opponents for every 1,000 points of Candace's Max HP when they deal Elemental DMG with their Normal Attacks.
+To Dawn's First Light
+Passive
+Decreases climbing Stamina consumption for your own party members by 20%.
+Not stackable with Passive Talents that provide the exact same effects.
+Constellations
+Returning Heiress of the Scarlet Sands
+Constellation Lv. 1
+The duration of Prayer of the Crimson Crown effect triggered by
+Sacred Rite: Wagtail's Tide
+is increased by 3s.
+Moon-Piercing Brilliance
+Constellation Lv. 2
+When
+Sacred Rite: Heron's Sanctum
+hits opponents, Candace's Max HP will be increased by 20% for 15s.
+Hunter's Supplication
+Constellation Lv. 3
+Increases the Level of
+Sacred Rite: Wagtail's Tide
+by 3.
+Maximum upgrade level is 15.
+Sentinel Oath
+Constellation Lv. 4
+Shortens the Hold CD of
+Sacred Rite: Heron's Sanctum
+to be the same as that of the Tapping CD.
+Heterochromatic Gaze
+Constellation Lv. 5
+Increases the Level of
+Sacred Rite: Heron's Sanctum
+by 3.
+Maximum upgrade level is 15.
+The Overflow
+Constellation Lv. 6
+When characters (excluding Candace herself) affected by the Prayer of the Crimson Crown caused by
+Sacred Rite: Wagtail's Tide
+deal Elemental DMG to opponents using Normal Attacks, an attack wave will be unleashed that deals
+AoE Hydro DMG
+equal to 15% of Candace's Max HP.
+This effect can trigger once every 2.3s and is considered Elemental Burst DMG.
+Outfits
+Desert and Night
+Default
+Candace's outfit. No matter where she goes, the golden sands and the nights of her homeland that adorn her clothes go together with her.
+Stats
+Lv.
+1
+Lv.
+20
+Lv.
+40
+Lv.
+50
+Lv.
+60
+Lv.
+70
+Lv.
+80
+Lv.
+90
+Before Ascension
+After Ascension
+Ascend
+-
+1
+Base HP
+-
+912
+Base ATK
+-
+18
+Base DEF
+-
+57
+HP%
+-
+0.0%
+Ascension Materials
+View ascension details
+Total
+420000
+1
+9
+9
+6
+46
+168
+18
+30
+36
+Talent Materials
+LV.
+1
+→
+2
+12500
+Mora
+3
+Teachings of Admonition
+6
+Faded Red Satin
+LV.
+2
+→
+3
+17500
+Mora
+2
+Guide to Admonition
+3
+Trimmed Red Silk
+LV.
+3
+→
+4
+25000
+Mora
+4
+Guide to Admonition
+4
+Trimmed Red Silk
+LV.
+4
+→
+5
+30000
+Mora
+6
+Guide to Admonition
+6
+Trimmed Red Silk
+LV.
+5
+→
+6
+37500
+Mora
+9
+Guide to Admonition
+9
+Trimmed Red Silk
+LV.
+6
+→
+7
+120000
+Mora
+4
+Philosophies of Admonition
+4
+Rich Red Brocade
+1
+Tears of the Calamitous God
+LV.
+7
+→
+8
+260000
+Mora
+6
+Philosophies of Admonition
+6
+Rich Red Brocade
+1
+Tears of the Calamitous God
+LV.
+8
+→
+9
+450000
+Mora
+12
+Philosophies of Admonition
+9
+Rich Red Brocade
+2
+Tears of the Calamitous God
+LV.
+9
+→
+10
+700000
+Mora
+16
+Philosophies of Admonition
+12
+Rich Red Brocade
+2
+Tears of the Calamitous God
+1
+Crown of Insight
+Total
+1652500
+3
+21
+38
+6
+22
+31
+6
+1

@@ -1,0 +1,249 @@
+Kaveh
+4
+★
+Claymore
+Dendro
+A renowned architect from Sumeru who perhaps cares a bit too much about too many things
+.
+Basic Stats
+Nv.
+90
+HP
+11962
+ATK
+234
+DEF
+751
+EM
+96
+Basic Stats
+Nv.
+90
+HP
+11962
+ATK
+234
+DEF
+751
+EM
+96
+Kaveh
+Ascension Materials
+Nagadus Emerald Sliver
+Mourning Flower
+Quelled Creeper
+Fungal Spores
+Teachings of Ingenuity
+Primordial Greenbloom
+Kaveh
+Best Weapon
+Favonius Greatsword
+Level
+.
+90
+ATK
+454
+Energy Recharge
+61.3%
+Refinement
+.
+5
+CRIT Hits have a 100% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 6s.
+Other Weapons
+2
+°
+Sacrificial Greatsword
+Energy Recharge
+3
+°
+Mailed Flower
+Elemental Mastery
+4
+°
+Makhaira Aquamarine
+Elemental Mastery
+Kaveh
+Best Artifact Set
+Deepwood Memories
+2 Pc
+:
+Dendro DMG Bonus +15%.
+4 Pc
+:
+After Elemental Skills or Bursts hit opponents, the targets' Dendro RES will be decreased by 30% for 8s. This effect can be triggered even if the equipping character is not on the field.
+Artifacts Main Stats
+Sands
+:
+ER % / EM
+Goblet
+:
+Elemental Mastery
+Circlet
+:
+EM / Crit Rate
+Artifacts Substats
+Energy Recharge
+Elemental Mastery
+Crit Rate
+Other Artifacts Sets
+2
+°
+4x
+Ocean-Hued Clam
+3
+°
+4x
+Flower of Paradise Lost
+Kaveh
+Talent Priority
+1
+°
+Elemental Burst
+2
+°
+Normal Attack
+3
+°
+Elemental Skill
+Kaveh
+Best Teams
+Time #
+1
+Main DPS
+Sub-DPS
+Support
+Support
+Kaveh
+Xingqiu
+Nilou
+Baizhu
+Time #
+2
+Main DPS
+Sub-DPS
+Sub-DPS
+Support
+Kaveh
+Xingqiu
+Nahida
+Kokomi
+Kaveh
+Ascension Costs
+Cost
+5
+→
+6
+120
+K
+Nagadus Emerald Gemstone
+6
+Quelled Creeper
+20
+Mourning Flower
+60
+Crystalline Cyst Dust
+24
+Kaveh
+Talents Costs
+Cost
+9
+→
+10
+700
+K
+Philosophies of Ingenuity
+16
+Crystalline Cyst Dust
+12
+Primordial Greenbloom
+2
+Crown of Insight
+1
+Kaveh
+Talents
+Normal Attack
+Schematic Setup
+Normal Attack
+Uses Mehrak to perform up to 4 consecutive attacks.
+Charged Attack
+Drains Stamina over time to perform continuous slashes.
+At the end of the sequence, performs a more powerful slash.
+Plunging Attack
+Plunges from mid-air to strike the ground, damaging opponents along the path and dealing AoE DMG upon impact.
+Elemental Skill
+Artistic Ingenuity
+Uses Mehrak's mapping ability for offensive purposes, initiating a radial scan that deals
+AoE Dendro DMG
+. It will also scan all Dendro Cores in its AoE and cause them to immediately burst.
+Mehrak was created through the modification of ancient technology and may have some other functions apart from mapping work...
+Elemental Burst
+Painted Dome
+Completely unleashes Mehrak's energy and creates a cubic scanned space, dealing
+AoE Dendro DMG
+to all opponents within it, causing all Dendro Cores in its AoE to immediately burst, and granting Kaveh the following enhanced combat abilities for a specific duration:
+·Increases Kaveh's Normal, Charged, and Plunging Attack AoE, and converts his attack DMG to
+Dendro DMG
+that cannot be overridden.
+·All Dendro Cores created by all your own party members through Bloom reactions will deal additional DMG when they burst.
+·Increases Kaveh's resistance to interruption.
+These effects will be canceled once Kaveh leaves the field.
+"Every building style includes the architect's unique worldview, and from this angle, one can say that the buildings themselves are coalescences of human memories."
+Kaveh
+Passives
+Passive
+1
+An Architect's Undertaking
+When DMG dealt by a Dendro Core (including DMG from Burgeon and Hyperbloom) hits Kaveh, Kaveh will regain HP equal to 300% of his Elemental Mastery. This effect can be triggered once every 0.5s.
+Passive
+2
+A Craftsman's Curious Conceptions
+During
+Painted Dome
+, after Kaveh's Normal, Charged, or Plunging Attacks hit opponents, his Elemental Mastery will increase by 25. This effect can be triggered once every 0.1s. Max 4 stacks.
+This effect will be canceled when Painted Dome's effects end.
+Passive
+3
+The Art of Budgeting
+When Kaveh crafts Landscape, Building, and Courtyard-type Furnishings, he has a 100% chance to refund a portion of the materials used.
+Kaveh
+Constellations
+C
+1
+Sublime Salutations
+Within 3s after using
+Artistic Ingenuity
+, Kaveh's
+Dendro RES
+and Incoming Healing Bonus will be increased by 50% and 25% respectively.
+C
+2
+Grace of Royal Roads
+Kaveh's Normal Attack SPD increases by 15% during
+Painted Dome
+.
+C
+3
+Profferings of Dur Untash
+Increases the Level of
+Painted Dome
+by 3.
+Maximum upgrade level is 15.
+C
+4
+Feast of Apadana
+Dendro Cores created from Bloom reactions Kaveh triggers will deal 60% more DMG when they burst.
+C
+5
+Treasures of Bonkhanak
+Increases the Level of
+Artistic Ingenuity
+by 3.
+Maximum upgrade level is 15.
+C
+6
+Pairidaeza's Dreams
+When Kaveh's Normal, Charged, or Plunging Attacks hit opponents during
+Painted Dome
+, they will unleash Pairidaeza's Light upon the opponent's position, dealing 61.8% of Kaveh's ATK as
+AoE Dendro DMG
+and causing all Dendro Cores within that AoE to burst. This effect can be triggered once every 3s.

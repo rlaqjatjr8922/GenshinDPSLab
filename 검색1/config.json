@@ -1,0 +1,7 @@
+{
+  "max_workers": 5,
+  "max_docs": 10,
+  "max_attempts": 10,
+  "request_delay": 1.0,
+  "min_content_length": 200
+}

@@ -1,0 +1,190 @@
+Genshin Impact Lynette Build
+Anemo
+Sword
+Support
+Lynette Upgrade Materials
+Order
+Everamber
+Vayuda Turquoise Sliver
+Lumidouce Bell
+Meshing Gear
+Artificed Spare Clockwork Component — Coppelia
+Lynette Best Weapons
+1
+Sacrificial Sword
+2
+Favonius Sword
+3
+Fleuve Cendre Ferryman
+4
+Festering Desire
+5
+Sapwood Blade
+Lynette Best Artifacts
+1
+Viridescent Venerer
+4
+2
+Instructor
+4
+3
+Noblesse Oblige
+4
+4
+Gilded Dreams
+2
+Viridescent Venerer
+2
+5
+Gilded Dreams
+2
+Wanderer's Troupe
+2
+Lynette Best Stats
+Sands:
+Energy Recharge / ATK%
+Goblet:
+Anemo DMG
+Circlet:
+CRIT Rate / CRIT DMG
+Substats:
+Energy Recharge > CRIT Rate / CRIT DMG > ATK%
+Character Builds by Genshin Impact Helper →
+Showcase
+Teams
+Talents
+Passives
+Constellations
+Ascension
+Lynette Showcase
+Lynette video guide by
+Braxophone
+.
+Check out his content!
+Best Lynette Teams
+Lyney Mono Pyro
+Lynette Electro-Charged
+Lynette Talents
+Normal Attack
+Rapid Ritesword
+Normal Attack Performs up to 4 rapid strikes. Charged Attack Consumes a certain amount of Stamina to unleash 2 rapid sword strikes. Plunging Attack Plunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.
+Elemental Skill
+Enigmatic Feint
+Flicks her mantle and executes an Enigma Thrust, dealing
+Anemo
+DMG. When the Enigma Thrust hits an opponent, it will restore Lynette's HP based on her Max HP, and in the 4s afterward, she will lose a certain amount of HP per second. Based on whether you press or hold this ability, she will use Enigma Thrust differently. Press She swiftly uses an Enigma Thrust. Hold Lynette will enter a high-speed Pilfering Shadow state and apply Shadowsign to a nearby opponent. You can control her movement direction during this state, and you can end it prematurely by using this skill again. When this high-speed state ends, Lynette will unleash her Enigma Thrust. If there is an opponent with Shadowsign applied to them nearby, Lynette will approach them in a flash before using Enigma Thrust. A maximum of 1 opponent can have Shadowsign at any one time. When this opponent gets too far from Lynette, the Shadowsign will be canceled. Arkhe: Ousia At specific intervals, Lynette will unleash a Surging Blade when she uses Enigma Thrust, dealing Ousia-aligned
+Anemo
+DMG.
+Elemental Burst
+Magic Trick: Astonishing Shift
+Lynette raises her mantle high, dealing AoE
+Anemo
+DMG, using skillful sleight of hand to make a giant Bogglecat Box appear! Bogglecat Box Taunts nearby opponents, attracting their attacks. Deals
+Anemo
+DMG to nearby opponents at intervals. When the Bogglecat Box comes into contact with Hydro/Pyro/Cryo/Electro, it will gain the corresponding element and additionally fire Vivid Shots that will deal DMG from that element at intervals. Elemental Absorption of this kind will only occur once during this ability's duration.
+Lynette Passives
+Ascension 1
+Sophisticated Synergy
+Within 10s after using Magic Trick: Astonishing Shift, when there are 1/2/3/4 Elemental Types in the party, all party members' ATK will be increased by 8%/12%/16%/20% respectively.
+Ascension 4
+Props Positively Prepped
+After the Bogglecat Box summoned by Magic Trick: Astonishing Shift performs Elemental Coversion, Lynette's Elemental Burst will deal 15% more DMG. This effect will persist until the Bogglecat Box's duration ends.
+Passive
+Loci-Based Mnemonics
+Shows the location of nearby Recovery Orbs on the minimap. The Aquatic Stamina and HP gained from touching Orbs will be increased by 25%.
+Lynette Constellations
+Constellation 1
+A Cold Blade Like a Shadow
+When Enigmatic Feint's Enigma Thrust hits an opponent with Shadowsign, a vortex will be created at that opponent's position that will pull nearby opponents in.
+Constellation 2
+Endless Mysteries
+Whenever the Bogglecat Box summoned by Magic Trick: Astonishing Shift fires a Vivid Shot, it will fire an extra Vivid Shot.
+Constellation 3
+Cognition-Inverting Gaze
+Increases the Level of Magic Trick: Astonishing Shift by 3. Maximum upgrade level is 15.
+Constellation 4
+Tacit Coordination
+Increases Enigmatic Feint's charges by 1.
+Constellation 5
+Obscuring Ambiguity
+Increase the Level of Enigmatic Feint by 3. Maximum upgrade level is 15.
+Constellation 6
+Watchful Eye
+When Lynette uses Enigmatic Feint's Enigma Thrust, she will gain an
+Anemo
+Infusion and 20%
+Anemo
+DMG Bonus for 6s.
+Lynette Ascension Costs
+Rank
+Lvl
+Cost
+Material
+Material
+Material
+Material
+1
+20
+20000
+1
+Vayuda Turquoise Sliver
+3
+Lumidouce Bell
+3
+Meshing Gear
+2
+40
+40000
+3
+Vayuda Turquoise Fragment
+2
+Artificed Spare Clockwork Component — Coppelia
+10
+Lumidouce Bell
+15
+Meshing Gear
+3
+50
+60000
+6
+Vayuda Turquoise Fragment
+4
+Artificed Spare Clockwork Component — Coppelia
+20
+Lumidouce Bell
+12
+Mechanical Spur Gear
+4
+60
+80000
+3
+Vayuda Turquoise Chunk
+8
+Artificed Spare Clockwork Component — Coppelia
+30
+Lumidouce Bell
+18
+Mechanical Spur Gear
+5
+70
+100000
+6
+Vayuda Turquoise Chunk
+12
+Artificed Spare Clockwork Component — Coppelia
+45
+Lumidouce Bell
+12
+Artificed Dynamic Gear
+6
+80
+120000
+6
+Vayuda Turquoise Gemstone
+20
+Artificed Spare Clockwork Component — Coppelia
+60
+Lumidouce Bell
+24
+Artificed Dynamic Gear
+Loading...

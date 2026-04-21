@@ -1,0 +1,131 @@
+Genshin Impact
+Guides
+Genshin Impact
+Characters
+Guides
+Genshin Impact Dendro Traveler Guide: Best Build, Artifacts, Weapons, Teams, and More
+Ethers
+September 27, 2022
+∙
+9
+Min read
+Dendro Traveler Guide
+In this article, I’ll be going over everything you need to know about the Dendro Traveler, including their playstyle, best artifacts, weapons, teams, and more.
+Despite previous iterations of the Traveler, with their new Dendro affinity, the Traveler has locked in a spot as a go-to Dendro support in the current Genshin Impact Meta providing AoE Dendro application in the form of their burst, with unique gameplay interactions with certain elements.
+Active Talents
+Normal Attack – Foreign Fieldcleaver
+Same attack string for the traveler as always. 5 hit sequence with relatively low scaling. Irrelevant for his playstyle and not required to level this whatsoever as his kit/role is more off-field centric.
+Elemental Skill – Razorgrass Blade
+When cast, it deals Dendro DMG in a sort of cone shaped AoE. Fairly standard skill that applies 1U Dendro and it is mostly used to generate particles for your burst. (2.5 particles) Has decent scaling and can potentially do more DMG by unlocking your A4 talent passive.
+Elemental Burst – Surgent Manifestation
+Upon casting, it creates a Lea Lotus Lamp that deals Dendro DMG to opponents with the AoE of its field. When coming into contact with an Element, (Hydro/Electro/Pyro) the Lamp will go under certain changes known as a transfiguration.
+The transfiguration goes as follows:
+Hydro: The AoE of the Lamp AND its attacks are increased.
+Electro: The Lamp’s ATK SPD is increased
+Pyro: The Lamp will explode and disappear, dealing AoE Dendro DMG
+Regarding the most useful transfiguration, Hydro seems to be the most effective, while Pyro transfiguration being the worst as it effectively just griefs your Dendro Application. Electro transfiguration might seem good on paper, but even with the increased ATK SPD, it still follows ICD rules meaning increased ATK SPD does not equal more Dendro App. Hydro Transfiguration increases the AoE which allows for a wider range of application, giving you more AoE potential.
+Additional notes:
+Performing a Hydro transfiguration will trigger Bloom and create a Bloom seed
+The Lamp applies 0.4 GU Dendro
+Character Talent Priority
+Here’s a quick talent priority for Dendro Traveler.
+Elemental Burst > Elemental Skill > Normal Attack
+The Traveler’s Burst is mostly what you want to prioritize if you are planning on leveling their talents at all. Keep in mind, if their only role is supplying Dendro application, these can be kept fairly low.
+They only should be leveled if you want to maximize their DMG contribution. If that is not the case, then leaving them low leveled is completely fine and the Traveler will still perform their role well.
+Character Best Combos
+Since Dendro Traveler is primarily an off-field support, they have no combos worth mentioning.
+Passive Talents
+Ascension Stat
+As you ascend Traveler, he will gain
+ATK%.
+1st Ascension: Verdant Overgrowth
+Lea Lotus Lamp will obtain one level of Overflowing Lotuslight every second it is on the field, increasing the Elemental Mastery of active character(s) within its AoE by 6s. Maximum 10 stacks.
+A nice addition to the Traveler’s kit due to their supporting nature and the teams he’s played in. At max stacks it gives the active character in the AoE 60 Elemental Mastery which can be relevant depending on the team.
+For example, in a Keqing Aggravate comp, it’s an appreciated source of EM when Keqing is played on field proccing Aggravates. Note that with constellation 4, you gain 5 stacks upon cast.
+4th Ascension: Verdant Luxury
+Every point of Elemental Mastery the Traveler possesses increases the DMG dealt by Razorgrass Blade by 0.15% and the DMG dealt by Surgent Manifestation by 0.1%.
+Adds a very straightforward synergy with the Elemental Mastery stat. Nothing much to be said here. When maximizing personal DMG, this synergy is something to keep in mind. For the most part it is quite negligible, due to the Traveler’s role mainly just being a form of sustained Dendro Application.
+Utility Passive: None
+Constellations
+Since the Traveler is the main and free character of the game, as you progress through the story, you will obtain materials to fully max out the Constellations.
+We’ll still cover how each constellation impacts the kit, as the free upgrades are always nice to have.
+C1: Low Impact
+C2: Medium Impact
+C3: Low Impact
+C4: Medium Impact
+C5: Low Impact
+C6: Medium Impact
+Constellation 1: Symbiotic Creeper
+After Razorgrass Blade hits an opponent, it will regenerate 3.5 Energy for the Traveler.
+This constellation is quite okay. A small quality of life change although it leans more towards negligible and you still need to meet a relatively high ER requirement for the most part.
+Constellation 2: Green Resilience
+Lea Lotus Lamp’s duration is increased by 3s.
+Decent constellation that allows for longer sustained AoE Dendro application. Effectively, it enables you to take advantage of the increased duration in terms of reaction value.
+Constellation 3: Whirling Weeds
+Increases the Level of Razorgrass Blade by 3. Maximum upgrade level is 15
+Constellation 4: Treacle Grass
+After the Lea Lotus Lamp triggers a Lotuslight Transfiguration, it will obtain 5 stacks of the Overflowing Lotuslight effect from the Passive Talent “Verdant Overgrowth.” You must have unlocked this Passive Talent first.
+Another decent constellation that immediately gives you 5 stacks after triggering a transfiguration. Effectively getting you closer to max stacks which gives you 60 Elemental Mastery in total for the active character within your burst. Again as mentioned in the talents section, potency of this passive/constellation is team dependent. However overall, it is still an appreciable constellation.
+Constellation 5: Viridian Transcience
+Increases the Level of Surgent Manifestation by 3. Maximum upgrade level is 15.
+Constellation 6: Withering Aggregation
+The Dendro DMG Bonus of the character under the effect of Overflowing Lotuslight as created by the Lea Lotus Lamp is increased by 12%. If the Lamp has experienced a Lotuslight Transfiguration previously, the character will also gain 12% DMG Bonus for the corresponding element.
+Straightforward DMG % bonus for the character under your burst AoE. The Dendro DMG Bonus being appreciable in Hyperbloom/Spread triggers while the Transfiguration DMG bonus can be appreciated by non-Dendro characters within their respective Dendro teams, depending on the Transfiguration setup.
+Playstyle
+The Dendro Traveler is mainly an off-field support in Dendro reaction teams, providing sustained Dendro Application for their respective reactions. Keep in mind due to our limited access to Dendro supports at the moment, the Traveler’s value in Dendro teams is quite high. However, that definitely could change in the future.
+Artifacts
+4 Piece Deepwood Memories
+The ideal artifact set for a supportive role in Dendro reaction centric teams. (Bloom, Spread, etc.) The Dendro RES shred is relevant in Bloom and Spread teams as well as being relatively easy to maintain uptime.
+4 Piece Instructor
+If you happen to have access to this 4 star set, it is a solid alternative on certain teams. Mainly in aggravate teams where your focus is more geared towards the aggravate DMG of your Electro characters, to where the team-wide EM buff is greatly appreciated.
+Placeholder Artifact Sets
+2pc + 2pc (mix n match)
+The Traveler can benefit from 2 piece set bonuses such as Emblem of Severed Fate, along with either another Energy Recharge 2 piece bonus like Exile, or a 2 piece Deepwood Memories. Keep in mind these should be placeholders for the aforementioned 4 piece sets. Keep in mind, these placeholder options are mainly for burst uptime and not so much DMG centric.
+Main Stats
+Circlet:
+Crit/Elemental Mastery
+Sands:
+Energy Recharge/ Elemental Mastery
+Goblet:
+Dendro DMG Bonus
+Regarding your sands, I’d almost always recommend an Energy Recharge sands in solo Dendro UNLESS you happen to meet the relative ER requirements through substats somehow. Your Goblet is straightforward and Circlet can be Crit if you need it to proc Favonius sword.
+Sub Stats
+Here’s the order of sub stats to prioritize:
+Energy Recharge
+Elemental Mastery
+Crit Rate/DMG
+Energy Recharge
+In solo Dendro, I’ve found that around 200-220 is doable with Favonius sword + decent play. I’d recommend getting as close as you can to 250 for reliable comfort.
+Weapons
+5-Star Weapons
+Freedom Sworn
+This sword itself is very good and can be an option on the Traveler for team buffing value. However, there are better users for this weapon overall and losing the Energy Recharge you would get from an ER weapon hurts your burst uptime. If you happen to have this weapon along with enough Energy Recharge from other sources, go crazy. However that may not be the case for most players.
+4-Star Weapons
+Favonius Sword
+One of the Travelers best options in general while providing great utility. Being the solo Dendro in most teams, getting uptime on your burst is quite difficult. Favonius sword provides much needed rotational comfort as well as particles for your team. The massive Energy Recharge stat that it gives is greatly appreciated as well. Overall, this weapon should definitely be considered most of the time.
+Sapwood Blade
+Quite the decent option if your Favonius Sword is already being used or simply just an alternative. Provides less Energy Recharge in exchange for a passive that gives the on field character that picks up the generated leaf, 60 elemental mastery at R1. (120 EM at R5) Overall, it is a weapon that can be considered when experiencing no burst uptime/rotational issues.
+Sacrificial Sword
+If you are unable to use any of the aforementioned 4 stars, this sword can be considered. It provides the same amount of Energy Recharge as Favonius Sword, and can help with particle generation at high refinements.
+Teams
+As far as teams go, the Traveler at the moment is a staple Dendro support in any Dendro related teams simply due to the fact that our Dendro options currently are few and far between. That being said, compared to the likes of Collei/Tighnari, Dendro Traveler allows for more sustained Dendro Application and more flexible rotations making Traveler more valued in certain scenarios.
+Keep in mind, these teams could change due to future releases, so use these team templates as more or less alternative solutions rather than optimal.
+Hyperbloom Teams
+One of the only Dendro slot -in for Hyperbloom teams and effective nonetheless. Provides you with sustained off-field Dendro Application/Seed Generation in order for your Electro unit to proc Hyperblooms.
+An Anemo unit such as Sucrose is also optimal here for grouping and also triggering Hyperblooms with Electro swirls. As for Electro units you have options as well. Kuki Shinobu is able to interact with the seeds themselves off-field with her skill pulses. Fischl and Yae Miko, while not being able to target the seeds, deal solid DMG along with applying consistent off-field Electro for your Anemo unit to Electro Swirl.
+Aggravate Teams
+The Traveler fills a very straightforward role in Aggravate teams as well. Simply applying off-field Dendro for Quicken in order for your Electro Units to Aggravate.
+His DMG is negligible on this team so you can opt to use alternative artifacts sets such as Instructors, instead of the Deepwood Memories set which would only shred Dendro for the Traveler.
+Your flex slot will most likely be an Anemo unit for VV shred/ grouping.  Overall, a very solid option in Aggravate teams currently.
+Burgeon Teams
+Again, the Traveler in Burgeon teams fill a straightforward Dendro Application role. Something worth noting is that Burgeon as a reaction is quite tricky. You will absolutely need a unit with relatively slow Pyro application in this comp as too fast of application can potentially lead to Burning which you do NOT want.
+On top of that, with the Traveler’s Transfiguration mechanic and its interaction with Pyro, it could potentially grief your entire rotation if you are not careful. All of these factors contribute to Burgeon slightly falling off compared to the aforementioned teams.
+However, it can still be a completely functional team with the right units/setup. The reason Thoma is actually quite optimal here is due to his slow Pyro application which actually has some benefit here.
+Summary
+Finally, the Traveler has an opportunity to shine in the current Genshin Impact Meta. As of now, their overall value is quite nuanced due to our limited Dendro options.
+However, they do their job very well in current Dendro teams nonetheless. Given his ease of access, the Dendro Traveler is valuable for anyone looking to build a comp around Dendro reactions.
+Keep in mind their value is tied to future Dendro supports and their relevance but even despite all of this, the Traveler will always be a solid Dendro support that is accessible for anyone and everyone to build.
+Genshin Impact
+Characters
+Guides
+0

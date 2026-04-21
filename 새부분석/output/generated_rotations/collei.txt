@@ -1,0 +1,48 @@
+options iteration=100 duration=10.5 swap_delay=6 workers=4;
+options hitlag=true defhalt=false ignore_burst_energy=false;
+
+target lvl=100 resist=0.1 pos=1,0 radius=3 freeze_resist=0 hp=1000000000;
+
+active fischl;
+
+# =========================
+# 캐릭터 1 (fischl)
+# =========================
+fischl char lvl=90/90 cons=0 talent=9,9,9;
+fischl add weapon="aquasimulacra" refine=1 lvl=90/90;
+fischl add set="goldentroupe" count=4;
+
+# =========================
+# 캐릭터 2 (collei)
+# =========================
+collei char lvl=90/90 cons=0 talent=9,9,9;
+collei add weapon="favoniuswarbow" refine=1 lvl=90/90;
+collei add set="deepwoodmemories" count=4;
+
+# =========================
+# 캐릭터 3 (tighnari)
+# =========================
+tighnari char lvl=90/90 cons=0 talent=9,9,9;
+tighnari add weapon="hunterspath" refine=1 lvl=90/90;
+tighnari add set="gildeddreams" count=4;
+
+# =========================
+# 캐릭터 4 (keqing)
+# =========================
+keqing char lvl=90/90 cons=0 talent=9,9,9;
+keqing add weapon="mistsplitterreforged" refine=1 lvl=90/90;
+keqing add set="thunderingfury" count=4;
+
+# =========================
+# 파티 정보
+# =========================
+# main = collei
+# party = fischl / collei / tighnari / keqing
+
+# =========================
+# 생성된 행동 로테이션
+# =========================
+fischl skill;
+collei skill;
+tighnari attack;
+keqing attack;

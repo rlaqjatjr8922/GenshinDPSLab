@@ -1,0 +1,342 @@
+Home
+/
+Genshin Impact
+/
+Character List
+/
+Dahlia Build
+Dahlia Guide and Best Builds
+Dahlia is a 4-star Hydro Shielder in Genshin Impact.
+Our Dahlia guide and build will focus on Dahlia's best weapons,
+best artifacts, skills, constellations and Dahlia's best teams.
+Last updated
+on
+Sep 27, 2025
+at
+09:00
+by
+Shikhu
+1 comment
+D
+Rank
+Hydro
+Element
+Sword
+Weapon
+★
+★
+★
+★
+★
+Rarity
+Aileen Mythen
+EN Voice Actor
+Yamamoto Kazutomi
+JP Voice Actor
+1.
+Dahlia Build Guide, Best Artifacts, Weapons and Talent Priority
+Dahlia is best built as a support unit, providing shielding to the party using 
+his Elemental Burst. Dahlia also provides an ATK SPD buff to the party.
+BiS Weapon
+Favonius Sword
+Alternative Weapons
+Serenity's Call
+Key of Khaj-Nisut
+The Dockhand's Assistant
+Fleuve Cendre Ferryman
+Best Artifacts
+Noblesse Oblige
+2-Piece HP + 2 Piece HP
+Scroll of the Hero of Cinder City
+Main Stats
+Sand Stats:
+HP % / Energy Recharge
+Goblet Stats:
+HP %
+Circlet Stats:
+HP %
+Substat Priority
+CRIT Rate (For Favonius)
+Energy Recharge ~200%+
+HP %
+Talent Priority
+Elemental Burst
+Elemental Skill
+Dahlia's best weapon is generally
+Favonius Sword
+as building this 
+weapon on Dahlia allows you to further support your teams ER requirements. 
+If this is not needed,
+Serenity's Call
+both has high ER for Dahlia's personal 
+requirements but also provides a 32-64% Max HP increase to Dahlia (32 without Moonsign, 
+64 with Moonsign) which is very significant.
+Build Dahlia with
+Noblesse Oblige
+or 2-Piece HP if you need further 
+HP buffs. Otherwise build Dahlia with Scroll but be mindful of the fact that 
+they need to trigger the correct reactions to provide the right buffs.
+Dahlia's Elemental Burst is by far the most important talent to level as 
+this is what generates shields. Dahlia's Elemental Skill can also be leveled to 
+increase their personal damage but is not required at all.
+2.
+Recommended Endgame Build Stats for Dahlia
+Build recommendations assume a "decently built" level of artifact rolls alongside 
+Dahlia's best weapon. Using other weapons may increase or decrease 
+certain stats relative to these recommendations.
+HP:
+40,000+
+ATK:
+1000+
+ER:
+200%+
+Dahlia should primarily be built with HP % aiming for at least 40,000 to cap 
+out their passive
+Prayer of Well-Wrought Joy
+however further HP 
+will continue to increase Dahlia's shield strength.
+3.
+Dahlias Best Team Compositions
+Dahlia is best used with
+Hydro
+and
+Cryo
+characters due to
+The Wind's Gentle Grace
+needing frozen to occur to 
+grant additional Benison stacks. Aside from that, the best DPS 
+that Dahlia can support are Normal Attack spammers who can benefit 
+from the ATK SPD buff.
+3.1.
+Freeze Teams
+Main DPS
+Support
+Support
+Sub DPS
+Skirk
+Furina
+Dahlia
+Escoffier
+Wriothesley
+Shenhe
+Dahlia
+Escoffier
+Dahlia's best team comps will generally focus on freeze teams, especially
+Skirk
+who has
+Hydro
+/
+Cryo
+team restrictions albeit much stricter than Dahlia.
+4.
+Normal Attack Teams
+Main DPS
+Support
+Support
+Sub DPS
+Wanderer
+Faruzan
+Dahlia
+Mavuika
+Wanderer
+Faruzan
+Dahlia
+Bennett
+Yoimiya
+Xingqiu
+Dahlia
+Bennett
+Kamisato Ayato
+Kaedehara Kazuha
+Dahlia
+Bennett
+The best Normal Attack spammers are those without any hitlag on 
+their attacks such as
+Wanderer
+however this is 
+not a hard requirement. Other good DPS options include
+Yoimiya
+and
+Kamisato Ayato
+.
+5.
+Dahlias Ascensions, Talents, and Constellations
+Dahlia Ascensions
+Dahlia Talents
+Dahlia Constellations
+5.1.
+Dahlia Ascension Passives and Materials
+Ascension Passive
+Explanation
+The Wind's Gentle Grace
+When characters affected by the Favonian Favor effect of the Elemental Burst
+Radiant Psalter
+trigger Frozen reactions on opponents, they will grant Dahlia 2 Benison stacks. This effect can trigger once every 8s.
+Prayer of Well-Wrought Joy
+When your active party member is affected by the Favonian Favor effect of the Elemental Burst "
+Radiant Psalter
+," their ATK SPD will increase based on Dahlia's Max HP: Every 1,000 Max HP will cause an increase of 0.5%, up to a maximum of 20%.
+Pilgrimage Upon Returning Winds
+During the day (06:00 – 18:00), your party members gain the Swift Stride effect: Movement SPD increased by 10%.
+Does not take effect in Domains, Trounce Domains, or Spiral Abyss. Swift Stride does not stack.
+5.2.
+Dahlias Ascension Materials
+Dahlia gains HP % as he levels giving him a total of 24% HP at level 90.
+The total Ascension Material costs to upgrade all of Dahlias Ascensions are listed
+below.
+Source
+Quantity
+Mora
+420,000 Mora
+Boss Material
+46x
+Secret Source Airflow Accumulator
+Ascension Material
+1x
+Varunada Lazurite Sliver
+9x
+Varunada Lazurite Fragment
+9x
+Varunada Lazurite Chunk
+6x
+Varunada Lazurite Gemstone
+Local Specialty
+168x
+Calla Lily
+Enhancement Material
+18x
+Firm Arrowhead
+30x
+Sharp Arrowhead
+36x
+Weathered Arrowhead
+5.3.
+Dahlias Talents
+Type
+Talent Name
+Brief Explanation
+Normal
+Favonius Bladework - Ritual
+Normal Attack
+Performs up to 4 rapid strikes.
+Charged Attack
+Consumes a certain amount of Stamina to unleash 2 rapid sword strikes.
+Plunging Attack
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Elemental Skill
+Immersive Ordinance
+Time for a fun little trick! Summons the Sacramental Shower in different ways depending on whether you Tap or Hold it.
+Tap
+After a short prayer, summons the Sacramental Shower in front.
+Hold
+Engages in continuous prayer, and when done, summons forth a Sacramental Shower in the designated position.
+Sacramental Shower
+When opponents or nearby party members touch the Sacramental Shower, different effects will occur depending on the one who touches it:
+If an opponent touches the Shower, it will explode and deal AoE Hydro DMG to nearby opponents.
+If a nearby party member touches it, it will bounce the one who touches it high in the air.
+Only 1 Sacramental Shower summoned by Dahlia himself can be on the field at once.
+Elemental Burst
+Radiant Psalter
+Appeals to the divine with earnestness and song, dealing AoE Hydro DMG to nearby opponents and granting his party members Favonian Favor, summoning a Shield of Sacred Favor.
+The Shield of Sacred Favor's DMG absorption is based on Dahlia's Max HP, and it will absorb Hydro DMG with 250% effectiveness.
+Favonian Favor
+While this effect is active, 1 Benison stack may be consumed to summon a new Shield of Sacred Favor when an existing Shield is broken via DMG.
+Dahlia can obtain Benison via the following methods:
+He will gain 1 Benison stack when his own active party member hits opponents 4 times with Normal Attacks while affected by Favonian Favor.
+After triggering the effect of his Passive Talent, "The Wind's Gentle Grace" (You must first unlock this Passive Talent.)
+Dahlia can gain a maximum of 4 Benison stacks per Favonian Favor duration.
+5.4.
+Dahlias Talent Materials
+The total material costs to upgrade a single one of Dahlias Talents is listed
+below.
+Source
+Quantity
+Mora
+1,625,500 Mora
+Special Material
+1x
+Crown of Insight
+Boss Material
+6x
+Eroded Scale-Feather
+Domain Material
+3x
+Teachings of Ballad
+21x
+Guide to Ballad
+38x
+Philosophies of Ballad
+Enhancement Material
+6x
+Firm Arrowhead
+22x
+Sharp Arrowhead
+31x
+Weathered Arrowhead
+5.5.
+Dahlias Constellations
+Dahlias best constellations are
+Revelation of Mercy
+(C2) and
+You Shall Go Out With Joy
+(C6). Dahlias C2 provides 
+more shielding while their C6 provides more ATK SPD buffs as well as the ability to 
+revive characters every 15 minutes.
+#
+Name
+Explanation
+C1
+Infallible Procession
+Each time Dahlia gains 1 of his Elemental Burst Radiant Psalter's Benison stack, he will regain 2 Elemental Energy.
+C2
+Revelation of Mercy
+After Dahlia consumes his Elemental Burst Radiant Psalter's Benison stacks to summon a Shield of Sacred Favor, the character protected by said Shield will gain 25% increased Shield Strength for 12s.
+C3
+Windblume Offertory
+Increases the Level of Radiant Psalter by 3.
+C4
+Collect of the Assembly
+The Favonian Favor from Dahlia's Elemental Burst Radiant Psalter lasts 3 more seconds.
+C5
+Let It Be Subtly So
+Increases the Level of Immersive Ordinance by 3.
+C6
+You Shall Go Out With Joy
+The current active character affected by the Elemental Burst Radiant Psalter's Favonian Favor has their ATK SPD increased by 10%.
+Additionally, when an active character affected by Favonian Favor falls, immediately:
+Revive them.
+Restore their HP to 100%.
+This effect can trigger once every 15 minutes.
+Changelog
+27 Sep. 2025:
+Updated for 6.0.
+17 Jun. 2025:
+Updated for release.
+11 May 2025:
+Guide added.
+Show more
+Show less
+Need any help? Check out our
+General Discussion Forum
+!
+1 comment
+In The Same Category
+Sangonomiya Kokomi Best Builds Guide
+Xingqiu Best Builds Guide
+Kamisato Ayato Best Builds Guide
+Neuvillette Best Builds Guide
+Sigewinne Best Builds Guide
+Columbina Profile & Talents
+Tartaglia Best Builds Guide
+Mona Best Builds Guide
+Columbina Best Builds Guide
+Candace Best Builds Guide
+Nilou Best Builds Guide
+Columbina Team Guide
+ABOUT THE AUTHOR
+This guide has been written by Shikhu (Discord - Shikhu), an avid Genshin Impact player who has
+          been exploring Teyvat since the game has launched. He has experienced
+          all the game has to offer from building his favorite characters,
+          exploring the world to clearing Spiral Abyss each rotation. His
+          favorite character being his C6 Furina.
+SUPPORT OUR WRITERS

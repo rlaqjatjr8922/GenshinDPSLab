@@ -1,0 +1,56 @@
+options iteration=1000 duration=10.5 swap_delay=6 workers=4;
+options hitlag=true defhalt=false ignore_burst_energy=false;
+
+target lvl=100 resist=0.1 pos=1,0 radius=3 freeze_resist=0;
+
+active chiori;
+
+# =========================
+# 캐릭터 1 (chiori)
+# =========================
+chiori char lvl=90/90 cons=0 talent=9,9,9;
+chiori add weapon="urakumisugiri" refine=1 lvl=90/90;
+chiori add set="goldentroupe" count=4;
+
+# =========================
+# 캐릭터 2 (navia)
+# =========================
+navia char lvl=90/90 cons=0 talent=9,9,9;
+navia add weapon="verdict" refine=1 lvl=90/90;
+navia add set="marechausseehunter" count=4;
+
+# =========================
+# 캐릭터 3 (zhongli)
+# =========================
+zhongli char lvl=90/90 cons=0 talent=9,9,9;
+zhongli add weapon="blacktassel" refine=1 lvl=90/90;
+zhongli add set="noblesseoblige" count=4;
+
+# =========================
+# 캐릭터 4 (gorou)
+# =========================
+gorou char lvl=90/90 cons=0 talent=9,9,9;
+gorou add weapon="favoniuswarbow" refine=1 lvl=90/90;
+gorou add set="huskofopulentdreams" count=4;
+
+
+# =========================
+# Entry Order
+# =========================
+# zhongli -> chiori -> gorou -> navia
+
+# =========================
+# Rotation
+# =========================
+zhongli skill;
+zhongli burst;
+zhongli attack;
+chiori skill;
+chiori burst;
+chiori attack;
+gorou skill;
+gorou burst;
+gorou attack;
+navia skill;
+navia burst;
+navia attack;

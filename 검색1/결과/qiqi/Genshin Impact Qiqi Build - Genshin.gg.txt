@@ -1,0 +1,184 @@
+Genshin Impact Qiqi Build
+Cryo
+Sword
+Support
+Qiqi Upgrade Materials
+Prosperity
+Tail of Boreas
+Shivada Jade Sliver
+Hoarfrost Core
+Violetgrass
+Divining Scroll
+Qiqi Best Weapons
+1
+Sacrificial Sword
+2
+Skyward Blade
+3
+Kagotsurube Isshin
+4
+The Flute
+5
+Favonius Sword
+Qiqi Best Artifacts
+1
+Tenacity of the Millelith
+4
+2
+Ocean-Hued Clam
+4
+3
+Maiden Beloved
+4
+4
+Maiden Beloved
+2
+Shimenawa's Reminiscence
+2
+5
+Noblesse Oblige
+4
+Qiqi Best Stats
+Sands:
+ATK% / Energy Recharge
+Goblet:
+ATK%
+Circlet:
+ATK% / Healing Bonus
+Substats:
+ATK% > Energy Recharge > ATK
+Character Builds by Genshin Impact Helper →
+Showcase
+Teams
+Talents
+Passives
+Constellations
+Ascension
+Qiqi Showcase
+Qiqi video guide by
+Zy0x
+.
+Check out his content!
+Best Qiqi Teams
+Eula Superconduct
+Xiao Standard
+Qiqi Talents
+Normal Attack
+Ancient Sword Art
+Normal Attack Performs up to 5 rapid strikes. Charged Attack Consumes a certain amount of Stamina to unleash 2 rapid sword strikes. Plunging Attack Plunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.
+Elemental Skill
+Adeptus Art: Herald of Frost
+Using the Icevein Talisman, Qiqi brings forth the Herald of Frost, dealing
+Cryo
+DMG to nearby enemies. Herald of Frost When Qiqi hits a target with her Normal or Charged Attacks, she regenerates HP for all party members and all nearby allied characters. Healing scales based on Qiqi's ATK. Regenerates HP for current character at regular intervals. Follows the character around, dealing
+Cryo
+DMG to enemies in its path.
+Elemental Burst
+Adeptus Art: Preserver of Fortune
+Qiqi releases the adeptus power sealed within her body, marking nearby enemies with a Fortune-Preserving Talisman that deals
+Cryo
+DMG. Fortune-Preserving Talisman When enemies affected by this Talisman take DMG, the character that dealt this DMG regenerates HP.
+Qiqi Passives
+Ascension 1
+Life-Prolonging Methods
+When a character under the effects of Adeptus Art: Herald of Frost triggers an Elemental Reaction, their Incoming Healing Bonus is increased by 20% for 8s.
+Ascension 4
+A Glimpse into Arcanum
+When Qiqi hits enemies with her Normal and Charged Attacks, she has a 50% chance to apply a Fortune-Preserving Talisman to them for 6s. This effect can only occur once every 30s.
+Passive
+Former Life Memories
+Displays the location of nearby resources unique to Liyue on the mini-map.
+Qiqi Constellations
+Constellation 1
+Ascetics of Frost
+When the Herald of Frost hits an enemy marked by a Fortune-Preserving Talisman, Qiqi regenerates 2 Energy.
+Constellation 2
+Frozen to the Bone
+Qiqi's Normal and Charge Attack DMG against enemies affected by
+Cryo
+is increased by 15%.
+Constellation 3
+Ascendant Praise
+Increases the Level of Adeptus Art: Preserver of Fortune by 3. Maximum upgrade level is 15.
+Constellation 4
+Divine Suppression
+Targets marked by the Fortune-Preserving Talisman have their ATK decreased by 20%.
+Constellation 5
+Crimson Lotus Bloom
+Increase the Level of Adeptus Art: Herald of Frost by 3. Maximum upgrade level is 15.
+Constellation 6
+Rite of Resurrection
+Using Adeptus Art: Preserve of Fortune revives all nearby fallen characters and regenerates 50% of their HP. This effect can only occur once every 15 mins.
+Qiqi Ascension Costs
+Rank
+Lvl
+Cost
+Material
+Material
+Material
+Material
+1
+20
+20000
+1
+Shivada Jade Sliver
+3
+Violetgrass
+3
+Divining Scroll
+2
+40
+40000
+3
+Shivada Jade Fragment
+2
+Hoarfrost Core
+10
+Violetgrass
+15
+Divining Scroll
+3
+50
+60000
+6
+Shivada Jade Fragment
+4
+Hoarfrost Core
+20
+Violetgrass
+12
+Sealed Scroll
+4
+60
+80000
+3
+Shivada Jade Chunk
+8
+Hoarfrost Core
+30
+Violetgrass
+18
+Sealed Scroll
+5
+70
+100000
+6
+Shivada Jade Chunk
+12
+Hoarfrost Core
+45
+Violetgrass
+12
+Forbidden Curse Scroll
+6
+80
+120000
+6
+Shivada Jade Gemstone
+20
+Hoarfrost Core
+60
+Violetgrass
+24
+Forbidden Curse Scroll
+Loading...

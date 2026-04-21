@@ -1,0 +1,536 @@
+Home
+/
+Genshin Impact
+/
+Character List
+/
+Furina Build
+Furina Guide and Best Builds
+Furina is a 5-star Hydro Sword character in Genshin Impact
+that can play the roles of an off-field support and a team buffer who can
+switch between Ousia and Pneuma at will to provide
+healing or damage to the team. Read our Furina guide to learn more about
+Furina's kit, Furina's best Builds and also her Ascension and Talent Materials.
+Last updated
+on
+Sep 27, 2025
+at
+11:56
+by
+Mistsplitter Reforged
+1 comment
+S+
+Rank
+Hydro
+Element
+Sword
+Weapon
+★
+★
+★
+★
+★
+Rarity
+Amber Lee Connors
+EN Voice Actor
+Inori Minase
+JP Voice Actor
+1.
+Furina Build Guide Infographic
+Furina's Strengths & Weaknesses
+Strengths
+Strong team-wide Damage increases and Healing bonuses.
+Consistent uptime on both Elemental Skill and Elemental Burst.
+Incredibly powerful Constellations.
+Great exploration benefits by walking on water and Healing on demand.
+Weaknesses
+Requires a Healer in the party to fully utilise her buffs and generate Fanfare.
+High Energy requirements before C4.
+Low Hydro application for reaction-based team compositions.
+2.
+Furina Build Guide, Best Artifacts, Weapons and Talent Priority
+Furina is built as a support, providing powerful DMG buffs to the party
+as well as off-field damage from her
+Salon Solitaire
+.
+BiS Weapon
+Splendor of Tranquil Waters
+Alternative Weapons
+Primordial Jade Cutter
+Key of Khaj-Nisut
+Festering Desire
+Uraku Misugiri
+Fleuve Cendre Ferryman
+Serenity's Call
+Favonius Sword
+Wolf-Fang
+Best Artifacts
+Golden Troupe
+Tenacity of the Millelith
+Main Stats
+Sand Stats:
+Energy Recharge or HP %
+Goblet Stats:
+HP % or
+Hydro
+DMG
+Circlet Stats:
+CRIT Rate / DMG
+Substat Priority
+Energy Recharge until requirements
+CRIT Rate / DMG
+HP %
+HP
+Talent Priority
+Elemental Burst
+Elemental Skill
+Normal Attack
+Furinas best weapon is
+Splendor of Tranquil Waters
+due to increasing
+both Furinas HP and also Skill DMG. There are many good non-gacha build options however
+such as
+Festering Desire
+which was given out for free and even
+Fleuve Cendre Ferryman
+.
+For artifacts, build Furina with
+Golden Troupe
+. Golden Troupe is Furina's
+best in slot being a
+huge damage increase compared to most options. For the Sands, Energy Recharge
+is required if you are unable to hit requirements from Artifact Substats alone.
+This will often be the case before
+"They Know Not Life, Who Dwelt in the Netherworld Not!"
+(C4).
+The difference in HP Goblet vs Hydro DMG Goblet is minor with HP
+being slightly better until C6 but generally will depend on the exact
+substats. A HP% Goblet is much easier to farm and
+therefore will give you a better chance at good substats.
+2.1.
+Energy Recharge Requirements
+Furina can need anywhere from 100-220% Energy Recharge in her build depending on how
+many Hydro Teammates she has in the party as well as if she has
+"They Know Not Life, Who Dwelt in the Netherworld Not!"
+(C4). A
+Favonius Weapon can also lower the requirements by ~10%.
+Hydro
+party members using their Elemental Skill a second time would also lower the requirements.
+For example,
+Sangonomiya Kokomi
+refreshing her
+Bake-Kurage
+or characters using a Sacrificial Weapon (for example
+Sacrificial Sword
+),
+such as
+Xingqiu
+.
+C0 - C3
+C4+
+0 Hydro Teammates
+200 - 220%
+140 - 160%
+1 Hydro Teammates
+180 - 190%
+130 - 150%
+2 Hydro Teammates
+150 - 160%
+100 - 120%
+3.
+Combos and How to Play Furina
+To play Furina you normally want to use her at the start of your rotation
+so that you can accumulate Fanfare stacks while setting up your team.
+Start with
+Let the People Rejoice
+and then
+Salon Solitaire
+immediately after before swapping to your Healer of choice such as
+Xilonen
+,
+Baizhu
+and
+Charlotte
+. Party-wide healers
+help to generate fanfare faster!
+Using
+Charged Attack
+allows you to change the Salon Solitaire
+members from
+Ousia
+to
+Pneuma
+.
+3.1.
+What is Fanfare?
+Furina's main mechanics involve you increasing her Fanfare stacks
+during
+Let the People Rejoice
+to increase your teams damage.
+Fanfare itself is a stacking mechanics during this Elemental Burst which
+increases as HP changes occur throughout
+your entire team
+. Both
+increases and decreases to your parties HP will generate stacks of Fanfare.
+Furina supports this with
+Salon Solitaire
+draining
+HP until your team is at 50%. Healing an entire team from 50% - 100% would
+generate 200 Fanfare. Overhealing does not contribute to Fanfare stacks
+but does trigger
+Endless Waltz
+.
+Because of this, a Healer that can heal your entire team is ideal to
+generate Fanfare stacks quickly. You want Fanfare stacks quickly so that
+you obtain the maximum possible buff faster, increasing your damage.
+At 25%, 50% and 75% Fanfare generated, the amount of people cheering at the bottom of your screen
+will increase. When you hit the cap the screen will briefly flash white
+for a moment and the bubbles around the edges become more noticeable.
+4.
+Furina Best Team Comps
+Furina can be used in an incredibly wide array of team compositions to support the team
+and increase their damage. Without investing into constellations, Furina
+will need a Healer on the team. This
+can in some situations cause her to not have synergy with some characters but
+can also unlock new potential.
+A Healer is important because the entire team will drop to 50% HP
+causing them to be unable to generate Fanfare or buff the damage of
+Salon Solitaire
+. You therefore need a healer that
+can heal over 50% of your entire teams HP.
+4.1.
+Furina in Neuvillette Hypercarry
+Main DPS
+Sub DPS
+Support
+Healer
+Neuvillette
+Ineffa
+Furina
+Xilonen
+Neuvillette
+Kaedehara Kazuha
+Furina
+Xilonen
+Neuvillette
+Kaedehara Kazuha
+Furina
+Charlotte
+Furina is a great addition to
+Neuvillette
+team comps providing
+Hydro Resonance
+and huge DMG buffs. there
+are also plenty of suitable healers for Furina with
+Xilonen
+being the best in this team as Xilonen provides RES Shred and a
+stack towards
+Heir to the Ancient Sea's Authority
+.
+4.2.
+Other Strong Furina Team Examples
+Main DPS
+Support
+Support
+Support
+Varesa
+Iansan
+Furina
+Xianyun
+Skirk
+Escoffier
+Furina
+Shenhe
+Listed are a few more examples of some of the current more meta team compositions 
+that Furina is utilised in aside from Neuvillette teams. That currently being
+Skirk
++
+Escoffier
+teams 
+as well as
+Varesa
+plunge teams.
+4.3.
+Furina with Anemo Hypercarries
+Main DPS
+Support
+Support
+Healer
+Xiao
+Faruzan
+Furina
+Xianyun
+Chasca
+Ororon
+Furina
+Bennett
+Furina can be great to with various
+Anemo
+hypercarries such as
+Xiao
+and
+Chasca
+.
+In these teams, Furina is buffed by
+Xianyun
+and
+Bennett
+respectively.
+4.4.
+Furina in Nilou Bloom
+Sub DPS
+Sub DPS
+Support
+Healer
+Nahida
+Nilou
+Furina
+Baizhu
+Lauma
+Nilou
+Furina
+Baizhu
+Furina can be a great source of additional
+Hydro
+application
+in
+Nilou
+Bloom
+teams. While her
+fanfare stacks and the related DMG buffs are unable to be fully utilised in
+this team, she is still able to be incredibly useful. As with many Nilou teams,
+she simply needs Hydro and
+Dendro
+characters such as
+Lauma
+and
+Baizhu
+.
+4.5.
+Furina Hu Tao Team
+Main DPS
+Sub DPS
+Support
+Healer
+Hu Tao
+Yelan
+Furina
+Xianyun
+Bennett
+Furina is a great source of both
+Hydro
+and also
+buffs in
+Hu Tao
+team compositions. Best supported by healers
+such as
+Xianyun
+or
+Bennett
+however shielders
+can work such as
+Zhongli
+or
+Citlali
+.
+5.
+Furina's Ascensions, Talents, and Constellations
+Furina Ascensions
+Furina Talents
+Furina Constellations
+5.1.
+Furina Ascension Passives and Materials
+Unlock
+Ascension Passive
+Explanation
+With Character
+The Sea Is My Stage
+A unique passive which can be great for underwater explanation.
+1st Ascension
+Endless Waltz
+This passive is great for characters that only have single target healing
+    and even benefits from Furias healing bonus.
+4th Ascension
+Unheard Confession
+The buff provided here caps out at 40,000 HP to provide the 28% damage
+    bonus from Salon Members and the 16% healing interval reduction for the
+    Singer of Many Waters.
+Furina requires a range of materials to ascend to the 6th ascension.
+Starting from the second ascension they gain additional CRIT Rate as their
+bonus stat giving a total of 19.2% increased CRIT Rate at the final ascension.
+The total cost to upgrade all ascensions is:
+Source
+Quantity
+Mora
+420,000 Mora
+Boss Material
+46x
+Water That Failed To Transcend
+Ascension Material
+1x
+Varunada Lazurite Sliver
+9x
+Varunada Lazurite Fragment
+9x
+Varunada Lazurite Chunk
+6x
+Varunada Lazurite Gemstone
+Local Specialty
+168x
+Lakelight Lily
+Enhancement Material
+18x
+Whopperflower Nectar
+30x
+Shimmering Nectar
+36x
+Energy Nectar
+5.2.
+Furina's Talents
+Listed below is each talent and a simplified explanation of how they work. Hover
+over each skill name for their in-game description!
+Type
+Talent Name
+Brief Explanation
+Normal
+Soloist's Solicitation
+Normal attack is 4 strikes.
+Charged attack changes Furina's Arkhe and therefore Salon Members.
+       She will start in Ousia and her design will change accordingly. Black
+       outfit and short hair is Ousia, White outfit and longer hair is
+       Pneuma.
+Normal attacks from Furina will use the relevant Arkhe which is great for exploration.
+Elemental Skill
+Salon Solitaire
+Brings out members of the Salon Solitaire depending on her current Arkhe.
+Ousia — 3 damage dealing Salon Members who drain your teams
+        HP is above 50% to deal more damage, follow you around and target
+        nearby enemies.
+Pneuma — Summons Singer of Many Waters who only heals, is
+        stationary and will not follow you or apply Hydro.
+Ousia is recommended for combat, Pneuma for emergency Healing mainly out of combat.
+Elemental Burst
+Let the People Rejoice
+Generates Fanfare based on HP changes that occur. Fanfare stacks increase your
+    damage and Healing. You can tell when you hit the Fanfare cap because your
+    screen will flash white for a brief moment.
+To upgrade a single talent to level 10, it costs:
+Source
+Quantity
+Mora
+1,625,500 Mora
+Special Material
+1x
+Crown of Insight
+Boss Material
+6x
+Lightless Mass
+Domain Material
+3x
+Teachings of Justice
+21x
+Guide to Justice
+38x
+Philosophies of Justice
+Enhancement Material
+6x
+Whopperflower Nectar
+22x
+Shimmering Nectar
+31x
+Energy Nectar
+5.3.
+Furina's Constellations
+Furinas Constellations are great all-round with each providing great benefits.
+"A Woman Adapts Like Duckweed in Water"
+(C2) is great to improve
+Furina's Fanfare generation increasing,
+"They Know Not Life, Who Dwelt in the Netherworld Not!"
+is really good for lowering Energy Recharge requirements and
+"Hear Me — Let Us Raise the Chalice of Love!"
+makes it possible to convert Furina into a Main DPS.
+#
+Name
+Explanation
+C1
+"Love Is a Rebellious Bird That None Can Tame"
+The immediate 150 increase to Fanfare generation massively raises the
+    damage floor while the increased limit allows you to do even more damage during
+Let the People Rejoice
+.
+C2
+"A Woman Adapts Like Duckweed in Water"
+C2 massively increases the rate at which you generate Fanfare allowing
+    you to easily be at max Fanfare before your DPS takes the stage. The HP
+    increase also makes it easier to hit the 40,000 HP requirement of
+Unheard Confession
+allowing
+    you to potential focus your Artifact stats elsewhere.
+C3
+"My Secret Is Hidden Within Me, No One Will Know My Name"
+The 3 extra levels on
+Let the People Rejoice
+makes it so
+    at level 10, the ceiling of your burst is raised from +100% to +124%.
+C4
+"They Know Not Life, Who Dwelt in the Netherworld Not!"
+Furinas C4 removes any Energy Recharge requirements allowing you to
+    use a better Sands and a non-Energy Recharge weapon more efficiently to
+    further increase your personal damage.
+C5
+"His Name I Now Know, It Is...!"
+Increases both the Damage of the Salon Members as well as the
+    Healing provided by the Singer of Many Waters.
+C6
+"Hear Me — Let Us Raise the Chalice of Love!"
+Provides a
+Hydro
+infusion to all Normal Attacks
+      (which looks stunning) as well as increasing damage. Her Arkhe have new
+      effects.
+Ousia — Healing while Salon Members are dealing damage and draining HP.
+Pneuma — Further increases damage but drains HP while the Singer of Many Waters heals.
+This allows you to remove the Healer from your team allowing you to
+      instead have an additional off-field DPS to increase your teams damage
+      even further.
+Changelog
+27 Sep. 2025:
+Updated for 6.0.
+12 Feb. 2025:
+Reviewed for 5.4.
+05 Feb. 2025:
+Updated to 5.3.
+25 Jun. 2024:
+Infographic added.
+31 May 2024:
+Reviewed for 4.7, team comps adjusted to reflect current meta more.
+31 Jan. 2024:
+Various improvements to the guide: more alternative weapons/artifact sets. Team comps updates following the release of Xianyun and Patch 4.4.
+29 Nov. 2023:
+Guide added.
+Show more
+Show less
+Need any help? Check out our
+General Discussion Forum
+!
+1 comment
+In The Same Category
+Kamisato Ayato Best Builds Guide
+Nilou Best Builds Guide
+Aino Best Builds Guide
+Columbina Best Builds Guide
+Xingqiu Best Builds Guide
+Sangonomiya Kokomi Best Builds Guide
+Tartaglia Best Builds Guide
+Candace Best Builds Guide
+Yelan Best Builds Guide
+Mualani Best Builds Guide
+Columbina Profile & Talents
+Dahlia Best Builds Guide
+ABOUT THE AUTHOR
+Wrtiten by Mistsplitter Reforged, a day one player of Genshin 
+        Impact and Zenless Zone Zero, and a Guide Maker on Youtube, 
+        striving to provide helpful content and useful tips. Spends time 
+        collecting characters and enjoying what the games have to offer. Make sure to
+check out their YouTube guides!
+SUPPORT OUR WRITERS

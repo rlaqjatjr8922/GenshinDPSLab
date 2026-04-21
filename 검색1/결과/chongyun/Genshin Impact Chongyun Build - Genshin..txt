@@ -1,0 +1,192 @@
+Genshin Impact Chongyun Build
+Cryo
+Claymore
+Support
+Chongyun Upgrade Materials
+Diligence
+Dvalin's Sigh
+Shivada Jade Sliver
+Hoarfrost Core
+Cor Lapis
+Damaged Mask
+Chongyun Best Weapons
+1
+Wolf's Gravestone
+2
+Serpent Spine
+3
+Redhorn Stonethresher
+4
+Beacon of the Reed Sea
+5
+The Unforged
+Chongyun Best Artifacts
+1
+Blizzard Strayer
+2
+Noblesse Oblige
+2
+2
+Emblem of Severed Fate
+4
+3
+Blizzard Strayer
+2
+Shimenawa's Reminiscence
+2
+4
+Noblesse Oblige
+2
+Shimenawa's Reminiscence
+2
+5
+Blizzard Strayer
+2
+Emblem of Severed Fate
+2
+Chongyun Best Stats
+Sands:
+ATK% / Energy Recharge / Elemental Mastery
+Goblet:
+Cryo DMG
+Circlet:
+CRIT Rate / CRIT DMG
+Substats:
+CRIT Rate / CRIT DMG > ATK% > Elemental Mastery
+Character Builds by Genshin Impact Helper →
+Teams
+Talents
+Passives
+Constellations
+Ascension
+Best Chongyun Teams
+Bennett Melt
+Kaeya Freeze
+Chongyun Talents
+Normal Attack
+Demonbane
+Normal Attack Performs up to 4 consecutive strikes. Charged Attack Drains Stamina over time to perform continuous swirling attacks against all nearby enemies. At end of the sequence, perform a more powerful slash. Plunging Attack Plunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.
+Elemental Skill
+Spirit Blade - Chonghua's Layered Frost
+Chongyun strikes the ground with his greatsword, causing a
+Cryo
+explosion in a circular AoE in front of him that deals
+Cryo
+DMG. After a short delay, the cold air created by the
+Cryo
+explosion will coalesce into a Chonghua Frost Field, within which all DMG done through Normal and Charged Attacks by Sword, Greatsword and Polearm-wielding characters will be converted to
+Cryo
+DMG.
+Elemental Burst
+Spirit Blade - Cloud-Parting Star
+Performing the secret hand seals, Chongyun summons 3 giant spirit blades in mid-air that fall to the earth one by one after a short delay, exploding as they hit the ground. When the spirit blades explode, they will deal AoE
+Cryo
+DMG and launch enemies.
+Chongyun Passives
+Ascension 1
+Steady Breathing
+Sword, Claymore, or Polearm-wielding characters within the field created by Spirit Blade - Chonghua's Layered Frost have their Normal Attack SPD increased by 8%.
+Ascension 4
+Rimechaser Blade
+When the field created by Spirit Blade - Chonghua's Layered Frost disappears, another spirit will be summoned to strike nearby enemies, dealing 100% of Chonghua's Layered Frost's Skill DMG as AoE
+Cryo
+DMG. Enemies hit by this blade will have their
+Cryo
+RES decreased by 10% for 8s.
+Passive
+Gallant Journey
+When dispatched on an expedition in Liyue, time consumed is reduced by 25%.
+Chongyun Constellations
+Constellation 1
+Ice Unleashed
+The last attack of Chongyun's Normal Attack combo releases 3 ice blades. Each blade deals 50% of Chongyun's ATK as
+Cryo
+DMG to all enemies in its path.
+Constellation 2
+Atmospheric Revolution
+Elemental Skills and Elemental Bursts cast within the Frost Field created by Spirit Blade - Chongyun's Layered Frost have their CD time decreased by 15%.
+Constellation 3
+Cloudburst
+Increases the Level of Spirit Blade - Cloud-parting Star by 3. Maximum upgrade level is 15.
+Constellation 4
+Frozen Skies
+Chongyun regenerates 1 Energy every time he hits an enemy affected by Cold or Frozen status effects. This effect can only occur once every 2s.
+Constellation 5
+The True Path
+Increases the level of Spirit Blade - Chongyun's Layered Frost by 3. Maximum upgrade level is 15.
+Constellation 6
+Rally of Four Blades
+Spirit Blade - Cloud-parting Star deals 15% more DMG to enemies with a lower percentage of their Max HP remaining than Chongyun. This skill will also summon 1 additional spirt blade.
+Chongyun Ascension Costs
+Rank
+Lvl
+Cost
+Material
+Material
+Material
+Material
+1
+20
+20000
+1
+Shivada Jade Sliver
+3
+Cor Lapis
+3
+Damaged Mask
+2
+40
+40000
+3
+Shivada Jade Fragment
+2
+Hoarfrost Core
+10
+Cor Lapis
+15
+Damaged Mask
+3
+50
+60000
+6
+Shivada Jade Fragment
+4
+Hoarfrost Core
+20
+Cor Lapis
+12
+Stained Mask
+4
+60
+80000
+3
+Shivada Jade Chunk
+8
+Hoarfrost Core
+30
+Cor Lapis
+18
+Stained Mask
+5
+70
+100000
+6
+Shivada Jade Chunk
+12
+Hoarfrost Core
+45
+Cor Lapis
+12
+Ominous Mask
+6
+80
+120000
+6
+Shivada Jade Gemstone
+20
+Hoarfrost Core
+60
+Cor Lapis
+24
+Ominous Mask
+Loading...

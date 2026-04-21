@@ -1,0 +1,277 @@
+Sayu
+4
+★
+Claymore
+Anemo
+A pint-sized ninja attached to the Shuumatsuban, who always seems sleep-deprived
+.
+Basic Stats
+Nv.
+90
+HP
+11854
+ATK
+244
+DEF
+745
+EM
+96
+Basic Stats
+Nv.
+90
+HP
+11854
+ATK
+244
+DEF
+745
+EM
+96
+Sayu
+Ascension Materials
+Vayuda Turquoise Sliver
+Crystal Marrow
+Marionette Core
+Whopperflower Nectar
+Teachings of Light
+Gilded Scale
+Sayu
+Best Weapon
+Favonius Greatsword
+Level
+.
+90
+ATK
+454
+Energy Recharge
+61.3%
+Refinement
+.
+5
+CRIT Hits have a 100% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 6s.
+Other Weapons
+2
+°
+Katsuragikiri Nagamasa
+Energy Recharge
+3
+°
+Skyward Pride
+Energy Recharge
+4
+°
+Sacrificial Greatsword
+Energy Recharge
+Sayu
+Best Artifact Set
+Viridescent Venerer
+2 Pc
+:
+Anemo DMG Bonus +15%
+4 Pc
+:
+Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s.
+Artifacts Main Stats
+Sands
+:
+ER % / EM
+Goblet
+:
+ATK % / EM
+Circlet
+:
+Healing Bonus / Crit Rate
+Artifacts Substats
+Energy Recharge
+ATK %
+Elemental Mastery
+Crit Rate
+Other Artifacts Sets
+2
+°
+4x
+Noblesse Oblige
+3
+°
+4x
+Ocean-Hued Clam
+Sayu
+Talent Priority
+1
+°
+Elemental Burst
+2
+°
+Elemental Skill
+Sayu
+Best Teams
+Time #
+1
+Main DPS
+Sub-DPS
+Sub-DPS
+Support
+Keqing
+Nahida
+Fischl
+Sayu
+Time #
+2
+Main DPS
+Sub-DPS
+Support
+Support
+Arlecchino
+Yelan
+Zhongli
+Sayu
+Sayu
+Ascension Costs
+Cost
+5
+→
+6
+120
+K
+Vayuda Turquoise Gemstone
+6
+Marionette Core
+20
+Crystal Marrow
+60
+Energy Nectar
+24
+Sayu
+Talents Costs
+Cost
+9
+→
+10
+700
+K
+Philosophies of Light
+16
+Energy Nectar
+12
+Gilded Scale
+2
+Crown of Insight
+1
+Sayu
+Talents
+Normal Attack
+Shuumatsuban Ninja Blade
+Normal Attack
+Performs up to 4 consecutive strikes.
+Charged Attack
+Drains Stamina over time to perform continuous spinning attacks against all nearby opponents.
+At the end of the sequence, performs a more powerful slash.
+Plunging Attack
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Elemental Skill
+Yoohoo Art: Fuuin Dash
+#The special technique of the Yoohoo Ninja Arts!
+Sayu curls up into a rolling Fuufuu Windwheel and smashes into opponents at high speed, dealing
+Anemo DMG
+. When the duration ends, she unleashes a Fuufuu Whirlwind Kick, dealing
+AoE Anemo DMG
+.
+{LAYOUT_MOBILE#Tap}{LAYOUT_PC#Press}{LAYOUT_PS#Press}
+Enters the Fuufuu Windwheel state, rolling forward a short distance before using the Fuufuu Whirlwind Kick.
+Hold
+Rolls about continuously in the Fuufuu Windwheel state, increasing Sayu's resistance to interruption while within that state.
+During this time, Sayu can control the direction of her roll, and can use the skill again to end her Windwheel state early and unleash a stronger version of the Fuufuu Whirlwind Kick.
+The Hold version of this skill can trigger Elemental Absorption.
+This skill has a maximum duration of 10s and enters CD once its effects end. The longer Sayu remains in her Windwheel state, the longer the CD.
+Elemental Absorption
+If Sayu comes into contact with
+Hydro
+/
+Pyro
+/
+Cryo
+/
+Electro
+while in her Windwheel state, she will deal additional elemental DMG of that type.
+Elemental Absorption may only occur once per use of this skill.
+Sayu can pull this skill off with her eyes closed. This technique was originally created for escaping, but now that she's got a Vision, might as well make her foes eat dirt while she's at it.
+Elemental Burst
+Yoohoo Art: Mujina Flurry
+The other super special technique of the Yoohoo Ninja Arts! It summons a pair of helping hands for Sayu.
+Deals
+Anemo DMG
+to nearby opponents and heals all nearby party members. The amount of HP restored is based on Sayu's ATK. This skill then summons a Muji-Muji Daruma.
+Muji-Muji Daruma
+At specific intervals, the Daruma will take one of several actions based on the situation around it:
+·If the HP of nearby characters is above 70%, it will attack a nearby opponent, dealing
+Anemo DMG
+.
+·If there are active characters with 70% or less HP nearby, it will heal the active character with the lowest percentage HP left. If there are no opponents nearby, it will heal active characters nearby even if they have 70% HP or more.
+People who don't know the first thing about ninjutsu love to watch Sayu show off this skill, and some have tried to learn it from her. But Sayu just wants to sleep and not be disturbed.
+Sayu
+Passives
+Passive
+1
+Someone More Capable
+When Sayu triggers a Swirl reaction while active, she heals all your characters and nearby allies for 300 HP. She will also heal an additional 1.2 HP for every point of Elemental Mastery she has.
+This effect can be triggered once every 2s.
+Passive
+2
+No Work Today!
+The Muji-Muji Daruma created by
+Yoohoo Art: Mujina Flurry
+gains the following effects:
+·When healing a character, it will also heal characters near that healed character for 20% the amount of HP.
+·Increases the AoE of its attack against opponents.
+Passive
+3
+Yoohoo Art: Silencer's Secret
+When Sayu is in the party, your characters will not startle Crystalflies and certain other animals when getting near them.
+Check the
+"Other"
+sub-category of the
+"Living Beings / Wildlife"
+section in the Archive for creatures this skill works on.
+Sayu
+Constellations
+C
+1
+Multi-Task no Jutsu
+The Muji-Muji Daruma created by
+Yoohoo Art: Mujina Flurry
+will ignore HP limits and can simultaneously attack nearby opponents and heal characters.
+C
+2
+Egress Prep
+#
+Yoohoo Art: Fuuin Dash
+gains the following effects:
+·DMG of Fuufuu Whirlwind Kick in {LAYOUT_MOBILE#Tapping}{LAYOUT_PC#Press}{LAYOUT_PS#Press} Mode increased by 3.3%.
+·Every 0.5s in the Fuufuu Windwheel state will increase the DMG of this Fuufuu Whirlwind Kick by 3.3%. The maximum DMG increase possible through this method is 66%.
+C
+3
+Eh, the Bunshin Can Handle It
+Increases the Level of
+Yoohoo Art: Mujina Flurry
+by 3.
+Maximum upgrade level is 15.
+C
+4
+Skiving: New and Improved
+Sayu recovers 1.2 Energy when she triggers a Swirl reaction.
+This effect occurs once every 2s.
+C
+5
+Speed Comes First
+Increases the Level of
+Yoohoo Art: Fuuin Dash
+by 3.
+Maximum upgrade level is 15.
+C
+6
+Sleep O'Clock
+The Muji-Muji Daruma created by Sayu's
+Yoohoo Art: Mujina Flurry
+will now also benefit from her Elemental Mastery. Each point of Sayu's Elemental Mastery will produce the following effects:
+·Increases the damage dealt by the Muji-Muji Daruma's attacks by 0.2% ATK. A maximum DMG increase of 400% ATK can be gained via this method.
+·Increases the HP restored by the Muji-Muji Daruma by 3. A maximum of 6,000 additional HP can be restored in this manner.

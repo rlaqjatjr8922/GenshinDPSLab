@@ -1,0 +1,527 @@
+Home
+/
+Genshin Impact
+/
+Character List
+/
+Xiangling Build
+Xiangling Guide and Best Builds
+Xiangling is the 4-Star
+Pyro
+off-field DPS who
+deals powerful Burst damage, and uses Guoba. Read our Xiangling guide to learn more about
+Xiangling's kit, Xiangling's best Builds and also her Ascension and Talent Materials.
+Last updated
+on
+Dec 02, 2025
+at
+20:55
+by
+Jaymo
+1 comment
+S
+Rank
+Pyro
+Element
+Polearm
+Weapon
+★
+★
+★
+★
+★
+Rarity
+Jackie Lastra
+EN Voice Actor
+Ozawa Ari
+JP Voice Actor
+Xiangling's Strengths & Weaknesses
+Strengths
+Great Pyro application on enemies.
+F2P character that can carry you through endgame.
+Strong Elemental Burst.
+Good Off-Field DPS due to her Pyronado.
+Large choice of team compositions.
+Weaknesses
+Xiangling Requires
+a lot
+of Energy.
+Guoba can not really be aimed at anything and will simply target.
+Guoba's damage is low.
+1.
+Xiangling Build Guide, Best Artifacts, Weapons and Talent Priority
+Xiangling is a character you can get for free and who can still be used in 
+end-game content. Xiangling is usually built as a Sub-DPS because her powerful 
+Burst
+Pyronado
+dealing
+Pyro
+DMG to 
+all surrounding opponents.
+BiS Weapon
+"The Catch"
+Alternative Weapons
+Staff of the Scarlet Sands
+Favonius Lance
+Engulfing Lightning
+Kitain Cross Spear
+Wavebreaker's Fin
+Staff of Homa
+Primordial Jade Winged-Spear
+Symphonist of Scents
+Skyward Spine
+Calamity Queller
+Mountain-Bracing Bolt
+Dragon's Bane
+Deathmatch
+Prototype Starglitter
+Royal Spear
+Blackcliff Pole
+Missive Windspear
+Tamayuratei no Ohanashi
+Best Artifacts
+Emblem of Severed Fate
+Main Stats
+Sand Stats
+: ATK % / EM / Energy Recharge (if no energy on the weapon)
+Goblet Stats
+:
+Pyro
+DMG %
+Circlet Stats
+: CRIT Rate / DMG
+Substat Priority
+Energy Recharge (until requirement)
+CRIT Rate / DMG
+ATK %
+Elemental Mastery
+Talent Priority
+Elemental Burst
+Elemental Skill
+Normal Attack
+For this build, Xiangling's best weapon is
+"The Catch"
+. It provides Xiangling with 
+a lot of Energy Recharge, while also being extremely easy to obtain at R5. This weapon comes
+from the fishing activity, which you can participate in early on and farm for it.
+Xiangling's best Artifact set for this build is the
+Emblem of Severed Fate
+. 
+Xiangling needs a set that provides more energy recharge, making the Emblem really worth. 
+Additionally, this set also heavily increases her Burst damage, which is exactly what she needs.
+For this Xiangling build you will need around 200 %+ energy recharge. If you reach that before picking a 
+Sand Artifact you can go for ATK % or EM.
+You can leave out Xiangling's Normal Attack and only focus on upgrading her Burst first and Skill second.
+2.
+Recommended Endgame Build Stats for Xiangling
+Build recommendations assume a "decently built" level of artifact rolls alongside 
+Xiangling's best weapon. Using other weapons may increase or decrease certain stats relative to these recommendations.
+HP:
+15,000 - 20,000
+ATK:
+1200 - 1400
+EM:
+100 - 300
+CRIT Rate:
+60 - 70%
+CRIT DMG:
+120 - 140%
+Pyro DMG
+:
+40 - 50%
+ER:
+180 - 220%
+3.
+Xiangling Combos and How to Play
+Xiangling's abilities can be quite powerful on the battlefield with her
+Elemental Burst,
+Pyronado
+, triggering some devastating
+Elemental Reactions. She can also help while off-field with her Elemental
+Skill
+Guoba Attack
+as a good source of
+Pyro
+application.
+Both of Xiangling's skills snapshot, so she can play well into situations
+where she can take advantage of any damage buffs.
+You should try to always have
+Bennett
+in your team, as he provides 
+important buffs to both Xiangling and the rest of the team, and he will also 
+lower her energy requirements as he will generate
+Pyro
+particles.
+Xiangling's rotation for a Sub DPS build will be as follows:
+Use Bennett's Burst if he is in the team
+Swap to Xiangling
+Use
+Pyronado
+Use
+Guoba Attack
+Swap to your Main DPS
+You can use Bennett's Elemental Skill before swapping back to Xiangling as this will provide more particles
+4.
+Xiangling's Best Team Comps
+Xiangling will act as a Sub DPS. As mentioned previously,
+Bennett
+is her best teammate. We will focus on teams that take advantage of her powerful Burst for 
+Elemental Reactions.
+4.1.
+Rational Team
+Sub DPS
+Main DPS
+Support
+Buffer
+Xiangling
+Raiden Shogun
+Xingqiu
+Bennett
+This team has been a top meta team ever since
+Raiden Shogun
+became available to players. The build uses Raiden’s DPS capabilities and
+amplifies them by stacking your team’s Elemental Bursts all together for her
+to take advantage of. Xiangling is primarily used for the power of her
+Pyronado
+,
+Bennett
+for his ATK buffs, and
+Xingqiu
+for his
+Hydro
+application.
+When all three Elemental Bursts have been activated, you will swap back to Raiden to activate her Elemental Burst,
+Secret Art: Musou Shinsetsu
+, allowing her to deal massive damage.
+4.2.
+National Team
+Sub DPS
+Main DPS
+Support
+Buffer
+Xiangling
+Tartaglia
+Sucrose
+Kaedehara Kazuha
+Bennett
+This powerful team uses the combination of Xiangling,
+Bennett
+, and
+Tartaglia
+to create
+Vaporize
+.
+Sucrose
+or
+Kaedehara Kazuha
+are
+added to help provide Elemental RES Shred as well as
+Swirl
+reactions.
+You can use variants of this team with the following DPS characters as well:
+Sub DPS
+Main DPS
+Support
+Buffer
+Xiangling
+Kamisato Ayato
+Neuvillette
+Sucrose
+Kaedehara Kazuha
+Bennett
+4.3.
+4-star National Team
+Sub DPS
+Sub DPS
+Support
+Support
+Xiangling
+Xingqiu
+Sucrose
+Bennett
+This build focuses on 4-star characters only as an additional National variant
+and has a lot of
+Elemental Reactions
+that offer up solid damage
+against almost any type of enemy.
+Xingqiu
+is our
+Hydro
+applicator, 
+who is assisted by
+Sucrose
+to help apply the Hydro effect 
+to every enemy on the field. She will also buff our Elemental Mastery and apply
+Swirl
+plus RES Shred if she is using the
+Viridescent Venerer
+set.
+Bennett
+and Xiangling will add the
+Pyro
+to 
+the equation. It is a very good starter 4-star team.
+4.4.
+Xiangling Melt Teams
+Sub DPS
+Main DPS
+Support
+Support
+Xiangling
+Ganyu
+Bennett
+Citlali
+Zhongli
+Sub DPS
+Main DPS
+Support
+Sub DPS
+Xiangling
+Wriothesley
+Kamisato Ayaka
+Bennett
+Kaeya
+Rosaria
+Xiangling is also excellent at assisting with elemental reactions in
+Melt
+teams. You can use
+Cryo
+main DPS such as
+Ganyu
+,
+Wriothesley
+, or
+Kamisato Ayaka
+.
+Bennett
+should still be a required teammate. You can add either 
+another support like a shielder, or another Sub-DPS.
+4.5.
+Xiangling
+Pyro
+Team
+Sub DPS
+Main DPS
+Support
+Support
+Xiangling
+Arlecchino
+Mavuika
+Bennett
+Kaedehara Kazuha
+Sub DPS
+Main DPS
+Support
+Sub DPS
+Xiangling
+Diluc
+Gaming
+Bennett
+Xianyun
+Xiangling will perform very well in Mono
+Pyro
+teams. 
+Again you will want to pair her with
+Bennett
+and a Main Pyro DPS!
+The choice is rather large, but for example
+Diluc
+or
+Gaming
+paired with
+Xianyun
+and her plunge attack buff will make a 
+powerful team. Other option such as powerful DPS like
+Arlecchino
+will 
+benefit from the Xiangling and Bennet Duo as well!
+5.
+Xiangling's Ascensions, Talents, and Constellations
+Xiangling Ascensions
+Xiangling Talents
+Xiangling Constellations
+5.1.
+Xiangling's Ascension Passives and Materials
+Unlock
+Ascension Passive
+Explanation
+With Character
+Chef de Cuisine
+When Xiangling cooks an ATK-boosting dish perfectly, she has a 12%
+    chance to receive double the product.
+1st Ascension
+Crossfire
+Increases the flame range of Guoba by 20%.
+4th Ascension
+Beware, It's Super Hot!
+When Guoba Attack's effects end, Guoba leaves a chili pepper on the
+    spot where it disappeared. Picking up a chili pepper increases ATK by 10%
+    for 10s.
+Xiangling requires a range of materials to ascend to the 6th ascension.
+Starting from the second ascension he gains additional Elemental Mastery as her
+bonus stat, giving a total of 96 additional Elemental Mastery at the final ascension.
+The total cost to upgrade all ascensions is:
+Source
+Quantity
+Mora
+420,000 Mora
+Boss Material
+46x
+Everflame Seed
+Ascension Material
+1x
+Agnidus Agate Sliver
+9x
+Agnidus Agate Fragment
+9x
+Agnidus Agate Chunk
+6x
+Agnidus Agate Gemstone
+Local Specialty
+168x
+Jueyun Chili
+Enhancement Material
+18x
+Slime Condensate
+30x
+Slime Secretions
+36x
+Slime Concentrate
+5.2.
+Xiangling's Talents
+Listed below is each talent and a brief explanation of how they work.
+Type
+Talent Name
+Brief Explanation
+Normal
+Dough-Fu
+Performs up to 5 consecutive attacks with Xiangling's spear. Her
+    charged attack consumes a certain amount of Stamina to lunge forward,
+    dealing damage to opponents along the way. Lastly, her plunging attack
+    drops to the ground below, damaging opponents along the path and dealing
+    AoE DMG upon impact.
+Elemental Skill
+Guoba Attack
+Summons Guoba, who will continuously breathe fire at opponents, dealing
+    AoE Pyro DMG.
+Elemental Burst
+Pyronado
+Displaying her mastery over both fire and polearms, Xiangling sends a
+    Pyronado whirling around her. The Pyronado will move with your character
+    for the ability's duration, dealing Pyro DMG to all
+    opponents in its path.
+To upgrade a single talent to level 10, it costs:
+Source
+Quantity
+Mora
+1,625,500 Mora
+Special Material
+1x
+Crown of Insight
+Boss Material
+6x
+Dvalin's Claw
+Domain Material
+3x
+Teachings of Diligence
+21x
+Guide to Diligence
+38x
+Philosophies of Diligence
+Enhancement Material
+6x
+Slime Condensate
+22x
+Slime Secretions
+31x
+Slime Concentrate
+5.3.
+Xiangling's Constellations
+Xiangling functions at C0, however, many players aim for her C6 as dramatically
+increases
+Pyronado
+'s power. Xiangling is a 4-star character, so we 
+do not recommend you pull specifically for her. You will get her constellations with time.
+#
+Name
+Explanation
+C1
+Crispy Outside, Tender Inside
+Opponents hit by Guoba's attacks have their
+Pyro
+RES
+    reduced by 15% for 6s.
+C2
+Oil Meets Fire
+The last attack in a
+Xiangling
+sequence
+    applies the Implode status onto the opponent for 2s. An explosion will
+    occur once this duration ends, dealing 75% of Xiangling's ATK as AoE
+    Pyro DMG.
+C3
+Deepfry
+Increases the Level of
+Pyronado
+by 3.
+Maximum upgrade level is 15.
+C4
+Slowbake
+Pyronado
+'s duration is increased by 40%.
+C5
+Guoba Mad
+Increases the Level of
+Guoba Attack
+by 3.
+Maximum upgrade level is 15.
+C6
+Condensed Pyronado
+For the duration of
+Pyronado
+, all party members
+    receive a 15% Pyro DMG Bonus.
+Changelog
+20 Oct. 2025:
+Updated for Luna II.
+30 Jul. 2025:
+Updated for 5.8.
+17 Jun. 2025:
+Updated for 5.7.
+06 May 2025:
+Updated for 5.6.
+25 Mar. 2025:
+Updated for 5.5.
+13 Feb. 2024:
+Updated for 5.4.
+22 Oct. 2024:
+Reviewed for Update 5.1.
+31 Jan. 2024:
+Added a new turret team.
+29 Nov. 2023:
+Guide added.
+Show more
+Show less
+Need any help? Check out our
+General Discussion Forum
+!
+1 comment
+In The Same Category
+Bennett Best Builds Guide
+Xinyan Best Builds Guide
+Nicole Team Guide
+Diluc Profile & Talents
+Arlecchino Best Builds Guide
+Lyney Best Builds Guide
+Diluc Team Guide
+Mavuika Profile & Talents
+Durin Best Builds Guide
+Diluc Best Builds Guide
+Thoma Best Builds Guide
+Pyro Traveler Best Builds Guide
+ABOUT THE AUTHOR
+Written by Jaymo, a longtime gamer who spends way too many hours exploring
+        open worlds, grinding in MMOs, and pulling for his favorite gacha characters.
+        He covers news and guides for all kinds of games, and just likes helping people
+        enjoy them more. You can find him hanging out on Twitch or chatting in Discord (jaym0).
+SUPPORT OUR WRITERS

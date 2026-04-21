@@ -1,0 +1,498 @@
+Home
+/
+Genshin Impact
+/
+Character List
+/
+Mualani Build
+Mualani Guide and Best Builds
+Mualani is powerful a 5-star Hydro Catalyst character in Genshin Impact
+who acts as a Hypercarry DPS dealing damage through her Normal Attacks
+during her Surfshark Wavebreaker Elemental Skill. Read our Mualani guide to learn more about
+Mualani's kit, Mualani's best Builds and also her Ascension and Talent Materials
+Last updated
+on
+Sep 27, 2025
+at
+09:32
+by
+Mistsplitter Reforged
+1 comment
+S
+Rank
+Hydro
+Element
+Catalyst
+Weapon
+★
+★
+★
+★
+★
+Rarity
+Cassandra Lee Morris
+EN Voice Actor
+Toyama Nao
+JP Voice Actor
+1.
+Mualani Build Guide Infographic
+Mualani's Strengths & Weaknesses
+Strengths
+Powerful
+Hydro
+Hypercarry Single Target DMG with some AoE Coverage.
+Attack frequency is slower than many characters but she hits harder one each attack allowing for easy Vaporize Reactions.
+High Interruption resistance.
+Surfshark Wavebreaker is amazing for exploration.
+Weaknesses
+Surfshark Wavebreaker (Elemental Skill) can be awkward at times when trying to tag the same opponent multiple times to increase Wave Momentum Stacks.
+Targeting is still buggy.
+2.
+Mualani Build Guide, Best Artifacts, Weapons and Talent Priority
+Mualani is best built as a
+Hydro
+DPS who primarily
+scales on based on HP.
+BiS Weapon
+Surf's Up
+Alternative Weapons
+Sacrificial Jade
+R5
+A Thousand Floating Dreams
+Tome of the Eternal Flow
+Starcaller's Watch
+Sunny Morning Sleep-In
+A Thousand Floating Dreams
+Ring of Yaxche
+The Widsith
+Prototype Amber
+Best Artifacts
+Obsidian Codex
+Marechaussee Hunter
+Unfinished Reverie
+Main Stats
+Sand Stats:
+HP %
+Goblet Stats:
+Hydro
+DMG / HP %
+Circlet Stats:
+CRIT Rate / DMG / HP %
+Substat Priority
+CRIT DMG
+CRIT Rate
+HP %
+Elemental Mastery
+Talent Priority
+Elemental Skill
+Elemental Burst
+Mualani's best weapon in this build is her signature
+Surf's Up
+which grants huge buffs to her HP, CRIT DMG and Normal Attack DMG.
+Other great options include
+Tome of the Eternal Flow
+,
+The Widsith
+and
+Sacrificial Jade
+. Sacrificial Jade while
+providing high damage makes Mualani already have over 100% CRIT Rate and
+can therefore be a hassle to build around. Any CRIT Rate built on artifacts
+would be dead stats. Mualani can also use 5-Star EM stat-sticks however 
+she can't really utilise their effects.
+Obsidian Codex
+is
+by far
+Mualani's best artifact set and definitely the one
+you want to build around especially with how much of the teams damage she provides.
+Mualani's next best options are
+Marechaussee Hunter
+and
+Unfinished Reverie
+but both come with restrictions to your team compositions rather than your build.
+Marechaussee requires
+Furina
+to be in the party while Unfinished Reverie requires
+Burning
+to be occurring.
+Build Mualani with an emphasis on CRIT DMG moreso than Rate because of the
+amount Mualani already has in her kit. As mentioned previously, she can already have
+100% CRIT Rate simply from her weapon option.
+Mualani's Elemental Skill is by far Mualani's most important Talent to
+level. Sharky's Bite DMG which is triggered by Normal Attacks actually
+scales based off of her Elemental Skill so do not level her Normal Attack.
+3.
+Combos and How to Play Mualani
+Mualani is a Hypercarry DPS who attacks slowly but each hit
+deals massive DMG. Because of her slow attack frequency, other
+characters in Mualani's teams can setup reactions easily without her
+Hydro
+getting in
+the way. Because of this she is best used in
+Vaporize
+teams.
+Mualani's Rotation is:
+Surfshark Wavebreaker
+Normal Attack immediately
+Build 3 Wave Momentum Stacks
+Normal Attack (Sharky Surging)
+Build 3 Wave Momentum Stacks
+Normal Attack (Sharky Surging)
+Build 3 Wave Momentum Stacks
+Normal Attack (Sharky Surging)
+Boomsharka-laka
+In AoE situations you simply spam Sharky Surging but this
+will heavily depend on the situation. Most grouped situations use
+weaker enemies which can make it harder to keep the enemies grouped close to Mualani
+because they die too easily.
+3.1.
+Surfshark Wavebreaker and Wave Momentum Stacks
+Mualani's core mechanic is based around her Elemental skill
+Surfshark Wavebreaker
+.
+This allows her to surf on her shark and consumes Nightsoul points. While on the
+wavebreaker, mualani can make contact with enemies and applies the "Marked as Prey"
+marker to them. This also grants a Wave Momentum stack up to a maximum of 3 stacks.
+This also has a 0.7s cooldown on the same enemy, meaning after almost
+a second if you are in contact with the same enemy you will
+gain an additional Wave Momentum stack. This is useful especially in larger
+boss fights.
+Using Normal Attacks in this state will convert them into
+Sharky's Bites. This damage scales based on how many
+Wave Momentum Stacks Mualani has.
+Always do this on 3 stacks
+as 3 stacks
+is a significant damage upgrade over 1/2 stacks. Up to 5 nearby marked enemies will also
+take damage from Shark Missiles which provides Mualani with AoE coverage.
+4.
+Mualani Best Team Compositions
+Mualani's best teams currently focus around the
+Vaporize
+reaction often using characters such as
+Xiangling
+,
+Mavuika
+and
+Dehya
+to help facilitate these reactions for high damage.
+Main DPS
+Sub DPS
+Support
+Support
+Mualani
+Mavuika
+Xilonen
+Citlali
+Mualani
+Mavuika
+Mona
+Xilonen
+Sucrose
+In Mualani teams,
+Mavuika
+can be a great off-field
+DPS/
+Pyro
+applicator. Supports generally include
+some combination of
+Xilonen
+,
+Citlali
+,
+Sucrose
+,
+Kaedehara Kazuha
+,
+Mona
+or even
+Furina
+.
+4.1.
+Dehya in Mualani Teams
+Main DPS
+Sub DPS
+Support
+Support
+Mualani
+Emilie
+Sucrose
+Nahida
+Dehya
+Mualani can use
+Dehya
+as your
+Pyro
+character and
+Emilie
+for Burning to take place alongside her powerful off-field damage.
+Sucrose
+is used to provide RES Shred from
+the VV artifact set but
+Nahida
+can be a great substitute.
+4.2.
+Mualani and Candace Team Compositions
+Main DPS
+Sub DPS
+Support
+Support
+Mualani
+Xiangling
+Zhongli
+Candace
+Main DPS
+Sub DPS
+Sub DPS
+Support
+Mualani
+Mavuika
+Emilie
+Candace
+Candace
+can be a great support for Mualani
+due to bringing both Normal Attack buffs as well as
+Hydro Resonance. This works in teams using
+Xiangling
+/
+Mavuika
+especially with either a support such as
+Zhongli
+who
+provides shielding and RES Shred or
+Emilie
+who
+brings increased damage.
+5.
+Mualani's Ascensions, Talents, and Constellations
+Mualani Ascensions
+Mualani Talents
+Mualani Constellations
+5.1.
+Mualani Ascension Passives and Materials
+Ascension Passive
+Explanation
+Heat-Resistant Freshwater Floater
+When Sharky's Surging Bite hits an opponent, a Puffer will be
+    generated nearby. Mualani will restore 20 Nightsoul points when she
+    picks up a Puffer. Only 2 such Puffers can be created in this way during a
+    single instance of being in Nightsoul's Blessing.
+Natlan's Greatest Guide
+When a nearby party member triggers a Nightsoul Burst, Mualani will
+    gain 1 stack of Wavechaser's Exploits, which lasts for 20s. Max 3 stacks.
+    When she uses
+Boomsharka-laka
+, Mualani will clear all Wavechaser's Exploits
+    stacks and increase the DMG of this Boomsharka-laka by 15%/30%/45% of her
+    Max HP based on the number of stacks cleared.
+Night Realm's Gift: Crests and Troughs
+After her Nightsoul points are depleted, Mualani will switch to consuming
+    Phlogiston to maintain her Nightsoul's Blessing.
+While in an area with Phlogiston Mechanics within Natlan, she can use
+    Nightsoul Transmission: Mualani. When the active character is currently
+    sprinting, swimming, in a movement mode caused by certain Talents, or at a
+    certain height in the air, the following will trigger when switching to
+    Mualani: Mualani will enter the Nightsoul's Blessing state and gain 40
+    Nightsoul points. Nightsoul Transmission can be triggered once every 10s by your own team.
+Additionally, Mualani's Nightsoul point or Phlogiston consumption while
+    moving on water and Liquid Phlogiston during Nightsoul's Blessing is
+    decreased by 75% while in Natlan, and her Nightsoul point consumption
+    is decreased by 35% while doing the same outside Natlan.
+The Trick Is to Keep Smiling!
+While in an area with Phlogiston Mechanics within
+Natlan
+, 15
+    Phlogiston will be restored when interacting with some harvestable items.
+    Additionally, the location of nearby resources unique to Natlan will appear
+    on your mini-map.
+Mualani gains CRIT Rate as she levels giving her a total of 24.2% CRIT Rate
+at level 90.
+The total cost to upgrade all ascensions is:
+Source
+Quantity
+Mora
+420,000 Mora
+Boss Material
+46x
+Mark of the Binding Blessing
+Ascension Material
+1x
+Varunada Lazurite Sliver
+9x
+Varunada Lazurite Fragment
+9x
+Varunada Lazurite Chunk
+6x
+Varunada Lazurite Gemstone
+Local Specialty
+168x
+Sprayfeather Gill
+Enhancement Material
+18x
+Sentry's Wooden Whistle
+30x
+Warrior's Metal Whistle
+36x
+Saurian-Crowned Warrior's Golden Whistle
+5.2.
+Mualani's Talents
+Type
+Talent Name
+Skill Explanation
+Normal
+Cooling Treatment
+Normal Attack
+Performs up to 3 attacks that deal
+Hydro
+DMG.
+Charged Attack
+Consumes a certain amount of Stamina to smack a Pufferball into the air that deals AoE
+Hydro
+DMG upon landing.
+Plunging Attack
+Gathers the power of Hydro and plunges towards the ground from mid-air,
+      damaging all opponents in her path. Deals AoE
+Hydro
+DMG upon impact with the ground.
+Elemental Skill
+Surfshark Wavebreaker
+Combining her mastery of speed and the waves and water, Mualani can
+    surf anytime, anywhere. After using this skill, Mualani will gain 60
+    Nightsoul points and enter the Nightsoul's Blessing state.
+Nightsoul's Blessing: Mualani
+Continuously consume Nightsoul points. When they are depleted or when
+      the skill is used again, Mualani's Nightsoul's Blessing will end. The
+      state itself has the following traits:
+Mualani mounts her Sharky Surfboard, increasing Mualani's Movement SPD and interruption resistance. Mualani can move on water and liquid Phlogiston while this state is active, and she will take no DMG from the latter.
+Normal Attacks will be converted to Sharky's Bites, dealing Nightsoul-aligned Hydro DMG based on Mualani's Max HP. Sharky's Bites can be used in mid-air. DMG dealt this way is considered Normal Attack DMG.
+When she makes contact with opponents in this state, Mualani applies "Marked as Prey" to them and gains 1 Wave Momentum stack. Max 3 stacks. 1 stack can be gained from the same opponent every 0.7s.
+Wave Momentum and Marked as Prey
+When Mualani uses Sharky's Bite, her DMG dealt increases based on Wave
+      Momentum stacks. When she has 3 stacks, Sharky's Bite will be converted to
+      Sharky's Surging Bite, further increasing her DMG
+      and removing all her stacks when hitting an opponent.
+When Shark Bite hits opponents Marked as Prey, that mark is removed,
+      and she will fire Shark Missiles at up to 5 nearby opponents Marked as
+      Prey, dealing DMG to them equal to this Sharky's Bite instance and clearing
+      their Marks. If more than 1 opponent is the target of Sharky's Bite and
+      Shark Missiles, the DMG dealt will decrease, decreasing at most
+      to 72% of the original DMG when 3 opponents are targeted.
+Elemental Burst
+Boomsharka-laka
+Fires a Super Shark Missile that can track opponents, dealing AoE
+Hydro
+DMG based on Mualani's Max HP.
+To upgrade a single talent to level 10, it costs:
+Source
+Quantity
+Mora
+1,625,500 Mora
+Special Material
+1x
+Crown of Insight
+Boss Material
+6x
+Lightless Mass
+Domain Material
+3x
+Teachings of Contention
+21x
+Guide to Contention
+38x
+Philosophies of Contention
+Enhancement Material
+6x
+Sentry's Wooden Whistle
+22x
+Warrior's Metal Whistle
+31x
+Saurian-Crowned Warrior's Golden Whistle
+5.3.
+Mualani's Constellations
+Mualani's best constellations are her C1-C3 which all provide significant
+damage increases. C1 is also incredibly useful for general Natlan exploration
+with Surfshake Wavebreaker consuming less Nightsoul and Phlogiston
+outside of combat.
+#
+Name
+Explanation
+C1
+The Leisurely "Meztli"...
+The DMG dealt by the first Sharky's Surging Bite after Mualani enters
+    Nightsoul's Blessing and the Shark Missiles it triggers is increased by 66%
+    of Mualani's Max HP. This instance of increased DMG is subject to the
+    diminishing DMG rules of
+Surfshark Wavebreaker
+.
+    In addition, while out of combat, Mualani's Nightsoul's Blessing state
+    consumes 30% less Phlogiston and Nightsoul points.
+C2
+Mualani, Going All Out!
+Mualani gains 2 of
+Surfshark Wavebreaker
+'s Wave Momentum stacks when
+    she enters Nightsoul's Blessing. She will gain 1 stack when obtaining a Puffer.
+    In addition, whenever Mualani obtains 2 Puffers within a single instance of
+    the Nightsoul's Blessing state, she will recover an additional 12 Nightsoul
+    points over 2s. This effect requires the Passive Talent "Heat-Resistant
+    Freshwater Puffer" to be unlocked first.
+C3
+Surfing Atop Joyous Seas
+Increases the Level of
+Surfshark Wavebreaker
+by 3. Maximum upgrade level is 15.
+C4
+Sharky Eats Puffies
+Mualani regenerates 8 Energy when obtaining a Puffer. Must first
+    unlock the Passive Talent
+Heat-Resistant Freshwater Floater
+." Additionally,
+Boomsharka-laka
+deals 75% increased DMG.
+C5
+Same Style of Surfboard on Sale!
+Increases the Level of
+Boomsharka-laka
+by 3. Maximum upgrade level is 15.
+C6
+Spirit of the Springs' People
+The DMG increase from the Constellation "The Leisurely 'Meztli'..."
+      is no longer limited to being triggered once every Nightsoul's Blessing.
+Changelog
+27 Sep. 2025:
+Updated for 6.0.
+12 Feb. 2025:
+Reviewed for 5.4.
+30 Jan. 2025:
+Updated for 5.3.
+28 Aug. 2024:
+Skill tags added, tier added and pre-farm advice removed.
+24 Aug. 2024:
+Build advice updated for release.
+27 Jul. 2024:
+Initial page added.
+Show more
+Show less
+Need any help? Check out our
+General Discussion Forum
+!
+1 comment
+In The Same Category
+Sigewinne Best Builds Guide
+Aino Best Builds Guide
+Xingqiu Best Builds Guide
+Yelan Best Builds Guide
+Dahlia Best Builds Guide
+Candace Best Builds Guide
+Mona Best Builds Guide
+Neuvillette Best Builds Guide
+Kamisato Ayato Best Builds Guide
+Nilou Best Builds Guide
+Columbina Team Guide
+Tartaglia Best Builds Guide
+ABOUT THE AUTHOR
+Wrtiten by Mistsplitter Reforged, a day one player of Genshin 
+        Impact and Zenless Zone Zero, and a Guide Maker on Youtube, 
+        striving to provide helpful content and useful tips. Spends time 
+        collecting characters and enjoying what the games have to offer. Make sure to
+check out their YouTube guides!
+SUPPORT OUR WRITERS

@@ -1,0 +1,176 @@
+Wanderer
+is a 5-star Anemo Catalyst character that primarily plays the role of a Main DPS.
+You can find some popular team compositions and builds below, as well as recommended team rotations!
+Hypercarry
+The purpose of a Hypercarry team is to have every character dedicating their abilities to supporting
+Wanderer
+. This team typically contains
+Faruzan
+and
+Bennett
+,
+Wanderer
+'s two best support characters. Below is an example of a Hypercarry team that includes
+Wanderer
+as the Main DPS,
+Faruzan
+as the Sub DPS,
+Zhongli
+as the Shield, and
+Bennett
+as the Healer / Buffer.
+Alternate Hypercarry teams could have a composition of:
+Wanderer
+-
+Faruzan
+-
+Yelan
+/
+Xingqiu
+-
+Bennett
+Wanderer
+-
+Faruzan
+-
+Yun Jin
+-
+Bennett
+Wanderer
+-
+Faruzan
+-
+Furina
+-
+Bennett
+Freeze
+A Freeze team is beneficial for
+Wanderer
+as it allows him to attack freely by immobilising his opponents. This team requires at least one character who can apply consistent Hydro, and at least one character who can apply consistent Cryo. Below is an example of a Freeze team that includes
+Wanderer
+as the Main DPS,
+Yelan
+and
+Rosaria
+as the Sub DPS', and
+Kokomi
+as the Healer.
+Alternate Freeze teams could have a composition of:
+Wanderer
+-
+Xingqiu
+-
+Rosaria
+-
+Barbara
+Wanderer
+-
+Ayato
+-
+Ganyu
+-
+Jean
+Wanderer
+-
+Layla
+-
+Shenhe
+-
+Kokomi
+Triple Anemo
+Triple Anemo focuses on causing Swirl DMG and keeping opponents in a close proximity.
+Faruzan
+and
+Bennett
+apply invaluable buffs and inflict consistent off-field DMG. Below is an example of a Triple Anemo team that includes
+Wanderer
+as the Main DPS,
+Faruzan
+as the Sub DPS,
+Kazuha
+as the Support, and
+Bennett
+as the Healer.
+Alternate Triple Anemo teams could have a composition of:
+Wanderer
+-
+Faruzan
+-
+Jean
+-
+Bennett
+Wanderer
+-
+Faruzan
+-
+Venti
+-
+Bennett
+Vaporize
+Vaporize teams can be very powerful, especially when you use the National rotation of the strongest 4-star characters. Below is an example of a Vaporize team that includes
+Wanderer
+as the Main DPS,
+Xiangling
+and
+Xingqiu
+as the Sub DPS', and
+Bennett
+as the Healer.
+Alternate Vaporize teams could have a composition of:
+Wanderer
+-
+Yelan
+/
+Xingqiu
+-
+Xiangling
+-
+Thoma
+Double Geo
+Double Geo allows you to inflict consistent damage with
+Wanderer
+spending most of his time on-field. The Geo support characters typically have rather low on-field times. Geo structures generate energy for
+Wanderer
+and cause damage to opponents. Below is an example of a Double Geo team that includes
+Wanderer
+as the Main DPS,
+Fischl
+and
+Albedo
+as the Sub DPS', and
+Zhongli
+as the Shielder.
+Alternate Double Geo teams could have a composition of:
+Wanderer
+-
+Albedo
+-
+Zhongli
+-
+Bennett
+Hyperbloom
+Wanderer
+can assist your typical Hyperbloom team by generating more elemental reactions through Swirl. Below is an example of a Hyperbloom team that includes
+Wanderer
+as the Main DPS, and
+Nahida
+,
+Fischl
+and
+Xingqiu
+as the Sub DPS'.
+Alternate Hyperbloom teams could have a composition of:
+Wanderer
+-
+Dendro Traveler
+-
+Fischl
+-
+Xingqiu
+Wanderer
+-
+Nahida
+-
+Raiden Shogun
+-
+Yelan

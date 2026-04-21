@@ -1,0 +1,56 @@
+options iteration=1000 duration=10.5 swap_delay=6 workers=4;
+options hitlag=true defhalt=false ignore_burst_energy=false;
+
+target lvl=100 resist=0.1 pos=1,0 radius=3 freeze_resist=0;
+
+active wanderer;
+
+# =========================
+# 캐릭터 1 (wanderer)
+# =========================
+wanderer char lvl=90/90 cons=0 talent=9,9,9;
+wanderer add weapon="thewidsith" refine=1 lvl=90/90;
+wanderer add set="desertpavilionchronicle" count=4;
+
+# =========================
+# 캐릭터 2 (bennett)
+# =========================
+bennett char lvl=90/90 cons=0 talent=9,9,9;
+bennett add weapon="skywardblade" refine=1 lvl=90/90;
+bennett add set="noblesseoblige" count=4;
+
+# =========================
+# 캐릭터 3 (faruzan)
+# =========================
+faruzan char lvl=90/90 cons=0 talent=9,9,9;
+faruzan add weapon="favoniuswarbow" refine=1 lvl=90/90;
+faruzan add set="noblesseoblige" count=4;
+
+# =========================
+# 캐릭터 4 (xiangling)
+# =========================
+xiangling char lvl=90/90 cons=0 talent=9,9,9;
+xiangling add weapon="engulfinglightning" refine=1 lvl=90/90;
+xiangling add set="emblemofseveredfate" count=4;
+
+
+# =========================
+# Entry Order
+# =========================
+# faruzan -> bennett -> wanderer -> xiangling
+
+# =========================
+# Rotation
+# =========================
+faruzan skill;
+faruzan burst;
+faruzan attack;
+bennett skill;
+bennett burst;
+bennett attack;
+wanderer skill;
+wanderer burst;
+wanderer attack;
+xiangling skill;
+xiangling burst;
+xiangling attack;

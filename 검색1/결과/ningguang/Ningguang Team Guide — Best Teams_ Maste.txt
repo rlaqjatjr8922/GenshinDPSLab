@@ -1,0 +1,253 @@
+Genshin Impact Ningguang Best Team Guide
+Last updated April 20, 2026. Looking for the best Ningguang teams in
+        Genshin Impact? Start with the top team summary below, then pick the
+        lineup that fits your roster.
+This page provides the best team info for Ningguang, primarily a Geo DPS. Top teams include Geo-focused compositions for resonance, often paired with Hydro/Electro Sub-DPS for reactions. Flexible to adjust secondary Geo characters based on roster availability.
+View Ningguang's character page
+Ningguang Team Summary
+#1
+Team Rating:S
+xiao_ningguang_core_team
+C4
+#2
+Team Rating:S
+Ningguang Vaporize Team
+#3
+Team Rating:S
+Ningguang Electro Team
+#1 xiao_ningguang_core_team
+Tier S
+Ningguang is a Sub DPS in the team. The DMG of Elemental Burst of Xiao is maximized by teammates.
+Xiao
+Main DPS
+Anemo
+Xiao’s Elemental Burst allows consecutive Plunge Attacks that deal wide-AOE Anemo DMG.
+Artifacts
+Viridescent Venerer
+Gladiator's Finale
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Primordial Jade Winged-Spear
+Deathmatch
+Jean
+Support
+Anemo
+Constellation 4+
+Jean is a healer and battery for Xiao’s Elemental Burst. Jean(C4) can further assist Xiao by lowering enemy Anemo RES.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+Ningguang
+Sub DPS
+Geo
+Ningguang pairs with Zhongli to trigger Geo Resonance and is swapped in when Xiao’s Elemental Burst is ready.
+Artifacts
+Archaic Petra
+Gladiator's Finale
+Main Stats
+Sands
+ATK%
+Goblet
+Geo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Lost Prayer to the Sacred Winds
+Solar Pearl
+Zhongli
+Support
+Geo
+Zhongli’s shield provides a safe environment for the team and increases whole-team ATK with Tenacity of the Millelith.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP / Energy Recharge
+Weapons
+Staff of Homa
+Black Tassel
+#2 Ningguang Vaporize Team
+Tier S
+Hu Tao is the main DPS and her damage is amplified by Vaporize. Ningguang is included as a Sub DPS, with Zhongli providing strong shielding and team ATK buffs.
+Hu Tao
+Main DPS
+Pyro
+Hu Tao is the main DPS; her DMG is amplified by Vaporization in this team.
+Artifacts
+Crimson Witch of Flames
+Main Stats
+Sands
+HP% / Elemental Mastery
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Elemental Mastery / ATK%
+Weapons
+Staff of Homa
+Deathmatch
+Xingqiu
+Sub DPS
+Hydro
+Xingqiu’s Elemental Burst applies Hydro continuously, enabling Vaporize reactions with Hu Tao’s Pyro DMG.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Sacrificial Sword
+Ningguang
+Sub DPS
+Geo
+Ningguang pairs with Zhongli to trigger Geo resonance and is switched in when her Elemental Burst is ready.
+Artifacts
+Archaic Petra
+Gladiator's Finale
+Main Stats
+Sands
+ATK%
+Goblet
+Geo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Lost Prayer to the Sacred Winds
+Solar Pearl
+Zhongli
+Support
+Geo
+Zhongli’s shield provides a safe environment for the team and increases the whole team's ATK with Tenacity of the Millelith.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP / Energy Recharge
+Weapons
+Staff of Homa
+Black Tassel
+#3 Ningguang Electro Team
+Tier S
+Ningguang is the Main DPS, with aid of Beidou and Fischl, Ningguang Normal Attack triggers Electro Attack continuously. Jean provides healing and can reduce enemy Elemental Resistance with Viridescent Venerer.
+Ningguang
+Main DPS
+Geo
+Main on-field DPS. Uses Normal Attacks to trigger Electro attacks continuously with off-field support.
+Artifacts
+Archaic Petra
+Gladiator's Finale
+Main Stats
+Sands
+ATK%
+Goblet
+Geo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Lost Prayer to the Sacred Winds
+Solar Pearl
+Beidou
+Sub DPS
+Electro
+Off-field Electro sub DPS. Her Elemental Burst provides Electro DMG from backstage.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Skyward Pride
+Serpent Spine
+Fischl
+Sub DPS
+Electro
+Off-field Electro sub DPS. Oz from Elemental Skill provides continuous Electro DMG even from backstage.
+Artifacts
+Thundering Fury
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Skyward Harp
+The Stringless
+Jean
+Support
+Anemo
+Healer and support. Can assist the team by reducing enemy Elemental Resistance with Viridescent Venerer.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+Ningguang Teams FAQ
+What is the best Ningguang team in Genshin Impact?
+xiao_ningguang_core_team is one of the strongest Ningguang teams right now. Use the team summary and build cards on this page to pick the best version for your account.
+What are good Ningguang teams without premium weapons?
+You can run strong Ningguang teams without signature weapons by prioritizing reaction synergy, energy consistency, and artifact main stats shown in each build card.
+Which teammates are best with Ningguang?
+Common high-performing partners include teams such as xiao_ningguang_core_team, Ningguang Vaporize Team, Ningguang Electro Team. Check each lineup section for role breakdowns and gear priorities.

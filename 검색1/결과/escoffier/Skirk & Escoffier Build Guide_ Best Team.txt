@@ -1,0 +1,330 @@
+Genshin Impact 6.4 Skirk & Escoffier Build & Team Comp Guide
+Arcadia
+2026-03-20
+Telegram
+WhatsApp
+like
+dislike
+Genshin Impact Top Up
+-30%
+62.8K Sold
+5
+4.8K Reviews
+Show More
+Genshin Impact Version 6.4 has brought back two powerful characters, Skirk and Escoffier. When one is a powerful Cryo main DPS and the other is her dedicated Cryo support, this duo forms the foundation of the strongest Freeze team in the current meta. So, it is important to properly build both characters to have an impactful difference in your Spiral Abyss runs. This
+Skirk and Escoffier build guide for Genshin Impact 6.4
+covers their best artifacts, weapons, talent priorities, team comps, and more.
+Pro Tip:
+Before diving into
+Genshin Impact 6.4 best builds
+, make sure you have enough Primogems to pull both.
+Top up Genshin Impact
+at BuffBuff for the best rates and secure your Skirk and Escoffier today.
+Skirk & Escoffier Overview
+First things first, let's take a quick profile overview of Shirk and Escoffier.
+Who Is Shirk?
+Skirk is a mysterious swordswoman hailing from the sea of stars. She was Tartaglia's master during her time in the Abyss.
+In terms of gameplay, Skirk is a 5-star Cryo Sword character and an on-field Main DPS meant to be used in Freeze teams. Her Elemental Skill allows her to enter Seven-Phase Flash mode for damage when tapped, while holding it makes her move faster in the field. Her Elemental Burst does not rely on Energy but on Serpent's Subtlety that she builds up from her Skill.
+What makes Skirk unique is her passive talent system. When nearby Hydro party members deal Hydro DMG or nearby Cryo party members deal Cryo DMG, Skirk gains the "Death's Crossing" effect, which can stack up to 3 times. Each stack significantly increases both her Normal Attack DMG in Seven-Phase Flash mode and her Elemental Burst damage. Simply put, the more Cryo and Hydro allies you run alongside her, the deadlier she becomes.
+Role
+Main DPS
+Rarity
+★★★★★
+Element
+Cryo
+Weapon
+Sword
+Progression Bonus
+CRIT DMG +38.4%
+Who Is Escoffier?
+Escoffier is a 5-star Cryo Polearm character from Fontaine who was introduced in
+Genshin Impact Version 5.6
+. She does not take the center stage as the main DPS. Instead, she shines as a dedicated Cryo support and sub-DPS. She enables Cryo elemental reactions and increases team damage through wide-area Cryo attacks and a summonable Cooking Mek that keeps applying Cryo. This makes it easier to trigger consistent elemental reactions.
+Her most impactful tool is her passive talent, which reduces enemy Cryo resistance (up to 55%). However, it requires a full team of Cryo and Hydro allies to be most effective. Her Elemental Burst delivers a powerful blast of Cryo damage to surrounding enemies and also heals the entire party based on her ATK stat. All this gives her a dual role as both a damage amplifier and a sustain option.
+Role
+Sub-DPS / Support
+Rarity
+★★★★★
+Element
+Cryo
+Weapon
+Polearm
+How Skirk & Escoffier Synergize in Freeze Teams?
+The Skirk and Escoffier duo has become a strong pairing in
+Version 6.4 (Luna 5)
+because their kits complement each other perfectly. Skirk's passive abilities prefer Cryo reactions, as her passive directly prefers Hydro and Cryo party members to activate its bonuses. This makes Escoffier the best-in-slot support for her.
+Some of the other reasons why Skirk and Escoffier synergy works well are:
+Escoffier shreds Cryo resistance by up to 55%, which directly multiplies all of Skirk's Cryo damage output.
+Escoffier's consistent off-field Cryo application keeps enemies Frozen, which feeds Skirk's passive stacks and maintains her damage bonuses.
+Skirk's teams with Escoffier are among the strongest Cryo compositions available.
+Simply put, Skirk provides the raw damage, Escoffier amplifies it. Run them together, and you get the most complete Freeze team cores in the current meta.
+Trusted Genshin Impact Top Up Top-Ups • Instant Delivery • Best Prices
+Enjoy up to
+30% off
+on Genshin Impact Top Up Top-Ups
+Fast delivery & Professional customer support
+Official partner of Genshin Impact Top Up
+Top Up Now & Save!
+Skirk Build Guide in Genshin Impact 6.4
+Now, let's shift our focus to how to have the best
+Skirk build in Genshin Impact
+for maximum damage output, involving talent priorities, best weapons, artifact sets, and more.
+Skirk Skill Leveling Priority
+You have to upgrade Skirk talent in a clear order to get the most damage out of it.
+Skirk Talent Priority
+Unlock all Passive Talents
+Elemental Skill
+Elemental Burst
+Normal Attack
+Passive Talent (Core Mechanic)
+Skirk's gameplay centers around Seven-Phase Flash mode, which unlocks through her passive talent. This mode powers most of her damage, so prioritize unlocking all passive talents early.
+Elemental Skill – Havoc: Warp (Top Priority)
+This skill activates Skirk's main combat stance and builds Serpent's Guile stacks.
+Tap:
+Triggers Seven-Phase Flash and generates stacks.
+Hold:
+Grants better mobility and interruption resistance.
+Level this first, as it increases her damage to a great extent.
+Elemental Burst – Havoc: Ruin
+Her Burst consumes Serpent's Subtlety stacks instead of Energy. The damage scales based on the stacks used. In Seven-Phase Flash mode, it upgrades to Havoc: Extinction for more serious damage. Level this after her Skill.
+Normal Attack – Havoc: Sunder
+Normal Attacks contribute less to her overall damage compared to her Skill and Burst. Upgrade this last if you have extra resources.
+Skirk Best Weapons
+The right weapon maximizes the damage of
+Skirk build in Genshin Impact 6.4
+. The recommended Skirk weapons are:
+Azurelight (Signature Weapon)
+Azurelight is Skirk's strongest weapon option. After she uses her Elemental Skill, the weapon grants a large ATK and CRIT DMG boost for 12 seconds.
+Another advantage is its special passive that increases ATK and CRIT DMG when the wielder has 0 Energy. Since Skirk's Elemental Burst consumes stacks instead of Energy, this bonus stays active during her damage rotations. This makes Azurelight the ideal weapon for maximizing her DPS.
+Best Choice (Signature Weapon)
+Azurelight
+Base ATK:
+674
+CRIT Rate:
++22.1%
+Weapon Effect:
+After using an Elemental Skill, gain 24–48% ATK for 12s. If the equipping character has 0 Energy during this time, ATK increases by another 24–48%, and CRIT DMG rises by 40–80%.
+Strong Alternatives
+If you don't have her signature weapon, several other 5-star options and
+best F2P weapons for Skirk
+can still perform very well in
+Genshin 6.4's best builds
+.
+5-Star Alternatives
+Haran Geppaku Futsu
+Base ATK:
+608
+CRIT Rate:
++33.1%
+Weapon Effect:
+Delivers CRIT Rate and Elemental DMG Bonus, with a two-stack passive that maxes in Skirk teams. Normal Attack synergy fits her playstyle perfectly as a strong signature alternative.
+Mistsplitter Reforged
+Base ATK:
+674
+CRIT DMG:
++44.1%
+Weapon Effect:
+This Ayaka's signature weapon suits Skirk. Its CRIT Rate and Elemental DMG Bonus enhance her damage output, with multiple stacks from Normal Attacks or Burst for massive amplification.
+4-star Alternatives
+The Black Sword
+Base ATK:
+510
+CRIT Rate:
++27.6%
+Weapon Effect:
+The Black Sword's high CRIT Rate sub-stat powers Skirk's "Seven-Phase Flash" mode, which increases CRIT DMG on her Normal Attacks and Burst.
+Calamity of Eshu
+Base ATK:
+565
+ATK Rate:
++27.6%
+Weapon Effect:
+Calamity of Eshu's passive increases Normal/Charged Attack DMG by up to 40% and CRIT Rate by 16% under shield protection.
+Note:
+In Skirk teams with shielders (Zhongli, Candace, Layla, Diona), Calamity of Eshu (4-star) is her top non-signature weapon at 84% compatibility. After that, there are Haran Geppaku Futsu (82%), Mistsplitter Reforged (81%), and The Black Sword (76%).
+Skirk Best Artifacts
+The Finale of the Deep Galleries set is considered Skirk's best artifact.
+Finale of the Deep Galleries
+2-Piece:
++15% Cryo DMG.
+4-Piece:
+At 0 Energy: +60% Normal Attack DMG and +60% Burst DMG. Dealing one type ends the other's buff for 6s. Works even off-field.
+Good Alternative Artifact Sets
+Artifact sets vary by playstyle, such as Burst DPS vs. Normal Attack DPS. Her signature set leads by default, but other Skirk's best artifacts can outperform it in specific scenarios.
+Blizzard Strayer
+2-Piece:
+Cryo DMG Bonus +15%
+4-Piece:
+Attacking Cryo-affected enemies increases CRIT Rate by 20%. Frozen opponents grant an extra 20% CRIT Rate.
+Marechaussee Hunter
+2-Piece:
+Normal and Charged Attack DMG +15%
+4-Piece:
+HP changes (up or down) increase CRIT Rate by 12% for 5s. Max 3 stacks.
+Gladiator's Finale
+2-Piece:
+ATK +18%.
+4-Piece:
+Sword, Claymore, or Polearm users gain 35% Normal Attack DMG.
+Desert Pavilion Chronicle
+2-Piece:
+Anemo DMG Bonus +15%
+4-Piece:
+Charged Attacks increase Normal Attack SPD by 10% + 40% DMG to Normal/Charged/Plunging Attacks for 15s.
+Marechaussee Hunter outperforms with Furina's constant HP drain on Skirk. Blizzard Strayer dominates against freezable enemies (ideal for non-bosses). Desert Pavilion Chronicle skips the 2-PC benefit but dominates in 4-PC to increase her Normal/Charged Attack DMG and speed.
+For Main + Sub Stats on artifact pieces, prioritize:
+Sands
+Goblet
+Circlet
+Main Stat
+Attack%
+Attack%, Cryo Damage%
+Crit Damage%, Crit Rate%
+Sub Stat
+Crit Rate%＝Crit Damage% ＞Attack%
+Skirk Constellation Recommendations
+Constellation Effects and Value (Skirk C0 vs C2 Value)
+C1 (AoE Unlock):
+Charged Attacks trigger AoE Cryo DMG via Void Drifts. Great for crowds, but weaker on bosses.
+C2 (Energy/ATK Power):
+Skill gives +20 Energy and +60% ATK, which greatly improves
+Skirk energy recharge requirements
+and smoother rotations.
+C4 (Burst Efficiency):
+Elemental Burst creates 2 extra Void Drifts (180% ER). Best for quick swaps.
+C6 (Boss Shredder):
+Normal Attacks pierce +40% single-target DMG, which is a huge investment payoff.
+Constellation Pulling Guide
+Meta Players:
+Go C1 + sig weapon (fixes AoE issues) or stop at C2 (smooth rotations).
+F2P/Budget:
+C0 is perfect. Pair with The Black Sword for solid damage.
+Escoffier Build Guide in Genshin Impact 6.4
+With Skirk's build covered, it's time to turn our attention to her best-in-slot support, Escoffier.
+Escoffier Skill Leveling Priority
+The best approach to get the most value from
+Escoffier's guide in Genshin Impact 6.4
+is to focus on upgrading her Elemental Skill and Elemental Burst. These abilities define her support capabilities.
+Escoffier Talent Priority
+Unlock all Passive Talents → Elemental Skill → Elemental Burst → Normal Attack
+Her Passive Talents enhance her overall support capabilities, so unlocking them early strengthens her team's utility.
+Her Elemental Skill should also be prioritized since it improves her Cryo damage and strengthens her off-field contribution. After that, leveling her Elemental Burst increases its damage and the amount of healing it provides to the team.
+Since Escoffier is not much used for basic attacks, Normal Attacks can usually be left unupgraded.
+Escoffier's Best Weapons
+Escoffier's weapon choices should focus on improving her ATK, Energy Regen, and Critical Stats. So, moving forward to our
+Escoffier's guide for Genshin Impact 6.4
+, check this full-ranked breakdown of her best options in Version 6.4.
+Symphonist of Scents (Best Weapon)
+Symphonist of Scents
+Base ATK:
+46
+CRIT DMG:
++14.4%
+Weapon Effect:
+Increases ATK by 12%, plus another 12% when off-field. Healing applies "Sweet Echoes", which grants 32% ATK for 3s to both the equipper and target, even off-field.
+Strong Alternatives
+There are many other Escoffier's strong alternative weapons you can consider, especially if you are running an
+Escoffier support build with no signature weapon
+:
+5-star Alternatives
+Calamity Queller
+Base ATK:
+49
+ATK Rate:
++3.6%
+Weapon Effect:
+After using an Elemental Skill, gain 24–48% ATK for 12s. If the equipping character has 0 Energy during this time, ATK increases by another 24–48%, and CRIT DMG rises by 40–80%.
+Skyward Spine
+Base ATK:
+48
+Energy Recharge:
++8%
+Weapon Effect:
++8% CRIT Rate and +12% Normal ATK SPD. Normal/Charged Attacks have 50% chance to spawn a vacuum blade (40% ATK as small AoE DMG), max once every 2s.
+4-star Alternative (Best Sub DPS)
+Deathmatch
+Base ATK:
+41
+CRIT DMG:
++8.0%
+Weapon Effect:
+With 2+ nearby enemies, gain 16% ATK and DEF. Against fewer than 2, get 24% ATK instead.
+4-star Alternative (Best Support F2P)
+Favonius Lance
+Base ATK:
+48
+Energy Recharge:
++6.7%
+Weapon Effect:
+CRIT hits have 60% chance to generate Elemental Particles (regens 6 Energy), once every 12s.
+Escoffier Best Artifacts
+There are two artifact sets for the
+Escoffier guide in Genshin Impact 6.4
+that players can choose. The choice depends on the type of build. For example, the Golden Troupe artifact set is best if you want to use her as pure support, as it lets the user amplify her damage output. Alternatively, you can use Blizzard Strayer if you want to use her as Sub DPS, as it elevates her critical rate and initializes Cryo-based reactions.
+Golden Troupe
+2-Piece:
+20% increase in Elemental Skill DMG
+4-Piece:
+Increases Elemental Skill DMG by 25%. Off-field +another 25%. Effect ends 2s after entering the field.
+Blizzard Strayer
+2-Piece:
++5% increase in Cryo DMS
+4-Piece:
+Attacking Cryo-affected opponents increases CRIT Rate by 20%. Frozen ones add another 20%.
+For Main + Sub Stats on artifact pieces, prioritize:
+Sands
+Goblet
+Circlet
+Main Stat
+Attack%
+Cryo Damage%
+Crit Damage% Crit Rate%
+Sub Stat #1
+Energy Regen%, Crit Damage%, Crit Rate%, Attack%
+Sub Stat #2
+Other Stats
+Best Team Recommendations for Skirk and Escoffier in Genshin Impact 6.4
+The best Escoffier team comps for Spiral Abyss and Skirk builds are focused on Freeze-based teams that combine Cryo and Hydro units. These setups let Skirk trigger core mechanics more frequently and Escoffier to elevate team damage and provide healing.
+Premium Freeze Team
+Skirk
+Escoffier
+Furina
+Ayato
+Furina supplies strong Hydro application and team buffs, while Ayato maintains consistent Hydro uptime to keep enemies Frozen. This allows Skirk to deal sustained damage.
+Alternative Freeze Team
+Skirk
+Escoffier
+Furina
+Kazuha
+In this team, Kazuha adds crowd control and elemental resistance reduction to increase Skirk's Cryo damage further.
+Cryo-Focused Team
+Skirk
+Escoffier
+Furina
+Shenhe
+In this team, Shenhe amplifies Cryo damage and makes Skirk's attacks hit harder.
+Wrapping Up: Should You Pull Shirk, Escoffier, or Both?
+For players who want the
+Genshin 6.4 best builds
+for the Freeze team, they should pull both Skirk and Escoffier.
+Skirk build in Genshin Impact 6.4
+delivers the raw Cryo damage, and Escoffier elevates every bit of it. So, neither of them can reach their full potential alone. So, don't sleep on their rerun banners. This is a crucial and strong pairing that the current meta has to offer. Therefore,
+top-up Genshin Impact
+with BuffBuff and pull both before their banners disappear.
+Genshin Impact
+Genshin Impact is an open-world action RPG that blends exploration with team-based elemental combat.
+Download with BuffBuff
+like
+dislike
+Arcadia
+Gaming Writer
+As a researcher of HoYoverse titles, I specialize in character building and mechanics analysis for Genshin Impact, Zenless Zone Zero, and Honkai: Star Rail. I calculate Artifact efficiency and elemental thresholds in Genshin; analyze the N.E.C.F. system and Chain Attacks in ZZZ; and focus on Light Cones, Weakness Breaks, and Memory of Chaos strategies in Star Rail. Beyond simple tier lists, I aim to provide data-driven modeling for practical resource allocation and combat efficiency.
+Related Articles
+Genshin Impact 6.6 Banners: New Character & New weapon Speculation
+2026-04-20
+Genshin Impact 6.5 Banners: Release Date, Leaks, and Rerun Schedule
+2026-04-20
+Linnea Build guide : Best Artifacts, F2P Weapons & Lunar-Crystallize Teams | Genshin Impact
+2026-04-20
+Prune Build: Kit, Constellation ,Materials ,Artifacts & Weapon | Genshin Impact v6.6
+2026-04-20

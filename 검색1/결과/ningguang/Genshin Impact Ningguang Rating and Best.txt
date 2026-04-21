@@ -1,0 +1,440 @@
+Genshin Impact Ningguang Build
+Catalyst
+Geo
+Liyue Qixing
+26/8
+Opus Aequilibrium
+Taishan Mansion
+The Tianquan of the Liyue Qixing. Her wealth is unsurpassed in all of Teyvat.
+Best Ningguang Builds
+DPS Build
+Weapons
+1
+Kagura's Verity
+CRIT DMG
+2
+Lost Prayer to the Sacred Winds
+CRIT Rate
+3
+Surf's Up
+CRIT DMG
+4
+Tome of the Eternal Flow
+CRIT DMG
+5
+Cashflow Supervision
+CRIT Rate
+6
+Skyward Atlas
+ATK%
+7
+Memory of Dust
+ATK%
+8
+Tulaytullah's Remembrance
+CRIT DMG
+9
+The Widsith
+CRIT DMG
+10
+Solar Pearl
+CRIT Rate
+11
+Crane's Echoing Call
+ATK%
+12
+Flowing Purity
+ATK%
+13
+Dodoco Tales
+ATK%
+Artifacts
+1
+Nighttime Whispers in the Echoing Woods
+4
+Choose 2
+Archaic Petra
+2
+Noblesse Oblige
+2
+ATK +18% set
+2
+Emblem of Severed Fate
+2
+3
+Husk of Opulent Dreams
+4
+4
+Emblem of Severed Fate
+4
+5
+Archaic Petra
+4
+6
+Thundersoother
+4
+7
+Lavawalker
+4
+Substats Priority
+1
+CRIT Rate
+2
+CRIT DMG
+3
+ATK%
+4
+Energy Recharge
+Talents Priority
+1
+Q
+Burst
+2
+NA
+Normal Attack
+3
+E
+Skill
+Recommended Primary Stats
+Sands
+ATK%
+Goblet
+Geo DMG Bonus
+Circlet
+CRIT Rate / CRIT DMG
+Ningguang
+'s Elemental Skill has a
+6
+second internal cooldown on generating energy. To maintain
+Elemental Burst
+uptime, wait
+6
+seconds to cast again if you need energy.
+It is also worth noting that the skill breaks when cast on top of another
+Geo Structure
+. You can intentionally use a structure to break your first screen.
+Most Used Build from the Community
+This build is based on the most used artifacts and weapons by the community. If you want to contribute to this data, you can do so by submitting your UID by clicking here.
+Weapons
+1
+Lost Prayer to the Sacred Winds
+CRIT Rate
+2
+The Widsith
+CRIT DMG
+3
+Solar Pearl
+CRIT Rate
+4
+Skyward Atlas
+ATK%
+5
+Memory of Dust
+ATK%
+Artifacts
+1
+Archaic Petra
+2
+Gladiator's Finale
+2
+2
+Gladiator's Finale
+2
+Shimenawa's Reminiscence
+2
+3
+Archaic Petra
+2
+Shimenawa's Reminiscence
+2
+4
+Archaic Petra
+2
+Noblesse Oblige
+2
+5
+Nighttime Whispers in the Echoing Woods
+4
+Best Ningguang Teams
+View full Ningguang teams guide
+#
+1
+C4
+#
+2
+#
+3
+Ningguang Skills
+Sparkling Scatter
+Normal Attack
+Shoots gems that deal
+Geo DMG
+.
+Upon hit, this grants Ningguang 1 Star Jade.
+Charged Attack
+Consumes a certain amount of stamina to fire off a giant gem that deals
+Geo DMG
+.
+If Ningguang has any Star Jades, unleashing a Charged Attack will cause the Star Jades to be fired at the enemy as well, dealing additional DMG.
+Plunging Attack
+Gathering the might of Geo, Ningguang plunges towards the ground from mid-air, damaging all opponents in her path. Deals
+AoE Geo DMG
+upon impact with the ground.
+Level
+1
+Normal Attack DMG
+28%
+Charged Attack DMG
+174.1%
+DMG per Star Jade
+49.6%
+Charged Attack Stamina Cost
+50
+Plunge DMG
+56.8%
+Low/High Plunge DMG
+113.6% / 141.9%
+Jade Screen
+The canvas of stars is written upon this jade screen.
+Ningguang creates a Jade Screen out of gold, obsidian, and her great opulence, dealing
+AoE Geo DMG
+.
+Jade Screen
+·Blocks opponents' projectiles.
+·Endurance scales based on Ningguang's Max HP.
+Jade Screen is considered a
+Geo Construct
+and can be used to block certain attacks, but cannot be climbed. Only one Jade Screen may exist at any one time.
+Level
+1
+Inherited HP
+50.1%
+Skill DMG
+230.4%
+CD
+12s
+Starshatter
+Stars shatter. Silence falls.
+Gathering a great number of gems, Ningguang scatters them all at once, sending homing projectiles at her opponents that deal massive
+Geo DMG
+.
+If Starshatter is cast when a Jade Screen is nearby, the Jade Screen will fire additional gem projectiles at the same time.
+Level
+1
+DMG Per Gem
+87%
+CD
+12s
+Energy Cost
+40
+Passive Talent
+Backup Plan
+Ascension Phase 1
+When Ningguang is in possession of Star Jades, her Charged Attack does not consume Stamina.
+Strategic Reserve
+Ascension Phase 4
+A character that passes through the
+Jade Screen
+will gain a 12%
+Geo DMG Bonus
+for 10s.
+Trove of Marvelous Treasures
+Passive
+Displays the location of nearby
+ore veins used in forging
+on the mini-map.
+Constellations
+Piercing Fragments
+Constellation Lv. 1
+When a Normal Attack hits, it deals AoE DMG.
+Shock Effect
+Constellation Lv. 2
+When
+Jade Screen
+is shattered, its CD will reset.
+Can occur once every 6s.
+Majesty Be the Array of Stars
+Constellation Lv. 3
+Increases the Level of
+Starshatter
+by 3.
+Maximum upgrade level is 15.
+Exquisite be the Jade, Outshining All Beneath
+Constellation Lv. 4
+Jade Screen
+increases nearby characters' Elemental RES by 10%.
+Invincible Be the Jade Screen
+Constellation Lv. 5
+Increases the Level of
+Jade Screen
+by 3.
+Maximum upgrade level is 15.
+Grandeur Be the Seven Stars
+Constellation Lv. 6
+When
+Starshatter
+is used, Ningguang gains 7 Star Jades.
+Outfits
+Orchid's Evening Gown
+Ningguang's formal wear. The long cyan skirt traces her elegant curves, and the butterfly wings at her ankles lend the outfit a touch of light grace.
+Gold Leaf and Pearly Jade
+Default
+Ningguang's outfit. Intricate embroidery is the hallmark of this graceful dress.
+Stats
+Lv.
+1
+Lv.
+20
+Lv.
+40
+Lv.
+50
+Lv.
+60
+Lv.
+70
+Lv.
+80
+Lv.
+90
+Before Ascension
+After Ascension
+Ascend
+-
+1
+Base HP
+-
+821
+Base ATK
+-
+18
+Base DEF
+-
+48
+Geo DMG Bonus
+-
+0.0%
+Ascension Materials
+Tap to view ascension breakdown
+Total
+420000
+1
+9
+9
+6
+46
+168
+18
+30
+36
+Talent Materials
+LV.
+1
+→
+2
+12500
+Mora
+3
+Teachings of Prosperity
+6
+Recruit's Insignia
+LV.
+2
+→
+3
+17500
+Mora
+2
+Guide to Prosperity
+3
+Sergeant's Insignia
+LV.
+3
+→
+4
+25000
+Mora
+4
+Guide to Prosperity
+4
+Sergeant's Insignia
+LV.
+4
+→
+5
+30000
+Mora
+6
+Guide to Prosperity
+6
+Sergeant's Insignia
+LV.
+5
+→
+6
+37500
+Mora
+9
+Guide to Prosperity
+9
+Sergeant's Insignia
+LV.
+6
+→
+7
+120000
+Mora
+4
+Philosophies of Prosperity
+4
+Lieutenant's Insignia
+1
+Spirit Locket of Boreas
+LV.
+7
+→
+8
+260000
+Mora
+6
+Philosophies of Prosperity
+6
+Lieutenant's Insignia
+1
+Spirit Locket of Boreas
+LV.
+8
+→
+9
+450000
+Mora
+12
+Philosophies of Prosperity
+9
+Lieutenant's Insignia
+2
+Spirit Locket of Boreas
+LV.
+9
+→
+10
+700000
+Mora
+16
+Philosophies of Prosperity
+12
+Lieutenant's Insignia
+2
+Spirit Locket of Boreas
+1
+Crown of Insight
+Total
+1652500
+3
+21
+38
+6
+22
+31
+6
+1

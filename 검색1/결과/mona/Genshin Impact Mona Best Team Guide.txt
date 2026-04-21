@@ -1,0 +1,654 @@
+Genshin Impact Mona Best Team Guide
+Last updated April 20, 2026. Looking for the best Mona teams in
+        Genshin Impact? Start with the top team summary below, then pick the
+        lineup that fits your roster.
+This page provides the best Mona Team information. Mona is a Support in most of the situation. Mona best team can be formed in different ways including Permafrost, Vaporize or Electro-Charged team.
+View Mona's character page
+Mona Team Summary
+#1
+Team Rating:S
+Mona Lunar-Charged Team #1
+#2
+Team Rating:S
+mona_lunar_charged_team_2
+#3
+Team Rating:S
+Mona Lunar-Charged S Tier Team #3
+#4
+Team Rating:S
+Mona Permafrost S+ Team
+#5
+Team Rating:S
+Mona Permafrost Team #1
+#6
+Team Rating:S
+Mona Melting Mavuika Team
+#7
+Team Rating:S
+Mona Melting Team #2
+#8
+Team Rating:S
+Mona Melting Hu Tao Vaporize Team
+#1 Mona Lunar-Charged Team #1
+Tier S
+Mona is the Main DPS in this Lunar-Charged team. The setup focuses on Hydro application, Lunar-Charged reaction damage, and teamwide buffs/debuffs to amplify Mona's burst window.
+Mona
+Main DPS
+Hydro
+Mona’s Elemental Burst increases the damage enemies take. Her Normal and Charged Attacks can extend her Burst debuff. In a team with at least 2 Hexerei characters, her attacks also generate Astral Glow stacks that boost Vaporize damage, though this team is built around Lunar-Charged.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Hydro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / Energy Recharge / ATK%
+Weapons
+Lost Prayer to the Sacred Winds
+The Widsith
+Xingqiu
+Sub DPS
+Hydro
+Xingqiu’s Elemental Burst applies Hydro continuously, helping maintain reaction uptime and enabling consistent Lunar-Charged triggers.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Sacrificial Sword
+Jahoda
+Support
+Anemo
+Jahoda provides healing and crowd utility. With Viridescent Venerer, she can shred enemy resistance and, in a full Moonsign team, gain extra elemental absorption effects and temporary EM buffs for the active character.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Energy Recharge
+Goblet
+ATK%
+Circlet
+CRIT Rate
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Elegy for the End
+Favonius Warbow
+Ineffa
+Support
+Electro
+Ineffa converts Electro-Charged into Lunar-Charged, provides a shield, summons Birgitta for additional damage on Lunar-Charged triggers, and increases the active character’s Elemental Mastery with her Burst.
+Artifacts
+Silken Moon's Serenade
+Main Stats
+Sands
+ATK%
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Fractured Halo
+Ballad of the Fjords
+#2 mona_lunar_charged_team_2
+Tier S
+Mona is the on-field
+Main DPS
+for a Lunar-Charged team, supported by Furina’s Hydro application and damage buffs, Jahoda’s healing/utility, and Ineffa’s shield plus Lunar-Charged conversion.
+Mona
+Main DPS
+Hydro
+On-field Hydro driver. Her Elemental Burst increases the damage enemies take, and her Normal/Charged Attacks help extend the Burst debuff. In a Hexerei team, her attacks also generate Astral Glow of Mercury stacks to further boost reaction damage.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Hydro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / Energy Recharge / ATK%
+Weapons
+Lost Prayer to the Sacred Winds
+The Widsith
+Furina
+Sub DPS
+Hydro
+Provides continuous Hydro application through Skill and strong team damage amplification through Burst based on HP changes. Her Skill drains allies’ HP, which can be recovered by the healer to maximize Burst value.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Favonius Sword
+Jahoda
+Support
+Anemo
+Healer/utility slot. Summons a healing robot through Burst, and in a full Moonsign team can absorb an enemy element to deal additional continuous elemental damage. Healing can also grant temporary Elemental Mastery when the active character is above 70% HP.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Energy Recharge
+Goblet
+ATK%
+Circlet
+CRIT Rate
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Elegy for the End
+Favonius Warbow
+Ineffa
+Support
+Electro
+Provides shield utility and converts Electro-Charged into Lunar-Charged via her passive. Her Skill summons Birgitta for extra attacks triggered by Lunar-Charged reactions, and her Burst increases the active character’s Elemental Mastery.
+Artifacts
+Silken Moon's Serenade
+Main Stats
+Sands
+ATK%
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Fractured Halo
+Ballad of the Fjords
+#3 Mona Lunar-Charged S Tier Team #3
+Tier S
+Mona is the Main DPS in this Lunar-Charged team. The lineup focuses on Electro-Charged/Lunar-Charged damage amplification, strong grouping, and EM buffs to maximize reaction damage. With 2 Hexerei characters, Mona, Fischl, and Sucrose gain additional team value through their special buffs, while Ineffa provides shield utility and enables Lunar-Charged reactions.
+Mona
+Main DPS
+Hydro
+Main on-field DPS. Her Elemental Burst increases enemy damage taken, and her Normal/Charged Attacks can help extend the Burst debuff. With 2 Hexerei characters, Mona also gains Astral Glow of Mercury stacks to further boost Vaporize reaction damage.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Hydro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / Energy Recharge / ATK%
+Weapons
+Lost Prayer to the Sacred Winds
+The Widsith
+Fischl
+Sub DPS
+Electro
+Off-field Electro applicator through Oz. Provides sustained Electro damage and extra team buffs with 2 Hexerei characters; triggering Electro-Charged or Lunar-Charged increases Elemental Mastery for nearby active party members.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Aqua Simulacra
+Sacrificial Bow
+Sucrose
+Support
+Anemo
+Provides grouping, Viridescent Venerer RES shred, and team EM buffs based on her own EM. With at least 2 Hexerei characters, her Skill and Burst also increase overall team DMG.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge / CRIT DMG / CRIT Rate
+Weapons
+Sunny Morning Sleep-In
+Wandering Evenstar
+Ineffa
+Support
+Electro
+Support/shield unit. Converts Electro-Charged into Lunar-Charged, scales Lunar-Charged damage with ATK, provides a shield, summons Birgitta for extra attacks on Lunar-Charged triggers, and boosts the active character's Elemental Mastery with her Burst.
+Artifacts
+Silken Moon's Serenade
+Main Stats
+Sands
+ATK%
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Fractured Halo
+Ballad of the Fjords
+#4 Mona Permafrost S+ Team
+Tier S
+Permafrost-style Mona team with strong burst amplification and layered off-field damage.
+Mona provides the damage amp through her Burst, Furina supplies consistent Hydro and powerful teamwide DMG buffing, while Durin and Xilonen add RES shred, utility, and support effects.
+Mona
+Support
+Hydro
+Mona’s Elemental Burst increases the damage enemies take. Her Normal and Charged Attacks can extend her Burst debuff, and with 2 Hexerei characters she can generate Astral Glow of Mercury stacks to further boost Vaporize damage.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Hydro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / Energy Recharge / ATK%
+Weapons
+Lost Prayer to the Sacred Winds
+The Widsith
+Furina
+Sub DPS
+Hydro
+Furina provides continuous Hydro application through her Skill and a strong DMG bonus through her Burst based on party HP changes. Her allies’ HP loss is typically offset by healing.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Favonius Sword
+Durin
+Support
+Pyro
+Durin’s Confirmation of Purity state focuses on support utility with continuous off-field Pyro DMG and enemy RES reduction. His effects are further strengthened when paired with a Hexerei character.
+Artifacts
+Noblesse Oblige
+Flower of Paradise Lost
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / Energy Recharge / ATK%
+Weapons
+Athame Artis
+Wolf-Fang
+Xilonen
+Support
+Geo
+Xilonen provides elemental RES reduction through her Samplers and also contributes healing to the team.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Peak Patrol Song
+Favonius Sword
+#5 Mona Permafrost Team #1
+Tier S
+Permafrost team centered around
+Skirk
+as the on-field Cryo DPS, with
+Mona
+amplifying damage,
+Escoffier
+providing Cryo/Hydro RES shred and healing, and
+Furina
+adding sustained off-field Hydro and a strong damage buff. The team aims to keep Cryo-related reactions and buffs active for high burst and sustained damage.
+Skirk
+Main DPS
+Cryo
+On-field Cryo carry. Uses Skill to enter Seven-Phase Flash mode, infusing Normal Attacks with Cryo and boosting damage. Elemental Burst consumes Serpent's Subtlety instead of Energy, and its damage increases when Serpent's Subtlety is above 50. Absorbs Void Rifts generated from Cryo-related reactions to further empower Burst.
+Artifacts
+Finale of the Deep Galleries
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Azurelight
+The Black Sword
+Mona
+Support
+Hydro
+Provides strong burst amplification through her Elemental Burst debuff. With 2 Hexerei characters in the party, her Normal and Charged Attacks generate Astral Glow of Mercury stacks to further boost Vaporize damage and extend Burst debuff uptime.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Hydro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+Energy Recharge
+Weapons
+Thrilling Tales of Dragon Slayers
+Escoffier
+Support
+Cryo
+Summons a Cooking Mek that follows the active character and fires Cryo attacks. Burst deals AoE Cryo damage and heals the team. Skill and Burst reduce enemy Cryo or Hydro RES, with stronger shred based on the number of Cryo and Hydro characters in the party.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Symphonist of Scents
+Favonius Lance
+Furina
+Sub DPS
+Hydro
+Provides continuous off-field Hydro via Skill and a powerful team DMG buff from Burst that scales with HP changes among allies. Synergizes well with healing to convert HP fluctuation into damage amplification.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Freedom-Sworn
+Favonius Sword
+#6 Mona Melting Mavuika Team
+Tier S
+Mona is a
+Support
+in this team. The composition focuses on enabling Mavuika’s burst window with Cryo application, Hydro support, and strong damage buffs/debuffs for Melt/Vaporize-style reactions.
+Mavuika
+Main DPS
+Pyro
+Main on-field DPS.
+Her Elemental Burst is charged through Nightsoul points generated by Natlan characters or by teammates’ normal attacks. Upon activation, her abilities and interruption resistance are significantly enhanced for 7 seconds.
+Artifacts
+Obsidian Codex
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+A Thousand Blazing Suns
+Serpent Spine
+Citlali
+Support
+Cryo
+Provides a shield based on Elemental Mastery and summons an entity that deals AoE Cryo damage. While active, nearby party members triggering Frozen or Melt can reduce the affected enemies’ Pyro and Hydro RES.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge / CRIT Rate / CRIT DMG
+Weapons
+Starcaller's Watch
+Sacrificial Fragments
+Furina
+Sub DPS
+Hydro
+Provides continuous Hydro application through Elemental Skill and a team damage buff through Elemental Burst based on HP changes among allies.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Freedom-Sworn
+Favonius Sword
+Mona
+Support
+Hydro
+Her Elemental Burst increases damage enemies take. If the party includes at least 2 Hexerei characters, Mona’s Normal and Charged Attacks generate Astral Glow of Mercury stacks that further boost Vaporize damage and extend her Burst debuff.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Hydro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+Energy Recharge
+Weapons
+Thrilling Tales of Dragon Slayers
+#7 Mona Melting Team #2
+Tier S
+Chasca Melt core
+with Mona’s Burst debuff to amplify team damage. Durin provides off-field Pyro application and Melt/Vape-oriented damage, while Bennett supplies strong ATK buff and healing.
+Mona is a Support in the team.
+Chasca
+Main DPS
+Anemo
+Main on-field DPS. Chasca can alter Shadowhunt Shell properties based on teammates’ elements, letting her trigger reactions consistently on her own.
+Artifacts
+Obsidian Codex
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Astral Vulture's Crimson Plumage
+Flower-Wreathed Feathers
+Mona
+Support
+Hydro
+Provides Burst damage amplification through Omen. Her Normal and Charged Attacks can extend Burst debuff uptime. When the party includes at least 2 Hexerei characters, Mona also gains Astral Glow of Mercury stacks that further boost Vaporize reaction damage.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Hydro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+Energy Recharge
+Weapons
+Thrilling Tales of Dragon Slayers
+Durin
+Support
+Pyro
+Off-field Pyro applicator. In support-oriented state, Durin provides continuous Pyro damage and reduces Pyro RES plus the RES of the relevant triggered element after Burning, Overloaded, Pyro Swirl, or Pyro Crystallize. His Melt/Vaporize-oriented form increases reaction damage, and Hexerei teammates further strengthen both states.
+Artifacts
+Noblesse Oblige
+Flower of Paradise Lost
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / Energy Recharge / ATK%
+Weapons
+Athame Artis
+Wolf-Fang
+Bennett
+Support
+Pyro
+Healer and ATK buffer. His Burst provides huge ATK buff and healing to the team.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+Energy Recharge / HP%
+Weapons
+Mistsplitter Reforged
+The Alley Flash
+#8 Mona Melting Hu Tao Vaporize Team
+Tier S
+Core idea:
+Hu Tao drives damage with Melt/Vaporize amplification while Mona provides Burst damage amp and reaction support. Citlali supplies shielding plus Cryo application and RES shred, and Yelan adds strong off-field Hydro application and extra team damage.
+Notes:
+This guide labels the team as “Mona Melting Team #3” and calls Citlali a Hydro unit, but her kit description here clearly functions as a Cryo shield/support for Melt setups.
+Hu Tao
+Main DPS
+Pyro
+Main on-field damage dealer. Hu Tao's damage is amplified by Vaporize in this team.
+Artifacts
+Crimson Witch of Flames
+Main Stats
+Sands
+HP% / Elemental Mastery
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Elemental Mastery / ATK%
+Weapons
+Staff of Homa
+Ballad of the Fjords
+Citlali
+Support
+Cryo
+Provides a shield based on Elemental Mastery and summons a creature that deals AoE Cryo damage. When active, nearby party members triggering Frozen or Melt reactions reduces affected enemies' Pyro and Hydro RES.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge / CRIT DMG / CRIT Rate
+Weapons
+Starcaller's Watch
+Prototype Amber
+Mona
+Support
+Hydro
+Burst increases enemy damage taken. In teams with at least 2 Hexerei characters, her Normal and Charged Attacks generate Astral Glow of Mercury stacks that are consumed when allies trigger Vaporize to further boost reaction damage. Her Normal and Charged Attacks can also extend her Burst debuff.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Hydro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+Energy Recharge
+Weapons
+Thrilling Tales of Dragon Slayers
+Yelan
+Sub DPS
+Hydro
+Provides continuous off-field Hydro application for triggering reactions and increases allies' damage via her passive talent.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+HP%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+HP% / CRIT DMG / CRIT Rate / Energy Recharge
+Weapons
+Elegy for the End
+Favonius Warbow
+Mona Teams FAQ
+What is the best Mona team in Genshin Impact?
+Mona Lunar-Charged Team #1 is one of the strongest Mona teams right now. Use the team summary and build cards on this page to pick the best version for your account.
+What are good Mona teams without premium weapons?
+You can run strong Mona teams without signature weapons by prioritizing reaction synergy, energy consistency, and artifact main stats shown in each build card.
+Which teammates are best with Mona?
+Common high-performing partners include teams such as Mona Lunar-Charged Team #1, mona_lunar_charged_team_2, Mona Lunar-Charged S Tier Team #3. Check each lineup section for role breakdowns and gear priorities.

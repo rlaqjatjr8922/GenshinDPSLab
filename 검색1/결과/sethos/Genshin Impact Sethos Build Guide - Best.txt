@@ -1,0 +1,251 @@
+Task Search
+Checklists
+Guides
+Markers
+Videos
+Sort and Filter
+No Results
+Checklists
+New Checklist
+All Lists
+My Checklists
+All
+All Lists
+My Checklists
+How creative can you get with your first free checklist?
+Create a free account
+All Interactive Maps and Locations
+Genshin Impact Sethos Build Guide - Best Weapons, Artifacts, and Teams
+By
+Cedric Pabriga
+,
+Jen Rothery
+,
+Triforce
+,
++30 more
+Updated
+:
+Jun 6, 2024 6:13pm UTC
+Sethos is a new character from the western sandy regions of Sumeru, taking the role of the heir to the Temple of Silence. He arrives with the unique ability to play two distinct playstyles. This guide to the best Genshin Impact Sethos build will explain the best weapons, artifact sets, constellations, and team compositions for Sethos.
+Sethos
+Rarity:
+★★★★
+Element:
+Electro
+Weapon:
+Bow
+Table of Contents:
+How to Get Sethos
+Sethos Gameplay Overview
+Sethos Talents and Attack Combos
+Sethos Constellation Analysis
+Sethos's Best Weapons
+Sethos's Best Artifacts
+Sethos's Best Teams
+How to Get Sethos in Genshin Impact
+Sethos is a 4-star character, meaning he can be acquired on featured banners at an increased rate, but also on any banner after his debut at a low chance.
+Genshin Sethos Gameplay Overview
+Element:
+Electro
+Weapon:
+Bow
+Rarity:
+4-star
+Sethos is an on-field Electro DPS focused on maximizing Aimed Shot and Normal Attack damage, all of which is considered as Charged Attack DMG in their ideal forms. He is strange in the sense that he has two distinct play patterns: use his Burst to enhance his Normal Attacks, or commit to a rapid-fire Aimed Shot playstyle.
+His field time is relatively short compared to other on-field DPS’s, making him good for quickswap teams. Additionally, he is one of the cheapest characters to build in the game, utilizing a 3-star weapon and an artifact set that you can acquire from nearly every boss battle, in addition to not requiring limited 5-star characters as teammates to succeed.
+This comes at a drawback, though: Sethos really only has one viable team in the form of Quicken/Aggravate teams. He requires Electro, Dendro, and Anemo teammates to function, and there isn’t much room for innovation elsewhere.
+Fortunately, Sethos does not require you to build Energy Recharge if provided with Fischl, potentially another Electro teammate, and/or teammates equipping Favonius weapons. Even when not using his Burst, his special Aimed Shots will also consume energy, so it’s best to keep him well-fed.
+For more information on elemental reactions, check out the comprehensive guide
+here
+.
+Sethos mainly needs to focus on CRIT stats and Elemental Mastery stats, which is par for the course considering characters like Keqing and Cyno who fill similar team roles in the same element. Sethos has access to many great 4-star teammates that have been in the game since the beginning, or have been handed out for free at least once, like Fischl, Sucrose, and Dendro Traveler, so giving Sethos a home in a team is quite easy. Whether his damage is sufficient for clearing Spiral Abyss is yet to be seen, however.
+Stats Worth Consideration
+Elemental Mastery
+: Much of Sethos’s scaling depends on this stat.
+Energy Recharge
+: Sethos needs a lot of energy if Fischl isn’t on your team. He desperately wants multiple Electro teammates or characters wielding Favonius weapons in order to fuel his special Aimed Shots and Elemental Burst. If you can provide Sethos with the teammates he needs, you can neglect this stat almost entirely.
+Electro DMG%:
+DMG% should almost always be the Goblet of choice for DPS units.
+CRIT Rate or CRIT DMG:
+For nearly every DPS character, CRIT is the most important stat to build on the circlet and substats.
+For any character devoted to building damage, it is important to prioritize a 1-to-2 ratio between CRIT Rate and CRIT DMG. 1-3 ratios, while they may give dopamine through bigger Crit numbers, is actually less damage overall. Aim for 75;150 in most cases!
+Genshin Sethos’s Talents
+Your talent-levelling priority should be Normal Attack and/or Burst first, with his Skill being the lowest priority.
+Normal Attack:
+Royal Reed Archery
+Basic Normal Attacks; nothing special here, until we talk about the Aimed Shots. All bow-users have an elemental Aimed Shot that deals damage according to their element, but if you draw Sethos’s bow a bit longer, it becomes a special Aimed Shot that can pierce through enemies, potentially hitting multiple targets and dealing more damage, which scales additionally from his Elemental Mastery.
+This will be a valuable part of his kit, since you’ll either be using Normal Attacks or Aimed Shots a lot with him, so prioritize this.
+Elemental Skill:
+Ancient Rite: The Thundering Sands
+Using Sethos’s Skill allows him to deal damage, dash back, and potentially recover 12 energy if the Skill triggers an Electro-based elemental reaction.
+The multipliers for this talent are low, and you don’t gain more energy the more you level this talent, so it’s not worth your priority for investment.
+Elemental Burst:
+Secret Rite: Twilight Shadowpiercer
+The Burst puts Sethos in a special stance that deactivates his ability to use Aimed Shots temporarily in exchange for enhancing Normal Attacks with an additive buff based on his Elemental Mastery stat. These enhanced Normal Attacks can also pierce through enemies, potentially hitting multiple per hit. Special attacks from this talent are counted as Charged Attack damage, which gives incentive to build for Charged Attack damage above other stats whenever possible.The additive damage buff is pretty important to Sethos’s damage, so you should be leveling this in tandem with the Normal Attack talent.
+Sethos
+Passives
+Next, come his passives.
+His first ascension passive makes his special Aimed Shots fire up to 0.3s faster by consuming up to 20 energy from his energy tank. This makes energy still a valuable resource even if he doesn’t use his Burst. Regular elemental shots only consume 50% of that energy.
+Sethos's fourth ascension passive gives an additive damage bonus to his special Aimed Shots based on 700% of his Elemental Mastery, which ends for 15s after either four special Aimed Shots have been used or 5s have elapsed since a special Aimed Shot. This incentivizes the player to use all of Sethos’s Aimed Shots in a row.
+Finally, his exploration passive identifies Sumeru specialties on the map.
+Sethos
+On-Field Commands
+Sethos’s field time should be executed as such if using his Normal Attack Playstyle:
+Sethos Skill
+Sethos Burst right away to catch the Skill particles
+Two Normal Attacks
+Take a step forward, dash, or jump to cancel his attack string
+Repeat the last two steps five additional times
+Swap out to other characters.
+For the Charged Attack playstyle:
+Sethos Skill
+Four special Aimed Shots
+Sethos Skill again, if it’s available
+Swap out to other characters.
+Genshin Sethos Constellation Analysis
+Sethos is a 4-star unit, which means he wants his constellations more than other characters, but luckily his best constellations are in his first few, while the later constellations leave a bit to be desired. Don’t worry about maxing his constellations right away.
+Constellation Name
+Abbreviated In-Game Description
+Notes
+C1. Sealed Shrine's Spiritsong
+Special Aimed Shot CRIT Rate +15%
+CRIT Rate is one of the most coveted stats, as it is one of the hardest to acquire, so 15% on a first constellation is massive if you choose to play with aimed shots.
+C2. Papyrus Scripture of Silent Secrets
+Gain a stack of 15% Electro DMG Bonus (max 2) for 10s when Sethos uses his Burst, consumes energy with a special Aimed Shot, or regains energy through his passive.
+30% Electro DMG Bonus is quite decent, about 2/3 of the way to having a second Electro Goblet, and most of these things you’re doing anyways.
+C3. Ode to the Moonrise Sage
+Increase Normal Attack talent level by 3.
+Sethos’s Normal Attack multipliers aren’t really the main source of his damage. His passives generate much more of his damage potential, so while he does focus on Normal Attacks, this is not really impressive.
+C4. Beneficent Plumage
+Special Aimed Shots and Normal Attacks grant a +80 EM bonus for the team for 10s when multiple enemies are hit at once.
+Kind of a minimal buff, honestly, especially since his teams want a lot more EM to maximize Aggravate damage. The restriction on this constellation makes it far worse.
+C5. Record of the Desolate God's Burning Sands
+Increases Burst talent level by 3.
+Increases the additive damage bonus on Sethos’s enhanced Normal Attacks while in Burst Stance, which is a primary source of damage. It’s about a 25% multiplier increase if you’re going from Talent 9-12, but this is much less of an improvement when you consider the entire kit and team DPS. It’s good, but not great.
+C6. Pylon of the Sojourning Sun Temple
+Once every 15s, fully refunds the energy consumed by Sethos’s special Aimed Shot
+Note that this doesn’t refund all the Aimed Shots in a rotation, so this C6 isn’t as great as one might think, but any amount of energy support is highly desired for Sethos to keep his needs low in nearly all circumstances.
+Genshin Sethos's Best Weapons
+Sethos’s best weapon, funnily enough, is a 3-star weapon! You could, in theory, use Tighnari’s signature weapon Hunter’s Path, but even then, the buffs are comparable for Sethos’s needs. Use Hunter’s Path only if you’re dead set on using Aimed Shots from a long range. Open some chests and use Slingshot in every other case.
+Weapon Name
+Abbreviated In-Game Description
+Notes
+R5  Slingshot
+31.2% CRIT Rate
+If a Normal or Charged Attack hits a target within 0.3s of being fired, increases DMG by 60%. Otherwise, decreases DMG by 10%.
+Best-in-Slot and 3-Star
+Outperforms nearly every other bow possible as long as you’re in fairly close range. The accessibility of this weapon is amazing, even if you’ve just started the game, so there’s no reason not to just slap this on Sethos and go to town. This plus his artifact set makes him one of the most budget-friendly for gear in the entire game.
+Genshin Sethos's Best Artifacts
+Sands
+– EM (Or ER% if you aren’t teaming up with Fischl)
+Goblet
+– Electro DMG Bonus
+Circlet
+– CRIT
+Sethos has only one valid artifact set, but luckily you get them from almost every boss fight and the set’s been in the game since Genshin Impact’s launch, so you probably have a solid set laying around already!
+Artifact Set Name
+Abbreviated In-Game Description
+Notes
+4pc Wanderer’s Troupe
+2pc: +80 EM.
+4pc: Bow and Catalyst users have +35% Charged Attack DMG
+Best Overall Option
+Sethos’s best overall set, as no matter what playstyle you play with Sethos, the Troupe buffs everything he does unconditionally due to even his Normal Attacks in his Burst stance count as Charged Attack damage.
+Genshin Sethos's Best and Only Team: Quicken/Aggravate
+Aggravate teams take advantage of the Quicken status that can be put on enemies when Dendro and Electro collide, which offers flat damage bonuses to every instance of Electro or Dendro application on hits.
+Fischl is almost non-negotiable as a teammate for him. She provides so much energy and off-field damage that any team he has is significantly worse without her. Following that, you’ll want an Anemo character to shred enemy Electro resistances. Finally, you’ll use your flex slot for a Dendro character, depending on what is on your account and what you need based on your previous teammate choices. Your healer can be Anemo or Dendro, depending on who you have in your account.
+Guide Character
+Fischl
+Anemo
+Dendro
+Specific Teammate Choices
+Teammate Choices
+Character Name
+Notes
+Character Name
+Notes
+Kirara
+Dendro Shielder
+Often wields a Favonius weapon
+Just enough Dendro application not to interfere with Anemo swirls
+Decent shield for protecting characters who have to stand in one place.
+Yaoyao
+Dendro Healer
+Great healing for a 4-star
+Good and consistent Dendro application
+Can function well in teams with short rotations, especially Quicken teams
+Fischl
+Off-Field Electro DPS
+C6 Recommended
+Works well with basically anyone
+Exceptional Off-Field DMG
+Minimal field time required
+Consistent Application
+Excellent energy particle generation
+Accessible via Paimon's Bargains
+Nahida
+Off-Field Dendro Support
+Best Dendro Application in the game
+Long-lasting Skill duration (25s)
+Buffs the team’s Elemental Mastery
+Impressive damage on top of her support capabilities.
+Baizhu
+Off-Field Dendro Support
+Excellent healing capabilities
+Short Skill cooldown
+Applies just enough Dendro for Quicken/Aggravate teams.
+Fragile, but regenerating shields provide interruption resistance.
+Dendro MC
+Off-Field Dendro Support
+100% free and accessible from beginning of the game
+Consistent Dendro Application
+Often wields a Favonius weapon
+Buffs party Elemental Mastery
+Kazuha
+Anemo (De+)Buffer
+Universally loved Anemo support
+Excellent crowd control with held Skill
+Usually wields Favonius or Xiphos’ Moonlight for team energy needs
+Massive buffs to elements based on Kazuha’s Elemental Mastery stat
+Debuffs elemental resistances with Viridescent Venerer
+Sucrose
+Anemo (De+)Buffer
+Strongest 4-star Anemo support
+Decent enemy grouping with Skill
+Generates lots of energy through her Skill and potential weapons
+Shares 25% of her Elemental Mastery with the team to improve reactions
+Available since the start of the game
+Sayu
+Anemo (De)Buffer + Healer
+Great at closing gaps with her Skill
+Often carries a Favonius weapon
+Good healing on a 4-star character
+Jean
+Anemo (De)Buffer + Healer
+Standard Banner 5-star, making her accessible
+Well-rounded in utility and damage
+Great healing and role consolidation
+Often carries a Favonius weapon
+Synergizes with Bennett to constantly apply Pyro
+Up Next:
+Genshin Impact Clorinde Build Guide - Best Weapons, Artifacts, and Teams
+Previous
+Genshin Impact Sigewinne Build Guide - Best Weapons, Artifacts, and Teams
+Next
+Genshin Impact Clorinde Build Guide - Best Weapons, Artifacts, and Teams
+Top Guide Sections
+Genshin Impact Luna VI Details and Patch Notes
+Genshin Impact Luna IV Release Time and Details
+Genshin Impact Luna III Details and Patch Notes
+Genshin Impact Luna II Release Date and Details
+Was this guide helpful?
+Leave feedback
+In This Guide
+Genshin Impact
+HoYoverse
+Initial Release:
+Sep 27, 2020
++2
+Learn more
+Go to comments

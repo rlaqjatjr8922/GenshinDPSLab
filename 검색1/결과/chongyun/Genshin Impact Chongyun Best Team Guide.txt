@@ -1,0 +1,358 @@
+Genshin Impact Chongyun Best Team Guide
+Last updated April 20, 2026. Looking for the best Chongyun teams in
+        Genshin Impact? Start with the top team summary below, then pick the
+        lineup that fits your roster.
+This page shows the best teams for Chongyun, primarily a Support DPS. Top teams include Permafrost, Superconduct, and Melt compositions. Team positions can be adjusted based on your roster.
+View Chongyun's character page
+Chongyun Team Summary
+#1
+Team Rating:SS
+Ayaka Chongyun Permafrost Freeze Team
+C2
+#2
+Team Rating:S
+Chongyun Superconduct Keqing Team
+C2
+#3
+Team Rating:S
+xiao_chongyun_swirl_team
+C2
+C4
+#4
+Team Rating:S
+Chongyun Melting Diluc Team
+C2
+#1 Ayaka Chongyun Permafrost Freeze Team
+Tier SS
+Permafrost Freeze comp
+centered on Ayaka’s burst damage and constant Freeze uptime from Xingqiu. Chongyun provides off-field Cryo presence and helps lower Ayaka’s Burst cooldown at C2, while Jean adds healing and
+Viridescent Venerer
+RES shred.
+Kamisato Ayaka
+Main DPS
+Cryo
+Primary damage dealer. Uses her Elemental Burst and Cryo attacks to trigger Freeze with Xingqiu’s Hydro application.
+Artifacts
+Blizzard Strayer
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Mistsplitter Reforged
+Amenoma Kageuchi
+Chongyun
+Sub DPS
+Cryo
+Constellation 2+
+Provides off-field Cryo damage.
+C2
+helps reduce Ayaka’s Elemental Burst cooldown, improving rotation uptime.
+Artifacts
+Blizzard Strayer
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Wolf's Gravestone
+Serpent Spine
+Xingqiu
+Sub DPS
+Hydro
+Applies Hydro continuously with his Elemental Burst to enable consistent Freeze reactions with Ayaka and Chongyun.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Sacrificial Sword
+Jean
+Support
+Anemo
+Healer and team utility. Uses
+Viridescent Venerer
+to reduce enemy Elemental RES and improve overall Freeze team damage.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+#2 Chongyun Superconduct Keqing Team
+Tier S
+Chongyun
+enables Cryo support for
+Superconduct
+, helping amplify Keqing’s Physical-heavy damage windows.
+Note: the source guide contains some role/element inconsistencies for Diona and Chongyun's weapon recommendations; the team concept is still centered on Keqing + Chongyun superconduct support.
+Keqing
+Main DPS
+Electro
+Primary on-field damage dealer.
+Focuses on Electro damage with strong benefit from Superconduct support.
+Artifacts
+Thundering Fury
+Gladiator's Finale
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Mistsplitter Reforged
+The Black Sword
+Chongyun
+Sub DPS
+Cryo
+Constellation 2+
+Provides off-field Cryo application and burst damage.
+His Elemental Skill at C2 helps lower cooldowns and supports Keqing’s burst uptime.
+Artifacts
+Blizzard Strayer
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Wolf's Gravestone
+Serpent Spine
+Diona
+Support
+Cryo
+Shielding and healing support.
+Provides a safe environment for the team and helps Chongyun recharge his Elemental Burst.
+Artifacts
+Maiden Beloved
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP / Energy Recharge
+Weapons
+Sacrificial Bow
+Favonius Warbow
+Jean
+Support
+Anemo
+Healer and crowd utility.
+Can help reduce enemy Elemental Resistance with Viridescent Venerer.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+#3 xiao_chongyun_swirl_team
+Tier S
+A Xiao plunge-centric team with Chongyun providing off-field Cryo application, Zhongli offering strong shielding and team ATK buff, and Jean acting as healer, battery, and Anemo RES shred support via Viridescent Venerer. Chongyun can also help lower Xiao's Burst cooldown at C2.
+Xiao
+Main DPS
+Anemo
+Xiao is the on-field carry of the team. His Elemental Burst enables consecutive Plunge Attacks with wide-area Anemo damage.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+ATK%
+Goblet
+ATK% / Anemo DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Primordial Jade Winged-Spear
+Deathmatch
+Chongyun
+Sub DPS
+Cryo
+Constellation 2+
+Chongyun provides off-field Cryo damage and, at C2, can reduce Xiao's Elemental Burst cooldown.
+Artifacts
+Blizzard Strayer
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Wolf's Gravestone
+Serpent Spine
+Zhongli
+Support
+Geo
+Zhongli supplies an extremely strong shield for safety and can boost team damage through the 4-piece Tenacity of the Millelith effect.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Staff of Homa
+Black Tassel
+Jean
+Support
+Anemo
+Constellation 4+
+Jean provides healing and energy support for Xiao. At C4, she also reduces enemy Anemo RES, making her especially valuable in this team.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+#4 Chongyun Melting Diluc Team
+Tier S
+Chongyun Melting Team
+Chongyun is a Sub DPS in the team. Diluc’s DMG is amplified by Melting.
+Diluc
+Main DPS
+Pyro
+Diluc is the main DPS. His DMG is amplified by Melt in this team.
+Artifacts
+Crimson Witch of Flames
+Main Stats
+Sands
+ATK%
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Wolf's Gravestone
+Serpent Spine
+Chongyun
+Sub DPS
+Cryo
+Constellation 2+
+Chongyun’s Elemental Skill (requires
+C2
+) lowers the cooldown of Diluc’s Elemental Burst. He also provides Cryo DMG from off-field.
+Artifacts
+Blizzard Strayer
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Wolf's Gravestone
+Serpent Spine
+Albedo
+Sub DPS
+Geo
+Albedo pairs with Zhongli to trigger Geo resonance, and with
+Archaic Petra
+can boost the corresponding DMG of team members by picking up Crystals.
+Artifacts
+Archaic Petra
+Main Stats
+Sands
+DEF%
+Goblet
+Geo DMG
+Circlet
+DEF% / CRIT Rate
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge / DEF
+Weapons
+Cinnabar Spindle
+Harbinger of Dawn
+Zhongli
+Support
+Geo
+Zhongli provides a strong shield for safety and increases team ATK with
+Tenacity of the Millelith
+.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP / Energy Recharge
+Weapons
+Staff of Homa
+Black Tassel
+Chongyun Teams FAQ
+What is the best Chongyun team in Genshin Impact?
+Ayaka Chongyun Permafrost Freeze Team is one of the strongest Chongyun teams right now. Use the team summary and build cards on this page to pick the best version for your account.
+What are good Chongyun teams without premium weapons?
+You can run strong Chongyun teams without signature weapons by prioritizing reaction synergy, energy consistency, and artifact main stats shown in each build card.
+Which teammates are best with Chongyun?
+Common high-performing partners include teams such as Ayaka Chongyun Permafrost Freeze Team, Chongyun Superconduct Keqing Team, xiao_chongyun_swirl_team. Check each lineup section for role breakdowns and gear priorities.

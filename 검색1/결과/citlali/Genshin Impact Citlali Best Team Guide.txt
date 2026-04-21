@@ -1,0 +1,763 @@
+Genshin Impact Citlali Best Team Guide
+Last updated April 20, 2026. Looking for the best Citlali teams in
+        Genshin Impact? Start with the top team summary below, then pick the
+        lineup that fits your roster.
+This page provides the best Citlali Team information. Citlali is a Cyro Shield & Support. Top teams include Melting, Vaporize, and Melt comps. Team positions can be adjusted based on your roster.
+View Citlali's character page
+Citlali Team Summary
+#1
+Team Rating:SS
+Citlali Permafrost Team #1
+#2
+Team Rating:SS
+Citlali Melt Arlecchino Hypercarry
+#3
+Team Rating:SS
+Citlali Melting Team #2 - Gaming Plunge Melt
+#4
+Team Rating:SS
+Citlali Duo-Core Melt & Vaporize Squad
+#5
+Team Rating:SS
+Citlali Vaporization Team #1
+#6
+Team Rating:S
+Citlali Vaporization Team 2
+#7
+Team Rating:S
+Citlali Pure Hydro Neuvillette Furina Freeze Support
+C2
+#8
+Team Rating:S
+Citlali Melt Chasca Hypercarry
+#9
+Team Rating:S
+Citlali Permafrost Ayaka Freeze Team
+#1 Citlali Permafrost Team #1
+Tier SS
+Permafrost team built around
+Skirk
+as the main Cryo-infused DPS, with
+Citlali
+shielding and shredding,
+Furina
+providing powerful off-field Hydro and team damage bonus, and
+Escoffier
+adding Cryo damage, healing, and extra Cryo/Hydro RES reduction.
+Skirk
+Main DPS
+Cryo
+Primary on-field damage dealer. Uses Skill to enter Seven-Phase Flash mode, converting Normal Attacks to Cryo and empowering her Burst. Builds Serpent’s Subtlety through Skill and Cryo-related reactions.
+Artifacts
+Finale of the Deep Galleries
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Azurelight
+Calamity of Eshu
+Citlali
+Support
+Cryo
+Provides a shield based on Elemental Mastery and summons a Cryo creature for AoE damage. Helps reduce enemy Pyro/Hydro RES when Frozen or Melt reactions are triggered nearby.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge / CRIT Rate / CRIT DMG
+Weapons
+Starcaller's Watch
+Sacrificial Fragments
+Furina
+Sub DPS
+Hydro
+Off-field Hydro application and strong team damage buff through Burst based on HP changes. Skill steadily applies Hydro while enabling Furina’s Burst stacks.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Freedom-Sworn
+Favonius Sword
+Escoffier
+Support
+Cryo
+Summons Cooking Mek for off-field Cryo damage and provides team healing with Burst. Her Skill and Burst also reduce enemy Cryo/Hydro RES, scaling with the number of Cryo and Hydro teammates.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Symphonist of Scents
+Favonius Lance
+#2 Citlali Melt Arlecchino Hypercarry
+Tier SS
+A high-powered Melt hypercarry team built around
+Arlecchino
+, with
+Citlali
+providing Cryo application and shielding,
+Xilonen
+offering RES shred and healing, and
+Bennett
+supplying a massive ATK buff plus healing.
+Arlecchino
+Main DPS
+Pyro
+On-field Pyro DPS who converts her attacks to Pyro via Bond of Life. Prioritize maintaining Bond of Life above 20% to keep her enhanced attacks active. Her Burst also provides AoE Pyro damage and resets her Skill cooldown.
+Artifacts
+Fragment of Harmonic Whimsy
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery / Energy Recharge
+Weapons
+Crimson Moon's Semblance
+Ballad of the Fjords
+Citlali
+Support
+Cryo
+Provides a shield scaled from Elemental Mastery and summons persistent Cryo damage. Helps enable Melt reactions and reduces enemies' Pyro and Hydro RES when reactions are triggered nearby.
+Artifacts
+Instructor
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge / CRIT DMG / CRIT Rate
+Weapons
+Starcaller's Watch
+Sacrificial Fragments
+Xilonen
+Support
+Geo
+Activates Samplers to shred enemies' elemental RES and can also heal teammates. Best used to amplify Arlecchino's damage through buffs and resistance reduction.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Peak Patrol Song
+Favonius Sword
+Bennett
+Support
+Pyro
+Burst provides a huge ATK buff and healing to the team. Standard Noblesse holder in this composition.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+Energy Recharge / HP%
+Weapons
+Mistsplitter Reforged
+The Alley Flash
+#3 Citlali Melting Team #2 - Gaming Plunge Melt
+Tier SS
+Citlali Melting Team #2
+A Plunging Melt team built around Gaming's continuous Pyro application and plunge attacks, with Citlali providing shielding and Cryo support, Xianyun enabling plunge damage and healing, and Bennett supplying a massive ATK buff plus sustain.
+Gaming
+Main DPS
+Pyro
+Gaming is the on-field carry. His Plunging Attacks provide consistent Pyro application to trigger Melt reactions.
+Artifacts
+Crimson Witch of Flames
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Redhorn Stonethresher
+Serpent Spine
+Citlali
+Support
+Cryo
+Citlali provides a shield scaling with Elemental Mastery and summons off-field Cryo damage. While her summon is active, Frozen or Melt reactions reduce enemy Pyro and Hydro RES.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge / CRIT DMG / CRIT Rate
+Weapons
+Starcaller's Watch
+Sacrificial Fragments
+Xianyun
+Support
+Anemo
+Xianyun offers healing and buffs teammates' Plunging Attacks, making her ideal for Gaming's plunge-focused playstyle.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Energy Recharge
+Goblet
+ATK%
+Circlet
+ATK%
+Substats
+Energy Recharge / ATK%
+Weapons
+Crane's Echoing Call
+Favonius Codex
+Bennett
+Support
+Pyro
+Bennett provides a huge ATK buff through his Burst and also heals the team.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+Energy Recharge / HP%
+Weapons
+Mistsplitter Reforged
+The Alley Flash
+#4 Citlali Duo-Core Melt & Vaporize Squad
+Tier SS
+Dual-core team built around
+Mavuika
+and
+Mualani
+, with
+Citlali
+providing shielding, Cryo application, and Pyro/Hydro RES shred through Frozen/Melt triggers.
+Xilonen
+adds universal utility, additional RES reduction via Scroll of the Hero of Cinder City, and healing.
+This setup offers strong damage from two on-field carries while maintaining high comfort and reaction support.
+Mavuika
+Main DPS
+Pyro
+Primary on-field Pyro carry. Her Burst is charged by Nightsoul points from Natlan teammates or normal attacks, and grants enhanced abilities plus strong interruption resistance during its active window.
+Artifacts
+Obsidian Codex
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+A Thousand Blazing Suns
+Serpent Spine
+Mualani
+Main DPS
+Hydro
+On-field Hydro carry who enters Nightsoul’s Blessing with her Skill. Her Sharky Bite attacks generate Wave Momentum stacks, enabling Shark Missiles once fully stacked for high burst damage.
+Artifacts
+Obsidian Codex
+Main Stats
+Sands
+HP
+Goblet
+Hydro DMG
+Circlet
+Elemental Mastery
+Substats
+HP% / CRIT DMG / CRIT Rate / Elemental Mastery
+Weapons
+Surf's Up
+Sacrificial Jade
+Citlali
+Support
+Cryo
+Provides a shield scaling with Elemental Mastery and summons off-field Cryo damage. When nearby party members trigger Frozen or Melt, she reduces the affected enemies' Pyro and Hydro RES.
+Artifacts
+Instructor
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge / CRIT DMG / CRIT Rate
+Weapons
+Starcaller's Watch
+Sacrificial Fragments
+Xilonen
+Support
+Geo
+Utility support with Samplers that reduce enemy Elemental RES while active. Also provides healing and strong team support.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+DEF
+Circlet
+DEF
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Peak Patrol Song
+Favonius Sword
+#5 Citlali Vaporization Team #1
+Tier SS
+Hu Tao Vaporize core with strong off-field Hydro application from Furina and Yelan, plus Citlali providing shield, Cryo application, and resistance shred through Frozen/Melt interactions. Strong single-target damage and high overall team DPS.
+Hu Tao
+Main DPS
+Pyro
+Main on-field DPS. Her damage is amplified by Vaporize reactions in this team.
+Artifacts
+Shimenawa's Reminiscence
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / HP%
+Weapons
+Staff of Homa
+Deathmatch
+Citlali
+Support
+Cryo
+Provides a shield scaling from Elemental Mastery and summons a creature that deals AoE Cryo damage. While active, nearby party members triggering Frozen or Melt reduces enemies' Pyro and Hydro RES.
+Artifacts
+Instructor
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge / CRIT DMG / CRIT Rate
+Weapons
+Starcaller's Watch
+Sacrificial Fragments
+Furina
+Sub DPS
+Hydro
+Provides continuous off-field Hydro application. Her Burst increases team damage based on HP changes, which synergizes with HP fluctuation and healing.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Favonius Sword
+Yelan
+Sub DPS
+Hydro
+Provides continuous off-field Hydro application for Vaporize and increases Hu Tao's damage through her Burst passive.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+HP%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG / CRIT Rate
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Aqua Simulacra
+Favonius Warbow
+#6 Citlali Vaporization Team 2
+Tier S
+Yoimiya Vaporization team with
+Citlali
+providing shield, Cryo application, and Pyro/Hydro RES shred through Frozen/Melt interactions.
+Furina and Yelan supply strong off-field Hydro and team-wide damage amplification, enabling Yoimiya to trigger consistent Vaporize reactions.
+Yoimiya
+Main DPS
+Pyro
+Main on-field carry. Her damage is amplified by Vaporize in this team.
+Artifacts
+Shimenawa's Reminiscence
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+ATK%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Thundering Pulse
+Rust
+Citlali
+Support
+Cryo
+Provides a shield based on Elemental Mastery and summons a creature that deals AoE Cryo damage. When the creature is active, nearby party members triggering Frozen or Melt can reduce enemy Pyro and Hydro RES.
+Artifacts
+Instructor
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge / CRIT DMG / CRIT Rate
+Weapons
+Starcaller's Watch
+Sacrificial Fragments
+Furina
+Sub DPS
+Hydro
+Her Elemental Skill provides continuous Hydro application. Her Elemental Burst grants team DMG increase based on HP changes, which are enabled by her skill and restored by healing.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Favonius Sword
+Yelan
+Sub DPS
+Hydro
+Provides continuous off-field Hydro application and increases on-field damage through her Elemental Burst passive.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+HP%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG / CRIT Rate
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Aqua Simulacra
+Favonius Warbow
+#7 Citlali Pure Hydro Neuvillette Furina Freeze Support
+Tier S
+Pure Hydro core with
+Neuvillette
+as on-field DPS,
+Furina
+for Hydro damage and team buffs,
+Citlali
+for Cryo shielding and Hydro RES shred through Freeze, and
+Xilonen
+for additional RES reduction, healing, and
+Scroll of the Hero of Cinder City
+buff support. Strong sustained damage and excellent team utility.
+Neuvillette
+Main DPS
+Hydro
+On-field Hydro carry and main damage source. Uses charged attacks to deal continuous Hydro damage and drive Freeze-related control with Citlali.
+Artifacts
+Marechaussee Hunter
+Main Stats
+Sands
+HP%
+Goblet
+Hydro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Tome of the Eternal Flow
+Sacrificial Jade
+Furina
+Sub DPS
+Hydro
+Provides consistent off-field Hydro application and a powerful teamwide damage buff from her Burst. Best with reliable healing to offset HP drain.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Favonius Sword
+Citlali
+Support
+Cryo
+Constellation 2+
+Provides a shield scaling from Elemental Mastery and off-field AoE Cryo application. Can help trigger Freeze and reduce enemy Hydro resistance when reactions are triggered near her skill summon.
+Artifacts
+Instructor
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge / CRIT DMG / CRIT Rate
+Weapons
+Starcaller's Watch
+Sacrificial Fragments
+Xilonen
+Support
+Geo
+Applies enemy RES shred through Samplers and provides healing to the team. Also synergizes well with
+Scroll of the Hero of Cinder City
+for extra team buffs.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Peak Patrol Song
+Favonius Sword
+#8 Citlali Melt Chasca Hypercarry
+Tier S
+Chasca
+is the Main DPS and deals the majority of the team's damage with reaction-enabled Shadowhunt Shells.
+Citlali provides shielding and Cryo application for Melt setups.
+Xilonen adds RES shred and extra utility with Scroll of the Hero of Cinder City.
+Bennett supplies a massive ATK buff and healing, greatly boosting Chasca's damage.
+Chasca
+Main DPS
+Anemo
+On-field carry. Her damage scales heavily with teammates' elements, allowing her to trigger strong reactions through Shadowhunt Shells.
+Artifacts
+Obsidian Codex
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Astral Vulture's Crimson Plumage
+Flower-Wreathed Feathers
+Citlali
+Support
+Cryo
+Provides a shield based on Elemental Mastery and summons off-field Cryo damage. Can help enable Melt and lower Pyro/Hydro RES on affected enemies.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge / CRIT Rate / CRIT DMG
+Weapons
+Starcaller's Watch
+Sacrificial Fragments
+Xilonen
+Support
+Geo
+Offers RES shred through Samplers and additional healing for the team.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Peak Patrol Song
+Favonius Sword
+Bennett
+Support
+Pyro
+Burst provides a very strong ATK buff and healing, greatly enhancing the team's damage output.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+Energy Recharge / HP%
+Weapons
+Mistsplitter Reforged
+The Alley Flash
+#9 Citlali Permafrost Ayaka Freeze Team
+Tier S
+Ayaka-focused Freeze team with strong Cryo/Hydro application, Cryo RES shred, and Furina damage amplification. Citlali provides shielding and additional Cryo utility, while Escoffier adds Cryo damage, healing, and extra resistance reduction.
+Kamisato Ayaka
+Main DPS
+Cryo
+Primary on-field damage dealer. Ayaka deals most of her damage through her Elemental Burst, with Cryo attacks enabling consistent Freeze reactions when paired with Hydro teammates.
+Artifacts
+Blizzard Strayer
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Mistsplitter Reforged
+Finale of the Deep
+Citlali
+Support
+Cryo
+Provides shielding based on Elemental Mastery and summons a Cryo entity that deals AoE Cryo damage. Also reduces enemy Hydro and Pyro RES when Frozen or Melt reactions are triggered nearby.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge / CRIT Rate / CRIT DMG
+Weapons
+Starcaller's Watch
+Sacrificial Fragments
+Furina
+Sub DPS
+Hydro
+Provides consistent Hydro application and a powerful team damage buff through her Burst based on party HP changes. Synergizes well with a healer to sustain the team.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Favonius Sword
+Escoffier
+Support
+Cryo
+Summons a turret-like device that attacks enemies with Cryo damage while off-field. Her Burst deals AoE Cryo damage and heals the team, while her Skill and Burst reduce enemy Cryo/Hydro RES, scaling with the number of Cryo/Hydro characters in the party.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Symphonist of Scents
+Favonius Lance
+Citlali Teams FAQ
+What is the best Citlali team in Genshin Impact?
+Citlali Permafrost Team #1 is one of the strongest Citlali teams right now. Use the team summary and build cards on this page to pick the best version for your account.
+What are good Citlali teams without premium weapons?
+You can run strong Citlali teams without signature weapons by prioritizing reaction synergy, energy consistency, and artifact main stats shown in each build card.
+Which teammates are best with Citlali?
+Common high-performing partners include teams such as Citlali Permafrost Team #1, Citlali Melt Arlecchino Hypercarry, Citlali Melting Team #2 - Gaming Plunge Melt. Check each lineup section for role breakdowns and gear priorities.

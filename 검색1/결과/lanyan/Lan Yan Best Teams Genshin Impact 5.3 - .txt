@@ -1,0 +1,113 @@
+Lan Yan, the new
+4-star Anemo Catalyst user
+, has been introduced in Genshin Impact 5.3. As the game’s
+first Anemo shielder
+, she offers a unique blend of defense and utility. Her shield scales with
+ATK%
+, making her a strong addition to various team compositions. Lan Yan also synergizes well with the
+Viridescent Venerer artifact set
+, which lowers enemies’ elemental resistance, further boosting the damage potential of her team.
+This guide explores the
+best teams for Lan Yan
+based on her utility as an Anemo shielder and buffer. Here’s a breakdown of her potential in various teams.
+1. Clorinde Quicken Team
+Team Composition:
+Clorinde
+(Main DPS – Electro)
+Fischl
+(Sub-DPS – Electro)
+Lan Yan
+(Shielder/Support – Anemo)
+Nahida
+(Support/Reaction Driver – Dendro)
+Why It Works:
+This team leverages the
+Quicken reaction
+, which amplifies damage from Electro and Dendro. Lan Yan provides a
+reliable shield
+, protecting the team while reducing the enemy’s
+Electro and Dendro resistance
+via her Anemo swirl. Her
+Thrilling Tales of Dragon Slayers (TTDS)
+weapon can also buff Clorinde’s damage output, turning her into a more effective DPS.
+Rotation Tips:
+Use Nahida’s skill to mark enemies and apply Dendro.
+Fischl’s skill or burst summons Oz for consistent Electro application.
+Swirl Electro and Dendro with Lan Yan for resistance shred.
+Use Clorinde’s abilities to deal massive Quicken reaction damage.
+2. Arlecchino Vaporize Team
+Team Composition:
+Arlecchino
+(Main DPS – Pyro)
+Yelan
+(Sub-DPS – Hydro)
+Lan Yan
+(Shielder/Support – Anemo)
+Bennett
+(Support/Healer – Pyro)
+Why It Works:
+This team revolves around the
+Vaporize reaction
+, which enhances Pyro damage. Lan Yan’s
+shielding
+and
+resistance shred
+improve both Arlecchino’s and Yelan’s output. Additionally, her Anemo abilities enable better grouping of enemies, maximizing AoE damage from Pyro and Hydro attacks.
+Rotation Tips:
+Start with Bennett’s burst for healing and Pyro infusion.
+Use Yelan’s skill and burst to apply Hydro.
+Trigger Vaporize with Arlecchino’s attacks.
+Swirl Hydro or Pyro with Lan Yan to shred enemy resistance and boost team damage.
+3. Neuvillette Hypercarry Team
+Team Composition:
+Neuvillette
+(Main DPS – Hydro)
+Furina
+(Support/Buffer – Hydro)
+Lan Yan
+(Shielder/Support – Anemo)
+Xilonen
+(Healer/Support – Dendro)
+Why It Works:
+In this
+Hypercarry setup
+, Neuvillette acts as the main source of damage. Lan Yan complements him by grouping enemies and lowering their
+Hydro resistance
+. Furina further buffs Neuvillette’s damage while providing energy regeneration. Xilonen offers additional healing and utility through her Dendro abilities.
+Rotation Tips:
+Deploy Xilonen’s skill or burst for Dendro application and healing.
+Use Furina’s abilities to boost Hydro damage and energy generation.
+Swirl Hydro with Lan Yan for resistance shred and crowd control.
+Unleash Neuvillette’s charged attacks to deal massive Hydro damage.
+4. Lyney Triple Pyro Team
+Team Composition:
+Lyney
+(Main DPS – Pyro)
+Xiangling
+(Sub-DPS – Pyro)
+Lan Yan
+(Shielder/Support – Anemo)
+Bennett
+(Support/Healer – Pyro)
+Why It Works:
+This
+Triple Pyro team
+capitalizes on the
+Pyro resonance bonus
+, which increases ATK by 25%. Lan Yan acts as a versatile support, offering crowd control, shielding, and
+Pyro resistance reduction
+through her swirls. TTDS further boosts Lyney’s already impressive damage potential.
+Rotation Tips:
+Activate Bennett’s burst to buff the team and heal.
+Use Xiangling’s burst to deal AoE Pyro damage.
+Swirl Pyro with Lan Yan to shred enemy resistance and boost AoE effectiveness.
+Finish with Lyney’s skill and burst for massive single-target Pyro damage.
+Conclusion
+Lan Yan’s introduction as the
+first Anemo shielder
+makes her an incredibly versatile addition to Genshin Impact’s roster. She excels in enabling powerful elemental reactions, providing defensive utility, and buffing her teammates. Whether you want to run Quicken, Vaporize, Hypercarry, or Pyro-focused teams, Lan Yan fits seamlessly into numerous meta compositions.
+Build her with
+4-piece Viridescent Venerer
+and weapons like
+TTDS
+to maximize her utility. Try out the recommended teams above to unlock her full potential in Genshin Impact 5.3!

@@ -1,0 +1,493 @@
+Home
+/
+Genshin Impact
+/
+Character List
+/
+Neuvillette Build
+Neuvillette Guide and Best Builds
+Neuvillette is a 5-star
+Hydro
+character who utilizes powerful
+Charged Attack: Equitable Judgment
+to
+unleash huge Hydro damage. These charged attacks trigger his water cannon which can be channelled and
+aimed at packs of enemies, but this attack has a four second charge up unless you collect his
+Sourcewater Droplets which lower the cast time. This unique mechanic creates a fun, active,
+on-field play style for Neuvillette.
+Last updated
+on
+Jan 13, 2026
+at
+22:30
+by
+Jaymo
+1 comment
+S
+Rank
+Hydro
+Element
+Catalyst
+Weapon
+★
+★
+★
+★
+★
+Rarity
+Ray Chase
+EN Voice Actor
+Kamiya Hiroshi
+JP Voice Actor
+Neuvillette's Strengths & Weaknesses
+Strengths
+High AoE DPS attack.
+Naturally scales on CRIT DMG.
+Stand alone DPS meaning they do not need reactions to deal high damage.
+Weaknesses
+Can easily be Interrupted.
+Need high investment.
+1.
+Neuvillette Main DPS Build
+Neuvillette is all about gathering Sourcewater Droplets and activating his water cannon.
+These droplets come from both of his abilities, leaving them on the ground behind for
+Neuvillette to suck up and power up his charged attack. As a Main DPS, we focus on
+augmenting his damage as much as possible through his gear, artifacts and teammates
+to create devastating elemental reactions on top of his extremely strong personal DPS.
+BiS Weapon
+Tome of the Eternal Flow
+Alternate Weapons
+Sacrificial Jade
+Lost Prayer to the Sacred Winds
+Prototype Amber
+Best Artifacts
+Marechaussee Hunter
+Wanderer's Troupe
+Heart of Depth
+Main Stats
+Sand Stats
+: HP %
+Goblet Stats
+: Hydro DMG
+Circlet Stats
+: CRIT Rate or CRIT DMG
+Substat Priority
+HP %
+CRIT Rate
+CRIT DMG
+Energy Recharge
+Talent Priority
+Normal Attack
+Elemental Skill
+Elemental Burst
+Neuvillette's damage is focused around
+Charged Attack: Equitable Judgment
+, which uses
+his HP instead of consuming Stamina. His current HP also scales his charged
+attack at the time of casting, so we want to stack his HP as high as possible
+through both Weapon choice and Artifacts. Outside of high HP % rolls, we need
+to aim for CRIT stats to multiply his personal damage output.
+Another component of Neuvillette's DPS is his
+Energy Recharge, this is important as we need to balance how
+quickly his skills become available so we can collect his Sourcewater Droplets.
+Typically, we want to aim for around 160% Energy Recharge for the majority of
+Neuvillette's team compositions, however, this can be lowered depending on if
+we have strong energy generation from the rest of his team. We will dive deeper
+into the mechanics surrounding his charged attacks in the next section.
+2.
+Combos and How to Play Neuvillette
+Understanding how Neuvillette's charged attack works is the key to finding
+success with him as your Main DPS. First, we need to understand that his normal
+attacks deal fairly weak
+Hydro Damage
+.  It is only when
+you use
+Charged Attack: Equitable Judgment
+that his true
+potential shines.  This charged attack has several components to it and we need
+to manage each one for it to work properly. Failing to do so will cause the
+water cannon to take 4 seconds to activate, leaving you vulnerable while you
+wait.
+Sourcewater Droplets are created by Neuvillette's Elemental Skill,
+O Tears, I Shall Repay
+, and his Elemental Burst,
+O Tides, I Have Returned
+. These skills produce three
+Sourcewater Droplets and six Sourcewater Droplets, respectively. These
+Sourcewater Droplets not only speed up the casting time for
+Charged Attack: Equitable Judgment
+, but they also heal him, counteracting
+the health drain from usage of the skill. Therefore, it is vital for us
+to produce as many Sourcewater Droplets as possible from his skills which
+is why Energy Recharge is such an important component of his build.
+The first time you play Neuvillette can feel very awkward, especially
+if you do not have a good grasp on how to use his Sourcewater Droplets correctly,
+but overtime you will find it very smooth. Once you add in the right team
+composition to keep him buffed and in the fight, the results are amazing. While
+Neuvillette has so many positives going for him, he has one major drawback; he
+can be knocked out of his charged attack by enemies, this is his Achilles heel.
+His
+Venerable Institution
+(C1) does counteract this somewhat by giving him resistance
+to being interrupted but ultimately this is where shield teammates are critical
+to his success.
+3.
+Neuvillette's Best Team Comps
+As we have mentioned, Neuvillette is a powerhouse of DPS, but can be knocked
+over easily if we get interrupted. So one element we will constantly be utilizing
+within his team compositions is shielders, whether this is from crystallized
+reactions or a shield skill - keeping him safe while channelling is the key to success.
+3.1.
+Neuvillette Hypercarry Teams
+Main DPS
+Sub DPS
+Support
+Support
+Neuvillette
+Fischl
+Kaedehara Kazuha
+Zhongli
+Main DPS
+Support
+Support
+Support
+Neuvillette
+Furina
+Kaedehara Kazuha
+Baizhu
+Charlotte
+Neuvillette's best team comps tend to revolve around his Hypercarry playstyle
+which primarily focuses on the damage he can provide to the team. In both
+examples,
+Kaedehara Kazuha
+is used to help decrease the enemies
+Hydro
+RES as well as providing an Elemental DMG bonus
+to Hydro with his Ascension passive,
+Soumon Swordsmanship
+.
+In the first example,
+Fischl
+brings powerful off-field DPS
+while
+Zhongli
+also brings RES Shred as well as
+interruption RES which is important at C0. In the second example,
+Furina
+is instead used alongside
+Baizhu
+or
+Charlotte
+as suitable healers to help generate Fanfare stacks.
+Baizhu is the best choice here as any
+Bloom
+s
+generated can both add DMG and count towards
+Heir to the Ancient Sea's Authority
+.
+3.2.
+Neuvillette Hypercarry with Xilonen
+Main DPS
+Support
+Support
+Support
+Neuvillette
+Kaedehara Kazuha
+Furina
+Xilonen
+Update 5.1 has made this build extremely popular as a Hypercarry option. One of the new
+characters,
+Xilonen
+, allows
+Neuvillette
+to gain even more
+power than before. Adding Xilonen as an additional healer, improves Fanfare generation from
+Furina
+and the RES Shred she provides completely outclasses previous versions
+with
+Zhongli
+'s resistance debuff. However, this new version of leaves Neuvillette 
+open to disruption and breaking his attacks, requiring players to be much more careful with 
+their positioning.
+3.3.
+Neuvillette Hyperbloom Team
+Main DPS
+Sub DPS
+Sub DPS
+Shielder
+Neuvillette
+Nahida
+Raiden Shogun
+Zhongli
+Kirara
+Neuvillette is able to perform as an on-field
+Hydro
+applicator in
+Hyperbloom
+teams alongside a
+Dendro
+character without having to change his build at
+all.
+Nahida
+is a great fit for this team with
+her powerful Dendro application as well as off-field DMG while
+Raiden Shogun
+provides incredible
+Electro
+application. A shielder is ideal in this situation with
+Kirara
+being able to both help apply Dendro as well as
+increase interruption RES.
+Zhongli
+can also be used
+and provides RES Shred instead of Elemental application, but he is often
+useful in other Spiral Abyss teams meaning he may not
+always be available.
+3.4.
+Neuvillette Freeze Team
+Main DPS
+Buffer
+Support
+Shielder - Cryo
+Neuvillette
+Kaedehara Kazuha
+Rosaria
+Diona
+This Freeze team has so much CC, it's almost comical to play. We start our team off
+with
+Kaedehara Kazuha
+as our buffer and support to help group enemies together. Once he
+has used his skills, we swap to Neuvillette to apply
+Hydro
+to
+all enemies with his
+O Tears, I Shall Repay
+and a blast of
+Charged Attack: Equitable Judgment
+. Next, we bring out
+Rosaria
+to slam
+Rites of Termination
+down onto the battlefield, a fast swap over to
+Diona
+for her shield skill
+and burst. Then go back to Neuvillette for his Burst skill,
+O Tides, I Have Returned
+, to create more Sourcewater Droplets
+on the field for his to use his charged attack. Now simply rinse and repeat,
+keeping the enemies locked in a
+Frozen
+state as you blast them down with Neuvillette.
+4.
+Neuvillette's Ascensions, Talents, and Constellations
+Neuvillette Ascensions
+Neuvillette Talents
+Neuvillette Constellations
+4.1.
+Neuvillette's Ascension Passives and Materials
+Unlock
+Ascension Passive
+Explanation
+With Character
+Gather Like the Tide
+Increases underwater Sprint SPD for your own party members by 15%.  Not
+    stackable with Passive Talents that provide the exact same effects.
+1st Ascension
+Heir to the Ancient Sea's Authority
+When a party member triggers a
+Vaporize
+,
+Frozen
+,
+Electro-Charged
+,
+Bloom
+,
+Hydro
+, or a
+Hydro Crystallize
+reaction on opponents, one stack of Past Draconic Glories will be granted
+      to Neuvillette for 30s. Max three stacks. Past Draconic Glories causes
+Charged Attack: Equitable Judgment
+to deal
+      110%/125%/160% of its original DMG.
+The stacks of Past Draconic Glories created by each kind of Elemental
+      Reaction exist independently.
+4th Ascension
+Discipline of the Supreme Arbitration
+For each 1% of Neuvillette's current HP greater than 30% of Max HP, he
+    will gain 0.6% Hydro DMG Bonus. A maximum bonus of 30% can
+    be obtained this way.
+Neuvillette requires a range of materials to ascend to the 6th ascension.
+Starting from the second ascension he gains additional CRIT DMG as his bonus
+stat giving a total of 38.4% additional CRIT DMG at the final ascension.
+The total cost to upgrade all ascensions is:
+Source
+Quantity
+Mora
+420,000 Mora
+Boss Material
+46x
+Fontemer Unihorn
+Ascension Material
+1x
+Varunada Lazurite Sliver
+9x
+Varunada Lazurite Fragment
+9x
+Varunada Lazurite Chunk
+6x
+Varunada Lazurite Gemstone
+Local Specialty
+168x
+Lumitoile
+Enhancement Material
+18x
+Transoceanic Pearl
+30x
+Transoceanic Chunk
+36x
+Xenochromatic Crystal
+4.2.
+Neuvillette's Talents
+Listed below is each talent and a brief explanation of how they work.
+Type
+Talent Name
+Brief Explanation
+Normal
+As Water Seeks Equilibrium
+Performs up to three
+Hydro
+attacks. His Charged
+     Attack will gather the power of water, to form a Hydro AoE attack after a
+     4 second cast. If Neuvillette sucks up any Sourcewater Droplets, it will
+     increase his cast time. Gathering the might of Hydro, Neuvillette plunges
+     towards the ground from mid-air, dealing AoE Hydro DMG
+     upon impact with the ground.
+Elemental Skill
+O Tears, I Shall Repay
+Creates a waterfall that deals AoE Hydro DMG and
+    creates three Sourcewater Droplets.  At a certain point, after the
+    waterfall ends a Spiritbreath Thorn will pierce enemies and deal another
+    hit of Hydro DMG.
+Elemental Burst
+O Tides, I Have Returned
+Unleashes waves that will deal AoE Hydro DMG based on Neuvillette's Max
+    HP.  After a short interval, two waterfalls will descend and deal Hydro DMG
+    in a somewhat smaller AoE, and will generate 6 Sourcewater Droplets within
+    an area in front.
+To upgrade a single talent to level 10, it costs:
+Source
+Quantity
+Mora
+1,625,500 Mora
+Special Material
+1x
+Crown of Insight
+Boss Material
+6x
+Everamber
+Domain Material
+3x
+Teachings of Equity
+21x
+Guide to Equity
+38x
+Philosophies of Equity
+Enhancement Material
+6x
+Transoceanic Pearl
+22x
+Transoceanic Chunk
+31x
+Xenochromatic Crystal
+4.3.
+Neuvillette's Constellations
+Neuvillette functions at C0, however, almost every single one
+of his constellations offer an increase in damage and quality of
+life options that make him better and better with each added
+constellation.
+#
+Name
+Explanation
+C1
+Venerable Institution
+When Neuvillette takes the field, he will obtain one stack of Past
+      Draconic Glories from the Passive Talent
+Heir to the Ancient Sea's Authority
+.
+Additionally, his interruption resistance will be increased while using
+Charged Attack Empowerment: Legal Evaluation
+and
+Charged Attack: Equitable Judgment
+.
+C2
+Juridical Exhortation
+The Passive Talent
+Heir to the Ancient Sea's Authority
+will be enhanced: Each stack of Past Draconic Glories will increase
+    the CRIT DMG of
+Charged Attack: Equitable Judgment
+by 14%. The
+    maximum increase that can be achieved this way is 42%.
+C3
+Ancient Postulation
+Increases the Level of
+As Water Seeks Equilibrium
+by 3.
+Maximum upgrade level is 15.
+C4
+Crown of Commiseration
+When Neuvillette is on the field and is healed, one Sourcewater Droplet will
+    be generated. This effect can occur once every 4 seconds.
+C5
+Axiomatic Judgment
+Increases the Level of
+O Tides, I Have Returned
+by 3.
+Maximum upgrade level is 15.
+C6
+Wrathful Recompense
+When using
+Charged Attack: Equitable Judgment
+, Neuvillette can absorb
+      nearby Sourcewater Droplets in an AoE. Each absorbed Droplet will
+      increase the duration of Charged Attack: Equitable Judgment by 1s.
+Additionally, when Equitable Judgment hits opponents, it will fire
+      off two additional currents every 2 seconds, each of which will
+      deal 10% of Neuvillette's Max HP as Hydro DMG. Damage dealt this way
+      will count as damage dealt by Equitable Judgment.
+Changelog
+13 Jan. 2026:
+Updated Character Tier.
+18 Oct. 2024:
+Updated for new additions from Update 5.1.
+03 Apr. 2024:
+Team Comps updated.
+29 Nov. 2023:
+Guide added.
+Show more
+Show less
+Need any help? Check out our
+General Discussion Forum
+!
+1 comment
+In The Same Category
+Candace Best Builds Guide
+Xingqiu Best Builds Guide
+Tartaglia Best Builds Guide
+Aino Best Builds Guide
+Mona Best Builds Guide
+Columbina Team Guide
+Columbina Profile & Talents
+Furina Best Builds Guide
+Columbina Best Builds Guide
+Sangonomiya Kokomi Best Builds Guide
+Yelan Best Builds Guide
+Kamisato Ayato Best Builds Guide
+ABOUT THE AUTHOR
+Written by Jaymo, a longtime gamer who spends way too many hours exploring
+        open worlds, grinding in MMOs, and pulling for his favorite gacha characters.
+        He covers news and guides for all kinds of games, and just likes helping people
+        enjoy them more. You can find him hanging out on Twitch or chatting in Discord (jaym0).
+SUPPORT OUR WRITERS

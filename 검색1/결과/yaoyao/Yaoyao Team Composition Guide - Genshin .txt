@@ -1,0 +1,249 @@
+Yaoyao Team Composition Guide - Genshin Impact
+By
+Elara Leclair
+Updated
+Feb 22, 2024, 1:15 PM EST
+Elara is a passionate List Writer and avid gamer. She loves writing about rpg, simulation, casual co-op games as well as tech and anime. Her current favourite games are Genshin Impact and Honkai: Star Rail.
+Add Us On
+follow
+Follow
+followed
+Followed
+Like
+Like
+Log in
+Here is a fact-based summary of the story contents:
+Try something different:
+Show me the facts
+Explain it like I’m 5
+Give me a lighthearted recap
+Yaoyao
+Dendro
+Polearm
+Liyue
+Guides
+Ascension
+Builds
+Weapons
+Team Comp
+Constellation
+Player Mistakes
+Back to All Characters
+Yaoyao is a beloved Dendro character from Liyue region, who has been teased in very old
+Genshin Impact
+official artwork. In patch 3.4, players finally got the chance to use her in-game. As a Healer, Yaoyao is designed to provide both on-field and off-field healing with her White Jade Radishes. Her versatile healing capabilities make her a great fit for many team compositions.
+Related
+Genshin Impact: Best Team Compositions For Baizhu
+The best Baizhu team comp in Genshin Impact involves characters that can benefit from his top-tier Dendro application.
+Posts
+By
+Nahda Nabiilah
+In
+Genshin Impact
+, it is always beneficial to have a healer with more than just healing abilities. Luckily, Yaoyao is a great choice for this as she can be used as a Dendro Enabler and Battery. Her talent stats are also decent, allowing players to create hybrid builds and use her as sub-DPS
+Dendro reaction
+support if desired.
+Updated on February 22, 2024 by Elara Leclair:
+With the release of the Fontaine region starting from the version 4.0 update and the introduction of many new characters, including those with a variety of mechanics related to HP drain and gain, the utility of some characters like Yaoyao has diminished. This is because there are now characters that synergize better with certain Fontaine characters. However, considering that she is still an excellent healer, players can still find value in using her alongside some Fontaine characters such as Furina. This can be especially useful for players seeking F2P options such as Yaoyao without sacrificing much in terms of overall team power.
+Yaoyao + Furina + Fischl + Lynette
+Players seeking a reliable healer option for Furina may find Yaoyao to be quite beneficial, as she offers team-wide healing without needing to be on the field frequently. While Baizhu may be preferred by some players due to his ability to heal without requiring much field uptime, Yaoyao's access to healing through both her Elemental Skill and Elemental Burst makes her well-suited to counter Furina's HP drain mechanic effectively. Although her Elemental Burst does require some field time, a well-built Yaoyao can quickly restore teammates' HP to full, making it ideal to use immediately after activating Furina's Elemental Burst to quickly accumulate stacks. This way, players will also not need to swap Furina to her healer form, and can benefit from utilizing her as a sub-DPS permanently.
+In addition to Yaoyao, players can create a F2P composition by incorporating characters like Fischl, who can serve as both a battery and an Electro applier. Lynette can fulfill the role of DPS and team leader, benefiting from the different elements of each character for her own passive abilities. Alternatively, Sucrose can be a suitable option instead of Lynette, depending on player preference.
+Team Role
+Yaoyao:
+Healer, Dendro enabler, Battery
+Furina:
+Hydro enabler, Sub-DPS, Buffer
+Fischl:
+Electro enabler, Sub-DPS, Battery
+Lynette:
+DPS, Driver
+Yaoyao + Nilou + Yelan + Nahida
+With the introduction of the 3.4 patch, two new Dendro characters, Alhaitham and Yaoyao, have opened up more options for Nilou teams that focus on Bountiful Cores. While Nahida remains an excellent primary Dendro character option, Yaoyao's inclusion as the first playable Dendro healer in Genshin Impact allows players to have a more consistent and rapid Bountiful Core generation. If players do not have
+Nilou
+, this team may not be able to do as well as other reaction teams due to the difficulty of maximizing damage with Bloom teams when compared to Hyperbloom or Burgeon teams.
+For those without Nahida, Alhaitham and Dendro Traveler are also viable alternatives. For players wanting to add another Hydro character to their team instead of Yelan, Ayato is a great choice. Bountiful Cores can deal an immense amount of damage to the active character, making Yaoyao a great healer to include in the team.
+Team Role
+Yaoyao:
+Healer, Dendro enabler, Battery
+Nilou:
+DPS, Bloom Trigger
+Yelan:
+Hydro enabler, Sub-DPS
+Nahida:
+Sub-DPS, buffer, Dendro enabler
+Yaoyao + Raiden Shogun + Xingqiu + Nahida
+Hyperbloom is a powerful elemental reaction. With its x3 DMG multiplier, Hyperbloom deals significantly more damage to the active character than Bloom when it explodes, meaning that having a healer is highly recommended. To be able to effectively activate Hyperbloom, Nahida, Yaoyao, and Xingqiu must first create the Dendro Cores, which Raiden Shogun then uses to trigger the reaction. It is important to be aware of the sequence in which each element must be activated, as there are many other reactions associated with Quicken that must be taken into account for the desired effect.
+Related
+Genshin Impact: Best Nahida Build Guide
+The best build for Nahida in Genshin Impact is quite complicated as players need to balance her stat out.
+Posts
+By
+Nahda Nabiilah
+Players can change Xingqiu to
+Yelan
+if they wish to do so, and similarly, switch Nahida for any other Dendro character to create a similar Hyperbloom playstyle. Additionally, players can consider having two Hydro units instead of two Dendro units, as the Hydro resonance buff can be beneficial for those who want Yaoyao to scale better with the additional HP. Moreover, it is possible to swap Raiden Shogun for Beidou, Yae Miko, or Fischl; however, the right timing of the application order may become more complicated.
+Team Role
+Yaoyao:
+Healer, Dendro enabler
+Raiden Shogun:
+Electro enabler, Battery, Sub-DPS
+Xingqiu:
+Support, Hydro enabler
+Nahida:
+Sub-DPS, buffer, Dendro enabler
+Yaoyao + Ayato + Thoma + Venti
+Yaoyao is an ideal candidate for the Burgeon team, as her healing abilities can help the active character recover from self-inflicted damage. In this case, Yaoyao and Ayato can generate the necessary Dendro cores, while Thoma triggers the Burgeon reaction. Venti can act as a 'grouper' to bring together the enemies and Dendro-cores for more consistent results. It is possible to swap out Ayato for any other Hydro enabler, while Thoma works very well for Burgeon reaction due to his slow Pyro application, unlike Xiangling, who can potentially interfere with the reactions, causing Vaporize with Ayato instead. For players who would prefer to have a main Pyro-DPS, a team consisting of Yaoyao,
+Hu Tao
+, Xingqiu and Zhongli can also work very well.
+Overall, Yaoyao can fit many teams for the sole purpose of being a healer, but considering her good Dendro application capabilities and battery potential, she is a good choice for most Dendro reactions and is an excellent on-field and off-field Dendro enabler. She can potentially work well in a Burning reaction-focused team as well, however, due to the shortcomings of this reaction, it is not recommended for players to focus on it until a character such as
+Dehya could potentially fix the Burning reaction's issues
+.
+Team Role
+Yaoyao:
+Healer, Battery, Dendro enabler
+Ayato:
+DPS, Hydro Enabler
+Thoma:
+Burgeon trigger (Full EM build)
+Venti:
+Support, Crowd Control
+Yaoyao + Alhaitham + Yae Miko+ Zhongli
+If players are interested in a Spread team composition, Alhaitham and Yaoyao make an ideal combination. In this role, Yaoyao primarily acts as a Dendro enabler and battery, while her Elemental Burst can still provide supplemental healing to cover for Alhaitham's off-field time. Additionally, this team composition allows both Tenacity of the Millelith (on Zhongli) and Deepwood Memories (on Yaoyao) to be present on the team, while Alhaitham can equip Gilded Dreams, resulting in a substantial party-wide buff that will further increase Spread damage.
+Related
+Genshin Impact: Best Team Compositions For Yae Miko
+While not as flexible as Raiden Shogun, Yae Miko can still fit in these team compositions in Genshin Impact.
+Posts
+By
+Nahda Nabiilah
+It is essential to take into account that, for optimal Spread effectiveness, Electro application should be applied before Dendro application over Quicken. Fortunately,
+Yae Miko
+has an excellent Electro application and sub-DPS potential off-field, however, she can be replaced by any other off-field Electro enabler for this team composition. It is also viable to swap Zhongli for Kazuha. As Alhaitham needs to be on-field more often, it is recommended that Yae Miko, Yaoyao, and Zhongli's skills are all activated before transitioning to Alhaitham.
+Team Role
+Yaoyao:
+Healer, Battery, Dendro enabler
+Alhaitham:
+Main DPS, Dendro Enabler
+Yae Miko:
+Sub-DPS, Electro enabler
+Zhongli:
+Buffer, Support, Shielder, Debuffer
+Yaoyao + Tighnari + Fischl + Sucrose
+For players who are searching for a more budget-friendly option, this Aggravate team is an ideal choice, as none of the characters in this composition are limited-banner characters. Similar to the Spread team, Deepwood Memories with either Gilded Dreams or Tenacity of the Millelith
+artifact sets
+on other party members can be utilized, as well as Viridescent Venerer on Sucrose to significantly increase the damage potential.
+This time, to ensure that Aggravate is triggered and maximize Electro damage, Electro should be applied over Quicken. Sucrose can further increase the damage output with Electro Swirl. Both Tighnari and Yaoyao have controllable applications, so this should not be an issue. Alternatively, players may opt for other Electro characters such as Yae Miko or Raiden Shogun, and replace Sucrose with Kazuha. A team consisting of two Dendro and two Electro characters is also a viable option.
+Team Role
+Yaoyao:
+Healer, Battery, Dendro enabler
+Tighnari:
+DPS, Dendro Enabler
+Fischl:
+Sub-DPS, Electro enabler
+Sucrose:
+Support
+8
+/10
+Genshin Impact
+Like
+Follow
+Followed
+RPG
+Action
+Adventure
+Gacha
+Open-World
+Systems
+OpenCritic Reviews
+Top Critic Avg:
+81
+/100
+Critics Rec:
+87%
+Released
+September 28, 2020
+ESRB
+Teen / Alcohol Reference, Fantasy Violence, In-Game Purchases (Includes Random Items), Users Interact
+Developer(s)
+HoYoverse (Formerly miHoYo)
+Publisher(s)
+HoYoverse (Formerly miHoYo)
+6 Images
+Close
+Where to play
+Close
+WHERE TO PLAY
+SUBSCRIPTION
+DIGITAL
+Step into Teyvat, a vast world teeming with life and flowing with elemental energy.
+You and your sibling arrived here from another world. Separated by an unknown god, stripped of your powers, and cast into a deep slumber, you now awake to a world very different from when you first arrived.
+Thus begins your journey across Teyvat to seek answers from The Seven — the gods of each element. Along the way, prepare to explore every inch of this wondrous world, join forces with a diverse range of characters, and unravel the countless mysteries that Teyvat holds...
+MASSIVE OPEN WORLD
+Climb any mountain, swim across any river, and glide over the world below, taking in the jaw-dropping scenery each step of the way. And if you stop to investigate a wandering Seelie or strange mechanism, who knows what you might discover?
+ELEMENTAL COMBAT SYSTEM
+Harness the seven elements to unleash elemental reactions. Anemo, Electro, Hydro, Pyro, Cryo, Dendro, and Geo interact in all sorts of ways, and Vision wielders have the power to turn this to their advantage.
+Will you vaporize Hydro with Pyro, electro-charge it with Electro, or freeze it with Cryo? Your mastery of the elements will give you the upper hand in battle and exploration.
+BEAUTIFUL VISUALS
+Feast your eyes on the world around you, with a stunning art style, real-time rendering, and finely tuned character animations delivering you a truly immersive visual experience. Lighting and weather all change naturally over time, bringing every detail of this world to life.
+SOOTHING SOUNDTRACK
+Let the beautiful sounds of Teyvat draw you in as you explore the expansive world around you. Performed by the London Philharmonic Orchestra, the soundtrack changes seamlessly with the time and gameplay to match the mood.
+BUILD YOUR DREAM TEAM
+Team up with a diverse cast of characters in Teyvat, each with their own unique personalities, stories, and abilities. Discover your favorite party combinations and level up your characters to help you conquer even the most daunting of enemies and domains.
+JOURNEY WITH FRIENDS
+Team up with friends across various platforms to trigger more elemental action, tackle tricky boss fights, and conquer challenging domains together to reap rich rewards.
+As you stand atop the peaks of Jueyun Karst and take in the rolling clouds and vast terrain stretching out before you, you may wish to stay in Teyvat a little longer... But until you are reunited with your lost sibling, how can you rest? Go forth, Traveler, and begin your adventure!
+Genre(s)
+RPG
+,
+Action
+,
+Adventure
+, Gacha,
+Open-World
+Powered by
+Expand
+Collapse
+Video Games
+Genshin Impact
+miHoYo
+Follow
+Followed
+Like
+Share
+Facebook
+X
+WhatsApp
+Threads
+Bluesky
+LinkedIn
+Reddit
+Flipboard
+Copy link
+Email
+Close
+Poll
+POLL
+Which big Capcom franchise is your favorite?
+Mega Man
+Mega Man
+25.1%
+Resident Evil
+Resident Evil
+26.1%
+Monster Hunter
+Monster Hunter
+12.9%
+Street Fighter
+Street Fighter
+11.3%
+Devil May Cry
+Devil May Cry
+12.9%
+Other (A Capcom franchise not listed here)
+Other (A Capcom franchise not listed here)
+11.6%
+See Results
+Submit
+Trending Now
+Man Accused of Stealing $34,000 Worth of LEGOs From Target in Scheme That Involved Pasta
+15 Best Teenage Mutant Ninja Turtles Games, Ranked
+Tomodachi Life: Living the Dream Player is Recreating the Entire Cast of Fire Emblem: Three Houses

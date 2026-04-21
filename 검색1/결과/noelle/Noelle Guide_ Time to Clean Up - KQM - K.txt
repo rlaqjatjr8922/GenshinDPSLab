@@ -1,0 +1,1084 @@
+Written by whisperwalk
+Updated for Version 4.5
+Artist: Hoyoverse
+“Please stay indoors until the storm passes. I will deal with any urgent outdoor business.”
+Display Artwork
+Table of Contents
+Introduction
+Why Play Noelle?
+TL;DR
+Glossary
+FAQ
+Character Overview
+Playstyles
+Talents
+Level and Talent Priority
+Constellations
+Builds
+ER Requirements
+Weapons
+Artifact Sets
+Recommended Builds
+On-Field DPS Without Furina
+On-Field DPS With Furina
+On-Field Support
+Gameplay
+Normal Attacks vs. Charged Attacks
+Combos
+Funneling
+Comfort and Flexibility
+Synergies
+Notable Teammates
+Teams
+Credits
+References
+Introduction
+Noelle is a 4-star Geo Claymore character in
+Genshin Impact
+who deals damage on-field while simultaneously healing, driving, or buffing. Available to all players for free from the Beginner Wish Banner, the Knights of Favonius’ resident maid scales well with investment, providing respectable AoE damage and high survivability via her shield and teamwide healing. This guide examines Noelle’s kit in-depth to help you better understand her best builds, best teams, best weapons, best artifacts, synergies, Talents, Constellations, combos, and more!
+Why Play Noelle?
+Pros
+Superb role consolidation
+Respectable personal damage
+Comfortable healing
+Valuable interruption resistance via her shield
+Viable in a variety of team compositions, not just Mono Geo
+Retains her Geo Conversion, which cannot be overridden, upon swapping out
+Excellent shield-breaking against Geo and heavy shields thanks to being a Claymore user
+C0 is available to all players on the Beginner’s Wish Banner, and her Constellations can be purchased in Paimon’s Bargains in February and August
+Accessible craftable weapon options
+Cons
+Lacks particle generation on her own, necessitating the use of external Energy sources such as a second Geo unit or a Favonius wielder
+Extremely reliant on her Burst to heal and deal significant damage with her Geo-converted attacks
+Limited options for increasing personal damage since Geo-related reactions (Crystallize) do not deal damage
+Slow shield-breaking against Pyro, Hydro, Electro, and Cryo enemy shields, especially compared to their Elemental counters
+Her highest-performing teams require premium 5-star units like Furina and Navia, preventing them from being used on the other side of Spiral Abyss
+TL;DR
+Credits to: cuppacote and KQM Staff
+Glossary
+Show Glossary
+General Terms
+AoE
+Area of effect; range.
+Aura
+The Element currently applied to the enemy or character.
+Battery
+A character who generates and funnels Elemental Particles to recharge the Burst of another character.
+Best-in-Slot (BiS)
+The best option for a character.
+Buffer
+Buffs are effects that positively influence a character’s abilities. Characters who provide buffs are called “buffers."
+C#
+Constellation #.
+DPS
+DPS stands for “damage per second” and can be a synonym for damage dealer.
+Dynamic
+A property of certain abilities (e.g., a Skill or Burst) that uses the character’s stats per instance and modifies damage based on the character’s current stats throughout the entire duration.
+ER%ER%
+Energy Recharge.
+Grouping
+Crowd control; refers to reduction of enemy movement, such as by immobilizing or pulling enemies together.
+Hypercarry
+On-field damage dealer who benefits greatly from multiple teammate buffs and who deals the majority of the team’s damage.
+i-frames
+Short for “invincibility frames,” a window in which characters cannot take damage or become affected by enemy effects.
+Internal Cooldown (ICD)
+“Internal Cooldown” (ICD) is a property of attacks and abilities that limits how often they are able to apply an Element or trigger an effect.
+interruption resistance
+An attribute that determines how easily it is to interrupt or stagger a character.
+NA
+Normal Attack.
+OHC
+Ocean-Hued Clam artifact set.
+Proc
+As a verb, to activate or trigger an effect; as a noun, the activation of the effect or the effect itself.
+Quality of Life (QoL)
+Quality of Life; general improvements to the enjoyability of the game.
+Rotation
+The order in which you use the abilities of all your characters.
+Shred
+Reduction to enemy defensive stats, mainly Elemental RES or DEF, which increases the damage against them.
+Snapshot
+A property of certain abilities (e.g., a Skill or Burst) that uses the character’s stats when cast and continues to use those stats throughout the entire duration, regardless of any buff gained or lost during that time.
+Stacks
+Talent, artifact, or weapon effects that increase or decrease at fixed intervals over time or upon meeting certain conditions.
+TotM
+Tenacity of the Millelith artifact set.
+TTDS
+Thrilling Tales of Dragon Slayers; a 3-star Catalyst that offers a 48% ATK buff at R5 to the teammate that the holder swaps into.
+Combo Notation
+E
+Elemental Skill
+Q
+Elemental Burst
+NA
+Normal Attack
+N#
+Number of Normal Attacks
+C
+Charged Attack
+P
+Plunging Attack
+hP
+High Plunge
+D
+Dash Cancel
+#[Combo]
+Number of times to perform that combo
+FAQ
+Who are Noelle's best teammates?
+Noelle can pair with almost all Geo characters, as they provide her with Geo Resonance and Geo Particles, with the best of these batteries being Navia. However, Noelle is not restricted to Mono Geo teams, since she can work with a wide range of off-field or quickswap DPS units, as well as buffers.
+Noelle’s synergy with Furina is particularly noteworthy because Noelle’s teamwide healing counteracts Furina’s teamwide HP drain. Furina’s pets continuously drain HP from all party members in exchange for a DMG% buff. However, Furina’s HP drain stops at 50% Max HP, which causes her pets to lose damage and prevents additional Fanfare stacks to be gained. Noelle solves these issues with her healing by keeping the team above 50% Max HP to maintain the drain. Furthermore, Noelle’s healing stacks additional Fanfare since it counts as a type of HP change.
+Furina also enables Noelle to effectively use the 4pc Marechaussee Hunter artifact set, which buffs Noelle’s Normal and Charged Attacks and increases her CRIT Rate.
+Furina
+Drains team HP
+Deals off-field Hydro damage
+Provides a DMG% buff
+Noelle
+Heals team HP
+Deals on-field Geo damage
+Provides a shield
+Does Noelle need Redhorn Stonethresher?
+Serpent Spine and Whiteblind are also highly competitive DPS options, though many dedicated Noelle mains have Redhorn Stonethresher.
+In terms of Primogem value, you should prioritize pulling Noelle’s most synergistic teammates like Furina and Navia. Redhorn Stonethresher increases Noelle’s personal damage, but Furina’s teamwide buff improves the entire team’s damage. As for Navia, she is not only Noelle’s best Geo battery but also has very high nuke damage on her Elemental Skill.
+Does Noelle need to be Level 90 and Constellation 6?
+Nothing is truly necessary, but, as a DEF-scaling unit, Noelle benefits more from Level 90 than a typical ATK-scaling unit. Noelle’s Constellation 6 is also a huge personal damage increase, but it is not necessary in order to reach 36 Stars in the Spiral Abyss.
+Without Constellation 6 or Level 90, Noelle can still meet damage checkpoints as an on-field DPS unit (albeit slower), or she can switch to an on-field healer, driver, or buffer playstyle. She is one of the best users of the 4pc Archaic Petra artifact set, which provides a 35% Elemental DMG Bonus to the team for 10s when its wearer picks up a Crystallize shard of the matching Element.
+Character Overview
+Playstyles
+On-Field DPS
+Noelle is most commonly an on-field DPS unit who dishes out significant damage while simultaneously offering defensive utility via her shield and teamwide healing. The hybrid nature of her kit results in role consolidation, combining what would otherwise be two characters into a single unit.
+These strengths are balanced by Noelle’s long field time requirements and the inability to generate any Energy on her own. Noelle must be externally supplied with Energy from particles generated by her teammates and enemies.
+Off-Field DPS
+Noelle can sacrifice personal damage to focus on the supportive aspects of her kit such as healing, shielding, and buffing through 4pc Archaic Petra. The 4pc Archaic Petra set provides a 35% Elemental DMG Bonus to the team for 10s when its wearer picks up a Crystallize shard of the matching Element.
+In this supportive playstyle, Noelle can equip Favonius Greatsword to generate particles and lower the entire team’s ER requirements. Her Normal Attacks trigger abilities from off-field units such as Yelan, Xingqiu, C6 Fischl, and Beidou. Noelle still protects her team via her shield and healing, but her personal damage is not as high as in the on-field DPS playstyle.
+Talents
+Normal Attack
+Elemental Skill
+Elemental Burst
+Ascension 1 Passive
+Ascension 4 Passive
+Utility Passive
+Normal Attack
+Normal Attack |
+Favonius Bladework - Maid
+Talent Description
+Normal Attack
+Performs up to 4 consecutive strikes.
+Charged Attack
+Drains Stamina over time to perform continuous spinning attacks against all nearby opponents.
+At the end of the sequence, performs a more powerful slash.
+Plunging Attack
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Noelle’s Normal or Charged Attacks are the main source of her damage. Her Normal Attack string consists of three broad horizontal slashes followed by a vertical downward slash, with the last slash taking significantly more time to perform than the initial three. The fourth attack in the combo is often skipped because of its tendency to knock enemies backwards. In general, N3D is the most common Normal Attack combo and is recommended when fighting against more than one target. In single-target scenarios or for raw damage, N4D is stronger than N3D. Aside from dash cancels, swap cancels and Skill cancels are also possible.
+Noelle’s Burst converts her Normal and Charged Attacks to Geo, and they have no Internal Cooldown (ICD). Thus, Noelle can rapidly generate Crystallize shards, although there is still a global limit of 1 Crystallize reaction per second per enemy. Crystallize shields serve as backup when her main shield is expired and on cooldown. They also serve as ammo for Navia, increasing her Skill damage.
+Noelle Normal Attack Demonstration
+Noelle’s Charged Attack consists of a short delay followed by a long spinning animation. This animation normally only lasts for several seconds, but opening an in-game menu, such as the Adventurer Handbook (often known as the “book trick”), during the delay causes the Charged Attack to last indefinitely until Noelle runs out of Stamina.
+Charged Attacks or N3D combos are recommended in AoE scenarios, while N4D combos are preferred in single-target scenarios.
+Noelle Charged Attack with Book Trick Demonstration
+Elemental Skill
+Elemental Skill |
+Breastplate
+Talent Description
+Summons protective stone armor, dealing Geo DMG to surrounding opponents and creating a shield. The shield's DMG Absorption scales based on Noelle's DEF.
+The shield has the following properties:
+- When Noelle's Normal and Charged Attacks hit a target, they have a certain chance to regenerate HP for all characters.
+- Possesses 150% DMG Absorption efficiency against all Elemental and Physical DMG.
+The amount of HP healed when regeneration is triggered scales based on Noelle's DEF.
+Noelle’s Elemental Skill generates a shield that offers appreciated utility via its interruption immunity, damage mitigation, and ability to enable Geo Resonance. This shield is very durable thanks to its DEF scaling and 150% DMG Absorption efficiency. The shield lasts 12s with a 24s cooldown, but the cooldown can be reduced by Noelle’s Ascension 4 Passive.
+While under the effect of this shield, Noelle’s Normal Attacks, Charged Attacks, Burst cast, and Skill damage have a 58% chance (C0 TL9) to heal all characters in your party, increasing the team’s resilience even further and counteracting effects such as Corrosion and Furina’s HP drain.
+Casting Noelle’s Skill does not generate Geo Particles, so she requires external sources of Energy to recharge her Burst.
+Noelle Skill and Burst Demonstration
+Elemental Burst
+Elemental Burst |
+Sweeping Time
+Talent Description
+Gathering the strength of stone around her weapon, Noelle strikes the opponents surrounding her within a large AoE, dealing Geo DMG.
+Afterwards, Noelle gains the following effects:
+- Larger attack AoE.
+- Converts attack DMG to Geo DMG that cannot be overridden by any other elemental infusion.
+- Increased ATK that scales based on her DEF.
+Noelle’s Burst deals Geo damage on cast, buffs her ATK by a percentage of her DEF, and converts her Normal Attack Talent into Geo. Noelle snapshots this ATK buff, so changes to Noelle’s DEF after casting her Burst do not alter the amount of ATK she receives. Noelle’s Geo-converted attacks have a significantly longer range than her Physical attacks.
+Noelle’s Burst has a base duration of 15s, which can be extended further by her Constellation 6. The Geo Conversion from Noelle’s Burst persists even if she swaps off-field. This allows Noelle to cast her Burst, perform Geo-converted attacks, swap to other teammates, then swap back to continue dealing Geo damage. The Geo Conversion cannot be overridden by other Elemental Infusions.
+Noelle Skill and Burst Demonstration
+Ascension 1 Passive
+Ascension 1 Passive |
+Devotion
+Talent Description
+When Noelle is in the party but not on the field, this ability triggers automatically when your active character's HP falls below 30%:
+Creates a shield for your active character that lasts for 20s and absorbs DMG equal to 400% of Noelle's DEF.
+The shield has a 150% DMG Absorption effectiveness against all Elemental and Physical DMG.
+This effect can only occur once every 60s.
+Noelle’s A1 Passive rarely activates due to her strong shield and healing, but it can save a party member’s life in emergency situations. It triggers if the active character falls below 30% Max HP, but it doesn’t protect against one-hit kills. This shield persists even if the character swaps out.
+This ability should not be relied upon as it has a very long cooldown.
+Ascension 4 Passive
+Ascension 4 Passive |
+Nice and Clean
+Talent Description
+Every 4 Normal or Charged Attack hits will decrease the CD of Breastplate by 1s.
+Hitting multiple opponents with a single attack is only counted as 1 hit.
+Noelle’s A4 Passive allows her Normal and Charged Attacks to reduce her Skill cooldown by 1s for every 4th hit. This is valuable in maintaining shield, healing, and Geo Resonance uptime in teams without another shielder.
+Utility Passive
+Utility Passive |
+Maid's Knighthood
+Talent Description
+When a Perfect Cooking is achieved on a DEF-boosting dish, Noelle has a 12% chance to obtain double the product.
+Noelle’s defensive abilities extend all the way into cooking dishes that boost DEF. Food cannot be eaten in Spiral Abyss, so Noelle’s Utility Passive only has overworld applications.
+Level and Talent Priority
+>
+>>
+Normal Attack > Burst >> Skill
+Noelle’s Normal Attacks constitute the vast majority of her damage output and thus take priority for a damage-oriented playstyle. Her Burst grants her a massive amount of ATK based on her DEF, which in turn strengthens her Normal and Charged Attacks, so it should be leveled next. Lastly, Noelle’s Skill Talent level is the lowest priority, but it is still useful for its increase to her defensive utility.
+As a DEF scaler, Noelle benefits from character levels more than an ATK scaler since Base DEF is only accessible via character levels. Therefore, raising Noelle to Level 90 results in a nice damage increase.
+Constellations
+Constellation 1
+Constellation 2
+Constellation 3
+Constellation 4
+Constellation 5
+Constellation 6
+Constellation 1
+Constellation 1 |
+I Got Your Back
+While Sweeping Time and Breastplate are both in effect, the chance of Breastplate's healing effects activating is increased to 100%.
+Despite a negligible change in team DPS, Noelle’s C1 makes her healing more reliable while her Burst is active. In Furina teams, this Constellation accelerates the accumulation of Fanfare stacks for Furina’s buffs, greatly increasing the synergy between these two characters.
+Constellation 2
+Constellation 2 |
+Combat Maid
+Decreases the Stamina Consumption of Noelle's Charged Attacks by 20% and increases her Charged Attack DMG by 15%.
+Noelle’s C2 provides a significant buff to Charged Attack playstyles, but it has no impact on her Normal Attack playstyle.
+Constellation 3
+Constellation 3 |
+Invulnerable Maid
+Increases the Level of Breastplate by 3.
+Maximum upgrade level is 15.
+Increases the Talent level of Noelle’s Skill, which improves her shield durability and healing potential. Indirectly, this can improve damage and consistency if Noelle plays with Furina, due to the stronger teamwide healing and shield durability. Noelle reaches most of her potential as a driver for Furina at this Constellation. Noelle’s remaining Constellations focus on improving her personal damage.
+Constellation 4
+Constellation 4 |
+To Be Cleaned
+When Breastplate's duration expires or it is destroyed by DMG, it will deal 400% of Noelle's ATK of Geo DMG to surrounding opponents.
+While often overlooked, Noelle’s C4 represents a fairly substantial nuke when her shield expires naturally, is recast before the previous shield has expired, or after sustaining damage beyond its absorption limit. This Constellation’s effect is denoted by a distinct “pop” sound, which can be used as a signal to perform a Dragonstrike.
+Noelle Dragonstrike Demonstration
+Constellation 5
+Constellation 5 |
+Favonius Sweeper Master
+Increases the Level of Sweeping Time by 3.
+Maximum upgrade level is 15.
+Increases Noelle’s Burst Talent level. This Constellation greatly improves Noelle’s DEF to ATK conversion, thus raising the damage of her Normal and Charged Attacks. With this Constellation, DEF% main stats and substats become even more valuable, improving all aspects of her kit at once.
+Constellation 6
+Constellation 6 |
+Must Be Spotless
+Sweeping Time increases Noelle's ATK by an additional 50% of her DEF. Additionally, every opponent defeated during the skill's duration adds 1s to the duration, up to 10s.
+The ultimate Constellation for Noelle. Noelle’s C6 greatly increases her personal damage and provides a reliable way to extend her Burst duration. Contrary to the in-game description, Noelle does not need to defeat opponents to gain the time extension. Instead, she only needs to be off-field when her Burst expires to gain the full duration extension of 10s. This tech means that Noelle can reliably acquire 25s of Geo-converted attacks, even in single target.
+Noelle gains significant value from Constellations, especially her C6. The following Noelle personal damage gains are benchmarked against Noelle’s competitive team scenarios. The value of Noelle’s Constellations varies by team. For example, in teams without Furina, there is usually no increase in DPS between C0 and C1. To determine Constellation DPS improvements for your specific team, consider using
+Genshin Optimizer
+.
+Calcs for Constellation DPS increases can be found
+here
+.
+Furina + Navia
+Gorou
+Furina + Gorou
+Constellation
+vs. C0
+vs. Previous
+vs. C0
+vs. Previous
+vs. C0
+vs. Previous
+C1
+0.5%
+0.5%
+0%
+0%
+0.5%
+0.5%
+C2
+0.5%
+0%
+0%
+0%
+0.5%
+0%
+C3
+2%
+1.5%
+1%
+1%
+1.5%
+1%
+C4
+29%
+26.5%
+15%
+14%
+16%
+14.5%
+C5
+41.5%
+9.5%
+28.5%
+11.5%
+28.5%
+10.5%
+C6
+87%
+32%
+77.5%
+38.5%
+75%
+36.5%
+Builds
+Artist: Hoyoverse
+"
+In my job, I do the exact same things every day — a far cry from being a true knight, that's for sure. But ultimately, this is all part of my training, and when it comes to training, actions speak louder than words.
+"
+ER Requirements
+Noelle generates no Energy of her own, so she needs to recharge her Burst from external sources like her teammates and Favonius weapons. DPS Noelle should not build high ER% since it significantly reduces her personal damage. Instead, her team should ensure Noelle receives enough Energy to use her Burst every rotation.
+Support Noelle has less dependency on her personal damage and can afford to run Favonius Greatsword to significantly lower her ER requirements.
+The ER requirements provided are only a rough estimate. Use the
+Energy Recharge Calculator
+to determine exact requirements for your team and rotation.
+Scenario
+ER Requirements
+Triple Geo
+110–140%
+Double Geo (With Navia)
+120–150%
+Double Geo (With High Energy Unit, e.g., Fischl / Fav Yelan)
+120–150%
+Solo Geo (With Favonius Greatsword)
+200–245%
+Stat Priorities
+Sands
+Goblet
+Circlet
+DEF%
+Geo DMG% or DEF%
+CRIT or DEF%
+Substat Priority:
+ER% (until requirement) > CRIT > DEF% > ATK% > Flat DEF > Flat ATK
+Furina
+In teams with Furina, it is vital for Noelle to have sufficient DEF to heal comfortably and counteract Furina’s teamwide HP drain. It also increases the durability of Noelle’s shield, which is important as she loses the ability to heal when it breaks. Since DEF is so vital, a DEF% Goblet or Circlet may be necessary if the DEF% from artifact substats is insufficient.
+Without Furina, Noelle should be optimized towards higher personal damage. This nearly always leads to the simple route of DEF% Sands, Geo DMG% Goblet, and CRIT Circlet.
+KQM recommends using
+Genshin Optimizer
+to generate the best build based on your actual artifacts.
+Building ATK
+Despite DEF being the main focus of Noelle’s builds, her personal damage technically scales on ATK (Noelle’s Burst merely adds a portion of her DEF stat as a Flat ATK buff). Therefore, building ATK still increases Noelle’s personal damage, although this diminishes shield durability and healing.
+At C0, Burst Level 9+, and using Whiteblind R1 (KQM standards), DEF outpaces ATK, so it is recommended to focus on the DEF stat. ATK is only useful as a placeholder while Noelle is being built, as her final build favors DEF.
+Noelle’s DEF to ATK conversion depends on her Burst Talent level, with Noelle’s C6 adding another 50% to the table shown below.
+Burst Level
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+Flat ATK Bonus (% DEF)
+40%
+43%
+46%
+50%
+53%
+56%
+60%
+64%
+68%
+72%
+76%
+80%
+85%
+With C6
+90%
+93%
+96%
+100%
+103%
+106%
+110%
+114%
+118%
+122%
+126%
+130%
+135%
+Weapons
+Weapon rankings can differ from the estimates provided when using different teams or assumptions from the ones stated below. To generate personalized weapon rankings for your specific team, it is recommended to use a tool such as
+Genshin Optimizer
+.
+Click Here for Weapon DPS Comparisons
+Assumptions: Furina + Navia + Noelle (120% ER), Gorou (110% ER), Furina + Gorou (110% ER). In Furina teams, Noelle uses the 4pc MH set. In teams without Furina, Noelle uses the 4pc Husk set. The baseline weapon for 100% is 4pc Whiteblind R1.
+Weapon
+Furina + Navia
+Gorou
+Furina + Gorou
+Assumptions
+Redhorn Stonethresher
+R1
+: 129%
+R5
+: 152%
+R1
+: 135%
+R5
+: 153%
+R1
+: 131%
+R5
+: 157%
+Unconditional passive.
+Serpent Spine
+R1
+: 114%
+R5
+: 124%
+R1
+: 120%
+R5
+: 130%
+R1
+: 116%
+R5
+: 125%
+Full uptime on 5 stacks. Prestack before abyss starts
+Verdict
+R1
+: 110%
+R5
+: 118%
+R1
+: 109%
+R5
+: 114%
+R1
+: 110%
+R5
+: 116%
+Passive is at 2 stacks when the C4 shield pops.
+Beacon of the Reed Sea
+R1
+: 108%
+R5
+: 110%
+R1
+: 113%
+R5
+: 115%
+R1
+: 109%
+R5
+: 111%
+Passive applies to first 6 NAs after E or C4 shield pop.
+Skyward Pride
+R1
+: 108%
+R5
+: 124%
+R1
+: 103%
+R5
+: 115%
+R1
+: 93%
+R5
+: 111%
+Assumes 8 vacuum blades, reduced ER% .
+Whiteblind
+R1
+: 100%
+R5
+: 103%
+R1
+: 100%
+R5
+: 102%
+R1
+: 100%
+R5
+: 103%
+Dynamic stack gain, no pre-stacking.
+Unforged
+R1
+: 97%
+R5
+: 103%
+R1
+: 101%
+R5
+: 106%
+R1
+: 102%
+R5
+: 108%
+Dynamic stack gain, no pre-stacking, 100% shield uptime.
+Blackcliff Slasher
+R1
+: 98%
+R1
+: 103%
+R1
+: 100%
+Assumes 0 stacks.
+Talking Stick
+R1
+: 96%
+R5
+: 96%
+R1
+: 101%
+R5
+: 101%
+R1
+: 100%
+R5
+: 100%
+Assumes 0 stacks.
+Wolf’s Gravestone
+R1
+: 94%
+R5
+: 97%
+R1
+: 99%
+R5
+: 102%
+R1
+: 99%
+R5
+: 102%
+Assumes passive not triggered.
+Tidal Shadow
+R1
+: 93%
+R5
+: 97%
+R1
+: 95%
+R5
+: 98%
+R1
+: 95%
+R5
+: 98%
+Assumes 100% healing uptime after 1st NA.
+Ultimate Overlord’s Mega Magic Sword
+R5
+: 92%
+R5
+: 92%
+R5
+: 91%
+Assumes all Melusines are helped, reduced ER%.
+Favonius Greatsword
+R1
+: 63%
+R1
+: 87%
+R1
+: 85%
+Reduced ER Reqs
+Redhorn Stonethresher
+Redhorn Stonethresher is the BiS weapon for Noelle’s personal damage. It fully supports both her Normal Attack and Charged Attack playstyle. Highly recommended as the premium option for dedicated Noelle mains.
+Serpent Spine
+Serpent Spine is a very competitive option, though it requires pre-stacking the passive by waiting 20s with Noelle in the first slot before starting an Abyss Chamber. Recommended if buying the Battle Pass, as it can surpass all 5-star options except Redhorn.
+Verdict
+Verdict is surprisingly good, due to its high Base ATK and CRIT Rate secondary stat. The passive provides Skill DMG Bonus, which increases damage from the C4 shield pop significantly. However, this weapon is better suited to its signature owner, Navia, who can also be played in Noelle teams. Not worth pulling just for Noelle.
+Beacon of the Reed Sea
+Beacon of the Reed Sea is a usable 5-star stat stick, but it is difficult for Noelle to consistently gain the ATK% from the passive. Additionally, Noelle's healing is dependent on her shield uptime, but this weapon incentivizes running without a shield. It is not recommended to use this weapon.
+Skyward Pride
+Noelle can easily proc all 8 of Skyward Pride’s vacuum blades, and it reduces her ER requirements as well. At high ER requirements, it can overtake the above weapon options.
+Whiteblind
+Whiteblind is the free-to-play craftable option for Noelle thanks to its high DEF% secondary stat. This is a great starter weapon and scales well with refinements. At R5, it is pretty close to 5-star weapon options.
+Unforged
+While Noelle can proc the Unforged’s passive easily and maintain shield uptime, Noelle prefers CRIT and DEF, so this weapon is better used on other ATK-scaling characters.
+Blackcliff Slasher
+Blackcliff Slash is available from Paimon’s Bargains, but it doesn’t scale well with refinements and loses to a refined Whiteblind. It is not worth spending Starglitter to buy this weapon.
+Talking Stick
+Noelle teams rarely proc Talking Stick’s passive, so it is not recommended. In terms of Battle Pass options, you should stick with Serpent Spine.
+Wolf’s Gravestone
+Since Noelle prefers CRIT and DEF, Wolf’s Gravestone is better used on other characters.
+Tidal Shadow
+Tidal Shadow is a craftable option for which Noelle can maintain good uptime on the passive with her Normal Attack healing.
+Ultimate Overlord’s Mega Magic Sword
+Ultimate Overlord’s Mega Magic Sword is an event-exclusive weapon obtainable in Version 4.2. It helps with ER requirements and is more viable at high ER requirements. You must help Melusines to maximize its passive’s effect.
+Favonius Greatsword
+Favonius Greatsword is the preferred option in Solo Geo teams where Noelle serves as a healer, driver, or buffer, typically in conjunction with 4pc Archaic Petra. Its particle generation significantly reduces her ER requirements in such scenarios. It is not recommended for DPS Noelle.
+Artifact Sets
+Artifact set rankings are only meant to be rough estimates and can differ from the estimates provided when using different teams or assumptions from the ones stated below. Additionally, substat quality matters when comparing sets: a worse set with better substats outperforms a better set with worse substats if the sets already perform close to one another. To generate personalized artifact set rankings, it is recommended to use tools such as
+Genshin Optimizer
+.
+Assumptions: Furina + Navia + Noelle (120% ER), Gorou (110% ER), Furina + Gorou (110% ER). The baseline artifact set for 100% is 4pc Gladiator’s Finale.
+Artifact
+Furina + Navia
+Gorou
+Furina + Gorou
+Notes
+4pc Marechaussee
+Hunter
+115%
+N/A
+114%
+4pc Marechaussee Hunter is the best set to use when Noelle is paired with Furina. The Domain is very Resin-efficient, and it is highly recommended to farm for Noelle-Furina players.
+4pc Husk of
+Opulent Dreams
+112%
+108%
+108%
+4pc Husk of Opulent Dreams is the best general-use set.
+In Furina teams, 4pc Husk is comparable to 4pc Marechaussee Hunter but performs slightly worse and has a Resin-inefficient Domain. If players choose to use this set, it is preferable to use the Strongbox than to farm the Domain.
+If Noelle has Serpent Spine equipped, prioritize the weapon stacks over this 4pc set bonus. Otherwise, Noelle needs to remain off-field for 12s to fully stack the 4pc set bonus before starting an Abyss chamber.
+4pc Nighttime
+Whispers in the
+Echoing Woods
+107%
+103%
+103%
+The set is meant for Navia, but Noelle enjoys some of its effects, such as the 18% ATK and the Geo DMG Bonus. However, it is not recommended to farm this set for Noelle.
+4pc Gladiator’s
+Finale
+100%
+100%
+100%
+Gladiator is an easy-to-collect set that can be passively farmed from bosses. Its 4pc effect is also always active, but it holds no value to her Charged Attack playstyle. Since this set is so accessible, it may be easier to obtain good substats, and so the gap between Gladiator and other sets may be smaller in practice.
+4pc Retracing
+Bolide
+98%
+99%
+99%
+4pc Retracing Bolide is not worth farming. It performs just slightly worse than 4pc Gladiator’s Finale.
+2pc Mixed Sets
+93-102%
+89-99%
+91-99%
+2pc Options: Archaic Petra, Marechaussee Hunter, Husk of Opulent Dreams, ATK%
+A mix-and-match set of 2pc effects can be used if they have better substats than 4pc sets. They are also viable placeholder options while farming 4pc sets.
+4pc Archaic Petra
+61%
+N/A
+N/A
+Main Stats: ER% | DEF% | DEF% (200% ER requirement)
+4pc Archaic Petra is a significant personal DPS loss for Noelle, but it is used for the 35% Elemental DMG Bonus upon picking up a Crystallize shard. Relevant only if Noelle is played as an on-field healer, driver, or buffer.
+Teams with Gorou imply DPS Noelle, so these teams are not calculated in the comparison.
+Recommended Builds
+On-Field DPS Without Furina
+Artifact Set
+Sands
+Goblet
+Circlet
+Notes
+4pc Husk of Opulent Dreams
+DEF%
+Geo DMG%
+CRIT
+Best generalist set.
+4pc Gladiator’s Finale
+DEF%
+Geo DMG%
+CRIT
+Easy-to-obtain set from overworld bosses.
+In Noelle’s standard playstyle as an on-field DPS, she should use artifacts that maximize her personal damage. Geo DMG% and CRIT increase her personal damage the most, followed by DEF%.
+The main stat combination that leads to the highest Noelle damage is
+DEF% Sands, Geo DMG% Goblet, and CRIT Circlet
+. This is the recommended build for
+teams without Furina
+. However, Furina makes the scenario much more complicated.
+On-Field DPS With Furina
+Artifact Set
+Sands
+Goblet
+Circlet
+Notes
+4pc Marechausee Hunter
+DEF%
+Geo DMG% / DEF%
+CRIT / DEF%
+Best-in-Slot. Needs Furina to maintain full stacks. Provides high DEF for healing.
+Furina and Noelle complement each other’s kits quite well: Noelle’s healing counteracts Furina’s teamwide HP drain and stacks Fanfare. Her healing and shield strength scales on her DEF% stat. If her shield breaks, no healing can take place. Thus, a high DEF stat becomes important in Noelle-Furina teams.
+It is recommended for Noelle to have around ~2000 DEF in Furina teams. This is sufficient for normal circumstances, but the DEF recommendation increases when facing more difficult opponents. Here are strategies to achieve higher DEF (listed in preferential order):
+DEF% substats on artifacts
+DEF% buffers (Gorou)
+DEF% Circlet
+DEF% Goblet
+If one is unable to obtain sufficient DEF via artifact substats or buffers, the recommended alternative main stat combination
+for Furina teams only
+is
+DEF% Sands, Geo DMG% Goblet, and DEF% Circlet
+.
+Note: Calcs below are dependent on assumptions listed. Factors such as C1+ Furina can change these numbers. Replacing Whiteblind with CRIT weapons, such as Redhorn Stonethresher or Serpent Spine, causes DEF% Circlets to pull even further ahead than DEF% Goblets. KQM recommends using tools such as
+Genshin Optimizer
+to verify your actual build and teams.
+Assumptions:
+C0 Furina + Navia + C6 Noelle (120% ER), Furina + Gorou + C6 Noelle (110% ER). Noelle uses the 4pc Marechaussee Hunter and R5 Whiteblind.
+Sands
+Goblet
+Circlet
+Furina + Navia
+Furina + Gorou
+DEF%
+Geo DMG%
+CRIT DMG
+100%
+100%
+DEF%
+Geo DMG%
+DEF%
+93%
+94%
+ATK%
+Geo DMG%
+CRIT DMG
+92%
+94%
+DEF%
+DEF%
+CRIT DMG
+89%
+89%
+DEF%
+DEF%
+DEF%
+81%
+83%
+On-Field Support
+In Noelle’s on-field support playstyle, you should use artifacts that maximize Noelle’s healing while also meeting her ER requirements. Noelle’s personal damage is less of a concern.
+Noelle is one of the best wielders of the 4pc Archaic Petra set, as meeting the conditions of this set is difficult for other units such as Zhongli or Albedo: the 4pc set effect requires the wielder to pick up a Crystallize shard, which is inconvenient for off-field units who want to minimize their field time. As an on-field unit, Noelle does not need to minimize her field time. Even if a Crystallize shard spawns far away, she creates new shards with every Geo-converted Normal Attack.
+Artifact Set
+Sands
+Goblet
+Circlet
+Notes
+4pc Archaic Petra
+ER% or DEF%
+DEF%
+DEF%
+4pc Archaic Petra sacrifices personal damage to provide a 35% Elemental DMG Bonus to teammates.
+Gameplay
+Normal Attacks vs. Charged Attacks
+Also known as: to spin or not to spin?
+The choice between using Noelle’s Normal Attack (NA) combo or Charged Attacks (CA) is more practical than theoretical. It is advised not to get caught up in MV/s, theoretical DPS ceilings, or ideal scenarios; instead, you should try both strategies and pick the one that yields better results. Strong Noelle players master both and know when to switch strategies when the scenario calls for it.
+Charged Attacks are better when:
+Noelle is surrounded by multiple enemies
+Healing is desired (e.g., for Furina Fanfare stacks)
+Noelle can stay on-field long enough to finish an uninterrupted spin combo
+You use Redhorn Stonethresher (the Base DMG Bonus procs more often on Noelle’s quickly-spinning Charged Attacks).
+Normal Attacks are better when:
+You are facing one enemy or a few enemies immediately in front of Noelle
+Noelle has to swap frequently
+You are good at canceling Noelle’s NAs to reduce animation time and increase DPS.
+Note that some teammates discourage Charged Attacks as their abilities trigger on Normal Attacks (e.g., Yelan, Yun Jin). Therefore, the choice between Noelle’s Normal Attack playstyle and Charged Attack playstyle must also be considered when assembling the team.
+Combos
+N3D
+This combo is best used in AoE content.
+N4D
+This combo is ideal in single-target scenarios or when four hits are just enough to defeat the enemy.
+C
+Noelle’s spin-to-win Charged Attacks extended by “booking.”
+Normal Attack combos include a dash cancel (D); however, other cancels are possible, including Skill and swap cancels.
+How to “Book”:
+Begin CA animation.
+Open the Adventurer Handbook, Map, or Wish Menu, i.e., any action that pauses the game.
+Close the menu.
+Noelle’s CA now lasts until she runs out of Stamina.
+Without this tactic, Noelle’s CA only lasts for up to 5s before stopping.
+Funneling
+Noelle’s Burst uptime is vital for her damage, so it is important to understand the concept of funneling. Instead of casting Noelle’s Burst and going
+unga bunga
+, a teammate can generate particles just before switching to Noelle. The particles travel mid-air, reaching Noelle after she casts her Burst. In rotation notation this looks like: Character (Q) E > Noelle Q E. Performing this funnel correctly means that Noelle does not start with an “empty tank” of Energy, thus reducing the work needed to recharge her Burst.
+Noelle does not lose her Geo-converted attacks upon swapping out. As such, you can freely swap out to a teammate, generate particles, and swap back to Noelle in time to catch the particles. In rotation notation this looks like: Noelle combo > Character E > Noelle combo.
+Noelle Energy Funneling Examples
+Comfort and Flexibility
+Noelle’s tendency to build high DEF complements her shield, reducing damage taken to it and increasing its damage absorption to ensure it does not break before expiring. While the shield is active, it also provides the team with interruption resistance, which prevents the enemy from interrupting the on-field character’s attacks and abilities.
+Noelle can invest all her teammate slots into off-field DPS units or buffers since she does not need defensive support. This is in contrast to characters like Ganyu or Yoimiya who often commit a full team slot to dedicated shielders and interruption resistance.
+Noelle also does not lose her Geo-converted attacks upon swapping out, making rotations a lot more forgiving. Most other DPS units lose their Infusion or enhanced state immediately upon swapping out, incentivizing the player to stay on that character until their duration expires. Noelle’s ability to switch to other units while still maintaining her Geo-converted attacks gives her an advantage in adapting to the enemy’s status and actions. Thus, she can deviate from her usual rotation without incurring a DPS loss.
+Lastly, Noelle’s healing provides a second layer of protection for difficult phases of Spiral Abyss, such as floors with Corrosion.
+Shield Breaking
+As a Claymore unit, Noelle deals Blunt, Geo damage, which is very effective at breaking Geo and Heavy shields. Her Charged Attack also hits frequently.
+However, Energy can be a concern in Spiral Abyss Chambers with enemy shields , as Favonius weapons do not proc against shields. This can be mitigated by using strong Geo batteries like Navia, who can sufficiently battery Noelle without the need for Favonius weapons.
+Synergies
+Artist: Hoyoverse
+Notable Teammates
+Geo
+Hydro | Electro | Pyro | Cryo
+Anemo | Dendro
+Geo
+Navia
+Navia is one of Noelle’s best partners. Navia can use up to 3 Elemental Skills per rotation, generating an impressive amount of Geo Particles to significantly lower Noelle’s ER requirements. Additionally, Noelle’s Geo-converted attacks lack ICD, which allows her to generate Crystallize shards to further boost Navia’s Skill damage.
+While you shouldn’t perform too many swaps in a rotation, Navia’s high personal damage makes up for this issue. Additionally, Navia does not summon Geo Constructs like many other Geo units, which enables more flexible movement and positioning during combat.
+Lastly, when paired together, you don’t have to rely on Favonius weapons, since Navia generates more than enough Geo Particles to comfortably recharge Noelle’s Elemental Burst in time.
+Chiori
+Chiori does not provide any buffs to Noelle but serves as a battery and off-field DPS unit. Her Skill summons 1 Tamoto doll by default, but if a Geo Construct is present or created or if you have Chiori’s C1, a second Tamoto is summoned.
+Chiori’s damage contribution depends on how many dolls she summons. With 1 Tamoto, she is comparable to Albedo, but with additional dolls, she outperforms him. Her Geo Particle generation and off-field damage is more consistent, and her damage ceiling scales better with investment. Moreover, Albedo’s Solar Isotoma can be destroyed by bosses and large enemies. As such, she is preferred over Albedo.
+Chiori has additional quality-of-life factors: her initial Skill teleports to the enemy, and a second Skill instantly swaps to the next unit. Lastly, her Burst deals modest damage over a wide area. When strategically cast at the final second of C6 Noelle’s Burst duration, it will extend Noelle’s Burst duration from 15s to 25s.
+Albedo
+Albedo summons a Geo Construct with his Skill that deals significant damage and generates Geo Particles. This allows him to act as both a battery and an off-field damage dealer. However, his damage is reliant on his Geo Construct not breaking, so you should carefully place his Skill. In most cases, this means placing it behind you away from the enemy.
+Albedo’s advantage over other units is his fast animations and long Skill duration of 30s, meaning he takes less field time in comparison. It is not recommended to use Albedo’s Burst unless he is C2.
+Gorou
+Gorou provides DEF buffs to Noelle, which is immensely helpful to multiple aspects of her kit. To maximize his buffs, Gorou requires a party consisting of three Geo characters, but he can also work in Double Geo teams. Gorou’s C6 is particularly valuable, as it provides up to a 40% CRIT DMG buff to Geo damage. Gorou should equip Favonius Warbow and 4pc The Exile to help battery Noelle’s Burst.
+Noelle’s Burst snapshots her current DEF on cast and converts it to Flat ATK, so she continues to enjoy the benefits of Gorou’s buff even after it has expired. The exception is Gorou’s C6, which does not snapshot and therefore should be refreshed throughout Noelle’s Burst duration with Gorou’s Skill.
+Yun Jin
+Yun Jin provides an Additive Base DMG Bonus to Noelle’s Normal Attacks, with a quota limit of 30 damage instances per Burst. In typical rotations, this buffs 9–10 of Noelle’s Normal Attacks and is sufficient when there are 3 or fewer enemies. However, it can run out in multi-target scenarios with 4 or more enemies. Yun Jin also discourages Noelle from using her Charged Attacks, so she limits Noelle’s flexibility. Yun Jin should use Favonius Lance to help battery both Noelle’s and her own Burst.
+Yun Jin’s C6 buffs Normal Attack SPD, but this has minimal impact on Noelle due to hitlag and can mess with the timing of procs from units like Yelan.
+Kachina
+Kachina is a new option for Noelle teams, being a Natlan unit with the ability to fully utilize the artifact set, Scroll of the Hero of Cinder City. This set buffs the entire team by 40% damage for 20 seconds, and its buff can be refreshed from off field. Kachina summons a Drill that deals off field damage, so she will maintain 100% uptime of this buff.
+Kachina should be equipped with Favonius Lance to provide energy to help battery Noelle’s burst. Her Drill also generates Geo particles over time for Noelle’s energy needs.
+Zhongli
+Zhongli creates a shield that also provides a 20% Universal RES Shred, which benefits other members in the party, particularly off-field damage dealers. However, Noelle’s greatest weakness is a lack of Energy, and Zhongli is ill-equipped to handle her needs due to the limited range of his Geo Construct that can also be broken by enemies.
+Zhongli’s Burst is generally not worth casting, as it subtracts significant field time from Noelle. The exception is at C2: his Burst gains the utility of refreshing his shield.
+Ningguang
+Ningguang can function as a battery for Noelle. She can also hold Thrilling Tales of Dragon Slayers (TTDS) to buff Noelle, but this is not recommended, since it compromises her personal damage. Her Elemental Skill summons a Geo Construct (the Jade Screen) which has a 12s cooldown and produces an average of 3.33 Geo Particles.
+With Ningguang’s C2, her Skill cooldown can be reset if the Jade Screen is destroyed. However, there is a 6s particle generation cooldown on the Skill, so you should not cast Ningguang’s Skill back to back. Instead, you should swap back to Noelle and only return to Ningguang after the particle cooldown is over.
+Ningguang’s Geo Construct also provides 12% Geo DMG Bonus for 10s to units who pass through it, so Noelle should dash through it. Ningguang’s Burst can deal a modest amount of damage; note that the Jade Screen should be present when Ningguang casts her Burst for maximum damage.
+Geo Traveler
+Geo Traveler can function as a battery for Noelle. Their Elemental Skill summons a Geo Construct which has a 6s cooldown and produces an average of 3.33 particles. Note that Geo Traveler’s Elemental Skill can disrupt Noelle by elevating enemies or knocking them out of Noelle’s Normal Attack range. The Geo Construct cannot be positioned away from enemies either, as this would result in zero particle generation. Hence, Geo Traveler has a high learning curve where you must use their Hold Skill to manually place constructs close enough to damage enemies and generate particles, but far enough to not complicate enemy positioning.
+Geo Traveler’s Burst summons a ring of 4 Geo Constructs and, at C1, buffs Noelle’s CRIT Rate by 10% while she remains within its boundary.
+Itto
+Itto and Noelle are both on-field DPS units who demand long field time, so they cannot be synergistically played in the same team. For lovers of the Geo Element, you should deploy Itto and Noelle on different sides of the Spiral Abyss; this is easily accommodated by Noelle’s flexible teambuilding.
+Hydro | Electro | Pyro | Cryo
+The Crystallize reaction, while not as impactful as Vaporize, Melt, or Hyperbloom, still plays a role in Noelle’s teams. Noelle’s shield does not have 100% uptime, as it has a 12s duration and a 24s cooldown (slightly reduced by her Ascension 4 Passive)
+Small Crystallize shields help fill in gaps during Noelle’s shield downtime, providing Geo Resonance buffs, interruption resistance, and some damage mitigation. If incoming damage exceeds the capacity of the shield, the shield is broken and excess damage is dealt to the active character, but the active character remains uninterrupted by the enemy (at least until the enemy’s next hit). Since Noelle has no ICD on her Geo-converted attacks, she can continuously create new Crystallize shields.
+In Noelle-Navia teams, the Crystallize reaction has the additional benefit of providing Navia with Crystal Shrapnel stacks to greatly increase her Skill’s damage.
+Furina
+Furina’s high personal damage and teamwide buffs make her an ideal choice for Noelle’s teams. Her Skill summons three pets who continuously attack the enemy and drain HP from the entire party, which Noelle counteracts with her teamwide healing. The pets have a long duration of 30s for 100% uptime with Noelle’s 15–25s Burst duration. Furina’s pets attack autonomously, allowing Noelle to use her spinning Charged Attack playstyle rather than restricting her to only Normal Attacks.
+Furina’s Burst provides the entire team with a DMG% buff, and the exact amount of DMG% varies depending on the Fanfare stacks gained whenever a party member’s HP changes. A Noelle-Furina team can rapidly build Fanfare stacks since both HP drain and healing occur.
+Yelan
+Yelan is a strong off-field DPS whose Burst launches powerful coordinated attacks when triggered by Normal Attacks. Noelle should not use her Charged Attack playstyle since it does not proc Yelan’s Burst.
+Yelan’s Ascension 4 Passive provides a ramping DMG% buff on-field character, capping at 50% DMG Bonus. This means that Yelan is simultaneously buffing Noelle and contributing damage.
+Yelan can also carry a Favonius Warbow without significant damage loss, as she scales on HP% and does not depend on a weapon’s Base ATK stat. This helps to reduce Noelle’s ER requirements.
+Xingqiu
+Despite Xingqiu’s significant off-field damage, he does nothing to buff Noelle’s personal damage. His interruption resistance and damage reduction overlap with Noelle’s defensive capabilities. In most cases, Noelle provides sufficient protection to the team on her own, but Xingqiu’s damage reduction does make Noelle’s shield tankier.
+Xingqiu is a more accessible option compared to Yelan, but he is less desirable as he does not buff Noelle’s personal damage.
+Fischl
+,
+Yae Miko
+Fischl and Yae Miko serve as excellent off-field DPS options. Oz’s rapid particle generation reduces Noelle’s ER requirements, and his uptime synergizes well with Noelle’s extended field time. Yae also provides off-field Electro application and some particle generation capabilities, but she requires longer field time to cast her Skill in exchange for better performance in multi-target scenarios.
+Fischl is generally preferred over Yae Miko in Noelle teams, as she generates more Electro Particles and takes less field time. If Yae is chosen, she should aim to Burst every two rotations, as her Burst animations are long and her ER requirements would be too high to Burst every rotation.
+Beidou
+Beidou is an off-field DPS whose Burst synergizes with Noelle by proccing powerful chain lightning attacks that bounce between enemies whenever Normal and Charged Attacks hit. Although Beidou also provides interruption resistance and damage reduction, Noelle generally provides sufficient protection to the team on her own.
+You should play Beidou with an Electro battery, as solo Electro Beidou has very high ER requirements.
+Raiden Shogun
+Raiden is an on-field DPS with minor off-field DPS capabilities. Her Elemental Skill has a long 25s duration and triggers coordinated attacks when teammates deal damage to the enemy. However, the scaling on her Skill is lower than that of dedicated off-field DPS units. It is more relevant for its Electro Particle generation over time than for dealing damage.
+Raiden’s Burst can deal a massive amount of damage and grant Energy to the entire team, but it requires significant field time. Noelle is herself an on-field DPS that requires a lot of field time, so the pairing is less than ideal.
+Bennett
+Bennett is an ATK buffer who provides a tremendous amount of Flat ATK when Noelle stays in his Burst circle. This has increased relevance in teams that include other ATK-scaling teammates such as Navia or Fischl, who also benefit from Bennett’s buff. Since this buff only applies to the on-field unit, off-field DPS units must be able to snapshot to benefit from it.
+However, Bennett and Noelle aren’t a perfect pairing. Noelle’s Burst already grants Noelle a large amount of Flat ATK based on her current DEF, so Bennett’s Flat ATK buff is less impactful on Noelle than on other DPS units. His Burst circle also restricts Noelle’s mobility. Finally, Bennett’s buff has a duration of 12s, plus 2s of lingering time, which means it does not fully cover Noelle’s long 15–25s Burst duration, especially if multiple other units swap in to also use Bennett’s buff.
+Noelle’s Geo-converted attacks cannot be overridden, so she has no issue with Bennett’s C6.
+Xiangling
+Xiangling is an off-field DPS whose Burst can snapshot and deal off-field damage over 14s. However, she has weak particle generation, so her ER requirements as a solo Pyro unit with Noelle are very high. It is more common to pair her with Bennett, as he significantly buffs her damage and also batteries her expensive Burst.
+Rosaria
+Rosaria is an off-field Cryo DPS unit who also buffs team CRIT Rate. With a second Cryo unit, maintaining a Cryo or Frozen aura on the enemy can further improve team damage thanks to Cryo Resonance increasing the team’s effective CRIT Rate.
+Rosaria can carry a Favonius Lance to help generate Energy for Noelle. However, Rosaria’s off-field damage occurs in a small circle that Noelle’s Normal Attacks have a tendency to knock enemies out of. You should be mindful of this and position Noelle in such a way as to knock enemies towards the center of the circle, rather than away from it.
+Anemo | Dendro
+Xianyun
+Xianyun enables all characters to easily perform Plunging Attacks. You can play Noelle, who has innately high Plunge multipliers as a Claymore user, as a Plunging Attack DPS if you wish to try something new.
+There are several obstacles to forming a Noelle Plunge team. Energy issues are common, and there is no inherent synergy between Anemo and Geo. Thus, other units who focus on Plunging Attacks tend to be more suitable to use with Xianyun.
+Anemo
+As 4pc Viridescent Venerer does not work for Geo units, Anemo units have limited utility for Noelle except for providing grouping or buffing any Hydro, Pyro, Electro, or Cryo units in the party. Therefore, there is no particular reason to discuss their synergy with Noelle specifically.
+Dendro
+Dendro units typically revolve around Dendro reactions, none of which involve Geo. As such, Noelle is just a flex unit in Dendro teams.
+Noelle can be an on-field healer and driver in Burgeon teams, as her Geo application can weaken the enemy’s Burning aura to produce more Burgeons. Her shield and healing also help negate the self-damage inflicted by Burgeon. However, this is not a standard way to play Noelle, as being the solo Geo unit in such a team reduces her personal damage and drastically increases her ER requirements, making Favonius Greatsword necessary.
+Teams
+Mono Geo
+Noelle
+—
+Geo
+—
+Geo
+—
+Flex
+In Mono Geo teams, Noelle teams up with at least two Geo teammates to battery her Burst. All Geo teammates benefit from Geo Resonance. The flex slot can be used to generate some Crystallize shields and cover Noelle’s shield downtime; they can also be a shield-breaking unit.
+A team with only Geo characters (Quadruple Geo) cannot trigger Crystallize unless the enemy has an innate Cryo, Hydro, Pyro, or Electro aura.
+Example Teams and Rotations
+Noelle
+—
+Gorou
+—
+Chiori
+—
+Furina
+A flexible team that enables both Noelle’s NA and CA playstyle. Gorou and Furina buff both Noelle and Chiori. Noelle, Chiori, and Furina all contribute damage. Noelle’s teammates take very little field time, giving her a chance to shine.
+Ideal for mob-heavy scenarios
+.
+Chiori’s Burst is not included in the normal rotation but should be strategically saved for scenarios in which it is needed (i.e., to i-frame an enemy attack).
+Rotation (NA)
+Gorou Q > Furina ED Q > Chiori 2[E] > Noelle E Q N3D N3 > Gorou E > Noelle 3[N3D] N2
+Rotation Length: approximately 24s at ~30ms ping
+Rotation Video (NA)
+Rotation (CA)
+Furina ED Q > Gorou EQ > Chiori 2[E] > Noelle E Q C “book” C
+Rotation Length: approximately 21.5s at ~30ms ping
+Rotation Video (CA)
+Noelle
+—
+Gorou
+—
+Navia
+—
+Furina
+In this team, Noelle benefits from all of Gorou’s buffs. Navia can also benefit from Gorou, but only if he has his C6 which grants 40% Geo CRIT DMG. Therefore, this team is not recommended for players with a low-Constellation Gorou.
+Ideal for fighting Bosses
+.
+Rotation (NA)
+Furina E > Navia Q > Gorou EQ > Furina Q > Noelle E Q N1 > Navia E > Noelle N3D N3 > Gorou E > Navia E > Noelle N3D N3 > Navia E
+Rotation Length: approximately 24s at ~100ms ping
+Rotation Video (NA)
+Rotation (CA)
+Furina E > Navia Q > Furina Q > Gorou EQ > Navia E > Noelle E Q C “book” C > Gorou E > Navia E > Noelle N3 > Navia E
+Rotation Length: approximately 27s at ~100ms ping
+Rotation Video (CA)
+Noelle
+—
+Gorou
+—
+Chiori
+—
+Albedo
+A Quad Geo team, with Albedo providing a Geo Construct to activate Chiori’s second Tamoto Doll. There may be some issues with Geo Resonance uptime, as there is no Crystallize to cover Noelle’s shield downtime, but this team is very easy to play. Just summon all the turrets and go ham with Noelle.
+Ideal for mob-heavy scenarios
+.
+Chiori’s Burst is not included in the normal rotation but should be strategically saved for scenarios in which it is needed (i.e., to i-frame an enemy attack).
+Rotation (NA)
+Gorou Q > Albedo E > Chiori 2[E] > Noelle Q E N3D N3 > Gorou E > Noelle 3[N3D] N2
+Rotation Length: approximately 22s at ~30ms ping
+Rotation Video (NA)
+Rotation (CA)
+Gorou EQ > Albedo E > Chiori 2[E] > Noelle E Q C “book” C
+Rotation Length: approximately 20s at ~30ms ping
+Rotation Video (CA)
+Noelle
+—
+Gorou
+—
+Yun Jin
+—
+Furina
+The “I like big Noelle numbers” team. All three teammates buff Noelle, setting up perfect screenshot moments. Of course, if you don’t particularly care
+who
+is making the big number, the version with Navia instead of Yun Jin has even bigger damage-per-screenshot numbers.
+Rotation
+Gorou EQ > Furina ED Q > Yun Jin Q E > Noelle Q E N3D N3 > Gorou E > Noelle N4 > Yun Jin E > Noelle N4
+Rotation Length: approximately 23s at ~100ms ping
+Rotation Video
+Noelle
+—
+Gorou
+—
+Albedo
+—
+Fischl
+For players who don’t own Furina. Although Furina is a significant damage boost, Noelle is a flexible on-fielder who does not require any particular 5-star limited character. Fischl is an excellent flex, providing both Energy and off-field damage.
+Rotation
+Fischl ED > Gorou Q > Albedo E > Noelle E Q 2[N3D] N2 > Fischl Q > Gorou E N2 > Noelle 2[N3D] N2 > Gorou N1 E > Noelle N3
+Rotation Length: approximately 25.5s at ~100ms ping
+Rotation Video
+Rotation With Elevator Plunge (Advanced)
+Fischl ED > Gorou Q > Albedo E > Noelle Q E C “book” C eP N1
+Rotation Length: approximately 20s at ~100ms ping
+Rotation With Elevator Plunge (Advanced)
+Noelle
+—
+Gorou
+—
+Yun Jin
+—
+Fischl
+A team of all 4-stars, for those who are budget-conscious or low-investment. Great for players who are just starting out.
+Rotation
+Fischl ED > Gorou Q E > Yun Jin Q E > Noelle E Q N3D N4 > Fischl Q > Gorou E > Noelle 2[N3D] N3 > Yunjin E > Noelle N3
+Rotation Length: approximately 26s at ~100ms ping
+Rotation Video
+Double Geo
+Noelle
+—
+Geo
+—
+Flex
+—
+Flex
+Double Geo teams have more flexible teambuilding than Mono Geo teams. Non-Geo teams can trigger many reactions aside from Crystallize, and there is room for more shield-breakers or off-field damage dealers. As a result, Double Geo teams add variety and can be much more interesting to play than Mono Geo. Additionally, obtaining C6 Gorou can be difficult, which makes Mono Geo teams less accessible.
+Example Teams and Rotations
+Noelle
+—
+Navia
+—
+Fischl
+—
+Furina
+A favorite of Noelle mains for its adaptability. This team has both front-loaded nuke potential and long-term consistent damage, balanced between single-target and multi-target scenarios. If enemies are not defeated within a single rotation, this team can recast Fischl’s and Furina’s turrets, extend Noelle’s Burst duration, or nuke them with Navia’s Skill.
+Ideal for Bosses and speedrunning.
+Rotation
+Fischl ED > Navia Q > Furina ED Q > Noelle Q E N1 > Navia E > Noelle N2 > Fischl Q > Noelle N3 > Navia E > Noelle N3D N3 > Navia E N3
+Rotation Length: approximately 25.5s at ~100ms ping
+Rotation Video
+Noelle
+—
+Chiori
+—
+Yelan
+—
+Furina
+This team has both Hydro and Geo Resonance. Noelle is supported by three off-field damage dealers and receives buffs from Yelan and Furina.
+While performing N3D with this team, you should wait until Yelan’s Burst dice animation glows before dashing into the next N3D combo. This causes Yelan’s Burst to proc both at the start and the end of Noelle’s N3D combo. On the final N3 combo, the dash cancel is replaced with Yelan N1 E. These tips are intended to maximize Yelan’s Burst procs, but they may also apply to any team where Noelle procs effects such as Beidou’s or Xingqiu’s Burst.
+Chiori’s Burst is not included in the normal rotation but should be strategically saved for scenarios in which it is needed (i.e., to i-frame an enemy attack).
+Rotation
+Furina ED Q > Chiori 2[E] > Yelan Q N1 E > Noelle N0 Q E 2[N3D] N3 > Yelan N1 E > Noelle N3
+Rotation Length: approximately 23s at ~30ms ping
+Rotation Video
+Noelle
+—
+Yun Jin
+—
+Yelan
+—
+Furina
+This team has both Hydro and Geo Resonance. Yun Jin’s Constellations are not necessary.
+Note that Noelle’s Normal Attack timing can change with increased Attack SPD, like from Yun Jin’s Constellation 6. This can cause fewer Yelan Burst procs due to misalignment with Noelle’s attack string. For this team, Noelle prefers N4D, since the more standard N3D loses 1 proc per attack string.
+Rotation
+Furina ED Q > Yelan Q N1 E > Yun Jin Q N1 E > Noelle N0 Q E N4D N4 > Yelan N1 E > Noelle N3 > Yun Jin E > Noelle N2
+Rotation Length: approximately 22.5s at ~30ms ping
+Rotation Video
+Single Geo
+Noelle
+—
+Flex
+—
+Flex
+—
+Flex
+Noelle as a solo Geo character works very differently than other playstyles. Since these teams do not have batteries that can generate Geo Particles, her ER requirements skyrocket and her personal damage takes a backseat. The supportive aspects of her kit are emphasized instead, such as the ability to equip the 4pc Archaic Petra set to buff teammates.
+Example Teams and Rotations
+Noelle — Xingqiu — Yelan — Furina
+Noelle provides shielding, healing, interruption resistance, and the 4pc Archaic Petra buff. The three Hydro characters deal high single-target personal damage.
+Rotation
+Furina ED Q > Xingqiu Q N1 ED > Yelan Q N1 E > Noelle N0 E Q 2[N3D] N3 > Yelan N1 E > Noelle N2
+Rotation Length: approximately 21.5s at ~30ms ping
+Rotation Video
+Noelle — Kazuha — Yelan — Furina
+Similar to the previous team, except with Kazuha to provide grouping, additional Hydro RES Shred, and Hydro DMG Bonus.
+Rotation
+Furina ED Q > Kazuha hEP > Noelle E Q > Yelan Q N1 E > Noelle N3D N3 > Kazuha hEP > Noelle N3 > Yelan N1 E > Noelle N2
+Rotation Length: approximately 22s at ~30ms ping
+Rotation Video
+Credits
+Artist: Hoyoverse
+Writing:
+whisperwalk, gewr, doryarus
+Calculations:
+whisperwalk, pyro1ord, northwar
+Videos:
+terrapin, dianettesca, george
+Readability Verification:
+chasing_haze, irokei, polomo
+TC Verification:
+caramielle, nikatosaurus
+Transcriber:
+ausshuu
+References
+Noelle Mastersheet

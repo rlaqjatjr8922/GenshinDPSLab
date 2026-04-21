@@ -1,0 +1,198 @@
+Genshin Impact Keqing Build
+Electro
+Sword
+Main DPS
+Keqing Upgrade Materials
+Prosperity
+Ring of Boreas
+Vajrada Amethyst Sliver
+Lightning Prism
+Cor Lapis
+Whopperflower Nectar
+Keqing Best Weapons
+1
+Mistsplitter Reforged
+2
+Primordial Jade Cutter
+3
+Haran Geppaku Futsu
+4
+Freedom-Sworn
+5
+Harbinger of Dawn
+R5
+Keqing Best Artifacts
+1
+Thundering Fury
+4
+2
+Thundersoother
+4
+3
+Gilded Dreams
+4
+4
+Gilded Dreams
+2
+Thundering Fury
+2
+5
+Shimenawa's Reminiscence
+2
+Thundering Fury
+2
+Keqing Best Stats
+Sands:
+ATK%
+Goblet:
+Electro DMG
+Circlet:
+CRIT Rate / CRIT DMG
+Substats:
+CRIT Rate / CRIT DMG > ATK% > Elemental Mastery
+Character Builds by Genshin Impact Helper →
+Showcase
+Teams
+Talents
+Passives
+Constellations
+Ascension
+Keqing Showcase
+Keqing video guide by
+Zy0x
+.
+Check out his content!
+Best Keqing Teams
+Keqing Aggravate
+Keqing Electro-Charged
+Keqing Superconduct
+Keqing Talents
+Normal Attack
+Yunlai Swordsmanship
+Normal Attack Performs up to 5 rapid strikes. Charged Attack Consumes a certain amount of Stamina to unleash 2 rapid sword strikes. Plunging Attack Plunges from mid-air to strike the ground below, damaging enemeies along the path and dealing AoE DMG upon impact.
+Elemental Skill
+Stellar Restoration
+Hurls a Lightning Stiletto that annihilates her enemies like the swift thunder. When the Stiletto hits its target, it deals
+Electro
+DMG to enemies in a small AoE, and places a Stiletto Mark on the spot hit. Hold Hold to adjust the direction in which the Stiletto shall be thrown. Stilettos thrown by the Hold attack mode can be suspended in mid-air, allowing Keqing to jump to them when using Stellar Restoration a second time. Lightning Stiletto If Keqing uses Stellar Restoration again or uses a Charged Attack while its duration lasts, it will clear the Stiletto Mark and produce different effects: If she uses Stellar Restoration again, she will blink to the location of the Mark and unleashed one slashing attack that deals AoE
+Electro
+DMG. When blinking to a Stiletto that was thrown from a Holding attack, Keqing can leap across obstructing terrain. If Keqing uses a Charged Attack, she will ignite a series of thundering cuts at the Mark's location, dealing AoE
+Electro
+DMG.
+Elemental Burst
+Starward Sword
+Keqing unleashes the power of lightning, dealing
+Electro
+DMG in an AoE. She then blends into the shadow of her blade, striking a series of thunderclap-blows to nearby enemies simultaneous that deal multiple instance of
+Electro
+DMG. The final attack deals massive AoE
+Electro
+DMG.
+Keqing Passives
+Ascension 1
+Thundering Penance
+Within 5s of recasting Stellar Restoration while a Lightning Stiletto is present, Keqing's Normal and Charged Attacks are converted to
+Electro
+DMG.
+Ascension 4
+Aristocratic Dignity
+When casting Starward Sword, Keqing's CRIT Rate is increased by 15%, and her Energy Recharge is increased by 15%. This effect lasts for 8s.
+Passive
+Land's Overseer
+When dispatched on an expedition in Liyue, time consumed is reduced by 25%.
+Keqing Constellations
+Constellation 1
+Thundering Might
+Recasting Stellar Restoration while a Lightning Stiletto is present causes Keqing to deal 50% of her ATK as AoE
+Electro
+DMG at the start point and terminus of her Blink.
+Constellation 2
+Keen Extraction
+When Keqing's Normal and Charged Attack's hit enemies affected by Electro, they have a 50% chance of producing an Elemental Particle. This effect can only occur once every 5s.
+Constellation 3
+Foreseen Reformation
+Increases the Level of Starward Sword by 3. Maximum upgrade level is 15.
+Constellation 4
+Attunement
+For 10s after Keqing triggers an Electro-related Elemental Reaction, her ATK is increased by 25%.
+Constellation 5
+Beckoning Stars
+Increase the Level of Stellar Restoration by 3. Maximum upgrade level is 15.
+Constellation 6
+Tenacious Star
+When initiating a Normal Attack, Charged Attack, Elemental Skill or Elemental Burst, Keqing gains a 6%
+Electro
+DMG Bonus for 8s. Effects triggered by Normal Attacks, Charged Attacks, Elemental Skills and Elemental Bursts are considered independent entities.
+Keqing Ascension Costs
+Rank
+Lvl
+Cost
+Material
+Material
+Material
+Material
+1
+20
+20000
+1
+Vajrada Amethyst Sliver
+3
+Cor Lapis
+3
+Whopperflower Nectar
+2
+40
+40000
+3
+Vajrada Amethyst Fragment
+2
+Lightning Prism
+10
+Cor Lapis
+15
+Whopperflower Nectar
+3
+50
+60000
+6
+Vajrada Amethyst Fragment
+4
+Lightning Prism
+20
+Cor Lapis
+12
+Shimmering Nectar
+4
+60
+80000
+3
+Vajrada Amethyst Chunk
+8
+Lightning Prism
+30
+Cor Lapis
+18
+Shimmering Nectar
+5
+70
+100000
+6
+Vajrada Amethyst Chunk
+12
+Lightning Prism
+45
+Cor Lapis
+12
+Energy Nectar
+6
+80
+120000
+6
+Vajrada Amethyst Gemstone
+20
+Lightning Prism
+60
+Cor Lapis
+24
+Energy Nectar
+Loading...
