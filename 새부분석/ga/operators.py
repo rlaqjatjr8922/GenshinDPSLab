@@ -1,67 +1,91 @@
+import copy
 import random
-from config import ACTION_KEYS, MUTATION_RATE
+
+from core.state import init_party_state, update_state_after_action, get_char_state
+from core.legal import get_legal_actions_for_character
 
 
-def crossover_genomes(parent1: dict, parent2: dict, total_tokens: int, normalize_token_split) -> dict:
-    n = len(parent1["token_split"])
-    child_tokens = []
+def select_parents_weighted(
+    scored_population: list[tuple[dict[str, list[str]], float]]
+) -> tuple[dict[str, list[str]], dict[str, list[str]]]:
+    individuals = [x[0] for x in scored_population]
+    scores = [max(x[1], 1.0) for x in scored_population]
 
-    for i in range(n):
-        if random.random() < 0.5:
-            child_tokens.append(parent1["token_split"][i])
+    parent1 = random.choices(individuals, weights=scores, k=1)[0]
+    parent2 = random.choices(individuals, weights=scores, k=1)[0]
+
+    return copy.deepcopy(parent1), copy.deepcopy(parent2)
+
+
+def crossover_individuals(
+    parent1: dict[str, list[str]],
+    parent2: dict[str, list[str]],
+    token_split: dict[str, int],
+) -> dict[str, list[str]]:
+    child = {}
+
+    for ch in parent1.keys():
+        seq1 = parent1[ch]
+        seq2 = parent2[ch]
+        target_len = token_split[ch]
+
+        if not seq1 and not seq2:
+            child[ch] = []
+            continue
+
+        mode = random.choice(["by_character", "split"])
+
+        if mode == "by_character":
+            picked = seq1 if random.random() < 0.5 else seq2
+            child[ch] = picked[:target_len]
         else:
-            child_tokens.append(parent2["token_split"][i])
+            cut1 = random.randint(0, len(seq1)) if seq1 else 0
+            cut2 = random.randint(0, len(seq2)) if seq2 else 0
+            new_seq = seq1[:cut1] + seq2[cut2:]
+            child[ch] = new_seq[:target_len]
 
-    child_tokens = normalize_token_split(child_tokens, total_tokens, main_idx=0)
-
-    child_main_weights = {}
-    child_support_weights = {}
-
-    for action in ACTION_KEYS:
-        child_main_weights[action] = (
-            parent1["main_weights"][action]
-            if random.random() < 0.5
-            else parent2["main_weights"][action]
-        )
-        child_support_weights[action] = (
-            parent1["support_weights"][action]
-            if random.random() < 0.5
-            else parent2["support_weights"][action]
-        )
-
-    return {
-        "token_split": child_tokens,
-        "main_weights": child_main_weights,
-        "support_weights": child_support_weights,
-        "fitness": None,
-    }
+    return child
 
 
-def mutate_genome(genome: dict, total_tokens: int, normalize_token_split):
-    if random.random() < MUTATION_RATE:
-        i, j = random.sample(range(len(genome["token_split"])), 2)
+def mutate_individual(
+    individual: dict[str, list[str]],
+    mutation_prob: float,
+    legal_db: dict,
+    note_map: dict,
+) -> dict[str, list[str]]:
+    new_ind = copy.deepcopy(individual)
 
-        if genome["token_split"][j] > 1:
-            genome["token_split"][j] -= 1
-            genome["token_split"][i] += 1
+    if random.random() >= mutation_prob:
+        return new_ind
 
-        genome["token_split"] = normalize_token_split(
-            genome["token_split"],
-            total_tokens,
-            main_idx=0,
+    target_char = random.choice(list(new_ind.keys()))
+    old_seq = new_ind[target_char]
+
+    if not old_seq:
+        return new_ind
+
+    idx = random.randrange(len(old_seq))
+    party_members = list(new_ind.keys())
+    party_state = init_party_state(party_members, target_char)
+
+    for act in old_seq[:idx]:
+        base_action = act.split("[")[0]
+        update_state_after_action(
+            party_state=party_state,
+            char=target_char,
+            action=base_action,
         )
 
-    for action in ACTION_KEYS:
-        if random.random() < MUTATION_RATE:
-            genome["main_weights"][action] = max(
-                0.05,
-                genome["main_weights"][action] + random.uniform(-0.25, 0.25),
-            )
+    candidates = get_legal_actions_for_character(
+        char=target_char,
+        legal_db=legal_db,
+        note_map=note_map,
+        party_state=party_state,
+        get_char_state=get_char_state,
+    )
 
-        if random.random() < MUTATION_RATE:
-            genome["support_weights"][action] = max(
-                0.05,
-                genome["support_weights"][action] + random.uniform(-0.25, 0.25),
-            )
+    if candidates:
+        old_seq[idx] = random.choice(candidates)
 
-    genome["fitness"] = None
+    new_ind[target_char] = old_seq
+    return new_ind

@@ -1,84 +1,65 @@
+import json
 import random
-from config import (
-    ACTION_KEYS,
-    DEFAULT_ACTION_WEIGHTS,
-    MAIN_DPS_BONUS,
-    SUPPORT_WEIGHT,
-    MAX_TOKEN_RATIO,
-    MUTATION_RATE,
-)
+
+from core.state import init_party_state, update_state_after_action, get_char_state
+from core.legal import get_legal_actions_for_character
 
 
-def create_random_token_split(members: list[str], total_tokens: int, main_idx: int = 0) -> list[int]:
-    n = len(members)
-    if total_tokens < n:
-        raise ValueError(f"total_tokens({total_tokens})는 파티 인원수({n}) 이상이어야 함")
+def generate_character_sequence(
+    character_name: str,
+    token_count: int,
+    members: list[str],
+    legal_db: dict,
+    note_map: dict,
+) -> list[str]:
+    party_state = init_party_state(members, character_name)
+    sequence = []
 
-    tokens = [1] * n
-    remain = total_tokens - n
+    for _ in range(token_count):
+        candidates = get_legal_actions_for_character(
+            char=character_name,
+            legal_db=legal_db,
+            note_map=note_map,
+            party_state=party_state,
+            get_char_state=get_char_state,
+        )
 
-    weights = [SUPPORT_WEIGHT] * n
-    weights[main_idx] = MAIN_DPS_BONUS
-
-    max_per_char = max(1, int(total_tokens * MAX_TOKEN_RATIO))
-
-    for _ in range(remain):
-        candidates = [i for i in range(n) if tokens[i] < max_per_char]
         if not candidates:
             break
 
-        cand_weights = [weights[i] for i in candidates]
-        chosen = random.choices(candidates, weights=cand_weights, k=1)[0]
-        tokens[chosen] += 1
-
-    while sum(tokens) < total_tokens:
-        candidates = [i for i in range(n) if tokens[i] < max_per_char]
-        if not candidates:
-            raise ValueError("토큰 분배 실패")
-        tokens[random.choice(candidates)] += 1
-
-    return tokens
-
-
-def create_random_weights(scale: float = 0.35) -> dict:
-    weights = {}
-    for action in ACTION_KEYS:
-        base = DEFAULT_ACTION_WEIGHTS.get(action, 0.5)
-        delta = random.uniform(-scale, scale)
-        weights[action] = max(0.05, base + delta)
-    return weights
-
-
-def create_random_genome(members: list[str], total_tokens: int) -> dict:
-    return {
-        "token_split": create_random_token_split(members, total_tokens, main_idx=0),
-        "main_weights": create_random_weights(),
-        "support_weights": create_random_weights(),
-        "fitness": None,
-    }
-
-
-def normalize_token_split(token_split: list[int], total_tokens: int, main_idx: int = 0) -> list[int]:
-    n = len(token_split)
-    token_split = [max(1, int(x)) for x in token_split]
-
-    max_per_char = max(1, int(total_tokens * MAX_TOKEN_RATIO))
-    token_split = [min(x, max_per_char) for x in token_split]
-
-    while sum(token_split) < total_tokens:
-        candidates = [i for i in range(n) if token_split[i] < max_per_char]
-        if not candidates:
-            break
-
-        weights = [MAIN_DPS_BONUS if i == main_idx else SUPPORT_WEIGHT for i in candidates]
-        chosen = random.choices(candidates, weights=weights, k=1)[0]
-        token_split[chosen] += 1
-
-    while sum(token_split) > total_tokens:
-        candidates = [i for i in range(n) if token_split[i] > 1]
-        if not candidates:
-            break
         chosen = random.choice(candidates)
-        token_split[chosen] -= 1
+        sequence.append(chosen)
 
-    return token_split
+        base_action = chosen.split("[")[0]
+        update_state_after_action(
+            party_state=party_state,
+            char=character_name,
+            action=base_action,
+        )
+
+    return sequence
+
+
+def create_random_individual(
+    party: list[str],
+    token_split: dict[str, int],
+    legal_db: dict,
+    note_map: dict,
+) -> dict[str, list[str]]:
+    individual = {}
+
+    for ch in party:
+        individual[ch] = generate_character_sequence(
+            character_name=ch,
+            token_count=token_split[ch],
+            members=party,
+            legal_db=legal_db,
+            note_map=note_map,
+        )
+
+    return individual
+
+
+def serialize_individual(individual: dict[str, list[str]]) -> str:
+    normalized = {k: individual[k] for k in sorted(individual.keys())}
+    return json.dumps(normalized, ensure_ascii=False, sort_keys=True)

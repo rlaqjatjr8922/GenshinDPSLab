@@ -1,133 +1,141 @@
-from config import POPULATION_SIZE, GENERATIONS, ELITE_RATIO
-from rotation_builder import save_all_orders
-from gcsim.runner import run_gcsim, extract_dps
-import subprocess
+import copy
+from config import POP_SIZE, GENERATIONS, MUTATION_PROB, RANDOM_INJECTION_RATIO, SURVIVAL_RATIO
+
+from ga.distribute import distribute_tokens
+from ga.genome import create_random_individual
+from ga.operators import select_parents_weighted, crossover_individuals, mutate_individual
+from ga.dedupe import deduplicate_population
+from ga.repair import repair_individual
+from ga.evaluate import evaluate_population
 
 
-def evaluate_genome(
-    genome: dict,
+def evolve_one_T(
     main_name: str,
-    members: list[str],
-    gear_map: dict,
-    legal_db: dict,
-    note_map: dict,
-    build_party_sequence,
-    convert_seq_map_to_action_lines,
-    make_base_code,
-):
-    seq_map = build_party_sequence(
-        members=members,
-        token_split=genome["token_split"],
-        legal_db=legal_db,
-        note_map=note_map,
-        genome=genome,
-    )
-
-    action_lines = convert_seq_map_to_action_lines(seq_map, members)
-    base_code = make_base_code(main_name, members, gear_map)
-
-    config_path = save_all_orders(
-        main_name=main_name,
-        base_code=base_code,
-        party_members=members,
-        action_lines=action_lines,
-    )
-
-    try:
-        output = run_gcsim(config_path)
-        dps = extract_dps(output)
-    except subprocess.TimeoutExpired as e:
-        raise TimeoutError(f"{main_name} timeout: {e}") from e
-    except Exception:
-        dps = 0.0
-
-    genome["fitness"] = dps
-
-    return {
-        "fitness": dps,
-        "seq_map": seq_map,
-        "action_lines": action_lines,
-        "base_code": base_code,
-        "config_path": config_path,
-    }
-
-
-def clone_genome(genome: dict) -> dict:
-    return {
-        "token_split": list(genome["token_split"]),
-        "main_weights": dict(genome["main_weights"]),
-        "support_weights": dict(genome["support_weights"]),
-        "fitness": genome.get("fitness"),
-    }
-
-
-def evolve_population(
-    main_name: str,
-    members: list[str],
-    gear_map: dict,
-    legal_db: dict,
-    note_map: dict,
+    party: list[str],
+    main_dps_idx: int,
     total_tokens: int,
-    create_random_genome,
-    crossover_genomes,
-    mutate_genome,
-    build_party_sequence,
-    convert_seq_map_to_action_lines,
-    make_base_code,
+    legal_db: dict,
+    note_map: dict,
+    dps_runner,
 ):
+    token_split = distribute_tokens(
+        total_tokens=total_tokens,
+        party=party,
+        main_dps_idx=main_dps_idx,
+    )
+
     population = [
-        create_random_genome(members, total_tokens)
-        for _ in range(POPULATION_SIZE)
+        create_random_individual(
+            party=party,
+            token_split=token_split,
+            legal_db=legal_db,
+            note_map=note_map,
+        )
+        for _ in range(POP_SIZE)
     ]
 
-    elite_count = max(2, int(POPULATION_SIZE * ELITE_RATIO))
+    best_individual = None
+    best_dps = float("-inf")
+    generation_logs = []
 
-    best_genome = None
-    best_result = None
-    best_fitness = float("-inf")
+    for gen_idx in range(GENERATIONS):
+        scored_population = evaluate_population(
+            population=population,
+            legal_db=legal_db,
+            note_map=note_map,
+            dps_runner=dps_runner,
+        )
 
-    for generation in range(GENERATIONS):
-        evaluated = []
+        scored_population.sort(key=lambda x: x[1], reverse=True)
 
-        for genome in population:
-            result = evaluate_genome(
-                genome=genome,
-                main_name=main_name,
-                members=members,
-                gear_map=gear_map,
-                legal_db=legal_db,
-                note_map=note_map,
-                build_party_sequence=build_party_sequence,
-                convert_seq_map_to_action_lines=convert_seq_map_to_action_lines,
-                make_base_code=make_base_code,
+        if scored_population and scored_population[0][1] > best_dps:
+            best_dps = scored_population[0][1]
+            best_individual = copy.deepcopy(scored_population[0][0])
+
+        generation_logs.append({
+            "generation": gen_idx + 1,
+            "best_dps": scored_population[0][1] if scored_population else -1.0,
+            "worst_dps": scored_population[-1][1] if scored_population else -1.0,
+            "population_size": len(scored_population),
+        })
+
+        survivor_count = max(1, int(POP_SIZE * SURVIVAL_RATIO))
+        survivors = scored_population[:survivor_count]
+
+        elite_count = min(2, len(survivors))
+        elites = [copy.deepcopy(x[0]) for x in survivors[:elite_count]]
+
+        random_injection_count = max(1, int(POP_SIZE * RANDOM_INJECTION_RATIO))
+
+        new_population = []
+        new_population.extend(elites)
+
+        while len(new_population) < (POP_SIZE - random_injection_count):
+            parent1, parent2 = select_parents_weighted(survivors)
+
+            child = crossover_individuals(
+                parent1=parent1,
+                parent2=parent2,
+                token_split=token_split,
             )
 
-            evaluated.append((genome, result))
+            child = repair_individual(
+                individual=child,
+                token_split=token_split,
+                legal_db=legal_db,
+                note_map=note_map,
+            )
 
-            if result["fitness"] > best_fitness:
-                best_fitness = result["fitness"]
-                best_genome = clone_genome(genome)
-                best_result = result
+            child = mutate_individual(
+                individual=child,
+                mutation_prob=MUTATION_PROB,
+                legal_db=legal_db,
+                note_map=note_map,
+            )
 
-        evaluated.sort(key=lambda x: x[1]["fitness"], reverse=True)
-        elites = [item[0] for item in evaluated[:elite_count]]
+            child = repair_individual(
+                individual=child,
+                token_split=token_split,
+                legal_db=legal_db,
+                note_map=note_map,
+            )
 
-        gen_best = evaluated[0][1]["fitness"]
-        gen_avg = sum(r["fitness"] for _, r in evaluated) / len(evaluated)
+            new_population.append(child)
 
-        print(f"[진화] [{main_name}] T={total_tokens} {generation + 1}세대 완료 | 최고={gen_best:.2f} | 평균={gen_avg:.2f}")
+        for _ in range(random_injection_count):
+            rand_ind = create_random_individual(
+                party=party,
+                token_split=token_split,
+                legal_db=legal_db,
+                note_map=note_map,
+            )
+            new_population.append(rand_ind)
 
-        next_population = [clone_genome(e) for e in elites]
+        new_population = deduplicate_population(new_population)
 
-        import random
-        while len(next_population) < POPULATION_SIZE:
-            p1 = random.choice(elites)
-            p2 = random.choice(elites)
+        while len(new_population) < POP_SIZE:
+            new_population.append(
+                create_random_individual(
+                    party=party,
+                    token_split=token_split,
+                    legal_db=legal_db,
+                    note_map=note_map,
+                )
+            )
 
-            child = crossover_genomes(p1, p2, total_tokens)
-            mutate_genome(child, total_tokens)
-            next_population.append(child)
+        population = new_population[:POP_SIZE]
 
-        population = next_population
+        print(
+            f"[세대] [{main_name}] "
+            f"T={total_tokens} | Gen={gen_idx + 1}/{GENERATIONS} | "
+            f"Best={generation_logs[-1]['best_dps']:.2f}"
+        )
 
-    return best_genome, best_result
+    return {
+        "main_name": main_name,
+        "T": total_tokens,
+        "token_split": token_split,
+        "best_dps": best_dps,
+        "best_individual": best_individual,
+        "generation_logs": generation_logs,
+    }
