@@ -1,0 +1,109 @@
+[DPS 오류] individual={'albedo': ['burst', 'dash', 'burst'], 'fischl': ['attack', 'burst'], 'gorou': ['jump', 'attack'], 'bennett': ['attack']}
+[DPS 오류 내용] Command '['c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\gcsim.exe', '-c', 'c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\output\\temp_1776773056352.txt']' timed out after 20 seconds
+[메인 오류] albedo
+[Errno 2] No such file or directory: 'c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\output\\failed_configs\\fail_1776773076855.txt'
+[DPS 오류] individual={'albedo': ['burst', 'attack', 'burst'], 'fischl': ['jump', 'dash'], 'gorou': ['burst', 'dash'], 'bennett': ['attack']}
+[DPS 오류 내용] Command '['c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\gcsim.exe', '-c', 'c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\output\\temp_1776774312030.txt']' timed out after 20 seconds
+[실패 config 저장] c:\Users\gimbe\OneDrive\Desktop\새 폴더\새부분석\output\failed_configs\fail_1776774332278.txt
+[DPS 오류] individual={'albedo': ['burst', 'dash', 'burst'], 'fischl': ['attack', 'jump'], 'gorou': ['attack', 'dash'], 'bennett': ['skill']}
+[DPS 오류 내용] Command '['c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\gcsim.exe', '-c', 'c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\output\\temp_1776774332682.txt']' timed out after 20 seconds
+[실패 config 저장] c:\Users\gimbe\OneDrive\Desktop\새 폴더\새부분석\output\failed_configs\fail_1776774352956.txt
+[DPS 오류] individual={'albedo': ['burst', 'attack', 'burst'], 'fischl': ['jump', 'dash'], 'gorou': ['jump', 'dash'], 'bennett': ['dash']}
+[DPS 오류 내용] Command '['c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\gcsim.exe', '-c', 'c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\output\\temp_1776774353133.txt']' timed out after 20 seconds
+[실패 config 저장] c:\Users\gimbe\OneDrive\Desktop\새 폴더\새부분석\output\failed_configs\fail_1776774373366.txt
+[DPS 오류] individual={'albedo': ['burst', 'skill', 'burst'], 'fischl': ['jump', 'attack'], 'gorou': ['attack', 'burst'], 'bennett': ['skill']}
+[DPS 오류 내용] Command '['c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\gcsim.exe', '-c', 'c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\output\\temp_1776774377830.txt']' timed out after 20 seconds
+[실패 config 저장] c:\Users\gimbe\OneDrive\Desktop\새 폴더\새부분석\output\failed_configs\fail_1776774398058.txt
+[DPS 오류] individual={'albedo': ['burst', 'skill', 'burst'], 'fischl': ['jump', 'dash'], 'gorou': ['aim', 'jump'], 'bennett': ['dash']}
+[DPS 오류 내용] Command '['c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\gcsim.exe', '-c', 'c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\output\\temp_1776774403293.txt']' timed out after 20 seconds
+[실패 config 저장] c:\Users\gimbe\OneDrive\Desktop\새 폴더\새부분석\output\failed_configs\fail_1776774423832.txt
+[DPS 오류] individual={'albedo': ['burst', 'dash', 'burst'], 'fischl': ['skill', 'burst'], 'gorou': ['jump', 'burst'], 'bennett': ['burst']}
+[DPS 오류 내용] Command '['c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\gcsim.exe', '-c', 'c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\output\\temp_1776774430959.txt']' timed out after 20 seconds
+[실패 config 저장] c:\Users\gimbe\OneDrive\Desktop\새 폴더\새부분석\output\failed_configs\fail_1776774451361.txt
+[DPS 오류] individual={'albedo': ['burst', 'attack', 'burst'], 'fischl': ['skill', 'attack'], 'gorou': ['skill', 'jump'], 'bennett': ['burst']}
+[DPS 오류 내용] Command '['c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\gcsim.exe', '-c', 'c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\output\\temp_1776774451990.txt']' timed out after 20 seconds
+[실패 config 저장] c:\Users\gimbe\OneDrive\Desktop\새 폴더\새부분석\output\failed_configs\fail_1776774472394.txt
+[DPS 오류] individual={'albedo': ['burst', 'dash', 'burst'], 'fischl': ['jump', 'jump'], 'gorou': ['skill', 'attack'], 'bennett': ['dash']}
+[DPS 오류 내용] Command '['c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\gcsim.exe', '-c', 'c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\output\\temp_1776774478924.txt']' timed out after 20 seconds
+[실패 config 저장] c:\Users\gimbe\OneDrive\Desktop\새 폴더\새부분석\output\failed_configs\fail_1776774499203.txt
+[DPS 오류] individual={'albedo': ['burst', 'attack', 'burst'], 'fischl': ['skill', 'aim'], 'gorou': ['burst', 'dash'], 'bennett': ['dash']}
+[DPS 오류 내용] Command '['c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\gcsim.exe', '-c', 'c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\output\\temp_1776774499327.txt']' timed out after 20 seconds
+[실패 config 저장] c:\Users\gimbe\OneDrive\Desktop\새 폴더\새부분석\output\failed_configs\fail_1776774519619.txt
+[DPS 오류] individual={'albedo': ['burst', 'dash', 'burst'], 'fischl': ['attack', 'skill'], 'gorou': ['aim', 'jump'], 'bennett': ['burst']}
+[DPS 오류 내용] Command '['c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\gcsim.exe', '-c', 'c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\output\\temp_1776774522913.txt']' timed out after 20 seconds
+[실패 config 저장] c:\Users\gimbe\OneDrive\Desktop\새 폴더\새부분석\output\failed_configs\fail_1776774544249.txt
+[DPS 오류] individual={'albedo': ['burst', 'skill', 'burst'], 'fischl': ['attack', 'skill'], 'gorou': ['jump', 'attack'], 'bennett': ['burst']}
+[DPS 오류 내용] Command '['c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\gcsim.exe', '-c', 'c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\output\\temp_1776774545303.txt']' timed out after 20 seconds
+[실패 config 저장] c:\Users\gimbe\OneDrive\Desktop\새 폴더\새부분석\output\failed_configs\fail_1776774565564.txt
+[DPS 오류] individual={'albedo': ['burst', 'dash', 'burst'], 'fischl': ['skill', 'attack'], 'gorou': ['aim', 'jump'], 'bennett': ['dash']}
+[DPS 오류 내용] Command '['c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\gcsim.exe', '-c', 'c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\output\\temp_1776774570522.txt']' timed out after 20 seconds
+[실패 config 저장] c:\Users\gimbe\OneDrive\Desktop\새 폴더\새부분석\output\failed_configs\fail_1776774590841.txt
+[DPS 오류] individual={'albedo': ['burst', 'attack', 'burst'], 'fischl': ['dash', 'burst'], 'gorou': ['burst', 'skill'], 'bennett': ['burst']}
+[DPS 오류 내용] Command '['c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\gcsim.exe', '-c', 'c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\output\\temp_1776774592138.txt']' timed out after 20 seconds
+[실패 config 저장] c:\Users\gimbe\OneDrive\Desktop\새 폴더\새부분석\output\failed_configs\fail_1776774612430.txt
+[DPS 오류] individual={'albedo': ['burst', 'attack', 'burst'], 'fischl': ['attack', 'attack'], 'gorou': ['jump', 'skill'], 'bennett': ['skill']}
+[DPS 오류 내용] Command '['c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\gcsim.exe', '-c', 'c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\output\\temp_1776774616647.txt']' timed out after 20 seconds
+[실패 config 저장] c:\Users\gimbe\OneDrive\Desktop\새 폴더\새부분석\output\failed_configs\fail_1776774636914.txt
+[DPS 오류] individual={'albedo': ['burst', 'attack', 'burst'], 'fischl': ['dash', 'dash'], 'gorou': ['aim', 'dash'], 'bennett': ['attack']}
+[DPS 오류 내용] Command '['c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\gcsim.exe', '-c', 'c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\output\\temp_1776774636919.txt']' timed out after 20 seconds
+[실패 config 저장] c:\Users\gimbe\OneDrive\Desktop\새 폴더\새부분석\output\failed_configs\fail_1776774657167.txt
+[DPS 오류] individual={'albedo': ['burst', 'skill', 'burst'], 'fischl': ['attack', 'jump'], 'gorou': ['skill', 'burst'], 'bennett': ['burst']}
+[DPS 오류 내용] Command '['c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\gcsim.exe', '-c', 'c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\output\\temp_1776774657238.txt']' timed out after 20 seconds
+[실패 config 저장] c:\Users\gimbe\OneDrive\Desktop\새 폴더\새부분석\output\failed_configs\fail_1776774677487.txt
+[DPS 오류] individual={'albedo': ['burst', 'attack', 'burst'], 'fischl': ['skill', 'burst'], 'gorou': ['burst', 'jump'], 'bennett': ['dash']}
+[DPS 오류 내용] Command '['c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\gcsim.exe', '-c', 'c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\output\\temp_1776774678865.txt']' timed out after 20 seconds
+[실패 config 저장] c:\Users\gimbe\OneDrive\Desktop\새 폴더\새부분석\output\failed_configs\fail_1776774699119.txt
+[DPS 오류] individual={'albedo': ['burst', 'skill', 'burst'], 'fischl': ['skill', 'burst'], 'gorou': ['burst', 'skill'], 'bennett': ['burst']}
+[DPS 오류 내용] Command '['c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\gcsim.exe', '-c', 'c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\output\\temp_1776774705353.txt']' timed out after 20 seconds
+[실패 config 저장] c:\Users\gimbe\OneDrive\Desktop\새 폴더\새부분석\output\failed_configs\fail_1776774725602.txt
+[DPS 오류] individual={'albedo': ['burst', 'attack', 'burst'], 'fischl': ['jump', 'aim'], 'gorou': ['attack', 'burst'], 'bennett': ['jump']}
+[DPS 오류 내용] Command '['c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\gcsim.exe', '-c', 'c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\output\\temp_1776774726599.txt']' timed out after 20 seconds
+[실패 config 저장] c:\Users\gimbe\OneDrive\Desktop\새 폴더\새부분석\output\failed_configs\fail_1776774746844.txt
+[DPS 오류] individual={'albedo': ['burst', 'dash', 'burst'], 'fischl': ['jump', 'aim'], 'gorou': ['aim', 'jump'], 'bennett': ['attack']}
+[DPS 오류 내용] Command '['c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\gcsim.exe', '-c', 'c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\output\\temp_1776774749690.txt']' timed out after 20 seconds
+[실패 config 저장] c:\Users\gimbe\OneDrive\Desktop\새 폴더\새부분석\output\failed_configs\fail_1776774769921.txt
+[DPS 오류] individual={'albedo': ['burst', 'attack', 'burst'], 'fischl': ['jump', 'skill'], 'gorou': ['attack', 'burst'], 'bennett': ['dash']}
+[DPS 오류 내용] Command '['c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\gcsim.exe', '-c', 'c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\output\\temp_1776774775762.txt']' timed out after 20 seconds
+[실패 config 저장] c:\Users\gimbe\OneDrive\Desktop\새 폴더\새부분석\output\failed_configs\fail_1776774796029.txt
+[DPS 오류] individual={'albedo': ['burst', 'dash', 'burst'], 'fischl': ['attack', 'skill'], 'gorou': ['burst', 'attack'], 'bennett': ['burst']}
+[DPS 오류 내용] Command '['c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\gcsim.exe', '-c', 'c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\output\\temp_1776774801316.txt']' timed out after 20 seconds
+[실패 config 저장] c:\Users\gimbe\OneDrive\Desktop\새 폴더\새부분석\output\failed_configs\fail_1776774821558.txt
+[DPS 오류] individual={'albedo': ['burst', 'jump', 'burst'], 'fischl': ['burst', 'aim'], 'gorou': ['jump', 'burst'], 'bennett': ['attack']}
+[DPS 오류 내용] Command '['c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\gcsim.exe', '-c', 'c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\output\\temp_1776774825602.txt']' timed out after 20 seconds
+[실패 config 저장] c:\Users\gimbe\OneDrive\Desktop\새 폴더\새부분석\output\failed_configs\fail_1776774846313.txt
+[DPS 오류] individual={'albedo': ['burst', 'skill', 'burst'], 'fischl': ['attack', 'skill'], 'gorou': ['skill', 'burst'], 'bennett': ['burst']}
+[DPS 오류 내용] Command '['c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\gcsim.exe', '-c', 'c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\output\\temp_1776774847228.txt']' timed out after 20 seconds
+[실패 config 저장] c:\Users\gimbe\OneDrive\Desktop\새 폴더\새부분석\output\failed_configs\fail_1776774867604.txt
+[DPS 오류] individual={'albedo': ['burst', 'dash', 'burst'], 'fischl': ['burst', 'jump'], 'gorou': ['attack', 'dash'], 'bennett': ['jump']}
+[DPS 오류 내용] Command '['c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\gcsim.exe', '-c', 'c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\output\\temp_1776774878476.txt']' timed out after 20 seconds
+[실패 config 저장] c:\Users\gimbe\OneDrive\Desktop\새 폴더\새부분석\output\failed_configs\fail_1776774898721.txt
+[DPS 오류] individual={'albedo': ['burst', 'jump', 'burst'], 'fischl': ['burst', 'jump'], 'gorou': ['aim', 'attack'], 'bennett': ['jump']}
+[DPS 오류 내용] Command '['c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\gcsim.exe', '-c', 'c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\output\\temp_1776774898859.txt']' timed out after 20 seconds
+[실패 config 저장] c:\Users\gimbe\OneDrive\Desktop\새 폴더\새부분석\output\failed_configs\fail_1776774919105.txt
+[DPS 오류] individual={'albedo': ['burst', 'skill', 'burst'], 'fischl': ['skill', 'aim'], 'gorou': ['jump', 'jump'], 'bennett': ['attack']}
+[DPS 오류 내용] Command '['c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\gcsim.exe', '-c', 'c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\output\\temp_1776774924452.txt']' timed out after 20 seconds
+[실패 config 저장] c:\Users\gimbe\OneDrive\Desktop\새 폴더\새부분석\output\failed_configs\fail_1776774944718.txt
+[DPS 오류] individual={'albedo': ['burst', 'skill', 'burst'], 'fischl': ['aim', 'dash'], 'gorou': ['jump', 'skill'], 'bennett': ['attack']}
+[DPS 오류 내용] Command '['c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\gcsim.exe', '-c', 'c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\output\\temp_1776774944928.txt']' timed out after 20 seconds
+[실패 config 저장] c:\Users\gimbe\OneDrive\Desktop\새 폴더\새부분석\output\failed_configs\fail_1776774965157.txt
+[DPS 오류] individual={'albedo': ['burst', 'dash', 'burst'], 'fischl': ['dash', 'aim'], 'gorou': ['dash', 'skill'], 'bennett': ['burst']}
+[DPS 오류 내용] Command '['c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\gcsim.exe', '-c', 'c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\output\\temp_1776774965161.txt']' timed out after 20 seconds
+[실패 config 저장] c:\Users\gimbe\OneDrive\Desktop\새 폴더\새부분석\output\failed_configs\fail_1776774985408.txt
+[DPS 오류] individual={'albedo': ['burst', 'dash', 'burst'], 'fischl': ['dash', 'dash'], 'gorou': ['aim', 'dash'], 'bennett': ['dash']}
+[DPS 오류 내용] Command '['c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\gcsim.exe', '-c', 'c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\output\\temp_1776774985471.txt']' timed out after 20 seconds
+[실패 config 저장] c:\Users\gimbe\OneDrive\Desktop\새 폴더\새부분석\output\failed_configs\fail_1776775005756.txt
+[DPS 오류] individual={'albedo': ['burst', 'dash', 'burst'], 'fischl': ['jump', 'attack'], 'gorou': ['jump', 'dash'], 'bennett': ['jump']}
+[DPS 오류 내용] Command '['c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\gcsim.exe', '-c', 'c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\output\\temp_1776775009115.txt']' timed out after 20 seconds
+[실패 config 저장] c:\Users\gimbe\OneDrive\Desktop\새 폴더\새부분석\output\failed_configs\fail_1776775029354.txt
+[DPS 오류] individual={'albedo': ['burst', 'jump', 'burst'], 'fischl': ['dash', 'jump'], 'gorou': ['attack', 'burst'], 'bennett': ['skill']}
+[DPS 오류 내용] Command '['c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\gcsim.exe', '-c', 'c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\output\\temp_1776775029357.txt']' timed out after 20 seconds
+[실패 config 저장] c:\Users\gimbe\OneDrive\Desktop\새 폴더\새부분석\output\failed_configs\fail_1776775049634.txt
+[DPS 오류] individual={'albedo': ['burst', 'skill', 'burst'], 'fischl': ['burst', 'aim'], 'gorou': ['skill', 'burst'], 'bennett': ['burst', 'skill']}
+[DPS 오류 내용] Command '['c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\gcsim.exe', '-c', 'c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\output\\temp_1776775050232.txt']' timed out after 20 seconds
+[실패 config 저장] c:\Users\gimbe\OneDrive\Desktop\새 폴더\새부분석\output\failed_configs\fail_1776775070497.txt
+[DPS 오류] individual={'albedo': ['burst', 'skill', 'burst'], 'fischl': ['attack', 'jump'], 'gorou': ['aim', 'burst'], 'bennett': ['skill', 'attack']}
+[DPS 오류 내용] Command '['c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\gcsim.exe', '-c', 'c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\output\\temp_1776775070737.txt']' timed out after 20 seconds
+[실패 config 저장] c:\Users\gimbe\OneDrive\Desktop\새 폴더\새부분석\output\failed_configs\fail_1776775090999.txt
+[DPS 오류] individual={'albedo': ['burst', 'jump', 'burst'], 'fischl': ['attack', 'skill'], 'gorou': ['skill', 'dash'], 'bennett': ['burst', 'skill']}
+[DPS 오류 내용] Command '['c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\gcsim.exe', '-c', 'c:\\Users\\gimbe\\OneDrive\\Desktop\\새 폴더\\새부분석\\output\\temp_1776775092745.txt']' timed out after 20 seconds
+[실패 config 저장] c:\Users\gimbe\OneDrive\Desktop\새 폴더\새부분석\output\failed_configs\fail_1776775113001.txt

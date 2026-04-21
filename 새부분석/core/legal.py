@@ -100,6 +100,8 @@ def is_action_legal(char: str, action_name: str, action_info: dict, note_map: di
 def get_legal_actions_for_character(char: str, legal_db: dict, note_map: dict, party_state: dict, get_char_state) -> list[str]:
     result = []
     char_actions = legal_db.get(char, {})
+    char_state = get_char_state(party_state, char)
+    prev_action = char_state.get("prev_action")
 
     for action_name, action_info in char_actions.items():
         if action_name in ACTION_BLACKLIST:
@@ -107,5 +109,9 @@ def get_legal_actions_for_character(char: str, legal_db: dict, note_map: dict, p
 
         if is_action_legal(char, action_name, action_info, note_map, party_state, get_char_state):
             result.append(action_name)
+
+    # 같은 캐릭터가 burst 바로 다음에 burst 또 못 쓰게 막기
+    if prev_action == "burst":
+        result = [action for action in result if action.split("[")[0] != "burst"]
 
     return result

@@ -1,9 +1,19 @@
 import copy
-from config import POP_SIZE, GENERATIONS, MUTATION_PROB, RANDOM_INJECTION_RATIO, SURVIVAL_RATIO
+from config import (
+    POP_SIZE,
+    GENERATIONS,
+    MUTATION_PROB,
+    RANDOM_INJECTION_RATIO,
+    SURVIVAL_RATIO,
+)
 
 from ga.distribute import distribute_tokens
 from ga.genome import create_random_individual
-from ga.operators import select_parents_weighted, crossover_individuals, mutate_individual
+from ga.operators import (
+    select_parents_weighted,
+    crossover_individuals,
+    mutate_individual,
+)
 from ga.dedupe import deduplicate_population
 from ga.repair import repair_individual
 from ga.evaluate import evaluate_population
@@ -126,8 +136,9 @@ def evolve_one_T(
         population = new_population[:POP_SIZE]
 
         print(
-            f"[세대] [{main_name}] "
-            f"T={total_tokens} | Gen={gen_idx + 1}/{GENERATIONS} | "
+            f"[세대 완료] {main_name} | "
+            f"T={total_tokens} | "
+            f"Gen {gen_idx + 1}/{GENERATIONS} | "
             f"Best={generation_logs[-1]['best_dps']:.2f}"
         )
 

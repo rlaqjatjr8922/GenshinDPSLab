@@ -46,18 +46,16 @@ def create_random_individual(
     legal_db: dict,
     note_map: dict,
 ) -> dict[str, list[str]]:
-    individual = {}
-
-    for ch in party:
-        individual[ch] = generate_character_sequence(
+    return {
+        ch: generate_character_sequence(
             character_name=ch,
             token_count=token_split[ch],
             members=party,
             legal_db=legal_db,
             note_map=note_map,
         )
-
-    return individual
+        for ch in party
+    }
 
 
 def serialize_individual(individual: dict[str, list[str]]) -> str:
