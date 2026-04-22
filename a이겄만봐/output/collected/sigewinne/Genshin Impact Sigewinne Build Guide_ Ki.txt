@@ -1,0 +1,359 @@
+Story Highlights
+Sigewinne is the head Nurse of the Fortress of Meropide!
+Sigewinne is a Hydro healer dealing Hydro damage as well as providing prominent Hydro application!
+Sigewinne is F2P friendly and has a low investment build!
+Sigewinne
+is a
+5-star Hydro Bow
+character in
+Genshin Impact
+that has been released in
+Version 4.7
+, second phase banner. Sigewinne specializes in both healing and
+dealing damage
+based on her
+max HP
+. Her playstyle is all about balancing her attacks with her ability to provide team-wide support, making her a versatile choice for players who want both damage and healing in one character.
+In this guide, we will break down Sigewinne in detail, talk about her kit, find out her best artifacts and build, and more about Genshin Impact.
+"
+#Sigewinne
+'s the most unique out of all the Melusine friends my parents know. They say that she was a guest at our place a long time ago, and that she held my hand, supporting me when I had just learned to walk. Many years have passed since, and I've become an adult — she, on…
+pic.twitter.com/tXLZANpEcp
+— Genshin Impact (@GenshinImpact)
+April 22, 2024
+Table Of Contents
+Genshin Impact Sigewinne Guide: Kit Explained
+Sigewinne’s Passives
+Genshin Impact Sigewinne Build Guide: Constellations
+Genshin Impact Sigewinne Guide: Best in-slot weapon
+Genshin Impact Sigewinne Build Guide: Artifacts to use
+Best Team Comps for Sigewinne in Genshin Impact
+Final Thoughts
+Genshin Impact Sigewinne Guide: Kit Explained
+Sigewinne’s playstyle is based on the
+Bond of Life mechanic
+. When she uses her skill, she generates
+Sourcewater Droplets
+that provide her with a Bond of Life, which temporarily
+increases her max HP
+.
+Genshin Impact Sigewinne (Image via HoYoverse)
+Normal Attack: Targeted Treatment
+Her normal attacks are fairly simple, allowing her to shoot up to three consecutive arrows. Her charged shot is where things start to get more interesting. When fully charged, she continuously fires slow-moving Hydro bubbles at enemies, making her a unique ranged Hydro applicator.
+This means she can keep applying Hydro status from a distance, setting up elemental reactions effectively. If you hold her charged shot long enough, the final arrow will deal a stronger burst of Hydro damage, making it useful for precision attacks.
+Elemental Skill: Rebound Hydrotherapy
+Her Elemental Skill is the core of her kit. She shoots out a bouncing bubble that deals Hydro damage based on her max HP and heals the team, except for herself, every time it bounces. The more it bounces, the more healing it provides. However, after five bounces, the bubble disappears, and she finally heals herself. This means Sigewinne can keep the party alive while remaining somewhat vulnerable until the effect ends.
+If you hold her skill instead of tapping it, she creates a larger bubble that does more damage and heals more effectively. This is especially useful for dealing with weaker enemies, as they get trapped inside the big bubble, making them easy targets.
+Additionally, when she uses her skill, she generates
+Sourcewater Droplets
+that provide her with a Bond of Life, a special effect that temporarily increases her max HP. When this bond disappears, she regenerates energy, which helps her use her Elemental Burst more often.
+Elemental Burst: Super Saturated Syringing
+Her Elemental Burst,
+Super Saturated Syringing
+, is a simple but powerful ability. She unleashes a large Hydro AoE attack that scales with her max HP. Additionally, it absorbs nearby
+Sourcewater Droplets
+, further fueling her Bond of Life mechanic.
+This burst makes her a strong Hydro applicator while providing an extra source of energy generation. One of her key traits is her Arkhe:
+Ousia alignment
+, which causes her bubbles to occasionally summon Surging Blades that deal additional Hydro damage. This makes her even better at maintaining Hydro application over time.
+Sigewinne’s Passives
+Genshin Impact Sigewinne Guide (Image via HoYoverse)
+Requires Appropriate Rest
+Her first passive,
+Requires Appropriate Rest
+, activates after she uses her Elemental Skill. For 18 seconds, she gains a
+Hydro DMG
+Bonus and receives 10 stacks of
+Convalescence
+. These stacks interact with her team’s off-field Elemental Skills, boosting their damage whenever they hit an enemy. The bonus scales with Sigewinne’s max HP, meaning the more HP she has, the stronger the boost.
+If she has over
+30,000 HP
+, each stack adds extra damage, with a cap of
+2,800 bonus damage
+per hit. This passive encourages her to be paired with characters who deal
+Elemental Skill
+damage while off-field, making her an ideal partner for sub-DPS units who frequently trigger reactions.
+Detailed Diagnosis, Thorough Treatment
+Her second passive,
+Detailed Diagnosis
+, Thorough Treatment, improves her healing output based on the Bond of Life mechanic. The more Bond of Life HP stored across the party, the stronger her healing becomes.
+For every
+1,000 HP
+stored in Bonds of Life, her
+healing increases by 3%
+, up to a
+maximum of 30%
+. This means that as she gathers and clears Bonds of Life, her healing potential scales up, making her especially useful in prolonged fights where healing needs to be at its peak.
+Emergency Dose
+Her final passive, Emergency Dose, activates exclusively while exploring underwater. If the active character’s HP falls below
+50%
+, Sigewinne automatically heals them over
+2.5 seconds
+, restoring
+50% of their max HP
+. However, the trade-off is that the character’s Elemental and
+Physical Resistance
+will be reduced for
+10 seconds
+.
+Since underwater combat in Fontaine relies on dodging rather than traditional damage mitigation, this passive is a strong survival tool, ensuring that players can stay in action longer without needing to switch to a healer. However, the resistance drop means players will need to be more careful after the heal is triggered.
+Genshin Impact Sigewinne Build Guide: Constellations
+In this section, we will break down the constellations for Sigewinne in Genshin Impact.
+C1
+This constellation improves her Elemental Skill significantly by allowing her
+Bolstering Bubblebalm
+to bounce 3 extra times. This means more healing for the team, more Hydro application, and a longer duration of crowd control for weaker enemies. Additionally, the first 3 bounces won’t shrink the big
+Bubblebalms
+, letting them deal their highest damage for longer.
+On top of that, her passive
+Requires Appropriate Rest
+gets a buff—each bubble bounce now generates
+Convalescence
+stacks, further increasing teamwide Elemental Skill damage. The bonus scaling is also increased, allowing up to
+3,500 extra damage
+per Elemental Skill hit instead of the original 2,800.
+C2
+Sigewinne gains a
+Bubbly Shield
+worth
+30% of her Max HP
+, which is especially effective against Hydro damage, absorbing it with 250% efficiency. Since her kit naturally scales with HP, this shield will be quite strong, improving her survivability.
+Additionally, whenever her Skill or Burst hits an enemy, it reduces their
+Hydro Resistance by 35% for 8 seconds
+, making it easier for Hydro DPS units.
+C3
+Elemental skill increased by 3 levels.
+C4
+This extends the duration of her Elemental Burst by 3 seconds, allowing it to apply Hydro for longer and deal more damage overall.
+C5
+Elemental burst increased by 3 levels.
+C6
+This is Sigewinne’s biggest offensive upgrade. Whenever she heals, her
+Super Saturated Syringing (Burst) gains CRIT Rate and CRIT DMG based on her Max HP
+. Every 1,000 HP increases CRIT Rate by 0.4% and CRIT DMG by 2.2%, up to a maximum of
+20% CRIT Rate and 110% CRIT DMG
+.
+This turns her Burst into a
+high-damage nuke
+, making her not just a healer but also a secondary DPS. Since her healing is frequent, she will almost always have this buff active when using her Burst.
+As far as Constellations go, Sigewinne’s constellations are pretty average at best. If you’re
+only pulling for a support healer
+,
+C1 and C2 are the best stopping points
+. If you want her to deal more damage,
+C6 is a powerful but optional luxury
+. In order of best to least best constellation:
+C1>C2>C6>C4>C5>C3
+Genshin Impact Sigewinne Guide: Best in-slot weapon
+The best weapon for Sigewinne will be the
+Silvershower Heartstrings
+, her signature 5-star weapon. It has an
+HP as a sub-stat
+and is a
+Support-based weapon
+. But if you don’t have it, you can use
+Aqua Simulacra.
+Genshin Impact Silvershower Heartstrings Weapon (Image via HoYoverse)
+For
+F2P players
+, her best in the slot is the
+Sacrificial Bow
+, which can be easily obtained from the Gacha as it is a fairly common weapon. Since Sigewinne scales from HP, she has a great amount of F2P
+4-Star/3-Star Weapons
+to choose from. Here are other alternative
+weapons
+included:
+Genshin Impact Sacrificial Bow Weapon (Image via HoYoverse)
+Recurve Bow
+Sacrificial Bow
+Favonius Warbow
+Genshin Impact Sigewinne Build Guide: Artifacts to use
+Song of Days Past (BiS)
+2-Pieces:
+Healing Bonus +15%.
+4-Pieces:
+When the equipping character heals a party member, the Yearning effect will be created for 6s, which records the total amount of healing provided (including overflow healing). When the duration expires, the Yearning effect will be transformed into the
+Waves of Days Past
+effect:
+When your active party member hits an opponent with a
+Normal Attack, Charged Attack, Plunging Attack, Elemental Skill,
+or
+Elemental Burst,
+the DMG dealt will be increased by 8% of the total healing amount recorded by the Yearning effect.
+The
+Waves of Days Past
+effect is removed after it has taken effect 5 times or after 10s. A single instance of the Yearning effect can record up to
+15,000 healing
+, and only a single instance can exist at once, but it can record the healing from multiple equipping characters. Equipping characters on standby can still trigger this effect.
+Ocean-Hued Clam
+2-Pieces:
+Healing Bonus +15%
+4-Pieces:
+When the character with this artifact set heals a party member, 1 Foam will appear. It accumulates healed HP for 3 seconds, then explodes and deals
+90% of the HP healed as DMG
+to nearby enemies. Max accumulated healing is
+30,000 HP
+, including over-heal. There can only be 1 Foam active, but it stays even if you swap it out. Foam CD is
+3.5s.
+Both
+Song of Days Past
+and
+Ocean-Hued Clam
+are excellent artifact sets for Sigewinne because they synergize with her
+healing-focused kit
+while also allowing her to contribute to team damage.
+Song of Days Past
+increases Sigewinne’s healing and records the amount of healing Sigewinne provides over 6 seconds. After the effect expires, the next time an active character lands an attack, their damage increases based on
+8% of the total healing
+recorded.
+Ocean-Hued Clam
+is another good alternative
+As for her Main Stats and Sub-Stats:
+Timepiece:
+HP
+Goblet:
+HP
+Circlet:
+HP
+Sub-stat:
+HP, EM, ER
+Best Team Comps for Sigewinne in Genshin Impact
+Sigewinne is a
+Hydro healer
+whose main strength lies in
+buffing Elemental Skill damage
+. This makes her an ideal support for characters who deal
+off-field skill damage
+, with her best synergy being
+Furina
+. Furina is a
+teamwide healer and strong Hydro DPS
+, and Sigewinne complements her by providing
+extra healing, Hydro Resonance (which increases Max HP), and skill damage buffs
+.
+Genshin Impact Sigewinne Guide (Image via HoYoverse)
+This makes Sigewinne a viable healer in teams where Furina is the main carry, but she isn’t always necessary since Furina can function with other healers as well. Beyond Furina, Sigewinne also synergizes with
+other off-field skill damage dealers
+such as
+Fischl, Yae Miko, and Chiori
+. If a team features one of these characters and needs a healer, Sigewinne can be a solid option because she enhances their
+primary damage source (Elemental Skill damage)
+.
+However, her
+Hydro application is slow
+, which means she may need to be paired with
+another Hydro character
+in reaction-based teams. She can be used in
+Double Hydro + Geo teams
+with
+Navia
+, where she and Furina provide Hydro support for
+Geo DPS units
+like
+Navia
+. In
+Electro-Charged (Taser) teams
+, Sigewinne can be paired with
+Electro units like Fischl, Furina, and Yae Miko
+. These teams focus on
+quick-swapping between characters to trigger Electro-Charged reactions
+.
+Teams
+Character 1
+Character 2
+Character 3
+Character 4
+Geo-based Team
+Sigewinne
+Furina
+Navia
+Chiori
+Electro-charged Team
+Sigewinne
+Furina
+Fischl
+Yae Miko
+Dendro-based Team
+Sigewinne
+Furina
+Nahida
+Raiden Shogun
+Sigewinne’s
+Elemental Skill buff benefits multiple units
+, and her healing ensures the team remains healthy. However, her
+slow Hydro application
+means she must be used alongside
+strong Electro units
+to maintain reaction consistency. Sigewinne can also fit into
+Dendro teams
+, including
+Bloom, Hyperbloom, and Burgeon
+. In
+Bloom teams (Hydro + Dendro)
+, she provides healing but
+requires a faster Hydro applier
+to ensure Bloom cores are consistently generated.
+Similarly, in
+Hyperbloom teams (Hydro + Dendro + Electro)
+, she works as a
+healer
+while
+Electro units (Raiden, Yae Miko, Fischl)
+trigger
+Hyperbloom cores
+. However, her
+slow Hydro application
+means she typically needs another Hydro character on the team.
+Final Thoughts
+Sigewinne is a
+Hydro healer
+with a unique
+Elemental Skill damage buff
+, but her overall kit feels
+underwhelming
+compared to other Hydro supports. Her
+Hydro application is slow
+, making her unreliable for reaction-based teams unless paired with another Hydro unit. While she synergizes well with
+Furina
+and some
+off-field skill damage dealers
+, her buffs are
+too niche
+to make her a must-pull.
+In most team compositions,
+Kokomi outperforms her
+as a healer due to
+stronger healing, better Hydro application, and the Thrilling Tales ATK buff
+. Unless you specifically need her for a
+Mono Hydro team
+or a
+Furina-centric setup
+, there are
+more versatile and effective healers available
+, making Sigewinne
+a low-priority pull
+.
+Read more of our Genshin Impact content here:
+Genshin Impact Redeem Codes
+Genshin Impact Version 5.4 update “Moonlight Amidst Dreams”
+How to reduce your Game Size in Genshin Impact and Honkai Star Rail
+Genshin Impact Version 5.4 Update Developers’ Discussion
+What are your thoughts on our Genshin Impact Sigewinne Guide? Let us know in the comments below.
+For more Mobile Gaming news and updates, join our
+WhatsApp group
+,
+Telegram Group
+,
+or
+Discord server
+. Also, follow us on
+Google News
+,
+Instagram
+, and
+Twitter
+for quick updates.
+Tags
+Gacha Games
+Genshin Impact
+HoYoverse

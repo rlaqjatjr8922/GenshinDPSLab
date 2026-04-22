@@ -1,0 +1,249 @@
+Aloy
+5
+★
+Bow
+Cryo
+Formerly an outcast, now a hunter of unparalleled skill
+.
+Basic Stats
+Nv.
+90
+HP
+10899
+ATK
+234
+DEF
+676
+Cryo DMG Bonus
+28.8%
+Basic Stats
+Nv.
+90
+HP
+10899
+ATK
+234
+DEF
+676
+Cryo DMG Bonus
+28.8%
+Aloy
+Ascension Materials
+Shivada Jade Sliver
+Crystal Marrow
+Crystalline Bloom
+Spectral Husk
+Teachings of Freedom
+Molten Moment
+Aloy
+Best Weapon
+Polar Star
+Level
+.
+90
+ATK
+608
+CRIT Rate
+33.1%
+Refinement
+.
+5
+Elemental Skill and Elemental Burst DMG increased by 24%. After a Normal Attack, Charged Attack, Elemental Skill or Elemental Burst hits an opponent, 1 stack of Ashen Nightstar will be gained for 12s. When 1/2/3/4 stacks of Ashen Nightstar are present, ATK is increased by 20/40/60/96%. The stack of Ashen Nightstar created by the Normal Attack, Charged Attack, Elemental Skill or Elemental Burst will be counted independently of the others.
+Other Weapons
+2
+°
+Skyward Harp
+CRIT Rate
+3
+°
+The Stringless
+Elemental Mastery
+4
+°
+Alley Hunter
+ATK
+Aloy
+Best Artifact Set
+Emblem of Severed Fate
+2 Pc
+:
+Energy Recharge +20%
+4 Pc
+:
+Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.
+Artifacts Main Stats
+Sands
+:
+ATK % / EM
+Goblet
+:
+Cryo Bonus
+Circlet
+:
+Crit Rate / Crit Damage
+Artifacts Substats
+Crit Rate / Crit Damage
+Elemental Mastery
+ATK %
+Energy Recharge
+Other Artifacts Sets
+2
+°
+4x
+Gilded Dreams
+3
+°
+2x
+Blizzard Strayer
+2x
+Wanderer's Troupe
+Aloy
+Talent Priority
+1
+°
+Elemental Burst
+2
+°
+Elemental Skill
+Aloy
+Best Teams
+Time #
+1
+Main DPS
+Sub-DPS
+Support
+Support
+Aloy
+Xiangling
+Kazuha
+Bennett
+Time #
+2
+Main DPS
+Sub-DPS
+Support
+Support
+Aloy
+Rosaria
+Jean
+Bennett
+Aloy
+Ascension Costs
+Cost
+5
+→
+6
+120
+K
+Shivada Jade Gemstone
+6
+Crystalline Bloom
+20
+Crystal Marrow
+60
+Spectral Nucleus
+24
+Aloy
+Talents Costs
+Cost
+9
+→
+10
+700
+K
+Philosophies of Freedom
+16
+Spectral Nucleus
+12
+Molten Moment
+2
+Crown of Insight
+1
+Aloy
+Talents
+Normal Attack
+Rapid Fire
+Normal Attack
+Performs up to 4 consecutive shots with a bow.
+Charged Attack
+Performs a more precise
+Aimed Shot
+with increased DMG.
+While aiming, biting frost will accumulate on the arrowhead. A fully charged frost arrow will deal
+Cryo DMG
+.
+Plunging Attack
+Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.
+Elemental Skill
+Frozen Wilds
+Aloy throws a Freeze Bomb in the targeted direction that explodes on impact, dealing
+Cryo DMG
+. After it explodes, the Freeze Bomb will split up into many Chillwater Bomblets that explode on contact with opponents or after a short delay, dealing
+Cryo DMG
+.
+When a Freeze Bomb or Chillwater Bomblet hits an opponent, the opponent's ATK is decreased and Aloy receives 1 Coil stack.
+Aloy can gain up to 1 Coil stack every 0.1s.
+Coil
+·Each stack increases Aloy's Normal Attack DMG.
+·When Aloy has 4 Coil stacks, all stacks of Coil are cleared. She then enters the Rushing Ice state, which further increases the DMG dealt by her Normal Attacks and converts her Normal Attack DMG to
+Cryo DMG
+.
+While in the Rushing Ice state, Aloy cannot obtain new Coil stacks.
+Coil effects will be cleared 30s after Aloy leaves combat.
+You think that's cold? Guess you've never been to The Cut.
+Elemental Burst
+Prophecies of Dawn
+Aloy throws a Power Cell filled with Cryo in the targeted direction, then detonates it with an arrow, dealing
+AoE Cryo DMG
+.
+Whether
+"Zero Dawn"
+referred to hope or extinction no longer matters. Aloy has already saved her world, and the fate of this one is still being forged by its own heroes.
+Aloy
+Passives
+Passive
+1
+Combat Override
+When Aloy receives the Coil effect from
+Frozen Wilds
+, her ATK is increased by 16%, while nearby party members' ATK is increased by 8%. This effect lasts 10s.
+Passive
+2
+Strong Strike
+When Aloy is in the Rushing Ice state conferred by
+Frozen Wilds
+, her
+Cryo DMG Bonus
+increases by 3.5% every 1s. A maximum
+Cryo DMG Bonus
+increase of 35% can be gained in this way.
+Passive
+3
+Easy Does It
+When Aloy is in the party, animals who produce Fowl, Raw Meat, or Chilled Meat will not be startled when party members approach them.
+Aloy
+Constellations
+C
+1
+Star of Another World
+The time has not yet come for this person's corner of the night sky to light up.
+C
+2
+Star of Another World
+The time has not yet come for this person's corner of the night sky to light up.
+C
+3
+Star of Another World
+The time has not yet come for this person's corner of the night sky to light up.
+C
+4
+Star of Another World
+The time has not yet come for this person's corner of the night sky to light up.
+C
+5
+Star of Another World
+The time has not yet come for this person's corner of the night sky to light up.
+C
+6
+Star of Another World
+The time has not yet come for this person's corner of the night sky to light up.

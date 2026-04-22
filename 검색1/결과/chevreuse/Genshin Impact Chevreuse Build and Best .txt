@@ -1,0 +1,156 @@
+Chevreuse is a playable Pyro character in Genshin Impact. We decided to write this guide to help you learn more about Chevreuse. In our Genshin Impact Chevreuse Build and Best Team Comp post you will learn about Chevreuse’s talents, how they work and how to upgrade them. Also, you will read about her Constellations that will help you make Chevreuse even more powerful. After that, we have written Genshin Impact Chevreuse Build where you’ll see weapon and artifact set. And at last, we have mentioned the best team comps for Chevreuse as the Support hero.
+Genshin Impact All Characters List
+The whole information is presented in tables. You can use the navigation bar above to move quickly to the information block that you are most interested in.
+Talents
+Constellations
+Build
+Team
+Chevreuse Build
+Below you can see the best weapon option for playing Chevreuse in Genshin Impact. Accompanied by the best Chevreuse artifact set and its stat priorities.
+Support Build
+If you play this champion as a Support in your comp you should take the weapon and artifacts from the list below. They are believed to be the most effective ones in almost all situations.
+Weapon
+Rightful Reward
+Weapon Substitutes:
+Favonius Lance
+,
+Black Tassel
+.
+Artifact Set
+Noblesse Oblige
+(4-Piece)
+Artifact Main Stats Priority:
+HP%
+HP%
+HP%
+Sub Stats Priority: HP% > Energy Recharge > Elemental Mastery / ATK%
+Talent Priority
+Short-Range Rapid Interdiction Fire > Ring of Bursting Grenades > Line Bayonet Thrust EX
+Best Team Compositions for Chevreuse
+When you play Genshin Impact everything depends not only on your main character but also on the composition. You should learn how elements complement each other and build the best team for your main. Below you can see the best team composition for Chevreuse with Main DPS and 2 Sub DPS. Also, we have included alternative characters for each role that go well with Chevreuse too.
+Chevreuse’s kit is intended for Overloaded teams, and her teams must all be Pyro and Electro for her passive to work. Chevreuse is the main healer for this team and also an amazing buffer. Yoimiya as the main DPS will activate the buff of Chevreuse using Overload reaction with Raiden. Bennett provides ATK Buff for the team.
+Good characters for this comp:
+Lyney, Dehya, Xiangling, Yanfei, Yae Miko, Beidou, Fischl, Kujou Sara.
+If you want to know more about every teammate for Chevreuse you can click on the link below and find them in the list of all Genshin Impact characters that we have described.
+Genshin Impact All Characters List
+In case you are still not sure what champion you want to pick as main we have
+Genshin Impact characters tier list
+with explanations on how to build your best team.
+Chevreuse Talents
+Below you can see the list of talents that Chevreuse uses during the fight. Each of them we have described with the main characteristics.
+Line Bayonet Thrust EX
+Normal Attack
+Normal Attack:
+Performs up to 4 consecutive spear strikes.
+Charged Attack:
+Consumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.
+Plunging Attack:
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Short-Range Rapid Interdiction Fire
+Elemental Skill
+Chevreuse quickly shoulders her musket and fires at her opponent(s), dealing AoE Pyro DMG.
+For a short duration after Chevreuse fires a shot, she will continuously restore HP to the active character on the field. The amount healed is based on her Max HP. Hold to fire in a different fashion.
+Hold
+Enter Aiming Mode, locking a target in her sights to fire a precise interdiction shot. If Chevreuse has an Overcharged Ball, then she will fire the Overcharged Ball instead, dealing greater Pyro DMG in a larger area.
+Chevreuse gains 1 Overcharged Ball every time a nearby character in the party triggers an Overloaded reaction, and can have up to 1 Overcharged Ball at a time.
+Arkhe: Ousia
+Periodically, after Chevreuse’s Short-Range Rapid Interdiction Fire hits, a Surging Blade will be called forth that deals Ousia-aligned Pyro DMG.
+Ring of Bursting Grenades
+Elemental Burst
+Chevreuse fires an explosive grenade at opponents with her musket, dealing AoE Pyro DMG. After the projectile hits, it will split into many secondary explosive shells.
+The secondary explosive shells will burst after a short interval, dealing Pyro DMG to nearby opponents.
+Vanguard’s Coordinated Tactics
+1st Ascension Passive
+When all party members are Pyro and Electro characters and there is at least one Pyro and one Electro character each in the party:
+Chevreuse grants “Coordinated Tactics” to nearby party members: After a character triggers the Overloaded reaction, the Pyro and Electro RES of the opponent(s) affected by this Overloaded reaction will be decreased by 40% for 6s.
+The “Coordinated Tactics” effect will be removed when the Elemental Types of the characters in the party do not meet the basic requirements for the Passive Talent.
+Vertical Force Coordination
+4th Ascension Passive
+After Chevreuse fires an Overcharged Ball using Short-Range Rapid Interdiction Fire, nearby Pyro and Electro characters in the party gain 1% increased ATK for every 1,000 Max HP Chevreuse has for 30s. ATK can be increased by up to 40% in this way.
+Double Time March
+Utility Passive
+Decreases sprinting Stamina consumption for your own party members by 20%.
+Not stackable with Passive Talents that provide the exact same effects.
+Every talent can be upgraded up to level 15. But to do so you will need to gather materials on particular days. The list of the needed materials for leveling Chevreuse’s talents is mentioned in the next block.
+Talent Leveling Materials
+So here you can see all materials that you will need in order to level up Chevreuse’s talents.
+Talent Level-Up Materials
+Order Books:
+Teachings of Order
+,
+Guide to Order
+,
+Philosophies of Order
+.
+Common Ascension Materials
+Meshing Gear
+,
+Mechanical Spur Gear
+,
+Artificed Dynamic Gear
+.
+Weekly Boss Material
+Lightless Eye of the Maelstrom
+Genshin Impact Enhancement Progression Calculator
+Some of them are required at the beginning for low levels and others are more advanced. We just wanted to focus your attention on material types in general.
+Chevreuse Constellations
+In Genshin Impact characters have a specific upgrade system called constellation. You will need to get a specific item called Stella Fortuna to increase the level of constellation. Each character has their own version of Stella Fortuna, which you get by obtaining a duplicate of the character from Wishes.
+Level 1
+Stable Front Line’s Resolve
+When the active character with the “Coordinated Tactics” status (not including Chevreuse herself) triggers the Overloaded reaction, they will recover 6 Energy. This effect can be triggered once every 10s.
+You must first unlock the Passive Talent “Vanguard’s Coordinated Tactics.”
+Level 2
+Sniper Induced Explosion
+After Holding Short-Range Rapid Interdiction Fire and hitting a target, 2 chain explosions will be triggered near the location where said target is hit. Each explosion deals Pyro DMG equal to 120% of Chevreuse’s ATK. This effect can be triggered up to once every 10s, and DMG dealt this way is considered Elemental Skill DMG.
+Level 3
+Practiced Field Stripping Technique
+Increases the Level of Short-Range Rapid Interdiction Fire by 3.
+Maximum upgrade level is 15.
+Level 4
+The Secret to Rapid-Fire Multishots
+After using Ring of Bursting Grenades, the Hold mode of Short-Range Rapid Interdiction Fire will not go on cooldown when Chevreuse uses it. This effect is removed after Short-Range Rapid Interdiction Fire has been fired twice using Hold or after 6s.
+Level 5
+Enhanced Incendiary Firepower
+Increases the Level of Ring of Bursting Grenades by 3.
+Maximum upgrade level is 15.
+Level 6
+In Pursuit of Ending Evil
+After 12s of the healing effect from Short-Range Rapid Interdiction Fire, all nearby party members recover HP equivalent to 10% of Chevreuse’s Max HP once.
+After a party member is healed by Short-Range Rapid Interdiction Fire, they gain a 20% Pyro DMG Bonus and Electro DMG Bonus for 8s. Max 3 stacks. Each stack’s duration is counted independently.
+Every Genshin Impact character has its own set of constellations above you can see Chevreuse constellations list with descriptions.
+Ascension Materials
+In addition, there are ascension phases that increase the level cap for your character. After Chevreuse reaches the 20th level she can be ascended to the next ascension phase, up to phase 6, which allow getting 90th level.
+Character Ascension Materials
+Agnidus Agate:
+Agnidus Agate Sliver
+,
+Agnidus Agate Fragment
+,
+Agnidus Agate Chunk
+,
+Agnidus Agate Gemstone
+.
+Fontemer Unihorn
+Common Ascension Materials
+Meshing Gear
+,
+Mechanical Spur Gear
+,
+Artificed Dynamic Gear
+.
+Local Specialty
+Lumidouce Bell
+Genshin Impact Enhancement Progression Calculator
+In order to level up ascension phases, you’ll need materials. So the list of those required for Chevreuse is listed above.
+Artem R.
+I have been an avid gamer since childhood. My favorite genres are RPGs, Action, and MMOs. Some of my all-time favorite games include the Diablo and Path of Exile ARPG series, the Dark Souls series, and JRPGs like Xenoblade, Atelier, and the Final Fantasy. I am also a big fan of the PSP and PS Vita, and I currently enjoy gaming on my Nintendo Switch.
+Post Views:
+4,815
+Please share it with your friends
+Tags:
+Genshin Impact
+Post navigation
+Previous
+How to Play Ready or Not Solo: A Comprehensive Guide
+Next
+Diablo 3 Season 30 Classes Tier List

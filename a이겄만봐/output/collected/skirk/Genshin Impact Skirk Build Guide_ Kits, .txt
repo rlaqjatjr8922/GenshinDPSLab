@@ -1,0 +1,284 @@
+Story Highlights
+Skirk is the new 5-Star Cryo Sword unit in Genshin Impact!
+Skirk is designed to be an on-field carry and a strong synergy with Freeze teams!
+Skirk is a definite must-pull as she's currently the best Cryo DPS in the game!
+Skirk
+is a
+5-star Cryo Sword
+character in
+Genshin Impact
+that was released in
+Version 5.7
+, the first phase banner. Skirk is designed to be an on-field carry, with a kit centered around two key mechanics: her
+Serpent Subtlety
+energy system and a strong synergy with
+Freeze teams
+.
+In this Genshin Impact Skirk guide, we talk about her kit, find out her best artifacts and build, and more.
+Skirk: Void Star
+Sinner's Pupil, Fool's Master
+#GenshinImpact
+#Skirk
+The stars hang above in their night-veiled skies.
+The Abyss lies beneath in chthonic depths.
+None can know what lies beyond the bespangled heights, just as none can perceive that which dwells in lightless…
+pic.twitter.com/vicn4Lyw4H
+— Genshin Impact (@GenshinImpact)
+May 13, 2025
+Table Of Contents
+Genshin Impact Skirk Guide: Kit Explained
+Genshin Impact Skirk Build Guide: Constellations
+Genshin Impact Skirk Guide: Best in-slot weapon
+Genshin Impact Skirk Build Guide: Artifacts to use
+Best Team Comps for Skirk in Genshin Impact
+Is Skirk worth pulling in Genshin Impact
+Genshin Impact Skirk Guide: Kit Explained
+Skirk’s kit centers around managing
+Serpent Subtlety
+, a unique resource that fuels both her sustained damage and her powerful burst. Her
+Elemental Skill
+has two versions: tapping it activates
+Seven-Phase Flash
+, turning her into a
+Cryo-infused
+on-field attacker with rapid slashes that drain Subtlety over time.
+Holding the skill makes her dash quickly without attacking, which helps build Subtlety or reposition safely. The key decision is whether to spend this resource maintaining high on-field Cryo DPS or save it for her
+Elemental Burst
+, a high-scaling
+AoE Cryo slash
+that consumes all Subtlety if at least 50 points are available, unleashing massive damage.
+Genshin Impact Skirk (Image via HoYoverse)
+Her passives heavily reward
+Freeze team compositions
+. Skirk gains increased damage based on how many true
+Cryo
+or
+Hydro characters
+are in the party (infusions don’t count), with major boosts at three Hydro/Cryo allies.
+Her reactions, like
+Frozen
+or
+Superconduct
+, generate
+Void Rifts
+, which recharge Subtlety and extend her uptime. Without frequent reactions, her rotation becomes less efficient. She also boosts all party members’ Elemental Skill levels by 1 in full Freeze teams, offering even more value in
+mono-Cryo/Hydro setups.
+Genshin Impact Skirk Build Guide: Constellations
+C1
+In terms of pure personal damage gain, it’s a very solid early constellation. So, while
+C1
+is one of the stronger early constellations in terms of boosting personal damage, its actual team-wide impact is more moderate.
+C2
+If you’re running Skirk primarily as a burst unit,
+C2
+becomes a very appealing breakpoint since it meaningfully enhances her rotation ceiling. It’s less critical for NA-focused playstyles, though it still adds value.
+C3
+C3
+boosts her
+Burst talent level
+and is straightforwardly good, especially since the burst scaling is already so high.
+For those already investing in C2, it makes sense to go for C3 as well to maximize that scaling window.
+C4
+C4
+gives Skirk a
+40% ATK buff
+in
+Freeze teams
+. However, at this point in the constellations, the returns are a bit more diminishing.
+Still, it’s another boost for Burst mode in particular. But compared to the earlier constellations, it’s not a game-changer.
+C5
+C5
+is a skill talent level boost. It’s a good-to-have more than a must-have.
+C6
+C6
+is where everything ties together. It’s one of those constellations that simply makes everything stronger. It pushes her numbers significantly higher.
+If you’re looking to crown her as your primary carry and want to go all-in, C6 is a very solid investment that doesn’t come with weird conditions.
+In summary, the best stopping points for constellations are C1 and C2, depending on how you prefer to play Skirk.
+Genshin Impact Skirk Guide: Best in-slot weapon
+Azurelight
+(5*)
+Her
+signature weapon
+is by far the best. It’s tailor-made for her and gives her a whopping
+48% ATK
+and
+40% Crit DMG
+when she has 0 energy, basically always, because her burst cost is zero. The stat stick value here is amazing.
+If you look at it purely from a raw stat perspective, it blows most other five-stars out of the water. Think of it like a
+Homa situation
+, but for a sword DPS: pure stat steroids, not utility, just damage.
+Finale of the Deep
+(4*)
+Now, surprisingly, despite how cracked her signature is,
+her free-to-play options are excellent
+, especially
+Finale of the Deep
+.
+Finale gives you an effective over 50% ATK worth of value when you include its flat ATK boost scaling off HP. If you’re not going for
+Azurelight
+, Finale is the best craftable and only around 10–15% worse than her signature.
+Calamity of Eshu (4*)
+Even better than Finale, if you have it, is
+Calamity of Eshu
+. The event sword from an older version. It gives even more value than Finale in normal and charged attack-focused playstyles, making it arguably her
+best free-to-play option
+.
+It can match 5-star weapons like Mistsplitter when shielded, but that shield uptime is the catch. If your shield breaks, you lose the entire passive. So this weapon is high risk, high reward. But when it works.
+Summit Shaper
+(5*)
+Among 5-star gacha weapons,
+Summit Shaper
+is surprisingly solid if you’re shielded. It’s generally not worth pulling for, but if you already own it, it competes pretty evenly with the better five-star stat sticks when shielded.
+Without a shield, though, it’s just okay and similar to free-to-play options.
+Mistsplitter Reforged/Haran Geppaku Futsu/Primordial Jade Cutter
+Sword
+(5*)
+Mistsplitter
+,
+Haran
+, and
+Jade Cutter
+are all solid picks, too.
+Wolf-Fang
+(4*)
+Wolf-Fang
+(the Battle Pass sword) is okay if you’re focusing on Skirk’s burst mode, but it needs refines to be better than Finale. Without those, it’s just not worth prioritizing.
+Genshin Impact Skirk Build Guide: Artifacts to use
+Image via HoYoverse
+Marechaussee Hunter (BiS)
+The
+Marechaussee Hunter
+is currently her generic best-in-slot if you’re running her with HP-consuming setups. The
+36% CRIT Rat
+e from the two-piece bonus is incredibly valuable, especially when paired with CRIT DMG weapons, and the full four-piece effect grants up to
+15% Normal Attack
+DMG.
+It does not boost her Burst, but with the way Skirk’s rotation typically starts with her Burst followed by Normal spam, you can still get very strong value out of it.
+Finale of the Deep Galleries
+Gallery of Dreams set
+is an excellent alternative. This set buffs her Charged and Plunging Attacks based on elemental spread.
+It also works better in
+Burst-focused builds
+and is more universal. You can run it on any weapon, without worrying about stacking mechanics or resonance dependency.
+Blizzard Strayer
+Blizzard Strayer
+can be used if you’re playing a Freeze comp, but it’s unreliable in Abyss or against bosses where enemies can’t be frozen.
+Even with high uptime on Cryo aura, if the enemy isn’t frozen, you’ll only get half of the 4-piece bonus. It’s not worth farming specifically for Skirk.
+As for her Main Stats and Sub-Stats:
+Timepiece:
+ATK%
+Goblet:
+Cryo DMG Bonus
+Circlet:
+CRIT Rate / CRIT DMG (depending on weapon & substats)
+Sub-stat:
+Crit DMG, Crit Rate, ATK%, ER
+Best Team Comps for Skirk in Genshin Impact
+Non-Freeze Team
+Skirk’s best teams are freeze-focused, and there’s no debate around that. Her kit excels in these comps because
+Cryo aura uptime
+is high, which helps activate Cryo resonance for crit rate and allows her to fully benefit from artifact effects. If you want to force her into
+non-freeze teams
+, your options are Melt or Hyperbloom.
+Teams
+Character 1
+Character 2
+Character 3
+Character 4
+Melt
+Skirk
+Bennett
+Mavuika
+Xilonen
+Hyperbloom
+Skirk
+Nahida
+Xingqiu
+Raiden Shogun
+But realistically, every melt or bloom team variant that’s been tested so far performs worse than even the weakest freeze team setups. Melt comps suffer from inconsistent triggering, and bloom comps waste her potential by making her feel like a random extra instead of a core carry.
+So they’re not worth running on her. Stick to freeze for consistency, synergy, and actual value.
+Freeze Team
+The best freeze teams revolve around having
+Escoffier
+and
+Furina
+, with a flexible fourth slot that doesn’t drastically change overall performance. The difference between the top five options for that slot is negligible. As long as you have Escoffier and Furina, you essentially have the best Skirk team available.
+Image via HoYoverse
+If you lack Escoffier or Furina, things get more complicated. Escoffier is valuable primarily because she’s a healer, and if you have her but not Furina, the overall team value drops compared to having both. Missing Escoffier means you have to either run Furina with a weaker healer like
+Mika
+or
+Charlotte
+,
+or run a double Hydro comp without Furina.
+Furina’s value depends heavily on having Escoffier as well. Without Escoffier, Skirk’s damage potential declines notably, though she remains viable thanks to her strong burst and attack rotation. Still, she won’t compete with top-tier damage in this setup, barely clearing the bar for harder content.
+Teams
+Character 1
+Character 2
+Character 3
+Character 4
+DPS-Hypercarry
+Skirk
+Furina
+Escoffier
+Cryo/Hydro Unit
+Regarding the flexible fourth slot in freeze teams, options include
+Citlali
+,
+Yelan
+,
+Shenhe
+,
+Mualani
+, and
+Mona
+.
+Citlali
+offers a strong shield and utility but struggles with skill uptime and interaction with Skirk’s rotation, especially with artifact sets like TTDS.
+Yelan
+adds personal damage that helps speed up fights but lowers Cryo resonance uptime against bosses.
+Shenhe
+provides consistent Cryo resonance and a shred effect, but her damage numbers are lower, and she’s less useful outside freeze teams, making her less versatile.
+Mualani
+and
+Mona
+round out the list, with Mona generally being the weakest unless she has constellation 4, which boosts her strength significantly. Mona’s energy recharge demands are high but manageable with double Hydro teams, and her burst provides a powerful front-loaded damage buff.
+Is Skirk worth pulling in Genshin Impact
+Skirk is worth pulling if you enjoy
+Freeze teams
+and want a flexible
+Cryo unit
+who can serve as both an on-field damage dealer and a quick-swap burst nuke. Her kit offers a unique dual playstyle, letting you either dish out consistent
+Cryo-infused normal attacks
+or store energy for a powerful
+AoE burst
+, and she thrives in compositions with multiple Cryo and Hydro characters.
+While her performance heavily relies on team synergy and proper management of her
+Subtlety resource
+, in the right setup, she offers
+strong damage, AoE coverage
+, and
+solid utility
+, especially in Mono-Freeze teams. However, if you’re not a fan of Freeze playstyles or lack the right teammates, her value drops significantly.
+Read more of our Genshin Impact content here:
+Genshin Impact Redeem Codes
+Genshin Impact Version 5.7 update
+Genshin Impact Skirk Pre-Farm Guide
+What are your thoughts on our Genshin Impact Skirk Guide? Let us know in the comments below.
+For more Mobile Gaming news and updates, join our
+WhatsApp group
+,
+Telegram Group
+,
+or
+Discord server
+. Also, follow us on
+Google News
+,
+Instagram
+, and
+Twitter
+for quick updates.
+Tags
+Gacha Games
+Genshin Impact
+HoYoverse

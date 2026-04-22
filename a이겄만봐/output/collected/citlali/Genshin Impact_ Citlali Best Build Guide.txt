@@ -1,0 +1,112 @@
+miHoYo
+Citlali is one of the two characters that will be coming in the first phase of Version 5.3. Unfortunately for Citlali, she has been overshadowed due to being on the same banner as
+Mavuika
+. This, coupled with Citlali being the first Cryo character to be released in close to a year, definitely creates a negative image of her. That being said, Citlali is by no means a bad character, and she might just be on par with Mavuika in some cases. Let’s learn more about her and how to build her.
+Table of Contents
+Citlali Overview
+Citlali Best Weapons
+Citlali Best Artifacts
+Citlali Skill Priority
+Citlali Overview
+Name:
+Citlali
+Constellation:
+Patina Anavatlaca
+Rarity:
+5-star
+Element:
+Cryo
+Weapon:
+Catalyst
+VA
+Tano Asami (JP)
+Skyler Davenport (EN)
+Citlali is a 5-star Cryo character who takes on a supportive role of providing shields and decreasing enemies’ Hydro and Pyro RES. While her main gimmick is being able to provide a decent shield that scales off of Elemental Mastery, Citlali is more than that. Upon reaching 50 Nightsoul Points, which can be done by using her skill and then her Elemental Burst, Citlali becomes one of the best Cryo applicators in the game. Given that her shield scales from Elemental Mastery, it also means that she will greatly benefit Pyro teams due to the Melt reaction. Lastly, since Citlali is a Natlan character, she can make great use of the Scroll of the Hero of Cinder City artifact set, which will greatly boost the damage of the main DPS of the team.
+All in all, Citlali looks to be an average shielder who focuses on offense with the help of her Cryo application and Elemental Burst. Given her nature, she performs the best in Pyro teams due to the Melt reaction, but she can also be used in various Cryo teams as well, though they won’t draw Citlali’s full benefit.
+Advertisement
+Citlali Best Weapons
+Due to being a Catalyst user and a character that scales from Elemental Mastery, Citlali has a ton of good weapons to use. Her best one is without a doubt her signature, the Starcaller's Watch, which not only provides her with a good boost to Elemental Mastery from its main stat but also gives a lot more Elemental Mastery from its effect and boosts the main DPS’s damage by 28% whenever Citlali has cast her shield on them, making for one amazing support weapon. Apart from this weapon, you can find our other recommendations down below!
+Rank
+W-Engine
+Effect
+1
+Starcaller's Watch
+Increases Elemental Mastery by
+100
+. Gain the "Mirror of Night" effect within
+15s
+after the equipping character creates a shield: The current active party member deals
+28%
+increased DMG to nearby opponents. You can gain the "Mirror of Night" effect once every
+14s
+.
+2
+A Thousand Floating Dreams
+Party members other than the equipping character will provide the equipping character with buffs based on whether their Elemental Type is the same as the latter or not. If their Elemental Types are the same, increase Elemental Mastery by
+32
+. If not, increase the equipping character's DMG Bonus from their Elemental Type by
+10%
+. Each of the aforementioned effects can have up to
+3
+stacks. Additionally, all nearby party members other than the equipping character will have their Elemental Mastery increased by
+40
+. Multiple such effects from multiple such weapons can stack.
+FREE TO PLAY
+3
+Thrilling Tales of Dragon Slayers
+When switching characters, the new character taking the field has their ATK increased by
+24%
+for
+10s
+. This effect can only occur once every
+20
+s
+.
+Advertisement
+Citlali Best Artifacts
+When it comes to artifacts and Natlan characters, there are only two ways one can go. It’s either choosing the Obsidian Codex or the Scroll of the Hero of Cinder City. In Citlali’s case, the choice is obvious. She can greatly benefit from the Scroll of the Hero of Cinder City thanks to its energy generation 2-piece effect, and she can also utilize the 4-piece effect extremely well, greatly boosting the damage of the rest of the team. There is no better set for her, and you honestly don’t need to look for another one!
+Rank
+Artifact
+Effect
+1
+Scroll of the Hero of Cinder City
+2-Piece
+: When a nearby party member triggers a
+Nightsoul Burst
+, the equipping character regenerates
+6
+Energy.
+4-Piece
+:  After the equipping character triggers a reaction related to their Elemental Type, all nearby party members gain a
+12%
+Elemental
+DMG
+Bonus for reaction-proximate Elemental Types for
+15s
+.
+If the equipping character is in the
+Nightsoul's Blessing
+state when triggering this effect, all nearby party members gain an additional
+28%
+Elemental
+DMG
+Bonus for reaction-proximate Elemental Types for
+20s
+.
+The equipping character can trigger this effect while off-field, and the DMG
+bonus from Artifact Sets with the same name do not stack.
+Main Stats
+Sands
+Goblet
+Circlet
+Elemental Mastery
+Elemental Mastery
+Elemental Mastery
+Substat Priority
+Elemental Mastery > CRIT Rate / CRIT DMG > Energy Recharge
+Advertisement
+Citlali Skill Priority
+As for Citlali’s skills, you first want to prioritize her Elemental Skill or rather her Shield. As it is the biggest part of her kit and the thing that will also trigger her signature weapon, it is crucial to try and have Citlali’s shield up at most times. After this, you can focus on her Elemental Burst for the added damage and finally leave the normal attacks for last if you even wish to touch them.
+Skill Priority
+Elemental Skill > Elemental Burst > Normal Attack
+Advertisement

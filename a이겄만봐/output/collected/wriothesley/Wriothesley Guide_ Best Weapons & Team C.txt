@@ -1,0 +1,150 @@
+Wriothesley Genshin Impact Guide 2026: Ultimate Build, Teams & Artifacts for Cryo Catalyst DPS
+By
+KleeSpark
+•
+2026-03-16
+•
+133383 views
+Wriothesley, the premier Cryo catalyst DPS in Genshin Impact, thrives with optimized weapons and team comps for devastating combat mastery.
+Wriothesley, the groundbreaking Cryo catalyst user from Fontaine, has solidified his position as a premier main DPS in Genshin Impact's current meta. His unique blend of relentless Cryo application and a high-risk, high-reward HP-fluctuation playstyle offers a thrilling and potent combat experience. As the first of his kind, he opens up dynamic team compositions that rely less on Energy management and more on sustained, aggressive pressure. Mastering his kit involves embracing his health-shifting mechanics to unlock devastating damage potential, making proper build optimization absolutely essential for any serious player looking to dominate the Spiral Abyss or overworld challenges.
+🏆 Best Weapons For Wriothesley
+Equipping Wriothesley with the right catalyst is paramount to maximizing his damage output. The undisputed
+BiS (Best in Slot)
+is his signature 5-star weapon:
+Cashflow Supervision
+⭐⭐⭐⭐⭐: This weapon is tailor-made for his mechanics. It provides a massive CRIT Rate sub-stat and a skill that synergizes perfectly with his HP-loss playstyle. Upon equipping, it grants an
+ATK boost
+. Crucially, whenever his HP increases or decreases, it boosts his
+Normal and Charged Attack DMG
+. After stacking these effects, it even grants an
+ATK SPD increase
+, making his attack sequences smoother and deadlier. It's the ultimate weapon for his high-octane gameplay.
+Premium 5-Star Alternatives:
+Tulaytullah's Remembrance
+⭐⭐⭐⭐⭐ (Wanderer's Signature): An exceptional choice focusing on enhancing his Normal Attacks. It offers high base ATK and a massive CRIT DMG sub-stat. Its skill significantly boosts
+Normal Attack SPD and DMG
+after using an Elemental Skill, perfectly aligning with Wriothesley's primary damage source.
+Top-Tier 4-Star & F2P Options:
+For players without access to 5-star gacha weapons, these 4-star catalysts are superb choices:
+Weapon
+Rarity
+Key Strength
+Why It's Good for Wriothesley
+The Widsith
+⭐⭐⭐⭐
+CRIT DMG Sub-stat
+Its random buff upon entering the field (ATK%, Elemental DMG%, or EM) can provide massive, temporary power spikes. A classic and reliable choice.
+Flowing Purity
+⭐⭐⭐⭐
+ATK% Sub-stat, Craftable
+A fantastic F2P option obtainable via forging. Its skill grants an
+Elemental DMG Bonus
+after using an Elemental Skill, directly boosting his Cryo damage.
+Dodoco Tales
+(Event-Exclusive)
+⭐⭐⭐⭐
+ATK% Sub-stat
+Designed for DPS catalysts, it creates a synergistic loop where Normal Attacks boost Charged Attack DMG and vice-versa, enhancing his overall damage.
+👥 Best Team Comps For Wriothesley
+Building a cohesive team around Wriothesley is all about enabling his strengths and mitigating his risks. A standard team structure should include:
+Wriothesley (Main DPS) + Healer + Off-Field Sub-DPS + Flex Support
+. Here are the most effective archetypes:
+1. Permafreeze Team (Top Tier Crowd Control)
+❄️💧
+This comp focuses on locking down groups of enemies, providing immense safety and control.
+Core Concept:
+Wriothesley applies constant Cryo, while a Hydro character Freezes enemies in place.
+Example Team:
+Wriothesley +
+Yelan/Xingqiu
+(Hydro application) +
+Kazuha/Sucrose
+(VV Shred & grouping) +
+Charlotte/Diona
+(Healing & Cryo Resonance).
+Why it works:
+Frozen enemies can't fight back, allowing Wriothesley to unleash his full combo strings without interruption. Blizzard Strayer artifact set gains maximum value here.
+2. Melt Team (Maximum Damage Output)
+❄️🔥
+This composition aims for the highest possible damage numbers by triggering the powerful Melt reaction.
+Core Concept:
+Wriothesley's Cryo attacks trigger Melt on enemies affected by Pyro.
+Example Team:
+Wriothesley +
+Xiangling
+(Off-field Pyro) +
+Bennett
+(Healing, ATK Buff, Pyro Battery) +
+Zhongli/Kazuha
+(Shield/Resistance Shred).
+Why it works:
+Bennett provides essential healing for Wriothesley's HP mechanics while buffing his ATK tremendously. Xiangling's persistent Pyro application enables consistent Melt reactions for explosive damage.
+3. Superconduct/Physical Hybrid Team
+⚡
+A more niche but fun option that leverages his fast attacks.
+Core Concept:
+Trigger Superconduct to reduce enemy Physical RES, then deal mixed Cryo and Physical damage.
+Example Team:
+Wriothesley +
+Raiden Shogun/Fischl
+(Electro application) +
+Mika/Yun Jin
+(ATK SPD/NA DMG Buff) +
+Flex Healer/Shielder
+.
+Team-Building Essentials Checklist:
+✅ A
+reliable Healer
+(Bennett for Melt, Kokomi/Barbara for Freeze, Kuki Shinobu for flexibility) is NON-NEGOTIABLE due to his HP-loss mechanic.
+✅
+Off-field Sub-DPS
+(Yelan, Xiangling, Fischl) to enable reactions and add supplemental damage.
+✅
+Support
+for shredding resistances (Anemo VV users), providing shields (Zhongli), or boosting damage (Shenhe).
+🎯 Best Artifacts, Stats, & Skill Priority
+Artifact Sets:
+Marechaussee Hunter (Best Overall Set)
+🏆: This Fontaine artifact set is his
+BiS for most builds
+. The 2-piece boosts Normal/Charged Attack DMG by 15%. The 4-piece effect is perfect: whenever his HP fluctuates (which it constantly does), he gains a
+CRIT Rate boost
+stack, up to 3 stacks. This synergizes flawlessly with his signature weapon and playstyle, often eliminating the need for a CRIT Rate circlet.
+Blizzard Strayer (Best for Permafreeze)
+❄️: The classic Cryo set remains a top contender, especially in Freeze teams. The 4-piece effect grants up to
+40% CRIT Rate
+against Frozen enemies, allowing for an ultra-high CRIT DMG build. It's slightly less flexible than Marechaussee but unmatched in its specific niche.
+Main Stats & Sub-Stats Priority:
+Slot
+Main Stat Priority
+Sub-Stat Priority (High to Low)
+Sands
+ATK%
+CRIT Rate / CRIT DMG > ATK% > Energy Recharge
+Goblet
+Cryo DMG Bonus%
+CRIT Rate / CRIT DMG > ATK% > Energy Recharge
+Circlet
+CRIT DMG
+(if using Marechaussee/Blizzard) or
+CRIT Rate
+CRIT Rate / CRIT DMG > ATK% > Energy Recharge
+🔧 Skill Talent Priority:
+Normal Attack >
+Elemental Skill >
+Elemental Burst
+Normal Attack
+is your
+TOP PRIORITY
+as it is the core of his damage. Level this first!
+Elemental Skill
+is next. It deals damage and, more importantly, enhances his Normal Attacks, making it crucial for his damage rotation.
+Elemental Burst
+is last. It's a powerful nuke, but his sustained damage comes from his Normal Attacks enhanced by his Skill.
+Building Wriothesley is a rewarding endeavor. By focusing on his unique HP mechanics, prioritizing his Normal Attacks, and surrounding him with a supportive team, you'll unlock a powerful and exhilarating Cryo DPS capable of dominating any content Genshin Impact has to offer in 2026.
+Treasure Chests
+Bug Reports
+🔗
+f
+t
+y

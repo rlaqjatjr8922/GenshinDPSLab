@@ -1,0 +1,210 @@
+Task Search
+Checklists
+Guides
+Markers
+Videos
+Sort and Filter
+No Results
+Checklists
+New Checklist
+All Lists
+My Checklists
+All
+All Lists
+My Checklists
+How creative can you get with your first free checklist?
+Create a free account
+All Interactive Maps and Locations
+Genshin Impact Furina Build Guide - Best Weapons, Artifacts, and Teams
+By
+Cedric Pabriga
+,
+Jen Rothery
+,
+Triforce
+,
++30 more
+Updated
+:
+Nov 13, 2023 5:11am UTC
+Furina is the long-awated Hydro Archon who rules over the nation of Fontaine. As the leader of her nation, she offers exceptional long-term damage and off-field support for her teammates, especially Fontainians. This guide to the
+best Genshin Impact Furina build
+will explain the best weapons, artifact sets, constellations, and team compositions for Furina.
+Furina
+Rarity:
+★★★★★
+Element:
+Hydro
+Weapon:
+Sword
+Table of Contents:
+How to Get Furina
+Furina Gameplay Overview
+Furina Talents and Attack Combos
+Furina Constellation Analysis
+Furina's Best Weapons
+Furina's Best Artifacts
+Furina's Best Teams
+Also see
+Genshin Furina Materials
+How to Get Furina in Genshin Impact
+Furina was made available on the 4.2 limited banner as a featured 5-star unit. After 4.2, you’ll have to wait for reruns in order to get another chance of acquiring her.
+Genshin Furina Gameplay Overview
+Element:
+Hydro
+Weapon:
+Sword
+Rarity:
+5-star
+Furina is an off-field DPS and Support
+that utilizes her Skill to do impressive off-field damage and using her Burst to offer the team sizeable buffs, allowing her to be the centerpiece of a wide variety of team compositions.
+Archons
+share a pattern of being powerful and centralizing, meaning that they are always worth acquiring and will be relevant and valuable for a long time.
+Furina is also the only character so far who can change her alignment between Pneuma and Ousia at will, allowing her to adapt to any Fontaine puzzle or boss.
+Furina does need some help, however, from a strong
+healing teammate
+. One of her main traits is draining the team’s HP in order to deal damage and/or apply buffs. In longer fights like Spiral Abyss (save for players who have multiple 5-star units with all their constellations), she will eventually drain her team dry.
+A character with a powerful, fast, teamwide heal
+will be essential to keep the Furina engine going.
+The Hydro Archon also has the widest variety of
+energy requirements
+. You’ll have to consider your gearing carefully depending on what team she’s in.
+In teams where she is the only Hydro character, her ER will need to be around 240.
+With one other Hydro character, it drops down to 200%.
+If you use powerful batteries like Raiden or Fischl, this drops much further down to 150% or lower.
+If you don’t want to keep changing your gear for each team, you can sacrifice some damage or buffing utility for a safe 180-200% Energy Recharge.
+Using another Hydro teammate is something you’ll probably want to do anyways with Furina, as she has strong synergies with many HP-scaling Hydro
+characters
+.
+Her
+Elemental application
+is quite irregular, as it is based on how frequently her summoned helpers attack opponents. This means that Furina will be decent at triggering elemental reactions, but not nearly as good as keeping Hydro on enemies for other teammates to take advantage of.
+There are no other characters who can do what Furina does, which makes her an invaluable asset to most players. It is strongly recommended to wish for her, if you have enough primogems saved up.
+Stats Worth Consideration
+Energy Recharge
+: Without batteries, Furina will need more than 220% Energy Recharge.
+Favonius weapons, Prototype Amber, additional Hydro teammates, and Electro resonance will reduce these needs. Do not neglect this stat, as using Burst off cooldown is absolutely necessary for her to function.
+HP%
+, which is what Furina’s kit scales with.
+Hydro Damage Bonus
+CRIT Rate or DMG
+Genshin Furina Talents and Attack Combos
+Your talent-levelling priority should be Burst = Skill > Normal Attack.
+Furina’s
+Normal and Charged Attacks
+are quite weak, though they do look pretty. Her Charged Attack allows her to change her alignment between Ousia and Pneuma (and change her appearance in the process), but you’ll almost never need to rely on this talent for damage.
+The
+Skill
+is her main source of Hydro application and damage.
+In one form, she summons several pets (a seahorse, a crab, and an octopus) to wander around dealing damage for 30 seconds, which is a huge amount of on-field time. Whenever they attack, they will drain HP from the team.
+In her other form, she instead summons a passive healer, but this healing is not enough to compensate for her regular HP draining. The Skill’s cooldown is only 20 seconds, which means that she will always have full uptime on her Skill.
+Furina's
+Burst
+lasts for 18 seconds with a 15-second cooldown, also allowing for maximum uptime, in which she enables the team to receive bonus healing buffs (which is different from healing the teammates) and bonus damage every time their current HP changes. Since Furina’s Skill helps drain the HP of the team consistently, and you’ll be pairing her with a strong healing unit anyways, ensuring the maximum buffs will be quite easy.
+Next, come her
+passives
+.
+Her
+first ascension passive
+triggers when a teammate is healed beyond their max HP by someone other than Furina, she will heal another teammate a small amount for four seconds.
+Her
+fourth ascension passive
+enhances her Skill damage and frequency based on her Max HP.
+Her
+exploration passive
+allows her to use underwater attacks in Fontaine with 30% more frequency.
+When it comes to field time, Furina should use her Skill talent, then use her Burst and swap out. The playstyle is straightforward, since you’re only focusing on gathering particles and buffing with her Burst.
+Genshin Furina Constellation Analysis
+Thankfully, Furina plays like a complete character at C0, but of course, constellations are always an improvement.
+Constellation Name
+Abbreviated In-Game Description
+Notes
+C1. Love Is a Rebellious Bird That None Can Tame
+Gives more fanfare, which enhances the buffs on her Burst. Also increases the maximum buff amounts on her Burst.
+Making a support better at their job is always decent. Is it mandatory? Absolutely not.
+C2. A Woman Adapts Like Duckweed in Water
+Increases Furina’s fanfare gain and her maximum HP based on her fanfare.
+Only valuable insofar as it increases her healing potential slightly.
+C3. My Secret Is Hidden Within Me, No One Will Know My Name
+Increase Burst talent level by 3.
+Even more support buffs!
+C4. They Know Not Life, Who Dwelt in the Netherworld Not!
+Regenerates energy for Furina and heals the active character whenever her summoned underlings attack.
+Critical for keeping Furina’s massive energy needs under control. Probably the goal of your constellations.
+C5. His Name I Now Know, It Is...!
+Increases Skill talent level by 3.
+Since her Skill is the most useful part of her kit for damage, this boost is valuable
+C6. Hear Me — Let Us Raise the Chalice of Love!
+Infuses Furina’s attacks with Hydro and increases damage based on 15% of her Max HP, while adding effects to her attacks based on her alignment. In Ousia, the team will be healed a small amount. In Pneuma, Normal Attack talent will deal an additional 20% of Furina’s Max HP. These effects can happen up to seven times.
+Essentially turns Furina into an on-field DPS that maximizes the value of her support while also dealing even better damage.
+Genshin Furina's Best Weapons
+Furina prefers to have weapons that improve her HP, Crit, and Skill damage. There are five main options for this.
+Weapon Name
+Abbreviated In-Game Description
+Notes
+Splendor of Tranquil Waters
+88.2% CRIT DMG
+When the equipping character's current HP increases or decreases, Elemental Skill DMG dealt will be increased by 8% for 6s. Max 3 stacks. This effect can be triggered once every 0.2s. When other party members' current HP increases or decreases, the equipping character's Max HP will be increased by 14% for 6s. Max 2 stacks. This effect can be triggered once every 0.2s, and can be triggered even if the wielder is off-field.
+Overall Best
+Furina’s signature weapon and best-in-slot. Increases every stat that’s relevant to Furina’s performance. Not much to say other than it’s raw stats that are catered to Furina specifically.
+Primordial Jade Cutter
+44.1% CRIT Rate
+HP increased by 20%. Additionally, provides an ATK Bonus based on 1.2% of the wielder's Max HP.
+Universally Good Limited 5-Star
+Regenerating energy solves many of Furina’s energy requirements, despite the HP% stat doing nothing for her. Refinements are hard to come by, but this is an absolutely free choice.
+Festering Desire (R5)
+45.9% ER
+Increases Elemental Skill DMG by 32% and Elemental Skill CRIT Rate by 12%.
+Only 90’s Kids Have This
+This is an event weapon from one of the very first events in Genshin Impact’s history. You’ll likely only have this if you’ve played the game since launch, but it is quite good in catering to Furina’s needs.
+Key of Khaj Nisut
+66.2% HP
+HP increased by 20%. When an Elemental Skill hits opponents, you gain the Grand Hymn effect for 20s. This effect increases the equipping character's Elemental Mastery by 0.12% of their Max HP. This effect can trigger once every 0.3s. Max 3 stacks. When this effect gains 3 stacks, or when the third stack's duration is refreshed, the Elemental Mastery of all nearby party members will be increased by 0.2% of the equipping character's max HP for 20s.
+Best for Maximizing HP
+The Elemental Mastery buff isn’t really relevant, but skyrocketing Furina’s HP stat will make her buffs stronger for her teammates.
+Fleuve Cendre Ferryman (R5)
+45.9% ER
+Increases Elemental Skill CRIT Rate by 16%. Additionally, increases Energy Recharge by 32% for 5s after using an Elemental Skill.
+Free Option if you like Fishing
+Behind this are other CRIT weapons, so I would use this as your bare minimum. The fishing is free and only takes a few days to get your first copy. It also helps Furina’s energy needs by a ton, making it quite valuable.
+Genshin Furina's Best Artifacts
+Sands
+– ER% (or HP%, depending on ER needs)
+Goblet
+– Hydro DMG% or HP% (comparable results)
+Circlet
+– CRIT Rate or Damage.
+There is really only one correct option for Furina if you care about her damage (which you should): the new
+Golden Troupe artifact set
+that skyrockets Skill damage. Alternatively, you can throw an old Tenacity of the Millelith set on her, but this severely undercuts her damage in exchange for a modest teamwide ATK boost.
+Genshin Furina's Best Teams
+Furina has so many team options that she basically creates her own archetype: the “Furina Team.”
+The Furina Team
+Building a Furina Team requires Furina to be paired with a powerful healer – one that can heal the whole team at once for a large amount to keep Furina’s buffs and damage output going. Beyond that, you pair two other damage-based units into the team (especially other Fontainians).
+Your healing and DPS choices will simply depend on what elemental reaction you wish to utilize most. It’s generally recommended to include at least one other Hydro character, but this isn’t required if you can handle her energy needs.
+Truly, you can use almost any popular DPS of any element as long as you pair them with a good reaction teammate, so the number of teammates is too long to list. As long as your healer is strong enough, you can slap most things together and just have it work.
+Furina
+Dedicated Healer
+Off-Field Unit
+On-Field Unit
+Up Next:
+Genshin Furina Materials
+Previous
+Genshin Navia Materials
+Next
+Genshin Furina Materials
+Top Guide Sections
+Genshin Impact Luna VI Details and Patch Notes
+Genshin Impact Luna IV Release Time and Details
+Genshin Impact Luna III Details and Patch Notes
+Genshin Impact Luna II Release Date and Details
+Was this guide helpful?
+Leave feedback
+In This Guide
+Genshin Impact
+HoYoverse
+Initial Release:
+Sep 27, 2020
++2
+Learn more
+Go to comments

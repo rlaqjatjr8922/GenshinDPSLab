@@ -1,0 +1,433 @@
+Genshin Impact Traveler (Anemo) Build
+Sword
+Anemo
+-
+0/0
+Viatrix
+Forsaken Rift
+A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.
+Best builds for Traveler (Anemo)
+ANEMO DPS Build
+Weapons
+1
+Freedom-Sworn
+Elemental Mastery
+2
+Primordial Jade Cutter
+CRIT Rate
+3
+Mistsplitter Reforged
+CRIT DMG
+4
+Sacrificial Sword
+Energy Recharge
+5
+Iron Sting
+Elemental Mastery
+6
+Summit Shaper
+ATK%
+7
+Skyward Blade
+Energy Recharge
+8
+Festering Desire
+Energy Recharge
+9
+Aquila Favonia
+Physical DMG Bonus
+10
+Lion's Roar
+ATK%
+11
+Amenoma Kageuchi
+R
+1
++
+ATK%
+12
+Favonius Sword
+Energy Recharge
+13
+Dark Iron Sword
+Elemental Mastery
+Artifacts
+1
+Viridescent Venerer
+4
+Choose 2
+Anemo DMG Bonus +15% set
+2
+Elemental Mastery +80 set
+2
+Noblesse Oblige
+2
+ATK +18% set
+2
+Substats Priority
+1
+Elemental Mastery
+2
+Energy Recharge
+3
+ATK%
+4
+CRIT Rate
+5
+CRIT DMG
+Talents Priority
+1
+E
+Skill
+2
+Q
+Burst
+3
+NA
+Normal Attack
+Recommended Primary Stats
+Sands
+Elemental Mastery / ATK% / Energy Recharge
+Goblet
+Elemental Mastery / Anemo DMG Bonus
+Circlet
+Elemental Mastery / CRIT Rate / CRIT DMG
+Most-used community build
+This build is based on the community's most-used artifacts and weapons. Submit your UID to help improve this data.
+Weapons
+1
+Prototype Rancour
+Physical DMG Bonus
+2
+Favonius Sword
+Energy Recharge
+3
+Sacrificial Sword
+Energy Recharge
+4
+Harbinger of Dawn
+CRIT DMG
+5
+Iron Sting
+Elemental Mastery
+Artifacts
+1
+Deepwood Memories
+4
+2
+Gladiator's Finale
+4
+3
+Scroll of the Hero of Cinder City
+4
+4
+Obsidian Codex
+4
+5
+Emblem of Severed Fate
+4
+Best teams for Traveler (Anemo)
+Open the full Traveler (Anemo) team guide
+Traveler (Anemo) Skills
+Foreign Ironwind
+Normal Attack
+Performs up to 5 rapid strikes.
+Charged Attack
+Consumes a certain amount of Stamina to unleash 2 rapid sword strikes.
+Plunging Attack
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Level
+1
+1-Hit DMG
+44.5%
+2-Hit DMG
+43.4%
+3-Hit DMG
+53%
+4-Hit DMG
+58.3%
+5-Hit DMG
+70.8%
+Charged Attack DMG
+55.9% + 72.2%
+Charged Attack Stamina Cost
+20
+Plunge DMG
+63.9%
+Low/High Plunge DMG
+127.8% / 159.7%
+Palm Vortex
+You discussed the way to grasp the formless wind with Paimon.
+Grasping the wind's might, you form a vortex of vacuum in your palm, causing continuous
+Anemo DMG
+to opponents in front of you.
+The vacuum vortex explodes when the skill duration ends, causing a greater amount of Anemo DMG over a larger area.
+Hold
+DMG and AoE will gradually increase.
+Elemental Absorption
+If the vortex comes into contact with
+Hydro
+/
+Pyro
+/
+Cryo
+/
+Electro
+, it will deal additional elemental DMG of that type.
+Elemental Absorption may only occur once per use.
+Level
+1
+Initial Cutting DMG
+12%
+Max Cutting DMG
+16.8%
+Initial Storm DMG
+176%
+Max Storm DMG
+192%
+Base CD
+5s
+Max Charging CD
+8s
+Gust Surge
+You and Paimon studied the flapping of a butterfly's wings.
+Guiding the path of the wind currents, you summon a forward-moving tornado that pulls objects and opponents towards itself, dealing continuous
+Anemo DMG
+.
+Elemental Absorption
+If the tornado comes into contact with
+Hydro
+/
+Pyro
+/
+Cryo
+/
+Electro
+, it will deal additional elemental DMG of that type.
+Elemental Absorption may only occur once per use.
+Level
+1
+Tornado DMG
+80.8%
+Additional Elemental DMG
+24.8%
+Duration
+6s
+CD
+15s
+Energy Cost
+60
+Passive Talents
+Slitting Wind
+Ascension Phase 1
+The last hit of a Normal Attack combo unleashes a wind blade, dealing 60% of ATK as
+Anemo DMG
+to all opponents in its path.
+Second Wind
+Ascension Phase 4
+Palm Vortex
+kills regenerate 2% HP for 5s.
+This effect can only occur once every 5s.
+Constellations
+Raging Vortex
+Constellation Lv. 1
+Palm Vortex
+pulls in opponents and objects within a 5m radius.
+Uprising Whirlwind
+Constellation Lv. 2
+Increases Energy Recharge by 16%.
+Sweeping Gust
+Constellation Lv. 3
+Increases the Level of
+Gust Surge
+by 3.
+Maximum upgrade level is 15.
+Cherishing Breezes
+Constellation Lv. 4
+Reduces DMG taken while casting
+Palm Vortex
+by 10%.
+Vortex Stellaris
+Constellation Lv. 5
+Increases the Level of
+Palm Vortex
+by 3.
+Maximum upgrade level is 15.
+Intertwined Winds
+Constellation Lv. 6
+Targets who take DMG from
+Gust Surge
+have their
+Anemo RES
+decreased by 20%.
+If an Elemental Absorption occurred, then their RES towards the corresponding Element is also decreased by 20%.
+Outfits
+As Heaven and Earth Are Made Anew
+An outfit worn by the Traveler which has accompanied the twin "stars" in their journey through countless worlds. Despite this, they cannot yet cannot grasp the true purpose of the cosmos. Even so, surely every question posed brings them a little closer to the final answer.
+Source
+:
+Complete the Archon Quest "True Moon" to obtain
+Rising Star
+Default
+The Traveler's outfit. A practical set of clothing to wear during a long journey.
+Stats
+Lv.
+1
+Lv.
+20
+Lv.
+40
+Lv.
+50
+Lv.
+60
+Lv.
+70
+Lv.
+80
+Lv.
+90
+Before Ascension
+After Ascension
+Ascend
+-
+1
+Base HP
+-
+912
+Base ATK
+-
+18
+Base DEF
+-
+57
+ATK%
+-
+0.0%
+Ascension Materials
+View ascension details
+Total
+420000
+1
+9
+9
+6
+168
+18
+30
+36
+Talent Materials
+LV.
+1
+→
+2
+12500
+Mora
+3
+Teachings of Freedom
+6
+Divining Scroll
+LV.
+2
+→
+3
+17500
+Mora
+2
+Guide to Resistance
+3
+Sealed Scroll
+LV.
+3
+→
+4
+25000
+Mora
+4
+Guide to Ballad
+4
+Sealed Scroll
+LV.
+4
+→
+5
+30000
+Mora
+6
+Guide to Freedom
+6
+Sealed Scroll
+LV.
+5
+→
+6
+37500
+Mora
+9
+Guide to Resistance
+9
+Sealed Scroll
+LV.
+6
+→
+7
+120000
+Mora
+4
+Philosophies of Ballad
+4
+Forbidden Curse Scroll
+1
+Dvalin's Sigh
+LV.
+7
+→
+8
+260000
+Mora
+6
+Philosophies of Freedom
+6
+Forbidden Curse Scroll
+1
+Dvalin's Sigh
+LV.
+8
+→
+9
+450000
+Mora
+12
+Philosophies of Resistance
+9
+Forbidden Curse Scroll
+2
+Dvalin's Sigh
+LV.
+9
+→
+10
+700000
+Mora
+16
+Philosophies of Ballad
+12
+Forbidden Curse Scroll
+2
+Dvalin's Sigh
+1
+Crown of Insight
+Total
+1652500
+3
+11
+6
+4
+20
+12
+6
+6
+22
+31
+6
+1

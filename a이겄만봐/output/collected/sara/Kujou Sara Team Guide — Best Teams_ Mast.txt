@@ -1,0 +1,434 @@
+Genshin Impact Kujou Sara Best Team Guide
+Last updated April 22, 2026. Looking for the best Kujou Sara teams in
+        Genshin Impact? Start with the top team summary below, then pick the
+        lineup that fits your roster.
+This page shows the best teams for Kujou Sara, primarily a Sub-DPS/Support. Top archetypes include Thunder (Raiden Shogun/Keqing-focused), Overload, and Electro-Charged comps. Flexibility allows swapping Sara with Keqing or adjusting roles based on build and roster needs.
+View Kujou Sara's character page
+Kujou Sara Team Summary
+#1
+Team Rating:SS
+Kujou Sara Thunder #1
+C6
+#2
+Team Rating:SS
+Kujou Sara Thunder #2 Raiden Hypercarry
+C6
+#3
+Team Rating:S
+Kujou Sara Overload Team
+C6
+#4
+Team Rating:A
+Kujou Sara Electro-Charged Raiden Team
+C6
+#5
+Team Rating:A
+Kujou Sara Electro-Charged Keqing Team
+C6
+#1 Kujou Sara Thunder #1
+Tier SS
+Kujou Sara is a Sub DPS/Support in the team.
+C6
+Kujou Sara can increase the
+Electro CRIT DMG Bonus
+of teammates.
+Raiden Shogun
+Main DPS
+Electro
+Raiden Shogun is the main DPS in the team. Her Elemental Burst DMG depends on the energy consumed by team members using their Elemental Burst. Beidou and Kujou Sara’s Elemental Bursts require 80 energy, which makes them best teammates of Raiden Shogun. Raiden Shogun can boost Energy Recharge of their teammates by using Elemental Burst, and also increase DMG of teammates’ Elemental Burst by using Elemental Skill. This makes Raiden Shogun a all-rounded Main DPS.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+Energy Recharge / ATK%
+Goblet
+ATK%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Engulfing Lightning
+"The Catch"
+Beidou
+Sub DPS
+Electro
+Beidou’s Elemental Burst can provide Electro DMG even at backstage. The high energy consumption of Elemental Burst maximizes Elemental Burst DMG of Raiden Shogun.
+After Raiden Shogun on live, it was discovered that Raiden Shogun attack during Elemental Burst can’t trigger Beidou’s Elemental Burst.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Skyward Pride
+Serpent Spine
+Kujou Sara
+Sub DPS
+Electro
+Constellation 6+
+Kujou Sara can provide ATK Bonus to teammates.
+C6
+Kujou Sara’s Elemental Burst can boost CRIT DMG of Electro DMG of Raiden Shogun and Beidou. The high energy consumption of Elemental Burst maximizes Elemental Burst DMG of Raiden Shogun.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Skyward Harp
+The Stringless
+Bennett
+Support
+Pyro
+Bennett’s Elemental Burst provides huge ATK buff and healing to other members.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+#2 Kujou Sara Thunder #2 Raiden Hypercarry
+Tier SS
+Raiden Shogun Hypercarry
+with Kujou Sara C6, Kazuha, and Bennett.
+Kujou Sara C6 greatly boosts Electro CRIT DMG, while Kazuha provides crowd control, Elemental DMG bonus, and RES shred. Bennett supplies a massive ATK buff and healing.
+Raiden Shogun
+Main DPS
+Electro
+Main on-field DPS. Her Elemental Burst is maximized by
+Kujou Sara C6
+'s Electro CRIT DMG bonus and
+Kazuha
+'s DMG buff/RES reduction. She also helps teammates by restoring Energy via her Burst and boosting teammates' Elemental Burst DMG with her Skill.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+Energy Recharge / ATK%
+Goblet
+ATK%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Engulfing Lightning
+"The Catch"
+Kujou Sara
+Sub DPS
+Electro
+Constellation 6+
+Provides ATK buff to the team. At
+C6
+, her Elemental Burst boosts Electro CRIT DMG for Raiden Shogun and other Electro teammates, making her a key damage amplifier in this team.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Skyward Harp
+The Stringless
+Kaedehara Kazuha
+Support
+Anemo
+Groups enemies, provides crowd control, grants team DMG buffs through Swirl and Elemental Mastery scaling, and reduces enemy Elemental RES with
+Viridescent Venerer
+.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Freedom-Sworn
+Iron Sting
+Bennett
+Support
+Pyro
+Provides a large ATK buff and healing through his Elemental Burst.
+Noblesse Oblige
+further increases team ATK.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+#3 Kujou Sara Overload Team
+Tier S
+Raiden Shogun is the Main DPS, while Kujou Sara (C6) provides Electro CRIT DMG support and ATK buffing. Xiangling supplies consistent Pyro application for Overload, and Bennett offers strong healing plus a massive ATK buff.
+Raiden Shogun
+Main DPS
+Electro
+Core on-field damage dealer. Her Elemental Burst scales with team Burst energy costs, making high-cost Burst teammates especially valuable.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+Energy Recharge / ATK%
+Goblet
+ATK%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Engulfing Lightning
+"The Catch"
+Kujou Sara
+Support
+Electro
+Constellation 6+
+Provides ATK bonus and, at C6, greatly boosts Electro CRIT DMG for Raiden Shogun and other Electro teammates.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Skyward Harp
+The Stringless
+Xiangling
+Sub DPS
+Pyro
+Delivers strong off-field damage and continuous Pyro application to enable Overload reactions with Raiden Shogun.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+ATK%
+Goblet
+Pyro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Engulfing Lightning
+"The Catch"
+Bennett
+Support
+Pyro
+Provides excellent healing and a massive ATK buff via Elemental Burst.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+#4 Kujou Sara Electro-Charged Raiden Team
+Tier A
+Kujou Sara(C6) improves Electro CRIT DMG for the team, while Raiden Shogun drives Electro-Charged reactions with Xingqiu. Bennett adds a powerful ATK buff and healing, making this a burst-focused, high-energy-cost team.
+Raiden Shogun
+Main DPS
+Electro
+Main DPS and on-field driver. Her Burst DMG scales with team Burst energy costs, and she helps recharge teammates while boosting their Burst damage.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+Energy Recharge / ATK%
+Goblet
+ATK%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Engulfing Lightning
+"The Catch"
+Kujou Sara
+Sub DPS
+Electro
+Constellation 6+
+Provides ATK buff and, at C6, increases Electro CRIT DMG for Raiden Shogun and other Electro teammates. Best played with high Burst uptime.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Skyward Harp
+The Stringless
+Xingqiu
+Sub DPS
+Hydro
+Applies Hydro consistently through Burst to enable Electro-Charged reactions with Raiden Shogun.
+Artifacts
+Noblesse Oblige
+Heart of Depth
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Sacrificial Sword
+Bennett
+Support
+Pyro
+Provides a massive ATK buff and healing through his Burst. Uses Noblesse to further boost team damage.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+#5 Kujou Sara Electro-Charged Keqing Team
+Tier A
+Kujou Sara (C6) provides ATK buff and Electro CRIT DMG bonus for Keqing, while Xingqiu enables Electro-Charged reactions. Bennett adds a strong ATK buff and healing for the whole team.
+Keqing
+Main DPS
+Electro
+Keqing is the on-field damage dealer, mainly using Charged Attacks. Her Elemental Burst benefits greatly from Kujou Sara (C6).
+Artifacts
+Gladiator's Finale
+Thundering Fury
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Mistsplitter Reforged
+The Black Sword
+Kujou Sara
+Sub DPS
+Electro
+Constellation 6+
+C6 Kujou Sara buffs teammates with ATK Bonus and boosts Electro CRIT DMG through her Burst. Works best as a burst support in this team.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Skyward Harp
+The Stringless
+Xingqiu
+Sub DPS
+Hydro
+Xingqiu provides continuous Hydro application with his Elemental Burst, enabling Electro-Charged reactions with Keqing's Electro attacks.
+Artifacts
+Noblesse Oblige
+Heart of Depth
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Sacrificial Sword
+Bennett
+Support
+Pyro
+Bennett supplies a massive ATK buff and strong healing through his Elemental Burst, greatly improving team damage and survivability.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+Kujou Sara Teams FAQ
+What is the best Kujou Sara team in Genshin Impact?
+Kujou Sara Thunder #1 is one of the strongest Kujou Sara teams right now. Use the team summary and build cards on this page to pick the best version for your account.
+What are good Kujou Sara teams without premium weapons?
+You can run strong Kujou Sara teams without signature weapons by prioritizing reaction synergy, energy consistency, and artifact main stats shown in each build card.
+Which teammates are best with Kujou Sara?
+Common high-performing partners include teams such as Kujou Sara Thunder #1, Kujou Sara Thunder #2 Raiden Hypercarry, Kujou Sara Overload Team. Check each lineup section for role breakdowns and gear priorities.

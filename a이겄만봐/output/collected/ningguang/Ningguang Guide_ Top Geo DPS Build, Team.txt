@@ -1,0 +1,126 @@
+As one of the best Geo damage dealers in Genshin Impact, Ningguang ascends to new heights with each update. Her unique combination of ranged attacks, AoE bursts and versatile team synergies cement her role as a top-tier main DPS. This comprehensive 2000+ word guide covers everything you need to maximize Ningguang‘s potential.
+Introduction
+Hailing from Liyue Harbor‘s wealthy Guizhong Ballista business, Ningguang is a rarity among vision bearers. Rather than adventuring, she built her fortune through savvy business deals. This changed upon receiving her Geo vision, which led Ningguang to study combat magic.
+With elegant poise, Ningguang now bombards enemies using precise crystal projectiles she materializes mid-air. Her normal attacks generate fatal flying Jade Stars that home in on targets. After gathering a few to orbit her, Ningguang triggers brilliant screen-shattering bursts on demand.
+As one of the few ranged Catalyst DPS units, Ningguang unleashes heavy AoE Geo damage in quick succession. We‘ll cover how to maximize her DPS potential through weapons, artifacts and teammates. I‘ll also share expert tips from my experience playing Ningguang as a main DPS.
+Optimal Build for DPS Ningguang
+This build focuses purely on beefing up Ningguang‘s charge attack and burst damage as much as possible. We stack damage multipliers from Geo bonus and crit to hit hard with every crystal volley.
+Weapons
+For 5-star catalysts, Lost Prayer to the Sacred Winds (LPSW) is generally considered Ningguang‘s best weapon. The Crit Rate substat aligns perfectly with Ningguang‘s needs, and the passive grants a huge ATK speed and DMG buff. I‘ve found LPSW adds 30-40k extra charge attack damage.
+Skyward Atlas is also amazing due to its high base ATK and DMG buff. The vacuum blades can hit enemies caught in Ningguang‘s burst too. However, LPSW edges out due to better stats and passive synergy.
+Here‘s how the top 5-star catalysts compare:
+Weapon
+Base ATK
+Substat
+Passive
+Lost Prayer
+674
+Crit Rate
+DMG and ATK SPD buff
+Skyward Atlas
+674
+ATK%
+AoE vacuum blades
+Memory of Dust
+608
+ATK%
+Team shield strength
+For 4-stars, Solar Pearl and The Widsith are generally considered best. At higher refinements, they match or beat 5-star weapons like Memory of Dust.
+Weapon
+Base ATK
+Substat
+Passive
+Solar Pearl
+510
+Crit Rate
+Normal/Charged ATK DMG buff
+The Widsith
+454
+Crit DMG
+Random DMG buff
+Ideally, refine these weapons as much as possible for even bigger stat sticks. The crit substat weapons also buff Ningguang‘s most vital stats.
+Artifacts
+For artifacts, the standard DPS setup is 2-piece Archaic Petra + 2-piece Gladiator/Shimenawa. I personally use 2-Petra, 2-Shimenawa for the extra ATK and burst damage.
+The core stats to prioritize are:
+Sands: ATK%
+Goblet: Geo DMG Bonus%
+Circlet: Crit Rate or DMG Circlet
+And for substats, stack as much crit, ATK% and Energy Recharge as possible:
+Sands
+ATK%
+Goblet
+Geo DMG Bonus%
+Circlet
+Crit Rate/Crit DMG
+Substats
+CRIT > ATK% > ER
+Ideally get CRIT Rate to 70% then boost CRIT DMG as high as possible. Some ER substats are good too for frequent bursting.
+Talents
+For talent levels, focus on getting Ningguang‘s Normal Attack to 9 first, then her elemental Burst to 9 as well. Her skill can stay at 6.
+This maximizes the damage she deals from her normal attack combo, charge attacks and burst during her rotation.
+Team Composition
+Ningguang‘s best teammates provide Geo resonance, off-field elemental application, buffs and utility.
+Geo Resonance Teams
+The Geo resonance between two Geo party members provides a 15% DMG bonus plus stronger shields. This helps boost Ningguang‘s damage significantly.
+Some top options are:
+Zhongli
+– beefy shields plus resistance shred with shields using 4-Petra
+Albedo
+– extra EM and steady Geo damage with 4-Petra
+Geo Traveler
+– battery, crit boost and 10% Geo shred
+I personally use Albedo with 4-Petra to buff Ningguang‘s Geo damage by 35% through his skill. His burst also generates energy for Ningguang while dealing 20k off-field damage.
+Sub DPS Teams
+Adding an off-field sub DPS lets Ningguang trigger extra reactions and amplify her damage even more during her rotation.
+Top picks are:
+Fischl
+– Oz provides electro application for overload procs
+Xingqiu
+– Rain swords apply wet status for crystallize shields
+Beidou
+– Lightning discharge jumps between grouped enemies
+Xingqiu is especially strong in AoE scenarios – applying wet status lets Ningguang constantly trigger crystallize for 150 extra EM while dealing damage.
+Sample Team Comps
+Here are some tested team comps and rotations to maximize Ningguang‘s damage potential:
+Geo Resonance Team
+Ningguang / Zhongli or Albedo / Bennett / Xiangling
+Powerful base team providing Geo and pyro resonance buffs. Use skills and bursts during Ningguang‘s rotation for huge buffed damage.
+Mono Geo Team
+Ningguang / Albedo / Zhongli / Geo Traveler
+Stacks tons of Geo constructs for maximum Geo particle generation. Lots of crit and shred bonuses too. Lacks damage amplification reactions however.
+Vaporize Nuke Team
+Ningguang / Xingqiu or Mona / Bennett / Zhongli
+Focuses on buffing Ningguang‘s burst damage through vaporize. Mona and Bennett‘s bursts plus TTDS buff create huge one-shot potential.
+Overload Team
+Ningguang / Fischl / Beidou / Bennett
+Constant electro-charged and overload reactions triggered by Oz, Beidou‘s burst and Ningguang‘s AoE attacks. Very high damage ceiling potential.
+There are many more combinations possible as well taking advantage of Geo‘s flexible role…
+Gameplay and Combos
+As a Catalyst user, Ningguang relies heavily on her normal and charged attack combo to deal damage. Maximizing her attack speed and chaining is vital to achieving high DPS.
+Attack Combos
+Ningguang ideally wants to perform 2 normal attacks then begin charge attacking continuously.
+2 Normal Attacks > Charge Attack
+Dash Cancel > Repeat
+Make sure to animation cancel each charge attack with a dash or jump to reduce wasting time between attacks.
+Skill and Burst Combos
+A key combo with Ningguang is using her Jade Screen then immediately burst afterwards. The proximity with the screen causes Ningguang‘s burst to gain a huge Geo DMG bonus when it explodes.
+Cast Jade Screen > Burst
+Charge Attack until burst explodes
+Repeat
+Having C2 Ningguang makes this rotation much smoother. With both skill and burst available more often, Ningguang can spam heavy hits non-stop when played well.
+Constellations
+Ningguang gains large spikes in damage and utility at certain constellations:
+C2
+– Major cooldown reductions on Skill and Burst make re-casting them much faster. Reduces energy needs as well.
+C4
+– Adds AoE capability versus groups plus more Jade Star generation. Significant for mobbing.
+C6
+– Boosts Charge Attack damage after using Burst while making them free. Results in 30% more DPS.
+Having C6 allows Ningguang to spam enhanced charge attacks freely after bursting. It cements her role as a ranged carry able to dish constant heavy Geo damage.
+Expert Tips and Summary
+After heavy investment into my C6 Ningguang, I can confidently say she still ranks among the top DPS characters currently. A well-built Ningguang simply decimates most content Genshin throws at you.
+With the right team, Ningguang blasts enemies apart in a flurry of crystal shards while shrugging off damage. Groups of enemies quickly turn into particles under feet from the non-stop AoE barrage.
+However, Ningguang does face some viability issues versus heavier single targets that can dash out of her attacks’ AoE. Future artifact sets tailored for Geo could help shore up these weaknesses though.
+Overall from my experiences playing her since 1.0, I definitely recommend all travelers to invest resources into our Geo milady. She won‘t disappoint.
+Let me know if you have any other questions about our Queen of Geo!
+You May Like to Read,

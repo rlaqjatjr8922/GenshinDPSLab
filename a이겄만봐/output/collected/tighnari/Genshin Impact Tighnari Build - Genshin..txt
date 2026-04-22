@@ -1,0 +1,196 @@
+Genshin Impact Tighnari Build
+Dendro
+Bow
+Sub DPS
+Tighnari Upgrade Materials
+Admonition
+The Meaning of Aeons
+Nagadus Emerald Sliver
+Majestic Hooked Beak
+Nilotpala Lotus
+Fungal Spores
+Tighnari Best Weapons
+1
+Hunter's Path
+2
+Aqua Simulacra
+3
+Polar Star
+4
+Fading Twilight
+R5
+5
+Slingshot
+R5
+Tighnari Best Artifacts
+1
+Wanderer's Troupe
+4
+2
+Gilded Dreams
+4
+3
+Deepwood Memories
+2
+Wanderer's Troupe
+2
+4
+Shimenawa's Reminiscence
+2
+Wanderer's Troupe
+2
+5
+Deepwood Memories
+4
+Tighnari Best Stats
+Sands:
+ATK% / Elemental Mastery
+Goblet:
+Dendro DMG
+Circlet:
+CRIT Rate / CRIT DMG
+Substats:
+CRIT Rate / CRIT DMG > Elemental Mastery > ATK%
+Character Builds by Genshin Impact Helper →
+Showcase
+Teams
+Talents
+Passives
+Constellations
+Ascension
+Tighnari Showcase
+Tighnari video guide by
+Braxophone
+.
+Check out his content!
+Best Tighnari Teams
+Keqing Aggravate
+Tighnari Quickswap
+Tighnari Talents
+Normal Attack
+Khanda Barrier-Buster
+Normal Attack Performs up to 4 consecutive shots with a bow. Charged Attack Perform a more precise Aimed Shot with increased DMG. While aiming, the power of
+Dendro
+will accumulate on the arrowhead before the arrow is fired. Has different effects based on how long the energy has been charged: Charge Level 1: Tighnari fires a Dendro-infused arrow that deals
+Dendro
+DMG. Charge Level 2: Tighnari fires a Wreath Arrow that deals
+Dendro
+DMG. Upon hit, the Wreath Arrow will create 4 Clusterbloom Arrows that will track nearby opponents automatically and deal
+Dendro
+DMG. Plunging Attack Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG on impact.
+Elemental Skill
+Vijnana-Phala Mine
+Tighnari throws a Vijnana Stormheart ahead of him that deals AoE
+Dendro
+DMG and creates a Vijnana-Khanda Field, which summons strange illusions to taunt enemies and draw their fire. Additionally, Tighnari gains the Vijnana Suffusion effect, which will decrease the Wreath Arrow's charging time by 2.4s. This effect will dissipate once the skill duration ends or after Tighnari has fired 3 Wreath Arrows.
+Elemental Burst
+Fashioner's Tanglevine Shaft
+Combines the power of all seeds to fire 6 Tanglevine Shafts that can track opponents and deal
+Dendro
+DMG. After they hit, the Tanglevine Shafts will create a secondary wave of Tanglevine Shafts that can also track opponents and deal
+Dendro
+DMG on hit.
+Tighnari Passives
+Ascension 1
+Keen Sight
+After Tighnari fires a Wreath Arrow, his Elemental Mastery is increased by 50 for 4s.
+Ascension 4
+Scholarly Blade
+For every point of Elemental Mastery Tighnari possesses, his Charged Attack and Fashioner's Tanglevine Shaft DMG are increased by 0.06%. The maximum DMG Bonus obtainable this way is 60%.
+Passive
+Encyclopedic Knowledge
+Displays the location of nearby resources unique to Sumeru on the mini-map.
+Tighnari Constellations
+Constellation 1
+Beginnings Determined at the Roots
+Tighnari's Charged Attack CRIT Rate is increased by 15%.
+Constellation 2
+Origins Known From the Stem
+When there are opponents within the Vijnana-Khanda Field created by Vijnana-Phala Mine, Tighnari gains 20%
+Dendro
+DMG Bonus. The effect will last up to 6s if the field's duration ends or if it no longer has opponents within it.
+Constellation 3
+Fortunes Read Amongst the Branches
+Increases the Level of Fashioner's Tanglevine Shaft by 3. Maximum upgrade level is 15.
+Constellation 4
+Withering Glimpsed in the Leaves
+When Fashioner's Tanglevine Shaft is unleashed, all nearby party members gain 60 Elemental Mastery for 8s. If the Fashioner's Tanglevine Shaft triggers a Burning, Bloom, Quicken, or Spread reaction, their Elemental Mastery will be further increased by 60. This latter case will also refresh the buff state's duration.
+Constellation 5
+Comprehension Amidst the Flowers
+Increase the Level of Vijnana-Phala Mine by 3. Maximum upgrade level is 15.
+Constellation 6
+Karma Adjudged From the Leaden Fruit
+Wreath Arrow's charging time is decreased by 0.9s, and will produce 1 additional Clusterbloom Arrow upon hit. This arrow deals 150% of Tighnari's ATK as DMG.
+Tighnari Ascension Costs
+Rank
+Lvl
+Cost
+Material
+Material
+Material
+Material
+1
+20
+20000
+1
+Nagadus Emerald Sliver
+3
+Nilotpala Lotus
+3
+Fungal Spores
+2
+40
+40000
+3
+Nagadus Emerald Fragment
+2
+Majestic Hooked Beak
+10
+Nilotpala Lotus
+15
+Fungal Spores
+3
+50
+60000
+6
+Nagadus Emerald Fragment
+4
+Majestic Hooked Beak
+20
+Nilotpala Lotus
+12
+Luminescent Pollen
+4
+60
+80000
+3
+Nagadus Emerald Chunk
+8
+Majestic Hooked Beak
+30
+Nilotpala Lotus
+18
+Luminescent Pollen
+5
+70
+100000
+6
+Nagadus Emerald Chunk
+12
+Majestic Hooked Beak
+45
+Nilotpala Lotus
+12
+Crystalline Cyst Dust
+6
+80
+120000
+6
+Nagadus Emerald Gemstone
+20
+Majestic Hooked Beak
+60
+Nilotpala Lotus
+24
+Crystalline Cyst Dust
+Loading...

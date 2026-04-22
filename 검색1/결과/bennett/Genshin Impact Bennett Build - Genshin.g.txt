@@ -1,0 +1,193 @@
+Genshin Impact Bennett Build
+Pyro
+Sword
+Support
+Bennett Upgrade Materials
+Resistance
+Dvalin's Plume
+Agnidus Agate Sliver
+Everflame Seed
+Windwheel Aster
+Treasure Hoarder Insignia
+Bennett Best Weapons
+1
+Mistsplitter Reforged
+2
+Aquila Favonia
+3
+Skyward Blade
+4
+Freedom-Sworn
+5
+The Alley Flash
+Bennett Best Artifacts
+1
+Noblesse Oblige
+4
+2
+Emblem of Severed Fate
+4
+3
+Crimson Witch of Flames
+4
+4
+Emblem of Severed Fate
+2
+Noblesse Oblige
+2
+5
+Crimson Witch of Flames
+2
+Noblesse Oblige
+2
+Bennett Best Stats
+Sands:
+ATK% / Energy Recharge
+Goblet:
+Pyro DMG
+Circlet:
+CRIT Rate / CRIT DMG
+Substats:
+CRIT Rate / CRIT DMG > ATK% > Energy Recharge
+Character Builds by Genshin Impact Helper →
+Showcase
+Teams
+Talents
+Passives
+Constellations
+Ascension
+Bennett Showcase
+Bennett video guide by
+Zy0x
+.
+Check out his content!
+Best Bennett Teams
+Childe Vaporize
+Raiden Vaporize
+Xiao Standard
+Bennett Talents
+Normal Attack
+Strike of Fortune
+Normal Attack Perform up to 5 rapid strikes. Charged Attack Consumes a certain amount of Stamina to unleash 2 rapid sword swings. Plunging Attack Plunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.
+Elemental Skill
+Passion Overload
+Bennett puts all his fire and passion for adventuring into his sword. Results may very based on how fired up he is. Press A single, swift flame strike that deals
+Pyro
+DMG. Hold (Short) Charges up, resulting in different effects when unleashed based on the Charge Level. Level 1: Strikes twice, dealing
+Pyro
+DMG and launching enemies. Level 2: Unleashes 3 consecutive attacks that deal impressive
+Pyro
+DMG, but the last attack triggers an explosion that launches both Bennet and the enemy. Bennett takes no damage from being launched.
+Elemental Burst
+Fantastic Voyage
+Bennett leaps towards the enemy and performs a plunging attack, dealing
+Pyro
+DMG, creating an Inspiration Field. Inspiration Field If the health of a character in the circle is equal to or falls below 70%, their health will continuously regenerate. Regeneration scales based on Bennett's Max HP. If the health of a character in the circle is higher than 70%, they gain an ATK Bonus that is based on Bennett's Base ATK. Applies the
+Pyro
+element to characters within the Field.
+Bennett Passives
+Ascension 1
+Rekindle
+Decreases Passion Overload's CD by 20%.
+Ascension 4
+Fearnaught
+When inside the area created by Fantastic Voyage, Passion Overload takes on the following effects: CD is reduced by 50%. Bennett will not be launched by the effects of Charge Level 2.
+Passive
+It Should Be Safe...
+When dispatched on an expedition in Mondstadt, time consumed is reduced by 25%.
+Bennett Constellations
+Constellation 1
+Grand Expectation
+Fantastic Voyage's ATK increases no longer has an HP restriction, and gains an additional 20% Base ATK.
+Constellation 2
+Impasse Conqueror
+When Bennett's HP falls below 70%, his Energy Recharge is increased by 30%.
+Constellation 3
+Unstoppable Fervor
+Increases the Level of Passion Overload by 3. Maximum upgrade level is 15.
+Constellation 4
+Unexpected Odyssey
+Using a Normal Attack when executing the second attack of Passion Overload's Charge Level 1 allows an additional attack to be performed. This additional attack does 135% of the second attack's DMG.
+Constellation 5
+True Explorer
+Increase the Level of Fantastic Voyage by 3. Maximum upgrade level is 15.
+Constellation 6
+Fire Ventures with Me
+Sword, Claymore, or Polearm-wielding characters inside Fantastic Voyage's radius gain a 15%
+Pyro
+DMG Bonus. Normal and Charged Attacks now do
+Pyro
+DMG.
+Bennett Ascension Costs
+Rank
+Lvl
+Cost
+Material
+Material
+Material
+Material
+1
+20
+20000
+1
+Agnidus Agate Sliver
+3
+Windwheel Aster
+3
+Treasure Hoarder Insignia
+2
+40
+40000
+3
+Agnidus Agate Fragment
+2
+Everflame Seed
+10
+Windwheel Aster
+15
+Treasure Hoarder Insignia
+3
+50
+60000
+6
+Agnidus Agate Fragment
+4
+Everflame Seed
+20
+Windwheel Aster
+12
+Silver Raven Insignia
+4
+60
+80000
+3
+Agnidus Agate Chunk
+8
+Everflame Seed
+30
+Windwheel Aster
+18
+Silver Raven Insignia
+5
+70
+100000
+6
+Agnidus Agate Chunk
+12
+Everflame Seed
+45
+Windwheel Aster
+12
+Golden Raven Insignia
+6
+80
+120000
+6
+Agnidus Agate Gemstone
+20
+Everflame Seed
+60
+Windwheel Aster
+24
+Golden Raven Insignia
+Loading...

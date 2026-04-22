@@ -1,0 +1,239 @@
+Xiangling
+4
+★
+Polearm
+Pyro
+A renowned chef from Liyue
+.
+Basic Stats
+Nv.
+90
+HP
+10875
+ATK
+225
+DEF
+669
+EM
+96
+Basic Stats
+Nv.
+90
+HP
+10875
+ATK
+225
+DEF
+669
+EM
+96
+Xiangling
+Ascension Materials
+Agnidus Agate Sliver
+Jueyun Chili
+Everflame Seed
+Slime Condensate
+Teachings of Diligence
+Dvalin's Claw
+Xiangling
+Best Weapon
+Staff of the Scarlet Sands
+Level
+.
+90
+ATK
+542
+CRIT Rate
+44.1%
+Refinement
+.
+5
+The equipping character gains 104% of their Elemental Mastery as bonus ATK. When an Elemental Skill hits opponents, the Dream of the Scarlet Sands effect will be gained for 10s: The equipping character will gain 56% of their Elemental Mastery as bonus ATK. Max 3 stacks.
+Other Weapons
+2
+°
+Engulfing Lightning
+Energy Recharge
+3
+°
+Staff of Homa
+CRIT DMG
+4
+°
+The Catch
+Energy Recharge
+Xiangling
+Best Artifact Set
+Emblem of Severed Fate
+2 Pc
+:
+Energy Recharge +20%
+4 Pc
+:
+Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.
+Artifacts Main Stats
+Sands
+:
+ATK % / ER %
+Goblet
+:
+Pyro Bonus
+Circlet
+:
+Crit Rate / Crit Damage
+Artifacts Substats
+Crit Rate
+Crit Damage
+ATK %
+Energy Recharge
+Other Artifacts Sets
+2
+°
+4x
+Crimson Witch of Flames
+3
+°
+4x
+Gilded Dreams
+Xiangling
+Talent Priority
+1
+°
+Elemental Burst
+2
+°
+Elemental Skill
+Xiangling
+Best Teams
+Time #
+1
+Main DPS
+Sub-DPS
+Support
+Support
+Tartaglia
+Xiangling
+Kazuha
+Bennett
+Time #
+2
+Main DPS
+Sub-DPS
+Support
+Support
+Ayato
+Xiangling
+Zhongli
+Bennett
+Xiangling
+Ascension Costs
+Cost
+5
+→
+6
+120
+K
+Agnidus Agate Gemstone
+6
+Everflame Seed
+20
+Jueyun Chili
+60
+Slime Concentrate
+24
+Xiangling
+Talents Costs
+Cost
+9
+→
+10
+700
+K
+Philosophies of Diligence
+16
+Slime Concentrate
+12
+Dvalin's Claw
+2
+Crown of Insight
+1
+Xiangling
+Talents
+Normal Attack
+Dough-Fu
+Normal Attack
+Performs up to 5 consecutive spear strikes.
+Charged Attack
+Consumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.
+Plunging Attack
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Elemental Skill
+Guoba Attack
+Summons Guoba, who will continuously breathe fire at opponents, dealing
+AoE Pyro DMG
+.
+Guoba loves to eat spicy food. Problem is, his stomach can't handle something this spicy.
+Elemental Burst
+Pyronado
+Displaying her mastery over both fire and polearms, Xiangling sends a Pyronado whirling around her.
+The Pyronado will move with your character for the ability's duration, dealing
+Pyro DMG
+to all opponents in its path.
+There will never be enough heat. Never.
+Xiangling
+Passives
+Passive
+1
+Crossfire
+Increases the flame range of Guoba by 20%.
+Passive
+2
+Beware, It's Super Hot!
+When
+Guoba Attack
+'s effect ends, Guoba leaves a chili pepper on the spot where it disappeared. Picking up a chili pepper increases ATK by 10% for 10s.
+Passive
+3
+Chef de Cuisine
+When Xiangling cooks an ATK-boosting dish perfectly, she has a 12% chance to receive double the product.
+Xiangling
+Constellations
+C
+1
+Crispy Outside, Tender Inside
+Opponents hit by Guoba's attacks have their
+Pyro RES
+reduced by 15% for 6s.
+C
+2
+Oil Meets Fire
+The last attack in a Normal Attack sequence applies the Implode status onto the opponent for 2s. An explosion will occur once this duration ends, dealing 75% of Xiangling's ATK as
+AoE Pyro DMG
+.
+C
+3
+Deepfry
+Increases the Level of
+Pyronado
+by 3.
+Maximum upgrade level is 15.
+C
+4
+Slowbake
+Pyronado
+'s duration is increased by 40%.
+C
+5
+Guoba Mad
+Increases the Level of
+Guoba Attack
+by 3.
+Maximum upgrade level is 15.
+C
+6
+Condensed Pyronado
+For the duration of
+Pyronado
+, all party members receive a 15%
+Pyro DMG Bonus
+.

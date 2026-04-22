@@ -1,0 +1,487 @@
+Home
+/
+Genshin Impact
+/
+Character List
+/
+Kaedehara Kazuha Build
+Kaedehara Kazuha Guide and Best Builds
+Kaedehara Kazuha is a 5-star Anemo Sword support character in Genshin Impact
+who excels at buffing your teams damage and providing crowd control. Read our Kazuha guide to learn more about
+Kazuha's kit, Kazuha's best Builds and also his Ascension and Talent Materials.
+Last updated
+on
+Dec 02, 2025
+at
+20:55
+by
+Mistsplitter Reforged
+1 comment
+S
+Rank
+Anemo
+Element
+Sword
+Weapon
+★
+★
+★
+★
+★
+Rarity
+Mark Whitten
+EN Voice Actor
+Nobunaga Shimazaki
+JP Voice Actor
+Kaedehara Kazuha's Strengths & Weaknesses
+Strengths
+Powerful buffs increasing damage, resistance shred and crowd control.
+Off-field elemental application of Anemo and Absorbed element.
+Incredibly flexible and used in a lot of the best team compositions.
+Weaknesses
+Cannot swirl the right elements if the enemy has a persistent Elemental Aura. For example slimes and some bosses.
+While still a powerful character, there are now alternatives in the meta such as Escoffier and Xilonen that also provide RES Shred.
+1.
+Kaedehara Kazuha Build Guide, Best Artifacts, Weapons and Talent Priority
+Kazuha is best built as a support capable of powerful swirls and buffs in the form of 
+RES Shred for the swirled element.
+BiS Weapon
+Freedom-Sworn
+Alternative Weapons
+Xiphos' Moonlight
+Favonius Sword
+Fleuve Cendre Ferryman
+Toukabou Shigure
+Iron Sting
+Sapwood Blade
+Best Artifacts
+Viridescent Venerer
+Main Stats
+Sand Stats:
+Elemental Mastery / Energy Recharge
+Goblet Stats:
+Elemental Mastery
+Circlet Stats:
+Elemental Mastery
+Substat Priority
+Energy Recharge to requirements
+Elemental Mastery
+CRIT Rate (Only With Favonius)
+ATK %
+Talent Priority
+Elemental Burst
+Elemental Skill
+Normal Attack
+Kazuha's build focuses entirely on Elemental Mastery and Energy Recharge to
+get the most out of his kit. Therefore weapons which provide Elemental Mastery
+are best for Kazuha's build such as
+Freedom-Sworn
+and
+Xiphos' Moonlight
+. In situations where you are struggling
+to gain enough Energy Recharge to consistently burst you may consider a
+weapon such as
+Favonius Sword
+or
+Fleuve Cendre Ferryman
+.
+Build Kazuha with
+Viridescent Venerer
+which is by far his best set
+to allow him to further support the party. With Elemental Mastery main stats,
+weapon and the bonus from your 6th Ascension, you will already have over 800
+Elemental Mastery giving you at least a 32% damage bonus from
+Poetics of Fuubutsu
+before you even need to worry about substats.
+2.
+Recommended Endgame Build Stats for Kazuha
+Build recommendations assume a "decently built" level of artifact rolls alongside 
+Kazuha's best weapon. Using other weapons may increase or decrease certain stats relative to these recommendations.
+HP:
+18,000 - 22,000
+ATK:
+1200 - 1500
+Elemental Mastery:
+750-1000+
+Energy Recharge:
+240 - 270%
+1,000 Elemental Mastery is required to hit the 40% buff from his kit 
+however that is not always easily attainable.
+2.1.
+Kaedehara Kazuha Energy Recharge Requirements
+The exact amount of Energy Recharge Kazuha wants heavily depends on your team
+and if you use
+Chihayaburu
+once or twice between each burst as well
+as if you simply tap or hold
+Chihayaburu
+.
+General advice is to aim for around 200% - 215% if you tap Kazuha's skill twice in a rotation,
+you can lower this amount if you hold your skill or if someone in your team
+is using a Favonius weapon. Furthermore, it is better to aim higher than lower 
+if you plan to use Kazuha in multiple teams.
+3.
+Combos and How to Play Kaedehara Kazuha
+The goal with Kazuha is to provide massive buffs to the party so that
+your DPS and Sub DPS deal significantly more damage. This comes
+in 2 main ways:
+Through the
+Viridescent Venerer
+artifact set.
+Through triggering swirls and activating
+Poetics of Fuubutsu
+which gives a ~30-40% DMG bonus to the swirled element.
+The important part to be aware of, is both of these effects trigger based
+on which elements are swirled and Kazuha therefore needs to swirl when
+the enemy has the elemental aura of your damage dealer.
+Chihayaburu
+is Kazuha's main source of crowd
+control due to the fact it can pull a range of enemies towards him. This
+also causes Kazuha to jump in the air allowing you to perform a stronger
+plunge attack dealing damage based on the absorbed element.
+Kazuha Slash
+is incredibly powerful providing the majority of
+Kazuha's damage as well as applying an absorbed element which is why it is
+so important to have enough Energy Recharge. This can help your
+team with additional elemental reactions. You just need to be careful that
+the right elements are absorbed.
+3.1.
+Should You Tap or Hold Chihayaburu?
+Kazuhas Elemental Skill,
+Chihayaburu
+has different effects
+and utilities depending on if you tap or hold the skill. They generate different
+amounts of energy, pull enemies in more and even different amounts of elemental
+application.
+You want to hold
+Chihayaburu
+whenever you need more powerful
+grouping or additional energy. Otherwise tapping the skill will allow you to
+swap to the rest of the party faster and deal more DPS.
+4.
+Kaedehara Kazuha's Best Team Comps
+Kazuha is an incredibly powerful support that can be used in essentially any
+team that has elements to swirl and will often be a huge DPS upgrade.
+4.1.
+Kazuha With Neuvillette Team Compositions
+Main DPS
+Sub DPS
+Support
+Support
+Neuvillette
+Furina
+Kaedehara Kazuha
+Xilonen
+Neuvillette
+Ineffa
+Kaedehara Kazuha
+Furina
+Neuvillette
+is one of the strongest DPS in the game
+and heavily benefits from having Kazuha in his teams with his best team
+also including characters such as
+Xilonen
+and
+Furina
+.
+That being said, because Kazuha and Xilonen both provide a lot of RES Shred to the point that
+you start getting diminishing returns.
+4.2.
+Kazuha With Pyro DPS Teams
+Main DPS
+Support
+Support
+Support
+Mavuika
+Bennett
+Kaedehara Kazuha
+Citlali
+Arlecchino
+Bennett
+Kaedehara Kazuha
+Citlali
+Main DPS
+Sub DPS
+Support
+Support
+Lyney
+Xiangling
+Kaedehara Kazuha
+Bennett
+Listed are some examples of
+Pyro
+team compositions
+that use Kazuha.
+Bennett
+can apply Pyro making it easy for
+Kazuha to swirl before switching to your Main DPS. In the case of
+Lyney
+, Mono-Pyro teams can have all their DPS buffed such
+as
+Xiangling
+.
+4.3.
+Kazuha in Ayaka Teams
+Main DPS
+Sub DPS
+Support
+Support
+Kamisato Ayaka
+Kaedehara Kazuha
+Sangonomiya Kokomi
+Shenhe
+Kamisato Ayaka
+Kaedehara Kazuha
+Furina
+Charlotte
+Kamisato Ayaka
+is an incredibly powerful main DPS who utilities the
+supportive abilities of
+Shenhe
+,
+Furina
+, and Kazuha to further increase
+her damage while
+freezing
+enemies. Kazuha has great synergy with a most
+characters you would use in a Freeze comp such as
+Ganyu
+,
+Layla
+, or
+Rosaria
+.
+5.
+Kazuha's Ascensions, Talents, and Constellations
+Kazuha Ascensions
+Kazuha Talents
+Kazuha Constellations
+5.1.
+Kazuha Ascension Passives and Materials
+Unlock
+Ascension Passive
+Explanation
+With Character
+Cloud Strider
+If
+Chihayaburu
+comes into contact with
+Hydro
+/
+Pyro
+/
+Cryo
+/
+Electro
+when cast,
+Chihayaburu
+will
+    absorb that element and if Plunging Attack: Midare Ranzan is used before
+    the effect expires, it will deal an additional 200% ATK of the absorbed
+    elemental type as DMG. This will be considered Plunging Attack DMG.
+    Elemental Absorption may only occur once per use of
+Chihayaburu
+.
+1st Ascension
+Soumon Swordsmanship
+Upon triggering a
+Swirl
+reaction, Kaedehara
+    Kazuha will grant all party members a 0.04% Elemental DMG Bonus to the
+    element absorbed by Swirl for every point of Elemental Mastery he has for
+    8s. Bonuses for different elements obtained through this method can
+    co-exist.
+4th Ascension
+Poetics of Fuubutsu
+Decreases sprinting Stamina consumption for your own party members by 20%.
+Not stackable with Passive Talents that provide the exact same effects.
+Kazuha requires a range of materials to ascend to the 6th ascension.
+Starting from the second ascension they gain additional Elemental Mastery as their
+bonus stat giving a total of 115 increased Elemental Mastery at the final ascension.
+The total cost to upgrade all ascensions is:
+Source
+Quantity
+Mora
+420,000 Mora
+Boss Material
+46x
+Marionette Core
+Ascension Material
+1x
+Vayuda Turquoise Sliver
+9x
+Vayuda Turquoise Fragment
+9x
+Vayuda Turquoise Chunk
+6x
+Vayuda Turquoise Gemstone
+Local Specialty
+168x
+Sea Ganoderma
+Enhancement Material
+18x
+Treasure Hoarder Insignia
+30x
+Silver Raven Insignia
+36x
+Golden Raven Insignia
+5.2.
+Kazuha's Talents
+Listed below is each talent and a simplified explanation of how they work.
+Type
+Talent Name
+Brief Explanation
+Normal
+Garyuu Bladework
+Normal attacks deal 5 rapid strikes, charged attack deal 2. When
+     doing a plunging attack as a result of
+Chihayaburu
+, deal
+     increased
+Anemo
+damage.
+Elemental Skill
+Chihayaburu
+Pulls enemies towards Kazuha's position dealing AoE damage.
+Allows you to deal increased damage on your plunging attack.
+Elemental Burst
+Kazuha Slash
+Large AoE which absorbs
+Hydro
+,
+Pyro
+,
+Cryo
+or
+Electro
+to deal
+    elemental damage of that type and apply to enemies.
+To upgrade a single talent to level 10, it costs:
+Source
+Quantity
+Mora
+1,625,500 Mora
+Special Material
+1x
+Crown of Insight
+Boss Material
+6x
+Gilded Scale
+Domain Material
+3x
+Teachings of Diligence
+21x
+Guide to Diligence
+38x
+Philosophies of Diligence
+Enhancement Material
+6x
+Treasure Hoarder Insignia
+22x
+Silver Raven Insignia
+31x
+Golden Raven Insignia
+5.3.
+Kazuha's Constellations
+Kazuhas best constellation is his C2,
+Yamaarashi Tailwind
+due to
+how incredibly powerful its buff can be to the entire parties damage output.
+Scarlet Hills
+is also a good constellation allowing you more
+freedom with
+Chihayaburu
+and lower potential energy requirements.
+#
+Name
+Explanation
+C1
+Scarlet Hills
+Decreases
+Chihayaburu
+'s CD by 10%.
+Using
+Kazuha Slash
+resets the CD of
+Chihayaburu
+.
+C2
+Yamaarashi Tailwind
+The Autumn Whirlwind field created by
+Kazuha Slash
+has the following effects:
+Increases Kaedehara Kazuha's own Elemental Mastery by 200 for its duration.
+Increases the Elemental Mastery of characters within the field by 200.
+The Elemental Mastery-increasing effects of this Constellation do not stack.
+C3
+Maple Monogatari
+Increases the Level of
+Chihayaburu
+by 3.
+Maximum upgrade level is 15.
+C4
+Oozora Genpou
+When Kaedehara Kazuha's Energy is lower than 45, he obtains the following effects:
+Pressing or Holding
+Chihayaburu
+regenerates 3 or 4 Energy for Kaedehara Kazuha, respectively.
+When gliding, Kaedehara Kazuha regenerates 2 Energy per second.
+C5
+Wisdom of Bansei
+Increases the Level of
+Kazuha Slash
+by 3.
+Maximum upgrade level is 15.
+C6
+Crimson Momiji
+After using
+Chihayaburu
+or
+Kazuha Slash
+,
+    Kaedehara Kazuha gains an
+Anemo
+Infusion for 5s. Additionally, each point
+    of Elemental Mastery will increase the DMG dealt by Kaedehara Kazuha's
+    Normal, Charged, and Plunging Attacks by 0.2%.
+Changelog
+27 Sep. 2025:
+Updated for 6.0.
+05 Jul. 2025:
+Reviewed for 5.7.
+12 Feb. 2025:
+Reviewed for 5.4.
+17 Jan. 2025:
+Updated for 5.3.
+05 Jun. 2024:
+Reviewed for 4.7.
+31 Jan. 2024:
+Guide reviewed for Patch 4.4.
+29 Nov. 2023:
+Guide added.
+Show more
+Show less
+Need any help? Check out our
+General Discussion Forum
+!
+1 comment
+In The Same Category
+Wanderer Profile & Talents
+Sayu Best Builds Guide
+Yumemizuki Mizuki Best Builds Guide
+Prune Best Builds Guide
+Jahoda Profile & Talents
+Jahoda Team Guide
+Xianyun Best Builds Guide
+Wanderer Team Guide
+Prune Team Guide
+Shikanoin Heizou Best Builds Guide
+Chasca Best Builds Guide
+Venti Best Builds Guide
+ABOUT THE AUTHOR
+Written by Mistsplitter Reforged, a day one player of Genshin 
+        Impact and Zenless Zone Zero, and a Guide Maker on Youtube, 
+        striving to provide helpful content and useful tips. Spends time 
+        collecting characters and enjoying what the games have to offer. Make sure to
+check out their YouTube guides!
+SUPPORT OUR WRITERS

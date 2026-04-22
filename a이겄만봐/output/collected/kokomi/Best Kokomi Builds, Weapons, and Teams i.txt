@@ -1,0 +1,141 @@
+0
+Bookmark (
+0
+)
+Please login to bookmark
+Close
+Username or Email Address
+Password
+Remember Me
+Don't have an account? Register here.
+Create an account to bookmark articles.
+Username
+*
+3-60 characters, letters, numbers, spaces, and these symbols: @._-
+Email
+*
+You will receive an email to set your password after registration.
+Subscribe to The Destructoid Checkpoint Newsletter
+Get the latest gaming news and updates delivered to your inbox.
+Create Account
+Already have an account? Sign in here.
+Back to top
+Home
+Guides
+Best Kokomi Builds, Weapons, and Teams in Genshin Impact
+Christine Choi
+| Aug 15, 2023 7:14 am
+Image via HoYoverse
+Sangonomiya Kokomi is a Hydro Catalyst user and one of the best healers in
+Genshin Impact
+. This guide will cover Kokomi’s best weapons, artifacts, and teams to help our favorite strategist shine.
+Recommended Videos
+Playstyles
+The jellyfish summoned by Kokomi’s Skill deals some damage and applies Hydro to nearby enemies while simultaneously healing allies. Because it remains on-field after Kokomi is swapped out, Kokomi can be played in an off-field role where she switches in, drops her jellyfish, and swaps out. Her Burst refreshes the duration of her jellyfish, allowing for 100% uptime on its healing and Hydro application. Provided you have enough Energy Recharge, this is one of the easiest, most consistent means of Hydro application in the game.
+Kokomi can also be played on-field as a driver, using her Normal Attacks during her Burst state to apply additional Hydro and further heal her teammates.
+Screenshot by Destructoid
+Weapons
+Kokomi’s healing scales with her HP, making HP weapons quite useful on her. The following suggestions are not strictly ranked since your best weapon will depend on your teammates.
+Thrilling Tales of Dragon Slayers
+– Despite being a 3-star weapon, Thrilling Tales grants a sizable 48% ATK to one teammate at Refinement 5. Kokomi can even make use of its HP stat to boost her own healing. Highly recommended in teams that have an ATK-scaling DPS.
+Everlasting Moonglow, Jadefall’s Splendor, or Prototype Amber
+– These catalysts increase healing and generate some Energy for Kokomi. Moonglow and Jadefall increase her damage too, but most teams will benefit more from Thrilling Tales’ ATK buff than from Kokomi’s personal damage. Prototype Amber has the advantage of being a free craftable weapon.
+Sacrificial Fragments
+– Sac Frags has a niche use for Kokomi in Nilou Bloom teams where Kokomi can reliably trigger Blooms. The Elemental Mastery stat boosts her Bloom damage and makes her a formidable reaction DPS in addition to her healer role. If Kokomi is played on-field, this weapon can also reset the cooldown for her Skill, allowing you to reposition her jellyfish if necessary.
+Hakushin Ring
+– Another craftable and an honorable mention for use in Electro-Charged teams. Kokomi can use this to buff her teammates’ damage when she triggers Electro-Charged.
+Screenshot by Destructoid
+Artifacts
+4pc Tenacity of the Millelith (4TotM)
+– Kokomi’s best set for team DPS in ATK-scaling teams. Kokomi can maintain full uptime on its 20% ATK buff with relative ease, whether she is on-field or off-field. The HP bonus from its 2pc effect is useful for her too.
+4pc Ocean-Hued Clam (4OHC)
+– Kokomi’s best set for personal DPS. This set converts her healing into AoE Physical damage at intervals. Kokomi should be played on-field in her Burst state for maximum clamage.
+4pc Gilded Dreams (4GD) or 4pc Flowers of Paradise Lost (4FoPL)
+– These sets are only for Kokomi in Nilou Bloom teams. They increase Kokomi’s Elemental Mastery for more Bloom damage.
+4pc Deepwood Memories
+(4DM)
+– This set is only for Kokomi in Dendro teams where you don’t have another teammate who equips it. Kokomi can use this to reliably shred enemy Dendro RES, even if she doesn’t deal Dendro damage herself.
+Artifact Stats
+Sands
+Goblet
+Circlet
+Energy Recharge
+HP
+Elemental Mastery*
+HP
+Elemental Mastery*
+Healing Bonus
+HP
+Elemental Mastery*
+*Elemental Mastery is for Nilou Bloom teams only.
+Kokomi’s Energy Recharge needs can vary wildly depending on her team and playstyle. In a purely off-field role, she can need upwards of 200% ER. If she is primarily on-field, she can potentially get away with around 160%. Try to err on the side of having too much ER rather than too little.
+As long as she has enough Energy Recharge, the rest of your stats can focus on HP for more healing. Elemental Mastery should only be considered for more Bloom damage in Nilou teams.
+Screenshot by Destructoid
+Teams
+Hydro is an incredibly flexible element, allowing Kokomi to function in many team archetypes. In general, you can slot her in anytime you need a healer, but the below are my best recommendations.
+Freeze
+Kokomi is the easiest, most reliable way to achieve constant Hydro application on enemies for Freeze teams.
+Cryo DPS
+– This is most often Ganyu or Ayaka, but can also be Rosaria, Kaeya, or Shenhe. This will be your primary damage dealer.
+Cryo Flex
+– A secondary Cryo character to provide Energy to your Cryo DPS as well as defensive utility and/or buffs. Examples are Diona, Layla, or Shenhe. You can use Rosaria or Kaeya in this slot too, but they will function as a secondary DPS with no other team utility.
+Anemo Grouper
+– Venti truly shines in this role, though you can also use Kazuha to further buff your Cryo damage. Sucrose can work, but her Elemental Mastery share is wasted in Freeze teams.
+Nilou Bloom / Hyperbloom / Burgeon
+Kokomi is a great source of Hydro for Bloom-based Dendro teams.
+Dendro Enabler
+– Nahida is the best for this role, but Alhaitham, Dendro Traveler, or Collei can work too. You can even bring two of them for a double Dendro team if you wish.
+Nilou
+– Essential for Nilou Bloom teams. If playing Nilou Bloom, you should bring two Dendro units from the list above.
+Electro Applier
+– For Hyperbloom teams only. Kuki Shinobu or Raiden Shogun are your best options, and they should be built with full Elemental Mastery.
+Pyro Applier
+– For Burgeon teams only. Thoma is best for this role and should be built with full Elemental Mastery. If playing Burgeon, try to bring another Hydro character like Xingqiu or Yelan in order to avoid Burning.
+Electro-Charged
+Electro-Charged (or “taser”) teams are not the hardest-hitting, but they are extremely flexible and easy to play.
+Electro DPS
+– This can be practically any Electro DPS character. Fischl and Beidou in particular make a potent pair for off-field DPS.
+Anemo Grouper
+– Venti and Kazuha work great here, and Sucrose’s Elemental Mastery share is very much appreciated.
+Hydro DPS
+– You generally don’t need another Hydro unit, but if you have the space, you can bring Xingqiu or Yelan for more off-field damage. On-field options like Tartaglia or Ayato can work too, but they are best used in other teams.
+0
+Christine Choi
+Contributing Writer - Christine has been gaming since she first stole her brother's Game Boy as a kid. She's come a long way since then and has been creating content for Genshin Impact since 2021.
+Tags:
+Genshin Impact
+HoYoverse
+miHoYo
+mobile
+PC
+PS4
+PS5
+0
+Bookmark (
+0
+)
+Please login to bookmark
+Close
+Username or Email Address
+Password
+Remember Me
+Don't have an account? Register here.
+Create an account to bookmark articles.
+Username
+*
+3-60 characters, letters, numbers, spaces, and these symbols: @._-
+Email
+*
+You will receive an email to set your password after registration.
+Subscribe to The Destructoid Checkpoint Newsletter
+Get the latest gaming news and updates delivered to your inbox.
+Create Account
+Already have an account? Sign in here.
+Share
+this article
+Destructoid is supported by our audience. When you purchase through links on our site, we may earn a small affiliate commission.
+Learn more about our Affiliate Policy
+.
+Like our content? Set Destructoid as a
+Preferred Source on Google
+in just one step to ensure you see us more frequently in your Google searches!

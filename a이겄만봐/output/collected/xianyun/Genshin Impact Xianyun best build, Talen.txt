@@ -1,0 +1,348 @@
+Home
+Guides
+Genshin Impact
+Genshin Impact Xianyun best build, Talent and Ascension materials, weapon, and team
+Everything you need to know about Xianyun in Genshin Impact.
+Image credit:
+HoYoverse
+Guide
+by
+Jessica Orr
+Senior Guides Writer
+Updated on
+March 14, 2025
+Follow Genshin Impact
+Xianyun
+is a 5-Star Anemo character who was added to
+Genshin Impact
+during version 4.4.
+While Xianyun is featured as the boosted 5-Star character in her The Crane Soars Skyward Banner in
+version 5.5
+, she will eventually return at some point in the future when the
+Banner schedule
+cycles back to her.
+Whether you have her, or want to prepare for if you do Wish for her successfully, it's good to know the
+best Xianyun build
+in
+Genshin Impact
+, including her
+best Artifacts
+and
+best team
+. It's also handy to learn what her
+Constellation
+perks are, and what
+Xianyun Talent materials
+and
+Ascension materials
+are needed to level up Xianyun to her full potential.
+On this page:
+Xianyun materials and stats
+:
+Xianyun's kit
+Xianyun Talent materials
+Xianyun Ascension materials
+Xianyun Constellations
+Xianyun build
+:
+How to play Xianyun in Genshin Impact
+Best Xianyun team
+Best Xianyun Artifacts
+Best Xianyun weapon
+Best Xianyun build
+Be sure to check out our
+beginner's guide with tips and tricks
+, and
+Genshin Impact codes
+page to get free
+Primogems
+that can be used towards unlocking Xianyun and other characters.
+Genshin Impact Xianyun kit
+Xianyun is a
+5-Star Anemo character who uses a catalyst
+and can be used in multiple roles, but mainly as a plunging attack buffer with healing capabilities.
+Image credit:
+HoYoverse
+Here's a summary of
+Xianyun's kit in Genshin Impact
+:
+Element
+: Anemo.
+Rarity
+: 5-Star.
+Weapon
+: Catalyst.
+Normal Attack
+: Word of Wind and Flower.
+Elemental Skill
+: White Clouds at Dawn.
+Elemental Burst
+: Stars Gather at Dusk.
+Passive one
+: Galefeather Pursuit - Each opponent hit by Driftcloud Waves from Xianyun's Elemental Skill grants all party members one stack of Storm Pinion for 20 seconds with a maximum of four stacks. This causes the characters' plunging attack Crit Rate to increase by 4/6/8/20% respectively. Each Storm Pinion created by hitting an enemy has an independent duration.
+Passive two
+: Consider, the Adeptus in Her Realm - When the Starwicker created by Xianyun's Elemental Burst has Adeptal Assistance stacks, nearby active characters' plunging attack shockwave damage is increased by 200% of Xianyun's attack. The maximum damage increase that can be achieved this way is 9,000. Each plunging attack's shockwave damage instance can only apply this increased damage effect to a single enemy. Each character can trigger this effect once every 0.4 seconds.
+Traversal bonus
+: Crane Form - Increases gliding speed by 15% for your active party member. Not stackable with passive talents that provide the exact same effects.
+Xianyun Normal Attack - Word of Wind and Flower
+Tapping the normal attack button makes Xianyun perform up to four hits that deal Anemo damage, but charging the normal attack instead consumes stamina to launch a Breeze Bolt in a straight line that deals Anemo damage to opponents along its path.
+Plunging from the air harms all enemies on the way down, then deals AOE (area of effect) Anemo damage upon impact.
+Xianyun Elemental Skill - White Clouds at Dawn
+Xianyun enters the Cloud Transmogrification state where she doesn't take fall damage, and uses Skyladder once. In this state, Xianyun's plunging attack is converted into Driftcloud Wave instead, which deals AoE Anemo damage and ends the Cloud Transmogrification state. Damage dealt this way is considered plunging attack damage.
+Each use of Skyladder while in this state increases the damage and AoE of the next Driftcloud Wave used.
+Image credit:
+HoYoverse
+Skyladder can be used while in mid-air, and when Skyladder is activated Xianyun leaps forward, dealing Anemo damage to enemies in her path. During each Cloud Transmogrification state Xianyun enters, Skyladder may be used up to three times, and one instance of Skyladder damage can be dealt to any one opponent.
+If Skyladder is not used again in a short period, the Cloud Transmogrification state will be cancelled. If Xianyun does not use Driftcloud Wave while in this state, the next cooldown of White Clouds at Dawn will be decreased by three seconds.
+Xianyun Elemental Burst - Stars Gather at Dusk
+Xianyun creates a breeze that deals AOE Anemo damage and heals all nearby characters based on Xianyun's attack stat. It also summons a mechanism named Starwicker.
+Starwicker continuously follows the active character to periodically heal all nearby party members, with healing scaled off Xianyun's attack stat. Starwicker starts with eight stacks of Adeptal Assistance, and while Adeptal Assistance is active, nearby active characters have their jump height increased. When the active character completes a plunging attack, Starwicker consumes one stack of Adeptal Assistance to deal AOE Anemo damage. Only one Starwicker can exist at once.
+Genshin Impact Xianyun Talent materials
+Lightless Eye of the Maelstrom. |
+Image credit:
+HoYoverse
+To get the most out of using Xianyun, you will have to level her skills up by using Talent materials, which vary from character-to-character.
+You need to farm a lot of Scroll and Gold materials (if you don't already have them) to fully upgrade Xianyun's capabilities.
+As Xianyun has three Talents, you will have to spend three times the Talent materials listed below to fully upgrade all of her abilities, which we've also detailed below the table.
+Here's what Xianyun Talent materials you need to improve one of her abilities:
+Xianyun Talent level
+Xianyun Talent materials
+Mora cost
+Level 2
+x3 Teachings of Gold, x6 Divining Scroll
+12,500
+Level 3
+x2 Guide to Gold, x3 Sealed Scroll
+17,500
+Level 4
+x4 Guide to Gold, x4 Sealed Scroll
+25,000
+Level 5
+x6 Guide to Gold, x6 Sealed Scroll
+30,000
+Level 6
+x9 Guide to Gold, x9 Sealed Scroll
+37,500
+Level 7
+x4 Philosophies of Gold, x4 Forbidden Curse Scroll, x1 Lightless Eye of the Maelstrom
+120,000
+Level 8
+x6 Philosophies of Gold, x6 Forbidden Curse Scroll, x1 Lightless Eye of the Maelstrom
+260,000
+Level 9
+x12 Philosophies of Gold, x9 Forbidden Curse Scroll, x2 Lightless Eye of the Maelstrom
+450,000
+Level 10
+x16 Philosophies of Gold, x12 Forbidden Curse Scroll, x2 Lightless Eye of the Maelstrom, x1 Crown of Insight
+700,000
+Here's what Talent Materials you'll need to fully upgrade
+one
+of Xianyun's skills:
+x1 Crown of Insight
+x3 Teachings of Gold
+x6 Divining Scroll
+x6 Lightless Eye of the Maelstrom
+x21 Guide to Gold
+x22 Sealed Scroll
+x31 Forbidden Curse Scroll
+x38 Philosophies of Gold
+1,652,500 Mora
+To upgrade all
+three
+of Xianyun's skills, here's all the Talent Materials you'll need:
+x3 Crown of Insight
+x9 Teachings of Gold
+x18 Divining Scroll
+x18 Lightless Eye of the Maelstrom
+x63 Guide to Gold
+x66 Sealed Scroll
+x93 Forbidden Curse Scroll
+x114 Philosophies of Gold
+4,957,500 Mora
+Genshin Impact Xianyun Ascension materials
+Clearwater Jade. |
+Image credit:
+HoYoverse
+Just like Talents, you need to use Xianyun Ascension materials to upgrade her health, attack, defence, and critical hit effectiveness.
+You need to farm a lot of Clearwater Jade and Scroll materials for Xianyun (if you don't already have them) to fully upgrade her capabilities.
+Unlike Talent materials, you only need to spend the below Ascension materials once to fully raise Xianyun to her highest character level. There is also Acquaint Fate rewarded for reaching certain Ascension levels. You can spend this Fate on the
+standard and beginner Banners
+to Wish for characters and weapons.
+Here's what Xianyun Ascension materials and Mora you need to upgrade her for each Ascension level:
+Xianyun Ascension level
+Xianyun Ascension materials
+Mora cost
+Ascension reward
+Level 20
+x1 Vayuda Turquoise Sliver, x3 Clearwater Jade, x3 Divining Scroll
+20,000
+x1 Acquaint Fate
+Level 40
+x3 Vayuda Turquoise Fragment, x2 Cloudseam Scale, x10 Clearwater Jade, x15 Divining Scroll
+40,000
+None
+Level 50
+x6 Vayuda Turquoise Fragment, x4 Cloudseam Scale, x20 Clearwater Jade, x12 Sealed Scroll
+60,000
+x1 Acquaint Fate
+Level 60
+x3 Vayuda Turquoise Chunk, x8 Cloudseam Scale, x30 Clearwater Jade, x18 Sealed Scroll
+80,000
+None
+Level 70
+x6 Vayuda Turquoise Chunk, x12 Cloudseam Scale, x45 Clearwater Jade, x12 Forbidden Curse Scroll
+100,000
+x1 Acquaint Fate
+Level 80
+x6 Vayuda Turquoise Gemstone, x20 Cloudseam Scale, x60 Clearwater Jade, x24 Forbidden Curse Scroll
+120,000
+None
+In total, here's
+all the Ascension Materials
+you need for Xianyun in Genshin Impact:
+x1 Vayuda Turquoise Sliver
+x6 Vayuda Turquoise Gemstone
+x9 Vayuda Turquoise Fragment
+x9 Vayuda Turquoise Chunk
+x18 Divining Scroll
+x30 Sealed Scroll
+x36 Forbidden Curse Scroll
+x46 Cloudseam Scale
+x168 Clearwater Jade
+420,000 Mora
+Genshin Impact Xianyun Constellations
+By getting duplicates of Xianyun from wishing on Banners, you will receive her Stella Fortuna. This material allows you to unlock Constellation levels, with each upgrade either improving an existing Talent or Passive ability.
+Image credit:
+HoYoverse
+Here are all of
+Xianyun's Constellations in Genshin Impact
+:
+Purifying Wind (C1)
+: White Clouds at Dawn gains one additional charge.
+Aloof From the World (C2)
+: After using a Skyladder from her Elemental Skill, Xianyun's attack increases by 20% for 15 seconds. Additionally, the effects of the 'Consider, the Adeptus in Her Realm' passive talent are enhanced, so when the Starwicker created by her Elemental Burst has Adeptal Assistance stacks, nearby active characters' plunging attack shockwave damage is increased by 400% of Xianyun's attack. The maximum damage increase that can be achieved this way is 18,000. Each plunging attack shockwave damage instance can only apply this increased damage effect to a single enemy. Each character can trigger this effect once every 0.4 seconds.
+Creations of Star and Moon (C3)
+: Increases the level of Xianyun's Elemental Burst by three, with a maximum upgrade level of 15.
+Mystery Millet Gourmet (C4)
+: After using Skyladder 1/2/3 times during one of Xianyun's Elemental Skill Transmogrification states, when a Driftcloud Wave made during that instance hits an enemy, it heals all nearby party members for 50%/80%/150% of Xianyun's attack stat. This effect can be triggered once every five seconds.
+Astride Rose-Colored Clouds (C5)
+: Increases the Level of Xianyun's Elemental Skill by three, with a maximum upgrade level of 15.
+The Call Her Cloud Retainer (C6)
+: After Skyladder has been used 1/2/3 times in one Cloud Transmogrification state caused by her Elemental Skill, the resultant Driftcloud Wave's Crit Damage is increased by 15%/35%/70%. Within 16 seconds after Xianyun has used her Burst, White Clouds at Dawn will not enter cooldown. This effect will be cancelled once she has used White Clouds at Dawn eight times.
+How to play Xianyun in Genshin Impact
+You should unlock her two passive talents as soon as possible so that Xianyan's Elemental Burst gives huge plunging attack buffs to other party members.
+Xianyun's Burst is the most important part of her kit
+, so you should prioritise levelling it up first, then her Skill.
+After activating Xianyun's Burst, switch to your DPS and then start plunge attacking. You can do this up to eight times before Xianyun's buff expires, or time runs out. We recommend picking a DPS who can infuse with Swirls, claymore or catalyst users, or someone who already has high plunging damage (hi,
+Xiao
+).
+To speed things along,
+remember to dash cancel or normal attack cancel while chaining your plunging attacks
+. Polearm characters need to normal attack cancel.
+Image credit:
+HoYoverse
+We recommend you
+only jump once before plunge attacking while using Xianyun's Skill
+, as getting Anemo particles to recharge her Burst is more important than her own personal damage.
+Lastly, keep in mind that Xianyun works best in single-target situations like fighting bosses because of the way her buffs work. She holds her own in AOE, it's just not ideal when compared to single-target situations.
+Best Xianyun team in Genshin Impact
+Xianyun is a great sub DPS that can be used to heal and buff a lot of different team types, and can even bring your old forgotten characters like Diluc back into the spotlight because of the way her plunging attack and Anemo buffs work.
+Furina is one of the best characters to pair with Xianyun for huge DPS buffs. |
+Image credit:
+HoYoverse
+In most situations, you'll want to pair Xianyun with a DPS who benefits from her plunging buffs - like
+Xiao
+,
+Hu Tao
+,
+Diluc
+, or
+Gaming
+- or characters who can infuse with her Swirls.
+Even if your DPS can't infuse with Xianyun's Swirls, your support and sub DPS characters can, so the usual favourites like
+Fischl
+,
+Xingqiu
+, and
+Yelan
+also work very well in Xianyun teams.
+If you're lucky enough to have her,
+Furina
+is one of the best team members to run alongside Xianyun, as she applies a decent amount of Hydro while also providing huge teamwide support buffs - increasing the DPS of your party even further.
+Although we generally don't recommend doing it because of its effect on other teams, a
+C6 activated Bennett
+can also work incredibly well with Xianyun because of his new Pyro infusion capabilities, allowing you to make a lot of other characters viable options to play with Xianyun.
+Lastly, remember that Xianyun is also a pretty good teamwide healer, so you can slot her into any team in need of one.
+Best Xianyun Artifacts in Genshin Impact
+Part of the Viridescent Venerer set.
+As with almost all Anemo support characters, the best Artifact set for Xianyun in Genshin Impact is the
+4-piece Viridescent Venerer
+, as it increases Anemo and Swirl damage while decreasing enemies Elemental Resistance to the element infused with Swirl.
+However, if your DPS uses an element that can't infuse with Swirl (Anemo,  Geo, and Dendro) then you might want to equip either the
+4-piece Noblesse Oblige
+, or the
+4-piece Forgotten Oath of Days Past
+. Noblesse Oblige is good for increasing the attack for all party members after a Burst is activated, and Forgotten Oath of Days Past converts Xianyun's healing into damage.
+Keep in mind that you can still use Viridescent Venerer if you're running good sub DPS characters though, as they can benefit from the Swirl reactions even when your DPS can't.
+As for Xianyun's Artifact stats, you'll want to get enough Energy Recharge to consistently use her Burst in your rotations. Once you have enough Energy Recharge, we recommend prioritising attack, as this is what Xianyun scales off. Healing Bonus is a nice extra to have, but isn't as important as Energy Recharge and attack.
+Best Xianyun weapon in Genshin Impact
+As with most signatures, the
+5-Star Crane's Echoing Call catalyst
+is Xianyun's best weapon in Genshin Impact.
+At Refinement 1 and Level 90, after Xianyun hits an opponent with a Plunging Attack with Crane's Echoing Call equipped, all nearby party members' plunging attacks deal 28% increased damage for 20 seconds. When nearby party members hit opponents with plunging attacks, they restore 2.5 energy to Xianyun. Energy can be restored this way every 0.7 seconds, and this energy regain effect can be triggered even if Xianyun is not on the field.
+Image credit:
+HoYoverse
+You can also repurpose other 5-Star catalysts for Xianyun as a 'stat stick', most notably the
+Skyward Atlas
+and the
+Memory of Dust
+. Keep in mind that the additional buffs aren't great on these weapons - it's just the huge attack stat increase that makes them viable.
+However, one of Xianyun's best weapons is actually the
+4-Star Oathsworn Eye
+for its boost to Energy Recharge after using an Elemental Skill. As this is an event weapon, you might not have access to it. If you don't have Oathsworn Eye, then the
+Favonious Codex
+is a decent 4-Star alternative for its energy particle generation on critical hits.
+The
+3-Star Thrilling Tales of Dragon Slayers
+can also work to buff your DPS if you don't have better options.
+Version 6.4 Phase 2 sees the returning 5-Star
+Skirk
+and a rerun of
+Escoffier
+. 
+
+So don't forget to redeem
+new codes
+for
+Primogems
+to help pull them, and check out our regularly updated
+tier list
+.
+
+You need luck from the
+Pity and 50/50 systems
+to
+Wish with Fate
+for characters on
+Banners
+, and you always need the right
+Adventure Rank
+for events.
+
+Elsewhere, we have
+tips and tricks for beginners
+.
+Genshin Impact best Xianyun build
+If you want to take advantage of her support capabilities while keeping her alive, we have compiled what we think is currently the
+best Xianyun build in Genshin Impact
+:
+Xianyun Best Weapon
+: 5-Star Crane's Echoing Call catalyst.
+Xianyun Best Artifacts
+: 4-piece Viridescent Venerer.
+Xianyun Best team comp
+: Xiao, Furina, Faruzan.
+Image credit:
+HoYoverse
+It can take a lot of time to farm for the materials needed to get Xianyun to her full potential, but she could be a worthy addition to your roster if you're in need of an Anemo Swirler with healing capabilities and huge plunging damage enhancements for your team.
+Good luck levelling up Xianyun in Genshin Impact!

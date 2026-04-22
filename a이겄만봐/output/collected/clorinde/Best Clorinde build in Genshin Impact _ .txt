@@ -1,0 +1,78 @@
+Clorinde is a five-star Ousia-aligned Electro sword user who plays the role of a DPS unit. If you're interested in pulling for Clorinde in Genshin Impact, you can get a headstart with preparations by checking out our recommendations for her best build below.
+Recommended Videos
+Table of Contents
+Best weapons for Clorinde in Genshin Impact
+Best Artifacts & substats for Clorinde in Genshin Impact
+Clorinde's best Artifact substats
+Genshin Impact Clorinde Talent upgrade priority
+Best team for Clorinde in Genshin Impact
+More Posts from PGG
+Best weapons for Clorinde in Genshin Impact
+Clorinde is heavily dependent on the Bond of Life mechanic to buff her Elemental Skill, which serves as her primary source of damage. The goal is to have a Bond of Life at over 100% of her max HP, so she benefits from weapons that can help her easily stack it, though perfectly-timed rotation with a healer can help ease the Bond of Life requirement from weapons and Artifacts (see team section below for more information).
+Absolution
+(best five-star, signature weapon) - This is Clorinde's signature weapon and her best-in-slot five-star pick as it offers a straightforward CRIT DMG boost and further increases DMG whenever the wielder's Bond of Life value increases.
+Finale of the Deep
+(best free-to-play four-star) - This free-to-play craftable weapon is Clorinde's best four-star pick as it offers an ATK boost and Bond of Life (25% of max HP) whenever the wielder uses their Elemental Skill. When the Bond of Life is cleared, Clorinde can get additional flat ATK bonuses.
+Alternative Weapons:
+Mistsplitter Reforged
+(best alternative five-star)
+Haran Geppaku Futsu
+Uraku Misugiri
+Light of Foliar Incision
+(minimum 80 EM or pair with Nahida)
+The Black Sword (best alternative four-star)
+Iron Sting
+Toukabou Shigure
+Lion's Roar
+Best Artifacts & substats for Clorinde in Genshin Impact
+Clorinde's best-in-slot Artifact set is the Fragment of Harmonic Whimsy as it offers amazing bonuses for characters who rely on the Bond of Life mechanic. I strongly recommend farming for it if you're able to. Otherwise, Clorinde can also be paired with the universal Gladiator's Finale.
+Four-piece Fragment of Harmonic Whimsy
+(best-in-slot) - This set is Clorinde's best-in-slot pick as it offers an ATK bonus and an additional DMG bonus whenever her Bond of Life value increases and decreases. Clorinde can grant herself a Bond of Life and decrease it with her own skills, while a healer can help increase her Bond of Life whenever her Elemental Skill is active.
+This Artifact set can be obtained from the Faded Theater Domain in Fontaine.
+Gladiator's Finale
+- An alternative that offers an ATK boost and a Normal Attack DMG boost when the wielder is a sword, claymore, or polearm user.
+Two-piece combos
+- If you're having trouble farming for the Fragment of Harmonic Whimsy, I recommend any of these two-piece combos as temporary supplements.
+Gladiator's Finale (+18% ATK)
+Echoes of an Offering (+18% ATK)
+Shimenawa's Reminiscence (+18% ATK)
+Thundering Fury (+15% Electro DMG Bonus)
+Clorinde's best Artifact substats
+Sands
+: ATK
+Goblet
+: Electro DMG Bonus
+Circlet
+: CRIT Rate or CRIT DMG
+Substats
+: ATK, CRIT, and some ER to reach your target
+If you're using the Light of Foliar Incision, consider stacking around 80 EM minimum.
+If you're using Clorinde in Dendro teams, you may want some EM substats (100+ EM target including buffs) to help increase her Reaction damage. Additionally, she doesn't need much ER as her Elemental Burst doesn't need to be used often. You can aim for a comfortable 100 % to 160% ER, depending on how many Electro units are in the team.
+Genshin Impact Clorinde Talent upgrade priority
+Clorinde's kit heavily relies on her Elemental Skill to deal damage, so I strongly recommend maxing it out as soon as possible. The Talent upgrade priority is as follows:
+Elemental Skill:
+Hunter's Vigil
+Elemental Burst:
+Last Lightfall
+There's
+no need to level up Clorinde's Normal Attack Talent
+as she works best in a quickswap rotation, only taking the field when her Elemental Skill is ready to use. Her Elemental Skill multipliers are separate from her Normal Attack, even though they are converted to the same kind of damage.
+Best team for Clorinde in Genshin Impact
+As Genshin Impact allows for so much flexibility in playstyle, there are plenty of ways you can slot Clorinde in different teams. I encourage you to experiment with the characters already in your roster to find a team that works with your preferred gameplay.
+It's important to know that Clorinde is a main DPS unit reliant on a rotating setup.
+Whenever her Elemental Skill is active, her Bond of Life is increased from receiving healing from a healer
+(rather than decreased), so I strongly recommend having a healer in the team if you're struggling to increase her Bond of Life value.
+Overloaded team template
+- Clorinde + Chevreuse + Bennett + off-field Electro sub-DPS (Raiden Shogun, Yae Miko, Fischl, Beidou, Kuki Shinobu)
+Aggravate team template
+- Clorinde + off-field Dendro applicator (Nahida, Yaoyao), off-field Electro sub-DPS (Raiden Shogun, Yae Miko, Fischl, Beidou, Kuki Shinobu) + Anemo CC (Kazuha, Sucrose)
+Quicken & Hyperbloom team template
+- Clorinde + off-field Hydro applicator (Furina, Yelan) + any Dendro, Electro, Anemo or Geo characters who don't need much on-field time
+National team
+- Clorinde + Xiangling + Bennett + Xingqiu (or sub with Yelan)
+General team template
+- Clorinde + healer (Furina, Jean, Bennett, Kuki Shinobu, Yaoyao) + off-field DPS + your favorite character
+For more on Clorinde, check out our
+Genshin Impact Clorinde farming guide – all Talent & Ascension materials
+here on Pro Game Guides.
+More Posts from PGG

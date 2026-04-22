@@ -1,0 +1,157 @@
+Yanfei is a playable Pyro character in Genshin Impact. She is one of the most powerful and thus popular champions. We decided to write this guide to help you learn more about Yanfei. In our Genshin Impact Yanfei Build and Best Team Comp post you will learn about Yanfei’s talents, how they work and how to upgrade them. Also, you will read about her Constellations that will help you make Yanfei even more powerful. After that, we have written Genshin Impact Yanfei Build where you’ll see weapon and artifact set. And at last, we have mentioned the best team comps for Yanfei as the main DPS hero.
+Genshin Impact All Characters List
+The whole information is presented in tables. You can use the navigation bar above to move quickly to the information block that you are most interested in.
+Talents
+Constellations
+Build
+Team
+Yanfei Build
+Below you can see the best weapon option for playing Yanfei in Genshin Impact. Accompanied by the best Yanfei artifact set and its stat priorities.
+Main DPS Build
+If you play this champion as a Main DPS in your comp you should take the weapon and artifacts from the list below. They are believed to be the most effective ones in almost all situations.
+Weapon
+Lost Prayer to the Sacred Winds
+Weapon Substitutes:
+Skyward Atlas
+,
+The Widsith
+,
+Mappa Mare
+.
+Artifact Set
+Crimson Witch of Flames
+(4-Piece)
+Artifact Main Stats Priority:
+ATK%
+Pyro DMG Bonus
+CRIT Rate / CRIT DMG
+Sub Stats Priority: CRIT Rate > CRIT DMG > ATK% > Elemental Mastery
+Talent Priority
+Seal of Approval > Done Deal > Signed Edict
+Best Team Compositions for Yanfei
+When you play Genshin Impact everything depends not only on your main character but also on the composition. You should learn how elements complement each other and build the best team for your main. Below you can see the best team composition for Yanfei with two sub DPS and one Support. Also, we have included alternative characters for each role that go well with Yanfei too.
+To trigger vaporize reaction you can use Xingqiu abilities to apply the Hydro effect constantly and then deal extra damage with Yanfei Pyro attacks. Zhongli has a useful shield and Burst with crowd control. As for Bennett he’ll heal and buff the whole team with his Burst.
+Good characters for this comp:
+Ganyu, Mona, Fischl, Kaedehara Kazuha, Venti, Sucrose, Diona.
+How to Build Genshin Impact Yanfei Team?
+If you want to know more about every teammate for Yanfei you can click on the link below and find them in the list of all Genshin Impact characters that we have described.
+Genshin Impact All Characters List
+In case you are still not sure what champion you want to pick as main we have
+Genshin Impact characters tier list
+with explanations on how to build your best team.
+Yanfei Talents
+Below you can see the list of talents that Yanfei uses during the fight. Each of them we have described with the main characteristics.
+Seal of Approval
+Normal Attack
+Normal Attack:
+Shoots fireballs that deal up to three counts of Pyro DMG.
+When Yanfei’s Normal Attacks hit enemies, they will grant her a single Scarlet Seal. Yanfei may possess a maximum of 3 Scarlet Seals, and each time this effect is triggered, the duration of currently possessed Scarlet Seals will refresh.
+Each Scarlet Seal will decrease Yanfei’s Stamina consumption and will disappear when she leaves the field.
+Charged Attack:
+Consumes Stamina and all Scarlet Seals before dealing AoE Pyro DMG to the opponents after a short casting time.
+This Charged Attack’s AoE and DMG will increase according to the amount of Scarlet Seals consumed.
+Plunging Attack:
+Gathering the power of Pyro, Yanfei plunges towards the ground from mid-air, damaging all opponents in her path. Deals AoE Pyro DMG upon impact with the ground.
+Signed Edict
+Elemental Skill
+Summons blistering flames that deal AoE Pyro DMG.
+Opponents hit by the flames will grant Yanfei the maximum number of Scarlet Seals.
+Done Deal
+Elemental Burst
+Triggers a spray of intense flames that rush at nearby opponents, dealing AoE Pyro DMG, granting Yanfei the maximum number of Scarlet Seals, and applying Brilliance to her.
+Brilliance
+has the following effects:
+Grants Yanfei a Scarlet Seal at fixed intervals.
+Increases the DMG dealt by her Charged Attacks.
+The effects of Brilliance will end if Yanfei leaves the field or falls in battle.
+Proviso
+1st Ascension Passive
+When Yanfei consumes Scarlet Seals by using a Charged Attack, each Scarlet Seal will increase Yanfei’s Pyro DMG Bonus by 5%. This effects lasts for 6s. When a Charged Attack is used again during the effect’s duration, it will dispel the previous effect.
+Blazing Eye
+4th Ascension Passive
+When Yanfei’s Charged Attack deals a CRIT Hit to opponents, she will deal an additional instance of AoE Pyro DMG equal to 80% of her ATK. This DMG counts as Charged Attack DMG.
+Encyclopedic Expertise
+Utility Passive
+Displays the location of nearby resources unique to Liyue on the mini-map.
+Every talent can be upgraded up to level 15. But to do so you will need to gather materials on particular days. The list of the needed materials for leveling Yanfei’s talents is mentioned in the next block.
+Talent Leveling Materials
+So here you can see all materials that you will need in order to level up Yanfei’s talents.
+Talent Level-Up Materials
+Gold Books:
+Teachings of Gold
+,
+Guide to Gold
+,
+Philosophies of Gold
+.
+Common Ascension Materials
+Treasure Hoarder Insignia
+,
+Silver Raven Insignia
+,
+Golden Raven Insignia
+.
+Weekly Boss Material
+Bloodjade Branch
+Genshin Impact Enhancement Progression Calculator
+Some of them are required at the beginning for low levels and others are more advanced. We just wanted to focus your attention on material types in general.
+Yanfei Constellations
+In Genshin Impact characters have a specific upgrade system called constellation. You will need to get a specific item called Stella Fortuna to increase the level of constellation. Each character has their own version of Stella Fortuna, which you get by obtaining a duplicate of the character from Wishes.
+Level 1
+The Law Knows No Kindness
+When Yanfei uses her Charged Attack, each existing Scarlet Seal additionally reduces the stamina cost of this Charged Attack by 10% and increases resistance against interruption during its release.
+Level 2
+Right of Final Interpretation
+Increases Yanfei’s Charged Attack CRIT Rate by 20% against enemies below 50% HP.
+Level 3
+Samadhi Fire-Forged
+Increases the Level of Signed Edict by 3.
+Maximum upgrade level is 15.
+Level 4
+Supreme Amnesty
+When Done Deal is used:
+Creates a shield that absorbs up to 45% of Yanfei’s Max HP for 15s. This shield absorbs Pyro DMG 250% more effectively.
+Level 5
+Abiding Affidavit
+Increases the Level of Done Deal by 3.
+Maximum upgrade level is 15.
+Level 6
+Extra Clause
+Increases the maximum number of Scarlet Seals by 1.
+Every Genshin Impact character has its own set of constellations above you can see Yanfei constellations list with descriptions.
+Ascension Materials
+In addition, there are ascension phases that increase the level cap for your character. After Yanfei reaches the 20th level she can be ascended to the next ascension phase, up to phase 6, which allow getting 90th level.
+Character Ascension Materials
+Agnidus Agate:
+Agnidus Agate Sliver
+,
+Agnidus Agate Fragment
+,
+Agnidus Agate Chunk
+,
+Agnidus Agate Gemstone
+.
+Juvenile Jade
+Common Ascension Materials
+Treasure Hoarder Insignia
+,
+Silver Raven Insignia
+,
+Golden Raven Insignia
+.
+Local Specialty
+Noctilucous Jade
+Genshin Impact Enhancement Progression Calculator
+In order to level up ascension phases, you’ll need materials. So the list of those required for Yanfei is listed above.
+Artem R.
+I have been an avid gamer since childhood. My favorite genres are RPGs, Action, and MMOs. Some of my all-time favorite games include the Diablo and Path of Exile ARPG series, the Dark Souls series, and JRPGs like Xenoblade, Atelier, and the Final Fantasy. I am also a big fan of the PSP and PS Vita, and I currently enjoy gaming on my Nintendo Switch.
+Post Views:
+9,613
+Please share it with your friends
+Tags:
+Genshin Impact
+Post navigation
+Previous
+Best WoW Burning Crusade Classic Add-ons
+Next
+Vivid Knight Review

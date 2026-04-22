@@ -1,0 +1,271 @@
+Genshin Impact Qiqi Best Team Guide
+Last updated April 22, 2026. Looking for the best Qiqi teams in
+        Genshin Impact? Start with the top team summary below, then pick the
+        lineup that fits your roster.
+This page provides the best team info for Qiqi, primarily a Healer. Top teams include Superconduct and Permafrost archetypes. Team configurations can be adjusted based on your build and character roster.
+View Qiqi's character page
+Qiqi Team Summary
+#1
+Team Rating:A
+Qiqi Superconduct Razor Team
+C4
+#2
+Team Rating:A
+Eula Superconduct Burst Team with Raiden, Qiqi and Beidou
+#3
+Team Rating:B
+Qiqi Superconduct Team #3
+#1 Qiqi Superconduct Razor Team
+Tier A
+Qiqi
+is the healer in this team.
+Razor
+'s DMG is amplified by
+Superconduct
+.
+Razor
+Main DPS
+Electro
+Constellation 4+
+Main DPS of the team.
+Razor (C4)
+'s Elemental Skill hits enemies and reduces their DEF.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Wolf's Gravestone
+Prototype Archaic
+Sucrose
+Sub DPS
+Anemo
+Provides grouping, crowd control, damage buff, and helps reduce enemy Elemental RES.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Skyward Atlas
+Sacrificial Fragments
+Qiqi
+Support
+Cryo
+Healer.
+Qiqi
+'s Elemental Skill heals the team and continuously applies Cryo to enemies.
+Artifacts
+Ocean-Hued Clam
+Main Stats
+Sands
+Energy Recharge
+Goblet
+ATK%
+Circlet
+Healing Bonus
+Substats
+ATK% / Energy Recharge / HP%
+Weapons
+Skyward Blade
+Favonius Sword
+Zhongli
+Support
+Geo
+His shield provides a safe environment for the team and the full set of Tenacity of the Millelith increases team ATK.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge / DEF%
+Weapons
+Staff of Homa
+Black Tassel
+#2 Eula Superconduct Burst Team with Raiden, Qiqi and Beidou
+Tier A
+Eula-focused Superconduct team.
+Eula
+is the main damage dealer, with
+Raiden Shogun
+enabling Superconduct and battery support,
+Qiqi
+providing healing and Cryo application, and
+Beidou
+adding off-field Electro damage for extra Superconduct uptime.
+Eula
+Main DPS
+Cryo
+Core of the team. Build for Physical DMG and CRIT to maximize Elemental Burst damage, especially under Superconduct and team buffs.
+Artifacts
+Pale Flame
+Main Stats
+Sands
+ATK%
+Goblet
+Physical DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Song of Broken Pines
+Serpent Spine
+Raiden Shogun
+Sub DPS
+Electro
+Provides Electro application for Superconduct, helps recharge the team, and contributes damage during Eula's downtime. Her Elemental Skill also boosts teammates' Elemental Burst damage.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+Energy Recharge / ATK%
+Goblet
+ATK%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Engulfing Lightning
+"The Catch"
+Qiqi
+Support
+Cryo
+Team healer. Her Elemental Skill heals allies and applies Cryo over time, helping maintain Cryo presence while keeping the team alive.
+Artifacts
+Ocean-Hued Clam
+Main Stats
+Sands
+Energy Recharge
+Goblet
+ATK%
+Circlet
+Healing Bonus
+Substats
+ATK% / Energy Recharge / HP%
+Weapons
+Skyward Blade
+Favonius Sword
+Beidou
+Sub DPS
+Electro
+Off-field Electro burst damage helps trigger Superconduct with Eula's Cryo attacks and adds strong AoE damage while active.
+Artifacts
+Thundering Fury
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Skyward Pride
+Serpent Spine
+#3 Qiqi Superconduct Team #3
+Tier B
+Qiqi is the Main DPS, using Cryo attacks with Fischl's off-field Electro to trigger Superconduct. This team is very safe for exploring the world, thanks to Zhongli's shield and sustained support from the other teammates.
+Qiqi
+Main DPS
+Cryo
+Main on-field DPS. Uses Cryo damage to trigger Superconduct with Fischl's Electro application.
+Artifacts
+Ocean-Hued Clam
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+Fischl
+Sub DPS
+Electro
+Oz provides continuous off-field Electro application, enabling consistent Superconduct reactions with Qiqi.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Skyward Harp
+The Stringless
+Ningguang
+Support
+Geo
+Provides support with
+Thrilling Tales of Dragon Slayers
+to buff Qiqi's ATK. Also pairs with Zhongli for Geo resonance.
+Artifacts
+Instructor
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge / DEF%
+Weapons
+Thrilling Tales of Dragon Slayers
+Zhongli
+Support
+Geo
+Provides strong shielding for the team and increases overall team ATK with
+Tenacity of the Millelith
+.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge / DEF%
+Weapons
+Staff of Homa
+Black Tassel
+Qiqi Teams FAQ
+What is the best Qiqi team in Genshin Impact?
+Qiqi Superconduct Razor Team is one of the strongest Qiqi teams right now. Use the team summary and build cards on this page to pick the best version for your account.
+What are good Qiqi teams without premium weapons?
+You can run strong Qiqi teams without signature weapons by prioritizing reaction synergy, energy consistency, and artifact main stats shown in each build card.
+Which teammates are best with Qiqi?
+Common high-performing partners include teams such as Qiqi Superconduct Razor Team, Eula Superconduct Burst Team with Raiden, Qiqi and Beidou, Qiqi Superconduct Team #3. Check each lineup section for role breakdowns and gear priorities.

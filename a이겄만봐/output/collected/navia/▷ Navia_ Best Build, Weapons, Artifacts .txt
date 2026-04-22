@@ -1,0 +1,198 @@
+Stars:
+★★★★★
+Element:
+Geo
+Weapon:
+Claymore
+Region:
+Fontaine
+Birthday:
+16 August
+Release:
+4.3
+Navia is a 5-star Geo character who, despite wielding her powerful and stylish Gunbrella, requires a Claymore as her weapon of choice. She serves as a Main DPS, standing out significantly from other Geo Main DPS characters.
+This character excels in dealing incredible damage through her Elemental Skill, which unleashes a powerful shot (you must be very close to enemies to maximize damage, functioning like a shotgun) with her Gunbrella. She also delivers substantial damage with the rest of her kit, including Normal Attacks, as using the Elemental Skill temporarily imbues her with Geo.
+What sets her apart is her ability to enhance her Elemental Skill damage as she or her companions
+collect Crystallize fragments
+(a Geo elemental reaction). She can even automatically collect these fragments by holding down her skill. But that's not all—pairing her with Cryo, Pyro, Hydro, and Electro characters significantly boosts her attack, though she greatly appreciates teaming up with another Geo character for resonance and to generate more Crystallize fragments.
+Base Stats
+HP: 12650
+ATK: 352
+DEF: 793
+Special Stat: +38.4% CRIT DMG
+Navia Main DPS
+A very typical build for a Main DPS character, especially considering that, despite being a Geo Main DPS,
+she scales her damage based on Attack rather than Defense
+, as is typical for characters of this element.
+The only aspect that deviates slightly from the norm is that we will be keen on enhancing the damage of her Elemental Skill even though she is a Main DPS (though, of course, obtaining general damage bonuses will always be preferable).
+Recommended Skill Lvl & Constellations
+Normal Attack
+9
+Elemental Skill
+10
+Elemental Burst
+9
+Constellations
+0
+Best Weapons
+Verdict
+Base ATK: 674
+Primary Stat: +22.05% CRIT %
+R1
+R2
+R3
+R4
+R5
+Increases ATK by 20%. When party members obtain Elemental Shards from Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by 18%. The Seal lasts for 15s, and the equipper may have up to 2 Seals at once. All of the equipper's Seals will disappear 0.2s after their Elemental Skill deals DMG.
+Increases ATK by 25%. When party members obtain Elemental Shards from Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by 22.5%. The Seal lasts for 15s, and the equipper may have up to 2 Seals at once. All of the equipper's Seals will disappear 0.2s after their Elemental Skill deals DMG.
+Increases ATK by 30%. When party members obtain Elemental Shards from Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by 27%. The Seal lasts for 15s, and the equipper may have up to 2 Seals at once. All of the equipper's Seals will disappear 0.2s after their Elemental Skill deals DMG.
+Increases ATK by 35%. When party members obtain Elemental Shards from Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by 31.5%. The Seal lasts for 15s, and the equipper may have up to 2 Seals at once. All of the equipper's Seals will disappear 0.2s after their Elemental Skill deals DMG.
+Increases ATK by 40%. When party members obtain Elemental Shards from Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by 36%. The Seal lasts for 15s, and the equipper may have up to 2 Seals at once. All of the equipper's Seals will disappear 0.2s after their Elemental Skill deals DMG.
+The Unforged
+Base ATK: 608
+Primary Stat: 49.6% ATK %
+R1
+R2
+R3
+R4
+R5
++20% Shield Strength.
++4% ATK for 6s on hit once every 0.3s and max 5 stacks. This ATK Bonus is duplicated while character is shielded.
++25% Shield Strength.
++5% ATK for 6s on hit once every 0.3s and max 5 stacks. This ATK Bonus is duplicated while character is shielded.
++30% Shield Strength.
++6% ATK for 6s on hit once every 0.3s and max 5 stacks. This ATK Bonus is duplicated while character is shielded.
++35% Shield Strength.
++7% ATK for 6s on hit once every 0.3s and max 5 stacks. This ATK Bonus is duplicated while character is shielded.
++40% Shield Strength.
++8% ATK for 6s on hit once every 0.3s and max 5 stacks. This ATK Bonus is duplicated while character is shielded.
+Wolf’s Gravestone
+Base ATK: 608
+Primary Stat: 49.6% ATK %
+R1
+R2
+R3
+R4
+R5
+Increases ATK by 20%. On hit, attacks against opponents with less than 30% HP increase all party members' ATK by 40% for 12s. Can only occur once every 30s.
+Increases ATK by 25%. On hit, attacks against opponents with less than 30% HP increase all party members' ATK by 50% for 12s. Can only occur once every 30s.
+Increases ATK by 30%. On hit, attacks against opponents with less than 30% HP increase all party members' ATK by 60% for 12s. Can only occur once every 30s.
+Increases ATK by 35%. On hit, attacks against opponents with less than 30% HP increase all party members' ATK by 70% for 12s. Can only occur once every 30s.
+Increases ATK by 40%. On hit, attacks against opponents with less than 30% HP increase all party members' ATK by 80% for 12s. Can only occur once every 30s.
+Serpent Spine
+Base ATK: 510
+Primary Stat: +27.6% CRIT %
+R1
+R2
+R3
+R4
+R5
++6% DMG and +2% DMG taken every 4 secs if you are on field. Max 5 stacks, you loose 1 stack after being hitted.
++7% DMG and +2% DMG taken every 4 secs if you are on field. Max 5 stacks, you loose 1 stack after being hitted.
++8% DMG and +2% DMG taken every 4 secs if you are on field. Max 5 stacks, you loose 1 stack after being hitted.
++9% DMG and +2% DMG taken every 4 secs if you are on field. Max 5 stacks, you loose 1 stack after being hitted.
++10% DMG and +2% DMG taken every 4 secs if you are on field. Max 5 stacks, you loose 1 stack after being hitted.
+Tidal Shadow
+Base ATK: 510
+Primary Stat: +41.3% ATK %
+R1
+R2
+R3
+R4
+R5
++24% ATK for 8s after being healed, even if character is not on the field.
++30% ATK for 8s after being healed, even if character is not on the field.
++36% ATK for 8s after being healed, even if character is not on the field.
++42% ATK for 8s after being healed, even if character is not on the field.
++48% ATK for 8s after being healed, even if character is not on the field.
+Earth Shaker
+Base ATK: 565
+Primary Stat: +27.56 ATK %
+R1
+R2
+R3
+R4
+R5
+After a party member triggers a Pyro-related reaction, the equipping character's Elemental Skill DMG is increased by 16% for 8s. This effect can be triggered even when the triggering party member is not on the field.
+After a party member triggers a Pyro-related reaction, the equipping character's Elemental Skill DMG is increased by 20% for 8s. This effect can be triggered even when the triggering party member is not on the field.
+After a party member triggers a Pyro-related reaction, the equipping character's Elemental Skill DMG is increased by 24% for 8s. This effect can be triggered even when the triggering party member is not on the field.
+After a party member triggers a Pyro-related reaction, the equipping character's Elemental Skill DMG is increased by 28% for 8s. This effect can be triggered even when the triggering party member is not on the field.
+After a party member triggers a Pyro-related reaction, the equipping character's Elemental Skill DMG is increased by 32% for 8s. This effect can be triggered even when the triggering party member is not on the field.
+Ultimate Overlord’s Mega Magic Sword
+Base ATK: 565
+Primary Stat: +30.06% ER
+R1
+R2
+R3
+R4
+R5
+ATK increased by 12%. That's not all! The support from all Melusines you've helped in Merusea Village fills you with strength! Based on the number of them you've helped, your ATK is increased by up to an additional 12%.
+ATK increased by 15%. That's not all! The support from all Melusines you've helped in Merusea Village fills you with strength! Based on the number of them you've helped, your ATK is increased by up to an additional 15%.
+ATK increased by 18%. That's not all! The support from all Melusines you've helped in Merusea Village fills you with strength! Based on the number of them you've helped, your ATK is increased by up to an additional 18%.
+ATK increased by 21%. That's not all! The support from all Melusines you've helped in Merusea Village fills you with strength! Based on the number of them you've helped, your ATK is increased by up to an additional 21%.
+ATK increased by 24%. That's not all! The support from all Melusines you've helped in Merusea Village fills you with strength! Based on the number of them you've helped, your ATK is increased by up to an additional 24%.
+Blackcliff Slasher
+Base ATK: 510
+Primary Stat: +55.1% CRIT DMG
+R1
+R2
+R3
+R4
+R5
++12% ATK for 30s after defeating an enemy. Max 3 stacks, every stack is independent from the others.
++15% ATK for 30s after defeating an enemy. Max 3 stacks, every stack is independent from the others.
++18% ATK for 30s after defeating an enemy. Max 3 stacks, every stack is independent from the others.
++21% ATK for 30s after defeating an enemy. Max 3 stacks, every stack is independent from the others.
++24% ATK for 30s after defeating an enemy. Max 3 stacks, every stack is independent from the others.
+Prototype Archaic
+Base ATK: 565
+Primary Stat: 27.6% ATK %
+R1
+R2
+R3
+R4
+R5
+NA and CA have a 50% chance to cause 240% ATK AOE DMG on hit. Once every 15s.
+NA and CA have a 50% chance to cause 300% ATK AOE DMG on hit. Once every 15s.
+NA and CA have a 50% chance to cause 360% ATK AOE DMG on hit. Once every 15s.
+NA and CA have a 50% chance to cause 420% ATK AOE DMG on hit. Once every 15s.
+NA and CA have a 50% chance to cause 480% ATK AOE DMG on hit. Once every 15s.
+Best Artifacts
+Artifact Sets
+Nighttime Whispers in the Echoing Woods
+ATK +18%
+After using an Elemental Skill, gain a 20% Geo DMG Bonus for 10s. While under a shield granted by the Crystallize reaction, the above effect will be increased by 150%, and this additional increase disappears 1s after that shield is lost.
+Primary Stats
+Sands
+ATK %
+Goblet
+Geo DMG %
+Circlet
+CRIT %
+CRIT DMG
+Substats
+CRIT %
+CRIT DMG
+ATK %
+ER
+Best Teams
+Navia
+Albedo
+Xiangling
+Bennett
+Navia
+Albedo
+Furina
+Sigewinne
+Navia
+Fischl
+Xingqiu
+Zhongli
+Navia
+Ningguang
+Xiangling
+Bennett
+Navia
+Chiori
+Xiangling
+Bennett

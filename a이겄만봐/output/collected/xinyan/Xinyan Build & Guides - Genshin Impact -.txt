@@ -1,0 +1,550 @@
+Home
+/
+Genshin Impact
+/
+Character List
+/
+Xinyan Build
+Xinyan Guide and Best Builds
+Xinyan is a 4-star Pyro Claymore character in Genshin
+Impact who while being a DPS, also provides shielding to support your team.
+Our Xinyan build guide will focus on her Best Artifacts, Team Comps,
+Ascension Materials and More.
+Last updated
+on
+Oct 26, 2025
+at
+11:52
+by
+Shikhu
+1 comment
+D
+Rank
+Pyro
+Element
+Claymore
+Weapon
+★
+★
+★
+★
+★
+Rarity
+Laura Stahl
+EN Voice Actor
+Takashi Chiaki
+JP Voice Actor
+Xinyan's Strengths & Weaknesses
+Strengths
+Able to provide shielding while also acting as a DPS.
+Xinyan's C2 guarantees the ability to CRIT on their Elemental Burst while also making easy shields.
+Weaknesses
+Split scaling forcing you to choose building her with either ATK or DEF.
+Weaker shields than most other Characters.
+High Energy Recharge requirements in many situations.
+Elemental Skill requires you to be fighting 2-3 enemies to fully create her shield.
+Low damage.
+1.
+Xinyan Build Guide, Best Artifacts, Weapons and Talent Priority
+Xinyan can be built either as an on-field Physical DPS or instead built as a
+shield support.
+2.
+Xinyan's Build Options
+DPS Xinyan
+Shield Support Xinyan
+3.
+Physical DPS Xinyan
+Xinyan's main build is as a DPS, focusing on ATK stats with the added
+benefit of being able to create small shields to nullify damage
+while on-field.
+BiS Weapon
+Redhorn Stonethresher
+Alternative Weapons
+A Thousand Blazing Suns
+Verdict
+Serpent Spine
+Skyward Pride
+The Unforged
+Song of Broken Pines
+Wolf's Gravestone
+Luxurious Sea-Lord
+Prototype Archaic
+Best Artifacts
+Marechaussee Hunter
+(With Furina)
+2 Piece
+Pale Flame
++
+Bloodstained Chivalry
+Pale Flame
+Main Stats
+Sand Stats
+: ATK % / Energy Recharge
+Goblet Stats
+: Physical DMG
+Circlet Stats
+: CRIT DMG > CRIT Rate
+Substat Priority
+CRIT DMG
+CRIT Rate
+ATK %
+Energy Recharge
+DEF %
+Talent Priority
+Normal Attack
+Elemental Burst
+Elemental Skill
+Xinyan is built with weapons which boost her ATK, with
+Redhorn Stonethresher
+or
+A Thousand Blazing Suns
+being her
+best build options and weapons such as
+Verdict
+and
+Serpent Spine
+being great alternative
+weapons.
+Build Xinyan with the 2 piece effects of
+Bloodstained Chivalry
+and
+Pale Flame
+which both boost
+Physical
+DMG by 25%.
+Marechaussee Hunter
+however is Xinyan's best artifact set to build
+if in teams with
+Furina
+. 4 Piece Pale Flame is powerful,
+but has inconsistency issues with triggering the effect.
+With regards to Xinyan's stat priorities, CRIT DMG is more important
+than CRIT Rate because of Xinyan's second Constellation
+Impromptu Opening
+which provides a guaranteed CRIT for the
+Physical DMG of her Elemental Burst. Therefore, build Xinyan with a 1:3
+ratio instead of the standard 1:2 Rate:DMG most characters are built on.
+4.
+Shield Support Xinyan
+Xinyan can also be built as a supportive character instead of an offensive
+character, instead focusing on building up DEF % to increase her shield
+strength.
+BiS Weapon
+Favonius Greatsword
+Alternative Weapons
+Whiteblind
+Katsuragikiri Nagamasa
+White Iron Greatsword
+Best Artifacts
+Tenacity of the Millelith
+Scroll of the Hero of Cinder City
+Noblesse Oblige
+Main Stats
+Sand Stats
+: DEF % / Energy Recharge
+Goblet Stats
+: DEF %
+Circlet Stats
+: DEF %
+Substat Priority
+Energy Recharge to Requirements
+CRIT Rate with Favonius
+DEF %
+ATK %
+Talent Priority
+Elemental Skill
+Elemental Burst
+Normal Attack
+Xinyan is much easier to build as a Shield support with her BiS weapon
+being
+Favonius Greatsword
+which allows you to provide additional energy to other
+party members. That being said, if you find that you need greater uptime on 
+shields,
+Sacrificial Greatsword
+is the weapon to build.
+Building Xinyan as a shielder means you want either
+Tenacity of the Millelith
+if you are able to maximize shield uptime. Otherwise using
+Scroll of the Hero of Cinder City
+or
+Noblesse Oblige
+to buff the
+party. Which set you want to build depends on the team.
+Xinyan's Shield scales off of DEF, which is your best stat outside of
+ensuring you reach your Energy Recharge requirements.
+4.1.
+Xinyan's Energy Recharge Requirements
+Listed below are some recommendations for Xinyan's Energy Recharge
+requirements. The majority of the time she is paired with
+Bennett
+and therefore often follows the "Double Pyro" row when building ER.
+Scenario
+Energy Recharge
+Solo Pyro
+190 - 220%
+Double Pyro
+170 - 190%
+Triple Pyro
+150 - 170%
+Xinyan tends to have different requirements if she is on-field or
+played as a support. As a support she should ideally be using
+Sacrificial Greatsword
+meaning she can use her Elemental
+Skill twice in a rotation, this gives her more Energy even if she is
+off-field more.
+5.
+Combos and How to Play Xinyan
+Xinyan's Elemental Skill
+Sweeping Fervor
+deals
+Pyro
+DMG to nearby opponents and hits different levels
+depending on the amount of opponents hit:
+Shield Level
+Ascension 0
+Ascension 1
+Level 1: Ad Lib
+0 - 1
+0
+Level 2: Lead-In
+2
+1
+Level 3: Rave
+3
+2
+As shown in the table, at Ascension 1 with the passive
+"The Show Goes On, Even Without an Audience..."
+, the required number
+of enemies is decreased. At level 3: Rave, the shield will also
+occasionally deal
+Pyro
+DMG in an AoE around Xinyan.
+Xinyan's Elemental Burst is very unique in the fact it deals both
+Physical
+DMG and also
+Pyro
+DMG. This
+does however come with the downside of scaling off of different things.
+As a support, Xinyan's shield created by her Elemental Skill is incredibly
+useful for cleansing. This is because the shield always grants a
+Pyro
+status when switching a character in which
+is what enables the cleansing.
+6.
+Xinyan's Best Team Compositions
+Xinyan has a range of great team compositions including those that support
+her offensive build and those that instead cater to her defensive shield build.
+6.1.
+Xianyun Plunge Team
+Main DPS
+Support
+Support
+Support
+Xinyan
+Bennett
+Furina
+Xianyun
+As a Claymore character, Xinyan has higher Plunging Attack scaling than
+most of the characters in the game. This makes her a good candidate for
+Plunging teams with
+Xianyun
+. Alongside great DMG
+buffs from
+Furina
+and
+Bennett
+as well as
+Elemental Infusion
+from C6 Bennett she can deal powerful
+Plunge Attacks.
+6.2.
+Superconduct Xinyan
+Main DPS
+Sub DPS
+Sub DPS
+Support
+Xinyan
+Rosaria
+Fischl
+Bennett
+Xinyan
+Raiden Shogun
+Kaeya
+Bennett
+This team focuses on Xinyan's
+Physical
+build, allowing her
+to deal damage through the
+Superconduct
+reaction
+using
+Cryo
+and
+Electro
+characters.
+Fischl
+and
+Raiden Shogun
+are the ideal Electro
+characters for this providing great off-field Electro DMG and also lowering
+Energy Requirements.
+Rosaria
+is the best option for
+off-field Cryo application as well as Physical RES Shred at C6.
+Kaeya
+is an alternate option if you do not have Rosaria or
+she is being used in another team.
+6.3.
+Xinyan Pyro Support Teams
+Main DPS
+Sub DPS
+Support
+Support
+Lyney
+Xiangling
+Bennett
+Xinyan
+Chasca
+Furina
+Bennett
+Xinyan
+Main DPS
+Sub DPS
+Sub DPS
+Support
+Hu Tao
+Xingqiu
+Yelan
+Xinyan
+Being a
+Pyro
+character, Xinyan is able to provide additional
+energy for other Pyro characters.
+Lyney
+greatly benefits from having
+exclusively
+Pyro
+characters in his team while the increased
+interruption RES can help with Charged Attacks. With
+Hu Tao
+on the other hand Xinyan provides
+Pyro Resonance
+as well as defensive support instead of Healing as Hu Tao
+deals increased DMG below 50% HP.
+6.4.
+Xinyan Non-Pyro Support Teams
+Main DPS
+Sub DPS
+Support
+Support
+Chasca
+Furina
+Bennett
+Xinyan
+Mualani
+Kaedehara Kazuha
+Xilonen
+Xinyan
+When supporting non-Pyro teams, Xinyan is still able to provide some utility
+on top of shielding.
+Chasca
+simply wants
+characters of different elements to provide bullets for elemental reactions.
+At the same time, because of Xinyan's ability to self-apply
+Pyro
+,
+Kaedehara Kazuha
+can absorb the Pyro for elemental reactions
+such as in
+Mualani
+teams.
+7.
+Xinyan's Ascensions, Talents and Constellations
+Xinyan's Ascensions
+Xinyan's Talents
+Xinyan's Constellations
+7.1.
+Xinyan's Ascension Passives and Materials
+Unlock
+Ascension Passive
+Explanation
+With Character
+A Rad Recipe
+Decreases the number of opponents Sweeping Fervor must hit to
+      trigger each level of shielding.
+Shield Level 2: Lead-In requirement reduced to 1 opponent hit.
+Shield Level 3: Rave requirement reduced to 2 opponents hit or more.
+1st Ascension
+"The Show Goes On, Even Without an Audience..."
+Characters shielded by Sweeping Fervor deal 15% increased
+Physical
+DMG.
+4th Ascension
+"...Now That's Rock 'N' Roll!"
+When a Perfect Cooking is achieved on a DEF-boosting dish, Xinyan has
+    a 12% chance to obtain double the product.
+Xinyan requires a range of materials to ascend to the 6th ascension.
+Starting from the second ascension they gain ATK % as she levels,
+giving a total of 24% Bonus ATK at the final ascension.
+The total cost to upgrade all ascensions is:
+Source
+Quantity
+Mora
+420,000 Mora
+Boss Material
+46x
+Everflame Seed
+Ascension Material
+1x
+Agnidus Agate Sliver
+9x
+Agnidus Agate Fragment
+9x
+Agnidus Agate Chunk
+6x
+Agnidus Agate Gemstone
+Local Specialty
+168x
+Violetgrass
+Enhancement Material
+18x
+Treasure Hoarder Insignia
+30x
+Silver Raven Insignia
+36x
+Golden Raven Insignia
+7.2.
+Xinyan's Talents
+Listed below is each talent and a simplified explanation of how they work.
+Type
+Talent Name
+Brief Explanation
+Normal
+Dance on Fire
+Normal Attack deals 4 strikes, Charged Attack is a continuous spin
+    attack and Plunging Attack is a standard Claymore Plunge.
+Elemental Skill
+Sweeping Fervor
+Deals
+Pyro
+DMG in front of Xinyan and creates a
+      Shield based on the number of enemies hit.
+The Shield infuses Xinyan with Pyro and has additional
+      absorption against Pyro DMG.
+Elemental Burst
+Riff Revolution
+Deals DMG in an AoE around Xinyan dealing both
+Physical
+and
+Pyro
+DMG.
+To upgrade a single talent to level 10, it costs:
+Source
+Quantity
+Mora
+1,625,500 Mora
+Special Material
+1x
+Crown of Insight
+Boss Material
+6x
+Tusk of Monoceros Caeli
+Domain Material
+3x
+Teachings of Gold
+21x
+Guide to Gold
+38x
+Philosophies of Gold
+Enhancement Material
+6x
+Treasure Hoarder Insignia
+22x
+Silver Raven Insignia
+31x
+Golden Raven Insignia
+7.3.
+Xinyan's Constellations
+Xinyan's
+Impromptu Opening
+(C2) is a great Constellation
+for her because of the fact it instantly allows you to create a Level 3 Shield
+when her Elemental Burst is used.
+Wildfire Rhythm
+(C4) is
+also really good due to the fact it lowers the enemies
+Physical
+RES allowing her to deal a lot more DMG on Physical builds.
+#
+Name
+Explanation
+C1
+Fatal Acceleration
+When Xinyan CRITs, her ATK SPD of Normal and Charged Attacks
+    increases for 5s by 12%.
+C2
+Impromptu Opening
+Creates a Level 3: Rave Shield when
+Riff Revolution
+is used.
+C3
+Double-Stop
+Increases the Level of
+Sweeping Fervor
+by 3.
+Maximum upgrade level is 15.
+C4
+Wildfire Rhythm
+Using
+Sweeping Fervor
+will decrease the enemies
+Physical
+RES by 15% for 12.
+C5
+Screamin' for an Encore
+Increases the Level of
+Riff Revolution
+by 3.
+Maximum upgrade level is 15.
+C6
+Rockin' in a Flaming World
+Decreases Stamina use of Charged Attacks by 30%.
+Charged Attacks gain extra ATK based on 50% of her DEF.
+Changelog
+26 Oct. 2025:
+Reviewed for 6.1.
+12 Feb. 2025:
+Reviewed for 5.4.
+04 Feb. 2025:
+Updated for 5.3.
+03 Jun. 2024:
+Reviewed for 4.7.
+12 Feb. 2024:
+Guide added.
+Show more
+Show less
+Need any help? Check out our
+General Discussion Forum
+!
+1 comment
+In The Same Category
+Xiangling Best Builds Guide
+Mavuika Team Guide
+Dehya Best Builds Guide
+Hu Tao Best Builds Guide
+Chevreuse Best Builds Guide
+Durin Team Guide
+Mavuika Profile & Talents
+Bennett Profile & Talents
+Lyney Team Guide
+Klee Best Builds Guide
+Yoimiya Best Builds Guide
+Durin Best Builds Guide
+ABOUT THE AUTHOR
+This guide has been written by Shikhu (Discord - Shikhu), an avid Genshin Impact player who has
+          been exploring Teyvat since the game has launched. He has experienced
+          all the game has to offer from building his favorite characters,
+          exploring the world to clearing Spiral Abyss each rotation. His
+          favorite character being his C6 Furina.
+SUPPORT OUR WRITERS

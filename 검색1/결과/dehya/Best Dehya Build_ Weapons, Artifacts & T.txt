@@ -1,0 +1,124 @@
+Table of Contents
+Skills
+Weapons
+Artifacts
+Team Comps
+Constellation
+Dehya is a Pyro claymore user who is both flexible and easy to build. She can either support the main DPS or be the main DPS herself all while being tankier and harder to kill. Her kit requires two stats, HP and attack, making her on the easier side to build and more beginner friendly.
+As she requires two stats, her scaling changes with constellation level. Meanwhile, her build and Burst do not follow typical power-up Burst characters. This is why her playstyle is different and why it is important to understand her kit to properly utilize her. Here you can learn how to optimize her build to reach her peak performance!
+Skills
+Normal Attack: Sandstorm Assault
+Dehya strikes up to four times, and holding the attack deals consecutive slashes that consume stamina. After stopping the consecutive slashes, Beidou performs a powerful slash that deals extra damage. Regardless of which build she uses, this skill is not the source of her damage. Thus, it takes the least priority in leveling up.
+Elemental Skill: Molten Inferno
+If there is no Fiery Sanctum field active, Dehya deals AOE Pyro damage and creates a Fiery Sanctum field for 12 seconds. In that field, if an enemy receives damage, it will be followed by an AOE Pyro damage that scales with Dehya’s attack and maximum HP (2.5-second cooldown).
+Within that field, characters receive mitigated damage and increased resistance to interruption. The amount of mitigated damage is transferred to Dehya. This effect cannot exceed 200% of Dehya’s maximum HP. If Dehya recasts her Elemental Skill while the field is still active, Dehya deals Pyro AOE damage and repositions the field to her new position. The field’s duration becomes the remaining time of the 12 seconds.
+In most of her builds, this skill is the most important skill in her kit. Whether it is through the mitigated damage or Pyro application, its field is Dehya’s main source of utility. Thus, it is the most important skill to level up.
+Elemental Burst: Leonine Bite
+Dehya enters Blazing Lioness state in which her normal attacks become Flame-Mane’s Fists attacks that deal Pyro damage scaling with her attack and Maximum HP. Meanwhile, her Elemental skill will become Roaring Barrage that increases Dehya’s attack speed. After using the Elemental Burst, it is important to use the Elemental Skill immediately, as it allows four more additional attacks.
+Once the Elemental Burst expires, Dehya leaps and uses Incineration Drive that deals AOE Pyro damage. During her Elemental Burst, Dehya’s Fiery Sanctum field disappears and resumes once her Elemental Burst expires.
+An important note is that Flame-Mane’s Fists attacks are considered Elemental Burst hits, not normal attacks. The reason why this is important is that characters such as Xingqiu, Yelan and others will not work with her.
+Passive: Unstinting Succor
+Upon resetting the field’s position when the Elemental Skill is recast or when the Elemental Burst expires, Dehya receives 60% less damage in the next 6 seconds from the mitigated damage.
+Moreover, creating a new Fiery Sanctum applies Gold-Forged Form state to her allies within that field, which increases their interruption resistance (18-second cooldown).
+2nd Passive: Stalwart and True
+If Dehya’s HP is below 40%, she will recover an initial 20% of her maximum HP and an additional 6% every two seconds for 10 seconds (20-second cooldown).
+Weapons
+Beacon of the Reed Sea
+Beacon of the Reed Sea is Dehya’s signature weapon and her best weapon. This is due to its high crit rate of 33.1% and its passive that synergizes so well with Dehya. As Dehya benefits from attack and HP, she can gain up to 40-80% attack and 32-64% maximum HP based on refinement. Not only that, it can trigger when she is off-field, making it perfect for her kit.
+Wolf’s Gravestone
+Wolf’s Gravestone is a great alternative, as it is a non-limited weapon and many players can obtain it through standard banner. It has the same base damage while increasing attack up to 109.6-169.6%. Not only does it improve her damage capability, but also buffs her allies by 40-80% attack as well. However, it lacks any HP bonuses, and Dehya scales better with HP than attack.
+Luxurious Sea-Lord
+The best F2P option, Luxurious Sea-Lord was given for free in a previous event, and works well enough with Dehya. Not only does it increase attack by 55.1%, but it also increases Elemental Burst damage by 12-24%. It also deals AOE damage that scales with 100% of her attack when she hits an enemy with her Elemental Burst (15-second cooldown).
+Artifacts
+Dehya has strong flexibility as she can be played three different roles based on her team comps and builds. However, not all roles are equally strong. Her main DPS role is the weakest, as her Elemental Burst does not deal as much damage as other characters.
+Her sub-DPS build is her best build, as it utilizes her both on-field and off-field, making her more efficient. The best set for that build is Vourukasha’s Glow, as it increases her maximum HP and her Elemental Skill and Burst damage by 10%. She can also gain up to 400% increased Elemental Skill and Burst damage after taking damage 5 times, which is easy through her mitigated damage passive.
+Her support build focuses more on her being off-field and boosting her allies’ attack all while tanking the mitigated damage. Thus, Tenacity of the Millelith is the best set on her to fully support her teammates. As for substats, she needs to focus on attack and HP. However, she needs high energy recharge for her sub-DPS build. Crit rate and crit damage bonuses are useful especially if she has her signature weapon.
+Note that the focus on attack or HP changes upon her constellation. Dehya’s damage scales better with attack at C0 and HP at C1 and above.
+Build: Vourukasha’s Glow
+Flower
+Plume
+Sands
+Goblet
+Circlet
+Substats
+1. HP
+1.  ATK
+1. ATK % or HP %
+1. Pyro DMG % or ATK % / HP %
+1. ATK % / HP % or Crit Rate /DMG %
+1. ATK %
+2. HP%
+3. Crit Rate %
+4. Crit DMG %
+5. Energy Recharge %
+Also Read:
+Best Settings For Genshin Impact: Get The Highest Performance And Graphics.
+Build: Tenacity of the Millelith
+Flower
+Plume
+Sands
+Goblet
+Circlet
+Substats
+1. HP
+1.  ATK
+1. HP %
+1. HP %
+1. HP %
+1. ATK
+2. Flat HP
+3. Elemental Mastery (only in reaction teams)
+Team Comps
+Dehya’s flexibility allows her to fit in many team comps. As her Elemental Skill works off-field, and her Elemental Burst on-field. She can work as DPS, sub-DPS or full support. In a DPS team, the remaining characters will revolve around supporting her, through elements applications and attack and HP boost.
+Meanwhile, as a sub-DPS or full support, her role is to tank damage for allies, reduce interruption and apply Pyro. Her Pyro application makes her great in a Burgeon reaction team or Melt/Vape team.
+Ganyu
+Ganyu synergizes so well with Dehya, as Dehya covers Ganyu’s weaknesses, which is her squishiness along with interruptions to her charged shots. Not only that, but she also Applies Pyro constantly, which helps Ganyu to deal additional damage through Melt reaction. Meanwhile, the opposite can happen, where Ganyu’s Burst will apply Cryo and Dehya’s Burst will deal additional damage through the reaction.
+Also Read:
+Best Ganyu Build: Weapons, Artifacts & Team Comps
+Ayaka
+Ayaka is another great pair to Dehya for the same reasons as Ganyu. The interruption resistance and Pyro application improve both the offensive and defensive capabilities of Ayaka. Meanwhile, she also benefits from attack boosts from the weapon and artifact sets.
+Also Read:
+Best Ayaka Build: Weapons, Artifacts & Team Comps
+Kazuha/Venti/Sucrose
+Also Read:
+Best Kazuha Build: Weapons, Artifacts & Team Comps
+As Dehya is great in applying Pyro, a Swirl user is an amazing addition to any reaction team Dehya is in. Whether swirling Hydro or Cryo for Dehya, or Pyro for the main DPS, a Swirl user can help in reactions, while reducing the resistance of enemies with the Viridescent Venerer set.
+Also Read:
+Best Venti Build: Weapons, Artifacts & Team Comps
+Nahida
+Nahida only works with Dehya in a Burgeon team through Dendro-Pyro reaction. However, this team requires elemental mastery, so Dehya’s artifacts need to be adjusted accordingly. Meanwhile, this team can be further improved by adding a Hydro applier to create Dendro Cores, and Dehya can burst them to deal additional damage.
+Also Read:
+Best Nahida Build: Weapons, Artifacts & Team Comps
+Bennett
+Bennet and Dehya can work together to significantly boost the attack of the main DPS, all while keeping them perfectly healthy. From Dehya’s reduced damage and Bennett’s heal, your main DPS will become extremely difficult to kill as long as they stay within their fields. Luckily, they will be hard to knock out of it due to Dehya’s interruption resistance. Finally, Bennett reduces Dehya’s energy recharge requirement due to his particle generation.
+Also Read:
+Best Bennett Build: Weapons, Artifacts & Team Comps
+Childe/Tartaglia
+In a Childe-Dehya team, Dehya is built more towards supporting Childe through Pyro application and damage boost. As Childe has significant damage, her supportive capabilities improve his damage output and maximizes the damage window for an optimal damage rotation.
+Also Read:
+Best Childe Build: Weapons, Artifacts & Team Comps
+Constellation
+The Flame Incandescent
+Dehya gains an additional 20% maximum HP. Moreover, her Elemental Skill and Burst gain 3.6% and 6% respectively of her maximum HP as damage
+The Sand-Blades Glittering
+Repositioning the Fiery Sanctum field through recasting her Elemental Skill adds 6 more seconds to its duration.
+Moreover, when the active character is hit while on Fiery Sanctum field, the next Pyro hit by that field will deal 50% damage
+A Rage Swift as Fire
+Increases the level of the Elemental Burst by 3 and the maximum level to 15
+An Oath Abiding
+Flame-Mane’s Fist and Incineration Drive hits will restore 1.5 energy and 2.5% of her maximum HP to Dehya (0.2-second cooldown)
+The Alpha Unleashed
+Increases the level of the Elemental Skill by 3 and the maximum level to 15
+The Burning Claws Cleaving
+Dehya’s Elemental Burst has 10% increased crit rate. If Flame-Mane’s Fist crits, it will increase the Elemental Burst’s duration by 0.5 seconds and crit damage by 15%. This can only happen four times per Elemental Burst with a total increase of 2 seconds and 60% crit damage
+When it comes to constellations, Dehya suffers from partially being locked behind the first constellation, as it changes his values and significantly improves her kit. Her ascension increases her maximum HP, while she has one of the highest base HP in the game. The first ascension improves her HP% scaling values and significantly improves her overall damage.
+Fortunately, she is a non-limited character, so it is highly likely that she can get her first constellation with time. The remaining constellations improve her damage output and usability, but they are not as necessary as the first constellation. The second constellation reduces the downtime of her Elemental Skill from 8 seconds to 2 seconds.
+Meanwhile, the fourth constellation reduces her energy requirement, as Dehya has a high Elemental Burst cost. Finally, the sixth constellation improves the amount of hits per Elemental Burst along with its crit rate and damage. However, in comparison to other C6 characters, her damage output is not even close.
+As a character, Dehya is extremely flexible in terms of usability and build. Not only can she be used in 3 different roles, but also her build revolves around two stats, attack and HP. She is fairly easy to use and beginner friendly.
+However, her true potential is locked behind her constellation, making her a weaker character in that regard. Moreover, she will most likely not get a banner, as non-limited characters have never gotten a rerun. However, if someone loses 50-50 to her and gets her first constellation, she is a great character to build and can be extremely useful.
+All image copyrights belong to
+Mihoyo
+,
+Genshin Impact fandom
+, and
+Genshin honeyhunterworld.

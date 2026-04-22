@@ -1,0 +1,454 @@
+Home
+/
+Genshin Impact
+/
+Character List
+/
+Gaming Build
+Gaming Guide and Best Builds
+Gaming is a 4-star Pyro Claymore character in Genshin
+Impact who acts as a Plunge Attack DPS. Read our Gaming guide to learn more about
+Gaming's kit, Gaming's best Builds and also her Ascension and Talent Materials.
+Last updated
+on
+Oct 01, 2025
+at
+08:56
+by
+Shikhu
+1 comment
+S
+Rank
+Pyro
+Element
+Claymore
+Weapon
+★
+★
+★
+★
+★
+Rarity
+Caleb Yen
+EN Voice Actor
+Komatsu Shouhei
+JP Voice Actor
+Gaming's Strengths & Weaknesses
+Strengths
+Incredibly powerful 4-star being better than many 4-stars allowing him to compete against 5-stars at C6.
+Very High Base Attack for a 4-star character.
+Plunge attack gameplay based around repeated use of their Elemental Skill.
+Weaknesses
+Elemental Skill does not always allow Plunging if the initial hit fails to land properly.
+It can be hard to find Gaming's Suanni Man Chai during the heat of battle to reset the CD of his Skill.
+1.
+Gaming Build Guide, Best Artifacts, Weapons and Talent Priority
+BiS Weapon
+Fruitful Hook
+Alternative Weapons
+A Thousand Blazing Suns
+Serpent Spine
+Verdict
+Beacon of the Reed Sea
+Redhorn Stonethresher
+Wolf's Gravestone
+Rainslasher
+Mailed Flower
+Tidal Shadow
+Best Artifacts
+Crimson Witch of Flames
+Marechaussee Hunter
+Long Night's Oath
+Main Stats
+Sand Stats
+: Elemental Mastery > ATK %
+Goblet Stats
+:
+Pyro
+DMG
+Circlet Stats
+: CRIT Rate / CRIT DMG
+Substat Priority
+Energy Recharge to requirements
+CRIT Rate / CRIT DMG
+Elemental Mastery
+ATK %
+Talent Priority
+Elemental Skill
+Elemental Burst
+Normal Attack
+Gaming's best weapon is
+Fruitful Hook
+when at R5, otherwise
+A Thousand Blazing Suns
+is your next best option.
+Beacon of the Reed Sea
+,
+Verdict
+and
+Serpent Spine
+are all similar in power for Gaming.
+Build Gaming with
+Crimson Witch of Flames
+or
+Marechaussee Hunter
+both being extremely competitive in Gaming builds.
+Marechaussee works incredibly well due to Skills, Ascension Passives
+and Constellations all having HP-Manipulation mechanics. Crimson Witch
+tends to be better at C6 however.
+Long Night's Oath
+is another viable 
+build option albeit worse, only really worth using if you have cracked pieces from 
+farming for other Plunge DPS.
+Gaming's Elemental Skill is his most important talent to focus on and build. 
+This is where the majority of his damage comes from.
+2.
+Recommended Endgame Build Stats for Gaming
+Build recommendations assume a "decently built" level of artifact rolls alongside 
+Gaming's best weapon. Using other weapons may increase or decrease certain stats relative to these recommendations.
+HP:
+17,000 - 19,000
+ATK:
+1700 - 2400
+Elemental Mastery:
+0 - 300+
+EM is not useful in Overload/Mono Pyro teams
+Energy Recharge:
+110 - 150%
+CRIT Rate:
+50 - 60%
++36% for
+Marechaussee Hunter
++16-32% Plunging-specific CRIT Rate with
+Fruitful Hook
+CRIT DMG:
+130 - 180
+Pyro DMG
+:
+46.6% - 61.6%
+Gaming wants around 140-150% Energy Recharge when the Sole Pyro character 
+or around 110-120% with other Pyro units. Add ~30% if you do not have Gaming's C4
+Soar Across Mountains
+.
+3.
+Combos and How to Play Gaming
+Gaming's gameplay is focused on dealing Plunge Attack DMG but instead of
+having to jump into the air, he can use
+Bestial Ascent
+which
+automatically jumps into the air with a different animation and not attacking
+directly with his Claymore.
+Gaming's Elemental Burst,
+Suanni's Gilded Dance
+allows
+Gaming to enter a Wushou Stance and summoning the Suanni Man Chai. When
+Plunge Attacking with the Elemental Skill, the Man Chai will also land at a
+random part of the floor nearby. When you get close to
+the Man Chai they link with Gaming to reset his Skill Cooldown.
+This means as soon as you finish a
+Plunging Attack: Charmed Cloudstrider
+you want to find your
+Man Chai to link and allow yourself another Plunging Attack. Your rotation
+becomes:
+Bestial Ascent
+Suanni's Gilded Dance
+Bestial Ascent
+spam
+4.
+Gaming Best Team Comps
+Gaming's best team comps are those which either enable his Plunging Attack
+playstyle,
+Xianyun
+or those that help to apply Elements and increase his
+Amplifying DMG as a result of Plunging Attacks not having an
+Internal Cooldown
+.
+4.1.
+Gaming Melt Teams
+Main DPS
+Support
+Support
+Support
+Gaming
+Xianyun
+Citlali
+Bennett
+Gaming
+Rosaria
+Xilonen
+Bennett
+With the release of
+Citlali
+, she has become Gaming's
+best support due to Gaming attacking slow enough that Citlali is able
+to regularly apply
+Cryo
+while also providing significant
+damage buffs with
+Thrilling Tales of Dragon Slayers
+,
+Scroll of the Hero of Cinder City
+and the RES Shred built into Citlali's kit.
+Outside of
+Citlali
+,
+Rosaria
+becomes
+a great
+Cryo
+applicator for Gaming alongside
+other defensive options such as
+Layla
+or
+Diona
+.
+4.2.
+Gaming Vaporize Teams
+Main DPS
+Support
+Support
+Support
+Gaming
+Xianyun
+Furina
+Xilonen
+Gaming
+Yelan
+Xilonen
+Bennett
+In
+Vaporize
+teams, Gaming triggers Reverse Vaporize
+on every Plunging Attack assuming you have adequate
+Hydro
+application.
+Furina
+provides good Hydro application alongside
+a DMG buff as well as synergy with his HP draining mechanic. Other Hydro
+characters such as
+Yelan
+or
+Xingqiu
+provide a lot of elemental application. However, their application
+is only created when Normal Attacking between plunges.
+4.3.
+Gaming Overload Teams
+Main DPS
+Support
+Sub DPS
+Support
+Gaming
+Chevreuse
+Fischl
+Bennett
+Gaming can perform in
+Overloaded
+teams thanks to
+Chevreuse
+'s powerful resistance shredding abilities. This is 
+generally a less recommended playstyle however especially with the knockback 
+and lower damage ceiling.
+5.
+Gaming's Ascensions, Talents and Constellations
+Gaming's Ascensions
+Gaming's Talents
+Gaming's Constellations
+5.1.
+Gaming's Ascension Passives and Materials
+Unlock
+Ascension Passive
+Explanation
+With Character
+The Striding Beast
+Increases the Movement SPD of your own party members by 10% during the
+    day (6:00 – 18:00). Does not take effect in Domains, Trounce Domains, or
+    Spiral Abyss.
+1st Ascension
+Dance of Amity
+After
+Bestial Ascent
+'s
+Plunging Attack: Charmed Cloudstrider
+hits an
+    opponent, Gaming will regain 1.5% of his Max HP once every 0.2s for 0.8s.
+4th Ascension
+Air of Prosperity
+When Gaming has less than 50% HP, he will receive a 20% Incoming
+    Healing Bonus. When Gaming has 50% HP or more,
+Plunging Attack: Charmed Cloudstrider
+will deal 20% more DMG.
+Gaming requires a range of materials to ascend to the 6th ascension.
+Starting from the second ascension he gains ATK % as he levels,
+giving a total of 24% Bonus ATK % at the final ascension.
+The total cost to upgrade all ascensions is:
+Source
+Quantity
+Mora
+420,000 Mora
+Boss Material
+46x
+Emperor's Resolution
+Ascension Material
+1x
+Agnidus Agate Sliver
+9x
+Agnidus Agate Fragment
+9x
+Agnidus Agate Chunk
+6x
+Agnidus Agate Gemstone
+Local Specialty
+168x
+Starconch
+Enhancement Material
+18x
+Slime Condensate
+30x
+Slime Secretions
+36x
+Slime Concentrate
+5.2.
+Gaming's Talents
+Listed below is each talent and a simplified explanation of how they work.
+Type
+Talent Name
+Brief Explanation
+Normal
+Stellar Rend
+Normal Attack deals 4 strikes with the final strike having a unique
+    animation. Charged Attack and Plunging Attack are normal for Claymore
+    characters.
+Elemental Skill
+Bestial Ascent
+Leaps high into the air to deal a powerful
+Plunging Attack: Charmed Cloudstrider
+to nearby
+    enemies. This Plunging Attack is
+Pyro
+DMG and Gaming
+    will consume HP while doing his Plunging Attack.
+Elemental Burst
+Suanni's Gilded Dance
+Enters the Wushou Stance which applies
+Pyro
+to
+    Gaming and recovers HP. Gaming summons the Suanni Man Chai
+    which when close to Gaming, resets the Cooldown of
+Bestial Ascent
+allowing for repeated
+    uses during the Elemental Burst's 12s duration.
+To upgrade a single talent to level 10, it costs:
+Source
+Quantity
+Mora
+1,625,500 Mora
+Special Material
+1x
+Crown of Insight
+Boss Material
+6x
+Lightless Mass
+Domain Material
+3x
+Teachings of Prosperity
+21x
+Guide to Prosperity
+38x
+Philosophies of Prosperity
+Enhancement Material
+6x
+Slime Condensate
+22x
+Slime Secretions
+31x
+Slime Concentrate
+5.3.
+Gaming's Constellations
+Gaming is a character who gets better with each constellation having
+decent DMG increases.That being said,
+Soar Across Mountains
+(C4) is a great constellation for Gaming if you need a stopping point. This
+allows additional Energy Generation while dealing
+Plunging Attack: Charmed Cloudstrider
+'s.
+#
+Name
+Explanation
+C1
+Bringer of Blessing
+When the Suanni Man Chai from
+Suanni's Gilded Dance
+meets back up with Gaming, it will heal 15% of Gaming's HP.
+C2
+Plum Blossoms Underfoot
+When Gaming receives healing and this instance of healing overflows,
+    his ATK will be increased by 20% for 5s.
+C3
+Awakening Spirit
+Increases the Level of
+Bestial Ascent
+by 3.
+Maximum upgrade level is 15.
+C4
+Soar Across Mountains
+When
+Bestial Ascent
+'s
+Plunging Attack: Charmed Cloudstrider
+hits an opponent,
+    it will restore 2 Energy to Gaming. This effect can be triggered once
+    every 0.2s.
+C5
+Evil-Daunting Roar
+Increases the Level of  by 3.
+Maximum upgrade level
+Suanni's Gilded Dance
+is 15.
+C6
+To Tame All Beasts
+Bestial Ascent
+'s
+Plunging Attack: Charmed Cloudstrider
+CRIT Rate
+    increased by 20% and CRIT DMG increased by 40%, and its attack radius will be increased.
+Changelog
+01 Oct. 2025:
+Updated for 6.0.
+23 Jul. 2025:
+Updated for 5.7.
+12 Feb. 2025:
+Reviewed for 5.4.
+18 Jan. 2025:
+Updated for 5.3.
+05 Jun. 2024:
+Reviewed for 4.7.
+13 Mar. 2024:
+Removed mentions of Beacon being unavailable now the new banners exist.
+30 Jan. 2024:
+Guide added.
+Show more
+Show less
+Need any help? Check out our
+General Discussion Forum
+!
+1 comment
+In The Same Category
+Thoma Best Builds Guide
+Diluc Best Builds Guide
+Bennett Best Builds Guide
+Xiangling Best Builds Guide
+Xinyan Best Builds Guide
+Yanfei Best Builds Guide
+Mavuika Best Builds Guide
+Lyney Best Builds Guide
+Nicole Best Builds Guide
+Dehya Best Builds Guide
+Lyney Team Guide
+Arlecchino Best Builds Guide
+ABOUT THE AUTHOR
+This guide has been written by Shikhu (Discord - Shikhu), an avid Genshin Impact player who has
+          been exploring Teyvat since the game has launched. He has experienced
+          all the game has to offer from building his favorite characters,
+          exploring the world to clearing Spiral Abyss each rotation. His
+          favorite character being his C6 Furina.
+SUPPORT OUR WRITERS

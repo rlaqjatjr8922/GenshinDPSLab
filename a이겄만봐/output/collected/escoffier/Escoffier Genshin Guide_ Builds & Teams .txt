@@ -1,0 +1,195 @@
+Escoffier is a 5-star Cryo Polearm user introduced in Genshin Impact Version 5.6. As a master chef from Fontaine, she brings more than just culinary prowess—she revolutionizes Freeze teams with powerful Cryo application, team healing, and resistance shred mechanics. Whether you’re building her for off-field support or damage amplification, this guide covers everything you need to make Escoffier shine.
+Escoffier Genshin Impact Guide: Best Builds, Weapons, Artifacts & Freeze Teams
+Why Use Escoffier?
+Escoffier consolidates the roles of a sub-DPS, healer, and buffer into one. Her unique talents make her a must-have for Freeze-based teams, especially when paired with characters like Furina, Ayaka, or Ganyu. She also scales well with ATK and CRIT stats, and her Burst allows her to heal allies while enabling key passive buffs.
+Escoffier’s Strengths and Weaknesses
+Before investing, here’s a breakdown of where she excels—and what to watch for.
+Strengths:
+Consistent off-field Cryo application (20s turret duration)
+Burst heals allies based on her ATK
+Shreds Cryo and Hydro resistance up to
+55%
+Flexible builds (support or DPS hybrid)
+Signature weapon grants team-wide ATK boosts
+Weaknesses:
+High Energy Recharge requirements if only 1 Cryo in team
+Passive effects tied to Cryo/Hydro comps (limited to Freeze-focused teams)
+Best utility only available in teams with at least 3 Cryo/Hydro characters
+Read More:
+CRK Boss Rush Guide: Best Teams & Hidden Synergies
+Talent Priorities and Playstyle
+Escoffier’s skills are designed to function off-field, applying Cryo and supporting allies. Her turret can apply Cryo for up to 20 seconds, making her rotations efficient and allowing her to burst and swap.
+Talent Priority:
+Elemental Skill – Low-Temperature Cooking
+Summons a Cryo turret that follows the active character, dealing Cryo DMG periodically. Central to her damage output and Cryo uptime.
+Elemental Burst – Scoring Cuts
+Deals AoE Cryo DMG and heals all party members based on her ATK. Essential for healing-focused or Furina-based comps.
+Normal Attack – Kitchen Skills
+Low priority; not used in combat rotations.
+Passive Talents:
+Rehab Diet
+: Heals over time after using Burst. Key for Furina synergy.
+Inspiration-Immersed Seasoning
+: Shreds Cryo/Hydro RES depending on how many Cryo/Hydro characters are in your team (up to 55%).
+Off-the-Cuff Cookery
+: Niche food-crafting ability. Minor utility outside combat.
+Energy Recharge (ER) Requirements
+Escoffier’s performance heavily depends on how often she can use her Burst. Use the chart below to gauge her ER needs based on team comp.
+Cryo Units in Team
+ER Needed
+1 Cryo
+200%+
+2 Cryo
+160–175%
+3 Cryo
+130%
+Mono Cryo
+~100%
+Use
+ER% Sands
+or
+ER-focused weapons
+like Favonius Lance or Skyward Spine if you can’t meet these thresholds via substats.
+Best Weapons for Escoffier
+Signature and 5★ Weapons
+Weapon
+Effect
+Use
+Symphonist of Scents
+CRIT DMG +66.2%, Off-field ATK boost, Sweet Echoes effect post-heal
+Best-in-slot for both support and damage
+Calamity Queller
+High ATK, off-field ATK stacks
+Great alternative for ATK-scaling burst and heals
+Staff of Homa
+HP-scaling ATK bonus, high CRIT DMG
+Useful for burst-focused Escoffier
+Engulfing Lightning
+ER-based ATK buff
+Balances recharge and offensive stats
+Skyward Spine
+Energy Recharge, CRIT Rate
+Good for consistent Burst uptime (less offensive power)
+4★ and F2P Options
+Weapon
+Effect
+Rank
+Deathmatch
+(BP)
+CRIT Rate +36.8%, high ATK bonus
+Best 4-star CRIT-focused pick
+Favonius Lance
+ER%, generates energy on CRIT
+Best F2P utility pick
+Prospector’s Drill
+ATK bonus on healing
+Decent if paired with frequent Burst use
+Tamayuratei no Ohanashi
+ER + ATK buff on Skill
+Great free alternative
+Prototype Starglitter
+ER, normal/charged attack buff
+F2P option if others are unavailable
+Best Artifact Sets
+Artifact choices should reflect Escoffier’s dual nature: Cryo damage dealer and healer-support.
+Top Recommended Sets
+Set
+Effect
+Notes
+Golden Troupe (4pc)
++50% Skill DMG off-field
+Best for sub-DPS builds
+Blizzard Strayer (4pc)
++CRIT Rate vs. Frozen enemies
+Great for Freeze teams, may overcap CRIT
+Noblesse Oblige (4pc)
++20% Burst DMG and ATK buff to party
+Ideal if focusing on healing and support
+Tenacity of the Millelith (4pc)
++20% ATK + Shield strength boost
+Alternative for shield-heavy or support roles
+Artifact Stats
+Piece
+Main Stat
+Sub-Stat Priorities
+Sands
+ATK% or ER%
+ER% > CRIT Rate > CRIT DMG > ATK%
+Goblet
+Cryo DMG Bonus
+CRIT DMG and ATK% are secondary
+Circlet
+CRIT Rate or CRIT DMG
+Balance to reach 1:2 ratio (70:140 ideal)
+Best Team Compositions
+Freeze Teams (Optimal Usage)
+These compositions take full advantage of Escoffier’s RES shred, Cryo uptime, and healing.
+Ayaka / Wriothesley / Ganyu
+– Cryo Main DPS
+Furina / Yelan / Kokomi
+– Hydro Sub-DPS
+Shenhe / Layla / Kazuha
+– Cryo Buffer / VV shred
+Escoffier
+– Cryo support and healer
+With her C1, Escoffier grants
++60% Cryo CRIT DMG
+for the entire team in Cryo/Hydro-only comps.
+Hypercarry and Fridge Variants
+Escoffier enables Hydro units like Neuvillette by applying consistent Cryo while healing for Furina synergy.
+Neuvillette
+(Main DPS)
+Furina
+(Healer/Buff)
+Kazuha
+(Anemo support)
+Escoffier
+(Cryo shred/heal)
+Melt Team Variants
+Although not her strongest archetype, Escoffier can apply Cryo aura to enable Melt reactions for Pyro DPS.
+Hu Tao / Yoimiya / Mavuika
+(Pyro DPS)
+Bennett
+(Healer/Buffer)
+Escoffier
+(Cryo enabler)
+Flex
+(Shielder or Anemo)
+These teams won’t benefit from full 55% RES shred, but Cryo uptime still supports Melt.
+Constellation Overview
+While Escoffier is strong at C0, her early constellations greatly improve team damage output.
+Constellation
+Effect
+C1
+Increases Cryo CRIT DMG by 60% for 15s after Skill or Burst (if team has 4 Hydro/Cryo). Insane buff for Freeze comps.
+C2
+Buffs Cryo DMG of allies by 240% of Escoffier’s ATK. Strong scaling sub-DPS support.
+C3/C5
+Boosts talent levels (Skill and Burst). Solid damage increase.
+C4
+Improves Burst healing duration and adds Energy regen.
+C6
+Enhances turret to fire high-scaling AoE Cryo DMG (500% ATK x6).
+Ascension and Talent Materials
+To fully level Escoffier, collect the following:
+Ascension Materials
+Beryl Conch ×168
+Shivada Jade Sliver → Gemstone
+Meshing Gear ×36
+Spur Gear ×30
+Artificed Dynamic Gear ×18
+Mora ×420,000
+Talent Materials (Per Talent to Lv. 10)
+Teachings / Guide / Philosophies of Justice: 3 / 21 / 38
+Eroded Horn ×6
+Crown of Insight ×1
+Mora: 1,625,500
+Final Verdict: Is Escoffier Worth It?
+If you’re running Freeze teams or use Furina, Ayaka, Wriothesley, or Ganyu, Escoffier is one of the best Cryo supports to own. She offers excellent off-field utility, healing, and elemental shred, all wrapped in a stylish Fontaine flair. Even at C0, she’s a top-tier support for modern
+Genshin
+team comps.
+Read More
+Maelle Build Guide: Best DPS for Expedition 33
+Clair Obscur Expedition 33 Attributes Guide
+Clair Obscur Expedition 33 Walkthrough & Zone Guide
+How to Fix Clair Obscur: Expedition 33 Fatal Error

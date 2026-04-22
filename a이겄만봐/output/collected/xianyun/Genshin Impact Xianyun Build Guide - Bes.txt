@@ -1,0 +1,249 @@
+Task Search
+Checklists
+Guides
+Markers
+Videos
+Sort and Filter
+No Results
+Checklists
+New Checklist
+All Lists
+My Checklists
+All
+All Lists
+My Checklists
+How creative can you get with your first free checklist?
+Create a free account
+All Interactive Maps and Locations
+Genshin Impact Xianyun Build Guide - Best Weapons, Artifacts, and Teams
+By
+Cedric Pabriga
+,
+Jen Rothery
+,
+Triforce
+,
++30 more
+Updated
+:
+Feb 17, 2024 10:13pm UTC
+Xianyun, also known as Cloud Retainer, is Ganyu and Shenhe’s parental figure and an adeptus who offers support for a currently underloved team archetype: Plunging Attack teams. This guide to the
+best Genshin Impact Xianyun build
+will explain the best weapons, artifact sets, constellations, and team compositions for Xianyun.
+Xianyun
+Rarity:
+★★★★★
+Element:
+Anemo
+Weapon:
+Catalyst
+Table of Contents:
+How to Get Xianyun
+Xianyun Gameplay Overview
+Xianyun Talents and Attack Combos
+Xianyun Constellation Analysis
+Xianyun's Best Weapons
+Xianyun's Best Artifacts
+Xianyun's Best Teams
+How to Get Xianyun in Genshin Impact
+Xianyun will be available during the first phase of the 4.4 limited banner. After 4.4, she is added to the standard banner, and can surprise you on your rolls on any banner you spend your primogems on.
+Genshin Xianyun Gameplay Overview
+Element:
+Anemo
+Weapon:
+Catalyst
+Rarity:
+5-star
+Xianyun is a dedicated support who, instead of focusing on her personal damage,
+provides support for Plunging Attack teams
+. Not only does she offer desirable benefits to characters who already deal most of their damage through Plunging Attacks, like Xiao, but she enables characters that don’t already to become Plunging Attack DPS units. She debuts one the same banner as 4-star character Gaming, who deals most of his damage with Plunge Attacks.
+As a limited 5-star, she is in a bizarre spot: her support style is quite niche, meaning she won’t be as universally useful like Furina or Kazuha, but she does offer a sizeable benefit to the teams she does support. Xianyun’s weapon selection is budget-friendly, though her signature weapon is still her best option.
+Some players may be hesitant to pull for a character with such a team restriction, and with good reason. You’re likely to want Xianyun in your roster if you play with Diluc, Gaming, Xiao, Bennett (built as a DPS), and Hu Tao (if you want to drastically change her playstyle).
+One universally useful trait of Xianyun’s, however, is the fact that she’s an
+Anemo healer
+. Her healing is good enough to sustain a team by herself, even without a shielder. Combined with her ability to utilize the 4pc Viridescent Venerer set to reduce elemental resistances, this gives her viability purely in her ability to consolidate multiple roles in cases that may otherwise require two party members to do the same job.
+If you don’t care about Jean or Sayu, or don’t have them, Xianyun may still be a good character to wish for.
+One drawback of Xianyun is an immense
+Energy Recharge requirement
+, which can go up to a massive, nigh-unreachable 300%.
+This can be drastically reduced
+by using an additional Anemo character (or two) in the team or by using Favonius weapons on one or more characters. Many of Xianyun’s weapon choices help her with her energy recharge requirement. In high-energy teams with at one Favonius weapon and Xianyun as the only Anemo character, she will still need around 240%. With multiple Anemo characters and/or Favonius weapons, we can drop her needs down between 180-200, where a team of three or more Anemo characters and multiple Favonius weapons will drop down even further.
+This means that Energy Recharge weapons and Sands of Eon are absolutely mandatory in most circumstances.
+Stats Worth Consideration
+Energy Recharge
+: 300% -> 200% with Favonius and another Anemo character.
+ATK%:
+used for healing.
+Healing Bonus:
+used for healing effectiveness (lower priority, unless you struggle surviving)
+Genshin Xianyun Talents and Attack Combos
+Your talent-levelling priority should be Burst > Skill >> Normal Attack.
+Normal Attack:
+Word of Wind and Flower
+Xianyun’s Normal and Charged Attacks are not useful. Xianyun has minimal damage output. There is no reason whatsoever to invest in this talent.
+Elemental Skill:
+White Clouds at Dawn
+The Skill allows Xianyun to jump up to three times (via Skill presses) before plunging and hitting enemies. You only need to jump once before plunging in order to gain Xianyun’s particles, and the only reason to jump more is for more damage, but Xianyun’s damage output is not enough to consider the extra field-time.
+Elemental Burst:
+Stars Gather at Dusk
+Now, let’s talk about Xianyun's Burst. Over the duration of Xianyun’s Burst, the team will be healed, have their jumping height increased, allowing anyone to plunge attack on command, and will accompany plunge attacks with Anemo coordinated attacks for up to eight plunges.
+Xianyun
+Passives
+Next, come her passives.
+Her first ascension passive allows a CRIT Rate boost to the team based on how many enemies are hit with Xianyun’s Plunging Attack from her Skill, ranging from 4% to 10%. You will most often get between 4-6%, which is a minor increase. For context, two Cryo characters in the team offers 15% CRIT Rate through Cryo Resonance.
+Xianyun's fourth ascension passive grants an additive damage bonus to the team’s Plunging Attacks based on 200% of her ATK. The additive damage per plunge cannot exceed 9,000. Keep in mind that this damage can also CRIT, usually making this damage higher than the proposed limit.
+Finally, her exploration passive gives gliding a 15% speed boost.
+When it comes to field time, Xianyun should barely be on the field at all. Simply use her Skill, then her Burst, then swap to other characters.
+Genshin Xianyun Constellation Analysis
+Xianyun plays like a complete character at C0, but of course, constellations are always an improvement. Even numbered Constellations are what you want to aim for, which may be prohibitive for low spenders.
+Constellation Name
+Abbreviated In-Game Description
+Notes
+C1. Purifying Wind
+Skill gains an additional charge.
+Xianyun’s unfortunate cooldown time means this charge is much less valuable unless she has her signature weapon, since she won’t actually get to use her Skill twice per rotation in the vast majority of cases. A nearly non-existent improvement without her signature weapon. With her signature weapon, it saves her a good bit of energy requirements by generating more particles.
+C2. Aloof From the World
+When jumping from her Skill, Xianyun gains 15% ATK. The damage threshold and multiplier for Xianyun’s additive damage buff is doubled.
+Extremely valuable for her buffing abilities. This allows plunging characters to deal significantly more damage.
+C3. Creations of Star and Moon
+Increase Burst talent level by 3.
+Enhances her healing, and that’s all you need to care about, really.
+C4. Mystery Millet Gourmet
+For each Skill-jump before Xianyun’s Plunging Attack, the team will be healed by 50%/80%/150% of Xianyun’s ATK, once every five seconds.
+Another potent healing buff for Xianyun, though you may want to spend a little more field time to get the maximum amount of healing.
+C5. Astride Rose-Colored Clouds
+Increases Skill talent level by 3.
+A non-existent boost to Xianyun’s efficiency, increasing only her already miniscule damage.
+C6. They Call Her Cloud Retainer
+Resets Skill cooldown after using Xianyun’s Burst. For each Skill-jump before her Plunging Attack, her CRIT DMG increases by 15%/35%/70%. Xianyun’s Skill cooldown is entirely eliminated for 16 seconds or up to 8 Skill uses.
+This constellation makes Xianyun eligible to become a DPS. She will need massive buffs to compete with other DPS characters, but Xianyun will be able to essentially “do it all” in these cases: heal, buff, debuff, and deal damage.
+Genshin Xianyun's Best Weapons
+Xianyun’s weapons are extremely budget friendly if you're not using her signature weapon. She basically only wants ATK% and ER%, but odds are you'll want an ER weapon anyways.
+Weapon Name
+Abbreviated In-Game Description
+Notes
+Crane’s Echoing Call
+16.5% ATK
+After the equipping character hits an opponent with a Plunging Attack, all nearby party members' Plunging Attacks deal 28% increased DMG for 20s. When nearby party members hit opponents with Plunging Attacks, they will restore 2.5 Energy to the equipping character. Energy can be restored this way every 0.7s.
+Overall Best
+This weapon maximizes Xianyun’s support capabilities by supercharging her ATK stat, restoring energy, and buffing Plunging Attacks even further.
+Favonius Codex
+30.6% Energy Recharge
+Crits have a 60-100% chance on CRIT hits to generate 6 energy  in white elemental particles. Once every 12-6 seconds.
+Default Support Option
+If your characters need just a little more energy, Favonius weapons are the best weapons for the job. However, they demand some amount of CRIT Rate investment – 25-30% usually. This is the go-to option for Xianyun if you don’t feel like taking your chances on the weapon banner.
+Oathsworn Eye
+27.6% ATK
+After Skill use, +48% Energy Recharge for 10s
+Event Only Burst Insurance
+A generic ER and ATK stat stick. Unfortunately, if you missed the event, you can’t acquire this.
+Thrilling Tales of Dragon Slayer (R5)
+35.2% HP
+When switching characters, the new character taking the field has their ATK increased by 48% for 10s. This effect can only occur once every 20s.
+Ultra-Budget DPS-Buffing Option
+While this doesn’t provide energy, if your energy recharge requirements are already met without the help of a weapon, that 48% ATK is an enormous boost to your DPS and is worth consideration.
+Prototype Amber
+27.6% HP
+Using an Elemental Burst regenerates 4-6 Energy every 2s for 6s. All party members will regenerate 4-6% HP every 2s for this duration.
+Craftable Burst Insurance
+The energy regeneration helps with Xianyun’s energy requirements and the additional healing is always welcome, but this is far from the best option. Nevertheless, an R5 Prototype Amber is a huge benefit to any account.
+Genshin Xianyun's Best Artifacts
+Sands
+– ER% (ATK% if you meet Energy Recharge demands)
+Goblet
+– ATK%
+Circlet
+– ATK% (Healing Bonus% if you have survivability issues)
+There is really only one correct option for Xianyun if you care about her damage (which you should): the 4pc Viridescent Venerer set. With a VV user already on the team, use 4pc Noblesse Oblige. If
+both
+are used by teammates, use 4pc Ocean-Hued Clam.
+Artifact Set Name
+Abbreviated In-Game Description
+Notes
+4pc Viridescent Venerer
+2pc: 15% Anemo DMG Bonus.
+4pc: Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s.
+Overall Best
+The universal Anemo support option. The only reason not to use this set is if you consistently use another Anemo character in the same team that has the same artifact set.
+Noblesse Oblige
+2pc: 20% Elemental Burst DMG.
+4pc: After using Burst, the team gains 20% ATK for 12 seconds.
+Standard Support Option
+A team will likely never go wrong with one character holding this set, but this effect does not stack with other Noblesse Oblige holders, and there are many characters in which Noblesse Oblige is their best team-buffing option. It will usually be more advantageous to invest in a separate artifact set that still contributes to team damage whenever possible to avoid this teambuilding problem.
+Ocean-Hued Clam
+2pc: 15% Healing Bonus.
+4pc: Takes note of total healing done by equipped character for three seconds. After that time, the artifact set will deal Physical DMG equal to 90% of the healed amount (max 30,000 HP healed).
+Turn Your Healing into Damage
+While this isn’t flat damage added to your teammates, it is still a respectable amount of damage. A last resort option if team members already use the other two sets.
+Genshin Xianyun's Best Teams
+Since Xianyun is a support for particular DPS characters, and DPS characters require their own kinds of supports, it will be better simply to list possible DPS characters to pair Xianyun with some notes on team compositions for those respective DPS units.
+Standard Xianyun Team
+Your team will consist of an on-field Plunging Attacker, Xianyun for support and healing, and two supports to maximize your DPS unit’s potential. Bennett is almost universally advised for any DPS listed here.
+Guide Character
+Plunging DPS
+Support
+Support
+Specific Teammate Choices
+DPS Choices
+Character Name
+Notes
+Character Name
+Notes
+Bennett
+Support / Healer or On-Field DPS
+C1+ Recommended
+Huge Teamwide Flat ATK Buff
+Rapid Healing Within AoE
+Consolidates healing, buffing, and damage when built as a DPS.
+Great Pyro energy supplier
+Short Cooldowns on Skill/Burst
+Accessible via Paimon's Bargains
+Xiao
+On-Field DPS
+The original plunging machine
+Helps Xianyun’s energy requirements by virtue of Anemo element
+Xianyun is practically made to buff him specifically
+Best used with C6 Faruzan and Bennett.
+Possibly the lowest possible ER needed on Xianyun with Xiao and C6 Faruzan + Favonius.
+Diluc
+On-Field DPS
+High Plunging Attack damage
+Finally has a long-awaited buffer in Xianyun
+Best played with Xingqiu (or Yelan) and C6 Bennett (for Pyro infusion)
+Gaming
+On-Field DPS
+4-Star plunge machine
+Great damage output even at C0
+Can reliably Vaporize and Forward Melt
+Best used with Xingqiu, Yelan, or Rosaria in the team.
+Hu Tao
+On-Field DPS
+Wants Xingqiu and a shielder, Yelan, or Furina
+All-Star DPS
+Xianyun’s allows plunges between Hu Tao’s usual combo for much-needed AoE.
+Wriothesley
+On-Field DPS
+Wants Bennett and Xiangling
+Can Reverse Melt with Plunge Attacks weaved between Charged Attacks
+Respectable on-field damage
+Up Next:
+Genshin Xianyun Ascension Materials
+Previous
+Genshin Gaming Ascension Materials
+Next
+Genshin Xianyun Ascension Materials
+Top Guide Sections
+Genshin Impact Luna VI Details and Patch Notes
+Genshin Impact Luna IV Release Time and Details
+Genshin Impact Luna III Details and Patch Notes
+Genshin Impact Luna II Release Date and Details
+Was this guide helpful?
+Leave feedback
+In This Guide
+Genshin Impact
+HoYoverse
+Initial Release:
+Sep 27, 2020
++2
+Learn more
+Go to comments

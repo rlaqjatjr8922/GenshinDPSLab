@@ -1,0 +1,262 @@
+Dahlia
+4
+★
+Sword
+Hydro
+Deacon of the Church of Favonius and the Anemo Archon's representative in the church
+.
+Basic Stats
+Nv.
+90
+HP
+12506
+ATK
+189
+DEF
+560
+HP
+24%
+Basic Stats
+Nv.
+90
+HP
+12506
+ATK
+189
+DEF
+560
+HP
+24%
+Dahlia
+Ascension Materials
+Varunada Lazurite Sliver
+Calla Lily
+Secret Source Airflow Accumulator
+Firm Arrowhead
+Teachings of Ballad
+Eroded Scale-Feather
+Dahlia
+Best Weapon
+Favonius Sword
+Level
+.
+90
+ATK
+454
+Energy Recharge
+61.3%
+Refinement
+.
+5
+CRIT Hits have a 100% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 6s.
+Other Weapons
+2
+°
+Freedom-Sworn
+Elemental Mastery
+3
+°
+Key of Khaj-Nisut
+HP
+4
+°
+Fleuve Cendre Ferryman
+Energy Recharge
+Dahlia
+Best Artifact Set
+Noblesse Oblige
+2 Pc
+:
+Elemental Burst DMG +20%
+4 Pc
+:
+Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.
+Artifacts Main Stats
+Sands
+:
+HP % / ER %
+Goblet
+:
+HP %
+Circlet
+:
+HP % / Crit Rate
+Artifacts Substats
+Energy Recharge
+HP %
+HP
+Crit Rate
+Other Artifacts Sets
+2
+°
+4x
+Scroll of the Hero of Cinder City
+3
+°
+4x
+Marechaussee Hunter
+Dahlia
+Talent Priority
+1
+°
+Elemental Burst
+2
+°
+Elemental Skill
+Dahlia
+Best Teams
+Time #
+1
+Main DPS
+Sub-DPS
+Sub-DPS
+Support
+Skirk
+Furina
+Escoffier
+Dahlia
+Time #
+2
+Main DPS
+Sub-DPS
+Support
+Support
+Ayato
+Furina
+Xilonen
+Dahlia
+Dahlia
+Ascension Costs
+Cost
+5
+→
+6
+120
+K
+Varunada Lazurite Gemstone
+6
+Secret Source Airflow Accumulator
+20
+Calla Lily
+60
+Weathered Arrowhead
+24
+Dahlia
+Talents Costs
+Cost
+9
+→
+10
+700
+K
+Philosophies of Ballad
+16
+Weathered Arrowhead
+12
+Eroded Scale-Feather
+2
+Crown of Insight
+1
+Dahlia
+Talents
+Normal Attack
+Favonius Bladework - Ritual
+Normal Attack
+Performs up to 4 rapid strikes.
+Charged Attack
+Consumes a certain amount of Stamina to unleash 2 rapid sword strikes.
+Plunging Attack
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Elemental Skill
+Immersive Ordinance
+Time for a fun little trick! Summons the Sacramental Shower in different ways depending on whether you Tap or Hold it.
+Tap
+After a short prayer, summons the Sacramental Shower in front.
+Hold
+Engages in continuous prayer, and when done, summons forth a Sacramental Shower in the designated position.
+Sacramental Shower
+When opponents or nearby party members touch the Sacramental Shower, different effects will occur depending on the one who touches it:
+If an opponent touches the Shower, it will explode and deal
+AoE Hydro DMG
+to nearby opponents.
+If a nearby party member touches it, it will bounce the one who touches it high in the air.
+Only 1 Sacramental Shower summoned by Dahlia himself can be on the field at once.
+Elemental Burst
+Radiant Psalter
+Appeals to the divine with earnestness and song, dealing
+AoE Hydro DMG
+to nearby opponents and granting his party members Favonian Favor, summoning a Shield of Sacred Favor.
+The Shield of Sacred Favor's DMG absorption is based on Dahlia's Max HP, and it will absorb
+Hydro DMG
+with 250% effectiveness.
+Favonian Favor
+While this effect is active, 1 Benison stack may be consumed to summon a new Shield of Sacred Favor when an existing Shield is broken via DMG.
+Dahlia can obtain Benison via the following methods:
+· He will gain 1 Benison stack when his own active party member hits opponents 4 times with Normal Attacks while affected by Favonian Favor.
+· After triggering the effect of his Passive Talent,
+"The Wind's Gentle Grace"
+(You must first unlock this Passive Talent.)
+Dahlia can gain a maximum of 4 Benison stacks per Favonian Favor duration.
+Dahlia
+Passives
+Passive
+1
+The Wind's Gentle Grace
+When characters affected by the Favonian Favor effect of the Elemental Burst
+Radiant Psalter
+trigger Frozen reactions on opponents, they will grant Dahlia 2 Benison stacks. This effect can trigger once every 8s.
+Passive
+2
+Prayer of Well-Wrought Joy
+When your active party member is affected by the Favonian Favor effect of the Elemental Burst
+"Radiant Psalter,"
+their ATK SPD will increase based on Dahlia's Max HP: Every 1,000 Max HP will cause an increase of 0.5%, up to a maximum of 20%.
+Passive
+3
+Pilgrimage Upon Returning Winds
+During the day (06:00 – 18:00), your party members gain the Swift Stride effect: Movement SPD increased by 10%.
+Does not take effect in Domains, Trounce Domains, or the Spiral Abyss. Swift Stride does not stack.
+Dahlia
+Constellations
+C
+1
+Infallible Procession
+Each time Dahlia gains 1 of his Elemental Burst
+Radiant Psalter
+'s Benison stacks, he will regain 2.5 Elemental Energy.
+C
+2
+Revelation of Mercy
+After Dahlia consumes his Elemental Burst
+Radiant Psalter
+'s Benison stacks to summon a Shield of Sacred Favor, the character protected by said Shield will gain 25% increased Shield Strength for 12s.
+C
+3
+Windblume Offertory
+Increases the Level of
+Radiant Psalter
+by 3.
+Maximum upgrade level is 15.
+C
+4
+Collect of the Assembly
+The Favonian Favor from Dahlia's Elemental Burst
+Radiant Psalter
+lasts 3 more seconds.
+C
+5
+Let It Be Subtly So
+Increases the Level of
+Immersive Ordinance
+by 3.
+Maximum upgrade level is 15.
+C
+6
+You Shall Go Out With Joy
+The current active character affected by the Elemental Burst
+Radiant Psalter
+'s Favonian Favor has their ATK SPD increased by 10%.
+Additionally, when an active character affected by Favonian Favor falls, immediately:
+· Revive them.
+· Restore their HP to 100%.
+This effect can trigger once every 15 minutes.

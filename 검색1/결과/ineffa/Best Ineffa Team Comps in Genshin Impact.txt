@@ -1,0 +1,164 @@
+Ineffa, the first 5-star character from Nod-Krai, brings a unique twist to Genshin Impact’s combat with Lunar-Charged reactions, a variant of Electro-Charged that can critically hit. As an off-field Sub-DPS and buffer, she can fit into multiple team setups, but her best teams revolve around Hydro characters to trigger Lunar-Charged consistently.
+Best Ineffa Team Comp in Genshin Impact (6 Top Builds & F2P Teams)
+This guide covers Ineffa best team compositions, including high-damage meta setups, reaction-focused lineups, and F2P-friendly teams.
+See also:
+Ineffa Build Genshin Impact: Best Weapons, Artifacts, Teams & Tips
+How Ineffa Team Comps Work
+Ineffa’s strength lies in:
+Consistent off-field Electro application
+Boosting Lunar-Charged reactions with Crit potential
+Providing shields and team-wide Elemental Mastery buffs
+To maximize her potential:
+Pair her with at least one Hydro character to reliably trigger Lunar-Charged.
+Include buffers or drivers like Anemo characters to spread reactions.
+Consider dual Electro or dual Hydro teams for stronger resonance and reaction uptime.
+Best Ineffa Team Compositions
+Rank & Team
+Best Use Case
+1. Ineffa + Neuvillette + Furina + Kazuha
+Abyss AoE floors & boss fights
+2. Ineffa + Raiden + Furina + Xilonen
+Single-target bosses, sustained fights
+3. Ineffa + Furina + Varesa + Xilonen
+General use, versatile in most content
+4. Ineffa + Yelan + Alhaitham + Nahida
+Mixed-enemy Abyss floors, reaction play
+5. Ineffa + Chasca + Furina + Bennett
+AoE content, overworld & crowd-heavy fights
+6. Ineffa + Ororon + Ifa + Xingqiu (F2P)
+Early to mid-game, low-investment players
+1.
+Ineffa + Furina + Varesa + Xilonen
+Playstyle:
+Reliable Lunar-Charged Burst
+This is a
+premium Lunar-Charged team
+focusing on consistent Electro-Hydro reactions.
+Varesa is the primary on-field Electro DPS.
+Ineffa and Furina handle off-field application and team buffs.
+Xilonen provides healing and shreds Electro RES to boost Lunar-Charged damage further.
+Team Roles:
+Ineffa:
+Sub-DPS, Electro enabler, buffer
+Furina:
+Sub-DPS, Hydro applier, party buffer
+Varesa:
+Main DPS, Electro driver
+Xilonen:
+Healer, buffer, debuffer
+Rotation Tip:
+Start with Ineffa’s Skill → Burst → Swap to Varesa for DPS → Let Lunar-Charged trigger continuously.
+2.
+Ineffa + Chasca + Furina + Bennett
+Playstyle:
+Reaction Chaos
+This team is
+reaction-heavy
+, with
+Chasca
+driving multiple elemental triggers while Ineffa powers Lunar-Charged.
+Furina applies Hydro for consistent reactions.
+Bennett heals and boosts ATK for the whole party.
+Chasca’s Swirl mechanics re-apply elements, increasing the frequency of Lunar-Charged procs.
+Iansan can replace Bennett for a full offensive variant focused purely on Lunar-Charged.
+Team Roles:
+Ineffa:
+Sub-DPS, Electro enabler
+Furina:
+Hydro support, buffer
+Chasca:
+Main DPS, reaction driver
+Bennett:
+Healer, buffer
+See also:
+Stygian Onslaught Team Comp Guide Genshin Impact (All Difficulties)
+3.
+Ineffa + Yelan + Alhaitham + Nahida
+Playstyle:
+Hyperbloom & Lunar-Charged Hybrid
+A dual-reaction powerhouse, combining Hyperbloom and Lunar-Charged:
+Alhaitham triggers Blooms with Dendro attacks.
+Yelan and Ineffa convert them into Hyperbloom and Lunar-Charged crits.
+Nahida adds EM buffs and Deepwood Memories shred.
+Tip:
+Avoid using too much Hydro application if running dual Hydro, as over-triggering Blooms can reduce Lunar-Charged uptime.
+Team Roles:
+Ineffa:
+Sub-DPS, Electro support
+Yelan:
+Hydro Sub-DPS, buffer
+Alhaitham:
+Main DPS, Dendro driver
+Nahida:
+Sub-DPS, EM buffer, debuffer
+4.
+Ineffa + Neuvillette + Furina + Kazuha
+Playstyle:
+Hydro-Centric Meta Damage
+This lineup is burst-heavy, leveraging Hydro dominance:
+Neuvillette provides massive AoE Hydro DMG.
+Furina buffs the entire team and maintains Hydro uptime.
+Kazuha swirls Hydro and Electro, spreading reactions in AoE and reducing enemy RES.
+Neuvillette’s beam constantly triggers Lunar-Charged, making this one of Ineffa’s highest AoE damage teams.
+Team Roles:
+Ineffa:
+Sub-DPS, Electro enabler
+Neuvillette:
+Main DPS, Hydro driver
+Furina:
+Hydro Sub-DPS, buffer
+Kazuha:
+Swirl support, RES shred
+5.
+Ineffa + Raiden Shogun + Furina + Xilonen
+Playstyle:
+Electro Resonance Burst
+This team focuses on high Electro uptime for consistent Lunar-Charged triggers:
+Raiden serves as both main DPS and Burst battery.
+Furina ensures Hydro coverage and party buffs.
+Xilonen provides healing and RES shred.
+Raiden also batteries Ineffa’s Elemental Burst, ensuring Birgitta’s uptime and shield refresh.
+Team Roles:
+Ineffa:
+Sub-DPS, buffer, reaction enabler
+Raiden:
+Main DPS, Electro driver
+Furina:
+Hydro Sub-DPS, buffer
+Xilonen:
+Healer, debuffer
+See also:
+Shenhe Build Guide for Genshin Impact: Best Weapons, Artifacts & Tips
+6.
+Ineffa + Ororon + Ifa + Xingqiu (F2P-Friendly)
+Playstyle:
+Budget Lunar-Charged
+A strong free-to-play team for players without premium 5-stars:
+Ifa acts as the on-field driver and healer.
+Ororon supports with Electro DMG.
+Xingqiu provides Hydro application and damage mitigation.
+Fischl can replace Ororon for better Electro uptime, and Barbara can replace Xingqiu for early-game accessibility.
+Team Roles:
+Ineffa:
+Sub-DPS, Electro enabler
+Ororon:
+Sub-DPS, Electro support
+Ifa:
+Main DPS, healer
+Xingqiu:
+Hydro Sub-DPS
+Pro Tips for Building Ineffa Teams
+Always run at least one Hydro teammate for consistent Lunar-Charged triggers.
+Dual Hydro or Dual Electro teams enhance reaction uptime and energy generation.
+Anemo drivers like Kazuha, Sucrose, or Ifa spread elements in AoE and boost EM for higher reaction damage.
+Prioritize Crit Rate and Crit DMG for Ineffa, as Lunar-Charged can CRIT; EM is a secondary stat for reaction scaling.
+Recommended Rotation: Skill → Burst → Swap to Main DPS → Trigger Reactions → Repeat when Burst is ready.
+Ineffa is a flexible Sub-DPS and buffer who shines in any team built around Lunar-Charged reactions.
+Whether you prefer a meta powerhouse like
+Neuvillette + Furina + Kazuha
+or a budget-friendly lineup like
+Ororon + Ifa + Xingqiu
+, she consistently delivers strong off-field Electro damage, team buffs, and reaction synergy.
+If
+built
+and paired correctly, Ineffa can carry multi-reaction teams and remain a reliable Sub-DPS for both Spiral Abyss and overworld challenges.

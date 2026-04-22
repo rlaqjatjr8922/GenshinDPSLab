@@ -1,0 +1,180 @@
+Yumemizuki Mizuki Best Teams Genshin Impact
+by
+Hirak
+Feb 10, 25
+•
+EN
+1
+0
+Report
+Comments
+0
+AD
+Below is an in‐depth guide on building the best team comps around
+Yumemizuki Mizuki
+in
+Genshin Impact
+. In this article, we’ll introduce Mizuki’s role and kit, then break down four proven team compositions—
+Electro‑Charged
+,
+Quicken
+,
+Hyperbloom
+, and
+Burning Vape
+—and explain how each character synergizes with her for maximum reaction damage.
+Introduction to Yumemizuki Mizuki
+Yumemizuki Mizuki is the highly anticipated 5‑star
+Anemo Catalyst
+character hailing from Inazuma. With the title “
+Embrace of Enchanting Dreams
+” and a design that emphasizes her role as both a healer and a reaction enabler, Mizuki was released with a unique gameplay twist. Her abilities include:
+Elemental Skill — Aisa Utamakura Pilgrimage:
+Puts her into a “
+Dreamdrifter
+” state in which she continuously deals AoE Anemo damage and boosts the Swirl damage of nearby allies.
+Elemental Burst — Anraku Secret Spring Therapy:
+Summons a Mini Baku that follows the active character and periodically creates “Yumemi Style Special Snacks.” These snacks either heal the picker (if their HP is below 70%) or explode to deal AoE Anemo damage, with the healing amount doubled if Mizuki herself collects a snack.
+Passive Talents:
+Bright Moon's Restless Voice:
+When Mizuki triggers Swirl while in her Dreamdrifter state, its duration increases by 2.5 seconds (triggering up to 2 times per state).
+Thoughts by Day Bring Dreams by Night:
+While in the Dreamdrifter state, when nearby party members use Pyro, Hydro, Cryo, or Electro attacks, her Elemental Mastery increases by 100 for 4 seconds.
+All Ailments Banished:
+When Mizuki is in the party, healing foods (non‑reviving) used by party members heal an additional 30% HP. This effect scales with the character’s Friendship Level.
+These features not only provide self‑sustain but also enable Mizuki to serve as a catalyst for reaction-based teams.
+Quick Summary
+Main Role:
+Mizuki's primary role is as a
+Swirl DPS + Anemo Support
+, especially when paired with the 4‑piece Viridescent Venerer set.
+Healing:
+Although she can heal, in practice the healing is mainly self‑directed.
+Swirl Damage:
+Her skill increases Swirl damage, making her excellent for triggering and amplifying elemental reactions.
+Build Focus:
+Her build is straightforward—maximizing Elemental Mastery (EM) and adding enough Energy Recharge to use her Burst every rotation.
+Team Limitations:
+Her team options are somewhat limited because she cannot attack with her Normal Attack while in her Dreamdrifter state. Notably, she doesn’t work well with Xingqiu or Yelan, making
+Furina
+the best off‑field Hydro DPS partner.
+The Core Role of Mizuki in Team Comps
+As an Anemo unit, Mizuki excels at “swirling” elements applied by her teammates. Even though she cannot attack while in the Dreamdrifter state, her presence amplifies reaction damage and helps spread elemental statuses across enemies. Whether you want to trigger
+Electro‑Charged
+,
+Quicken
+,
+Hyperbloom
+, or even
+Burning
+reactions, Mizuki’s kit makes her an ideal on‑field driver who boosts overall team damage.
+AD
+Team Composition 1: Electro‑Charged Team
+Team Roster:
+Yumemizuki Mizuki (Anemo, Catalyst)
+Furina (Hydro)
+Ororon (Electro)
+Fischl (Electro)
+How It Works
+Electro‑Charged Reaction:
+Triggered when Hydro and Electro elements combine. In this team,
+Furina
+provides Hydro while
+Fischl
+and
+Ororon
+contribute Electro.
+Mizuki’s Role:
+By swirling the Hydro and Electro auras, Mizuki helps propagate the reaction and boosts reaction damage through her Elemental Mastery–scaling passives.
+Team Synergy:
+With two Electro sources, the field is saturated with elemental energy, ensuring consistent Electro‑Charged procs. This setup is particularly effective at clearing groups of enemies with widespread reaction damage.
+Key benefits:
+Consistent reaction damage, enhanced AoE output, and effective crowd control.
+Team Composition 2: Quicken Team
+Team Roster:
+Yumemizuki Mizuki (Anemo, Catalyst)
+Nahida (Dendro)
+Yae Miko (Electro)
+Fischl (Electro)
+How It Works
+Quicken Reaction:
+A Dendro–Electro reaction that benefits from rapid elemental application.
+Nahida
+provides reliable Dendro while
+Yae Miko
+and
+Fischl
+supply strong Electro support.
+Mizuki’s Role:
+Her Dreamdrifter state spreads and amplifies elemental auras, ensuring that the Quicken reaction is triggered frequently.
+Team Synergy:
+The combination of Nahida’s Dendro with dual Electro support enables high burst damage. Mizuki’s swirling further enhances overall reaction effectiveness, making this composition ideal for burst damage.
+Key benefits:
+Fast reaction cycling, high burst potential, and robust off‑field damage amplification.
+Team Composition 3: Hyperbloom Team
+Team Roster:
+Yumemizuki Mizuki (Anemo, Catalyst)
+Furina (Hydro)
+Nahida (Dendro)
+Fischl (Electro)
+How It Works
+Bloom & Hyperbloom Synergy:
+In the Dendro system, Hydro and Dendro interact to produce Bloom seeds, which an Electro attack can convert into Hyperbloom explosions.
+Character Roles:
+Nahida:
+Applies Dendro to enemies.
+Furina:
+Provides Hydro to initiate Bloom.
+Fischl:
+Adds Electro to convert Bloom seeds into Hyperbloom damage.
+Mizuki’s Role:
+Her swirling augments these elemental statuses and propagates reactions, increasing both the frequency and potency of Hyperbloom damage.
+Key benefits:
+Amplified burst damage through Bloom seeding, high reaction damage, and excellent synergy for multi‑element setups.
+Team Composition 4: Burning Vape Team
+Team Roster:
+Yumemizuki Mizuki (Anemo, Catalyst)
+Furina (Hydro)
+Emilie (Dendro)
+Xiangling (Pyro)
+How It Works
+Burning Reaction Focus:
+This team is built around triggering Burning, an effect that arises from the interaction between Dendro and Pyro.
+Character Roles:
+Emilie:
+A 5‑star Dendro Polearm user known for her Burning sub‑DPS potential.
+Xiangling:
+Provides reliable Pyro application.
+Furina:
+Offers additional utility and elemental resonance, supporting overall team energy and reaction uptime.
+Mizuki’s Role:
+Her swirling mechanism helps distribute the Pyro and Dendro auras, maximizing Burning effects (and possibly Vaporize if Hydro and Pyro interact). This off‑field support increases overall damage output and team sustainability.
+Key benefits:
+Versatile damage over time, excellent reaction chaining, and strong off‑field damage support.
+Conclusion
+Each of these four team comps leverages Yumemizuki Mizuki’s unique ability to swirl and amplify elemental reactions, making her a powerful anchor in reaction‑based strategies. Whether you favor the raw, consistent damage of an
+Electro‑Charged
+setup, the burst potential of
+Quicken
+, the explosive synergy of
+Hyperbloom
+, or the sustained burning damage of a
+Burning Vape
+team, Mizuki’s kit integrates seamlessly with diverse element combinations.
+Quick Recap:
+Electro‑Charged:
+Furina’s Hydro paired with dual Electro from Fischl and Ororon creates rapid reaction procs.
+Quicken:
+Nahida, Yae Miko, and Fischl combine to deliver high burst potential, with Mizuki enhancing reaction spread.
+Hyperbloom:
+A potent mix of Hydro (Furina), Dendro (Nahida), and Electro (Fischl) maximizes Bloom seed conversion into Hyperbloom explosions.
+Burning Vape:
+Emilie’s Burning sub‑DPS, alongside Xiangling’s Pyro and Furina’s utility, creates a team that excels at sustained damage and effective reaction chaining.
+Experiment with these setups to determine which best fits your playstyle and available roster. Remember, Mizuki's build is straightforward: focus on maximizing Elemental Mastery (EM) and ensure sufficient Energy Recharge to use her burst every rotation. Her role as a Swirl DPS is paramount—even though she also provides healing, it is mostly self‑directed. Additionally, her team options are somewhat limited by the fact that she cannot use her Normal Attack while in her Dreamdrifter state; thus, pairing her with Xingqiu or Yelan isn’t optimal, and Furina stands out as the best off‑field Hydro DPS partner.
+Happy swirling, and may your wishes be ever in your favor!
+Must Read:
+Yumemizuki Mizuki Best Weapons Genshin Impact
+Teams and images by IG: genshinbuild.id
+AD
+Hirak
+Updated Feb 10, 25

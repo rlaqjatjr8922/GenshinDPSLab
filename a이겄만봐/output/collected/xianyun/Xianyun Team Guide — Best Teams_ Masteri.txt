@@ -1,0 +1,571 @@
+Genshin Impact Xianyun Best Team Guide
+Last updated April 22, 2026. Looking for the best Xianyun teams in
+        Genshin Impact? Start with the top team summary below, then pick the
+        lineup that fits your roster.
+This page provides the best Xianyun Team information. Xianyun is a Support and Healer in most situations, primarily a Support. Top teams include Elemental RES, Swirl, and other compositions. Team positions can be adjusted based on your roster.
+View Xianyun's character page
+Xianyun Team Summary
+#1
+Team Rating:SS
+Xiao Furina Faruzan Xianyun Plunge Team
+#2
+Team Rating:SS
+Xianyun Xiao Faruzan Bennett Plunge Team
+#3
+Team Rating:SS
+Xianyun Melting Team
+#4
+Team Rating:SS
+Xianyun Raiden Core Electro-Charged Burst Team
+#5
+Team Rating:SS
+Xianyun Vaporize Hu Tao Team
+#6
+Team Rating:S
+Diluc Vaporize Plunge Team
+#7
+Team Rating:SS
+Xianyun Plunge Attack Team #1
+C6
+#1 Xiao Furina Faruzan Xianyun Plunge Team
+Tier SS
+Xianyun Anemo Team #1
+A premium Xiao plunge composition where Xiao’s Burst Plunges are amplified by Faruzan’s Anemo support and Furina’s team-wide DMG buffs. Xianyun provides healing and additional Plunging Attack support to keep Furina’s HP changes active while sustaining the team.
+Xiao
+Main DPS
+Anemo
+Xiao is the on-field carry. His Elemental Burst enables consecutive Plunging Attacks that deal wide-AoE Anemo DMG.
+Artifacts
+Vermillion Hereafter
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Primordial Jade Winged-Spear
+Deathmatch
+Faruzan
+Support
+Anemo
+Faruzan applies Anemo RES shred and boosts Xiao’s Anemo DMG through her Burst. At C6, she additionally grants CRIT DMG to Xiao.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / Energy Recharge / ATK%
+Weapons
+Favonius Warbow
+Furina
+Sub DPS
+Hydro
+Furina provides strong team-wide DMG Bonus from her Burst by manipulating allies’ HP through her Skill, with healing restoring lost HP to maintain the buff.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Fleuve Cendre Ferryman
+Xianyun
+Support
+Anemo
+Xianyun provides healing and enhances Xiao’s Plunging Attacks, making her the key enabler for this plunge-focused composition.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+Energy Recharge
+Goblet
+ATK%
+Circlet
+Healing Bonus
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Crane's Echoing Call
+Oathsworn Eye
+#2 Xianyun Xiao Faruzan Bennett Plunge Team
+Tier SS
+Xianyun is a
+Support/Healer
+in the team. The DMG of Xiao's Elemental Burst is maximized by Faruzan.
+Xiao
+Main DPS
+Anemo
+Xiao's Elemental Burst allows him to perform consecutive Plunge Attacks that deal wide AOE Anemo DMG.
+Artifacts
+Vermillion Hereafter
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Primordial Jade Winged-Spear
+Deathmatch
+Faruzan
+Support
+Anemo
+Faruzan can apply Anemo RES decrease to enemies and DMG Bonus to Xiao by using her Elemental Burst. At
+C6
+, Faruzan's Elemental Burst can provide additional CRIT DMG Bonus to Xiao.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / Energy Recharge / ATK%
+Weapons
+Favonius Warbow
+Bennett
+Support
+Pyro
+Bennett's Elemental Burst provides huge ATK buff and healing to other members.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+Xianyun
+Support
+Anemo
+Xianyun provides healing to the team and boosts Xiao's Plunging Attacks.
+Artifacts
+Song of Days Past
+Main Stats
+Sands
+Energy Recharge
+Goblet
+ATK%
+Circlet
+Healing Bonus
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Crane's Echoing Call
+Oathsworn Eye
+#3 Xianyun Melting Team
+Tier SS
+Xianyun is a Support/Healer in the team. Ganyu provides Cryo attachments to trigger Melting.
+Gaming
+Main DPS
+Pyro
+Gaming is Main DPS in the team. His Plunging Attack can provides continuous Pyro element attachment to triggering Melting.
+Artifacts
+Crimson Witch of Flames
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Pyro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Redhorn Stonethresher
+Serpent Spine
+Ganyu
+Sub DPS
+Cryo
+Ganyu’s Elemental Brust can provides Cryo attachment for triggering Melting at backstage.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Hunter's Path
+Hamayumi
+Layla
+Support
+Cryo
+Layla’s shield provides safe environment for team members. Layla provide certain amount of Cryo DMG off-field.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+Cryo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+HP% / CRIT Rate / CRIT DMG
+Weapons
+Primordial Jade Cutter
+Harbinger of Dawn
+Xianyun
+Support
+Anemo
+Xianyun possesses the capability to provide healing to other team members and boost the Plunging Attack of Gaming.
+Artifacts
+Song of Days Past
+Main Stats
+Sands
+Energy Recharge
+Goblet
+ATK%
+Circlet
+Healing Bonus
+Substats
+HP% / HP / Energy Recharge
+Weapons
+Crane's Echoing Call
+Oathsworn Eye
+#4 Xianyun Raiden Core Electro-Charged Burst Team
+Tier SS
+Xianyun is a
+Support/Healer
+in the team.
+Raiden Shogun serves as the main DPS, with her Burst DMG amplified by Yelan and Furina. The team focuses on sustained off-field Hydro application,
+Electro-Charged
+reactions, and strong overall Burst uptime.
+Raiden Shogun
+Main DPS
+Electro
+Main DPS of the team. Her Elemental Burst DMG is maximized by Yelan and Furina, while her Elemental Skill further increases teammates’ Burst DMG. Her Burst also helps recharge the team’s Energy.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+Energy Recharge / ATK%
+Goblet
+ATK%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Engulfing Lightning
+"The Catch"
+Yelan
+Sub DPS
+Hydro
+Provides continuous off-field Hydro application and contributes significant Burst damage. Her Elemental Burst also increases Raiden Shogun’s DMG via her passive talent.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+HP%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+HP% / CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Aqua Simulacra
+The Stringless
+Furina
+Sub DPS
+Hydro
+Provides continuous off-field Hydro application for Electro-Charged. Her Elemental Burst grants DMG bonuses based on HP changes, which are sustained by Xianyun’s healing.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Fleuve Cendre Ferryman
+Xianyun
+Support
+Anemo
+Provides healing to the team and enables Furina’s HP-drain mechanics to convert into teamwide damage gains. Runs Viridescent Venerer for resistance shred support.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Energy Recharge
+Goblet
+ATK%
+Circlet
+Healing Bonus
+Substats
+HP% / Energy Recharge
+Weapons
+Crane's Echoing Call
+Oathsworn Eye
+#5 Xianyun Vaporize Hu Tao Team
+Tier SS
+Hu Tao Vaporize team
+with Xingqiu and Furina enabling consistent Hydro application for Vaporize reactions, while Xianyun provides healing, VV shred, and Plunging Attack support for Hu Tao.
+Hu Tao
+Main DPS
+Pyro
+Main DPS of the team. Hu Tao's damage is amplified by Vaporize reactions.
+Artifacts
+Crimson Witch of Flames
+Main Stats
+Sands
+HP% / Elemental Mastery
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Elemental Mastery / ATK%
+Weapons
+Staff of Homa
+Deathmatch
+Xingqiu
+Sub DPS
+Hydro
+Provides continuous Hydro application through Elemental Burst to enable Vaporize for Hu Tao.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Primordial Jade Cutter
+Sacrificial Sword
+Furina
+Sub DPS
+Hydro
+Off-field Hydro support with strong personal damage. Elemental Skill provides continuous Hydro application, and Elemental Burst increases team damage based on HP changes.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Fleuve Cendre Ferryman
+Xianyun
+Support
+Anemo
+Healer and support. Provides team healing, Viridescent Venerer shred, and boosts Hu Tao's Plunging Attacks.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Energy Recharge
+Goblet
+ATK%
+Circlet
+Healing Bonus
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Crane's Echoing Call
+Oathsworn Eye
+#6 Diluc Vaporize Plunge Team
+Tier S
+Diluc Vaporize team with Plunging Attack synergy from Xianyun and strong Hydro application from Furina. Bennett adds massive ATK buff and healing support.
+Diluc
+Main DPS
+Pyro
+Main DPS. His DMG is amplified by Plunging Attack in this team.
+Artifacts
+Crimson Witch of Flames
+Main Stats
+Sands
+ATK%
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Wolf's Gravestone
+Serpent Spine
+Furina
+Sub DPS
+Hydro
+Off-field DPS and buffer. Her Elemental Burst provides DMG increase based on HP changes of allies; her Skill helps enable this while her HP loss is restored by healer support.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Fleuve Cendre Ferryman
+Xianyun
+Support
+Anemo
+Healer/support who provides team healing and boosts Diluc’s Plunging Attack damage.
+Artifacts
+Song of Days Past
+Main Stats
+Sands
+Energy Recharge
+Goblet
+ATK%
+Circlet
+Healing Bonus
+Substats
+HP% / HP / Energy Recharge
+Weapons
+Crane's Echoing Call
+Oathsworn Eye
+Bennett
+Support
+Pyro
+Healer/support. His Elemental Burst provides a huge ATK buff and healing to the team.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+#7 Xianyun Plunge Attack Team #1
+Tier SS
+Xianyun is the Main DPS of this plunge-focused team. The lineup is built around maximizing plunge attack damage through Geo support, Hydro off-field damage, and healing/buffing utility.
+Xianyun
+Main DPS
+Anemo
+Plunge-centric carry of the team. Her plunge attacks are the main source of damage and are heavily amplified by team buffs.
+Artifacts
+Gladiator's Finale
+Shimenawa's Reminiscence
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+ATK%
+Substats
+Energy Recharge / ATK% / CRIT Rate
+Weapons
+Crane's Echoing Call
+Oathsworn Eye
+Xilonen
+Main DPS
+Geo
+Main damage dealer whose plunge attacks are maximized by teammates. Geo damage and DEF-scaling are prioritized.
+Artifacts
+Obsidian Codex
+Main Stats
+Sands
+DEF%
+Goblet
+Geo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Peak Patrol Song
+Flute of Ezpitzal
+Gorou
+Support
+Geo
+Constellation 6+
+Provides Geo DMG Bonus and DEF Bonus, especially valuable at C6. Helps maximize Xilonen's damage while also contributing team utility.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+DEF%
+Goblet
+Geo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / Energy Recharge / DEF%
+Weapons
+Favonius Warbow
+Furina
+Sub DPS
+Hydro
+Provides continuous Hydro application through her Skill and strong teamwide damage buff through her Burst, enabled by HP fluctuation and healing support.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Favonius Sword
+Xianyun Teams FAQ
+What is the best Xianyun team in Genshin Impact?
+Xiao Furina Faruzan Xianyun Plunge Team is one of the strongest Xianyun teams right now. Use the team summary and build cards on this page to pick the best version for your account.
+What are good Xianyun teams without premium weapons?
+You can run strong Xianyun teams without signature weapons by prioritizing reaction synergy, energy consistency, and artifact main stats shown in each build card.
+Which teammates are best with Xianyun?
+Common high-performing partners include teams such as Xiao Furina Faruzan Xianyun Plunge Team, Xianyun Xiao Faruzan Bennett Plunge Team, Xianyun Melting Team. Check each lineup section for role breakdowns and gear priorities.

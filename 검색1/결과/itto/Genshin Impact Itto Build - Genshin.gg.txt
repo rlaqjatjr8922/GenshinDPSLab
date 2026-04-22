@@ -1,0 +1,186 @@
+Genshin Impact Itto Build
+Geo
+Claymore
+Main DPS
+Itto Upgrade Materials
+Elegance
+Ashen Heart
+Prithiva Topaz Sliver
+Riftborn Regalia
+Onikabuto
+Slime Condensate
+Itto Best Weapons
+1
+Redhorn Stonethresher
+2
+Serpent Spine
+3
+Beacon of the Reed Sea
+4
+Verdict
+5
+A Thousand Blazing Suns
+Itto Best Artifacts
+1
+Husk of Opulent Dreams
+4
+2
+Desert Pavilion Chronicle
+4
+3
+Retracing Bolide
+4
+4
+Archaic Petra
+2
+Husk of Opulent Dreams
+2
+5
+Emblem of Severed Fate
+2
+Husk of Opulent Dreams
+2
+Itto Best Stats
+Sands:
+DEF%
+Goblet:
+Geo DMG
+Circlet:
+CRIT Rate / CRIT DMG
+Substats:
+CRIT Rate / CRIT DMG > DEF% > Energy Recharge
+Character Builds by Genshin Impact Helper →
+Showcase
+Teams
+Talents
+Passives
+Constellations
+Ascension
+Itto Showcase
+Itto video guide by
+Braxophone
+.
+Check out his content!
+Best Itto Teams
+Itto Standard
+Itto Standard +
+Itto Talents
+Normal Attack
+Fight Club Legend
+Normal Attack Perform up to 4 consecutive strikes. When the 2nd and 4th strikes hit opponents, Itto will gain 1 or 2 stacks of Superlative Superstrength, respectively. Max 5 stacks. Triggering this effect will refresh the current duration of any existing stacks. Additionally, Itto's Normal Attack combo does not immediately reset after sprinting or using his Elemental Skill, "Masatsu Zetsugi: Akaushi Burst!" Charged Attack When holding to perform a Charged Attack, Itto unleashes a series of Arataki Kesagiri slashes without consuming Stamina. Instead, each Arataki Kesagiri slash consumes 1 stack of Superlative Superstrength. When the final stack is consumed, Itto delivers a powerful final slash. If no stacks of Superlative Superstrength are available, Itto will perform a single Saichimonji Slash. Plunging Attack Plunges from mid-air to strike the ground, damaging opponents along the path and dealing AoE DMG upon impact.
+Elemental Skill
+Masatsu Zetsugi: Akaushi Burst!
+Hurls Ushi, the young akaushi bull and auxiliary member of the Arataki Gang, dealing
+Geo
+DMG to opponents on hit. When Ushi hits opponents, Arataki Itto gains 1 stack of Superlative Superstrength. Ushi will remain on the field and provide support in the following ways: Taunts surrounding opponents and draws their attacks. Inherits HP based on a percentage of Arataki Itto's Max HP. When Ushi takes DMG, Arataki Itto gains 1 stack of Superlative Superstrength. Only 1 stack can be gained in this way every 2s. Ushi will flee when its HP reaches 0 or its duration ends. It will grant Arataki Itto 1 stack of Superlative Superstrength when it leaves. Hold Adjust throwing angle. Ushi is considered a
+Geo
+Construct. Arataki Itto can only deploy 1 Ushi on the field at any one time.
+Elemental Burst
+Royal Descent: Behold, Itto the Evil!
+Time to show 'em the might of the Arataki Gang! For a time, Itto lets out his inner Raging Oni King, wielding his Oni King's Kanabou in battle. This state has the following special properties: Converts Itto's Normal, Charged, and Plunging Attacks to
+Geo
+DMG. This cannot be overridden. Increases Itto's Normal Attack SPD. Also increases his ATK based on his DEF. On hit, the 1st and 3rd strikes of his attack combo will each grant Arataki Itto 1 stack of Superlative Superstrength. Decreases Itto's Elemental and Physical RES by 20%. The Raging Oni King state will be cleared when Itto leaves the field.
+Itto Passives
+Ascension 1
+Arataki Ichiban
+When Arataki Itto uses consecutive Arataki Kesagiri, he obtains the following effects: Each slash increases the ATK SPD of the next slash by 10%. Max ATK SPD increase is 30%. Increases his resistance to interruption. These effects will be cleared once he stops performing consecutive slashes.
+Ascension 4
+Bloodline of the Crimson Oni
+Arataki Kesagiri DMG is increased by 35% of Arataki Itto's DEF.
+Passive
+Woodchuck Chucked
+When a party member uses attacks to obtain wood from a tree, they have a 25% chance to obtain an additional log of wood.
+Itto Constellations
+Constellation 1
+Stay a While and Listen Up
+After using Royal Descent: Behold, Itto the Evil!, Arataki Itto gains 2 stacks of Superlative Superstrength. After 1s, Itto will gain 1 stack of Superlative Superstrength every 0.5s for 1.5s.
+Constellation 2
+Gather 'Round, It's a Brawl!
+After using Royal Descent: Behold, Itto the Evil!, each party member whose Element is
+Geo
+will decrease that skill's CD by 1.5s and restore 6 Energy to Arataki Itto. CD can be decreased by up to 4.5s in this manner. Max 18 Energy can be restored in this manner.
+Constellation 3
+Horns Lowered, Coming Through
+Increases the level of Masatsu Zetsugi: Akaushi Burst! by 3. Maximum upgrade level is 15.
+Constellation 4
+Jailhouse Bread and Butter
+When the Raging Oni King state caused by Royal Descent: Behold, Itto the Evil! ends, all nearby party members gain 20% DEF and 20% ATK for 10s.
+Constellation 5
+10 Years of Hanamizaka Fame
+Increases the level of Royal Descent: Behold, Itto the Evil! by 3. Maximum upgrade level is 15.
+Constellation 6
+Arataki Itto, Present!
+Arataki Itto's Charged Attacks deal +70% Crit DMG. Additionally, when he uses Arataki Kesagiri, he has a 50% chance to not consume stacks of Superlative Superstrength.
+Itto Ascension Costs
+Rank
+Lvl
+Cost
+Material
+Material
+Material
+Material
+1
+20
+20000
+1
+Prithiva Topaz Sliver
+3
+Onikabuto
+3
+Slime Condensate
+2
+40
+40000
+3
+Prithiva Topaz Fragment
+2
+Riftborn Regalia
+10
+Onikabuto
+15
+Slime Condensate
+3
+50
+60000
+6
+Prithiva Topaz Fragment
+4
+Riftborn Regalia
+20
+Onikabuto
+12
+Slime Secretions
+4
+60
+80000
+3
+Prithiva Topaz Chunk
+8
+Riftborn Regalia
+30
+Onikabuto
+18
+Slime Secretions
+5
+70
+100000
+6
+Prithiva Topaz Chunk
+12
+Riftborn Regalia
+45
+Onikabuto
+12
+Slime Concentrate
+6
+80
+120000
+6
+Prithiva Topaz Gemstone
+20
+Riftborn Regalia
+60
+Onikabuto
+24
+Slime Concentrate
+Loading...

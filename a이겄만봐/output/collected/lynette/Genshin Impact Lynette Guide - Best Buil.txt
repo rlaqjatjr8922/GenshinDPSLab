@@ -1,0 +1,284 @@
+Task Search
+Checklists
+Guides
+Markers
+Videos
+Sort and Filter
+No Results
+Checklists
+New Checklist
+All Lists
+My Checklists
+All
+All Lists
+My Checklists
+How creative can you get with your first free checklist?
+Create a free account
+All Interactive Maps and Locations
+Genshin Impact Lynette Guide - Best Builds, Weapons, Artifacts, and Teams
+By
+Cedric Pabriga
+,
+Jen Rothery
+,
+Triforce
+,
++30 more
+Updated
+:
+Sep 1, 2023 9:54pm UTC
+Lynette is a 4-star Anemo Sword character introduced at the beginning of the Fontaine storyline, but has been previewed as early as 1.1 in trailers. Lynette is a freely obtainable Anemo character perfect for players who have not yet had an Anemo support to invest in. This guide to the
+best Genshin Impact Lynette build
+will explain the best weapons, artifact sets, constellations, and team compositions for Lynette.
+Lynette
+Rarity:
+★★★★
+Element:
+Anemo
+Weapon:
+Sword
+Table of Contents:
+How to Get Lynette
+Lynette Gameplay Overview
+Lynette Talents and Attack Combos
+Lynette Constellation Analysis
+Lynette's Best Weapons
+Lynette's Best Artifacts
+Lynette's Best Teams
+How to Get Lynette in Genshin Impact
+Lynette was made available on the
+Version 4.0
+limited banners as one of the available four stars, and in 4.1 onwards, Lynette is obtainable with a low chance on every banner. A copy of Lynette is also available for free upon reaching AR25.
+Genshin Lynette Gameplay Overview
+Element:
+Anemo
+Weapon:
+Sword
+Rarity:
+4-star
+Lynette is the first Anemo unit to have talents aligned with the unique
+Fontaine
+alignments “ousia” and “pneuma,” which is a characteristic on abilities that help solve Fontaine puzzles and shortcut through Fontaine boss weaknesses. Aside from that, she is a low-power Anemo support with somewhat restricted playstyles. Her damage, when built for ATK, Anemo DMG%, and CRIT DMG, is less than exciting. However, she has some merits as a
+buffing support
+in multi-element teams at C0, with decent driving abilities once Lynette gains her 6th constellation, which infuses her sword with Anemo and allowing additional Swirls on enemies. Some of these Swirls, given the right team composition, can trigger powerful transformative reactions that depend on nothing but your team members’ Elemental Mastery and level.
+Lynette is held back mostly by her lack of grouping abilities that most other Anemo characters possess, high Energy Recharge needs, and extremely high investment required to make her competitive in teams compared to other Anemo characters. However, she will still be useful in main story progression thanks to the Ousia alignment on her Skill.
+Speaking of Energy Recharge,
+prepare to invest at least 200% Energy Recharge into Lynette for most teams, as her Burst is the majority of her utility and damage.
+230% is the main “safe” point before you have to include several Favonius weapons or other Anemo characters to ease Energy Recharge requirements. However, in long rotations with a potent battery like Fischl -and- all of Lynette’s constellations, these can drop down to 140%. This, however, limits Lynette’s team compositions further.
+Genshin Lynette Talents and Attack Combos
+The only reason to level
+Lynette’s
+Normal Attacks
+is when she has all six of her constellations, which is what grants her Normal Attacks Anemo damage after using her Skill. Additionally, she will need a powerful Anemo buffer like Faruzan with all six of Faruzan’s constellations to play Lynette as an on-field character. Even then, players might still not be satisfied with Lynette’s performance.
+Lynette’s
+Skill
+allows her to move quickly in battle, deal Anemo damage to an enemy, and activate some of her other effects, like afflicting the Ousia alignment to enemies. When held, Lynette sprints and can mark enemies, then on release, teleports to the mark and deals damage. The Skill also has a unique ability that heals her, only to take the same percentage of health away over a period of time. This is often a demerit, but several weapons and artifact sets exist that care about how often the equipped character’s HP changes, either from damage or healing. That said, there are some niche uses for this, but it only secondary in terms of investment.
+Lynette's
+Burst
+deals the most damage from her kit by far. It allows her to taunt enemies, frequently Swirl elements, and infuse an element for additional hits of that elemental type. If you level any talents at all, you should level her Burst first.
+Note that in Elemental Mastery builds, talent levels matter significantly less.
+Next, come her
+passives
+. Her
+first ascension passive
+is quite nice: based on the elements in the team, using her Burst will grant an ATK% boost to teammates, from 8% (only Anemo) to 20% (four unique elements). This passive is like having a free 4pc Noblesse Oblige on your team, and is certainly a boon for people who ever wished they could have a character that could equip -both- Viridescent Venerer and Noblesse Oblige. In most teams, expect a 16% buff (three elements).
+Lynette’s fourth ascension passive
+gives her Burst a damage boost whenever it absorbs an element among Pyro, Hydro, Cryo, and Electro (one element only).
+Her exploration passive
+marks Recovery Orbs on the map, which helps in Fontaine exploration, while increasing the HP and stamina those orbs provide.
+When it comes to field time, you basically have three patterns, depending on your team.
+Lynette is C0 – use your Skill, then Burst, then swap out.
+Lynette is C6 and you care about non-reaction damage – use your Skill, then Burst, then repeating two Normal Attacks, followed by a Charged Attack for as long as the rotation needs.
+Lynette is C6 and you care about maximizing the number of reactions – use your Skill, then Burst, then repeating three Normal Attacks while dashing too cancel the third attack’s animation (after dealing damage) for as long as the rotation needs.
+Genshin Lynette Constellation Analysis
+For a 4-star character who receives the “free character treatment” (being very weak in base form), Lynette needs all the help she can get in terms of damage. She is minimally playable at C0, but having all six constellations drastically improves her limited versatility.
+Constellation Name
+Abbreviated In-Game Description
+Notes
+C1. A Cold Blade like a Shadow
+When her Skill hits a marked enemy, she’ll summon a gale of wind that pulls enemies to its location.
+Lynette already has mild taunting abilities, and while C1 offers no damage boost, the extra utility for grouping enemies is much appreciated.
+C2. Endless Mysteries
+When Lynnette’s Burst deals damage from an absorbed element, it deals an additional instance of damage.
+A very minor damage upgrade that doesn’t really offer much extra utility. One of the lowest-impact constellations.
+C3. Cognition-Inverting Gaze
+Increase Burst talent level by 3.
+Not much to say here, other than it’s a modest damage boost.
+C4. Tacit Coordination
+Adds an extra charge to Lynette’s Skill.
+Lynette’s skill has a 12-second cooldown, so you won’t be able to use two skills per rotation unless your rotation is 24s. Note that adding an extra charge to the Skill does not make both charges cooldown simultaneously – they still recover only one at a time. This really only allows you to use two Skills back-to-back. Nevertheless, when Lynette -can- use two skills per rotation, her energy recharge needs become much lower, allowing her to invest in more damage.
+C5. Obscuring Ambiguity
+Increases Skill talent level by 3.
+So minor of a boost that is isn’t even worth mentioning.
+C6. Watchful Eye
+When Lynette uses her Skill, she will gain an Anemo Infusion and 20% Anemo DMG Bonus for 6s.
+A massive upgrade to Lynette's damage that’s extremely easy to trigger, especially with two charges. In longer rotations, it allows you to attack with Anemo infusion far more frequently and keep the 20% boost for most of her field-time. The infusion also allows for more Swirl reactions which can create other more powerful transformative reactions.
+Genshin Lynette's Best Weapons
+Lynette mainly cares about
+Energy Recharge
+and then
+either (ATK%, Anemo DMG%, and CRIT%)
+or a
+full Elemental Mastery
+investment. There are only a few “correct” choices for weapons for Lynette. Luckily, those options are almost entirely f2p friendly weapons. Not listed, but useful, are CRIT-based 5-star weapons, but this is -only- in triple Anemo teams, where you have C6 Lynette -and- C6 Faruzan. Even then, this build is not effective enough to comfortably clear Spiral Abyss.
+Weapon Name
+Abbreviated In-Game Description
+Notes
+Favonius Sword
+61.3% ER
+CRIT hits have a 60-100% chance to generate energy particles for the entire team. Occurs once every 12-6s.
+Best for Nearly All Cases
+Every team benefits from a Favonius weapon, without exception, because every team wants to use their Bursts as often as possible. At least 30-40% CRIT Rate is recommended to use this weapon. It is the default support weapon for a reason and should be your first priority.
+Xiphos Moonlight R5
+41.3% HP
+The following effect will trigger every 10s: The equipping character will gain 0.072% Energy Recharge for each point of Elemental Mastery they possess for 12s, with nearby party members gaining 30% of this buff for the same duration
+An EM-Focused Alternative to Favonius Sword
+If you can stack 800 Elemental Mastery or more, this weapon will shine. However, due to being a limited 4-star weapon, it is much more difficult to refine all the way to R5. Budget players will be happy with Favonius or any ER% or EM sword in reaction-focused teams.
+Sacrificial Sword R5
+61.3% ER
+On hit, Skills have a 40-80% to automatically refresh its own cooldown. Only happens once every 30-16s.
+Backup for Favonius
+Refinements are mostly necessary on this weapon, since missing the trigger on the effect significantly hurts your team’s DPS. Usually best if you’re generating energy for other characters of the same element.
+Fleuve Cendre Ferryman R5
+45.9% ER
+Increases Elemental Skill CRIT Rate by 8-16%. Additionally, increases Energy Recharge by 16-32% for 5s after using an Elemental Skill.
+Best for Personal ER Needs
+Significantly worse than previous competitors, but a find option for those who care about her CRIT rate and Energy Recharge. It’s strongly recommended to refine this to 5.
+Sapwood Blade
+30.6% ER
+After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Consciousness will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character 60-120 Elemental Mastery for 12s. Only 1 Leaf can be generated this way every 20s.
+Well-Rounded Craftable for EM Teams
+Offering both Energy Recharge and Elemental Mastery, this is a prime contender for budget options if your account doesn’t have any of the above options. It is most useful when Lynette is C6 and can more easily facilitate reactions.
+Amenoma Kageuchi
+55.1% ATK
+After casting an Elemental Skill, gain 1 Succession Seed. This effect can be triggered once every 5s. The Succession Seed lasts for 30s. Up to 3 Succession Seeds may exist simultaneously. After using an Elemental Burst, all Succession Seeds are consumed and after 2s, the character regenerates 6-12 Energy for each seed consumed.
+Craftable Energy Recharge Option
+The more you use your Skill, the easier it will make using your Burst. Especially useful when you have at least four constellations for Lynette.|}
+Genshin Lynette's Best Artifacts
+Sands – ER%, EM, or ATK%Goblet – Anemo DMG% or EMCirclet – CRIT or EMThere are two main optimal artifact sets for Lynette, depending on the play pattern you prefer. Another two options are less so for damage, but instead for support.
+Artifact Name
+Abbreviated In-Game Description
+Notes
+4pc Viridescent Venerer
+2pc: Anemo DMG +15%
+4pc: Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s.
+Best in Nearly Every Case
+Viridescent Venerer is the default choice for any Anemo character and it’s not close. The unique ability to shred Elemental Resistances is essential for any team utilizing elements to deal damage. The only times you don’t’ want to use this are when there’s already a character with Viridescent Venerer on the team. Even then, it’s still probably safe.
+4pc Gilded Dreams
+2pc: Elemental Mastery +80
+4pc: After triggering a reaction, for each other party member, if they share an element with equipped character, +14% ATK. If they don’t share an element, +50 Elemental Mastery.
+Best Elemental Mastery Set
+Flower of Paradise Lost is comparable in damage (and the numbers are quite close), but much less resin-efficient for good artifacts. Gilded Dreams shares a domain with the Deepwood artifact set, which is essential for teams who care about Dendro-based reactions. If Lynette is the trigger in Hyperbloom teams, then this is the go-to set. Otherwise, you’re best off with Viridescent Venerer.
+Genshin Lynette's Best Teams
+Lynette only has four kinds of teams: Freeze, Electro-Charged, Hyperbloom (C6 Only), and An3mo (C6 Only).
+Freeze/General Use
+Most general-use Anemo, Cryo, or Hydro characters can fit into a Bennett/Xiangling team, but Lynette can interfere with Xiangling’s elemental reactions, and Xiangling is usually responsible for the majority of the team’s damage. However, Lynette can be used in most teams that need an Anemo unit if your team can tolerate not having good crowd control.
+Lynette
+Cryo (Rosaria for F2P)
+Hydro (Xingqiu for F2P)
+Cryo/Hydro (Kaeya for F2P)
+Electro-Charged ("Taser")
+Taser teams focus on the sheer amount of instances of minor Electro-Charged damage to melt an enemy's HP bar. This strategy has existed since Genshin Impact's launch and is one of the most free-to-play friendly teams to build.
+Typically how the team works is you have a defensive unit, two or more characters that synergize with Normal Attacks, and then character who attacks for quickly or deals the most damage when that DPS is using Normal Attacks. An Anemo character equipping 4pc Viridescent Venerer can reduce the resistances of both Hydro and Electro simultaneously, as when an enemy is Electro-Charged, both Electro and Hydro stay applied to the enemy.
+In this team, Lynette can play both on-field or off-field roles.
+Lynette
+Electro (Beidou for F2P)
+Electro (Fischl for F2P)
+Hydro (Xingqiu for F2P)
+An3mo
+The team utilizes an Anemo on-field DPS and powerful Anemo buffing characters in order to deal as much damage as possible. This usually requires multiple C6 4-star characters.Bennett is the classic non-Anemo support for this team, but it is strongly advised you do -not- get his sixth constellation, as its Pyro infusion overrides Lynette’s Anemo infusion from her C6.
+Lynette (C6)
+Faruzan (C6)
+Anemo
+Bennett
+Hyperbloom
+You start by using consistent Hydro and Dendro application to create seeds on the field, and then detonate them with either an Electro or Pyro character with a full investment in Elemental Mastery. Lynette, at C6, can swirl Electro from an Electro character that -doesn’t- normally hit Dendro cores, like Fischl, in order to use Lynette’s Elemental Mastery stat for Hyperbloom reactions.Limited 5-Star Nahida is highly recommended for this team, if you managed to pull her.Fischl is required for this team, if Lynette is the Hyperbloom trigger.
+Lynette (C6)
+Fischl (C6)
+Hydro (Xingqiu for F2P)
+Dendro (Collei/Traveler/Nahida)
+Specific Teammate Choices
+Hydro Characters
+Xingqiu
+The best 4-star Hydro applicator. His Burst applies Hydro and deals respectable damage in synchonicity with the active character's Normal Attacks and the orbiting swords that act as defensive utility also apply Hydro to enemies when in direct contact.
+Yelan
+Mainly best for amplifying teammates DMG% while dealing high HP-scaling damage. Very similar to Xingqiu, but less application and no defensive utility. Yelan is a generically strong character.
+Ayato
+An excellent on-field Hydro DPS and driver for characters like Beidou, Xingqiu, and Yelan.
+Kokomi
+The best Hydro option if you want good healing and Hydro application rolled into one character.
+Barbara
+The free/budget version of Kokomi. Her healing is worse and her Skill and Burst have long cooldowns, but her Skill creates a Hydro ring that helps generate Dendro cores when attacking at close range.
+Dendro Characters
+Nahida
+The best choice for maximizing the damage potential of Dendro-based reactions like Quicken/Spread/Aggravate/Hyperbloom/Burgeon/Bloom. She needs almost no field time and shares EM with the active character.
+Baizhu
+A shielder and healer all-in-one for teams focusing on Dendro-based reactions. Offers shields and plenty of healing to the party, all of which enhance reaction damage.
+Dendro Traveler
+The best budget alternative to Nahida, as they offer consistent Dendro application in a wide area-of-effect thanks to her Burst while offering buffs to the team. All of her constellations are freely obtainable, as well.
+Kirara
+A dedicated shielder in Dendro for protecting fragile characters from being interrupted. Especially useful when Yae Miko is also on the team.
+Collei
+Collei is best at supporting Quicken/Aggravate/Spread teams thanks to the duration and cooldown of her Skill allowing her to function well in very short (~15 second) and longer (~25 second) rotations. Collei will usually equip 4pc Tenacity of the Millelith and Elegy for the End, so make sure not to overlap this with Fischl (if she also equips these).
+Electro Characters
+Keqing
+The most aggressive quickswap DPS. Originally one of the weakest characters in the game, the introduction of the Dendro element gave her a massive boost in playability due to her rapid Electro application.
+Yae Miko
+Comparable to Fischl. However, Yae Miko has an exceptionally powerful Burst that acts like a nuke. EM buffs are especially good with Miko due to her passive that adds DMG% to her Skill totems based on her EM. Miko's drawback, in exchange for her raw power, is the amount of field time required for an "off-field" unit.
+Fischl
+The best off-field Electro DPS in the game when it comes to Quicken teams, thanks to a synergy between her Fourth Ascension Passive and how Quicken reactions work. In almost any Quicken team, she will deal the majority of the team's damage, and outside of Quicken teams, she is useful in nearly any team that can fit her. In Hyperbloom teams, her Skilll and Burst don’t hit the seeds, allowing an EM-invested Anemo character to trigger the Hyperbloom reactions by Swirling Fischl’s Electro damage on enemies.
+Lisa
+Lisa is free from the beginning of the game and also gained a lot of viability thanks to Quicken being introduced to the game, allowing her to become an on-field DPS or support depending on team needs. Her Burst also shreds enemy defenses -- a very rare debuff. She can be used as a Hyperbloom trigger or as an on-field DPS with the Quicken reactions.
+Beidou
+Beidou has a powerful Burst that, after her second Constellation, creates arc lightning that bounces between enemies while also generating a shield and interruption resiistance. While her Burst is strong, her energy needs are high, which makes Fischl an ideal partner for Beidou to maximize her potential.
+Kuki Shinobu
+The most sensible dedicated Hyperbloom trigger, due to her healing and spaced out, yet consistent Electro application that has full uptime.
+Raiden Shogun
+Technically better with Hyperbloom than Shinobu, but building full EM on Raiden takes away her potential as a DPS, which remains attractive to many players. Raiden is also a fantastic on-field and can drive taser teams if need be.
+Pyro Characters
+Bennett
+Widely considered to be one of the strongest supports in the game, Bennett provides the party with an enormous Flat ATK buff equal to a percentage of Bennett's ATK (sometimes over 100%). Bennett also heals with his Burst and generates tons of Pyro energy particles with his tapped Skill and its 3-second cooldown. Bennett makes every team that cares about ATK better.
+Cryo Characters
+Ayaka
+The first choice for a Cryo DPS in Freeze teams. Her Burst is incredibly powerful and shreds enemies to pieces when they’re frozen and grouped together. Using Diona as a support is recommended, as Ayaka is quite energy-hungry.
+Rosaria
+The best universal Cryo support, due to her ability to share a portion of her CRIT Rate with her team, her consistent Cryo application, and high damage output. She is an excellent all-rounder and can also play as an on-field DPS.
+Diona
+Diona packs shielding and healing into one character, which is extremely rare. She also generates a solid amount of particles with her Skill.
+Kaeya
+Basically equivalent to Rosaria, except constellations are harder to acquire and his Cryo application requires being in striking distance from enemies. For melee Physical DPS's this is often preferred.
+Anemo Utility Options
+(all assumed to be equipping 4pc Viridescent Venerer)
+Kazuha
+The best all-around choice for most Anemo needs. Kazuha scales well with EM, provides a huge DMG% buff to teammates depending on what elements he swirls in his Burst, offers good crowd control, and has short cooldowns on his entire kit.
+Sucrose
+Sometimes better than Kazuha, depending on the team comp, due to her ability to share a portion of her Elemental Mastery with the team, wield Catalysts known for their support functions, and apply Anemo and Swirl with Normal Attacks. She offers crowd control and energy generation ontop of decent driving capabilities.
+Venti
+The Anemo Archon and the god of crowd control. He can buff teammates while equipping Elegy for the End and is an excellent choice against large amounts of enemies.
+Jean
+or
+Sayu
+These characters fulfil similar roles in their ability to heal as well as Swirl. Jean has special synergy with Bennett, but since Bennett is less needed on these teams, we can argue that their usefulness is equivalent to one another.
+Faruzan (C6)
+The most effective buffer for Anemo damage in the game, bar none. She is one of the only characters who shreds Anemo resistance on enemies and can also buff Anemo CRIT DMG by 40%. Essential for An3mo teams.
+Up Next:
+Anemo Traveler (Protagonist) Guide - Best Builds and Tips
+Previous
+Genshin Lynette Ascension Materials Guide
+Next
+Anemo Traveler (Protagonist) Guide - Best Builds and Tips
+Top Guide Sections
+Genshin Impact Luna VI Details and Patch Notes
+Genshin Impact Luna IV Release Time and Details
+Genshin Impact Luna III Details and Patch Notes
+Genshin Impact Luna II Release Date and Details
+Was this guide helpful?
+Leave feedback
+In This Guide
+Genshin Impact
+HoYoverse
+Initial Release:
+Sep 27, 2020
++2
+Learn more
+Go to comments

@@ -1,0 +1,647 @@
+Genshin Impact Yoimiya Best Team Guide
+Last updated April 22, 2026. Looking for the best Yoimiya teams in
+        Genshin Impact? Start with the top team summary below, then pick the
+        lineup that fits your roster.
+This page shows the best teams for Yoimiya, primarily a Main DPS. Top teams include Vaporize, Melt, and Overload archetypes. Flexibility allows swapping Yoimiya with Diluc or Ayato depending on your roster and build preferences.
+View Yoimiya's character page
+Yoimiya Team Summary
+#1
+Team Rating:S
+Yoimiya Vaporize Yun Jin Zhongli S Tier Team
+#2
+Team Rating:SS
+Yoimiya Vapourize Team #2
+C6
+#3
+Team Rating:SS
+Yoimiya Vaporize Yun Jin Zhongli SS Team
+C6
+#4
+Team Rating:SS
+Yoimiya Melt SS Tier Team
+#5
+Team Rating:SS
+Yoimiya Overload Raiden Kazuha Bennett SS Team
+#6
+Team Rating:S
+Yoimiya Melt Team #2
+#7
+Team Rating:S
+Yoimiya Overload Team #2
+#8
+Team Rating:SS
+Yoimiya Overload Chevreuse Raiden Bennett SS Team
+#1 Yoimiya Vaporize Yun Jin Zhongli S Tier Team
+Tier S
+Yoimiya is the Main DPS and her DMG is maximized through Vaporize reactions. Xingqiu enables consistent Hydro application, Yun Jin boosts Yoimiya’s Normal Attacks, and Zhongli provides strong shielding plus team ATK buff via Tenacity of the Millelith.
+Yoimiya
+Main DPS
+Pyro
+Main DPS. Her damage is amplified by Vaporize in this team.
+Artifacts
+Shimenawa's Reminiscence
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Thundering Pulse
+Rust
+Xingqiu
+Sub DPS
+Hydro
+His Elemental Burst continuously applies Hydro to enemies, allowing Yoimiya to trigger Vaporize reactions.
+Artifacts
+Noblesse Oblige
+Heart of Depth
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Sacrificial Sword
+Yun Jin
+Support
+Geo
+Provides Normal Attack Bonus and Normal ATK SPD Bonus at C6 to Yoimiya.
+Artifacts
+Husk of Opulent Dreams
+Main Stats
+Sands
+DEF%
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+DEF% / DEF / CRIT DMG / CRIT Rate / Energy Recharge
+Weapons
+Deathmatch
+Zhongli
+Support
+Geo
+Provides a strong shield for team safety and increases team ATK with Tenacity of the Millelith.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP / Energy Recharge
+Weapons
+Staff of Homa
+Black Tassel
+#2 Yoimiya Vapourize Team #2
+Tier SS
+Yoimiya Vaporize team with Ayato enabling consistent Hydro application and Yun Jin boosting Normal Attack damage and speed. Zhongli provides strong shielding and a Tenacity of the Millelith ATK buff for safer, smoother rotations.
+Kamisato Ayato
+Main DPS
+Hydro
+Continuous Hydro attacks enable Vaporize reactions with Yoimiya's Pyro application. His Elemental Burst can also increase Attack SPD for Yoimiya. Swap to Yoimiya when his Elemental Skill is on cooldown and after casting Burst.
+Artifacts
+Echoes of an Offering
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / HP% / Energy Recharge
+Weapons
+Haran Geppaku Futsu
+The Black Sword
+Yoimiya
+Main DPS
+Pyro
+Main DPS of the team. Her damage is amplified through Vaporize reactions. Swap to Ayato when her Elemental Skill is on cooldown.
+Artifacts
+Shimenawa's Reminiscence
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Thundering Pulse
+Rust
+Yun Jin
+Support
+Geo
+Constellation 6+
+Provides Normal Attack Bonus and Normal ATK SPD Bonus at C6 to both Ayato and Yoimiya. Prioritize DEF scaling and enough Energy Recharge for burst uptime.
+Artifacts
+Husk of Opulent Dreams
+Main Stats
+Sands
+DEF%
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+DEF% / DEF% / CRIT DMG / CRIT Rate / Energy Recharge
+Weapons
+Deathmatch
+Zhongli
+Support
+Geo
+Shield/Support. His shield keeps the team safe and 4pc Tenacity of the Millelith provides an ATK buff for the whole team.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Staff of Homa
+Black Tassel
+#3 Yoimiya Vaporize Yun Jin Zhongli SS Team
+Tier SS
+Yoimiya Vaporize team focused on boosting Yoimiya's Normal Attack damage through Vaporize reaction and Yun Jin's Normal ATK buffs. Zhongli provides strong shielding and Tenacity of the Millelith team ATK buff for a safe, stable rotation.
+Yoimiya
+Main DPS
+Pyro
+Main DPS of the team. Her Normal Attack damage is maximized through Vaporize and ATK SPD/Normal Attack buffs.
+Artifacts
+Shimenawa's Reminiscence
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Thundering Pulse
+Rust
+Yelan
+Sub DPS
+Hydro
+Provides consistent off-field Hydro application to trigger Vaporize for Yoimiya. Her Burst also increases Yoimiya's damage through her passive talent.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+HP% / CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Aqua Simulacra
+The Stringless
+Yun Jin
+Support
+Geo
+Constellation 6+
+Provides Normal ATK Bonus to Yoimiya, and Normal ATK SPD Bonus at C6.
+Artifacts
+Husk of Opulent Dreams
+Main Stats
+Sands
+DEF%
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+DEF% / DEF% / CRIT DMG / CRIT Rate / Energy Recharge
+Weapons
+Deathmatch
+Zhongli
+Support
+Geo
+Provides a powerful shield for the team and increases whole-team ATK when equipped with 4pc Tenacity of the Millelith.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Staff of Homa
+Black Tassel
+#4 Yoimiya Melt SS Tier Team
+Tier SS
+Yoimiya is the main DPS. The team's damage is maximized through Melt reactions, with Ganyu providing off-field Cryo application and Kazuha boosting elemental damage and shredding resistance.
+Yoimiya
+Main DPS
+Pyro
+Main DPS of the team. Her damage is amplified by Melting in this team.
+Artifacts
+Shimenawa's Reminiscence
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Thundering Pulse
+Rust
+Ganyu
+Sub DPS
+Cryo
+Off-field Cryo application via Elemental Burst to trigger Melt reactions. Can also stay on-field while Yoimiya's Elemental Skill is on cooldown.
+Artifacts
+Noblesse Oblige
+Blizzard Strayer
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Amos' Bow
+The Stringless
+Kaedehara Kazuha
+Support
+Anemo
+Provides grouping, crowd control, team damage buffs, and reduces enemy Elemental RES with Viridescent Venerer.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Freedom-Sworn
+Iron Sting
+Diona
+Support
+Cryo
+Provides shielding for team safety and acts as a battery for Ganyu's Elemental Burst.
+Artifacts
+Maiden Beloved
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP / Energy Recharge
+Weapons
+Sacrificial Bow
+Favonius Warbow
+#5 Yoimiya Overload Raiden Kazuha Bennett SS Team
+Tier SS
+Yoimiya Overload team featuring
+Yoimiya
+as the main on-field Pyro DPS with
+Raiden Shogun
+providing off-field Electro application for frequent Overload reactions.
+Kazuha
+groups enemies, boosts team damage, and shreds elemental resistance, while
+Bennett
+supplies strong ATK buff and healing.
+Yoimiya
+Main DPS
+Pyro
+Main on-field Pyro DPS. Provides continuous Pyro application to trigger Overload consistently.
+Artifacts
+Shimenawa's Reminiscence
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Thundering Pulse
+Rust
+Raiden Shogun
+Sub DPS
+Electro
+Off-field Electro applicator through Elemental Skill, enabling frequent Overload reactions with Yoimiya.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Energy Recharge / Elemental Mastery / CRIT Rate / CRIT DMG
+Weapons
+Engulfing Lightning
+Kitain Cross Spear
+Kaedehara Kazuha
+Support
+Anemo
+Provides crowd control, damage buffing, and enemy Elemental RES reduction.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Freedom-Sworn
+Iron Sting
+Bennett
+Support
+Pyro
+Burst provides a large ATK buff and healing for the team.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+#6 Yoimiya Melt Team #2
+Tier S
+Yoimiya is the Main DPS in the team. The DMG of Yoimiya is maximized by Melting.
+Yoimiya
+Main DPS
+Pyro
+Yoimiya is the main DPS, her DMG is amplified by Melting in this team.
+Artifacts
+Shimenawa's Reminiscence
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Thundering Pulse
+Rust
+Ganyu
+Sub DPS
+Cryo
+Ganyu’s Elemental Burst deals high DMG and provides Cryo attachment for triggering Melting at backstage. Also she can be on field when Yoimiya’s Elemental Skill is in CD.
+Artifacts
+Noblesse Oblige
+Blizzard Strayer
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Amos' Bow
+The Stringless
+Venti
+Sub DPS
+Anemo
+Venti’s Elemental Burst can group enemies together and apply crowd control, and he can help spread Cryo attachment from Ganyu to enemies nearby.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Skyward Harp
+Rust
+Bennett
+Support
+Pyro
+Bennett’s Elemental Burst provides huge ATK buff and healing to other members.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+#7 Yoimiya Overload Team #2
+Tier S
+Yoimiya is the Main DPS in the team. Yoimiya’s Pyro attachment reacts with Electro attachment from Fischl to trigger frequent Overload.
+Yoimiya
+Main DPS
+Pyro
+Yoimiya is the main DPS, she provides continuous Pyro attachment to trigger Overload and Vaporization in this team.
+Artifacts
+Shimenawa's Reminiscence
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Thundering Pulse
+Rust
+Fischl
+Sub DPS
+Electro
+Fischl’s Elemental Skill can provide continuous Electro attachment at backstage, which works with Yoimiya to trigger overload. C6 of Fischl will have a significant upgrade of the team.
+Artifacts
+Thundering Fury
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Skyward Harp
+The Stringless
+Yun Jin
+Support
+Geo
+Yun Jin provides Normal ATK Bonus and Normal ATK SPD Bonus(C6) to both Fischl and Yoimiya.
+Artifacts
+Husk of Opulent Dreams
+Main Stats
+Sands
+DEF%
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+DEF% / DEF / CRIT DMG / CRIT Rate / Energy Recharge
+Weapons
+Deathmatch
+Zhongli
+Support
+Geo
+Zhongli’s shield provides safe environment for team members, and increase ATK of whole team by using full set of Tenacity of the Millelith.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP / Energy Recharge
+Weapons
+Staff of Homa
+Black Tassel
+#8 Yoimiya Overload Chevreuse Raiden Bennett SS Team
+Tier SS
+Yoimiya Overload team centered around frequent Overload triggers with Chevreuse buffs, Pyro/Electro RES shred, strong ATK buffs, and healing support.
+Yoimiya
+Main DPS
+Pyro
+Main on-field DPS. Benefits greatly from Overload reactions and Chevreuse’s Pyro/Electro amplification.
+Artifacts
+Shimenawa's Reminiscence
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Thundering Pulse
+Rust
+Chevreuse
+Support
+Pyro
+Core support/healer. Triggers Pyro/Electro RES reduction on Overload and grants ATK buffs to Pyro/Electro teammates based on Max HP. Can also provide healing; stronger team buffing at C6.
+Artifacts
+Song of Days Past
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / Energy Recharge
+Weapons
+Favonius Lance
+Black Tassel
+Raiden Shogun
+Sub DPS
+Electro
+Electro sub DPS that helps maintain Overload reactions. Built for support-oriented off-field damage and reaction consistency.
+Artifacts
+Gilded Dreams
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge / ATK%
+Weapons
+Dragon's Bane
+Bennett
+Support
+Pyro
+Provides a massive ATK buff through his Burst and additional healing for the team.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+Energy Recharge
+Goblet
+HP%
+Circlet
+HP%
+Substats
+Energy Recharge / HP%
+Weapons
+Aquila Favonia
+Favonius Sword
+Yoimiya Teams FAQ
+What is the best Yoimiya team in Genshin Impact?
+Yoimiya Vaporize Yun Jin Zhongli S Tier Team is one of the strongest Yoimiya teams right now. Use the team summary and build cards on this page to pick the best version for your account.
+What are good Yoimiya teams without premium weapons?
+You can run strong Yoimiya teams without signature weapons by prioritizing reaction synergy, energy consistency, and artifact main stats shown in each build card.
+Which teammates are best with Yoimiya?
+Common high-performing partners include teams such as Yoimiya Vaporize Yun Jin Zhongli S Tier Team, Yoimiya Vapourize Team #2, Yoimiya Vaporize Yun Jin Zhongli SS Team. Check each lineup section for role breakdowns and gear priorities.

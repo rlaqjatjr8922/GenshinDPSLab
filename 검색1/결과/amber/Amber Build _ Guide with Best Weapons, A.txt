@@ -1,0 +1,251 @@
+Amber
+4
+★
+Bow
+Pyro
+Always energetic and full of life, Amber's the best — albeit only — Outrider of the Knights of Favonius
+.
+Basic Stats
+Nv.
+90
+HP
+9461
+ATK
+223
+DEF
+601
+ATK
+24%
+Basic Stats
+Nv.
+90
+HP
+9461
+ATK
+223
+DEF
+601
+ATK
+24%
+Amber
+Ascension Materials
+Agnidus Agate Sliver
+Small Lamp Grass
+Everflame Seed
+Firm Arrowhead
+Teachings of Freedom
+Dvalin's Sigh
+Amber
+Best Weapon
+The First Great Magic
+Level
+.
+90
+ATK
+608
+CRIT DMG
+66.2%
+Refinement
+.
+5
+DMG dealt by Charged Attacks increased by 32%. For every party member with the same Elemental Type as the wielder (including the wielder themselves), gain 1 Gimmick stack. For every party member with a different Elemental Type from the wielder, gain 1 Theatrics stack. When the wielder has 1/2/3 or more Gimmick stacks, ATK will be increased by 32%/64%/96%. When the wielder has 1/2/3 or more Theatrics stacks, Movement SPD will be increased by 12%/15%/18%.
+Other Weapons
+2
+°
+Aqua Simulacra
+CRIT DMG
+3
+°
+Elegy for the End
+Energy Recharge
+4
+°
+Hamayumi
+ATK
+Amber
+Best Artifact Set
+Wanderer's Troupe
+2 Pc
+:
+Increases Elemental Mastery by 80.
+4 Pc
+:
+Increases Charged Attack DMG by 35% if the character uses a Catalyst or a Bow.
+Artifacts Main Stats
+Sands
+:
+ATK % / ER %
+Goblet
+:
+Pyro Bonus
+Circlet
+:
+Crit Rate / Crit Damage
+Artifacts Substats
+Crit Rate / Crit Damage
+Elemental Mastery
+ATK %
+Energy Recharge
+Other Artifacts Sets
+2
+°
+4x
+Shimenawa's Reminiscence
+3
+°
+4x
+Instructor
+Amber
+Talent Priority
+1
+°
+Normal Attack
+2
+°
+Elemental Burst
+3
+°
+Elemental Skill
+Amber
+Best Teams
+Time #
+1
+Sub-DPS
+Sub-DPS
+Support
+Support
+Amber
+Rosaria
+Bennett
+Diona
+Time #
+2
+Main DPS
+Support
+Sub-DPS
+Support
+Hu Tao
+Amber
+Xingqiu
+Sucrose
+Amber
+Ascension Costs
+Cost
+5
+→
+6
+120
+K
+Agnidus Agate Gemstone
+6
+Everflame Seed
+20
+Small Lamp Grass
+60
+Weathered Arrowhead
+24
+Amber
+Talents Costs
+Cost
+9
+→
+10
+700
+K
+Philosophies of Freedom
+16
+Weathered Arrowhead
+12
+Dvalin's Sigh
+2
+Crown of Insight
+1
+Amber
+Talents
+Normal Attack
+Sharpshooter
+Normal Attack
+Performs up to 5 consecutive shots with a bow.
+Charged Attack
+Performs a more precise
+Aimed Shot
+with increased DMG.
+While aiming, flames will accumulate on the arrowhead. A fully charged flaming arrow will deal
+Pyro DMG
+.
+Plunging Attack
+Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.
+Elemental Skill
+Explosive Puppet
+The ever-reliable Baron Bunny takes the stage.
+Baron Bunny
+·Continuously taunts the enemy, drawing their fire.
+·Baron Bunny's HP scales with Amber's Max HP.
+·When destroyed or when its timer expires, Baron Bunny explodes, dealing
+AoE Pyro DMG
+.
+Hold
+Adjusts the throwing direction of Baron Bunny.
+The longer the button is held, the further the throw.
+Baron Bunny hails from a storied lineage, but Amber has stopped keeping count since Baron Bunny the 893rd.
+Elemental Burst
+Fiery Rain
+Fires off a shower of arrows, dealing continuous
+AoE Pyro DMG
+.
+Amber's passion truly burns hot.
+Amber
+Passives
+Passive
+1
+Every Arrow Finds Its Target
+Increases the CRIT Rate of
+Fiery Rain
+by 10% and widens its AoE by 30%.
+Passive
+2
+Precise Shot
+Aimed Shot hits on weak points increase ATK by 15% for 10s.
+Passive
+3
+Gliding Champion
+Decreases gliding Stamina consumption for your own party members by 20%.
+Not stackable with Passive Talents that provide the exact same effects.
+Amber
+Constellations
+C
+1
+One Arrow to Rule Them All
+Fires 2 arrows per
+Aimed Shot
+. The second arrow deals 20% of the first arrow's DMG.
+C
+2
+Bunny Triggered
+Baron Bunny, new and improved! Hitting Baron Bunny's foot with a fully-charged Aimed Shot manually detonates it.
+Explosion via manual detonation deals 200% additional DMG.
+C
+3
+It Burns!
+Increases the Level of
+Fiery Rain
+by 3.
+Maximum upgrade level is 15.
+C
+4
+It's Not Just Any Doll...
+Decreases
+Explosive Puppet
+'s CD by 20%. Adds 1 additional charge.
+C
+5
+It's Baron Bunny!
+Increases the Level of
+Explosive Puppet
+by 3.
+Maximum upgrade level is 15.
+C
+6
+Wildfire
+Fiery Rain
+increases all party members' Movement SPD by 15% and ATK by 15% for 10s.

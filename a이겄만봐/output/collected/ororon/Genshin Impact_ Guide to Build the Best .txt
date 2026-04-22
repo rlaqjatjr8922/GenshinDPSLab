@@ -1,0 +1,94 @@
+Ororon, a 4-star Electro bow user, made his debut in Genshin Impact Version 5.2 alongside Chasca. This versatile sub-DPS excels at delivering consistent off-field damage and bolstering his team through potent Electro-based abilities. His unique kit centers on his Elemental Skill and Elemental Burst, both designed to inflict steady damage while offering utility by redirecting enemy attention away from the active character. For players aiming to optimize Ororon’s impact, this comprehensive guide outlines the best weapons, artifacts, and team compositions to fully harness his potential.
+Table of Contents
+Toggle
+Best Weapons for Ororon
+Best Artifacts and Stats for Ororon
+Best Team Compositions for Ororon
+1. Electro-Charged Team
+2. Hyperbloom Team
+3. F2P Reaction Team
+Skill Priority for Ororon
+Conclusion
+Best Weapons for Ororon
+Selecting the ideal weapon is fundamental to building a powerful Ororon. As an off-field sub-DPS, his weapon choices should prioritize boosting Energy Recharge, CRIT Rate, CRIT Damage, and overall damage output to maximize his frequent Elemental Skill and Burst usage.
+Elegy for the End
+(5-star): This is arguably Ororon’s premier weapon. It provides a substantial Energy Recharge substat, crucial for maintaining his Burst uptime. Its unique passive significantly boosts the team’s Elemental Mastery and Attack after Ororon’s Skill or Burst hits, making it perfect for enhancing both his personal damage and party-wide support in reaction-focused teams.
+Aqua Simulacra
+(5-star): An excellent alternative if Elegy for the End isn’t available. This bow offers an impressive CRIT Damage substat and a passive that grants a significant damage bonus when enemies are nearby, directly elevating Ororon’s personal damage contribution from off-field.
+Stringless
+(4-star): A highly recommended 4-star option. It provides Elemental Mastery as its substat, which is invaluable for reaction damage. Crucially, its passive increases Elemental Skill and Elemental Burst damage, perfectly aligning with Ororon’s core damage sources.
+Fading Twilight
+(4-star): This F2P-friendly option offers Energy Recharge, ensuring consistent Burst availability. Its passive provides a fluctuating damage bonus that cycles between different tiers, offering reliable damage amplification for Ororon’s off-field capabilities.
+Alley Hunter
+(4-star): A strong choice for boosting personal damage. Its passive increases damage when the character is off-field, which suits Ororon’s playstyle perfectly. This bow offers a direct damage increase that scales well as he supports from the sidelines.
+Best Artifacts and Stats for Ororon
+To fully realize Ororon’s capabilities, equipping the correct artifact set and focusing on specific stats is paramount. The “Scroll of the Hero of Cinder City” (as described in the outline) is tailored to amplify his support and damage.
+2-piece bonus:
+This part of the set facilitates Elemental Energy recovery when any party member triggers a Nightsoul Burst. For Ororon, this translates into more frequent Burst usage, ensuring he can consistently apply Electro and provide his buffs.
+4-piece bonus:
+This is where the set truly shines for Ororon. After he triggers a reaction with his Electro element, all party members gain a 12% Elemental DMG bonus for 15 seconds. If Ororon is under the “Nightsoul’s Blessing” state when the reaction occurs, this bonus escalates to a potent 28% for 20 seconds, even when he’s off-field. This makes him an exceptional buffer, significantly increasing the team’s overall damage.
+When selecting main stats for Ororon’s artifacts, prioritize the following:
+Sands:
+Energy Recharge
+. This is critical to ensure his powerful Elemental Burst is available as often as possible.
+Goblet:
+Electro DMG Bonus
+. This directly enhances the damage output of all his Electro abilities, making his off-field contributions more impactful.
+Circlet:
+CRIT Rate
+or
+CRIT DMG
+. The choice here depends on your current artifact sub-stats; aim for a balanced 1:2 CRIT Rate to CRIT DMG ratio for consistent critical hits.
+For sub-stats, focus on:
+Energy Recharge
+: To meet his energy requirements.
+CRIT Rate / CRIT DMG
+: To boost his damage consistency and critical hit potential.
+ATK%
+: A general damage increase that benefits all his abilities.
+Elemental Mastery
+: Especially valuable in reaction-focused teams.
+Best Team Compositions for Ororon
+Ororon’s versatility as an off-field Electro sub-DPS allows him to integrate effectively into a diverse range of team compositions. His abilities pair particularly well with other Natlan characters who can trigger Nightsoul Bursts, but he’s also an excellent addition to teams from other regions.
+1. Electro-Charged Team
+Ororon
+(Electro Sub-DPS): Provides continuous off-field Electro application and damage.
+Chasca
+(Main DPS): Drives the team’s damage, benefiting from Ororon’s Electro and support.
+Furina
+(Hydro Support): Offers potent Hydro application for consistent Electro-Charged reactions and provides healing/buffs.
+Bennett
+(Pyro Support/Healer): Supplies a significant ATK buff within his Burst field and crucial healing, enhancing the team’s overall damage and survivability.
+This setup leverages Ororon’s Electro alongside Furina’s Hydro for constant Electro-Charged reactions, amplified by Chasca’s main damage output and Bennett’s powerful buffs.
+2. Hyperbloom Team
+Ororon
+(Electro Trigger/Sub-DPS): Activates Hyperbloom reactions by applying Electro to Dendro Cores.
+Neuvillette
+(Hydro Main DPS): Provides immense Hydro application and personal damage, generating numerous Dendro Cores.
+Nahida
+(Dendro Applicator/Enabler): Applies consistent Dendro from off-field, facilitating Dendro Core generation.
+Furina
+(Hydro Support/Healer): Offers additional Hydro application for more cores and sustain, complementing Neuvillette’s role.
+Here, Ororon’s rapid Electro application is key to triggering a high volume of Hyperbloom reactions, turning Dendro Cores generated by Neuvillette, Nahida, and Furina into powerful projectiles.
+3. F2P Reaction Team
+Ororon
+(Electro Sub-DPS): Provides reliable off-field Electro for various elemental reactions.
+Kaeya
+(Cryo Main DPS) or
+Gaming
+(Pyro Main DPS): F2P friendly main damage dealers who benefit from Ororon’s Electro for Superconduct, Overload, or Electro-Charged reactions.
+Xingqiu
+(Hydro Sub-DPS): Offers consistent off-field Hydro application, enabling Electro-Charged or Vaporize reactions.
+Bennett
+(Pyro Support/Healer): A vital F2P support, providing an ATK buff and healing that significantly boosts the team’s damage and survivability.
+This budget-friendly team utilizes Ororon to enable a variety of powerful elemental reactions with easily accessible characters, ensuring high damage output and versatility.
+Skill Priority for Ororon
+Optimizing Ororon’s talents ensures his maximum effectiveness as an off-field sub-DPS. His Elemental Skill and Elemental Burst are his primary tools for damage and support, while his Normal Attack holds less significance.
+Elemental Skill (Highest Priority):
+Ororon’s Elemental Skill should be leveled first. This ability allows him to swiftly deal Electro damage and is crucial for his energy generation, which directly fuels his Elemental Burst. Enhancing his Skill improves its damage output and its capacity to create Electro particles, making his entire kit more fluid and efficient. Prioritizing his Skill ensures he can consistently contribute to reactions and maintain good energy uptime.
+Elemental Burst (Second Priority):
+Following the Elemental Skill, Ororon’s Elemental Burst should be the next talent to invest in. His Burst provides consistent off-field damage over time and offers valuable utility by diverting enemy attention. Leveling it up increases its damage per tick and improves the effectiveness of its unique distraction mechanic. A stronger Burst means more reliable damage contribution and better crowd control utility from off-field.
+Normal Attack (Lowest Priority):
+Ororon’s Normal Attack talent can generally be left unleveled. As an off-field sub-DPS, Ororon spends very little time on the field performing normal attacks. His main damage and support come from his Elemental Skill and Burst, making investment in his Normal Attack talent largely inefficient for his intended role.
+Conclusion
+Ororon stands out as an exceptional off-field Electro sub-DPS, capable of inflicting consistent damage and providing valuable support to his team through powerful buffs. By meticulously selecting the correct weapon, optimizing his artifact sets for specific stats, and pairing him with synergistic team members, Ororon can unlock his full potential and become an indispensable asset in almost any combat scenario. Whether integrated into an Electro-Charged composition, a devastating Hyperbloom setup, or a versatile F2P friendly team, his proficiency in triggering potent reactions and his strong supportive capabilities make him a brilliant addition to any Genshin Impact roster. Mastering Ororon allows players to significantly elevate their team’s overall performance and experience the depth of his strategic utility.

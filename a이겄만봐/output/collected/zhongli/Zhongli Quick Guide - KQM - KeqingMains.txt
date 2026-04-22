@@ -1,0 +1,319 @@
+Updated for Version “Luna II”
+Zhongli is a 5-star Geo Polearm character in
+Genshin Impact
+who provides the strongest shield in the game. Learn about Zhongli’s best builds, artifacts, weapons, and teams in this quick guide.
+The full-length guide is available
+here
+.
+Join our
+Discord
+to check on and participate in the theorycrafting process.
+Table of Contents
+New Content
+Infographic
+Character Overview
+Playstyles
+Talents
+Constellations
+Artifacts
+ER Requirements
+Artifact Stats
+Artifact Sets
+Weapons
+Teams
+Shielder
+Example Teams
+Credits
+New Content
+4pc Silken Moon’s Serenade
+This is a niche 4pc set that is a minor upgrade over 4pc Instructor in teams with at least 2 Nod-Krai characters.
+4pc Scroll of the Hero of Cinder City
+4pc Scroll can be a solid support set if no one else on the team can hold it. Usually, 4pc Archaic Petra or 4pc TotM are still better options.
+Infographic
+Credits to: euphorysm, snowwwwww., and KQM Staff
+Character Overview
+Playstyles
+Shielder (Shieldbot)
+By far the most recommended playstyle for using Zhongli. A shield-focused build wants to maximize his HP to maintain the shield. Zhongli is the best pure shielder in the game due to his shield’s strength and uptime.
+This Zhongli guide does not cover the following playstyles in-depth. Please refer to the
+Zhongli Extended Guide
+for more information.
+Burst Support
+In most situations, it is not recommended to use Zhongli’s Burst because of its long animation and low damage output. However, at C2 or with very high investment, Zhongli can become a viable Burst support in addition to his general shielder playstyle.
+Physical DPS (Pikeli)
+Physical DPS Zhongli possesses underwhelming personal damage. Pikeli can be viable if Zhongli acts as a driver for strong teammates or has a high-investment build against a single enemy.
+Hybrid DPS (Hybridli)
+Hybrid DPS Zhongli is a variant of Physical DPS Zhongli that trades some of his Physical damage for some AoE Geo damage. While being able to offer more AoE damage than Pikeli, it still possesses underwhelming personal damage and requires rather high investments. Hybridli is a build only recommended for players who want to make use of the entirety of his kit.
+Geo Construct DPS (Microwave)
+Zhongli can use his Stone Stele resonance to deal AoE damage in conjunction with Geo Traveler’s Geo Constructs. While Traveler is the most common and recommended teammate, other Geo characters like Albedo and Ningguang place Geo Constructs that resonate with Zhongli’s Stele.
+This playstyle also requires you to know how to position Geo Constructs accurately and struggles against highly mobile enemies or bosses who can destroy the constructs.
+Talents
+Level and Talent Priority
+Elemental Skill
+In Zhongli’s recommended playstyle as a pure shielder, he only needs to level his Elemental Skill. Leveling him to 90 maximizes his effective shield HP, but this is a lower priority after reaching 80/90.
+If you want to play Burst Support, then you should level his Burst equally to his Skill.
+If you want to play Physical DPS, then you should prioritize his Normal Attack Talent.
+Talent Overview
+Normal Attack
+Elemental Skill
+Elemental Burst
+Ascension 1 Passive
+Ascension 4 Passive
+Normal Attack
+Normal Attack
+|
+Rain of Stone
+Talent Description
+Normal Attack
+Performs up to 6 consecutive spear strikes.
+Charged Attack
+Consumes a certain amount of Stamina to lunge forward, causing stone spears to fall along his path.
+Plunging Attack
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Zhongli’s Normal Attacks are among the fastest in the game. This, along with the multi-hit on his N5, makes him a good driver and excellent user of Crescent Pike in a Physical DPS playstyle. His Normal Attacks also allow many chances to land a CRIT Hit and trigger Favonius Lance’s passive.
+Elemental Skill
+Elemental Skill |
+Dominus Lapidis
+Talent Description
+Press
+Commands the power of earth to create a Stone Stele.
+Hold
+Causes nearby Geo energy to explode, causing the following effects:
+If their maximum number hasn’t been reached, creates a Stone Stele.
+Creates a shield of jade. The shield’s DMG Absorption scales based on Zhongli’s Max HP.
+Deals AoE Geo DMG.
+If there are nearby targets with the Geo Element, it will drain a large amount of Geo Element from a maximum of 2 such targets. This effect does not cause DMG.
+Stone Stele
+When created, deals AoE Geo DMG. Additionally, it will intermittently resonate with other nearby Geo constructs, dealing Geo DMG to surrounding opponents. The Stone Stele is considered a Geo construct that can both be climbed and used to block attacks.
+Only one Stele created by Zhongli himself may initially exist at any one time.
+Jade Shield
+Possesses 150% DMG Absorption against all Elemental and Physical DMG. Characters protected by the Jade Shield will decrease the Elemental RES and Physical RES of opponents in a small AoE by 20%. This effect cannot be stacked.
+Zhongli’s most significant Talent is his Elemental Skill. When the Skill is tapped or held, Zhongli places a Stone Stele in front of him, which deals regular ticks of AoE Geo damage. The AoE effect resonates with other Geo Constructs in range, which allows for more instances of damage.
+When the Skill is held, Zhongli deals Geo damage, generates a Jade Shield, and produces a Stone Stele if there isn’t one already (up to two at C1). This shield shreds the Elemental and Physical RES of enemies close to the on-field character. This is usually referred to as Universal RES Shred.
+The Stone Stele’s particle generation is unreliable since each tick only has a 50% chance to generate a particle, and it is difficult to keep enemies within its AoE in practice. Furthermore, some enemies (notably bosses) easily destroy the Stele.
+Elemental Burst
+Elemental Burst |
+Planet Befall
+Talent Description
+Brings a falling meteor down to earth, dealing massive Geo DMG to opponents caught in its AoE and applying the Petrification status to them.
+Petrification
+Opponents affected by the Petrification status cannot move.
+Zhongli’s Elemental Burst possesses a long animation that often results in a DPS loss. Nonetheless, his Burst can be used to petrify enemies and dodge attacks (since he is invulnerable to damage during its animation).
+Ascension 1 Passive
+Ascension 1 Passive |
+Resonant Waves
+Talent Description
+When the Jade Shield takes DMG, it will Fortify:
+Fortified characters have 5% increased Shield Strength.
+Can stack up to 5 times, and lasts until the Jade Shield disappears.
+This A1 Passive increases the active character’s Shield Strength when the Jade Shield takes damage. The stacks on this passive persist between character swaps, but they are reset if the shield is refreshed.
+Ascension 4 Passive
+Ascension 4 Passive |
+Dominance of Earth
+Talent Description
+Zhongli deals bonus DMG based on his Max HP:
+Normal Attack, Charged Attack, and Plunging Attack DMG is increased by 1.39% of Max HP.
+Dominus Lapidis’ Stone Stele, resonance, and hold DMG is increased by 1.9% of Max HP.
+Planet Befall’s DMG is increased by 33% of Max HP.
+This A4 Passive increases Zhongli’s personal damage based on his Max HP; however, ATK stats are still more valuable than HP stats for DPS-focused builds. This holds true even with considerable Flat ATK buffs from teammates or if Zhongli holds Staff of Homa.
+Constellations
+Constellation 1
+Constellation 2
+Constellation 3
+Constellation 4
+Constellation 5
+Constellation 6
+Constellation 1
+Constellation 1 |
+Rock, the Backbone of Earth
+Increases the maximum number of Stone Steles created by Dominus Lapidis that may exist simultaneously to 2.
+Zhongli’s first Constellation lets him place up to two Stone Steles on the field; however, his Skill cooldown does not change and there are not multiple charges.
+While this Constellation doesn’t double the amount of particles the Stele generates, it does increase the likelihood of generating particles as an additional Stele increases the chances of hitting opponents, indirectly improving Zhongli’s energy regeneration.
+Constellation 2
+Constellation 2 |
+Stone, the Cradle of Jade
+Planet Befall grants nearby characters on the field a Jade Shield when it descends.
+This Constellation lets Zhongli summon a Jade Shield with his Burst. At C2, Zhongli’s Burst also summons shields for allies in Co-Op.
+Constellation 3
+Constellation 3 |
+Jade, Shimmering through Darkness
+Increases the Level of Dominus Lapidis by 3.
+Maximum upgrade level is 15.
+Increases Zhongli’s effective shield HP and Skill damage.
+Constellation 4
+Constellation 4 |
+Topaz, Unbreakable and Fearless
+Increases Planet Befall’s AoE by 20% and increases the duration of Planet Befall’s Petrification effect by 2s.
+A quality-of-life upgrade. This gives Zhongli’s Burst slightly more value since enemies are petrified for 2s longer.
+Constellation 5
+Constellation 5 |
+Lazuli, Herald of the Order
+Increases the Level of Planet Befall by 3.
+Maximum upgrade level is 15.
+Increases Zhongli’s Burst damage.
+Constellation 6
+Constellation 6 |
+Chrysos, Bounty of Dominator
+When the Jade Shield takes DMG, 40% of that incoming DMG is converted to HP for the current character. A single instance of regeneration cannot exceed 8% of that character’s Max HP.
+Zhongli’s final Constellation is rather redundant since his shield is enough to avoid taking damage in most circumstances. Against Corrosion, however, his C6 becomes more helpful.
+This final Constellation can increase Zhongli’s viability with units that hold 4pc Marechausee Hunter (like Lyney) since these DPS units often inflict self-damage that they can heal back with Zhongli’s C6 effect if necessary. However, this healing is antagonistic to Hu Tao since it can deactivate her A4 passive.
+Artifacts
+ER Requirements
+Zhongli does not use his Burst in his common shielder playstyle. Refer to these ER requirements for a Burst support build only.
+Burst Every Other Rotation
+100–110%
+Burst Every Rotation (1 Other Geo)
+120–140%
+Burst Every Rotation (No Other Geo)
+175–220%
+Use the
+Energy Recharge Calculator
+to determine exact requirements for your team and rotation.
+Artifact Stats
+The following stat priorities are for a shielder playstyle. It is not worth investing into pure shielder Zhongli’s personal damage when you can put those resources towards your team’s DPS units.
+Sands
+Goblet
+Circlet
+HP%
+HP%
+HP% or CRIT Rate
+Substats:
+HP% > CRIT Rate (if using Favonius Lance) > Flat HP
+CRIT Rate is only necessary when using Favonius Lance. If you weave in a few Normal Attacks, you only need about 30% CRIT Rate at R5 to proc it 75% of the time.
+Artifact Sets
+This section focuses on maximizing Zhongli’s support utility. For DPS artifact sets, see the
+Zhongli Extended Guide
+.
+Rainbow
+Any artifacts that provide the most HP stats for Zhongli work well enough since he doesn’t rely on set effects in his kit.
+2pc HP% + 2pc HP%
+Provides the strongest shield for Zhongli in terms of effective HP.
+4pc Tenacity of the Millelith
+While Zhongli may seem like an ideal user of this set, his Stele’s limited range prevents him from using this set effectively in a lot of circumstances. However, if your team’s DPS unit can snapshot the 4pc ATK% buff, then it can be viable since Zhongli still procs the effect by using his Hold Skill.
+4pc Archaic Petra
+Zhongli has to personally pick up the desired Elemental Shard to trigger 4pc Archaic Petra’s set bonus for that Element. This can be difficult to accommodate in practice without increasing rotation time. Despite this, the buff does apply to every teammate when you can activate it.
+4pc Deepwood Memories
+Zhongli can use this set in Dendro teams since his Hold Skill and Stele can trigger the 4pc set effect. The 8s uptime on the buff is more forgiving; however, maintaining 100% uptime can be difficult given the Stele’s limited range.
+4pc Instructor
+This is a niche set that only benefits specific teams. It often requires altered rotations that make it not worth the hassle in most cases.
+4pc Silken Moon’s Serenade
+This is a niche 4pc set that is a minor upgrade over 4pc Instructor in teams with at least 2 Nod-Krai characters.
+4pc Scroll of the Hero of Cinder City
+4pc Scroll can be a solid support set if no one else on the team can hold it. Usually, 4pc Archaic Petra or 4pc TotM are still better options.
+Weapons
+Favonius Lance
+Favonius Lance increases Zhongli’s utility by providing the team with particles which lower ER requirements. The passive does not proc off-field and you need to build some CRIT Rate to trigger it more consistently.
+Black Tassel
+This 3-star Polearm provides the highest HP% secondary stat among Polearms and is easy to obtain. It is Zhongli’s best option for maximum shield health.
+Teams
+Rotation Notation
+N = Normal Attack
+C = Charged Attack
+A = Aimed Shot
+P = Plunging Attack
+E = Elemental Skill
+tE = Tap Skill
+hE = Hold Skill
+Q = Elemental Burst
+D = dash (cancel)
+J = jump (cancel)
+W = walk (cancel)
+> = switch character
+( ) = these actions are optional; please refer to the notes below
+[ ] = repeat these actions the specified number of times
+Shielder
+Zhongli — Flex — Flex — Flex
+Zhongli is extremely versatile as the best shielder in the game. The Universal RES Shred from his shield allows him to be useful in a variety of teams. Some DPS characters really need a shield for resistance to interruption like Hu Tao, Lyney, Xiao, Yoimiya, and Wanderer.
+Compared to a 4pc Viridescent Venerer user, Zhongli is about 10% worse in terms of damage gains for relevant Elemental DPS characters, but his shield may make him more valuable if you lack an appropriate healer and need the survivability.
+Example Teams
+This is not a comprehensive list of teams. The inclusion or exclusion of any given team does not necessarily reflect its power level.
+Zhongli —
+Hu Tao
+—
+Xingqiu
+—
+Yelan
+This Hu Tao team deals significant single-target damage. Hu Tao enjoys Zhongli’s shield due to her HP reduction after using her Skill. This team’s rotation can allow either one or two uses of Yelan’s Skill.
+Sample Rotation (1 Yelan Skill)
+Xingqiu Q E N2 > Zhongli hED N1 > Yelan Q E N3¹ > Hu Tao
+combo
+¹Catch particles.
+Alternatively, you can cast Zhongli’s Hold Skill right before Hu Tao’s combo to provide the highest 4pc Instructor uptime for Hu Tao. Zhongli can also hold 4pc Petra to buff Xingqiu and Yelan, in which case he should go on-field after one of the Hydro characters to generate and pick up a Shard.
+For more rotation variations, see the
+Hu Tao Extended Guide
+.
+Zhongli —
+Itto
+—
+Albedo
+—
+Gorou
+A classic Mono Geo team. Itto appreciates Zhongli’s shield for the consistent Geo Resonance buff, Geo RES Shred, and defensive utility. Chiori can replace Albedo.
+Sample Rotation
+Zhongli hED > Gorou EQ > Albedo E > Itto
+combo
+Zhongli —
+Xiao
+—
+Faruzan
+—
+Bennett
+Xiao enjoys a strong shielder to avoid getting staggered, which makes Zhongli a nice option. The Anemo RES Shred provided by Zhongli’s shield also boosts Xiao’s damage. Faruzan should be C6 since it lowers her ER requirements and buffs Xiao’s damage considerably.
+Sample Rotation
+Zhongli hE > Faruzan EQ > Bennett EQ > Xiao 2[E]Q
+combo
+> Bennett E
+Zhongli —
+Lyney
+—
+Kazuha
+—
+Bennett
+As a Charged Shot DPS, Lyney requires interruption resistance to avoid being staggered out of his charging animation. In this team specifically, using Kazuha’s Burst is a DPS loss in single-target scenarios; skipping the Burst allows Lyney to fit one more Charged Shot in the rotation.
+Sample Rotation
+Zhongli hED > Bennett EQ > Kazuha tEP > Lyney 3–4[C] (Q / C)¹ E
+¹Lyney should use his Burst every other rotation. When his Burst is down, he can use a sixth Charged Shot before casting his Skill.
+Zhongli —
+Neuvillette
+—
+Furina
+—
+Kazuha
+Zhongli provides interruption resistance and RES Shred, both of which Neuvillette appreciates. Zhongli can also hold 4pc Archaic Petra and generate Hydro Crystallize shards to trigger its set effect. This is one of Neuvillette’s premier teams at both low and high investment.
+Sample Rotation
+Neuvillette E > Furina ED > Kazuha tEPQ > Zhongli hED¹ > Furina Q > Neuvillette C E C Q > Kazuha tEP > Neuvillette 2[C]
+¹Pick up a Hydro Crystallize shard if Zhongli holds 4pc Archaic Petra.
+Zhongli —
+Navia
+—
+Fischl
+—
+Bennett
+One of Navia’s best teams. She greatly appreciates Zhongli’s shield and Geo RES Shred. Using a Normal Attack after Zhongli’s Hold Skill helps trigger Favonius Lance’s passive and pre-funnel more particles to Navia.
+Sample Rotation
+Zhongli hED N1 > Navia Q > Bennett EQ > Fischl E/Q > Navia E N3D N2 E N3D N2 > Bennett E N1
+Zhongli —
+Arlecchino
+—
+Yelan
+—
+Bennett
+Arlecchino appreciates Zhongli’s strong shield, Pyro RES Shred, and interruption resistance, especially at C0.
+Sample Rotation
+Arlecchino E > Yelan EQ N1 > Zhongli hED N1 > Bennett EQ > Arlecchino N3C 6[N3D]
+Zhongli —
+Mualani
+—
+Xiangling
+—
+Kazuha
+Mualani enjoys Zhongli’s interruption resistance, RES Shred, and 4pc set bonuses. Furthermore, Zhongli’s pillar doesn’t apply enough Geo to ruin her Forward Vape.
+Sample Rotation
+Mualani N1 > Zhongli hED¹ > Kazuha tEP > Xiangling Q E > Mualani E combo Q > Mualani N1 > Zhongli hED¹ > Kazuha tEP > Xiangling ED > Kazuha (Q)² > Mualani E combo
+¹Pick up a Hydro Crystallize shard if Zhongli holds 4pc Archaic Petra.
+²Use in multi-target scenarios or when fighting mobile enemies.
+Credits
+irokei, polomo, mina, Leah, nikatosaurus, whale role, cuppacote, haafr, pi45, caxia5
+Team images courtesy of the
+KQM portrait generator
+.

@@ -1,0 +1,512 @@
+Genshin Impact Razor Best Team Guide
+Last updated April 22, 2026. Looking for the best Razor teams in
+        Genshin Impact? Start with the top team summary below, then pick the
+        lineup that fits your roster.
+This page provides the best Razor Team information. Razor is Main DPS in most of the situation. Razor best team can be formed in different ways including Superconduct, Electro-Charged and Overload team. You can choose your own best team according to your build and character.
+View Razor's character page
+Razor Team Summary
+#1
+Team Rating:S
+Razor Overload Chevreuse Bennett Durin Hypercarry
+#2
+Team Rating:S
+Razor Overload S+ Team with Fischl, Durin, Bennett
+#3
+Team Rating:S
+Razor Overload Hexerei S+ Team
+#4
+Team Rating:S
+Razor Plunge Attack Team
+#5
+Team Rating:S
+Razor Lunar-Charged Hexerei Team
+#6
+Team Rating:S
+Razor Lunar-Charged S+ Team
+#1 Razor Overload Chevreuse Bennett Durin Hypercarry
+Tier S
+Razor is the Main DPS in this Overload team, enabled by Chevreuse's Pyro/Electro RES shred and Bennett's huge ATK buff and healing. Durin provides off-field Pyro application and additional reaction/support value, especially with Hexerei synergy.
+Razor
+Main DPS
+Electro
+Main on-field carry. Uses Normal Attacks with his Burst to deal sustained Electro DMG and trigger Overload with Pyro teammates.
+Artifacts
+Gladiator's Finale
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+A Thousand Blazing Suns
+Fang of the Mountain King
+Serpent Spine
+Durin
+Sub DPS
+Pyro
+Off-field Pyro enabler and reaction support. Prefer the support-focused state for continuous Pyro DMG and RES reduction; Hexerei teammates further strengthen his effects.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / Energy Recharge / ATK%
+Weapons
+Athame Artis
+Wolf-Fang
+Chevreuse
+Support
+Pyro
+Key support for Overload teams. Her passive reduces Pyro and Electro RES when Overload triggers, and her Skill grants an ATK buff to Pyro/Electro teammates while providing partial healing.
+Artifacts
+Song of Days Past
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / CRIT Rate / Energy Recharge
+Weapons
+Staff of Homa
+Favonius Lance
+Bennett
+Support
+Pyro
+Provides a massive ATK buff and healing through his Burst. Core buffer for Razor, and his Noblesse set further boosts team ATK.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+Energy Recharge
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+Energy Recharge
+Weapons
+Aquila Favonia
+The Alley Flash
+#2 Razor Overload S+ Team with Fischl, Durin, Bennett
+Tier S
+Razor on-field Overload team with strong Electro off-field damage, Pyro resonance-style buffing, and Bennett healing/ATK support. Durin provides off-field Pyro application and RES shred utility, while Fischl adds consistent Electro damage and extra team buffs.
+Razor
+Main DPS
+Electro
+On-field carry. Razor’s Burst summons the Wolf Within, which attacks alongside his Normal Attacks with Electro DMG while increasing his ATK SPD and Electro RES. In Hexerei teams, Razor also gains additional Burst and lightning strike effects from Electro Sigil overflow.
+Artifacts
+Gladiator's Finale
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+A Thousand Blazing Suns
+Serpent Spine
+Fischl
+Sub DPS
+Electro
+Off-field Electro enabler. Oz continuously attacks nearby enemies with Electro DMG. In Hexerei teams, Oz also provides extra team buffs, including ATK from Overloaded triggers and Elemental Mastery from Electro-Charged or Lunar-Charged triggers.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Aqua Simulacra
+Sacrificial Bow
+Durin
+Support
+Pyro
+Off-field Pyro support with flexible burst states. Confirmation of Purity focuses on utility, enabling continuous off-field Pyro DMG and RES shred for Pyro and related elements when allies trigger Burning, Overloaded, Pyro Swirl, or Pyro Crystallize. Denial of Darkness offers higher personal damage and stronger reaction scaling, especially in Vaporize or Melt teams. Hexerei teammates further strengthen both modes.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / Energy Recharge / ATK%
+Weapons
+Athame Artis
+Wolf-Fang
+Bennett
+Support
+Pyro
+Healer and ATK buffer. Bennett’s Burst provides a huge ATK buff and healing to the team.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+Energy Recharge
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+Energy Recharge
+Weapons
+Aquila Favonia
+The Alley Flash
+#3 Razor Overload Hexerei S+ Team
+Tier S
+Razor Overload team centered around
+Razor
+as the on-field carry, with strong off-field Electro damage, ATK buffs, and healing. The guide specifically mentions
+Hexerei
+synergy and teamwide benefits from having at least 2 Hexerei characters.
+Razor
+Main DPS
+Electro
+On-field carry. Razor's Burst summons the Wolf Within, attacking alongside his Normal Attacks with Electro DMG while increasing ATK SPD and Electro RES. In this team, Hexerei synergy further empowers his Burst and can trigger extra lightning strikes and Energy restoration when his Electro Sigils overflow.
+Artifacts
+Gladiator's Finale
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+A Thousand Blazing Suns
+Serpent Spine
+Fischl
+Sub DPS
+Electro
+Off-field Electro applicator. Oz continuously attacks nearby enemies with Electro DMG. With 2+ Hexerei characters, Oz also provides extra team buffs, including ATK from Overloaded triggers and Elemental Mastery from Electro-Charged/Lunar-Charged triggers.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Aqua Simulacra
+Sacrificial Bow
+Albedo
+Sub DPS
+Geo
+Off-field Geo damage and additional team utility. Solar Isotoma deals AoE Geo damage, generates Transient Blossoms, and boosts nearby allies' Elemental Mastery. In 2+ Hexerei teams, his Skill creates Silver Isotomas and grants stronger all-round damage buffs that scale with DEF.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+DEF%
+Goblet
+Geo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / DEF% / ATK%
+Weapons
+Uraku Misugiri
+Wolf-Fang
+Bennett
+Support
+Pyro
+Healer and ATK buffer. Bennett's Burst provides huge ATK buff and healing to the team.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+Energy Recharge
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+Energy Recharge
+Weapons
+Aquila Favonia
+The Alley Flash
+#4 Razor Plunge Attack Team
+Tier S
+Razor
+is the Main DPS.
+Xianyun enables Plunging Attacks and provides healing, Furina adds off-field Hydro damage and team damage buffs, and Rosaria offers Cryo off-field damage plus Crit Rate support.
+Razor
+Main DPS
+Electro
+Main on-field carry. Razor’s Burst summons the Wolf Within, which attacks alongside his Normal Attacks with Electro DMG while increasing his ATK SPD and Electro RES. If the party includes at least 2 Hexerei characters, he gains the Hexerei: Secret Rite effect, further enhancing Hexerei characters and empowering his Burst. While the Wolf Within is active, if the Electro Sigils from Razor’s Elemental Skill overflow, it calls down lightning strikes on nearby enemies, dealing AoE Electro DMG and restoring Energy to Razor.
+Artifacts
+Long Night's Oath
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+A Thousand Blazing Suns
+Serpent Spine
+Furina
+Sub DPS
+Hydro
+Off-field Hydro applier and damage buffer. Furina’s Elemental Skill provides continuous Hydro Element application. Her Elemental Burst increases team damage based on HP changes, which can be enabled by her Skill draining allies’ HP and then restored by a healer.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Favonius Sword
+Xianyun
+Support
+Anemo
+Healer and Plunging Attack enabler. Xianyun provides team healing and boosts allies’ Plunging Attacks.
+Artifacts
+Gladiator's Finale
+Shimenawa's Reminiscence
+Main Stats
+Sands
+Energy Recharge
+Goblet
+ATK%
+Circlet
+ATK%
+Substats
+Energy Recharge / ATK% / CRIT Rate
+Weapons
+Crane's Echoing Call
+Favonius Codex
+Rosaria
+Sub DPS
+Cryo
+Off-field Cryo support. Rosaria can increase teammates’ Crit Rate based on her own and her Elemental Burst summons an Ice Lance that periodically deals AoE Cryo DMG.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Cryo DMG
+Circlet
+CRIT Rate
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Favonius Lance
+#5 Razor Lunar-Charged Hexerei Team
+Tier S
+Razor
+is the on-field Main DPS, enabled for Lunar-Charged by
+Ineffa
+.
+Xianyun
+provides healing and Plunging Attack support, while
+Aino
+adds Hydro application and Burst utility. Strong team for sustained Electro-Charged/Lunar-Charged damage with supportive uptime and safety.
+Razor
+Main DPS
+Electro
+On-field driver and main source of damage. His Burst summons
+Wolf Within
+, attacking alongside Normal Attacks with Electro DMG while increasing ATK SPD and Electro RES. With 2 Hexerei characters, Razor gains
+Hexerei: Secret Rite
+, further enhancing Hexerei characters and empowering his Burst. During Burst, Electro Sigil overflow triggers extra lightning strikes and Energy restoration.
+Artifacts
+Long Night's Oath
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+A Thousand Blazing Suns
+Serpent Spine
+Ineffa
+Support
+Electro
+Provides shield utility and enables
+Lunar-Charged
+by converting Electro-Charged reactions. Her damage scaling is based on ATK, and her Skill summons
+Birgitta
+, who triggers additional attacks from Lunar-Charged reactions. Her Burst also increases the active character’s Elemental Mastery.
+Artifacts
+Silken Moon's Serenade
+Main Stats
+Sands
+ATK%
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Fractured Halo
+Ballad of the Fjords
+Xianyun
+Support
+Anemo
+Provides healing and boosts allies’ Plunging Attacks, helping Razor maintain uptime and adding team utility.
+Artifacts
+Gladiator's Finale
+Shimenawa's Reminiscence
+Main Stats
+Sands
+Energy Recharge
+Goblet
+ATK%
+Circlet
+ATK%
+Substats
+Energy Recharge / ATK% / CRIT Rate
+Weapons
+Crane's Echoing Call
+Favonius Codex
+Aino
+Support
+Hydro
+Hydro applicator and Burst support. Her Elemental Burst summons
+Cool Your Jets Ducky
+to deal continuous Hydro DMG, helping sustain Electro-Charged and Lunar-Charged reactions.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / Energy Recharge
+Weapons
+Flame-Forged Insight
+#6 Razor Lunar-Charged S+ Team
+Tier S
+Razor
+is the main DPS in this Lunar-Charged team, enabling consistent Electro-Charged/Lunar-Charged damage with strong off-field Hydro support and shielding. The team benefits from Razor’s Burst uptime and Hexerei synergy when available.
+Razor
+Main DPS
+Electro
+On-field driver and main damage dealer. Razor’s Burst summons the Wolf Within, attacking alongside his Normal Attacks with Electro DMG while boosting ATK SPD and Electro RES. When paired with at least 2 Hexerei characters, he gains
+Hexerei: Secret Rite
+, further empowering the team. During Burst, overflow Electro Sigils can trigger lightning strikes for extra AoE Electro DMG and Energy restoration.
+Artifacts
+Long Night's Oath
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+A Thousand Blazing Suns
+Serpent Spine
+Ineffa
+Support
+Electro
+Shield provider and Lunar-Charged enabler. Ineffa converts Electro-Charged into
+Lunar-Charged
+, with reaction damage scaling from her ATK. Her Skill provides a shield and summons Birgitta, while Lunar-Charged reactions can trigger additional attacks. Her Burst grants Elemental Mastery to the active character.
+Artifacts
+Silken Moon's Serenade
+Main Stats
+Sands
+ATK%
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Fractured Halo
+Ballad of the Fjords
+Furina
+Sub DPS
+Hydro
+Off-field Hydro applier and damage buffer. Furina’s Skill provides continuous Hydro application, and her Burst increases team damage based on HP changes across allies. Pair her with healing to offset the HP drain from her Skill and maximize buff uptime.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Favonius Sword
+Aino
+Support
+Hydro
+Hydro support with burst-based off-field damage. Aino’s Burst summons the
+Cool Your Jets Ducky
+to deal continuous Hydro DMG, helping maintain Hydro application for reaction uptime.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / Energy Recharge
+Weapons
+Flame-Forged Insight
+Razor Teams FAQ
+What is the best Razor team in Genshin Impact?
+Razor Overload Chevreuse Bennett Durin Hypercarry is one of the strongest Razor teams right now. Use the team summary and build cards on this page to pick the best version for your account.
+What are good Razor teams without premium weapons?
+You can run strong Razor teams without signature weapons by prioritizing reaction synergy, energy consistency, and artifact main stats shown in each build card.
+Which teammates are best with Razor?
+Common high-performing partners include teams such as Razor Overload Chevreuse Bennett Durin Hypercarry, Razor Overload S+ Team with Fischl, Durin, Bennett, Razor Overload Hexerei S+ Team. Check each lineup section for role breakdowns and gear priorities.

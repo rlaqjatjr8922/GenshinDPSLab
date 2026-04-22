@@ -1,0 +1,270 @@
+Home
+Blog
+Genshin Impact Hub
+Genshin Impact Klee Builds, Weapons & Team Comps!
+Genshin Impact Klee Builds, Weapons & Team Comps!
+Alexa Hunter
+Mar 5, 2026
+Share
+Klee is a 5-star Pyro Catalyst wielder who functions as an on-field Main DPS specializing in explosive area-of-effect damage. Her kit revolves around dealing continuous Pyro damage through a combination of Normal Attacks, Charged Attacks, and her Elemental Skill's bouncing bombs. This
+Klee build guide
+covers her complete build optimization, including her talent priorities, recommended weapons and artifacts, the best team compositions, and her constellation value analysis.
+🔥 Bonus Tip:
+For exclusive discounts on your next
+Genshin top up
+, visit
+Lootbar.gg
+!
+Secure Your Gaming Top-Up with Smart Savings on LootBar
+Premium Top-Up Service Tailored for Your Game.
+3-Minute Delivery for Non-Stop Gaming.
+Trusted 4.9/5 on Trustpilot, 10/10 among Players.
+Official Partnership Route, Protect Your Game Wallet.
+Top Up With Discount Now!
+Klee Character Profile
+Klee Information
+Character Information
+Klee
+Rarity
+★ ★ ★ ★ ★
+Element
+Pyro
+Weapon
+Catalyst
+Progression Bonus
+Pyro DMG Bonus +28.8%
+Combat Role
+Main DPS / Pyro Applicator
+Klee Gameplay
+Klee
+is a 5-star Pyro Catalyst wielder who functions as an on-field Main DPS with exceptional area-of-effect damage capabilities. Klee's gameplay centers around her Charged Attack mechanic, which is enhanced by her Explosive Spark passive. When her Normal Attacks or Elemental Skill deal damage, she has a 50% chance to obtain an Explosive Spark, which makes her next Charged Attack cost zero stamina and deal 50% increased damage. Her Elemental Skill, Jumpy Dumpty, throws a bouncing bomb that splits into mines on the third bounce, providing excellent area denial and energy generation with its two charges. Her Elemental Burst, Sparks 'n' Splash, continuously summons explosions that attack nearby enemies, but unfortunately deactivates when she leaves the field.
+Her primary strengths include exceptional area-of-effect damage that works even better with enemy grouping, high Pyro application that enables various elemental reactions, the ability to stunlock smaller enemies with her Charged Attacks, and excellent team energy generation through her A4 passive which grants 2 Elemental Energy to all party members when her Charged Attacks CRIT. However, she requires significant mechanical skill due to her long attack animations that must be animation-canceled for optimal DPS, has relatively short attack range for a Catalyst user, is extremely squishy and easily interrupted during combat, and her Elemental Burst deactivates when switching characters, limiting team rotation flexibility.
+Upcoming Hexerei Buffs (Version 6.2)
+In the Version Luna III,
+Klee
+will receive significant buffs through the Hexerei Resonance mechanic after completing Witch's Homework: Of Leaves That Spark. Her gameplay will be dramatically improved when paired with at least one other Hexerei character (Durin, Venti, Albedo, Mona, Fischl, Sucrose, or Razor).
+The core buff introduces a "Boom Boost" mechanic: when Klee's Normal Attacks, Charged Attacks, Elemental Skill, or Elemental Burst hit enemies, she gains one stack of Boom Boost, with each stack lasting 20 seconds independently. With 1/2/3 stacks of Boom Boost, her Charged Attacks enhanced by Explosive Spark deal 115%/130%/150% of their normal damage.
+Additionally, her A1 Passive (Pounding Surprise) receives a major enhancement: during her Elemental Burst, Klee's Normal Attack combo count no longer resets. When she performs her third Normal Attack, she can consume one Explosive Spark to automatically fire a free Charged Attack without breaking her combo sequence. This dramatically reduces her clunkiness and stamina consumption issues.
+Her constellations also receive significant upgrades in Version Luna III. C2 now reduces enemy DEF by 23% when dealing damage with her Elemental Skill (previously required enemies to be hit by mines specifically). C4 gains a new effect where if Klee is the active character when her Burst ends, the explosion deals 100% increased damage. C6 now grants Klee a 25% Pyro DMG Bonus when using her Elemental Burst, and with another Magic character in the team, she gains a 50% chance of not consuming Explosive Spark when used, plus a 40% chance for her first or second Normal Attack to trigger an additional Charged Attack blast.
+Klee Talent Priority
+Klee's talent priority depends on her playstyle, though most builds focus on maximizing her damage output through Normal and Charged Attacks.
+Main DPS Talent Priority
+Talent
+Priority
+Normal Attack
+★ ★ ★ ★ ★ (Highest)
+Elemental Skill
+★ ★ ★ ★ (High)
+Elemental Burst
+★ ★ ★ (Medium)
+Normal Attack - Kaboom!
+Level her Normal Attack talent first as it directly scales both her Normal Attacks and Charged Attacks, which are her primary damage sources. Klee's optimal damage rotation relies heavily on her Charged Attacks enhanced by Explosive Spark, making this talent essential for maximizing DPS.
+Elemental Skill - Jumpy Dumpty
+Level her Elemental Skill second as it provides substantial burst damage with two charges and generates significant energy particles. The skill's bouncing bomb mechanic deals Pyro damage three times before splitting into eight mines, offering excellent area control. The mines can be grouped together by Anemo characters like Sucrose, Kazuha, or Jean for concentrated explosive damage. This skill is crucial for maintaining Klee's energy economy and generating Explosive Spark procs.
+Elemental Burst - Sparks 'n' Splash
+Level her Elemental Burst last unless running a Burst DPS build at C2 or higher. While the Burst deals respectable damage, it requires Klee to remain on-field and deactivates upon switching characters, making it less versatile than her other abilities. The 60 energy cost and field-time requirement limit its priority compared to her primary damage sources. However, it can be valuable for animation canceling and provides continuous Pyro application against single targets or enemies at different elevations.
+Klee Best Weapons
+Klee's best weapon varies depending on your preferred build and available resources. For
+Main DPS builds
+, CRIT-oriented 5-star weapons provide the highest damage ceiling, while several 4-star options offer excellent performance for their accessibility.
+5-Star Weapons
+Option 1
+Lost Prayer to the Sacred Winds (5★)
+Base ATK
+: 608
+Bonus Stat
+: CRIT Rate +33.1%
+Weapon Effect
+(R1): Increases Movement SPD by 10%. When in battle, gain a 8% Elemental DMG Bonus every 4s. Max 4 stacks. Lasts until the character falls or leaves combat.
+Option 2
+Kagura's Verity (5★)
+Base ATK
+: 608
+Bonus Stat
+: CRIT DMG +66.2%
+Weapon Effect
+(R1): When using an Elemental Skill, gains the Kagura Dance effect: Elemental Skill DMG of the character wielding this weapon is increased by 12% for 16s. Max 3 stacks. This character will gain 12% All Elemental DMG Bonus when they possess 3 stacks.
+Option 3
+Tulaytullah's Remembrance (5★)
+Base ATK
+: 674
+Bonus Stat
+: CRIT DMG +44.1%
+Weapon Effect
+(R1): Normal Attack SPD is increased by 10%. After the wielder unleashes an Elemental Skill, Normal Attack DMG will increase by 4.8% every second for 14s. After hitting an opponent with a Normal Attack during this duration, Normal Attack DMG will be increased by 9.6%. This increase can be triggered once every 0.3s. The maximum Normal Attack DMG increase per single duration of the overall effect is 48%. The effect will be removed when the wielder leaves the field, and using the Elemental Skill again will reset all DMG buffs.
+4-Star Weapons
+Option 1
+The Widsith (4★)
+Base ATK
+: 510
+Bonus Stat
+: CRIT DMG +55.1%
+Weapon Effect
+(R5): When a character takes the field, they will gain a random theme song for 10s. This can only occur once every 30s. Recitative: ATK increased by 120%. Aria: Increases all Elemental DMG by 96%. Interlude: Elemental Mastery increased by 480.
+Option 2
+Solar Pearl (4★)
+Base ATK
+: 510
+Bonus Stat
+: CRIT Rate +27.6%
+Weapon Effect
+(R5): Normal Attack hits increase Elemental Skill and Elemental Burst DMG by 40% for 6s. Likewise, Elemental Skill and Elemental Burst hits increase Normal Attack DMG by 40% for 6s.
+Option 3
+Flowing Purity (4★)
+Base ATK
+: 565
+Bonus Stat
+: ATK +27.6%
+Weapon Effect
+(R5): When using an Elemental Skill, All Elemental DMG Bonus will be increased by 16% for 15s, and a Bond of Life worth 24% of Max HP will be granted. This effect can be triggered once every 10s. When the Bond of Life is cleared, every 1,000 HP cleared in the process will provide 4% All Elemental DMG Bonus, up to a maximum of 24%. This effect lasts 15s.
+Option 4
+Dodoco Tales (4★)
+Base ATK
+: 454
+Bonus Stat
+: ATK +55.1%
+Weapon Effect
+(R5): Normal Attack hits on opponents increase Charged Attack DMG by 32% for 6s. Charged Attack hits on opponents increase ATK by 16% for 6s.
+Klee Best Artifacts & Stats
+Klee’s optimal artifact set
+largely depends on your team composition and how frequently you can trigger Elemental Reactions.
+Crimson Witch of Flames:
+The best all-around set for Klee, especially when she’s used in
+Vaporize, Overload, or Burning
+teams.
+Marechaussee Hunter:
+The top choice when
+Furina
+is part of the team. The CRIT Rate increase scales exceptionally well with Furina’s HP fluctuation mechanic, making it outperform most other options in this setup.
+Lavawalker:
+Ideal for
+Mono Pyro
+compositions, allowing Klee to deal more consistent Pyro damage against enemies affected by Pyro.
+Best Artifact
+Crimson Witch of Flames
+2-PC
+: Pyro DMG Bonus +15%
+4-PC
+: Increases Overloaded and Burning DMG by 40%. Increases Vaporize and Melt DMG by 15%. Using an Elemental Skill increases 2-Piece Set effects by 50% for 10s. Max 3 stacks.
+Marechaussee Hunter
+2-PC
+: Normal and Charged Attack DMG +15%
+4-PC
+: When current HP increases or decreases, CRIT Rate will be increased by 12% for 5s. Max 3 stacks.
+Lavawalker
+2-PC
+: Pyro RES increased by 40%
+4-PC
+: Increases DMG against opponents affected by Pyro by 35%.
+Main Stat
+Sands: ATK%
+Goblet: Pyro DMG Bonus
+Circlet: CRIT Rate or CRIT DMG
+Sub Stat
+CRIT Rate & CRIT DMG > ATK% > Elemental Mastery (100+) > Energy Recharge > Flat ATK
+Klee Best Team Compositions
+Klee functions best as an on-field Main DPS who requires support from teammates to maximize her damage potential. Her teams typically include a combination of shielders, buffers, and enablers for Elemental Reactions.
+1. Vaporize Team
+Vaporize teams leverage Hydro application to amplify Klee's Pyro damage through the 1.5x multiplier reaction. These teams require careful rotation management due to Klee's high Pyro application.
+Main DPS
+Sub DPS
+Support
+Klee (5★)
+Yelan
+(5★)
+Xingqiu (4★)
+Zhongli
+(5★)
+Klee (5★)
+Furina
+(5★)
+Kazuha (5★)
+Bennett (4★)
+Klee (5★)
+Yelan
+(5★)
+Bennett (4★)
+Kazuha (5★)
+2. Overload Team
+With Chevreuse's introduction, Overload teams have become viable for Klee. Her constant Pyro application works well with Electro characters to trigger frequent Overload reactions.
+Main DPS
+Sub DPS
+Support
+Klee (5★)
+Fischl
+(4★)
+Chevreuse (4★)
+Sara (4★)
+Klee (5★)
+Raiden Shogun (5★)
+Fischl
+(4★)
+Bennett (4★)
+Klee (5★)
+Beidou (4★)
+Fischl
+(4★)
+Zhongli
+(5★)
+3. Mono Pyro Team
+Mono Pyro teams leverage Pyro Resonance and Lavawalker artifact set for consistent damage without relying on reactions. These teams excel at shield breaking and benefit from Anemo support for Viridescent Venerer shred.
+Main DPS
+Sub DPS
+Support
+Klee (5★)
+Xiangling (4★)
+Bennett (4★)
+Kazuha (5★)
+Klee (5★)
+Xiangling (4★)
+Bennett (4★)
+Zhongli
+(5★)
+Klee (5★)
+Bennett (4★)
+Xiangling (4★)
+Sucrose (4★)
+4. Burning Team
+Burning teams utilize Dendro application to create consistent Burning reactions while dealing additional damage through Dendro units. These teams benefit from Elemental Mastery scaling.
+Main DPS
+Sub DPS
+Support
+Klee (5★)
+Nahida
+(5★)
+Emilie (5★)
+Zhongli
+(5★)
+Klee (5★)
+Nahida
+(5★)
+Bennett (4★)
+Kazuha (5★)
+Klee (5★)
+Dendro Traveler (5★)
+Collei (4★)
+Bennett (4★)
+Klee Constellations
+Klee performs adequately at C0 as a Main DPS, but her constellations provide significant improvements to her damage output and energy generation capabilities. C2 is particularly valuable as it transforms her into a viable Sub-DPS option.
+C1 Performance
+Attacks and Skills have a certain chance to summon sparks that bombard opponents, dealing DMG equal to 120% of Sparks 'n' Splash's DMG.
+C1 provides a moderate DPS increase by occasionally triggering additional explosions during Klee's attacks. The 20% damage boost to her Elemental Burst enhances her overall damage output but doesn't fundamentally change her playstyle. This constellation is nice to have but not essential. Most players can skip this constellation unless they plan to continue pulling for higher constellations.
+C2 Performance
+Being hit by Jumpy Dumpty's mines decreases opponents' DEF by 23% for 10s.
+C2 is Klee's most valuable constellation and represents an excellent stopping point. The 23% DEF reduction is a massive team-wide damage amplifier that benefits all party members, not just Klee. This constellation transforms Klee into a viable support character for other Pyro DPS units, as she can quickly apply the DEF shred with her dual-charge Elemental Skill. With the Version 6.2 buff, C2 becomes even better as the DEF reduction triggers from any Elemental Skill damage, not just mines.
+C4 Performance
+If Klee leaves the field during the duration of Sparks 'n' Splash, her departure triggers an explosion that deals 555% of her ATK as AoE Pyro DMG.
+C4 allows Klee to function better in quickswap teams by dealing significant burst damage when switching out. This constellation enables Sub-DPS playstyles where Klee uses her Elemental Skill charges and Burst before switching to other damage dealers. With the Version 6.2 buff adding a 100% damage increase when Klee is active as the Burst ends, this constellation becomes more flexible, allowing players to choose between quickswap and on-field strategies.
+C6 Performance
+While under the effects of Sparks 'n' Splash, Klee will regenerate 3 Energy for all members of the party (excluding Klee) every 3s. When Sparks 'n' Splash is used, all party members will gain a 10% Pyro DMG Bonus for 25s.
+C6 transforms Klee into an excellent battery and support character while maintaining her Main DPS capabilities. The energy regeneration helps maintain team rotations, while the Pyro DMG bonus benefits Pyro-heavy teams. However, this constellation is generally not worth the investment for most players, as the energy generation and damage bonus are modest compared to the cost. With Version 6.2 buffs, C6 gains significant value by adding a 25% Pyro DMG bonus for Klee herself when using Burst, plus the 50% chance to not consume Explosive Spark and 40% chance for free Charged Attacks with another Magic character in the team.
+Conclusion
+This comprehensive guide demonstrates Klee's position as a high-skill-ceiling Main DPS character in Genshin Impact. While she faces strong competition from newer Pyro DPS characters, her unique playstyle, excellent area-of-effect damage, and team energy generation capabilities make her a rewarding choice for dedicated players who master her animation cancels and mechanical requirements.
+With the upcoming Version 6.2 Hexerei buffs, Klee is poised to receive significant quality-of-life improvements and damage enhancements that address many of her historical weaknesses. The Boom Boost mechanic and automatic Charged Attack generation will dramatically reduce her clunkiness, making her more accessible to players while increasing her ceiling for veterans. These updates ensure that the adorable Spark Knight will remain a viable and fun option in the evolving meta.
+To fully unlock Klee's explosive potential and enhance your overall team power, consider
+topping up Genshin Impact
+resources through reliable top-up services to acquire the in-game currency needed for upgrades, weapons, and essential gear, ensuring that Klee and your other characters are ready for any challenge.
+Top Up With Discount Now!
+Alexa Hunter
+Gaming Writer
+Alexa Hunter has spent the past 7 years exploring the world of gaming, focusing particularly on light - hearted, relaxing titles like Whiteout Survival and AFK Journey. Her articles offer tips and guides on maximizing the enjoyment of these games on Lootbar.

@@ -1,0 +1,304 @@
+Story Highlights
+Citlali is F2P friendly and has a low investment build
+Citlali is a high priestess of the Mictlan tribe in Natlan
+Citlali is a versatile Cryo support who excels in enabling Melt and Freeze reactions
+Citlali
+is an upcoming
+5-star Cryo Catalyst
+character in
+Genshin Impact
+, set to be released in
+Version 5.3
+, first phase banner. Citlali’s kit revolves around managing her
+Nightsoul points
+to maintain the powerful effects of her summons and abilities. Her
+Opal Shield
+provides a solid shield, while Itzpapa and her Burst deliver high AoE Cryo DMG.
+In this guide, we will break down Citlali in detail, talk about her kit, find out her best artifacts and build, and more about Genshin Impact.
+#GenshinImpact
+#Citlali
+"I've always thought that Citlali was chief material, and that she'd take that role on eventually. But two hundred years on, and she's still as unenthused about going outside as ever! It might take a figure more fascinating than those light novels for our…
+pic.twitter.com/rewk4gSVEh
+— Genshin Impact (@GenshinImpact)
+November 25, 2024
+Table Of Contents
+Genshin Impact Citlali Guide: Kit Explained
+Citlali’s Passives
+Genshin Impact Citlali Build Guide: Constellations
+Genshin Impact Citlali Guide: Best in-slot weapon
+Genshin Impact Citlali Build Guide: Artifacts to use
+Best Team Comps for Citlali in Genshin Impact
+Final Thoughts
+Genshin Impact Citlali Guide: Kit Explained
+Citlali
+’s gameplay centers around her
+Elemental Skill
+, which features the
+Nightsoul
+mechanic, a signature trait shared by other characters from
+Natlan
+. This mechanic allows her to fly mid-air while also additional buffs to herself.
+Genshin Impact Citali (Image via HoYoverse)
+Normal Attack: Shadow-Stealing Spirit Vessel
+Normal and Charged Attack deals
+Cryo DMG
+while Plunging Attack deals
+AoE Cryo DMG
+Elemental Skill: Dawnfrost Darkstar
+She summons an
+Opal Shield
+that scales with her Elemental Mastery and absorbs Cryo DMG with increased efficiency. At the same time, she calls forth “
+Obsidian Tzitzimitl: Itzpapa,
+” a creature that delivers
+AoE Cryo DMG
+. Activating this skill grants Citlali
+24
+Nightsoul points
+and places her in the Nightsoul’s Blessing state, which persists while Itzpapa remains on the field.
+If Citlali has 50 or more Nightsoul points, Itzpapa enters the Opal Fire state, consuming Nightsoul points continuously to create a Frostfall Storm that deals with constant
+AoE Cryo DMG
+. This effect ends when her Nightsoul points are fully depleted, emphasizing the importance of careful resource management to maximize her damage potential.
+Elemental Burst: Edict of Entwined Splendor
+Citlali calls upon celestial allies to summon a massive ice storm that bombards the area, dealing
+Nightsoul-aligned Cryo DMG.
+This ability also restores a set amount of Nightsoul points and spawns
+Spiritvessel Skulls
+near up to three enemies within the AoE.
+These skulls explode after a short time, dealing additional AoE Cryo DMG and further restoring
+Nightsoul points
+for Citlali. This Burst not only provides immense damage but also enhances her ability to maintain Nightsoul points for extended periods, allowing her to keep up the pressure in battle.
+Citlali’s Passives
+Citali in Genshin Impact (Image via HoYoverse)
+Mamaloaco’s Frigid Rain
+Reduces Pyro and Hydro RES
+of enemies affected by
+Frozen or Melt reactions by 20% for 12 seconds.
+This allows her team to capitalize on increased damage from those reactions. Additionally, Citlali regains
+16 Nightsoul points
+whenever these reactions are triggered, with a cooldown of
+8 seconds
+for the restoration effect.
+This mechanic makes her highly effective in teams that can consistently trigger Frozen or Melt, as it boosts team damage while maintaining her
+Nightsoul resource.
+Itzpapalotl’s Star Garments
+Scales Itzpapa’s and Citlali’s Burst damage directly with her
+Elemental Mastery,
+significantly boosting her DPS potential. During her Elemental Skill,
+Itzpapa’s Frostfall Storm
+damage increases by
+90% of her Elemental Mastery
+, while her Elemental Burst’s Ice Storm damage gets an even greater boost, scaling at
+1200% of her Elemental Mastery.
+Furthermore, she regains 4 Nightsoul points when allies trigger
+Nightsoul Bursts,
+adding more ways to replenish her critical resource. These effects make Elemental Mastery an essential stat for Citlali, reinforcing her synergy with reaction-heavy teams and boosting her output in both sustained damage and burst windows.
+Night Realm’s Gift: Smoke, Mirrors, and the Flowing Winds
+Introduces exploration and mobility mechanics tied to
+Natlan’s Phlogiston systems
+. When in areas with Phlogiston Mechanics, Citlali can perform “
+Nightsoul Transmission,”
+allowing her to leap into the air and deploy
+“White Obsidian Tzitzimitl: Citlalin,
+” floating in the sky.
+This enhances her mobility and vertical reach in specific regions, enabling unique interactions with the environment. While in mid-air, she can hold her
+Normal Attack
+to enter
+Aiming Mode
+, prioritizing Phlogiston over stamina consumption for
+Charged Attacks.
+Genshin Impact Citlali Build Guide: Constellations
+In this section, we will break down the constellations for Citlali in Genshin Impact.
+C1
+This constellation gives Citlali a buff called
+Opalstar Vestments
+when she uses her Elemental Skill. It provides
+10 Stellar Blade stacks
+, which are consumed whenever your other characters deal damage. Each stack boosts their damage by a massive amount based on
+Citlali’s Elemental Mastery.
+Additionally, when Frozen or Melt reactions happen, Citlali gets more stacks, but only every
+8 seconds.
+This makes her amazing in reaction-heavy teams since she not only deals great Cryo damage but also boosts her allies’ attacks. Plus, it helps her move better by lowering the energy (
+Phlogiston
+) she uses during her mid-air abilities.
+C2
+C2 turns Citlali into an incredible team player. It gives her a bonus of
+125 Elemental Mastery
+and also boosts her teammates’ Elemental Mastery by 250 if they’re shielded by her
+Opal Shield
+or have
+Itzpapa
+following them. This makes reaction-based damage like Melt and Frozen much stronger for your whole team. On top of that, it improves her passive skill
+Mamaloaco’s Frigid Rain,
+further reducing enemy Pyro and Hydro resistance when reactions like Frozen or Melt are triggered.
+C3
+Elemental skill increased by 3 levels.
+C4
+C4 is where Citlali starts to shine even more. When
+Itzpapa’s Frostfall Storm
+hits enemies, it summons an extra
+Spiritvessel Skull
+. These Skulls explode and deal massive
+AoE Cryo damage
+based on
+Citlali’s Elemental Mastery
+. On top of that, each explosion restores Nightsoul points and Energy for Citlali, helping her maintain her skills for longer fights. This effect can trigger
+every 8 seconds
+, so it’s a consistent way to increase her damage and sustain her abilities.
+C5
+Elemental burst increased by 3 levels.
+C6
+C6 completely changes how Citlali’s Elemental Skill works. When you summon
+Itzpapa
+, it immediately enters its most powerful state,
+O
+pal Fire
+, and stays there permanently, even when Nightsoul points run out. Instead of ending, Itzpapa keeps consuming Nightsoul points, which in turn gives Citlali special
+Cifra of the Secret Law
+points. These points boost her damage and also increase the
+Pyro and Hydro damage of the entire team
+. However, when Itzpapa leaves or when you use her Elemental Skill again, the
+Cifra
+points disappear. This constellation makes Citlali incredibly powerful, turning her into a team damage booster while maximizing her personal Cryo damage.
+As far as Constellations go, Citlali’s constellations are pretty average at best. The only game-change worthy is undeniably her C6. In order of best to least best constellation:
+C1>C6>C2>C4>C5>C3
+Genshin Impact Citlali Guide: Best in-slot weapon
+The best weapon for Citlali will be the
+Starcaller’s Watch
+, a 5-star weapon that will be released with her. It has an
+EM as a sub-stat
+and is a
+Support based weapon
+. Here are other alternative 5-star weapons included, from best to least best in slot for Citlali:
+A Thousand Floating Dreams
+Genshin Impact Starcaller’s Watch Weapon (Image via HoYoverse)
+For
+F2P players
+, her best in the slot is the
+Sacrificial Fragments
+, which can be easily obtained from the Gacha as it is a fairly common weapon. Luckily enough, since Citlali scales from EM, she has a fairly great amount of F2P
+4-Star Weapons
+to choose from. Here are other alternative
+4-star weapons
+included, from best to least best in the slot for Citlali:
+Genshin Impact Sacrificial Fragments Weapon (Image via HoYoverse)
+Sacrificial Fragments
+Wandering Evenstar
+Mappa Mare
+Fruit of Fulfillment
+Favonius Codex
+Genshin Impact Citlali Build Guide: Artifacts to use
+Scroll of the Hero of Cinder City (BiS)
+2-Pieces:
+When a nearby party member triggers a Nightsoul Burst, the equipping character regenerates 6 Elemental Energy.
+4-Pieces:
+After the equipping character triggers a reaction, all nearby party members gain a 12% Elemental DMG Bonus for the involved Elemental Types for 15s. If the equipping character is in the Nightsoul’s Blessing state when triggering this effect, all party members gain an additional 28% Elemental DMG bonus for the Elemental Types involved in the reaction for 20s.
+Tenacity of the Millelith
+2-Pieces:
+HP +20%
+4-Pieces:
+When an Elemental Skill hits an opponent, the ATK of all nearby party members is increased by 20% and their Shield Strength is increased by 30% for 3s. This effect can be triggered once every 0.5s. This effect can still be triggered even when the character who is using this artifact set is not on the field.
+Gilded Dreams
+2-Pieces:
+Elemental Mastery +80
+4-Pieces:
+Within 8s of triggering an Elemental Reaction, the character equipping this will obtain buffs based on the Elemental Type of the other party members. ATK is increased by 14% for each member whose Elemental Type is the same as the equipping character, and EM is increased by 50 for every member with a different Elemental Type. Each of the buffs will count up to 3 characters. This effect can be triggered once every 8s and even when not on the field.
+Citlali works exceptionally well with the
+Scroll of the Hero of Cinder City
+artifact set, as it enhances her ability to buff her team and provide an
+Elemental DMG Bonus
+. This set is the best choice for her overall. While farming for this set, you can use temporary alternatives like
+two mixed Elemental Mastery sets
+or a
+4-piece Tenacity of the Millelith
+.
+The latter strengthens her shield and boosts your team’s ATK, though Citlali won’t benefit from the HP bonus of the 2-piece effect. Another solid option is the
+4-piece Gilded Dreams.
+This set can give Citlali over
+200 Elemental Mastery
+.
+As for her Main Stats and Sub-Stats:
+Timepiece:
+EM/ER
+Goblet:
+EM
+Circlet:
+EM
+Sub-stat:
+EM, ER, Crit DMG, Crit Rate, ATK%
+Best Team Comps for Citlali in Genshin Impact
+Citlali works best in
+Melt
+or
+Freeze team comp
+s, where her abilities shine by supporting
+Pyro
+or
+Hydro DPS
+characters. Her
+passive talent reduces the Pyro and Hydro resistance
+of enemies, making it easier for those elements to deal more damage.
+This makes her an excellent enabler for teams focused on reactions like Melt or Freeze. However, Citlali doesn’t reduce Cryo resistance with her kit, meaning
+Cryo DPS
+characters won’t benefit as much from her support compared to other units.
+Citlali
+Furina
+Mavuika
+Xilonen
+Citlali
+Mavuika
+Bennett
+Xilonen
+Citlali
+Neuvillette
+Furina
+Xilonen
+Hydro
+characters can also take advantage of her resistance reduction. By freezing enemies with Hydro first, your
+Pyro DPS
+can then Melt the Frozen enemies for more frequent and powerful reactions. However, it’s worth noting that Freeze-based teams don’t work well against bosses, so in those cases, you can drop the Hydro unit and stick with a traditional Melt team.
+Alternatively, Citlali can work in
+Freeze
+teams, especially in
+AoE situations
+where crowd control is needed. She can provide Cryo application while also acting as a defensive support, making her a flexible choice in such scenarios.
+Final Thoughts
+Citlali
+is a remarkable
+Cryo support
+and
+sub-DPS
+with a complex and versatile kit that excels in Melt and
+Freeze
+team compositions. She brings strong team utility through shields, buffs, and consistent Cryo application, which sets her apart as a flexible and impactful unit. However, Citlali’s gameplay has some limitations. Her inability to reduce
+Cryo resistance
+means she provides less benefit to Cryo main
+DPS units.
+Genshin Impact Citlali (Image via HoYoverse)
+Despite these drawbacks, Citlali’s intricate mechanics and support potential offer a fresh and rewarding play style. Her synergy with
+Elemental Mastery
+and artifact sets like
+Scroll of the Hero of Cinder City
+provides great flexibility in team building. While she does require thoughtful team planning, her strong Cryo utility and versatility make her a valuable addition to any roster.
+Read more of our Genshin Impact content here:
+Genshin Impact Redeem Codes
+Genshin Impact Version 5.3 update “Incandescent Ode of Resurrection”
+How to reduce your Game Size in Genshin Impact and Honkai Star Rail
+What are your thoughts on our Genshin Impact Citlali Guide? Let us know in the comments below.
+For more Mobile Gaming news and updates, join our
+WhatsApp group
+,
+Telegram Group
+,
+or
+Discord server
+. Also, follow us on
+Google News
+,
+Instagram
+, and
+Twitter
+for quick updates.
+Tags
+Gacha Games
+Genshin Impact
+HoYoverse

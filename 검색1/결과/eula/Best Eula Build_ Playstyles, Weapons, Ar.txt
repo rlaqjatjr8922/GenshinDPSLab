@@ -1,0 +1,231 @@
+Hello folks and welcome back! In today’s build guide, the topic of discussion is
+Eula
+: her
+Ascension/Talent Materials
+and
+costs
+, her
+talents
+,
+constellations
+, best
+artifacts
+,
+weapons
+, and
+teams
+. Before we begin, we will briefly introduce the character and their role in the world of Genshin Impact.
+Contents
+A Summary of Eula’s Kit
+Eula’s Normal and Charged Attacks
+Eula’s Normal Attack
+Eula’s Elemental Skill
+Eula’s Elemental Burst
+Eula’s Best Weapons
+Eula’s Best Artifacts
+Eula’s Best Teams
+Conclusion
+Eula
+, titled “Dance of the Shimmering Wave”,
+is best known for her on-field Physical DPS capabilities.
+She is a 5-star
+Cryo
+Claymore user who can do
+massive
+Physical DMG from her Elemental Burst.
+A Summary of Eula’s Kit
+Eula’s
+best-in-slot 5-star weapon is the
+Song of Broken Pines
+, with an alternative 4-star option being the
+Snow-Tombed Starsilver
+claymore. Her best-in-slot artifact set is the
+Pale Flame
+.
+Read on to find more information on Eula’s best build!
+Eula’s Normal and Charged Attacks
+Eula’s Talent Screen
+Eula’s
+Normal Attack
+Eula’s Normal and Charged Attacks
+Normal attack:
+Eula
+executes 5 strikes with her claymore.
+Charged attack:
+Eula
+consumes stamina over time to perform continuous slashers. When her stamina ends, or attack button is released, she performs a stronger slash.
+Eula’s Elemental Skill
+Eula’s Elemental Skill Press and Hold
+Her Elemental Skill,
+Icetide Vortex
+,
+can be pressed or held to activate
+.
+When you tap her Elemental Skill, Eula swiftly slashes her opponents and deals Cryo Dmg.
+Simply pressing
+her Elemental Skill has a
+short cooldown of 4 seconds
+, while
+holding it has a 10-second
+cooldown.
+Pressing
+Eula’s Skill button gives her max 2 stacks of
+Grimheart
+.
+Holding
+Eula’s Skill button consumes
+Grimheart
+stacks, reducing nearby opponents’ Physical and
+Cryo
+RES.
+Different instances of
+Cryo
+DMG will be dealt to nearby enemies depending on the number of stacks consumed.
+Eula’s Elemental Burst
+Eula’s Elemental Burst
+Most of
+Eula’s
+damage comes from her Elemental Burst,
+Glacial Illumination
+. Once pressed,
+Eula
+sweeps off her opponent’s feet with a massive wave of Cryo DMG. It also creates a
+Lightfall Sword
+that increases her resistance to interruption and follows her around for up to 7 seconds.
+Eula’s
+Lightfall
+Sword
+charges up whenever her Normal attack, Elemental Skill, and Elemental Burst deal DMG to opponents. The
+Lightfall Sword
+can gain a charge every 0.1s.
+According to
+Zy0x’s
+updated Eula guide, the maximum number of stacks you can get on her Lightfall Sword at a C0-optimized rotation is 14. Likewise, the maximum number of stacks you can get with constellations is 30. A downside of her Elemental Burst is the high Energy Cost of 80, so pairing her with battery characters like
+Diona
+,
+Rosaria
+, and even
+Raiden Shogun
+is crucial.
+A rotation involving Eula as your main DPS can go like this:
+Tap Eula’s Elemental Skill (E).
+Activate Eula’s Elemental Burst (Q).
+Hold Eula’s Elemental Skill (E).
+Spam Normal Attacks.
+Eula’s Best Weapons
+Weapon
+Description
+Song of Broken Pines
+Eula’s Signature Weapon
+At Max Level and Refinement Rank 1
+Base ATK 741
+Bonus Physical DMG Bonus 20.7%
+Rebels Banner-Hymn
+->When not protected by a shield, the character’s Max HP will be increased by
+32
+%.
+->After the character’s Elemental Skill hits an opponent or when the character takes DMG. Their ATK will be increased by
+20
+% for 8s.
+->The 2 aforementioned effects can be triggered even when the character is not on the field.
+Wolf’s Gravestone
+At Max Level and Refinement Rank 1:
+Base ATK: 608
+Bonus ATK 49.6%
+Wolfish Tracker
+->Increases ATK by 20%.
+->On hit, Attacks against opponents with less than 30% HP increase all party members’ ATK by 40% for 12s.
+->Can only occur once every 30s.
+Snow-Tombed Starsilver
+At Max Level and Refinement Rank 5:
+Base ATK: 565
+Bonus Physical DMG Bonus 34.5%
+Frost Burial
+Hitting an opponent with normal and charged attacks has a
+100
+% chance of dropping an
+Everfrost Icicle
+above them.
+->
+Icicle
+deals AoE DMG equal to 140% ATK.
+-> Opponents affected by Cryo are dealt DMG equal to 360% of ATK.
+-> Can occur once every 10s.
+Luxurious Sea-Lord
+At Max Level and Refinement Rank 5:
+Base ATK: 454
+Bonus ATK 55.1%
+Oceanic Victory
+->Increases Elemental Burst DMG by 12%.
+->When Elemental Burst hits opponents, there is a 100% chance of summoning a huge surge of tuna that deals 100% ATK as AoE DMG.
+->This effect can occur once every 15s.
+Prototype Archaic
+At Max Level and Refinement Rank 5:
+Base ATK: 565
+Bonus ATK 27.6%
+Crush
+On hit, Normal or Charged Attacks have a 50% chance to deal an additional
+240
+% ATK DMG to opponents within a small AoE.
+->Can only occur once every 15s.
+Eula’s Best Build Weapons
+Lastly, if you don’t mind spending a couple of dollars on the Battle Pass, the included 4-star Serpent Spine is the best alternative after the two 5-star weapons.
+Eula’s Best Artifacts
+Pale Flame
+2-Piece Bonus
+Physical DMG Bonus +25%
+4-Piece Bonus
+When an Elemental Skill hits an opponent;
+->ATK is increased by 9% for 7s.
+This effect stacks up to 2 times and can be triggered once every 0.3s.
+->Once 2 stacks are reached, the 2-set effect increases by 100%.
+Bloodstained Chivalry
+2-Piece Bonus
+Physical DMG Bonus +20%
+4-Piece Bonus
+After defeating an opponent:
+->Charged attack DMG is increased by 50%.
+->Charged attack Stamina cost is set to 0 for 10s.
+Best Artifacts for DPS Build Eula
+Eula’s Best Artifact Sets
+Eula’s Best Teams
+It is important to consider a character’s kit in its entirety before crafting the perfect team for your characters. That said, in
+Eul
+a’s
+case, this character works best in
+Superconduct
+teams.
+Superconduct
+is an elemental reaction that buffs your team’s physical DMG, you can read more about it
+here
+.
+Eula Superconduct Team. Including Diona, Raiden Shogun, and Rosaria.
+This team can provide excellent Energy support for your
+Eula
+, and also consistently proc the
+Superconduct
+reaction. Note that the
+Raiden Shogun
+can be replaced by other
+Electro
+batteries like
+Fischl
+.
+Kaeya
+can also be brought into this team if you do not have
+Rosaria
+.
+DMG team, Raiden Shogun, Zhongli, Bennett
+Raiden
+Shogun
+for the particles,
+Zhongli
+can shield your
+Eula
+as she’s swinging her claymore and also shred your enemy’s Physical DMG RES.
+Bennett
+can buff your character’s ATK, making him a perfect fit for this team.
+Conclusion
+So, what do you think? Is it worth pulling for the Ice Queen from Mondstadt? If you do decide to spend your remaining gems to pull for Eula, we wish you the best of luck! It’s only a few more days until
+Arataki Itto
+and Gorou’s banner becomes available. We don’t know about you, but we’re pretty excited about it.

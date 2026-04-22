@@ -1,0 +1,669 @@
+Genshin Impact Baizhu Best Team Guide
+Last updated April 22, 2026. Looking for the best Baizhu teams in
+        Genshin Impact? Start with the top team summary below, then pick the
+        lineup that fits your roster.
+This page shows best teams for Baizhu, primarily a healer/support. Top teams include Dendro Bloom, Hyperbloom, and Spread compositions that leverage his healing and shield synergy with Hydro and Dendro reactions. Baizhu can also serve as a secondary DPS when paired with an off‑field Dendro or Hydro partner, offering flexibility for various team setups.
+View Baizhu's character page
+Baizhu Team Summary
+#1
+Team Rating:SS
+Baizhu Bloom with Ayato, Nilou, Nahida
+#2
+Team Rating:SS
+Baizhu Bloom Team 2 - Kaveh Nilou Bloom Core SS Team
+#3
+Team Rating:SS
+Baizhu Spread Team: Alhaitham Yae Nahida Core
+#4
+Team Rating:SS
+Baizhu Hyperbloom SS Team
+#5
+Team Rating:SS
+Baizhu Hyperbloom Spread with Yae, Nahida and Xingqiu
+#6
+Team Rating:SS
+Baizhu Aggravate Cyno SS Tier Team
+#7
+Team Rating:SS
+Baizhu Hyperbloom Spread Team
+#8
+Team Rating:SS
+Baizhu Quickbloom Hyperbloom Team
+#1 Baizhu Bloom with Ayato, Nilou, Nahida
+Tier SS
+Bloom-focused Nilou team
+with Ayato as the on-field Hydro driver. Nahida supplies strong off-field Dendro application, Nilou converts Bloom cores into
+Bountiful Cores
+, and Baizhu keeps the team alive with healing and shielding while also boosting Bloom damage through his Max HP scaling.
+Kamisato Ayato
+Main DPS
+Hydro
+On-field Hydro driver for this Bloom team. His continuous Hydro attacks trigger Bloom reactions with the Dendro application from Nahida and Baizhu.
+Artifacts
+Flower of Paradise Lost
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / HP% / Energy Recharge
+Weapons
+Light of Foliar Incision
+The Black Sword
+Nilou
+Sub DPS
+Hydro
+Provides Hydro application and enables
+Bountiful Cores
+through her passive when the team only includes Hydro and Dendro characters. Bountiful Cores detonate faster and deal larger AoE damage.
+Artifacts
+Tenacity of the Millelith
+Vourukasha's Glow
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Elemental Mastery / CRIT Rate / CRIT DMG
+Weapons
+Key of Khaj-Nisut
+The Dockhand's Assistant
+Nahida
+Sub DPS
+Dendro
+Primary off-field Dendro applier. Her Elemental Skill links enemies and deals consistent Dendro damage to trigger Bloom. Her Burst further buffs her Skill based on teammates' elements, and its duration is extended with two Hydro teammates.
+Artifacts
+Deepwood Memories
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge / CRIT DMG / CRIT Rate / ATK%
+Weapons
+A Thousand Floating Dreams
+Wandering Evenstar
+Baizhu
+Support
+Dendro
+Healer and shielder for the team. Baizhu sustains the party while also increasing Bloom damage based on his Max HP through his passive talent.
+Artifacts
+Ocean-Hued Clam
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+HP% / HP% / Energy Recharge / CRIT DMG / CRIT Rate
+Weapons
+Jadefall's Splendor
+Prototype Amber
+#2 Baizhu Bloom Team 2 - Kaveh Nilou Bloom Core SS Team
+Tier SS
+Bloom-centered Nilou team
+with Kaveh as the on-field Dendro DPS and Baizhu as the healer/shielder.
+The team deals damage mainly through Bloom reactions, with Nilou’s passive converting Bloom cores into
+Bountiful Cores
+for larger AoE damage.
+Kaveh
+Main DPS
+Dendro
+On-field Bloom driver and main damage dealer. Uses Skill to interact with cores and Burst to infuse attacks with Dendro, enabling constant Bloom with Hydro appliers. Can also self-heal via passive when damaged by cores.
+Artifacts
+Deepwood Memories
+Main Stats
+Sands
+Energy Recharge / Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Energy Recharge / Elemental Mastery / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Favonius Greatsword
+Xingqiu
+Sub DPS
+Hydro
+Provides continuous off-field Hydro application to trigger Bloom reactions with Kaveh and Baizhu's Dendro application.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Primordial Jade Cutter
+Sacrificial Sword
+Nilou
+Sub DPS
+Hydro
+Provides Hydro application and enables
+Bountiful Cores
+when the team is composed only of Dendro and Hydro characters. These cores detonate faster and deal larger AoE damage.
+Artifacts
+Tenacity of the Millelith
+Vourukasha's Glow
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Elemental Mastery / CRIT Rate / CRIT DMG
+Weapons
+Key of Khaj-Nisut
+The Dockhand's Assistant
+Baizhu
+Support
+Dendro
+Provides healing and shielding to protect the team. His passive increases Bloom damage based on Baizhu's Max HP.
+Artifacts
+Ocean-Hued Clam
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+HP% / HP% / Energy Recharge / CRIT DMG / CRIT Rate
+Weapons
+Jadefall's Splendor
+Prototype Amber
+#3 Baizhu Spread Team: Alhaitham Yae Nahida Core
+Tier SS
+A top-tier Spread team built around
+Alhaitham
+as the on-field Dendro DPS, with
+Yae Miko
+and
+Nahida
+supplying consistent off-field Electro/Dendro application and
+Baizhu
+providing healing, shielding, and additional Spread damage scaling from HP.
+Alhaitham
+Main DPS
+Dendro
+On-field carry and main source of Spread-triggered damage. His Skill and Burst generate
+Chisel-Light Mirrors
+, empowering his Dendro attacks and AoE damage. Benefits greatly from consistent off-field Electro application.
+Artifacts
+Gilded Dreams
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Dendro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / ATK% / Energy Recharge
+Weapons
+Light of Foliar Incision
+Harbinger of Dawn
+Yae Miko
+Sub DPS
+Electro
+Off-field Electro enabler and secondary damage dealer. Her Skill provides sustained Electro application to trigger Spread reactions with the team’s Dendro units.
+Artifacts
+Gilded Dreams
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT DMG / CRIT Rate
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Kagura's Verity
+The Widsith
+Nahida
+Sub DPS
+Dendro
+Off-field Dendro support and reaction enabler. Her Skill links enemies and deals strong Dendro damage, while her Burst further boosts team output. Also helps reduce Tri-Karma Purification trigger interval when paired with an Electro teammate.
+Artifacts
+Gilded Dreams
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / ATK% / Energy Recharge
+Weapons
+A Thousand Floating Dreams
+Wandering Evenstar
+Baizhu
+Support
+Dendro
+Team sustain through healing and shielding. His passive also increases the team's Spread damage based on his Max HP, making him both defensive utility and a reaction-oriented buffer.
+Artifacts
+Deepwood Memories
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge / CRIT DMG / CRIT Rate
+Weapons
+Jadefall's Splendor
+Prototype Amber
+#4 Baizhu Hyperbloom SS Team
+Tier SS
+Baizhu is the Main DPS and the team deals damage mainly through
+Hyperbloom
+. Baizhu provides shielding and healing to keep the team safe, while his max HP also boosts Hyperbloom damage via his passive talent.
+Baizhu
+Main DPS
+Dendro
+Main on-field driver for the team. Focuses on HP and healing while enabling Dendro application for Bloom/Hyperbloom setups.
+Artifacts
+Ocean-Hued Clam
+Main Stats
+Sands
+Energy Recharge
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+Energy Recharge / HP% / HP% / CRIT Rate / CRIT DMG
+Weapons
+Prototype Amber
+Raiden Shogun
+Sub DPS
+Electro
+Provides off-field Electro application to trigger Hyperbloom from Dendro cores. Built with full Elemental Mastery for maximum reaction damage.
+Artifacts
+Gilded Dreams
+Flower of Paradise Lost
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge / ATK%
+Weapons
+Dragon's Bane
+Yelan
+Sub DPS
+Hydro
+Consistent off-field Hydro application to create Dendro cores with Baizhu. Strong personal damage and excellent synergy in Bloom-based teams.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+HP%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG / CRIT Rate
+Substats
+HP% / CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Aqua Simulacra
+Favonius Warbow
+Xingqiu
+Sub DPS
+Hydro
+Adds sustained Hydro application for Bloom generation and helps maintain enemy Dendro RES shred when using Deepwood Memories.
+Artifacts
+Deepwood Memories
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Favonius Sword
+#5 Baizhu Hyperbloom Spread with Yae, Nahida and Xingqiu
+Tier SS
+Baizhu provides
+healing
+and
+shielding
+to keep the team safe while boosting reaction damage through his passive. The team mainly deals damage via
+Spread
+and
+Hyperbloom
+, with Nahida and Xingqiu enabling Dendro/Hydro application and Yae serving as the main Electro damage dealer.
+Yae Miko
+Main DPS
+Electro
+Main off-field/on-field Electro damage dealer. Builds for Crit and ATK to maximize personal damage while enabling Spread and Hyperbloom reactions.
+Artifacts
+Gilded Dreams
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT DMG / CRIT Rate
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Kagura's Verity
+The Widsith
+Nahida
+Sub DPS
+Dendro
+Primary Dendro applier and reaction enabler. Her Elemental Skill links enemies and deals consistent Dendro damage for Spread and Bloom-related reactions.
+Artifacts
+Gilded Dreams
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / ATK% / Energy Recharge
+Weapons
+A Thousand Floating Dreams
+Wandering Evenstar
+Xingqiu
+Sub DPS
+Hydro
+Provides continuous Hydro application to help trigger Bloom reactions alongside Nahida's Dendro, contributing to the team's overall Hyperbloom damage.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Primordial Jade Cutter
+Sacrificial Sword
+Baizhu
+Support
+Dendro
+Team healer and shield provider. His HP-scaling passive increases the team's Spread and Hyperbloom damage, making him a strong defensive support.
+Artifacts
+Deepwood Memories
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge / CRIT DMG / CRIT Rate
+Weapons
+Jadefall's Splendor
+Prototype Amber
+#6 Baizhu Aggravate Cyno SS Tier Team
+Tier SS
+Baizhu is the healer in the team. The DMG of the team is maximized by Aggravate.
+Cyno
+Main DPS
+Electro
+Cyno is the main DPS in the team. Cyno’s Elemental Burst infuses his Normal ATK with Electro. With aid of Nahida and Baizhu, Aggravate is triggered to maximize overall DMG.
+Artifacts
+Gilded Dreams
+Thundering Fury
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Electro DMG
+Circlet
+CRIT DMG / CRIT Rate
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / ATK% / Energy Recharge
+Weapons
+Staff of the Scarlet Sands
+Deathmatch
+Fischl
+Sub DPS
+Electro
+Fischl’s Elemental Skill can provide continuous Electro DMG off-field for triggering Catalyze.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Aqua Simulacra
+The Stringless
+Beidou
+Sub DPS
+Electro
+Beidou’s Elemental Burst can provide Electro DMG even off-field to trigger Catalyze.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Skyward Pride
+Serpent Spine
+Baizhu
+Support
+Dendro
+Baizhu provides both shield and healing to protect the team. The DMG of Aggravate of the team is increased based on Baizhu’s Max HP by Baizhu’s passive talent.
+Artifacts
+Ocean-Hued Clam
+Main Stats
+Sands
+Energy Recharge
+Goblet
+HP%
+Circlet
+HP%
+Substats
+Energy Recharge / HP% / HP% / CRIT DMG / CRIT Rate
+Weapons
+Jadefall's Splendor
+Prototype Amber
+#7 Baizhu Hyperbloom Spread Team
+Tier SS
+Baizhu is the Main DPS and healer, driving the team's Spread and Hyperbloom damage with his high Max HP scaling.
+The team focuses on Dendro-Hydro Bloom generation and Electro-triggered Hyperbloom, while Fischl adds extra off-field Electro for Spread/Catalyze.
+Baizhu
+Main DPS
+Dendro
+Main DPS and healer. Baizhu provides shielding and healing while dealing Dendro damage to enable Bloom, Spread, and Hyperbloom. His damage and reaction amplification scale with Max HP.
+Artifacts
+Ocean-Hued Clam
+Main Stats
+Sands
+Energy Recharge
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+Energy Recharge / HP% / HP% / CRIT DMG / CRIT Rate
+Weapons
+Prototype Amber
+Raiden Shogun
+Sub DPS
+Electro
+Off-field Electro applier for triggering Hyperbloom on Dendro Cores. Build focuses on Elemental Mastery to maximize Hyperbloom damage.
+Artifacts
+Gilded Dreams
+Flower of Paradise Lost
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge / ATK%
+Weapons
+Dragon's Bane
+Fischl
+Sub DPS
+Electro
+Provides continuous off-field Electro damage with Oz, helping trigger Spread/Catalyze reactions and contributing strong sustained damage.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Aqua Simulacra
+The Stringless
+Xingqiu
+Sub DPS
+Hydro
+Hydro applier for consistent Bloom generation. Deepwood Memories lowers Dendro RES on enemies, increasing team reaction damage.
+Artifacts
+Deepwood Memories
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Favonius Sword
+#8 Baizhu Quickbloom Hyperbloom Team
+Tier SS
+Quickbloom
+team built around Raiden Shogun triggering Hyperbloom while Emilie and Furina maintain strong off-field damage and elemental application.
+Baizhu provides healing and shielding, and the team does not rely on Normal Attacks.
+Raiden Shogun
+Main DPS
+Electro
+On-field only for Elemental Skill support; her Electro application helps enable Hyperbloom triggers.
+Artifacts
+Flower of Paradise Lost
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge / ATK%
+Weapons
+Dragon's Bane
+Emilie
+Sub DPS
+Dendro
+Off-field Dendro damage dealer. Her Lumidouce Case consistently applies Dendro and gains more value against Burning enemies.
+Artifacts
+Deepwood Memories
+Main Stats
+Sands
+ATK%
+Goblet
+Dendro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Lumidouce Elegy
+Deathmatch
+Furina
+Sub DPS
+Hydro
+Provides continuous off-field Hydro application and strong team damage through her Elemental Skill.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+Hydro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Favonius Sword
+Baizhu
+Support
+Dendro
+Provides healing and shielding for team survivability. His passive also increases Hyperbloom damage based on his Max HP.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+Energy Recharge / HP%
+Weapons
+Jadefall's Splendor
+Prototype Amber
+Baizhu Teams FAQ
+What is the best Baizhu team in Genshin Impact?
+Baizhu Bloom with Ayato, Nilou, Nahida is one of the strongest Baizhu teams right now. Use the team summary and build cards on this page to pick the best version for your account.
+What are good Baizhu teams without premium weapons?
+You can run strong Baizhu teams without signature weapons by prioritizing reaction synergy, energy consistency, and artifact main stats shown in each build card.
+Which teammates are best with Baizhu?
+Common high-performing partners include teams such as Baizhu Bloom with Ayato, Nilou, Nahida, Baizhu Bloom Team 2 - Kaveh Nilou Bloom Core SS Team, Baizhu Spread Team: Alhaitham Yae Nahida Core. Check each lineup section for role breakdowns and gear priorities.

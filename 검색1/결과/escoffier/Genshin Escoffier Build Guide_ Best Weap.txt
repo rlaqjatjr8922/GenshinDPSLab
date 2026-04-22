@@ -1,0 +1,282 @@
+Task Search
+Checklists
+Guides
+Markers
+Videos
+Sort and Filter
+No Results
+Checklists
+New Checklist
+All Lists
+My Checklists
+All
+All Lists
+My Checklists
+How creative can you get with your first free checklist?
+Create a free account
+All Interactive Maps and Locations
+Genshin Escoffier Build Guide: Best Weapons, Artifacts, and Teams
+By
+Cedric Pabriga
+,
+Jen Rothery
+,
+Triforce
+,
++30 more
+Updated
+:
+May 6, 2025 3:43pm UTC
+Escoffier is a Fontainian off-field character who basically can do everything, so long as you keep her Energy Recharge needs in check. A chef of Fontaine, her cooking brings Freeze teams to a whole new level of playability. This guide to the
+best Genshin Impact Escoffier build
+will explain the best weapons, artifact sets, constellations, and team compositions for Escoffier.
+Escoffier
+Rarity:
+★★★★★
+Element:
+Cryo
+Weapon:
+Polearm
+Table of Contents:
+How to Get Escoffier
+Escoffier Gameplay Overview
+Escoffier Talents and Attack Combos
+Escoffier Constellation Analysis
+Escoffier's Best Weapons
+Escoffier's Best Artifacts
+Escoffier's Best Teams
+How to Get Escoffier in Genshin Impact
+Escoffier is a limited 5-star character, meaning you can only acquire her during limited time banners where she is featured.
+Genshin Escoffier Gameplay Overview
+Element:
+Cryo
+Weapon:
+Polearm
+Rarity:
+5-star
+Escoffier is a heavily pushed character; she consolidates several roles that usually each require their own team member.
+Escoffier has off-field damage comparable to Fischl, widely regarded as one of the best off-field DPS units in the game.
+She also heals the party by a large amount through her Burst, much like Jean, Charlotte, Mika, etc.
+Escoffier shreds Cryo and Hydro resistances even better than Anemo characters can, as long as your team consists solely of Cryo and Hydro characters
+She also buffs teammates based on her passives, weapon, and artifact.
+Essentially, Escoffier does it all. She’s made to push Freeze teams to the limit in terms of damage output and allows them to thrive even against enemies who cannot be frozen. Her biggest drawback is her massive Energy Recharge requirements, which easily go beyond 200% if she’s the only Cryo unit on your team.This can be mitigated by opting to Burst every other rotation, but the healing is quite important for her best teammate, Furina, who constantly drains the team’s health to deal damage, and who buffs the team based on healing received across the party.
+Even as just an off-field DPS, Escoffier is worth pulling. When you stack that ontop of her healing ability, debuffs, and buffs, it’s almost a no-brainer. Escoffier is not a must-pull, but your account will absolutely benefit from having her.
+Stats Worth Consideration
+ATK%
+: Escoffier wants a high ATK stat so she can share her ATK with her teammates.
+Cryo DMG
+: This is the element Escoffier’s damage is based off of.
+CRIT Rate:
+Only if you’re using Favonius Lance to generate energy for your team.
+For any character devoted to building damage, it is important to prioritize a 1-to-2 ratio between CRIT Rate and CRIT DMG. 1-3 ratios, while they may give dopamine through bigger Crit numbers, is actually less damage overall. Aim for 75;150 in most cases!
+Genshin Escoffier Talents and Attack Combos
+Your talent-levelling priority should is Skill > Burst.
+Normal Attack
+Escoffier has no reason to use her Normal Attacks, so there is no reason to level this talent. She is best for her Skill’s damage and healing on Burst, as well as her passives.
+Elemental Skill
+Escoffier’s Skill has a tap function and a hold function.
+The hold function is only useful for making food outside of combat, once per week. These guides focus on gearing characters for the most difficult content, so there won’t be further comments on this.
+The tap function is quite strong. Escoffier summons a turret that follows the active character and deals Cryo damage to enemies regularly for 20s. There are a few noteworthy things about this Skill that aren’t apparent at first glance.
+First, 20s is a LONG time to have a turret. It is essentially infinite uptime since many rotations are only 20s.
+Second, Escoffier has high ATK, and the multiplier at Talent 9 is better than most off-field DPS turrets, including Fischl.
+Third, characters like Fischl usually have their Skill damage being the main important thing about them… but Escoffier does a LOT more than just fulfill the role of off-field DPS. She is also a buffer, debuffer, and healer.
+Elemental Burst
+Escoffier’s Burst is very simple and very straightforward. It deals a huge amount of Cryo damage one time to nearby enemies and also heals the team by a pretty sizeable amount (expect somewhere around 5,000+ HP).
+Escoffier
+Passives
+Next, come her passives.
+After using the Elemental Burst, Escoffier will obtain the Rehab Diet effect for 9s: Restores HP for nearby active characters every 1s based on 138.24% of Escoffier's ATK. This adds constant healing to the rest of the party while still incentivizing building Escoffier for damage.
+When there are 1/2/3/4 Hydro or Cryo characters in the party, Escoffier will decrease the Hydro RES and Cryo RES of any opponents hit by her Elemental Skill or her Elemental Burst by 5%/10%/15%/55% for 12s. This is a massive debuff to enemies. Reminiscent of Chevreuse, at the cost of limiting your team to purely Cryo and Hydro characters, she eliminates the need for shredding resistances from an Anemo character, because she does the job on her own even better. This passive is probably the reason you want to pull for Escoffier in the first place.
+Finally, Escoffier's Hold Skill makes food if you hit her pot with elemental attacks… once per week. Moving on.
+Escoffier
+Field Time Inputs
+Escoffier’s field time should be executed as such:
+Escoffier Skill
+Escoffier Burst
+Swap
+Genshin Escoffier Constellation Analysis
+Escoffier is a fully functional character at C0, however, C1 and C2 are especially valuable, as is C3 to a lesser extent. It might be worth picking up a constellation or two, but even at C0, Escoffier is heavily pushed in power level to the point she doesn’t even remotely need them to clear the most difficult content in the game.
+Constellation Name
+Abbreviated In-Game Description
+Notes
+C1.
+When 4 party members are Hydro or Cryo, all nearby party members will have their Cryo DMG CRIT DMG increased by 60% for 15s after Escoffier uses her Skill or Burst
+Unbalanced. Easily makes your Cryo DPS characters much more powerful. This kind of Constellation is usually relegated to a 4-star’s C6, but we get this as C1 on a 5-star.
+C2.
+Escoffier, after using her Skill, will gain 5 stacks for 15s. Each stack will trigger when a party member other than Escoffier deals Cryo damage, adding a flat damage buff of 240% ATK.
+Reminiscent of Shenhe,
+C3.
+Increase Skil talent level by 3.
+Just more damage!
+C4.
+Rehab Diet lasts 6 more seconds. While it is active, you have a chance of healing 100% extra HP and restoring 2 Energy to Escoffier when you trigger healing through Rehab Diet. This chance corresponds to Escoffier's CRIT Rate. You can trigger this effect 7 times during any one Rehab Diet's duration.
+Helps Escoffier’s energy requirements and adds more healing. The extra healing probably isn’t necessary, but it makes her a much better teammate for Furina.
+C5.
+Increases Burst talent level by 3.
+Same notes as C4, minus the energy assistance.
+C6.
+Skill is enhanced: When your party's active character's Normal, Charged, or Plunging Attacks hit opponents, Escoffier’s Skill will fire off 500% of Escoffier's ATK as AoE Cryo DMG; once every 0.5s, up to 6 times within the duration of one Cooking Mek: Cold Storage Mode.
+Another strong C6, but this pales in comparison to other C6’s. Most C6’s on 5-stars change the character’s play style, but this just adds more damage. Up to 3,000% motion value is nothing to sneeze at.
+Genshin Escoffier's Best Weapons
+Escoffier wants three things: CRIT stats, ATK, and Energy Recharge. Recharge is especially relevant where you aren’t using mostly Cryo characters in the team. ATK will boost her damage and healing, and CRIT is best for damage overall while also being a more difficult stat to build.
+Weapon Name
+Abbreviated In-Game Description
+Notes
+Symphonist of Scents
+66.2% CRIT DMG
+ATK is increased by 12%. When the equipping character is off-field, ATK is increased by an additional 12%. After healing, the equipping character and healed character(s) will obtain the "Sweet Echoes" effect, increasing their ATK by 32% for 3s. This effect can be triggered even if the equipping character is off-field.
+Best-in-Slot
+There’s just nothing else that compares. 32% ATK to the whole team whenever they’re healed by Escoffier is a massive bonus. It heavily incentivizes building Energy Recharge to make sure you can Burst every rotation, but that’s compensated by the enormity of the buff that is provided.
+Calamity Queller
+16.5% ATK
+Gain 12% All Elemental DMG Bonus. Obtain Consummation for 20s after using an Elemental Skill, causing ATK to increase by 3.2% per second. This ATK increase has a maximum of 6 stacks. When the character equipped with this weapon is not on the field, Consummation's ATK increase is doubled.
+Best Backup Limited 5-Star Option
+The enormous ATK stat (741) along the ATK substat helps maximize her healing abilities while also contributing to damage. Since she will be off-field when damaging enemies anyways, the doubled ATK buff will work wonders. This easily compensates for having to use an Energy Recharge Sands.
+Skyward Spine
+36.8% ER
+Increase CRIT Rate by 8%. The rest of the passives don’t apply to Escoffier’s gameplay.
+Best Standard 5-Star Option
+High base ATK and the Energy Recharge substat make this a fine use for Escoffier, but it’s basically just a stat stick. It’s unfortunate that she doesn’t use her Normal Attacks, as there’s no way to really gain benefit from Skyward Spine’s other buffs. Other 5-star options will feel similarly underutilized.
+Deathmatch (R5)
+36.8% CRIT Rate
+If there are at least 2 opponents nearby, ATK is increased by 32% and DEF is increased by 32%. If there are fewer than 2 opponents nearby, ATK is increased by 48%.
+Battle Pass Option
+A massive amount of CRIT rate at the cost of low base ATK. However, the ATK buff helps compensate somewhat for this. Be very careful if you’re using the Blizzard Strayer artifact set in Freeze teams, because it will be very easy to go over 100% CRIT Rate, and anything above 100% is wasted entirely.
+Favonius Lance
+30.6% ER
+CRIT Hits have a 60-100% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 12-6s.
+Accessible 4-Star Option
+A fine default option since it balances Base ATK with Energy Recharge. Favonius weapons are a good bottom line for basically any support character, especially ones with high Energy Recharge. The reason this is ranked unusually low is because Escoffier is a rare case of having both support and DPS roles, and Favonius weapons don’t cater to damage needs.
+Genshin Escoffier's Best Artifacts
+Sands
+– ATK%
+Goblet
+– Cryo DMG%
+Circlet
+– CRIT Rate/DMG
+Artifact Set Name
+Abbreviated In-Game Description
+Notes
+4pc Golden Troupe
+2pc: +20% Skill DMG.
+4pc: Increases Elemental Skill DMG by 25%. Additionally, when not on the field, Elemental Skill DMG will be further increased by 25%. This effect will be cleared 2s after taking the field.
+Best Overall Option
+All-around the best set for Escoffier; this set is tailor-made for Skill-based Off-Field DPS units, and since Escoffier is one of the better ones out there, she is no exception.
+4pc Blizzard Strayer
+2pc: +15% Cryo DMG.
+4pc: When a character attacks an opponent affected by Cryo, their CRIT Rate is increased by 20%. If the opponent is Frozen, CRIT Rate is increased by an additional 20%.
+Best Choice for Freeze Teams Only
+With Blizzard Strayer in a Freeze team, you will not need to build CRIT Rate at all, since Escoffier’s Ascension Stat and 40% CRIT Rate will often be enough. It’s likely you’ll have at least one or two CRIT Rate substats to hit that magic 75% number. However, this gets much worse in Boss fights where they can’t be frozen.
+Genshin Escoffier's Best Teams
+Escoffier is made for Freeze teams. That said, this guide will focus mostly on her Hydro and Cryo teammates in order to make the most of her passives. However, Escoffier is also generically powerful enough that you can slap her into basically any team when she’s focused on damage. Her Cryo application is also good enough to help out Melt teams
+As long as the entire team consists of Hydro and Cryo characters, you can basically mix-and-match just about anyone. Furina is an exceptional teammate to look out for, since Escoffier’s healing enhances Furina’s buffs, and Furina is a great off-field DPS as well. Your remaining slot for Freeze teams should go to your favorite on-field DPS in Cryo or Hydro, along with whatever teammate in those elements supports that DPS the best.
+In terms of Melt teams, her role consolidation helps her keep Cryo aura on enemies for Pyro DPS units to Melt off of while healing and dealing respectable damage. Usually, you’ll want to pair Escoffier with another Cryo unit, if not at the very least for Energy Recharge concerns.
+Guide Character
+Hydro/Cryo DPS
+Furina/Flex
+Hydro/Cryo
+Guide Character
+Pyro DPS
+Flex
+Flex
+Specific Teammate Choices
+Teammate Choices
+Character Name
+Notes
+Character Name
+Notes
+Ayaka
+Cryo DPS
+Can be played on-field or off-field
+Incredibly powerful Burst, especially in Freeze teams
+Among the strongest Cryo DPS characters in the game
+Energy-hungry
+Ganyu
+Cryo DPS
+Can be played on-field or off-field
+Aimed Shots are made easy in Freeze teams
+High AOE damage with Aimed Shots
+Infinite range if you aim well enough
+Among the strongest Cryo DPS characters in the game
+Bennett
+Pyro Support / Healer
+C1+ Recommended
+Huge Teamwide Flat ATK Buff
+Rapid Healing Within AoE
+Great Pyro energy supplier
+Short Cooldowns on Skill/Burst
+Accessible via Paimon's Bargains
+Neuvillette
+Hydro On-Field DPS
+The most powerful on-field Hydro DPS at time of writing.
+Self-drain/heal
+Turn mouse sensitivity up and spin to win
+Long rotations
+Xingqiu
+Off-Field Hydro DPS
+Consistent Hydro application to ensure reactions.
+Interruption resistance
+Minor healing
+Excellent single-target damage output.
+Paired with Yelan, can often carry a team by themselves.
+Yelan
+Off-Field Hydro DPS
+Consistent Hydro application to ensure reactions.
+Paired with Xingqiu, can often carry a team by themselves.
+Sizeable buff to active character – up to 50% DMG bonus.
+Excellent single-target damage output.
+Furina
+On-Field DPS
+The Hydro Archon demands a dedicated healer
+Massive universal damage-buffer for team
+Impressive damage on top of her support capabilities
+Mavuika
+Pyro DPS
+Incredible damage when paired with Natlan characters.
+Slow Pyro application works well with Forward Melt reactions.
+No energy requirements
+Perhaps the strongest Pyro DPS at time of writing.
+Kaeya
+Off-Field Cryo DPS
+Respectable damage output
+Consistent application for reactions
+Orbiting icicles make melee-based reactions more reliable.
+Rosaria
+Off-Field Cryo DPS
+Impressive AoE damage output
+Grants CRIT Rate bonus to the team
+Low cooldowns means she generates lots of energy
+Viable in a variety of roles and builds
+Citlali
+Cryo Support
+Natlan support that provides Fighting Spirit for Mavuika
+4pc Cinder City offers huge elemental damage buffs to team.
+Thrilling Tales of Dragon Slayer buffer
+Amplifies Cryo, Hydro, and Pyro reactions and damage for teammates.
+Offers a modest shield.
+Shenhe
+Cryo Support
+Adds massive damage bonuses to Cryo teammates.
+Builds almost exclusively ATK%
+Often wields Favonius weapons
+Up Next:
+Genshin Impact Luna VI Details and Patch Notes
+Previous
+Hypostatic Symphony: Dissonant Verse
+Next
+Genshin Impact Luna VI Details and Patch Notes
+Top Guide Sections
+Genshin Impact Luna VI Details and Patch Notes
+Genshin Impact Luna IV Release Time and Details
+Genshin Impact Luna III Details and Patch Notes
+Genshin Impact Luna II Release Date and Details
+Was this guide helpful?
+Leave feedback
+In This Guide
+Genshin Impact
+HoYoverse
+Initial Release:
+Sep 27, 2020
++2
+Learn more
+Go to comments

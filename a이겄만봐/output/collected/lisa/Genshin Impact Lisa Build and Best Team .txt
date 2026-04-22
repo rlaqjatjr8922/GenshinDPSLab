@@ -1,0 +1,172 @@
+Lisa is a playable Electro character in Genshin Impact. We decided to write this guide to help you learn more about Lisa. In our Genshin Impact Lisa Build and Best Team Comp post you will learn about Lisa’s talents, how they work and how to upgrade them. Also, you will read about her Constellations that will help you make Lisa even more powerful. After that, we have written Genshin Impact Lisa Build where you’ll see weapon and artifact set. And at last, we have mentioned the best team comps for Lisa as the Sub DPS hero.
+Genshin Impact All Characters List
+The whole information is presented in tables. You can use the navigation bar above to move quickly to the information block that you are most interested in.
+Talents
+Constellations
+Build
+Team
+Lisa Build
+Below you can see the best weapon option for playing Lisa in Genshin Impact. Accompanied by the best Lisa artifact set and its stat priorities.
+Sub DPS Build
+If you play this champion as a Sub DPS in your comp you should take the weapon and artifacts from the list below. They are believed to be the most effective ones in almost all situations.
+Weapon
+Skyward Atlas
+Weapon Substitutes:
+The Widsith
+,
+Thrilling Tales of Dragon Slayers
+.
+Artifact Set
+Thundering Fury
+(4-Piece)
+Artifact Main Stats Priority:
+ATK% / Energy Recharge
+Electro DMG Bonus
+CRIT Rate / CRIT DMG
+Sub Stats Priority: CRIT Rate > CRIT DMG > ATK% > Elemental Mastery / Energy Recharge
+Talent Priority
+Violet Arc > Lightning Rose > Lightning Touch
+Main DPS Build
+If you play this champion as a Main DPS in your comp you should take the weapon and artifacts from the list below. They are believed to be the most effective ones in almost all situations.
+Weapon
+Lost Prayer to the Sacred Winds
+Artifact Set
+Thundering Fury
+(4-Piece)
+Artifact Main Stats Priority:
+ATK% / Energy Recharge
+Electro DMG Bonus
+CRIT Rate / CRIT DMG
+Sub Stats Priority: CRIT Rate > CRIT DMG > ATK% > Elemental Mastery / Energy Recharge
+Talent Priority
+Lightning Touch > Violet Arc > Lightning Rose
+Best Team Compositions for Lisa
+When you play Genshin Impact everything depends not only on your main character but also on the composition. You should learn how elements complement each other and build the best team for your main. Below you can see the best team composition for Lisa with Main DPS, sub DPS character and support. Also, we have included alternative characters for each role that go well with Lisa too.
+Lisa as a Sub DPS
+Lisa can be a good sub DPS for Cryo or character that use physical damage as main, like Eula. Together they activate Superconduct that decreases enemies’ physical damage armour. Electro resonance and Cryo Resonance will make this combination even more powerful. Fischl is one of the best options, but you can also use Beidou. Diona is a perfect support for such a team that heals and shields.
+Good characters for this comp:
+Raiden Shogun, Beidou, Chongyun, Mona, Xingqiu, Sucrose, Venti, Zhongli, Bennett.
+If you want to know more about every teammate for Lisa you can click on the link below and find them in the list of all Genshin Impact characters that we have described.
+Lisa as a Main DPS
+Main DPS Lisa is not very popular, but if you want to try it out you can take Xingqiu as a sub-dps. His elemental Burst will apply Hydro to enemies while Lisa uses auto attacks and activates damaging reactions. Also, Xingqiu will provide additional healing. Sucrose will spread reactions among others and Zhongli has strong shields and damaging Elemental Burst.
+Genshin Impact All Characters List
+In case you are still not sure what champion you want to pick as main we have
+Genshin Impact characters tier list
+with explanations on how to build your best team.
+Lisa Talents
+Below you can see the list of talents that Lisa uses during the fight. Each of them we have described with the main characteristics.
+Lightning Touch
+Normal Attack
+Normal Attack:
+Performs up to 4 lightning attacks that deal
+Electro DMG
+.
+Charged Attack:
+Consumes a certain amount of Stamina to deal Electro DMG after a short casting time.
+Plunging Attack:
+Gathering the might of Electro, Lisa plunges towards the ground from mid-air, damaging all opponents in her path. Deals AoE Electro DMG upon impact with the ground.
+Violet Arc
+Elemental Skill
+Channels the power of lightning to sweep bothersome matters away.
+Press:
+Releases a homing Lightning Orb. On hit, it deals Electro DMG, and applies a stack of the Conductive status (max 3 stacks) to opponents in a small AoE.
+Hold:
+After an extended casting time, calls down lightning from the heavens, dealing massive Electro DMG to all nearby opponents.Deals great amounts of extra damage to opponents based on the number of Conductive stacks applied to them, and clears their Conductive status.
+Lightning Rose
+Elemental Burst
+Summons a Lightning Rose that unleashes powerful lightning bolts, launching surrounding opponents and dealing Electro DMG.
+The Lightning Rose will continuously emit lightning to knock back opponents and deal Electro DMG throughout the ability’s duration.
+Induced Aftershock
+1st Ascension Passive
+Hits by Charged Attacks apply Violet Arc’s Conductive status to opponents.
+Static Electricity Field
+4th Ascension Passive
+Opponents hit by Lightning Rose have their DEF decreased by 15% for 10s.
+General Pharmaceutics
+Utility Passive
+When Lisa crafts a potion, she has a 20% chance to refund one count of one material out of all the crafting materials used.
+Every talent can be upgraded up to level 15. But to do so you will need to gather materials on particular days. The list of the needed materials for leveling Lisa’s talents is mentioned in the next block.
+Talent Leveling Materials
+So here you can see all materials that you will need in order to level up Lisa’s talents.
+Talent Level-Up Materials
+Ballad Books:
+Teachings of Ballad
+,
+Guide to Ballad
+,
+Philosophies of Ballad
+.
+Common Ascension Materials
+Slime Condensate
+,
+Slime Secretions
+,
+Slime Concentrate
+.
+Weekly Boss Material
+Dvalin’s Claw
+Genshin Impact Enhancement Progression Calculator
+Some of them are required at the beginning for low levels and others are more advanced. We just wanted to focus your attention on material types in general.
+Lisa Constellations
+In Genshin Impact characters have a specific upgrade system called constellation. You will need to get a specific item called Stella Fortuna to increase the level of constellation. Each character has their own version of Stella Fortuna, which you get by obtaining a duplicate of the character from Wishes.
+Level 1
+Infinite Circuit
+Lisa regenerates 2 Energy for every opponent hit while holding Violet Arc.
+A maximum of 10 Energy can be regenerated in this manner at any one time.
+Level 2
+Electromagnetic Field
+Holding Violet Arc has the following effects:
+Increases DEF by 25%.
+Increases Lisa’s resistance to interruption.
+Level 3
+Resonant Thunder
+Increases the Level of Lightning Rose by 3.
+Maximum upgrade level is 15.
+Level 4
+Plasma Eruption
+Increases the number of lightning bolts released by Lightning Rose by 1-3.
+Level 5
+Electrocute
+Increases the Level of Violet Arc by 3.
+Maximum upgrade level is 15.
+Level 6
+Pulsating Witch
+When Lisa takes the field, she applies 3 stacks of Violet Arc’s Conductive status onto nearby opponents.
+This effect can only occur once every 5s.
+Every Genshin Impact character has own set of constellations above you can see Lisa constellations list with descriptions.
+Ascension Materials
+In addition, there are ascension phases that increase the level cap for your character. After Lisa reaches the 20th level she can be ascended to the next ascension phase, up to phase 6, which allow getting 90th level.
+Character Ascension Materials
+Vajrada Amethyst:
+Vajrada Amethyst Sliver
+,
+Vajrada Amethyst Fragment
+,
+Vajrada Amethyst Chunk
+,
+Vajrada Amethyst Gemstone
+.
+Lightning Prism
+Common Ascension Materials
+Slime Condensate
+,
+Slime Secretions
+,
+Slime Concentrate
+.
+Local Specialty
+Valberry
+Genshin Impact Enhancement Progression Calculator
+In order to level up ascension phases you’ll need materials. So the list of those required for Lisa is listed above.
+Artem R.
+I have been an avid gamer since childhood. My favorite genres are RPGs, Action, and MMOs. Some of my all-time favorite games include the Diablo and Path of Exile ARPG series, the Dark Souls series, and JRPGs like Xenoblade, Atelier, and the Final Fantasy. I am also a big fan of the PSP and PS Vita, and I currently enjoy gaming on my Nintendo Switch.
+Post Views:
+8,212
+Please share it with your friends
+Tags:
+Genshin Impact
+Post navigation
+Previous
+Top June PC Indie Games List
+Next
+What Blizzard Games are Available for Mac?

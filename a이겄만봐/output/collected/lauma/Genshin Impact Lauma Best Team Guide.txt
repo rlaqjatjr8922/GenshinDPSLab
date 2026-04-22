@@ -1,0 +1,440 @@
+Genshin Impact Lauma Best Team Guide
+Last updated April 22, 2026. Looking for the best Lauma teams in
+        Genshin Impact? Start with the top team summary below, then pick the
+        lineup that fits your roster.
+This page provides the best team information for Lauma, primarily a Support. Top teams include Blooming, Burgeon, and Hyperbloom compositions. Team positions can be adjusted based on your roster.
+View Lauma's character page
+Lauma Team Summary
+#1
+Team Rating:S
+Lauma Hyperbloom Team with Alhaitham, Xingqiu & Kuki Shinobu
+#2
+Team Rating:S
+Lauma Hyperbloom Team #1
+#3
+Team Rating:S
+Lauma Hydro Bloom Team with Neuvillette and Furina
+#4
+Team Rating:S
+Lauma Hyperbloom Team #3
+#5
+Team Rating:S
+Lauma Vaporize Neuvillette Team
+#1 Lauma Hyperbloom Team with Alhaitham, Xingqiu & Kuki Shinobu
+Tier S
+Lauma boosts
+Lunar Bloom
+damage while shredding Dendro/Hydro RES, enabling a stronger Hyperbloom-style reaction team centered on Alhaitham's Dendro uptime and Kuki's Electro trigger consistency.
+Alhaitham
+Main DPS
+Dendro
+On-field driver and main damage dealer. Uses Elemental Skill and Burst to generate
+Chisel-Light Mirrors
+, then attacks to trigger extra AoE Dendro projections.
+Artifacts
+Deepwood Memories
+Gilded Dreams
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Dendro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / ATK% / Energy Recharge
+Weapons
+Light of Foliar Incision
+Wolf-Fang
+Lauma
+Support
+Dendro
+Core support for the team. Converts Bloom into
+Lunar Bloom
+, increases reaction damage, stacks
+Hymn of Eternal Rest
+, and reduces enemy Dendro/Hydro RES.
+Artifacts
+Deepwood Memories
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / ATK% / Energy Recharge
+Weapons
+Nightweaver's Looking Glass
+Wandering Evenstar
+Xingqiu
+Sub DPS
+Hydro
+Off-field Hydro applicator. His Burst continuously applies Hydro to enable Bloom cores and maintain reaction uptime.
+Artifacts
+Silken Moon's Serenade
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Sacrificial Sword
+Kuki Shinobu
+Support
+Electro
+Healer and primary Hyperbloom trigger. Build full Elemental Mastery so her Skill reliably triggers Hyperbloom for high reaction damage.
+Artifacts
+Flower of Paradise Lost
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery
+Weapons
+Key of Khaj-Nisut
+Xiphos' Moonlight
+#2 Lauma Hyperbloom Team #1
+Tier S
+Lauma transforms the traditional
+Bloom
+reaction into
+Lunar Bloom
+, which has higher damage and can Crit. Her Elemental Skill can accumulate layers of
+Hymn of Eternal Rest
+to further boost Lunar Bloom damage triggered by all teammates. She can also reduce enemies' Dendro and Hydro RES, and increase her own and the team's Lunar Bloom damage based on her Elemental Mastery.
+Lauma
+Support
+Dendro
+Equips
+Deepwood Memories (4)
+to shred Dendro RES and amplify team Bloom-related damage. Focus on stacking Elemental Mastery to maximize Lunar Bloom bonuses.
+Artifacts
+Deepwood Memories
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / ATK% / Energy Recharge
+Weapons
+Nightweaver's Looking Glass
+Wandering Evenstar
+Furina
+Sub DPS
+Hydro
+Provides consistent off-field Hydro application and team damage amplification through her Elemental Burst.
+Golden Troupe (4)
+maximizes her skill damage.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Favonius Sword
+Yelan
+Sub DPS
+Hydro
+Off-field Hydro applier with strong personal damage and additional team damage from her Elemental Burst.
+Emblem of Severed Fate (4)
+is her best set here.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG / CRIT Rate
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Aqua Simulacra
+Favonius Warbow
+Kuki Shinobu
+Support
+Electro
+Primary Hyperbloom trigger and healer. Build full Elemental Mastery to maximize Hyperbloom damage while maintaining healing through her skill.
+Artifacts
+Flower of Paradise Lost
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery
+Weapons
+Key of Khaj-Nisut
+Xiphos' Moonlight
+#3 Lauma Hydro Bloom Team with Neuvillette and Furina
+Tier S
+A high-damage Hydro-centric Lunar Bloom team built around
+Neuvillette
+'s on-field Hydro damage,
+Furina
+'s HP manipulation and team damage buff,
+Lauma
+'s Lunar Bloom amplification and Dendro/Hydro RES shred, and
+Xilonen
+'s elemental RES reduction plus healing and support utility.
+Neuvillette
+Main DPS
+Hydro
+On-field driver and primary damage dealer. Uses Charged Attacks to deal sustained Hydro damage while benefiting from Furina's buff, Lauma's Lunar Bloom support, and Xilonen's RES shred.
+Artifacts
+Marechaussee Hunter
+Main Stats
+Sands
+HP%
+Goblet
+Hydro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Tome of the Eternal Flow
+Sacrificial Jade
+Furina
+Sub DPS
+Hydro
+Provides consistent off-field Hydro application and a powerful teamwide DMG buff through her Elemental Burst. Her HP fluctuation synergy is supported by healing from Xilonen.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Favonius Sword
+Lauma
+Support
+Dendro
+Core reaction enabler and Lunar Bloom support. Converts Bloom into
+Lunar Bloom
+, which can crit and deal higher damage. Her skill stacks Hymn of Eternal Rest to boost team Lunar Bloom damage, while also reducing Dendro and Hydro RES and scaling team damage with EM.
+Artifacts
+Deepwood Memories
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / ATK% / Energy Recharge
+Weapons
+Nightweaver's Looking Glass
+Favonius Codex
+Xilonen
+Support
+Geo
+Utility support providing elemental RES shred through active Samplers and additional healing for the team. Also helps maintain survivability while amplifying overall team damage.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Peak Patrol Song
+Favonius Sword
+#4 Lauma Hyperbloom Team #3
+Tier S
+Lauma Hyperbloom Team #3
+A Lunar Bloom-focused Hyperbloom variant built around Neuvillette and Furina for strong Hydro application, with Lauma amplifying Bloom-style reactions and reducing Dendro/Hydro RES. Kuki Shinobu provides healing and consistently triggers Hyperbloom with high Elemental Mastery.
+Neuvillette
+Main DPS
+Hydro
+On-field Hydro DPS and primary driver. Uses Charged Attacks to deal strong Hydro damage while enabling constant reaction setup for the team.
+Artifacts
+Marechaussee Hunter
+Main Stats
+Sands
+HP%
+Goblet
+Hydro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Tome of the Eternal Flow
+Sacrificial Jade
+Furina
+Sub DPS
+Hydro
+Off-field Hydro support with strong teamwide damage buffs and consistent Hydro application through her Elemental Skill. Her Burst increases team damage based on HP changes, which synergizes with healing from Kuki Shinobu.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Favonius Sword
+Lauma
+Support
+Dendro
+Enables Lunar Bloom and boosts Bloom-type reaction damage. Her skill builds
+Hymn of Eternal Rest
+stacks to further empower team Lunar Bloom damage, while also reducing enemy Dendro/Hydro RES and scaling her buffing with Elemental Mastery.
+Artifacts
+Deepwood Memories
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / ATK% / Energy Recharge
+Weapons
+Nightweaver's Looking Glass
+Favonius Codex
+Kuki Shinobu
+Support
+Electro
+Provides healing and is the team's Hyperbloom trigger. Maximizing Elemental Mastery greatly increases Hyperbloom damage.
+Artifacts
+Flower of Paradise Lost
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery
+Weapons
+Key of Khaj-Nisut
+Xiphos' Moonlight
+#5 Lauma Vaporize Neuvillette Team
+Tier S
+Vaporization-focused team
+built around Neuvillette’s sustained Hydro damage with Furina amplification and Lauma’s support utility. Xiangling provides consistent Pyro application to enable Vaporize reactions.
+Note:
+The guide describes Lauma as a support and highlights her Lunar Bloom mechanics, but this lineup is presented as a Vaporize team.
+Neuvillette
+Main DPS
+Hydro
+Primary on-field damage dealer. Uses charged attacks and skill/burst-based Hydro damage to drive reactions.
+Artifacts
+Marechaussee Hunter
+Main Stats
+Sands
+HP%
+Goblet
+Hydro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Tome of the Eternal Flow
+Sacrificial Jade
+Furina
+Sub DPS
+Hydro
+Provides off-field Hydro application and strong team-wide damage buffs through her elemental burst.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Favonius Sword
+Lauma
+Support
+Dendro
+Support unit that boosts reaction damage and provides RES reduction utility. The guide emphasizes her Lunar Bloom-related buffs and EM scaling.
+Artifacts
+Deepwood Memories
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / ATK% / Energy Recharge
+Weapons
+Nightweaver's Looking Glass
+Favonius Codex
+Xiangling
+Support
+Pyro
+Off-field Pyro applicator whose Elemental Burst enables consistent Pyro attachment for Vaporize reactions.
+Artifacts
+Silken Moon's Serenade
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / Energy Recharge / ATK%
+Weapons
+Engulfing Lightning
+Favonius Lance
+Lauma Teams FAQ
+What is the best Lauma team in Genshin Impact?
+Lauma Hyperbloom Team with Alhaitham, Xingqiu & Kuki Shinobu is one of the strongest Lauma teams right now. Use the team summary and build cards on this page to pick the best version for your account.
+What are good Lauma teams without premium weapons?
+You can run strong Lauma teams without signature weapons by prioritizing reaction synergy, energy consistency, and artifact main stats shown in each build card.
+Which teammates are best with Lauma?
+Common high-performing partners include teams such as Lauma Hyperbloom Team with Alhaitham, Xingqiu & Kuki Shinobu, Lauma Hyperbloom Team #1, Lauma Hydro Bloom Team with Neuvillette and Furina. Check each lineup section for role breakdowns and gear priorities.

@@ -1,0 +1,73 @@
+Genshin Impact
+Version 4.0
+debuts
+“Spectacle of Phantasmagoria” Lyney
+(
+pyro/bow
+), the first event-exclusive 5* character from Fontaine. He is a pretty decent
+on-field DPS
+who shines in a limited number of teams. This guide will provide a detailed breakdown of the different team compositions for Lyney in Genshin Impact.
+Best Team Compositions for Lyney in Genshin Impact
+Mono Pyro with Bennett
+Lyney’s passive talents incentivize a Mono Pyro team, and his best teammate is Bennett due to his huge ATK buff coupled with his ability to battery Pyro characters. Lyney can gain up to
+100% DMG increase by having 2 Pyro teammates
+. The last slot is reserved for a buffer or a shielder.
+In this section, we will discuss several variations of a Mono Pyro team with Bennett. These Mono Pyro variants feature at least 3 Pyro characters since the DMG bonuses from Lyney’s passives cap out at having 3 Pyro characters in a team.
+Kazuha/Sucrose variants
+Other Anemo characters like Venti, Jean, and Lynette can also be used here, but none of them are as good as Kazuha/Sucrose in terms of buffing capabilities.
+Lyney
+Bennett
+Xiangling
+Kazuha
+/Sucrose
+Main DPS
+ATK buff/battery/healing
+Sub-DPS
+Pyro RES shred/grouping/Pyro DMG bonus (Kazuha and C6 Sucrose only)
+This is the highest DMG team for Lyney. Due to the lack of interruption resistance, it might be hard to play this team comfortably, but having Xiangling as a sub-DPS increases the DMG potential of this team by a lot.
+Lyney
+Bennett
+Dehya
+Kazuha/Sucrose
+Main DPS
+ATK buff/battery/healing
+Interruption resistance
+Pyro RES shred/grouping/Pyro DMG bonus (Kazuha and C6 Sucrose only)
+This team benefits from a decent interruption resistance provided by Dehya’s skill, but the DMG potential of this team takes a nosedive due to lacking Xiangling.
+image via HoYoverse
+Zhongli/any shielder variants
+Lyney
+Bennett
+Xiangling
+Zhongli/any shielder
+Main DPS
+ATK buff/battery/healing
+Sub-DPS
+Interruption resistance/Pyro RES shred (Zhongli only)
+This team is significantly more comfortable to play than the Kazuha/Sucrose variants. It will have a lower DMG potential, but still miles ahead of the Dehya variant. Preferable shielders in place of Zhongli are Thoma, C4
+Yanfei, Kirara, Baizhu, Layla,
+and
+Diona
+.
+Read out other articles on Genshin Impact here
+What are your thoughts about our guide on Best Team Compositions of
+Lyney
+in Genshin Impact? Let us know in the comments below!
+For more Mobile Gaming news and updates, join our
+WhatsApp group
+,
+Telegram Group
+,
+or
+Discord server
+. Also, follow us on
+Google News
+,
+Instagram
+, and
+Twitter
+for quick updates.
+Tags
+Gacha Games
+Genshin Impact
+HoYoverse

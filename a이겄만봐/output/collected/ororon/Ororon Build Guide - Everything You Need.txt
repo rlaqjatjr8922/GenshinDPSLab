@@ -1,0 +1,102 @@
+Contents
+Quick Look: Ororon Build Guide
+Ororon Talents
+Normal Attack
+Elemental Skill
+Elemental Burst
+Ororon Playstyle
+Talent Priority
+Best Weapons for Ororon
+Best Artifact Sets for Ororon
+The Best Stats for Ororon
+Team Compositions for Ororon
+Want to build your Ororon to his max potential then this guide is the one you are looking for!!!
+Ororon
+is the latest 4 star to join the
+Gens
+hin Impact
+roster. He is a strong sub DPS unit that can greatlly enhance the electro charged reactions of your team. But there are certain facts that you will need to keep in mind when building him.
+Quick Look: Ororon Build Guide
+Kit
+Focus On
+Attribute
+Electro DMG Bonus, Energy Recharge
+Weapons
+Song of Stillness
+Artifacts
+4-piece Scroll of the Hero of Cinder City
+Talent
+Elemental Burst > Elemental Skill
+Team Role
+Support, Buffer, Sub-DPS
+Ororon Build Guide
+Ororon Talents
+Ororon Talent
+Normal Attack
+Performs up to 3 consecutive shots with a bow deals
+physical DMG
+.
+Charged Attack
+:
+Performs a more precise Aimed Shot with increased DMG. While aiming, crackling lightning will accumulate on the arrowhead. An arrow fully charged with the storm’s might will deal Electro DMG. Capable of scanning runes and graffiti in Natlan, creating different effects based on what was scanned.
+Plunging Attack
+: Ororon plunges from mid-air to strike the ground, dealing physical damage.
+Elemental Skill
+Tosses a “Graffiti Bomb” that will ricochet between nearby opponents, attacking them. Deals Electro DMG.
+Stops attacking after attacking 3 times, or when there are no more opponents nearby to attack. Can bounce off each opponent a maximum of once.
+Elemental Burst
+Can continually taunt nearby opponents, drawing their attacks.
+Can fire soundwaves and continually spins, dealing Electro DMG to opponents it touches.
+Energy Cost
+: 70
+Cooldown
+: 15s
+Ororon Playstyle
+Sub DPS and Cinder City support/buffer is the suitable playstyle for Ororon. You will use his
+Talent Priority
+Elemental
+Burst
+>
+Elemental Skill
+>
+Normal Attack
+Maximizing her
+Elemental Burst
+is key for both support and DPS roles, as it offers substantial team-wide attacks. His
+Elemental Skill
+is next in priority.
+Best Weapons for Ororon
+Song of Stillness
+(4-star): Increases ATK%
+Stringless
+(4-star): Improves both elemental skill and burst damage and provides good EM.nce to deal an additional AoE attack.
+Best Artifact Sets for Ororon
+4-piece Scroll of the Hero of Cinder City
+:
+2-piece: Increases When a nearby party member triggers a Nightsoul Burst, the equipping character regenerates 6 Elemental Energy.
+4-piece: Increases After the equipping character triggers a reaction, all nearby party members gain a 12% Elemental DMG Bonus for the involved Elemental Types for 15s. If the equipping character is in the Nightsoul’s Blessing state when triggering this effect, all party members gain an additional 28% Elemental DMG bonus for the Elemental Types involved in the reaction for 20s.
+The Best Stats for Ororon
+Artifact
+Main Stats
+Substats
+Flower
+HP
+Crit Rate, Crit DMG, Energy Recharge, ATK%
+Feather
+ATK
+Crit Rate, Crit DMG, Energy Recharge, ATK%
+Sands
+ATK% / Energy Recharge
+Crit Rate, Crit DMG, ATK%
+Goblet
+Electro DMG Bonus
+Crit Rate, Crit DMG, ATK%
+Circlet
+Crit Rate / Crit DMG
+Crit Rate, Crit DMG, ATK%
+Ororon Stat Preference
+Team Compositions for Ororon
+Ororon works best in teams that benefit from electro charged reactions. There are multiple variations that you can pull off. Some of my current favorites are the following:
+Chasca + Ororon + Bennet + Xingqiu/Furina
+Neuvillette + Ororon + Kazuha + Furina
+Ororon + Yelan + Kazuha + Xingqiu

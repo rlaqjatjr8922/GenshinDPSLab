@@ -1,0 +1,103 @@
+Table of Contents
+[Hide]
+[Show]
+Best Position – Main DPS
+Best Weapons
++
+−
+5 Star – Aqua Simulacra
+4 Star – Prototype Crescent
+3 Star – Slingshot
+Best Artifacts
++
+−
+4PC Shimenawa’s Reminiscence
+4PC Blizzard Strayer
+4PC Wanderer’s Troupe
+Best Teams
++
+−
+Permafreeze
+Melt
+Hyperbloom (with a dash of Cryo)
+There’s a reason every
+Genshin Impact
+player rolls for Ganyu: she is broken in the best way. Aside from being very endearing, Ganyu’s appeal also comes from the fact that it’s easy to build a team around her. This is especially good for any true F2P player. Though 5 Star characters typically offer more options and stronger teams, Ganyu can work very well with a full 4 Star team.
+How to Complete Aranyaka World Quest in Genshin Impact
+|
+Should You Pull for Dori in Genshin Impact?
+|
+Genshin Impact: Best Zhongli Builds
+|
+Genshin Impact: Best Tighnari Builds
+Best Position – Main DPS
+Ganyu was definitely meant to be a Main DPS, but she can also function as a Sub-DPS if there’s a character you like using more. Ganyu’s ascension stat is CRIT DMG, lending her to a DPS position. Even without any Constellations, Ganyu does a lot of damage. However, she has low HP. As a Bow character, Ganyu is vulnerable during her Charge Attacks and Aimed Shots, so you should consider using a Shield Support or Healer with Ganyu.
+Her Elemental Burst provides a wide AoE of Cryo DMG and boosts Cryo DMG of any character within that AoE by 20%. If you use Ganyu during her Burst, then you can boost her Cryo DMG by 20%. This works very well for her Charged Attacks, especially since her Charged Arrow hits an enemy twice.
+Best Weapons
+5 Star – Aqua Simulacra
+Ganyu already has a high CRIT DMG stat, but Aqua Simulacra will boost that even more. Its passive skill, The Cleansing Form, increases the character’s HP by a percentage. This portion of the skill doesn’t help Ganyu much.
+However, Aqua Simulacra also grants a DMG boost any time there are opponents nearby. The buff only applies to the wielder, but takes effect regardless of whether the wielder is on the field. Essentially, Ganyu will receive a DMG buff whenever you trigger enemies.
+Honorable mention to
+Hunter’s Path.
+4 Star – Prototype Crescent
+The Prototype Crescent boosts the wielder’s ATK by a percentage. When Aimed Shots hit weak points, Prototype Crescent increases the wielder’s Movement SPD by 10% and ATK by a percentage for 10 seconds.
+This bow can be forged by a Blacksmith – located in every major city or in your Serenitea Pot – with a Northlander Bow Billet, Crystal Chunks, and White Iron Chunks. As a forged Bow, this is easy to refine – and it’s made even easier through Ganyu’s Utility Passive.
+Honorable mentions include
+Hanayumi, Favonius Warbow,
+and
+The Stringless.
+3 Star – Slingshot
+Slingshot pairs well with Ganyu’s natural CRIT DMG stat. It boosts CRIT Rate by a percentage, so it can help get Ganyu to the coveted 2:1 ratio of CRIT DMG to CRIT Rate. Its passive skill buffs DMG by a percentage when a Normal Attack or Aimed Shot hits a target within 0.3 seconds of being fired. However, if the shot doesn’t hit within that time, Slingshot decreases DMG by 10%.
+If you don’t want to deal with the debuff, the
+Sharpshooter’s Oath
+is a good option as well.
+Best Artifacts
+For the most part, an Artifact’s main stats should be
+ATK %, Cryo DMG Bonus, CRIT DMG and CRIT Rate.
+Substats depend on what you want to focus on, but should generally include
+CRIT DMG and ATK%.
+If you want to use Ganyu’s Elemental Burst more frequently or want to boost Elemental Reaction damage, look for
+Energy Recharge
+and
+Elemental Mastery
+substats.
+For any set, if you do not have 4 pieces, then you can sub out for 2 pieces of Noblesse Oblige for the Elemental Burst DMG.
+4PC Shimenawa’s Reminiscence
+Generally, this is the best set to equip Ganyu with because of the DMG bonus. At 2 pieces, Shimenawa increases ATK by 18%. At 4 pieces, when using an Elemental Skill, Shimenawa will boost Normal, Charged, and Plunging Attack DMG by 50% for 10 seconds. In exchange, if the character has 15 or more Energy, they lose 15 Energy. This can only be triggered once every 10 seconds.
+This set does require Ganyu to have some decent Energy Recharge. However, that can easily be fixed through your artifact stats or a “battery” character (another character that recharged the rest of your team’s Elemental Bursts). The Charged Attack DMG is worth the Energy, especially since Ganyu tends to rely on dealing damage through her Charged Attacks.
+4PC Blizzard Strayer
+At 2 pieces, Blizzard Strayer boosts Cryo DMG by 15%. At 4 pieces, when a character attacks an enemy affected by Cryo, the character’s CRIT Rate increases by 20%. Basically, as long as you see the snowflake icon appear over an enemy, this will take effect. Additionally, if the enemy is Frozen, Blizzard grants an additional 20% CRIT Rate boost.
+In total, if you create a Freeze Team and you freeze an enemy, Ganyu’s CRIT Rate will be boosted by 40%. This gets her overall CRIT stats closer to the 2:1 ratio you want for CRIT DMG to CRIT Rate. Plus, if you use Ganyu’s Charged Attacks in her Elemental Burst’s AoE field, you get the 20% Cryo DMG Bonus from the Burst plus Blizzard’s 15% bonus.
+4PC Wanderer’s Troupe
+At 2 pieces, Wanderer’s Troupe increases Elemental Mastery by 80. Elemental Mastery helps boost reaction damage – essentially, it makes your reactions more potent to enemies.
+At 4 pieces, it increases Charged Attack DMG by 35% for Catalyst and Bow users. Since Wanderer’s Troupe is one of the easiest Artifact sets to farm – this or Gladiator’s Finale is usually dropped by common bosses and Weekly Trounce Domains – you probably have some decent Wanderer’s Troupe pieces lying around.
+Best Teams
+To make the most of Ganyu, have at least one other character on your team that causes some kind of Cryo reaction. While Ganyu’s Normal Attack does more damage than most Bow characters, you will primarily rely on her Charged Attacks.
+The simple, yet effective, Ganyu strategy is Burst, Skill, Charged. Use the Burst for the Cryo DMG buff, release the Skill to group enemies and keep them in the Burst’s AoE, then follow up with Charged Attacks within the AoE. As you can see, Cryo will almost always be present on the battlefield, which means you want to cause some reactions.
+Permafreeze
+This team is exactly what it sounds like. Using Ganyu as the Main DPS, your three other teammates should provide support by freezing enemies for as long as possible. Obviously, this team needs a Hydro character, preferably one that can apply Hydro even when they’re not on the field. Fortunately, most Hydro characters do this already.
+Your other two spots should either help spread the Freeze reaction or increase the duration of the Freeze reaction. Ganyu’s Charged Attacks don’t freeze enemies for that long, so adding another Cryo character can help extend that time. An Anemo character can help group enemies closer together and spread elements via Swirl.
+Teammate Suggestions
+Hydro
+Xingqiu
+Barbara
+Mona
+Cryo
+Diona
+Chongyun
+Ayaka
+Anemo
+Venti
+Kazuha
+Sucrose
+By the way, did you know that there’s an achievement for how long you can keep enemies frozen? If you didn’t have it before, you’ll definitely get it now.
+Melt
+Probably the easiest Ganyu team to build, this team focuses on dealing damage through Melt and Reverse Melt reactions. You should have at least two Pyro characters to apply Pyro plus a Support to protect Ganyu. This team is especially useful to new players or F2P players because the two best Pyro characters for this team are Xiangling and Bennett. For the most part, both characters are fairly easy to get.
+Again, the Support should focus on protecting Ganyu. Though you can opt for healing, it would be better to go for the Shield Support. The Shield will protect Ganyu from enemies while she charges her attacks, which means that the charge won’t be interrupted. You can use Zhongli, Diona, or Xingyan for shields.
+Hyperbloom (with a dash of Cryo)
+This team uses four different elements: Cryo, Hydro, Electro, and Dendro. If you want complete chaos on your screen, this is the team for you. Three elements will react with each other at any given time, with the fourth adding some flavor.
+Here, the idea is to create the Hyperbloom reaction and freeze enemies at the same time. This works especially well with the Dendro Traveler’s Elemental Burst. You can really use any characters of your choice. Just keep in mind that the character should be able to apply their Element off-field.
+Example teams include:
+Fischl, Xingqiu, and Dendro Traveler
+Kuki Shinobu, Barbara, and Collei
+Yae Miko, Ayato, and Tighnari

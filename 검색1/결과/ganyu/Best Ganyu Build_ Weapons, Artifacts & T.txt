@@ -1,0 +1,152 @@
+Table of Contents
+Skills
+Weapons
+Artifacts
+Team Comps
+Constellation
+Ganyu is a cryo archer who is well known within the Genshin community as one of the strongest damage dealers in the game.
+Our beloved secretary excels in dealing tons of AOE damage with her charged attack. Here you can learn how to optimize her build to reach her peak performance!
+Skills
+Normal attack: Liutian Archery
+This is Ganyu’s most important skill. While her normal attack is weak, her strength lies in her charged attack. The first charge makes her shot deal cryo damage. The second shot will deal cryo damage, then explode to deal AOE cryo damage. The second shot is her strongest damage source and
+should be leveled up the most.
+Elemental skill: Trail of the Qilin
+Ganyu dashes to the back leaving an ice lotus behind that taunts the enemies and deals cryo AOE damage. While this skill is helpful by taking attention away from Ganyu and giving you space through the dash, it should be leveled up the last since it does not do much damage and takes less priority.
+Elemental burst: Celestial Shower
+Ganyu creates an icicle shower that deals massive AOE cryo damage. This Elemental burst can be used to deal extra damage due to her passive “Harmony Of Heaven And Earth”. This skill is best leveled up second.
+Passive: Harmony Of Heaven And Earth
+Active members inside the area of the elemental burst deal 20% cryo damage.
+Weapons
+Amos’ Bow
+Currently, the
+best weapon for Ganyu
+is Amos’ bow due to its high stats and its skill. Other than its basic stats, Amos’ bow gives 12-24% attack to normal and charged attacks along with 8-16% attack for every 0.1 seconds traveled up to 0.5 seconds.
+Ganyu’s elemental skill enables her to put some distance between her and her enemies, which enables the arrows to travel longer and take advantage of Amos’ bow skill. Moreover, this weapon is available in standard wishes, so you might be lucky enough and pull it at some point.
+Skyward Harp
+Since Ganyu gains crit damages the more she ascends, Skyward Harp works perfectly as it gives her both crit chance and crit damage. With good artifacts, she can crit almost every charged attack, allowing her to deal consistent massive damage.
+Prototype Crescent
+The F2P option, Prototype Crescent is a craftable 4* bow that increases Ganyu’s attack from its secondary effect by hitting enemies’ weak points. Since it is a craftable weapon, it is relatively easy to refine it to R5, which increases its skill bonus attack from 36% to 72%.
+Artifacts
+Ganyu can be built into two different paths: Burst or DPS. Ganyu can deal massive damage in her burst build by utilizing Melt elemental reaction. Melt reaction deals double the damage and occurs when cryo then pyro are applied to the same enemy.
+However, Ganyu can also deal consistent damage through her DPS build by freezing the enemies and continuously firing charged shots at them.
+Burst Build:
+To set up this build, Ganyu requires to have four pieces of
+Wanderer’s Troupe
+set, which can only be obtained through defeating normal bosses or rerolling artifacts. This set increases charged shot damage by 35% and elemental mastery by 80. Elemental mastery is essential in this build since it increases the power of the Melt reaction. As for the best stats:
+Flower
+Plume
+Sands
+Goblet
+Circlet
+Substats
+1. HP
+1.  ATK
+1. ATK %
+1. Cryo DMG %
+1. Crit DMG/Rate %
+1. ATK %
+2. Crit DMG %
+3. Crit Rate %
+4. Elemental Mastery
+DPS Build:
+To set up this build, Ganyu requires to have four pieces of
+Blizzard Strayer
+. If your CRIT Rate is low, or two pieces of
+Blizzard Strayer
+and two pieces of
+Noblesse Oblige
+. The goal of this build is by utilizing the freeze interaction by pairing Ganyu with a Hydro user to continuously freeze enemies.
+Also Read:
+Best Settings For Genshin Impact: Get The Highest Performance And Graphics.
+Both sets are farmable in
+Peak of Vindagnyr
+and
+Clear Pool
+and
+Mountain Cavern domains
+. This ables you to farm for better Sub Stats than the burst build. However, it is important to note that this build does not work as well on bosses as they cannot be frozen. As for the best stats:
+Flower
+Plume
+Sands
+Goblet
+Circlet
+Substats
+1. HP
+1.  ATK
+1. ATK %
+1. Cryo DMG % or ATK %
+1. Crit DMG/Rate %
+1. ATK %
+2. Crit DMG %
+3. Crit Rate %
+Team Comps
+For Burst Team:
+All Ganyu teams will consist of the following format.
+Ganyu
+, a
+swirl support
+,
+Pyro
+or
+Hydro
+user, and a
+shielder
+. This format is important due to the importance of each members’ effects on optimizing your damage.
+The shielder is most important to prevent interruption by enemies attacks, while the
+Pyro
+or
+Hydro
+users are used for the Melt or freeze reactions. Meanwhile, the
+swirl
+user is used to constantly reapply the Pyro or Hydro elements for constant reactions and damage.
+Zhongli
+The ultimate shielder and the
+best support
+to Ganyu overall. He will not only make Ganyu mostly invincible, but his shield also reduces the chances of being interrupted, which allows you to constantly charge your shot without worrying about enemies’ attacks.
+Diona
+A more F2P shielder to Ganyu. While her shield is not as strong as Zhongli’s, her elemental skill generates cryo particles that can help Ganyu use her Elemental Burst faster. Moreover, Diona’s Elemental burst is an AOE heal that can be helpful in sustaining against more difficult bosses and abyss.
+Kazuha/Venti/Sucrose
+Also Read:
+Best Kazuha Build: Weapons, Artifacts & Team Comps
+Both Anemo users can work together with Ganyu to gather enemies and infuse a second element to deal constant reaction. While
+Kazuha
+and
+Venti
+have their differences, their core concept remains the same and both can be used equally in this comp. Another F2P alternative is Sucrose, but she only compares to them at C6.
+Also Read:
+Best Venti Build: Weapons, Artifacts & Team Comps
+Xiangling
+Xiangling
+without a doubt is the
+best pyro support
+for Ganyu. Anemo swirl can sometimes be tricky, which is why Xiangling is amazing in the burst comp due to the ease of pyro infusion. Xiangling’s Elemental skill releases Guoba, which deals constant pyro damage and infuses pyro quicker with Kazuha/Venti. Moreover, after Guoba expires, it leaves a chili that gives extra damage.
+Bennett
+Bennett
+can be extremely useful in any comp including this one. This is mainly due to his attack buff along with an AOE heal. However, Bennett’s Pyro is not enough on its own for reactions and must be coupled with an Anemo swirl user. Moreover, Bennett can only infuse Pyro by walking to the center of the Anemo swirl.
+Also Read:
+Best Bennett Build: Weapons, Artifacts & Team Comps
+Mona
+In the DPS team,
+Mona
+can help Ganyu permanently freeze the enemies by constantly applying a Hydro effect on them. This can be done by her Elemental skill which also works as a taunt. Moreover, her Elemental Burst also applies a Hydro effect on enemies while immobilizing them and increasing the damage dealt with them.
+Constellation
+Dew-Drinker
+Second-charged attack and its AOE reduces the enemies cryo resistance by 15% for 6 seconds and regenerates two particles to Ganyu
+The Auspicious
+Ganyu’s Elemental Skill gains a second charge
+Cloud-Strider
+Increases the level of the Elemental Burst by 3 and the maximum level to 15
+Westward Sojourn
+Enemies within Ganyu’s Elemental burst take 5% extra damage and increases by 5% every 3 seconds up to 25% until 3 seconds after the enemy leaves the Elemental Burst
+The Merciful
+Increases the level of the Elemental Skill by 3 and the maximum level to 15
+The Clement
+When the Elemental skill is used, the next arrow shot within 30 seconds will not require charging
+While other constellations increase her damage output, the highest increase lies in the first constellation. Thus, C1 Ganyu is more than enough to deal a massive amount of damage and be overall a fantastic character to have.
+While Ganyu is well known to be one of the highest damage dealers in the game. She still requires a specific playstyle and equipment to shine. This article demonstrated what is the best way to play her and the different playstyles in which she can be used.
+All image copyrights belong to
+Mihoyo
+,
+Genshin Impact fandom
+, and
+Genshin honeyhunterworld.

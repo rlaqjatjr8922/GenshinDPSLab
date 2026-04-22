@@ -1,0 +1,116 @@
+Table of Contents
+Skills
+Weapons
+Artifacts
+Team Comps
+Constellation
+Cyno is an Electro polearm user that is mainly played as a main DPS. He excels in dealing Electro damage through his Burst which empowers him and converts his damage to Electro. Not only that, his build is fairly unique since it revolves around elemental mastery and attack.
+One advantage that Cyno has is the ease of building his team comp. However, he can lose potential damage if his Skills are not timed correctly, which is why it is important to understand how his kit works. Here you can learn how to optimize his build to reach his peak performance!
+Skills
+Normal Attack: Invoker’s Spear
+Cyno strikes up to four times and holding the attack lunges and deals damage to enemies along its path. Cyno does not use this attack often in rotations,
+so it is the least priority in leveling up.
+Elemental Skill: Secret Rite: Chasmic Soulfarer
+Cyno lunges forwards and deals Electro damage to enemies along his path. If Cyno has “Pathsworn Pathclearer” state from his Elemental Burst, he will instead use “Mortuary Rite” where he jumps and attacks the enemies dealing AOE Electro damage. Performing this extends the duration of Pathsworn Pathclearer state.
+Elemental Burst: Sacred Rite: Wolf’s Swiftness
+Cyno applies Pathsworn Pathclearer state to himself for 18 seconds, in which it infuses his normal, charged and plunging attacks with Electro. This effect cannot be overridden by other infusions. Moreover, during that state, Cyno’s Elemental mastery is increased by 100 and he gains resistance to interruption and immunity to Electro damage.This skill is the main source of damage for Cyno,
+making it the highest priority to level it up.
+Passive: Featherfall Judgment
+During Cyno’s Elemental Burst, every four seconds, he will enter Endseer stance in which using the Elemental Skill will unleash Judication that increases the damage of the Elemental Skill by 35% and fires 3 Duststalker Bolts dealing 100% of Cyno’s attack as Electro damage.
+Endseer stance can be seen as a purple Eye of Horus shape that appears all over the screen, Using the Elemental Skill makes it shine in gold and that indicates the activation of this passive.
+2nd Passive: Authority Over the Nine Bows
+Cyno’s damage is increased based on his elemental mastery, where the normal attacks’ damage in Pactsworn Pathclearer state is increased by 150% of his elemental mastery. Meanwhile, the Duststalker bolts’ damage is increased by 250% of his elemental mastery.
+Weapons
+Staff of the Scarlet Sands
+The best weapon on Cyno is currently the Staff of the Scarlet Sands. This is mainly due to its high secondary stat of 44.1% crit rate, making his crits more frequent and his damage more consistent. Not only that, it increases the attack of Cyno by 52-104% of the elemental mastery and an additional 28-56% of elemental mastery as attack after hitting an enemy with an Elemental Skill. This effect can stack up to 3 times. This weapon can increase Cyno’s attack significantly while allowing him to use crit damage circlet to maximize his damage.
+Primordial Jade Winged-Spear
+Primordial Jade Winged-Spear is a great alternative since it can be pulled from the standard banner while being comparable to Staff of the Scarlet Sands. Through Cyno’s Burst, it is easy to fully stack the passive, which increases the attack by 22.4-42% and the damage dealt by 12-24%.
+White Tassel
+The F2P option for Cyno due to its passive and ease of fully refining it. The fifth refinement increases normal attack damage by 48%, all while granting a 23.4% crit rate, which is more than Primordial Jade Winged-Spear.
+Artifacts
+When it comes to artifacts, the best for him is
+Gladiator’s Finale
+due to its consistent damage while being extremely versatile. It increases attack by 18% and normal attack damage by 35%, making his Burst much stronger.
+The second best build is
+Gilded Dreams
+, but that set requires his signature weapon in order to fully utilize its potential. After a reaction is caused by Cyno, his attack is increased by 14% for each Electro teammate, and his elemental mastery is increased by 50 for each member with a different element.
+As for substats, elemental mastery and attack are the most important for increasing his damage. Having a high crit rate and damage is also important to further boost his damage. As for energy recharge, typically 140% or more can be more than sufficient, especially with a battery.
+Build:
+Gilded Dreams
+Flower
+Plume
+Sands
+Goblet
+Circlet
+Substats
+1. HP
+1.  ATK
+1. ATK % or Elemental Mastery
+1. Electro DMG Bonus
+1. Crit Rate/DMG %
+1. Crit Rate %
+2. Crit DMG %
+3. ATK %
+4. Elemental Mastery
+5. Energy Recharge
+Also Read:
+Best Settings For Genshin Impact: Get The Highest Performance And Graphics.
+Build:
+Thundering Fury
+Flower
+Plume
+Sands
+Goblet
+Circlet
+Substats
+1. HP
+1.  ATK
+1. ATK % or Elemental Mastery
+1. Electro DMG Bonus
+1. Crit Rate/DMG %
+1. Crit Rate %
+2. Crit DMG %
+3. ATK %
+4. Elemental Mastery
+5. Energy Recharge
+Team Comps
+When it comes to team comps, there are mainly two comps that work best for her. Although one is much better than the other. Vaporize and Melt are the best comps for Hu Tao, with Vaporize being much better than Melt for two reasons: First, Hydro appliers are better than Cryo in terms of the number of applications. The second reason is that Hydro has a high priority in element absorption in swirls, while Cryo is the lowest.
+Other than that, a shielder is practically a must. Hu Tao loses a lot of HP due to her Elemental Skill. Also, she only has nine seconds to deal as much damage as possible, which makes her being interrupted hurtful to her overall damage. The last spot can either go to a buffer or a swirl user for the Viridescent Venerer bonus for Pyro resistance reduction.
+Beidou
+Beidou is a great support for Cyno due to her role as a shielder and a battery. She is a great battery and sub-DPS that both protects him through her Burst while applying Electro whenever he uses normal attacks. Given that his kit depends on normal attacks, this makes her Burst extremely valuable, especially as a damage source. Moreover, Beidou’s Burst increases interruption resistance and decreases the damage taken.
+Fischl
+Fischl can outperform Beidou in terms of overall damage and particle generation due to constant Electro application through Oz. Not only that, her Electro application is not limited to normal attacks. However, she still lacks the defensive capabilities of Beidou.
+Kuki Shinobu
+Kuki is great for Cyno since she fulfills two roles in one, where she applies Electro and generates particles, all while being a healer. She’s a great F2P option that requires low investment to perform well. Also, when Kuki has low HP, she provides additional elemental mastery that can further boost Cyno’s damage.
+Yelan/Xingqiu
+Yelan and Xingqiu pair greatly in a taser team with Cyno. This is due to their Elemental Burst that applies Hydro on normal attacks, which Cyno’s kit revolves around. Not only that, Yelan provides additional damage due to her passive, while Xingqiu provides more utility through the reduced damage.
+Kazuha/Sucrose
+Swirl users are beneficial for Cyno by shredding the elemental resistance of enemies by swirling Electro. The damage boost can make them decent supports while being able to gather enemies. However, Venti does not work as well since enemies can be lifted in the air, and it is harder to land normal attacks on them, causing a loss of overall damage.
+Also Read:
+Best Kazuha Build: Weapons, Artifacts & Team Comps
+Dendro User
+Currently, Dendo characters react very well with Electro through Aggravate reaction causing massive damage. Cyno can apply Electro constantly through his Burst and battery support, opening many opportunities for reactions with a Dendro support.
+Constellation
+Ordinance: Unceasing Vigil
+Using the Elemental Skill increases Cyno’s normal attack speed by 20% for 10 seconds. The duration of this constellation will be reset if Judication activates
+Ceremony: Homecoming of Spirits
+Hitting opponents with normal attacks grants a 10% Electro damage bonus (0.1 cooldown) for four seconds. This effect can stack up to five times
+Precept: Lawful Enforcer
+Increases the level of the Elemental Burst by 3 and the maximum level to 15
+Austerity: Forbidding Guard
+During Pactsworn Pathclearer state, triggering an Electro reaction restores 3 energy for all nearby allies except himself. This constellation can only be activated a maximum of five times in each Pactsworn Pathclearer state
+Funerary Rite: The Passing of Starlight
+Increases the level of the Elemental Skill by 3 and the maximum level to 15
+Raiment: Just Scales
+Using the Elemental Burst or activating Judication will grant Cyno four stacks of “Day of the Jackal” that last for eight seconds (maximum eight stacks).
+Each time Cyno uses hits an enemy with normal attacks, a stack is consumed, and a Duststalker Bolt is shot at the enemy (0.4 cooldown)
+When it comes to constellations, Cyno is a great damage dealer without constellations and can perform well without them. However, if further damage is desired, there are two constellations that are great on him. The increased attack speed can be extremely beneficial in increasing the Burst’s damage efficiency since more hits will be done during its duration.
+Meanwhile, the second constellation grants a 50% Electro damage bonus when fully stacked, boosting the overall damage. However, other constellations do not grant a significant difference that is worth pulling, unless Cyno is your favorite character.
+In comparison to other Electro DPS, Cyno possesses a unique kit that feels refreshing and enjoyable. Not only that, many travelers waited to pull for him due to his lore and character design. This made him a beloved character even before he was released on the live server.
+As an Electro DPS, Cyno is a great addition due to his potential high damage while having a low investment team. While he does not perform as well as Raiden Shogun, his comp is easier to build and his playstyle is more unique and fun to play. This makes him wonderful to have and fun to play with.
+All image copyrights belong to
+Mihoyo
+,
+Genshin Impact fandom
+, and
+Genshin honeyhunterworld.

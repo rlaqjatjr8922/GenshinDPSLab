@@ -1,0 +1,265 @@
+Home
+Blog
+Genshin Impact Hub
+Genshin Impact Collei Build Guide, Weapons & Team Comps!
+Genshin Impact Collei Build Guide, Weapons & Team Comps!
+Alexa Hunter
+Mar 17, 2026
+Share
+Collei is a 4-star Dendro Bow user who excels at providing reliable off-field Dendro application for her team. Through her Elemental Skill, Burst, and passive talents, she can
+continuously apply Dendro
+and help trigger powerful reactions such as Quicken, Bloom, Burgeon, etc. This makes her a valuable support option in many Dendro-focused teams, especially for players looking to enable reaction-based gameplay. This comprehensive
+Collei build guide
+helps players understand how her abilities and passives contribute to consistent Dendro application. Read on!
+🔥 Bonus Tip: For exclusive discounts on your next
+Genshin top up
+, visit
+LootBar
+!
+Secure Your Gaming Top-Up with Smart Savings on LootBar
+Premium Top-Up Service Tailored for Your Game.
+3-Minute Delivery for Non-Stop Gaming.
+Trusted 4.9/5 on Trustpilot, 10/10 among Players.
+Official Partnership Route, Protect Your Game Wallet.
+Top Up With Discount Now!
+Collei Character Profile
+Collei Information
+Character Information
+Collei
+Rarity
+★ ★ ★ ★
+Element
+Dendro
+Weapon
+Bow
+Ascension Bonus
+Attack +24%
+Role
+Dendro Applicator, Support
+Collei Gameplay
+Collei’s gameplay focuses on providing consistent
+off-field Dendro application
+to enable powerful Dendro reactions for her team.
+Collei's
+Elemental Skill
+throws a boomerang that deals Dendro damage and applies the element both on its initial hit and when it returns. And her
+Elemental Burst
+creates a field that periodically applies Dendro to nearby enemies. Besides, her
+passive talents
+further improve her ability to apply Dendro. When Dendro-related reactions are triggered, her passives can generate additional Dendro application through follow-up effects tied to her abilities. This allows Collei to maintain Dendro on enemies more consistently and increases the overall frequency of reactions within the team.
+Thanks to this simple but effective playstyle, Collei fits comfortably into many teams that rely on reaction-based damage, where her main role is to establish and maintain Dendro application so other characters can take advantage of it.
+Strength & Weaknesses
+Collei’s overall build value is often debated, as there are several alternatives in the game that generally perform better. Below is a list of her strengths and weaknesses to help you decide whether she’s worth building.
+Strengths
+Weaknesses
+Collei provides fairly reliable off-field Dendro application.
+Collei’s Dendro Reaction based buffs make her an optimal member of most Dendro teams.
+As a 4-star character, Collei and her Constellations are relatively easy to obtain.
+Collei requires a lot of Energy Recharge to maintain 100% Elemental Burst uptime where most of her Dendro Application comes from.
+Collei’s personal damage is quite low.
+Collei Talent Priority
+Collei’s talents don’t contribute much to her support capabilities. If you’re using her purely for Dendro application, it’s recommended to keep her talents at level 1.
+If you have spare materials and want to invest in her personal damage, the following priority is recommended:
+Talent
+Recommended Level
+Notes
+Elemental Burst
+6+
+Highest Priority
+-Collei’s burst is used most often in team rotations and has the highest number of damage instances.
+Elemental Skill
+6+
+Medium Priority
+-
+Primarily used for energy generation and provides two instances of Dendro damage.
+Normal Attack
+1
+Lowest Priority
+-Collei is rarely on-field so she doesn’t benefit from leveling this talent. Only upgrade if you have excess resources.
+Collei Best Weapons
+As with most support characters, Collei’s best weapon mainly depends on the team she is used in. In general, she benefits most from
+Energy Recharge
+and weapon passives that provide
+team-wide buffs
+. Good options include
+Elegy for the End
+,
+Favonius Warbow
+, and
+Sacrificial Bow
+.
+If your Collei already has sufficient Energy Recharge and you want to further increase her
+personal damage
+, you can also consider CRIT-based weapons such as
+Polar Star
+to maximize her DPS.
+Weapon Options
+Premium Option
+Elegy For The End (5★)
+Base Attack
+: 608
+Bonus Stat
+: Energy Recharge +55.1%
+Weapon Passive:
+Gain sigils when Elemental Skill or Elemental Burst deals damage every 0.2s. At 4 Sigils, Elemental Mastery is increased by 100/125/150/175/200 and Attack by 20/25/30/35/40% for the entire party.
+F2P Option 1
+Favonius Warbow (4★)
+Base Attack
+: 454
+Bonus Stat
+: Energy Recharge +61.3%
+Weapon Passive:
+CRIT Hits have a 60/70/80/90/100% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 12/10.5/9/7.5/6s.
+F2P Option 2
+Sacrificial Bow (4★)
+Base Attack
+: 565
+Bonus Stat
+: Energy Recharge +30.6%
+Weapon Passive:
+After damaging an opponent with an Elemental Skill, the skill has a 40/50/60/70/80% chance to end its own CD. Can only occur once every 30/26/22/19/16s.
+DPS Option
+Polar Star (5★)
+Base Attack
+: 608
+Bonus Stat
+: CRIT Rate +33.1%
+Weapon Passive:
+Elemental Skill and Elemental Burst DMG increased by 12% / 15% / 18% / 21% / 24% . After a Normal Attack, Charged Attack, Elemental Skill or Elemental Burst hits an opponent, 1 stack of Ashen Nightstar will be gained for 12s. When 1/2/3/4 stacks of Ashen Nightstar are present, ATK is increased by 10/20/30/48% / 12.5/25/37.5/60% / 15/30/45/72% / 17.5/35/52.5/84% / 20/40/60/96% . The stack of Ashen Nightstar created by the Normal Attack, Charged Attack, Elemental Skill or Elemental Burst will be counted independently of the others.
+Collei Best Artifacts & Stats
+Collei is primarily used as an off-field Dendro applicator and reaction enabler. Because of this, her artifact choices should support the team’s overall damage and make sure she can consistently use her Elemental Burst. The artifact set you choose will depend on the role she plays in your team.
+Deepwood Memories:
+This is generally Collei’s best artifact set in teams that rely heavily on Dendro damage or Dendro-related reactions. Aside from this, because the effect can trigger even while Collei is off-field, it fits her playstyle very well.
+Noblesse Oblige
+: Noblesse Oblige is a strong alternative if another character in the team is already using Deepwood Memories. The set allows Collei to provide a team-wide ATK buff after using her Burst, making it especially effective in teams where the main damage dealers scale primarily with Attack.
+Collei benefits from several stats, including Energy Recharge, Crit Rate/DMG, ATK%, and Elemental Mastery, with
+Energy Recharge
+being the main focus. Her Elemental Burst is her main source of consistent off-field Dendro application, so having enough Energy Recharge ensures she can use it every rotation. Because of this, reaching around
+230% Energy Recharge
+should be prioritized before focusing on other stats.
+Artifact Sets & Main/Sub Stats
+Deepwood Memories
+2-Piece: Dendro DMG Bonus +15%.
+4-Piece: After an Elemental Skill or Burst hits an opponent, their Dendro RES will be decreased by 30% for 8s. This effect can be triggered even if the equipping character is not on the field.
+Noblesse Oblige
+2-Piece: Elemental Burst Damage +20%.
+4-Piece: Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.
+Main Stats
+Sands:
+Energy Recharge (Up to 230%) or ATK
+Goblet:
+Dendro Damage Bonus > ATK
+Circlet:
+Crit Rate/Damage
+Sub Stats
+Energy Recharge (Max 230%) > Crit Rate/Damage > Attack% > Elemental Mastery
+Collei Best Team Compositions
+When building a team around Collei, it is generally best to focus on
+Dendro-based reactions
+, as her primary role is to consistently apply Dendro for other characters to interact with. Because she functions mainly as an off-field applicator, Collei works well alongside characters who can quickly apply other elements such as Hydro, Electro or Pyro to trigger reactions like Bloom, Quicken and Burning.
+1. Collei Bloom Team
+Hydro
+characters that focus on Bloom reactions benefit greatly from Collei’s consistent Dendro application. By applying Dendro off-field, Collei allows Hydro characters to reliably trigger Bloom and generate Dendro Cores during combat. Additionally, her Elemental Mastery–related buffs can further increase the effectiveness of these reaction-based teams.
+Hydro Applicator
+Dendro Applicator
+Support
+Flex
+Nilou (5★)
+Collei (4★)
+Lauma (5★)
+Kokomi (5★)
+Xingqiu (4★)
+Collei (4★)
+Shinobu (4★)
+Alhaitham (5★)
+Neuvillette (5★)
+Collei (4★)
+Raiden Shogun (4★)
+Furina (5★)
+2. Collei Quicken Team
+Electro
+main DPS characters that rely on Quicken-based reactions can benefit greatly from Collei’s consistent Dendro application. By applying Dendro off-field, Collei enables Electro characters to trigger and maintain the Quicken aura, allowing them to deal increased damage through
+Aggravate and Spread
+reactions. Her ability to keep Dendro applied helps maintain reaction uptime, making her a strong support option for Electro damage dealers that focus on reaction-based damage.
+Main DPS
+Sub DPS
+Support
+Flex
+Clorinde (5★)
+Nahida (5★)
+Collei (4★)
+Fischl (4★)
+Cyno (5★)
+Fischl (4★)
+Collei (4★)
+Baizhu (5★)
+Keqing (5★)
+Fischl (4★)
+Collei (4★)
+Xilonen (5★)
+Tighnari (5★)
+Yae Miko (5★)
+Collei (4★)
+Zhongli (5★)
+3. Collei Burning Team
+Pyro or Dendro
+main DPS characters that rely on Burning reactions benefit greatly from Collei’s consistent off-field Dendro application. By keeping Dendro applied to enemies, she enables Pyro or Dendro characters to reliably trigger Burning, dealing damage over time and boosting reaction-based effects. Her sustained Dendro application ensures frequent Burning uptime, making her a strong support option for teams built around reaction-focused Pyro or Dendro damage dealers.
+Main DPS
+Sub DPS
+Support
+Flex
+Kinich (5★)
+Mavuika (5★)
+Collei (4★)
+Bennett (4★)
+Arlecchino (5★)
+Emilie (5★)
+Collei (4★)
+Bennett (4★)
+Collei Constellations
+Collei is already a decent support at C0. However, C2, C4, and C6 noticeably improve her Dendro application and provide Elemental Mastery buffs for the team. If you have a limited number of pulls, C2 is sufficient. Otherwise, C4 is the recommended goal, whereas C6 is an optional premium.
+Constellation Performance
+Constellation
+Rating
+Explanation
+Constellation 2
+★★★★
+After Collei uses her Elemental Skill, the active character gains the Sprout effect, dealing Dendro damage equal to 40% of Collei’s ATK for 3 seconds. This improves her off-field Dendro application.
+Constellation 4
+★★★★★
+Using Collei’s Elemental Burst grants 60 Elemental Mastery to all party members (excluding Collei). This provides a decently significant boost to her support capabilities.
+Constellation 6
+★★★
+After using Collei’s Elemental Skill, a Cuilein-Anbar is created that deals 200% of Collei’s ATK as Dendro damage. This improves her AoE Dendro application.
+Constellation Effect
+Constellation
+Effect
+Constellation 1
+Deepwood Patrol
+When in the party and not on the field, Collei's Energy Recharge is increased by 20%.
+Constellation 2
+Through Hill and Copse
+The Passive Talent Floral Sidewinder is changed to this: The Floral Ring will grant the character the Sprout effect from Floral Sidewinder upon return, dealing 40% of Collei's ATK as Dendro DMG to nearby opponents for 3s. From the moment of using Floral Brush to the moment when this instance of Sprout effect ends, if any of your party members triggers Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon reactions, the Sprout effect will be extended by 3s. The Sprout effect can only be extended this way once. If another Sprout effect is triggered during its initial duration, the initial effect will be removed. Requires you to have unlocked the Floral Sidewinder Passive Talent.
+Constellation 3
+Scent of Summer
+Increases the Level of Floral Brush by 3. Maximum upgrade level is 15.
+Constellation 4
+Gift of the Woods
+Using Trump-Card Kitty will increase all nearby characters' Elemental Mastery by 60 for 12s (not including Collei herself).
+Constellation 5
+All Embers
+Increase the Level of Trump-Card Kitty by 3. Maximum upgrade level is 15.
+Constellation 6
+Forest of Falling Arrows
+When the Floral Ring hits, it will create a miniature Cuilein-Anbar that will deal 200% of Collei's ATK as Dendro DMG. Each Floral Brush can only create one such miniature Cuilein-Anbar.
+Conclusion
+This build guide of Collei highlights her role as a flexible, low-investment Dendro support in Genshin Impact, primarily valued for her ability to provide consistent off-field Dendro application and modest Elemental Mastery buffs. She performs best in reaction-focused teams such as Bloom, Quicken, and Burning, where her kit helps enable key reactions rather than directly driving damage.
+To fully prepare for Collei's next rerun, consider paying a visit to
+LootBar
+to top up Primogems through our reliable
+Genshin Impact Top Up
+to make sure you'll have enough pulls ready for her banner.
+Top Up With Discount Now!
+Alexa Hunter
+Gaming Writer
+Alexa Hunter has spent the past 7 years exploring the world of gaming, focusing particularly on light - hearted, relaxing titles like Whiteout Survival and AFK Journey. Her articles offer tips and guides on maximizing the enjoyment of these games on Lootbar.

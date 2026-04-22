@@ -1,0 +1,515 @@
+Genshin Impact Jean Best Team Guide
+Last updated April 22, 2026. Looking for the best Jean teams in
+        Genshin Impact? Start with the top team summary below, then pick the
+        lineup that fits your roster.
+This page provides the best team information for Jean, primarily a Support. Top teams include Elemental RES and Swirl compositions. Team positions can be adjusted based on your roster, allowing for flexibility in team building.
+View Jean's character page
+Jean Team Summary
+#1
+Team Rating:S
+Jean Superconduct Keqing Team
+#2
+Team Rating:S
+Jean Superconduct Eula Hypercarry
+C6
+#3
+Team Rating:S
+Jean Swirl Xiao Burst Support Team
+#4
+Team Rating:SS
+Jean Electro-Charged Team
+#5
+Team Rating:S
+Jean Vaporize Team
+#6
+Team Rating:SS
+Ayato Pure Hydro SS Tier Team with Furina, Yun Jin and Jean
+C6
+C2
+#1 Jean Superconduct Keqing Team
+Tier S
+Jean is a healer in this team. Keqing’s DMG is amplified by Superconduct in this team.
+Keqing
+Main DPS
+Electro
+Keqing’s Heavy Attack DMG is maximized by Superconduct with the aid of Chongyun.
+Artifacts
+Thundering Fury
+Gladiator's Finale
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Mistsplitter Reforged
+The Black Sword
+Chongyun
+Sub DPS
+Cryo
+Chongyun’s Elemental Skill (requires C2) lowers teammates’ Elemental Burst cooldowns, infuses Normal Attacks with Cryo, and increases Attack Speed.
+Chongyun’s Elemental Burst provides Cryo DMG from off-field.
+Artifacts
+Blizzard Strayer
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Wolf's Gravestone
+Serpent Spine
+Diona
+Support
+Cryo
+Diona provides a shield for safe gameplay and helps recharge Kaeya’s Elemental Burst.
+Artifacts
+Maiden Beloved
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP / Energy Recharge
+Weapons
+Sacrificial Bow
+Favonius Warbow
+Jean
+Support
+Anemo
+Jean acts as a battery for energy recharge of Keqing’s Elemental Burst.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+#2 Jean Superconduct Eula Hypercarry
+Tier S
+Eula is the main on-field DPS, with Superconduct uptime and Burst support from teammates to maximize her Elemental Burst damage. Jean provides healing and
+Viridescent Venerer
+utility.
+Eula
+Main DPS
+Cryo
+Core of the team. Her Elemental Burst is the main damage source and is amplified by Superconduct and team buffs.
+Artifacts
+Pale Flame
+Main Stats
+Sands
+ATK%
+Goblet
+Physical DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Song of Broken Pines
+Serpent Spine
+Raiden Shogun
+Sub DPS
+Electro
+Provides Electro application for Superconduct, adds off-field and burst damage, and helps with team Energy Recharge and Burst damage buffs.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+ATK% / Energy Recharge
+Goblet
+ATK%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Engulfing Lightning
+"The Catch"
+Rosaria
+Sub DPS
+Cryo
+Constellation 6+
+Burst damage dealer and battery for Eula. At C6, she reduces enemy Physical RES, further boosting Eula's Burst damage.
+Artifacts
+Blizzard Strayer
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Skyward Spine
+Favonius Lance
+Jean
+Support
+Anemo
+Team healer who can also help shred enemy Elemental RES with
+Viridescent Venerer
+.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+#3 Jean Swirl Xiao Burst Support Team
+Tier S
+Jean is a Healer/Support
+in this team. The DMG of
+Xiao's Elemental Burst
+is maximized by teammates.
+Xiao
+Main DPS
+Anemo
+Xiao’s Elemental Burst allows consecutive Plunge Attacks that deal wide AOE Anemo DMG.
+Artifacts
+Viridescent Venerer
+Gladiator's Finale
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Primordial Jade Winged-Spear
+Deathmatch
+Chongyun
+Sub DPS
+Cryo
+Chongyun’s Elemental Burst provides Cryo DMG from off-field. His Elemental Skill can lower teammates’ Elemental Burst CDs at
+C2
+and offers Cryo infusion/Attack Speed utility in other compositions.
+Artifacts
+Blizzard Strayer
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Wolf's Gravestone
+Serpent Spine
+Zhongli
+Support
+Geo
+Zhongli’s shield provides a safe environment for the team, and his full
+Tenacity of the Millelith
+set increases the ATK of the whole team.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP / Energy Recharge
+Weapons
+Staff of Homa
+Black Tassel
+Jean
+Support
+Anemo
+Jean is a healer and can assist the team by reducing enemy Elemental RES with
+Viridescent Venerer
+.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+#4 Jean Electro-Charged Team
+Tier SS
+Jean acts as the healer and Anemo support, helping sustain the team while
+Viridescent Venerer
+reduces enemy Elemental RES. Kokomi provides consistent Hydro application and can also serve as the main on-field driver for Electro-Charged reactions with Beidou and Fischl.
+Sangonomiya Kokomi
+Main DPS
+Hydro
+Main DPS and healer. Kokomi's Burst scales with Max HP, and her Skill applies Wet for consistent Electro-Charged reactions.
+Artifacts
+Ocean-Hued Clam
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+HP% / Energy Recharge / HP% / ATK% / Elemental Mastery
+Weapons
+Everlasting Moonglow
+Prototype Amber
+Beidou
+Sub DPS
+Electro
+Off-field Electro application through her Burst, enabling frequent Electro-Charged reactions with Kokomi.
+Artifacts
+Thundering Fury
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Skyward Pride
+Serpent Spine
+Fischl
+Sub DPS
+Electro
+Oz provides continuous off-field Electro application, helping maintain Electro-Charged uptime.
+Artifacts
+Thundering Fury
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery / Electro DMG
+Circlet
+Elemental Mastery
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Skyward Harp
+The Stringless
+Jean
+Support
+Anemo
+Healer and Anemo support. Jean can assist the team by reducing enemy Elemental Resistance with
+Viridescent Venerer
+.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+#5 Jean Vaporize Team
+Tier S
+Jean is the healer in this team. The Vaporize DMG of the whole team is maximized by Kazuha(C2)'s bonus.
+Diluc
+Main DPS
+Pyro
+Diluc is the main DPS; his DMG is amplified by Vaporize in this team.
+Artifacts
+Crimson Witch of Flames
+Main Stats
+Sands
+ATK%
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Wolf's Gravestone
+Serpent Spine
+Xingqiu
+Sub DPS
+Hydro
+Xingqiu’s Elemental Burst can continuously apply Hydro to enemies, allowing Diluc to trigger Vaporize.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Sacrificial Sword
+Xiangling
+Sub DPS
+Pyro
+Xiangling’s Elemental Burst provides huge damage from off-field.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+ATK% / Energy Recharge
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Engulfing Lightning
+"The Catch"
+Jean
+Support
+Anemo
+Jean is a healer and can assist the team by reducing enemy Elemental Resistance.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+#6 Ayato Pure Hydro SS Tier Team with Furina, Yun Jin and Jean
+Tier SS
+Ayato is the Main DPS of this pure Hydro team. His damage is maximized through
+Normal Attack DMG Bonus
+from Yun Jin,
+ATK SPD
+buffs from Yun Jin C6 and Jean C2, and
+Hydro RES shred
+from Jean via Viridescent Venerer.
+Furina provides strong off-field Hydro damage and a large team damage buff based on HP changes, while Jean supplies healing to sustain Furina's HP drain and trigger her Burst bonus.
+Kamisato Ayato
+Main DPS
+Hydro
+On-field Hydro carry. Focus on continuous Normal Attacks during his skill window.
+Artifacts
+Nymph's Dream
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / HP% / Energy Recharge
+Weapons
+Haran Geppaku Futsu
+The Black Sword
+Furina
+Sub DPS
+Hydro
+Off-field Hydro damage and team-wide DMG buff. Her Burst scales with HP changes from her Skill, which Jean helps offset through healing.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Fleuve Cendre Ferryman
+Yun Jin
+Support
+Geo
+Constellation 6+
+Provides Normal Attack Bonus and, at C6, additional Normal ATK SPD for Ayato.
+Artifacts
+Husk of Opulent Dreams
+Main Stats
+Sands
+DEF%
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+DEF% / DEF% / CRIT DMG / CRIT Rate / Energy Recharge
+Weapons
+Kitain Cross Spear
+Favonius Lance
+Jean
+Support
+Anemo
+Constellation 2+
+Healer and Anemo support. Uses Viridescent Venerer to shred Hydro RES and, at C2, grants the team 15% Attack Speed.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+Jean Teams FAQ
+What is the best Jean team in Genshin Impact?
+Jean Superconduct Keqing Team is one of the strongest Jean teams right now. Use the team summary and build cards on this page to pick the best version for your account.
+What are good Jean teams without premium weapons?
+You can run strong Jean teams without signature weapons by prioritizing reaction synergy, energy consistency, and artifact main stats shown in each build card.
+Which teammates are best with Jean?
+Common high-performing partners include teams such as Jean Superconduct Keqing Team, Jean Superconduct Eula Hypercarry, Jean Swirl Xiao Burst Support Team. Check each lineup section for role breakdowns and gear priorities.

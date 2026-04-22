@@ -1,0 +1,417 @@
+Genshin Impact Barbara Best Team Guide
+Last updated April 22, 2026. Looking for the best Barbara teams in
+        Genshin Impact? Start with the top team summary below, then pick the
+        lineup that fits your roster.
+This page provides the best team info for Barbara, primarily a healer. Top teams include Permafrost, Vaporize, or Electro-Charged compositions. Team positions can be adjusted based on your build and character roster.
+View Barbara's character page
+Barbara Team Summary
+#1
+Team Rating:S
+Barbara Vaporize Team #1
+#2
+Team Rating:A
+Barbara Vaporize Team #2
+C6
+#3
+Team Rating:A
+Barbara Electro-Charged Team
+#4
+Team Rating:S
+Barbara Permafrost Team
+#5
+Team Rating:S
+Alhaitham Barbara Burgeon Team
+C6
+#1 Barbara Vaporize Team #1
+Tier S
+Barbara is a healer in the team. Hu Tao and Xiangling's DMG is amplified by Vaporization.
+Hu Tao
+Main DPS
+Pyro
+Hu Tao is the main DPS, her DMG is amplified by the Vaporization in this team.
+Hu Tao is switched to Xiangling after Elemental Skill ends.
+Artifacts
+Crimson Witch of Flames
+Main Stats
+Sands
+HP% / Elemental Mastery
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Elemental Mastery / ATK%
+Weapons
+Staff of Homa
+Deathmatch
+Xiangling
+Sub DPS
+Pyro
+Xiangling’s Elemental Burst provides huge amount of DMG and continuous Pyro element attachment for Barbara to trigger Vaporization.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+ATK% / Energy Recharge
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Engulfing Lightning
+"The Catch"
+Venti
+Sub DPS
+Anemo
+Venti’s Elemental Burst can group enemies together and apply crowd control, and he can help spread Hydro attachment from Barbara to enemies nearby.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Elegy for the End
+Rust
+Barbara
+Support
+Hydro
+Barbara’s Elemental Skill can healing to other members and attach Hydro element to enemies continuously.
+Artifacts
+Ocean-Hued Clam
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+HP% / Energy Recharge / HP / ATK% / Elemental Mastery
+Weapons
+Everlasting Moonglow
+Prototype Amber
+#2 Barbara Vaporize Team #2
+Tier A
+Barbara is a healer in the team. The Vaporization DMG of the whole team is maximized by Sucrose(C6)'s bonus. Klee and Xiangling allow the team to trigger Vaporize all the time.
+Klee
+Main DPS
+Pyro
+Klee is the main DPS, her DMG is amplified by Vaporization in this team.
+Artifacts
+Crimson Witch of Flames
+Main Stats
+Sands
+ATK%
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Lost Prayer to the Sacred Winds
+The Widsith
+Xiangling
+Sub DPS
+Pyro
+Xiangling’s Elemental Burst provides huge amount of DMG and continuous Pyro element attachment for Barbara to trigger Vaporize.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+ATK% / Energy Recharge
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Engulfing Lightning
+"The Catch"
+Sucrose
+Sub DPS
+Anemo
+Constellation 6+
+Sucrose can assist the team by grouping enemies together, applying crowd control, provide DMG buff to teammates and reduce Elemental Resistance of enemies.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Skyward Atlas
+Sacrificial Fragments
+Barbara
+Support
+Hydro
+Barbara's Elemental Skill can heal other members and continuously apply Hydro element to enemies.
+Artifacts
+Ocean-Hued Clam
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+HP% / Energy Recharge / HP / ATK% / Elemental Mastery
+Weapons
+Everlasting Moonglow
+Prototype Amber
+#3 Barbara Electro-Charged Team
+Tier A
+Barbara is a healer in the team. Razor and Beidou’s Electro DMG reacts with Barbara’s Hydro application to trigger Electro-Charged.
+Razor is the main DPS, supported by Beidou’s off-field Burst, Sucrose’s grouping and resistance shred, and Barbara’s sustained healing/Hydro attachment.
+Razor
+Main DPS
+Electro
+Main DPS of the team. Razor’s DMG is amplified by Electro-Charged reactions in this setup.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Wolf's Gravestone
+Prototype Archaic
+Beidou
+Sub DPS
+Electro
+Beidou’s Elemental Burst can provide Electro DMG even while off-field.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Skyward Pride
+Serpent Spine
+Sucrose
+Sub DPS
+Anemo
+Sucrose can group enemies, provide crowd control, buff team damage, and reduce enemies’ Elemental Resistance with Viridescent Venerer.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Skyward Atlas
+Sacrificial Fragments
+Barbara
+Support
+Hydro
+Healer and Hydro applier. Barbara’s Elemental Skill heals teammates and continuously applies Hydro to enemies.
+Artifacts
+Ocean-Hued Clam
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+HP% / Energy Recharge / HP / ATK% / Elemental Mastery
+Weapons
+Everlasting Moonglow
+Prototype Amber
+#4 Barbara Permafrost Team
+Tier S
+Barbara is a Healer in the team. Ayaka’s Cryo DMG reacts with Hydro attachment from Barbara to trigger Freeze.
+Kamisato Ayaka
+Main DPS
+Cryo
+Ayaka deals DMG by her Elemental Burst, and her Cryo DMG reacts with Hydro attachment from Barbara to trigger Freeze.
+Artifacts
+Blizzard Strayer
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Mistsplitter Reforged
+Amenoma Kageuchi
+Ganyu
+Sub DPS
+Cryo
+Ganyu deals DMG by her Elemental Burst, and her Cryo DMG reacts with Hydro attachment from Barbara to trigger Freeze.
+Artifacts
+Noblesse Oblige
+Blizzard Strayer
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Amos' Bow
+Prototype Crescent
+Venti
+Sub DPS
+Anemo
+Venti’s Elemental Burst can group enemies together and apply crowd control, and he can help spread Hydro attachment from Barbara to enemies nearby.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Elegy for the End
+Rust
+Barbara
+Support
+Hydro
+Barbara’s Elemental Skill can heal other members and attach Hydro element to enemies continuously.
+Artifacts
+Ocean-Hued Clam
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+HP% / Energy Recharge / HP% / ATK% / Elemental Mastery
+Weapons
+Everlasting Moonglow
+Prototype Amber
+#5 Alhaitham Barbara Burgeon Team
+Tier S
+A strong
+Burgeon
+team for
+multiple enemies
+. Barbara provides healing and consistent Hydro, Yelan adds off-field Hydro for Bloom generation, and C6 Thoma triggers Burgeon while offering shielding. Alhaitham stays on-field as the main Dendro driver.
+Alhaitham
+Main DPS
+Dendro
+On-field Dendro DPS. Uses
+Chisel-Light Mirror
+to convert attacks into AoE Dendro damage and drive Bloom reactions.
+Artifacts
+Deepwood Memories
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Dendro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / ATK% / Energy Recharge
+Weapons
+Light of Foliar Incision
+Harbinger of Dawn
+Barbara
+Support
+Hydro
+Healer and Hydro applier. Her Skill provides sustained off-field Hydro application and keeps the team healthy.
+Artifacts
+Ocean-Hued Clam
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+HP% / Energy Recharge / HP% / ATK% / Elemental Mastery
+Weapons
+Sacrificial Fragments
+Yelan
+Sub DPS
+Hydro
+Off-field Hydro Sub DPS that helps create more Bloom cores with Alhaitham's Dendro application.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+HP%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG / CRIT Rate
+Substats
+HP% / Energy Recharge / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Aqua Simulacra
+Favonius Warbow
+Thoma
+Support
+Pyro
+Constellation 6+
+Shielding support and Burgeon trigger. His Burst adds Pyro hits to trigger Burgeon, and at
+C6
+he also buffs Alhaitham's Normal Attack DMG when the shield is obtained or refreshed.
+Artifacts
+Flower of Paradise Lost
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Elemental Mastery / HP%
+Circlet
+Elemental Mastery / HP%
+Substats
+Energy Recharge / Elemental Mastery / HP%
+Weapons
+Kitain Cross Spear
+Barbara Teams FAQ
+What is the best Barbara team in Genshin Impact?
+Barbara Vaporize Team #1 is one of the strongest Barbara teams right now. Use the team summary and build cards on this page to pick the best version for your account.
+What are good Barbara teams without premium weapons?
+You can run strong Barbara teams without signature weapons by prioritizing reaction synergy, energy consistency, and artifact main stats shown in each build card.
+Which teammates are best with Barbara?
+Common high-performing partners include teams such as Barbara Vaporize Team #1, Barbara Vaporize Team #2, Barbara Electro-Charged Team. Check each lineup section for role breakdowns and gear priorities.

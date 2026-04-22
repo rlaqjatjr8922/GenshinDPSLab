@@ -1,0 +1,10 @@
+R5
+Fruitful Hook
+Fruitful Hook
+ATK   -   565
+ATK   -   27.6%
+Increase Plunging Attack CRIT Rate by
+16% (20%, 24%, 28%, 32%)
+; After a Plunging Attack hits an opponent, Normal, Charged, and Plunging Attack DMG increased by
+16% (20%, 24%, 28%, 32%)
+for 10s.

@@ -1,0 +1,463 @@
+Home
+/
+Genshin Impact
+/
+Character List
+/
+Razor Build
+Razor Guide and Best Builds
+Razor is a 4-star Electro character armed with a claymore in Genshin Impact.
+He focuses on brawling with physical damage attacks, with added Electro damage
+from his abilities. While paired with off-field supports to add elemental
+reactions to his capabilities, his damage is quite impressive. Razor is one of
+the best users of Superconduct, adding to his damage output with Electro focused
+reactions.
+Last updated
+on
+Dec 02, 2025
+at
+20:55
+by
+Jaymo
+3 comments
+A
+Rank
+Electro
+Element
+Claymore
+Weapon
+★
+★
+★
+★
+★
+Rarity
+Todd Haberkorn
+EN Voice Actor
+Uchiyama Kouki
+JP Voice Actor
+Razor's Strengths & Weaknesses
+Strengths
+Fast Attacker with Claymore.
+High Physical Damage output.
+High energy recharge.
+Can be built into Electro Damage.
+Weaknesses
+Burst cancels after Character change.
+Electro Damage has weak reactions.
+Needs to be close range.
+1.
+Razor DPS Build
+Razor primarily deals Physical DMG with his claymore, adding
+Electro
+DMG with both his Elemental Skill and Burst. With this added Electro DMG,
+Razor can trigger
+Elemental Reactions
+with many of this teammates increasing his
+on on-field DPS and versatility as a team member.
+BiS Weapon
+Wolf's Gravestone
+Alternate Weapons
+Song of Broken Pines
+The Unforged
+Serpent Spine
+Lithic Blade
+Luxurious Sea-Lord
+Best Artifacts
+Pale Flame
+— 4-piece
+Gladiator's Finale
+— 4-piece
+Pale Flame
++
+Bloodstained Chivalry
+— 2-piece bonuses
+Gladiator's Finale
++
+Bloodstained Chivalry
+— 2-piece Bonuses
+Main Stats
+Sand Stats
+: ATK %
+Goblet Stats
+: Physical DMG
+Circlet Stats
+: CRIT Rate or CRIT DMG
+Substat Priority
+ATK %
+CRIT Rate
+CRIT DMG
+Energy Recharge
+Talent Priority
+Normal Attack
+Elemental Burst
+Elemental Skill
+Wolf's Gravestone
+and
+Song of Broken Pines
+are great
+choices for a 5-star weapon for Razor, and they are extremely close in what they
+offer us. The
+Wolf's Gravestone
+can grant a massive boost in ATK
+power whenever you strike a enemy with low health (below 30%), but the downside
+is that this ability has a cooldown. The attack buff only lasts for 12 seconds with
+no way to increase it. It can only occur once every 30s, this means we have
+a dead period in between triggers where you will have no buff.
+The
+Song of Broken Pines
+offers a weaker flat attack bonus but is
+permanently applied while using the weapon. The skill triggers through normal
+and charged attacks, by applying a sigil for every strike. Once you gain 4 sigils
+you will activate a party wide buff for an ATK SPD and an ATK %
+buff for 12 seconds. This can occur once every 20 seconds. Overall, both weapons
+suffer from the drawback of a dead period between buffs, but the strength of the
+each makes up for this small drawback.
+The top F2P weapon, the 4-star
+Serpent Spine
+claymore is a great
+addition to have, with its bonus CRIT Rate on the base weapon and a stacking buff
+to overall damage every four seconds. However, as you gain stacks of damage increases,
+your character will also gain stacks of damage received along side it. Basically,
+making you do more damage, but also making you more vulnerable as you stack the buff.
+This effect can be nullified by having a shielder in your party or a solid back up
+healer to heal any extra damage Razor may take.
+Lastly, most of Razors equipment offers boost to
+his overall Physical and Attack DMG. These artifacts can be split into groups of 2 or
+full sets, but you are mainly looking to use which sub stats are the best. However,
+if you choose to use the
+Thundersoother
+set, you will want to put
+more emphasis on Energy Recharge (target 80-100%) so you can keep his Electro DMG
+up at all times.
+2.
+Combos and How to Play Razor
+Razor is the definition of a Main DPS. He stakes his claim as an on-field fighter
+with off-field supports jumping in and out of the battle to augment his abilities.
+First, lets talk about his
+Razor
+which will be used as his primary attack
+since we save his
+Electro
+powers for the right opportunities. Razor's normal attack
+combination is fairly straight forward, 3 hits for when you do not have your
+Elemental Burst
+Lightning Fang
+and use a 4 hit combo for when you do
+have the ability triggered. Otherwise, Razor is a straight forward play style that
+focuses on positional gameplay to maximize the use of his claymore for big AoE attacks.
+His abilities are quite powerful when you at the right time. Razor's Elemental
+Skill,
+Claw and Thunder
+, can be performed by tapping the key to initiate
+a simple dash forward with an
+Electro
+attack or holding the key down to perform a
+AoE slam attack of Electro DMG. Each version gains Electro Sigils that be used
+with his Burst ability,
+Lightning Fang
+, with 3 Sigils from tapping the
+skill and 5 Sigils from holding the skill. The Sigils get absorbed by
+Lightning Fang
+for more SPD and DMG during his burst ability.
+3.
+Razor's Best Team Comps
+Razor is an on-field DPS with excellent attack power and mediocre survivability.
+So we will be targeting off-fielders and support characters that can offer elemental
+reactions for his
+Electro
+abilities to trigger, Damage buffers to keep Razor's DPS
+high, and finally healers or shielders to keep him on the field despite taking any
+damage.
+3.1.
+Razor Main DPS
+Main DPS
+Sub DPS
+Sub DPS
+Support
+Razor
+Xingqiu
+Fischl
+Diona
+This is a great mix of elemental reactions, shielding and some limited healing.
+Razor and Fischl's
+Nightrider
+provide some excellent synergy on
+the battlefield and with
+Xingqiu
+'s
+Hydro
+element used in combination with
+Diona
+'s
+Icy Paws
+to freeze enemies. With this combination on the field, we can trigger
+Superconduct
+with Razor's
+Electro
+skills. Overall, this is a very simple style to play
+keeping
+Fischl
+'s Oz out on the field with Razor and using Xingqiu/Diona
+combos to freeze. There should be no need for any battery and Razor will be the
+primary on-field character with Diona's shields to support him fighting.
+3.2.
+Razor Hypercarry
+Main DPS
+Support
+Support
+Shielder
+Razor
+Kujou Sara
+Bennett
+Xilonen
+This Hypercarry team focuses on a triple damage buff for Razor and a powerful 
+resistance shred from
+Xilonen
+'s samplers. With double healers,
+Bennett
+and
+Xilonen
+, 
+Razor can keep fighting without worrying too much about damage. In this build, we want to focus Razor on
+Electro
+damage
+ through his gear selection and decent ER to keep his skills rotating quickly. We will also be stacking more damage with
+Kujou Sara
+'s
+Subjugation: Koukou Sendou
+,
+Bennett
+'s
+Fantastic Voyage
+and
+Xilonen
+'s abilities. These buffs will boost Razor's ATK damage through the roof, while making quick
+character switches to keep energy going and allow for
+Elemental Reactions
+.
+3.3.
+Razor Hyperbloom Team
+Main DPS
+Sub DPS
+Sub DPS
+Support
+Razor
+Nahida
+Xingqiu
+Baizhu
+This Hyperbloom team focuses less on Razor's
+Physical
+DMG and more on
+Elemental Mastery and CRIT stats for triggering
+Hyperbloom
+.
+This can alter our choices for Artifacts and sub stats,
+focusing more on Elemental Mastery with artifacts such as
+Gilded Dreams
+or
+Flower of Paradise Lost
+. If you choose to play this build, it will
+take some patience and dedication to get use to playing around
+with
+Dendro
+cores(made from
+Bloom
+reactions)
+and triggering them with
+Electro
+. When you trigger Hyperbloom, they become
+homing missiles, chasing down the enemies and exploding. This style of game play is
+very rewarding once you understand how the build needs to be played and can cycle
+your elemental attacks in the correct order.
+4.
+Razor's Ascensions, Talents, and Constellations
+Razor Ascensions
+Razor Talents
+Razor Constellations
+4.1.
+Razor's Ascension Passives and Materials
+Unlock
+Ascension Passive
+Explanation
+With Character
+Wolvensprint
+Decreases sprinting Stamina consumption for your own party members by
+     20%. Not stackable with Passive Talents that provide the exact same
+     effects.
+1st Ascension
+Awakening
+Decreases
+Claw and Thunder
+'s CD by 18%. Using
+Lightning Fang
+resets the CD of
+Claw and Thunder
+.
+4th Ascension
+Hunger
+When Razor's Energy is below 50%, increases
+    Energy Recharge by 30%.
+Razor requires a range of materials to ascend to the 6th ascension.
+Starting from the second ascension he gains additional Physical DMG as he
+gains levels, totalling 30.0% increased Physical DMG at the final ascension.
+The total cost to upgrade all ascensions is:
+Source
+Quantity
+Mora
+420,000 Mora
+Boss Material
+46x
+Lightning Prism
+Ascension Material
+1x
+Vajrada Amethyst Sliver
+9x
+Vajrada Amethyst Fragment
+9x
+Vajrada Amethyst Chunk
+6x
+Vajrada Amethyst Gemstone
+Local Specialty
+168x
+Wolfhook
+Enhancement Material
+18x
+Damaged Mask
+30x
+Stained Mask
+36x
+Ominous Mask
+4.2.
+Razor's Talents
+Listed below is each talent and a brief explanation of how they work.
+Type
+Talent Name
+Brief Explanation
+Normal
+Steel Fang
+Standard
+Razor
+dealing 4 consecutive strikes.
+Charged Attack
+is a continuous spinning attack against
+     all nearby enemies.
+Plunging Attack
+strike the ground
+     below with an AoE DMG circle.
+Elemental Skill
+Claw and Thunder
+Deals additional Electro DMG to opponents in front of
+    Razor. Allows Electro Sigils to be gained with each strike, up to 3. When
+    held down, it unleashes an AoE Electro attack around Razor. Allows Electro
+    Sigils to be gained with each strike, up to 5.
+Elemental Burst
+Lightning Fang
+This skill summons
+The Wolf Within
+from Razor which
+    will damage all nearby opponents with Electro DMG. It also
+    increases his ATK SPD and Electro RES.
+To upgrade a single talent to level 10, it costs:
+Source
+Quantity
+Mora
+1,625,500 Mora
+Special Material
+1x
+Crown of Insight
+Boss Material
+6x
+Dvalin's Claw
+Domain Material
+3x
+Teachings of Resistance
+21x
+Guide to Resistance
+38x
+Philosophies of Resistance
+Enhancement Material
+6x
+Damaged Mask
+22x
+Stained Mask
+31x
+Ominous Mask
+4.3.
+Razor's Constellations
+Almost all of Razor's constellations are useful and push him to become stronger
+and stronger. Typically, you want to aim for his max constellation
+Lupus Fulguris
+(C6) as he is a
+4-star character and as long as he is attached to a banner, you will eventually reach
+the max constellation. His constellations helps to increase his DPS significantly,
+focusing on damage buffs and CRIT Rate stat increases.
+#
+Name
+Explanation
+C1
+Wolf's Instinct
+Picking up an Elemental Orb or Particle increases Razor's DMG by 10% for 8s.
+C2
+Suppression
+Increases CRIT Rate against opponents with less than 30% HP by 10%.
+C3
+Soul Companion
+Increases the Level of
+Lightning Fang
+by 3.
+Maximum upgrade level is 15.
+C4
+Bite
+When casting
+Claw and Thunder
+, opponents hit will have
+    their DEF decreased by 15% for 7s.
+C5
+Sharpened Claws
+Increases the Level of
+Claw and Thunder
+by 3.
+Maximum upgrade level is 15.
+C6
+Lupus Fulguris
+Every 10s, Razor's sword charges up, causing the next
+Razor
+to release lightning that deals 100% of
+        Razor's ATK as Electro DMG.
+When Razor is not using
+Lightning Fang
+, a
+        lightning strike on an opponent will grant Razor an Electro Sigil for
+Claw and Thunder
+.
+Changelog
+22 Oct. 2024:
+Build adjustment for new characters.
+29 Nov. 2023:
+Guide added.
+Show more
+Show less
+Need any help? Check out our
+General Discussion Forum
+!
+3 comments
+In The Same Category
+Flins Team Guide
+Iansan Profile & Talents
+Kujou Sara Best Builds Guide
+Ineffa Profile & Talents
+Lisa Best Builds Guide
+Cyno Best Builds Guide
+Ororon Best Builds Guide
+Varesa Best Builds Guide
+Raiden Shogun Best Builds Guide
+Flins Best Builds Guide
+Dori Best Builds Guide
+Clorinde Best Builds Guide
+ABOUT THE AUTHOR
+Written by Jaymo, a longtime gamer who spends way too many hours exploring
+        open worlds, grinding in MMOs, and pulling for his favorite gacha characters.
+        He covers news and guides for all kinds of games, and just likes helping people
+        enjoy them more. You can find him hanging out on Twitch or chatting in Discord (jaym0).
+SUPPORT OUR WRITERS

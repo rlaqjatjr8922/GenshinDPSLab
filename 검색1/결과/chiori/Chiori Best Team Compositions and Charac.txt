@@ -1,0 +1,297 @@
+Home
+/
+Genshin Impact
+/
+Character List
+/
+Chiori Profile
+/
+Chiori Build
+/
+Chiori Teams
+Chiori Best Teams and Team Compositions
+Chiori is a 5-Star Geo Sword user in Genshin Impact who deals Geo damage
+from off-field via her Elemental Skill. This guide will focus on Chiori's best 
+builds, artifacts, weapons and best team compositions.
+Last updated
+on
+Mar 19, 2026
+at
+10:35
+by
+GxG Noir
+A
+Rank
+Geo
+Element
+Sword
+Weapon
+★
+★
+★
+★
+★
+Rarity
+Brittany Lauda
+EN Voice Actor
+Taketatsu Ayana
+JP Voice Actor
+Profile & Talents
+Build Guide
+Team Guide
+Chiori's Best Teams & Character Synergies
+Welcome to our Chiori team composition guide and 
+character synergies overview for Genshin Impact. 
+In this guide, we'll explore the best teams to build for Chiori, including 
+recommended characters, character synergies, and team compositions to help Chiori 
+reach her full damage potential.
+Best Pairings and Synergies With Chiori
+If Chiori is not at C1+, she performs best when paired with a
+Geo
+Construct so
+that she can get two Tamoto dolls instead of one, allowing her to deal far more
+damage. This can be from characters that directly create
+Geo
+Constructs of their
+own, or characters that enable Lunar-Crystallize, as the Moondrifts from the
+reaction are considered
+Geo
+Constructs.
+Chiori will generally be used in a team with an on-field
+Geo
+DPS, as these 
+teams will usually have buffs for
+Geo DMG
+that both she and the on-field
+DPS can benefit from together. If you have a C6 Chiori, you can instead use her
+as the on-field DPS and shift the focus to maximizing her own damage.
+Geo
+Geo
+DPS Options
+Chiori works well with any
+Geo
+DPS such as
+Zibai
+,
+Navia
+and
+Arataki Itto
+. However, in
+Zibai
+'s case, her
+	damage is so high that you'd much rather have a buffer like
+Illuga
+or
+Gorou
+instead of Chiori's sub-DPS damage.
+Columbina
+Columbina
+Columbina is one of the best supports to use in a team with Chiori,
+	as she enables and buffs Lunar-Crystallize, while providing the necessary 
+	Hydro application to trigger the reaction. Columbina also deals high amounts
+	of direct Lunar-Crystallize damage of her own, allowing her to benefit from
+	buffs to Geo damage alongside Chiori.
+Linnea
+Linnea
+Like Columbina, Linnea enables and buffs Lunar-Crystallize. She provides 
+	good buffing via her Geo RES Shred and acts as a powerful Geo sub-DPS
+alongside Chiori. Linnea also provides healing, so she can cover the team's
+sustain slot.
+Xilonen
+Xilonen
+Similar to Linnea, Xilonen provides RES Shred and healing, while offering
+	much more buffing thanks to the
+Scroll of the Hero of Cinder City
+set, but she doesn't enable Lunar-Crystallize or deal good damage of her own.
+	Using Chiori and Xilonen together can make a decent team core, enabling Geo
+	resonance while Xilonen provides strong buffs to both your on-field DPS and
+	Chiori. However, Xilonen does not work in teams with more than two Geo units,
+	which holds back the synergy, as this means she can't be used together with
+	powerful characters like
+Linnea
+or
+Gorou
+.
+	Xilonen's buffing will work in these teams at C2, but she still won't be 
+	able to heal with her Elemental Burst.
+Illuga
+Illuga
+Illuga, especially at C6, provides strong buffs to the whole team,
+	increasing their CRIT Rate, CRIT Damage, and Elemental Mastery. Illuga is
+	also a Moonsign character, so he can enable Ascendant Gleam when used with
+Columbina
+or
+Linnea
+to enable
+	more buffs.
+Gorou
+Gorou
+The Crit DMG from Gorou's C6 as well as the DEF% from his Ascension 1
+passive talent are team-wide, so Chiori will benefit from them even off-field.
+Since Gorou buffs Defense and wants three Geo units to maximize his buffs, he 
+will do well when there is another Defense-scaling Geo unit on the team 
+alongside Chiori.
+Zhongli
+Zhongli
+Zhongli provides a Geo Construct, a powerful Shield, and RES Shred.
+	Similar to Chiori, Zhongli will also benefit greatly from any other 
+	Constructs on the team, as the Stone Stele from his Skill gains an 
+	additional hit for each Construct. This will make him especially useful in
+Lunar-Crystallize teams, since the Moondrifts from the reaction count as four
+total Constructs.
+Furina
+Furina
+Furina provides a good teamwide DMG% buff while doing respectable damage
+	of her own. She requires healing to get her full value, so it's recommended
+	to use her alongside either
+Linnea
+or
+Xilonen
+.
+	Since Furina is Hydro, if using
+Linnea
+, Furina can be
+	used as an alternative to Columbina if you don't have her available. She can
+	also be used in a double Hydro core alongside another Hydro unit, allowing both units to
+	deal more damage thanks to lower Energy requirements and Hydro Resonance.
+Yelan
+Xingqiu
+Mona
+If using
+Linnea
+and not using
+Columbina
+or
+Furina
+, you will need a Hydro unit in their place.
+	Yelan and Xingqiu are generally the best alternatives, but if you are using
+Albedo
+, Mona can also work well because she is a Hexerei 
+	character. If using Mona, you will want to give her a good amount of field 
+	time to apply Hydro with her Normal/Charged Attacks, which will also extend 
+	the duration of her Omen, allowing Chiori and Albedo to deal much more 
+	damage. At C1 and C2, Mona can also provide decent buffs to Lunar-Crystallize 
+	DMG% and Elemental Mastery.
+Durin
+Durin
+Durin deals good Pyro damage from off-field while also providing RES
+	Shred to both Geo and Pyro. This is enhanced further if using a second
+	Hexerei character, resulting in great synergy if also using
+Albedo
+.
+Chiori's Best Team Compositions
+Listed below are a range of team compositions we recommend you use 
+with Chiori. Her best teams, however, can depend on both the boss you are facing 
+and how your characters are built. The inclusion or exclusion of any given team 
+does not necessarily reflect overall power; for example, some F2P teams may also 
+be listed.
+Off-Field Teams
+Chiori
+Linnea
+Columbina
+Navia
+Chiori
+Linnea
+Columbina
+Arataki Itto
+Chiori
+Linnea
+Columbina
+Noelle
+Chiori
+Linnea
+Columbina
+Ningguang
+Chiori
+Linnea
+Columbina
+Zhongli
+Chiori
+Linnea
+Mona
+Albedo
+Chiori
+Xilonen
+Durin
+Albedo
+Chiori
+Furina
+Columbina
+Navia
+Chiori
+Linnea
+Furina
+Arataki Itto
+Chiori
+Linnea
+Columbina
+Illuga
+Chiori
+Linnea
+Furina
+Illuga
+Chiori
+Linnea
+Columbina
+Gorou
+C6 On-Field DPS Teams
+Chiori
+Linnea
+Columbina
+Illuga
+Chiori
+Linnea
+Columbina
+Gorou
+Chiori
+Linnea
+Columbina
+Furina
+Chiori
+Yelan
+Xilonen
+Furina
+Chiori
+Durin
+Gorou
+Albedo
+Changelog
+19 Mar. 2026:
+Updated for patch 6.5
+31 Jul. 2025:
+Reviewed for patch 5.8
+08 May 2025:
+Reviewed for patch 5.6
+17 Feb. 2025:
+Reviewed for patch 5.4
+01 Apr. 2024:
+Additional paragraph about character swapping for Chiori.
+12 Mar. 2024:
+Guide added.
+Show more
+Show less
+Profile & Talents
+Build Guide
+Team Guide
+In The Same Category
+Chiori Best Builds Guide
+Chiori Profile & Talents
+Albedo Best Builds Guide
+Xilonen Profile & Talents
+Navia Best Builds Guide
+Illuga Profile & Talents
+Gorou Best Builds Guide
+Linnea Best Builds Guide
+Linnea Profile & Talents
+Linnea Team Guide
+Noelle Best Builds Guide
+Illuga Best Builds Guide
+ABOUT THE AUTHOR
+GxG Noir has been traversing the world of Teyvat since patch 1.1. 
+        He has a passion for doing calculations and theorycrafting, especially on 
+        some of the more underrated characters. You can find him on
+YouTube
+as well as
+Discord
+.
+SUPPORT OUR WRITERS

@@ -1,0 +1,120 @@
+Table of Contents
+Skills
+Weapons
+Artifacts
+Team Comps
+Constellation
+Baizhu is a Dendro catalyst who excels in both healing and applying Dendro through his Elemental Skill. Not only that, Baizhu grants a shield and extra damage from his Elemental Burst. This makes him more efficient in rotations and grants multiple benefits to his allies.
+Baizhu is fairly easy to build, as he requires only one stat, which is HP. However, he can be built differently based on whether his use is focused more on healing or being a Dendro support. This is why it is important to understand how to build him and what team comp to fit him in. Here you can learn how to optimize his build to reach his peak performance!
+Skills
+Normal Attack: The Classics of Acupuncture
+Baizhu performs up to four attacks that deal Dendro damage. Holding will consume stamina and deal AOE Dendro damage. Baizhu’s kit and his main usage depend on other skills more than his normal attack, making this the least priority to level up.
+Elemental Skill: Universal Diagnosis
+Beizhu summons his Gossamer Sprite that targets nearby enemies and deals Dendro damage to enemies it hits. Gossamer Sprite can hit up to 3 different enemies, and will return to Beizhu and heal all nearby party members. The healing scales based on Beizhu’s maximum HP.
+Elemental Burst: Holistic Revivification
+Upon using the Elemental Burst, Beizhu applies “Pulsing Clarity” status on himself and creates Seamless Shield on the active character. This shield reapplies every 2.5 seconds While Pulsing Clarity status is still active.
+If the shield shatters, expires or a new shield is applied while one already exists, Beizhu heals the active character and throws Spiritveins that damage a nearby enemy. Baizhu’s Burst provides multiple benefits, from the shield, to healing to Dendro application. This is why it is the most important part of his kit and takes the highest priority in leveling up.
+Passive: Five Fortunes Forever
+If the active character’s HP is equal to or above 50%, Baizhu gains a 25% Dendro damage bonus. Otherwise, he gains a 20% healing bonus.
+2nd Passive: All Things Are of the Earth
+Characters gain Year of Verdant Favor buff when they are healed with Seamless Shields. Year of Verdant Favor increases Burning, Bloom, Hyperbloom, and Burgeon reaction damage by 2%, as well as Aggravate and Spread by 0.8% for each 1000 points of maximum HP of Beizhu.
+The maximum increase from this passive is 100% for Burning, Bloom, Hyperbloom, and Burgeon reactions, and 40% for Aggravate and Spread reactions.
+Weapons
+Jadefall’s Splendor
+Jadefall’s Splendor is the best weapon for Beizhu as it increases his maximum HP, while improving his supportive capabilities. It restores 4.5-6.5 energy every 2.5 after generating a shield or using the Elemental burst. Moreover, Baizhu gains 0.3-1.1% for every 1000 maximum HP he has, up to 12-44% elemental damage bonus. The values are based on refinement level.
+Favonius Codex
+Favonius Codex is amazing for teams where Beizhu has enough HP without the weapon. As his passive caps at 50K maximum HP, the energy recharge is beneficial for spamming his Burst, all while generating energy through its passive. As Beizhu has multiple off-field hits, the chances of critting and activating the passive is significantly higher.
+Thrilling Tales of Dragon Slayers
+The F2P option, Thrilling Tales of Dragon Slayers is one of the best weapons for any catalyst support. It is even better as Beizhu scales with maximum HP. Besides the HP buff, it allows Beizhu to increase his allies’ attack by 48%.
+Artifacts
+When it comes to artifacts, there are two builds that work best for Beizhu. Either he is built as a Dendro support that heals, or focusing on the healing build. For the support build, Deepwood Memories artifact sets are the best set, as it improves the damage of the main DPS by reducing Dendro resistance of enemies.
+The other build focuses more on healing and dealing damage through that healing. Ocean-Hued Clam set increases healing bonus by 15%, and produces Sea-Dyed Foam that builds up based on 90% of incoming healing from Baizhu, up to 30K HP. The Sea-Dyed Foam will explode dealing damage to enemies. This set allows Baizhu to both heal his allies and damage his enemies. Although his Dendro reactions will be less effective.
+As for substats, HP is the most important stat, as his damage and healing is based on it. Reaching as close to 50K with his signature weapon is the main goal, and the remaining substats go to elemental mastery and energy recharge. This makes him overall extremely easy to build.
+Build:
+Deepwood Memories
+Flower
+Plume
+Sands
+Goblet
+Circlet
+Substats
+1. HP
+1.  ATK
+1. HP % or Elemental Mastery
+1. HP %
+1. HP %
+1. HP %
+2. Flat HP
+3. Elemental Mastery
+4. Energy Recharge
+Also Read:
+Best Settings For Genshin Impact: Get The Highest Performance And Graphics.
+Build: Ocean-Hued Clam
+Flower
+Plume
+Sands
+Goblet
+Circlet
+Substats
+1. HP
+1.  ATK
+1. Energy Recharg or HP %
+1. HP %
+1. HP %
+1. HP %
+2. Flat HP
+3. Energy Recharge
+Team Comps
+When it comes to team comps, Baizhu can be used as either Dendro support or an active healer, as long as he does not intervene with other reactions. As a Dendro support, he has good Dendro application all while healing at the same time, making him amazing in a Bloom team.
+Meanwhile, he can be used in teams where he is the main healer, such as Physical team, Melt team and so on. However, he will require some timing to ensure he does not remove the needed element. He works best as a healer with Geo and Cryo teams as those elements do not interact with Dendro.
+Nahida
+Nahida is the best pair to Baizhu if he is used as a support Dendro character. Her Dendro applications, along with high elemental mastery and her passive, she and Baizhu can excel in Dendro reactions and boost their damage significantly. Meanwhile, Baizhu’s healing will make this combo both amazing offensively and defensively.
+Also Read:
+Best Nahida Build: Weapons, Artifacts & Team Comps
+Nilou
+Nilou is one of the best Hydro appliers for a Bloom team. However, Bloom teams struggle with losing HP from Dendro cores, making a healer essential for her to shine without risking dying from her own reactions. Beizhu will not only heals but also shields her, making her safe to deal as much damage as possible.
+Also Read:
+Best Nilou Build: Weapons, Artifacts & Team Comps
+Yae Miko/Fischl
+Also Read:
+Best Yae Miko Build: Weapons, Artifacts & Team Comps
+Yae Miko and Fischl are amazing off-field Electro appliers. They work amazingly in any Aggravate or Hyperbloom team. As Yae requires some time to set up her Elemental Skill, Baizhu’s shield is extremely useful to both protect her and apply Dendro for their reaction.
+Also Read:
+Best Fischl Build: Weapons, Artifacts & Team Comps
+Yelan/Xingqiu
+Also Read:
+Best Yelan Build: Weapons, Artifacts & Team Comps
+Yelan and Xingiu are amazing in applying Hydro through normal attacks. Especially for Xingqiu, both can struggle with losing HP through Bloom reactions. Pairing Yelan or Xingqiu with Alhaitham or Nahida for Dendro application can be extremely strong offensively. Meanwhile, adding Baizhu will add the defensive capability to make them a well-rounded team.
+Also Read:
+Best Xingqiu Build: Weapons, Artifacts & Team Comps
+Alhaitham
+Alhaitham is one of the strongest Dendro characters especially as a main DPS. However, he is a melee character, which puts him in significant danger, and dodging reduces the damage window of his kit. Pairing him with Baizhu will both shield and heal Alhaitham to maximize his damage potential.
+Also Read:
+Best Alhaitham Build: Weapons, Artifacts & Team Comps
+Kaveh
+Kaveh is a great F2P replacement for Alhaitham especially for a Bloom team. He struggles with close proximity more than with Alhaitham, as he uses charged attacks that will be interrupted with dashes. Pairing him with Baizhu offers the same benefits, increasing his damage window all while keeping him safe.
+Constellation
+Attentive Observation
+Baizhu’s Elemental Skill gains an additional charge
+Incisive Discernment
+Baizhu uses Gossamer Sprite: Splice whenever the active character hits an enemy, which deals 250% of Baizhu’s attack as Dendro damage.
+After it attacks, Gossamer Sprite: Splice will return to the active character and heals by 20% of the Elemental Skill’s healing (5-second cooldown)
+All Aspects Stabilized
+Increases the level of the Elemental Burst by 3 and the maximum level to 15
+Ancient Art of Perception
+Baizhu increases his allies’ elemental mastery by 80 for 15 seconds after using his Elemental Burst
+The Hidden Ebb and Flow
+Increases the level of the Elemental Skill by 3 and the maximum level to 15
+Elimination of Malicious Qi
+Spiritveins from the Elemental Burst deal additional Dendro damage that scales with 8% of Beizhu’s maximum HP.
+Moreover, Gossamer Sprite and Gossamer Sprite: Splice generate Seamless Shield. This effect can only be triggered once by each of them for a single Elemental Burst instance.
+In terms of constellations, Baizhu works just fine without any of his constellations. His healing values and Dendro applications work well at C0. However, if further improvement is desired, Baizhu’s first constellations are not worth the investment, and more of quality of life improvements.
+His fourth constellation is amazing for a Dendro reaction team. The elemental mastery increase to all allies can improve reaction damage along with its high duration. Meanwhile, his sixth constellation significantly improves his damage output and makes him a great sub-DPS. However, it is an extremely big investment and many other C6 characters will easily outdamage him.
+The flexibility of Baizhu gives him an amazing spot in Dendro reactions, especially Bloom ones. By filling both supportive and healing roles, it gives an extra spot for another sub-DPS to increase the overall damage of the team. Meanwhile, the shield and off-field Dendro application increases the damage window for the main DPS.
+Overall, Baizhu is a decent support for Dendro teams, especially due to his low investment and ease of use. As he is dependent on HP mainly, farming artifacts is extremely easy. This makes him great to have for newer players and those who are new to Dendro comps.
+All image copyrights belong to
+Mihoyo
+,
+Genshin Impact fandom
+, and
+Genshin honeyhunterworld.

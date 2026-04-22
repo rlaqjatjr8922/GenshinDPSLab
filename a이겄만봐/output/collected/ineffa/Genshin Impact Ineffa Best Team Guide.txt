@@ -1,0 +1,791 @@
+Genshin Impact Ineffa Best Team Guide
+Last updated April 22, 2026. Looking for the best Ineffa teams in
+        Genshin Impact? Start with the top team summary below, then pick the
+        lineup that fits your roster.
+This page provides the best Ineffa Team information. Ineffa will be Support/Shield in most of the situation. Top teams include Lunar-Charged teams, offering flexibility in team composition based on your build and character.
+View Ineffa's character page
+Ineffa Team Summary
+#1
+Team Rating:S
+Ineffa Lunar-Charged Neuvillette Hypercarry
+#2
+Team Rating:S
+Clorinde Furina Xilonen Ineffa Lunar-Charged Team
+#3
+Team Rating:S
+Ineffa Lunar-Charged Plunge Varesa
+#4
+Team Rating:SS
+Ineffa Lunar-Charged Flins Hypercarry
+#5
+Team Rating:SS
+Ineffa Lunar-Charged Flins Hypercarry
+C4
+#6
+Team Rating:S
+Neuvillette Lunar-Charged with Columbina, Lauma & Ineffa
+#7
+Team Rating:S
+Ineffa Lunar-Charged Team #7
+C4
+#8
+Team Rating:S
+Ineffa Lunar-Charged Team #8
+C4
+#9
+Team Rating:S
+Ineffa Lunar-Charged Yoimiya Hydro Core
+#1 Ineffa Lunar-Charged Neuvillette Hypercarry
+Tier S
+S+ tier team centered on Neuvillette
+with Furina and Xilonen amplifying damage while Ineffa provides shield utility and converts Electro-Charged into Lunar-Charged. Strong sustain, consistent Hydro application, and high reaction-based AoE damage.
+Neuvillette
+Main DPS
+Hydro
+Main on-field DPS. Prioritize Charged Attack uptime and maintain high HP for damage scaling.
+Artifacts
+Marechaussee Hunter
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Tome of the Eternal Flow
+Sacrificial Jade
+Furina
+Sub DPS
+Hydro
+Off-field Hydro application and team damage buff through her Burst. Her Skill steadily drains HP to maximize burst value, which is offset by team healing.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Favonius Sword
+Xilonen
+Support
+Geo
+Provides elemental RES shred through Samplers and healing support. Use her to enable team sustain and increase overall damage.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Peak Patrol Song
+Favonius Sword
+Ineffa
+Support
+Electro
+Enables Lunar-Charged by converting Electro-Charged reactions, provides shielding, and summons Birgitta for extra attacks. Her Burst also increases the active character's Elemental Mastery.
+Artifacts
+Wanderer's Troupe
+Gilded Dreams
+Main Stats
+Sands
+ATK%
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Fractured Halo
+Ballad of the Fjords
+#2 Clorinde Furina Xilonen Ineffa Lunar-Charged Team
+Tier S
+Lunar-Charged team centered around Clorinde
+with Furina enabling off-field Hydro, Xilonen providing RES shred and healing, and Ineffa converting Electro-Charged into Lunar-Charged while adding shielding and extra reaction damage. Strong sustained damage with excellent team utility and survivability.
+Clorinde
+Main DPS
+Electro
+On-field Electro driver and primary damage dealer. Uses her Elemental Skill to convert Normal Attacks into Electro pistol shots and extend her Bond of Life rotation.
+Artifacts
+Fragment of Harmonic Whimsy
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Absolution
+The Black Sword
+Furina
+Sub DPS
+Hydro
+Provides consistent off-field Hydro application and a large team damage bonus through her Burst, while her Skill consumes party HP to fuel Fanfare stacks.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Favonius Sword
+Xilonen
+Support
+Geo
+Applies elemental RES shred through her Samplers and offers healing to keep the team stable, increasing overall team damage and comfort.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Peak Patrol Song
+Favonius Sword
+Ineffa
+Support
+Electro
+Converts Electro-Charged into
+Lunar-Charged
+, provides a shield with her Skill, summons Birgitta for extra attacks, and buffs the active character’s Elemental Mastery with her Burst.
+Artifacts
+Wanderer's Troupe
+Gilded Dreams
+Main Stats
+Sands
+ATK%
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Fractured Halo
+Ballad of the Fjords
+#3 Ineffa Lunar-Charged Plunge Varesa
+Tier S
+A strong
+Lunar-Charged
+plunge-focused team built around
+Varesa
+as the on-field DPS.
+Furina
+provides Hydro application and a major DMG buff,
+Xianyun
+enables and boosts Plunge Attacks, and
+Ineffa
+converts Electro-Charged into Lunar-Charged while adding shielding and extra reaction damage. Note: the guide labels Ineffa as Hydro, but her role here is clearly
+Electro support/shield
+.
+Varesa
+Main DPS
+Electro
+On-field Plunge DPS. Builds Nightsoul Points to enter Fiery Passion and then Apex Drive, allowing special Burst usage with lower Energy needs.
+Artifacts
+Long Night's Oath
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / ATK% / Energy Recharge
+Weapons
+Vivid Notions
+The Widsith
+Furina
+Sub DPS
+Hydro
+Provides continuous Hydro application and a strong team damage buff through her Burst, scaling with HP fluctuations.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Favonius Sword
+Xianyun
+Support
+Anemo
+Plunge enabler and buffer. Increases teammates' Plunge Attack Crit Rate and damage while using Viridescent Venerer to shred elemental resistance.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Energy Recharge
+Goblet
+ATK%
+Circlet
+ATK%
+Substats
+ATK% / Energy Recharge / CRIT Rate
+Weapons
+Crane's Echoing Call
+Favonius Codex
+Ineffa
+Support
+Electro
+Converts Electro-Charged into
+Lunar-Charged
+, scaling the reaction damage with Ineffa's ATK. Her skill provides shielding and summons Birgitta, which triggers extra attacks from Lunar-Charged reactions. Her Burst also grants the active character Elemental Mastery.
+Artifacts
+Wanderer's Troupe
+Gilded Dreams
+Main Stats
+Sands
+ATK%
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Fractured Halo
+Ballad of the Fjords
+#4 Ineffa Lunar-Charged Flins Hypercarry
+Tier SS
+Team Rating:
+SS Tier
+Core idea:
+Flins is the on-field driver/Main DPS, while Ineffa enables Lunar-Charged and provides shielding. Columbina supplies off-field Hydro application and Lunar reaction support, and Xilonen adds RES shred plus healing. Great premium Lunar-Charged team with strong multipliers and high comfort.
+Flins
+Main DPS
+Electro
+On-field carry. Uses Elemental Skill to enter Manifest Flame form, converting Normal Attacks into Electro DMG and enabling his enhanced Skill + special Burst for AoE Lunar-Charged Electro DMG. Benefits heavily from ATK scaling and Lunar-Charged amplification.
+Artifacts
+Night of the Sky's Unveiling
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge / Elemental Mastery
+Weapons
+Bloodsoaked Ruins
+Deathmatch
+Columbina
+Sub DPS
+Hydro
+Off-field Hydro applier and Lunar reaction enabler. Her skill provides continuous AoE Hydro application, while her Burst aura and talent boost Lunar-Charged, Lunar Crystallize, and Lunar-Bloom support.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+Energy Recharge
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / Energy Recharge / HP%
+Weapons
+Nocturne's Curtain Call
+Sacrificial Jade
+Xilonen
+Support
+Geo
+Provides elemental RES shred through Samplers and adds healing for team comfort. Excellent buffer/debuffer to support Flins' damage output.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+DEF%
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Peak Patrol Song
+Flute of Ezpitzal
+Ineffa
+Support
+Electro
+Enables Lunar-Charged by converting Electro-Charged into Lunar-Charged and increases its damage based on ATK. Her skill grants a shield and summons Birgitta for additional hits triggered by Lunar-Charged reactions; Burst also grants active character Elemental Mastery.
+Artifacts
+Silken Moon's Serenade
+Main Stats
+Sands
+ATK%
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Fractured Halo
+Ballad of the Fjords
+#5 Ineffa Lunar-Charged Flins Hypercarry
+Tier SS
+A strong Lunar-Charged team built around
+Flins
+as the main damage dealer, with
+Ineffa
+converting Electro-Charged into Lunar-Charged and providing shielding plus extra triggers.
+Columbina
+supplies consistent Hydro application and Lunar reaction buffs, while
+Sucrose
+groups enemies, shreds resistance with Viridescent Venerer, and boosts team EM.
+Flins
+Main DPS
+Electro
+Main on-field DPS. Uses his Elemental Skill to enter Manifest Flame form, converting Normal Attacks into Electro DMG. His enhanced Skill and Special Burst deal Lunar-Charged AoE Electro DMG, and he boosts allies' Electro-Charged damage conversion based on ATK.
+Artifacts
+Night of the Sky's Unveiling
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge / Elemental Mastery
+Weapons
+Bloodsoaked Ruins
+Deathmatch
+Columbina
+Sub DPS
+Hydro
+Off-field Hydro applicator and Lunar reaction enabler. Her Skill provides continuous AoE Hydro application and can trigger Lunar reactions, while her Burst aura and talent buff Lunar-Charged, Lunar Crystallize, and Lunar-Bloom.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+Energy Recharge
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / Energy Recharge / HP%
+Weapons
+Nocturne's Curtain Call
+Sacrificial Jade
+Sucrose
+Sub DPS
+Anemo
+Constellation 4+
+Provides crowd control, Viridescent Venerer resistance shred, and EM sharing. C4 improves her Skill cooldown through Normal Attacks, helping maintain utility and faster enemy resistance reduction.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge
+Weapons
+Sunny Morning Sleep-In
+Wandering Evenstar
+Ineffa
+Support
+Electro
+Support/shield unit. Her passive converts Electro-Charged into Lunar-Charged and scales Lunar-Charged damage with ATK. Her Skill provides shielding and summons Birgitta for extra attacks, while her Burst grants Elemental Mastery to the active character.
+Artifacts
+Silken Moon's Serenade
+Main Stats
+Sands
+ATK%
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Fractured Halo
+Ballad of the Fjords
+#6 Neuvillette Lunar-Charged with Columbina, Lauma & Ineffa
+Tier S
+S+ Tier
+team centered on
+Neuvillette
+as the main DPS, with
+Columbina
+providing off-field Hydro application and Lunar reaction damage,
+Lauma
+enabling and amplifying
+Lunar Bloom
+, and
+Ineffa
+supplying shield, buffs, and
+Lunar-Charged
+conversion. Strong reaction-focused composition with mixed Lunar synergy.
+Neuvillette
+Main DPS
+Hydro
+Main on-field DPS. Uses charged attacks as the primary damage source while benefiting from Hydro-focused reaction support.
+Artifacts
+Marechaussee Hunter
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Tome of the Eternal Flow
+Sacrificial Jade
+Columbina
+Sub DPS
+Hydro
+Off-field Hydro applier and Lunar reaction enabler. Her skill provides continuous AoE Hydro application and can trigger Lunar reactions, while her burst and talent support Lunar-Charged, Lunar Crystallize, and Lunar-Bloom damage.
+Artifacts
+Aubade of Morningstar and Moon
+Main Stats
+Sands
+Energy Recharge
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / Energy Recharge / HP%
+Weapons
+Nocturne's Curtain Call
+Sacrificial Jade
+Lauma
+Support
+Dendro
+Enables
+Lunar Bloom
+, boosts team Lunar Bloom damage through stacks, and reduces enemy Dendro and Hydro RES. Scales strongly with Elemental Mastery.
+Artifacts
+Deepwood Memories
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Nightweaver's Looking Glass
+Favonius Codex
+Ineffa
+Support
+Electro
+Provides shielding and summons Birgitta. Converts Electro-Charged into
+Lunar-Charged
+, with reaction damage scaling from her ATK. Burst increases the active character's Elemental Mastery.
+Artifacts
+Silken Moon's Serenade
+Main Stats
+Sands
+ATK%
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Fractured Halo
+Ballad of the Fjords
+#7 Ineffa Lunar-Charged Team #7
+Tier S
+A Lunar-Charged focused team built around
+Ineffa
+as the Shield/Support enabler, with
+Columbina
+driving off-field Hydro application and
+Sucrose
+amplifying reactions through crowd control and RES shred.
+This setup aims to keep Electro-Charged active and convert it into Lunar-Charged consistently, while maintaining strong team utility and healing from
+Jahoda
+.
+Columbina
+Main DPS
+Hydro
+Off-field Hydro driver and primary source of Lunar reaction triggers. Her Elemental Skill provides continuous AoE Hydro application, while her Burst and talent enhance all Lunar reaction types, especially Lunar-Charged.
+Artifacts
+Night of the Sky's Unveiling
+Main Stats
+Sands
+Energy Recharge
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / Energy Recharge / HP%
+Weapons
+Nocturne's Curtain Call
+Sacrificial Jade
+Sucrose
+Sub DPS
+Anemo
+Constellation 4+
+Provides Viridescent Venerer RES shred, crowd control, and elemental buffing.
+C4
+helps reduce Elemental Skill cooldown through Normal Attacks, improving team consistency and resistance shred uptime.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge
+Weapons
+Sunny Morning Sleep-In
+Wandering Evenstar
+Jahoda
+Support
+Anemo
+Team healer and utility support. In a full Moonsign team, her Burst and Skill can absorb enemy elements to deal continuous corresponding damage, while also granting temporary Elemental Mastery when healing is triggered above 70% HP.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Energy Recharge
+Goblet
+ATK%
+Circlet
+CRIT Rate
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Elegy for the End
+Favonius Warbow
+Ineffa
+Support
+Electro
+Core Lunar-Charged enabler and shield provider. Her passive converts Electro-Charged into Lunar-Charged, scaling Lunar-Charged damage with her ATK. Skill grants a shield and summons Birgitta for additional attacks when Lunar-Charged triggers, while Burst boosts the active party member's Elemental Mastery.
+Artifacts
+Silken Moon's Serenade
+Main Stats
+Sands
+ATK%
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Fractured Halo
+Ballad of the Fjords
+#8 Ineffa Lunar-Charged Team #8
+Tier S
+A strong Lunar-Charged reaction team built around Columbina's off-field Hydro application and Ineffa's Lunar-Charged conversion. Sucrose provides crowd control and resistance shred, Fischl adds consistent Electro application and extra off-field damage, while Ineffa supplies shielding, reaction conversion, and team EM buffs. This team performs best when maintaining steady Electro-Charged uptime to maximize Lunar-Charged triggers.
+Columbina
+Main DPS
+Hydro
+Off-field Hydro enabler and primary reaction trigger. Her Skill provides continuous AoE Hydro application, while her Burst creates an aura that enhances Lunar reaction damage.
+Artifacts
+Night of the Sky's Unveiling
+Main Stats
+Sands
+Energy Recharge
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / Energy Recharge / HP%
+Weapons
+Nocturne's Curtain Call
+Sacrificial Jade
+Sucrose
+Sub DPS
+Anemo
+Constellation 4+
+Provides Viridescent Venerer resistance shred and strong team EM support. C4 helps reduce Skill cooldown through Normal Attacks, improving utility and rotation flow.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge
+Weapons
+Sunny Morning Sleep-In
+Wandering Evenstar
+Fischl
+Sub DPS
+Electro
+Summons Oz for persistent off-field Electro damage and reaction consistency. She adds strong single-target pressure and helps maintain Electro-Charged/Lunar-Charged uptime.
+Artifacts
+Silken Moon's Serenade
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Aqua Simulacra
+The Stringless
+Ineffa
+Support
+Electro
+Core support and shield provider. Converts Electro-Charged into Lunar-Charged, strengthens Lunar-Charged damage based on ATK, summons Birgitta for extra attacks, and grants EM to the active character with her Burst.
+Artifacts
+Silken Moon's Serenade
+Main Stats
+Sands
+ATK%
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Fractured Halo
+Ballad of the Fjords
+#9 Ineffa Lunar-Charged Yoimiya Hydro Core
+Tier S
+Lunar-Charged
+team centered around
+Yoimiya
+as the on-field carry.
+Yelan
+and
+Columbina
+provide consistent off-field Hydro application and reaction damage, while
+Ineffa
+supplies shielding, Lunar-Charged conversion, and team EM buffs. Strong sustained single-target damage with good defensive comfort.
+Yoimiya
+Main DPS
+Pyro
+On-field Pyro DPS. Her damage is amplified through Hydro-driven reactions in this team.
+Artifacts
+Shimenawa's Reminiscence
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Thundering Pulse
+Rust
+Yelan
+Sub DPS
+Hydro
+Provides continuous off-field Hydro application for reaction setup and contributes team damage via her Burst passive.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Aqua Simulacra
+Favonius Warbow
+Columbina
+Sub DPS
+Hydro
+Off-field Hydro applier and Lunar reaction enabler. Her Burst aura can buff Lunar-Charged, Lunar Crystallize, and Lunar-Bloom reactions.
+Artifacts
+Aubade of Morningstar and Moon
+Main Stats
+Sands
+Energy Recharge
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / Energy Recharge / HP%
+Weapons
+Nocturne's Curtain Call
+Sacrificial Jade
+Ineffa
+Support
+Electro
+Provides shielding, converts Electro-Charged into Lunar-Charged, summons Birgitta for extra attacks, and boosts the active character's Elemental Mastery with her Burst.
+Artifacts
+Silken Moon's Serenade
+Main Stats
+Sands
+ATK%
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Fractured Halo
+Ballad of the Fjords
+Ineffa Teams FAQ
+What is the best Ineffa team in Genshin Impact?
+Ineffa Lunar-Charged Neuvillette Hypercarry is one of the strongest Ineffa teams right now. Use the team summary and build cards on this page to pick the best version for your account.
+What are good Ineffa teams without premium weapons?
+You can run strong Ineffa teams without signature weapons by prioritizing reaction synergy, energy consistency, and artifact main stats shown in each build card.
+Which teammates are best with Ineffa?
+Common high-performing partners include teams such as Ineffa Lunar-Charged Neuvillette Hypercarry, Clorinde Furina Xilonen Ineffa Lunar-Charged Team, Ineffa Lunar-Charged Plunge Varesa. Check each lineup section for role breakdowns and gear priorities.

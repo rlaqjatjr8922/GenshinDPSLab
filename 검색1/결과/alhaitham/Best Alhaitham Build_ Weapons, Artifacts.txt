@@ -1,0 +1,115 @@
+Table of Contents
+Skills
+Weapons
+Artifacts
+Team Comps
+Constellation
+Alhaitham is a Dendro sword user who excels as a main DPS while applying Dendro through his infused normal attacks. As a Dendro DPS, he can fit in many different team comps as Dendro can react with Hydro, Electro, Pyro or a combination of them.
+Alhaitham relies heavily on Dendro reactions to maximize his damage. This is why playing him in the right comp is extremely important. This is why it is important to understand his kit to fully utilize his damage. Here you can learn how to optimize his build to reach his peak performance!
+Skills
+Normal Attack: Abductive Reasoning
+Alhaitham strikes up to five times and holding the attack charges forward and deals two strikes while consuming stamina. Alhaitham focuses his damage on his Elemental Skill and Elemental Burst,
+so it is the least priority in leveling up.
+Elemental Skill: Universality: An Elaboration on Form
+Alhaitham lunges forward and strikes enemies in his path, dealing Dendro damage and activating Chisel-Light Mirror passive. Holding the skill allows Alhaitham to aim the path of his lunge. This passive generates one Mirror upon activation, and if Alhaitham did not have Mirrors before activating, he gains an additional Mirror (maximum three active mirrors).
+Having active Mirrors infuses Alhaitham’s normal, charged and plunging attacks with Dendro that cannot be overwritten. Moreover, those infused attacks deal AOE Dendro damage based on the number of active Mirrors Alhaitham has. This skill is the main source of damage due to the Dendro infusion. This is why
+it is the most important skill to level up.
+Elemental Burst: Particular Field: Fetters of Phenomena
+Alhaitham creates a Particular Binding Field that deals 4 AOE Dendro hits. If Alhaitham has active Mirrors, they are consumed by activating the Elemental Burst and deal two additional instances per consumed mirror (Maximum ten hits total). Alhaitham gains three Mirrors upon using his Elemental Burst. However, they are reduced by the number of Mirrors consumed. In other words, consuming three Mirrors will result in zero gained Mirrors.
+Using the Elemental Burst can be done in two different ways. The first is to consume Mirrors in order to maximize its damage. However, this is the best approach only if the cooldown of the Elemental Skill is almost up. The other use is to generate Mirrors, which is great for better elemental infusion for normal and charged attacks.
+Passive: Four-Causal Correction
+When Alhaitham’s charged or plunging attacks hits an enemy, they generate an additional Mirror (12-second cooldown). The best use for this passive is activating it after the Elemental Skill when Alhaitham has no Mirrors to get the maximum 3 active Mirrors.
+2nd Passive: Mysteries Laid Bare
+The AOE Dendro damage from the Chisel-Light Mirror passive and Elemental Burst is increased by 0.1% of Alhaitham’s Elemental Mastery with a maximum bonus of 100%. In other words, to maximize this passive, Alhaitham’s Elemental Mastery should be more than 1000.
+Weapons
+Light of Foliar Incision
+Light of Foliar Incision is the best weapon on Alhaitham due to its amazing synergy with his kit. The 88.2% crit damage from its secondary passive is the highest in the game. To put it in perspective, a circlet grants 62.2% crit damage. Moreover, it grants 4-8% crit rate and bonus normal attacks and Elemental Skill’s damage by 120-240% of Alhaitham’s elemental mastery, making it one of the strongest weapons in the game so far.
+Mistsplitter Reforged
+Mistsplitter Reforged is a good alternative to Light of Foliar as it also grants 44.1% crit damage. While it is half the amount granted by Light of Foliar, Mistsplitter grants 12-24% elemental damage bonus along with 28-56% additional elemental damage bonus when fully stacked. The elemental damage bonus can compensate for the difference in crit damage. However, Light of Foliar is more damage consistent than Mistsplitter.
+Toukabou Shigure
+Toukabou Shigure is the best F2P as it was given for free in a previous event. It grants 165 elemental mastery that benefits Alhaitham through his passive and elemental reactions. Moreover, it increases damage dealt to enemies by 16-32%.
+Artifacts
+In terms of artifacts, there are two sets that work so well with Alhaitham. The first set that works for him is
+Gilded Dreams
+, as it increases his elemental mastery by 80 along with additional 14% attack for each ally with the same element and 50 elemental mastery for each different element. In a typical team comp, Alhaitham is paired with another Dendro character and two different elements for reaction, giving a total of 14% attack bonus along with 180 elemental mastery.
+The other artifact set that works on him is
+Deepwood Memories
+. While it typically is preferred to have it on a Dendro support, it can work well with Alhaitham since it increases his Dendro damage along with reducing the Dendro resistance of the enemies when they are hit with his Elemental Skill or Burst.
+However, if there is a teammate with Deepwood set, Alhaitham should not use it as well, and Alhaitham should use Gilded dreams set instead. As for substats, the most important stat is elemental mastery as it improves his reactions damage and grants more damage through his passive. Afterwards, attack, crit rate and crit damage are great on him.
+Build:
+Gilded Dreams
+Flower
+Plume
+Sands
+Goblet
+Circlet
+Substats
+1. HP
+1.  ATK
+1. Elemental Mastery
+1. Dendro DMG Bonus
+1. Crit Rate/DMG %
+1. Crit Rate %
+2. Crit DMG %
+3. ATK %
+4. Elemental Mastery
+Also Read:
+Best Settings For Genshin Impact: Get The Highest Performance And Graphics.
+Build:
+Deepwood Memories
+Flower
+Plume
+Sands
+Goblet
+Circlet
+Substats
+1. HP
+1.  ATK
+1. Elemental Mastery
+1. Dendro DMG Bonus
+1. Crit Rate/DMG %
+1. Crit Rate %
+2. Crit DMG %
+3. ATK %
+4. Elemental Mastery
+Team Comps
+Alhaitham teams are built on reactions with different elements. Whether with Electro, Hydro or Pyro, one or two members are used for those reactions, especially off-field. Since Alhaitham’s attacks are infused with Dendro, it’s best to have those elements applied off-field while Alhaitham applies Dendro through his normal attacks.
+The remaining spot goes best to a second Dendro character for two reasons: Having a second Dendro character activates Dendro elemental resonance, and they can use Deepwood memories set to further improve Alhaitham’s damage. The last spot can go to a support who can both apply an element for reactions and support the team such as shielders and healers.
+Nahida
+Nahida is the best Dendro support to any Dendro DPS, as she significantly boosts their damage and elemental mastery. The boost of elemental mastery can improve Alhaitham’s damage potential along with generating particles for his Burst. Moreover, she can use Deepwood memories on her while Alhaitham uses Gilded Dreams to maximize his damage while weakening the enemies.
+Yaoyao
+Yaoyao is an amazing support to Alhaitham as she covers two roles of a healer and Dendro support. Not only does she weaken the enemies’ Dendro resistance through Deepwood artifact, she also boosts Dendro damage by 15% through her constellation.
+Yelan/Xingqiu
+Both Yelan and Xingqiu are amazing Hydro appliers, making them amazing in a Bloom or Hyperbloom team that requires constant Hydro application. Their Bursts apply Hydro whenever Alhaitham uses his normal attacks, which also applies Dendro. This makes them a strong combo with an easy set up for their reactions.
+Nilou/Kokomi
+Nilou and Kokomi are also a great combination with Alhaitham due to their amazing Hydro application. While their application does not synergize as well as Yelan/Xingqiu, their kit gives other benefits such as higher damage from Nilou and healing from Kokomi.
+Yae Miko/Fischl
+Both Yae and Fischl are amazing Electro appliers for a Hyperbloom team due to their off-field Electro application while being a great sub-DPS. With Yelan/Xingqiu, Alhaitham can apply Dendro through his normal attack and Hydro through Yelan’s Burst, Electro is applied automatically. This comp significantly increase the time Alhaitham is on field increasing the efficiency and overall damage of the team.
+Xiangling/Thoma
+Xiangling and Thoma are great Pyro applicants in a Burgeon team. Burgeon teams typically deal less damage through reactions, but their overall damage is still significant due to Xiangling’s high Burst damage. Meanwhile, Thoma grants a shield, which can take two roles in one spot.
+Constellation
+Intuition
+When an enemy is hit by one of the mirrors, the cooldown of the Elemental Skill is reduced by 1.2 seconds (1 second cooldown)
+Debate
+Alhaitham gains 50 elemental mastery for 8 seconds every time he generates a mirror, which can stack (maximum 4 stacks).
+Negation
+Increases the level of the Elemental Skill by 3 and the maximum level to 15
+Elucidation
+Upon activating the Elemental Burst, Alhaitham gains the following effects based on the number of Mirrors he had prior:
+For each mirror, Alhaitham and his teammates gain 30 elemental mastery for 15 seconds
+For each mirror generated, Alhaitham gains 10% Dendro damage bonus
+Sagacity
+Increases the level of the Elemental Burst by 3 and the maximum level to 15
+Structuration
+Upon activating the Elemental Burst, Alhaitham will regenerate 3 mirrors regardless of the number of mirrors he had prior.
+If Alhaitham generates mirrors while his mirrors are maxed out, he gains 10% crit rate and 70% crit damage for 6 seconds.
+In terms of constellations, Alhaitham can do just fine without him. They serve to boost his damage rather than fix a limiting factor in his kit. However, if further damage is wanted, there are three constellations that are great for damage boosting.
+The second constellation offers a great damage boost as it helps in reactions and Alhaitham scales of elemental mastery. Another constellation to consider is the fourth constellation as it does similar effect, but it also boosts Dendro damage bonus for missing mirrors. Finally, the sixth constellation is a phenomenal damage boost. However, it is a huge investment.
+Althaitham is a great Dendro DPS due to the strength of the Dendro element, along with his strong Dendro application and solo damage. He is versatile when it comes to team comps as Dendro can react in many different ways, all while being viable in most, if not all of them.
+Overall, Alhaitham is a great character to have especially when you have Nahida, where Dendro reactions truly shine. His overall damage and versatility in team comps make him fun to play as he can be played in different ways all while using the same artifacts and weapon. This makes him a wonderful addition to anyone’s account whether they are new or veteran.
+All image copyrights belong to
+Mihoyo
+,
+Genshin Impact fandom
+, and
+Genshin honeyhunterworld.

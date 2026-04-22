@@ -1,0 +1,193 @@
+Genshin Impact Kirara Build
+Dendro
+Sword
+Support
+Kirara Upgrade Materials
+Transience
+Everamber
+Nagadus Emerald Sliver
+Amakumo Fruit
+Spectral Husk
+Evergloom Ring
+Kirara Best Weapons
+1
+Favonius Sword
+2
+Key of Khaj-Nisut
+3
+Sacrificial Sword
+4
+Sapwood Blade
+5
+Festering Desire
+R5
+Kirara Best Artifacts
+1
+Tenacity of the Millelith
+2
+Vourukasha's Glow
+2
+2
+Instructor
+4
+3
+Deepwood Memories
+4
+4
+Noblesse Oblige
+4
+Kirara Best Stats
+Sands:
+HP% / Energy Recharge
+Goblet:
+HP%
+Circlet:
+HP%
+Substats:
+Energy Rechage > HP% > HP
+Character Builds by Genshin Impact Helper →
+Showcase
+Teams
+Talents
+Passives
+Constellations
+Ascension
+Kirara Showcase
+Kirara video guide by
+Braxophone
+.
+Check out his content!
+Best Kirara Teams
+Keqing Aggravate
+Nilou Bloom
+Nilou Bloom
+Kirara Talents
+Normal Attack
+Boxcutter
+Normal Attack Performs up to 4 rapid strikes. Charged Attack Consumes a certain amount of Stamina to unleash 3 rapid claw strikes. Plunging Attack Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Elemental Skill
+Meow-teor Kick
+Press Leaps into the air with all the agility of a cat passing through the bushes, and thwacks her foes with a flying kick that deals AoE
+Dendro
+DMG while creating a Shield of Safe Transport. This will also briefly apply
+Dendro
+to Kirara. The shield will absorb
+Dendro
+DMG with 250% effectiveness. The shield's DMG absorption will be based on Kirara's Max HP and will not exceed a certain percentage of that Max HP. The remaining DMG absorption on a Shield of Safe Transport will stack on a new one when it is created, and its duration will reset. Hold Out of her desire to "deliver within half a day," Kirara deploys a Shield of Safe Transport identical to the one that can be created by pressing the skill. She will also curl up into a special express delivery box, entering the Urgent Neko Parcel state in order to move and fight more swiftly. Urgent Neko Parcel Deals
+Dendro
+DMG to opponents she crashes into. This effect can be triggered once on each opponent every 0.5s. When in this state, Kirara's movement speed, climbing speed, and jumping power are all increased, and her Stamina Consumption from climbing is increased. When the duration ends or the skill is used again, a Flipclaw Strike more powerful than the attack in the Mode will be unleashed, dealing AoE
+Dendro
+DMG. The Urgent Neko Parcel state lasts a maximum of 10s. When the state ends, the skill will enter CD. The longer Kirara spends in this state, the longer the CD will be. Sprinting or actively canceling climbing will end this state early.
+Elemental Burst
+Secret Art: Surprise Dispatch
+Smash opponents with a Special Delivery Package used for punishing parcel thieves, dealing AoE
+Dendro
+DMG. After the Special Delivery Package explodes, it will split up into many Cat Grass Cardamoms that will explode either upon contact with opponents or after a period of time, dealing AoE
+Dendro
+DMG.
+Kirara Passives
+Ascension 1
+Bewitching, Betwitching Tails
+When Kirara is in the Urgent Neko Parcel state of Meow-teor Kick, each impact against an opponent will grant her a stack of Reinforced Packaging. This effect can be triggered once for each opponent hit every 0.5s. Max 3 stacks. When the Urgent Neko Parcel state ends, each stack of Reinforced Packaging will create 1 Shield of Safe Transport for Kirara. The shields that are created this way will have 20% of the DMG absorption that the Shield of Safe Transport produced by Meow-teor Kick would have. If Kirara is already protected by a Shield of Safe Transport created by Meow-teor Kick, its DMG absorption will stack with these shields and its duration will reset.
+Ascension 4
+Pupillary Variance
+Every 1,000 Max HP Kirara possesses will increase the DMG dealt by Meow-teor Kick by 0.4%, and the DMG dealt by Secret Art: Surprise Dispatch by 0.3%.
+Passive
+Cat's Creeping Carriage
+When Kirara is in the party, animals who produce Fowl, Raw Meat, or Chilled Meat will not be startled when party members approach them.
+Kirara Constellations
+Constellation 1
+Material Circulation
+Every 8,000 Max HP Kirara possesses will cause her to create 1 extra Cat Grass Cardamom when she uses Secret Art: Surprise Dispatch. A maximum of 4 extra can be created this way.
+Constellation 2
+Perfectly Packaged
+When Kirara is in the Urgent Neko Parcel state of Meow-teor Kick, she will grant other party members she crashes into Critical Transport Shields. The DMG absorption of Critical Transport Shield is 40% of the maximum absorption Meow-teor Kick's normal Shields of Safe Transport are capable of, and will absorb
+Dendro
+DMG with 250% effectiveness. Critical Transport Shields last 12s and can be triggered once on each character every 10s.
+Constellation 3
+Universal Recognition
+Increases the Level of Meow-teor Kick by 3. Maximum upgrade level is 15.
+Constellation 4
+Steed of Skanda
+After active character(s) protected by Shields of Safe Transport or Critical Transport Shields hit opponents with Normal, Charged, or Plunging Attacks, Kirara will perform a coordinated attack with them using Small Cat Grass Cardamoms, dealing 200% of her ATK as
+Dendro
+DMG. DMG dealt this way is considered Elemental Burst DMG. This effect can be triggered once every 3.8s. This CD is shared between all party members.
+Constellation 5
+A Thousand Miles in a Day
+Increase the Level of Secret Art: Surprise Dispatch by 3. Maximum upgrade level is 15.
+Constellation 6
+Countless Sights to See
+All nearby party members will gain 12% All Elemental DMG Bonus within 15s after Kirara uses her Elemental Skill or Burst.
+Kirara Ascension Costs
+Rank
+Lvl
+Cost
+Material
+Material
+Material
+Material
+1
+20
+20000
+1
+Nagadus Emerald Sliver
+3
+Amakumo Fruit
+3
+Spectral Husk
+2
+40
+40000
+3
+Nagadus Emerald Fragment
+2
+Evergloom Ring
+10
+Amakumo Fruit
+15
+Spectral Husk
+3
+50
+60000
+6
+Nagadus Emerald Fragment
+4
+Evergloom Ring
+20
+Amakumo Fruit
+12
+Spectral Heart
+4
+60
+80000
+3
+Nagadus Emerald Chunk
+8
+Evergloom Ring
+30
+Amakumo Fruit
+18
+Spectral Heart
+5
+70
+100000
+6
+Nagadus Emerald Chunk
+12
+Evergloom Ring
+45
+Amakumo Fruit
+12
+Spectral Nucleus
+6
+80
+120000
+6
+Nagadus Emerald Gemstone
+20
+Evergloom Ring
+60
+Amakumo Fruit
+24
+Spectral Nucleus
+Loading...

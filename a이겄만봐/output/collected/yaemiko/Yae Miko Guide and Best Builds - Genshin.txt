@@ -1,0 +1,637 @@
+Home
+/
+Genshin Impact
+/
+Character List
+/
+Yae Miko Build
+Yae Miko Guide and Best Builds
+Yae Miko is a 5-Star Electro Catalyst user in Genshin Impact who deals
+powerful off-field Electro damage. Our Yae Miko guide focuses on her best
+builds, artifacts, weapons and best team compositions.
+Last updated
+on
+Sep 12, 2025
+at
+08:44
+by
+Mistsplitter Reforged
+1 comment
+A
+Rank
+Electro
+Element
+Catalyst
+Weapon
+★
+★
+★
+★
+★
+Rarity
+Ratana
+EN Voice Actor
+Sakura Ayane
+JP Voice Actor
+Yae Miko's Strengths & Weaknesses
+Strengths
+Elemental Skill has a short cooldown giving you the ability to have 100% uptime.
+Enemies can be dodged using Yae's Elemental Skill.
+Elemental Burst deals powerful AoE Electro DMG.
+Weaknesses
+Turrets need to be positioned carefully and manually adjusted if enemies leave the attack radius.
+Elemental Burst has a high Energy Cost.
+Yae primarily is played as a SubDPS generally focusing on the
+Aggravate
+reaction but can be played in
+other reactions as well such as
+Hyperbloom
+,
+Overloaded
+and
+Electro-Charged
+.
+1.
+Yae Miko Aggravate Build
+BiS Weapon
+Kagura's Verity
+Alternative Weapons
+A Thousand Floating Dreams
+Lost Prayer to the Sacred Winds
+Skyward Atlas
+The Widsith
+Solar Pearl
+Best Artifacts
+Gilded Dreams
+Golden Troupe
+Emblem of Severed Fate
+Main Stats
+Sand Stats
+: Elemental Mastery / ATK %
+Goblet Stats
+: Electro DMG
+Circlet Stats
+: CRIT Rate / CRIT DMG
+Substat Priority
+Energy Recharge to requirements
+CRIT Rate / CRIT DMG
+ATK %
+Elemental Mastery
+Talent Priority
+Elemental Skill
+Elemental Burst
+Normal Attack
+Yae has a range of powerful weapon options with her signature weapon,
+Kagura's Verity
+generally being her best option.
+A Thousand Floating Dreams
+being her second best generally because
+of the passive provided. Some 4-star options include
+The Widsith
+and
+Solar Pearl
+both of which can
+be great options when at R5.
+Gilded Dreams
+is a great artifact set for Yae with its
+Elemental Mastery and ATK boosting effects. Another great option is
+Golden Troupe
+in more single-target focused scenarios.
+When focusing on Aggravate, Yae wants to be built with
+CRIT, ATK % and Elemental Mastery to increase her DMG.
+2.
+Yae Miko Hyperbloom Build
+BiS Weapon
+A Thousand Floating Dreams
+Alternate Weapons
+Kagura's Verity
+Lost Prayer to the Sacred Winds
+Wandering Evenstar
+Sacrificial Fragments
+Best Artifacts
+Gilded Dreams
+2 Piece set bonuses of +80 EM.
+Wanderer's Troupe
+,
+Gilded Dreams
+,
+Flower of Paradise Lost
+.
+Flower of Paradise Lost
+Main Stats
+Sand Stats
+: Elemental Mastery
+Goblet Stats
+: Elemental Mastery / Electro DMG
+Circlet Stats
+: Elemental Mastery / CRIT Rate / CRIT DMG
+Substat Priority
+Elemental Mastery
+CRIT Rate / CRIT DMG
+ATK %
+Energy Recharge
+Talent Priority
+Elemental Skill
+Elemental Burst
+Normal Attack
+When built as a Hyperbloom DPS, Yae will spend a lot more time on-field
+dealing
+Electro
+DMG to generate
+Hyperbloom
+s.
+As the driver for this reaction, Yae wants to be built with a lot of
+Elemental Mastery.
+This changes her weapon priorities to make
+A Thousand Floating Dreams
+her best option with 4-star stat sticks such as
+Wandering Evenstar
+,
+Sacrificial Fragments
+and even
+Magic Guide
+decent options for her.
+3.
+Yae Miko SubDPS Build
+BiS Weapon
+Kagura's Verity
+Alternate Weapons
+Skyward Atlas
+Lost Prayer to the Sacred Winds
+Memory of Dust
+Solar Pearl
+Oathsworn Eye
+Best Artifacts
+Golden Troupe
+Emblem of Severed Fate
+Main Stats
+Sand Stats
+: ATK %
+Goblet Stats
+: Electro DMG
+Circlet Stats
+: CRIT Rate / CRIT DMG
+Substat Priority
+CRIT Rate / CRIT DMG
+ATK %
+Energy Recharge
+Elemental Mastery
+Talent Priority
+Elemental Skill
+Elemental Burst
+Normal Attack
+This is a more "general" build you could say, not focusing on any specific
+Dendro
+reaction like the other 2 builds and therefore does
+not prioritise Elemental Mastery. One example would be when she is
+used as a SubDPS for
+Raiden Shogun
+.
+This means that Yae's stats focus more on ATK and CRIT now to
+increase her DMG. While
+Golden Troupe
+becomes her best
+artifact set.
+3.1.
+Energy Recharge Requirements
+Yae's Energy Recharge requirements can vary based on who is in the party and
+how often you use her Elemental Burst. If Yae is the only
+Electro
+character on the team for example, you will only want to burst every other
+rotation otherwise the Energy Recharge requirements become too high.
+Burst frequency
+Energy Recharge
+Yae Solo | Burst Every Other Rotation
+160 - 180%
+2 Electro | Burst Every Rotation
+140 - 160%
+2 Electro | Burst Every Other Rotation
+110 - 140%
+Yakan Offering
+(C1), roughly lowers Yae's Energy
+Recharge requirements down by 40% effectively allowing her to
+burst every rotation in a lot more teams. Playing her on-field can also lower it by
+roughly 15%.
+4.
+Combos and How to Play Yae Miko
+Yae's gameplay primarily reolves around her
+Sesshou Sakura
+,
+these are the lightning "turrets" which are placed when you use her
+Elemental Skill and deal
+Electro
+DMG periodically.
+You have 3 charges of this Elemental Skill and 3 Sesshou Sakura can be on the
+field at any time.
+When the Sesshou Sakura are near to eachother, their level will increase.
+This means that the DMG dealt from their periodic attacks will increase. To
+optimise this, you want to place them in a rough triangle-like formation.
+Placing them in a line will only allow the middle Sakura to hit level 3.
+Yae's Elemental Burst,
+Great Secret Art: Tenko Kenshin
+deals powerful
+Electro
+AoE DMG to nearby opponents. When
+using this skill, any
+Sesshou Sakura
+nearby will "unseal".
+This means they will also deal additional AoE Electro DMG to enemies. With
+Yae's 1st Ascension
+The Shrine's Sacred Shade
+you can then
+immediately re-summon your Sesshou Sakura. This therefore gives the
+following rotation:
+Yakan Evocation: Sesshou Sakura
+x3
+Use other character buffs and abilities.
+Great Secret Art: Tenko Kenshin
+Yakan Evocation: Sesshou Sakura
+x3
+5.
+Yae Miko's Best Team Comps
+Yae Miko has a wide range of teams she can support with her off-field
+Electro
+DMG. Her best teams generall being
+Quicken
+related.
+5.1.
+Yae Miko Catalyze Teams
+The Below teams focus on the
+Catalyze
+set of
+reactions involving
+Aggravate
+and
+Spread
+.
+5.1.1.
+Aggravate Teams
+Dendro DPS
+Sub DPS
+Electro DPS
+Support
+Nahida
+Tighnari
+Alhaitham
+Baizhu
+Yae Miko
+Kuki Shinobu
+Fischl
+Raiden Shogun
+Zhongli
+Kaedehara Kazuha
+Xianyun
+With Yae, you generally want 1 more
+Electro
+and 1
+Dendro
+character paired alongside her with a final
+flex position for supportive utility such as Shields and RES Shred.
+Having the team with more Electro characters allows the team to
+primarily focus on the
+Aggravate
+reaction.
+With Electro characters,
+Fischl
+tends to be the best due to
+how quickly she can apply Electro,
+Raiden Shogun
+instead offers
+more AoE DMG as well as functioning as a great battery.
+Kuki Shinobu
+instead provides healing alongside her Electro
+application and also opens your team up to different supportive characters such
+as
+Kaedehara Kazuha
+,
+Venti
+and
+Sucrose
+.
+With regards to
+Dendro
+characters, you have great options.
+Nahida
+offers great personal damage as well as powerful
+Dendro application.
+Tighnari
+and
+Alhaitham
+prodive single target and AoE DMG respectively while characters such as
+Baizhu
+or
+Yaoyao
+provide healing and
+therefore allow different supportive characters.
+5.1.2.
+Spread Teams
+Main DPS
+Sub DPS
+Sub DPS
+Flex
+Alhaitham
+Tighnari
+Yae Miko
+Nahida
+Baizhu
+Dendro Traveler
+Zhongli
+Fischl
+Kuki Shinobu
+While similar to the previous team comp, this team instead uses 2
+Dendro
+characters and therefore has a higher
+emphasis on
+Spread
+reaction DMG. Because you
+are running 2 Dendro characters, this does mean you want to ensure that 1
+character is running
+Deepwood Memories
+to lower the
+enemy Dendro RES.
+Alhaitham
+and
+Tighnari
+make great
+Main DPS options,
+Nahida
+is also an option although
+better saved to be paired off-field ideally if possible. The final
+flex position should either be a healer/shielder if you do not yet have one or
+another
+Electro
+character if you do.
+Furina
+is a great option when paired with
+Baizhu
+as he can
+easily generate Furina's Fanfare stacks.
+5.2.
+Hyperbloom Teams
+Sub DPS
+Sub DPS
+Sub DPS
+Support
+Yelan
+Xingqiu
+Yae Miko
+Nahida
+Furina
+Dendro Traveler
+Baizhu
+Sangonomiya Kokomi
+Yaoyao
+Kirara
+In
+Hyperbloom
+teams, Yae will be the sole
+Electro
+trigger. You generally want 2
+Hydro
+characters with
+Xingqiu
+and
+Yelan
+having great Hydro application while
+Furina
+and
+Sangonomiya Kokomi
+instead
+provide utility.
+Nahida
+has the best
+Dendro
+application while
+Baizhu
+and
+Yaoyao
+instead
+provide healing but less Dendro application.
+5.3.
+Yae and Raiden Teams
+Main DPS
+Sub DPS
+Support
+Support
+Raiden Shogun
+Yae Miko
+Kujou Sara
+Fischl
+Kaedehara Kazuha
+Bennett
+Zhongli
+Jean
+While a less common team composition compared to
+Raiden Shogun
+'s
+more popular teams it can still be effective in combat and can be great in
+combat which involves multiple waves of enemies. In more Hypercarry focused teams,
+once Raiden's Burst is over your DMG drops dramatically, Yae helps by providing
+Electro
+DMG outside of her Burst window. As with many of Raiden's
+other team compositions, characters such as
+Bennett
+,
+Kaedehara Kazuha
+, Kujou Sara and
+Zhongli
+tend to be some of her best supports.
+6.
+Yae Miko's's Ascensions, Talents and Constellations
+Yae Miko's Ascensions
+Yae Miko's Talents
+Yae Miko's Constellations
+6.1.
+Yae Miko's Ascension Passives and Materials
+Unlock
+Ascension Passive
+Explanation
+With Character
+Meditations of a Yako
+Has a 25% chance to get 1 regional Character Talent Material
+    (base material excluded) when crafting. The rarity is that of the base
+    material.
+1st Ascension
+The Shrine's Sacred Shade
+When casting
+Great Secret Art: Tenko Kenshin
+, each
+Sesshou Sakura
+destroyed resets the cooldown for 1
+    charge of
+Yakan Evocation: Sesshou Sakura
+.
+4th Ascension
+Enlightened Blessing
+Every point of Elemental Mastery Yae Miko possesses
+    will increase
+Sesshou Sakura
+DMG by 0.15%.
+Yae Miko requires a range of materials to ascend to the 6th ascension.
+Starting from the second ascension they gain additional CRIT Rate as she levels,
+giving a total of 19.2% Bonus CRIT Rate at the final ascension.
+The total cost to upgrade all ascensions is:
+Source
+Quantity
+Mora
+420,000 Mora
+Boss Material
+46x
+Dragonheir's False Fin
+Ascension Material
+1x
+Vajrada Amethyst Sliver
+9x
+Vajrada Amethyst Fragment
+9x
+Vajrada Amethyst Chunk
+6x
+Vajrada Amethyst Gemstone
+Local Specialty
+168x
+Sea Ganoderma
+Enhancement Material
+18x
+Old Handguard
+30x
+Kageuchi Handguard
+36x
+Famed Handguard
+6.2.
+Yae Miko's Talents
+Listed below is each talent and a simplified explanation of how they work.
+Type
+Talent Name
+Brief Explanation
+Normal
+Spiritfox Sin-Eater
+3 Normal Attack chain, Charged Attacks deal AoE
+Electro
+DMG in a line in-front of Yae.
+Elemental Skill
+Yakan Evocation: Sesshou Sakura
+Elemental Skill has 3 charges, allowing you to place down 3
+Sesshou Sakura
+to deal
+Electro
+DMG
+      periodically.
+When placed near each other (ideally in a triangle), their levels
+      will increase and therefore deal more DMG.
+Elemental Burst
+Great Secret Art: Tenko Kenshin
+Deals AoE
+Electro
+DMG to nearby enemies as well as
+    unsealing
+Sesshou Sakura
+. When the Sesshou Sakura are
+    unsealed, they will turn into thunderbolts dealing additional AoE
+    Electro DMG.
+To upgrade a single talent to level 10, it costs:
+Source
+Quantity
+Mora
+1,625,500 Mora
+Special Material
+1x
+Crown of Insight
+Boss Material
+6x
+The Meaning of Aeons
+Domain Material
+3x
+Teachings of Light
+21x
+Guide to Light
+38x
+Philosophies of Light
+Enhancement Material
+6x
+Old Handguard
+22x
+Kageuchi Handguard
+31x
+Famed Handguard
+6.3.
+Yae Miko's Constellations
+Yae Miko has some great early Constellations with
+Yakan Offering
+(C1) drastically lowering Yae's Energy
+Recharge requirements and
+Fox's Mooncall
+providing great
+DMG increases on her Elemental Skill. C2 would be a good stopping point for your
+investment.
+#
+Name
+Explanation
+C1
+Yakan Offering
+Yae restores 8 energy for each
+Sesshou Sakura
+unsealed when using
+Great Secret Art: Tenko Kenshin
+.
+C2
+Fox's Mooncall
+Sesshou Sakura
+start at level 2 and now have a
+    maximum level of 4 instead of 3. Their attack range is also increased
+    by 60%.
+C3
+The Seven Glamours
+Increases the Level of
+Yakan Evocation: Sesshou Sakura
+by 3.
+Maximum upgrade level is 15.
+C4
+Sakura Channeling
+When
+Sesshou Sakura
+lightning hits opponents,
+    increase party members
+Electro
+DMG by 20% for 5s.
+C5
+Mischievous Teasing
+Increases the Level of
+Great Secret Art: Tenko Kenshin
+by 3.
+Maximum upgrade level is 15.
+C6
+Forbidden Art: Daisesshou
+The
+Sesshou Sakura
+'s attacks will ignore 60% of the opponent's DEF.
+Changelog
+03 Jun. 2024:
+Reviewed for 4.7.
+11 Feb. 2024:
+Guide added.
+Show more
+Show less
+Need any help? Check out our
+General Discussion Forum
+!
+1 comment
+In The Same Category
+Ineffa Best Builds Guide
+Flins Best Builds Guide
+Kujou Sara Best Builds Guide
+Raiden Shogun Profile & Talents
+Flins Profile & Talents
+Beidou Best Builds Guide
+Dori Best Builds Guide
+Kuki Shinobu Best Builds Guide
+Raiden Shogun Best Builds Guide
+Raiden Shogun Team Guide
+Ineffa Profile & Talents
+Ineffa Team Guide
+ABOUT THE AUTHOR
+Written by Mistsplitter Reforged, a day one player of Genshin 
+        Impact and Zenless Zone Zero, and a Guide Maker on Youtube, 
+        striving to provide helpful content and useful tips. Spends time 
+        collecting characters and enjoying what the games have to offer. Make sure to
+check out their YouTube guides!
+SUPPORT OUR WRITERS
