@@ -110,8 +110,5 @@ def get_legal_actions_for_character(char: str, legal_db: dict, note_map: dict, p
         if is_action_legal(char, action_name, action_info, note_map, party_state, get_char_state):
             result.append(action_name)
 
-    # 같은 캐릭터가 burst 바로 다음에 burst 또 못 쓰게 막기
-    if prev_action == "burst":
-        result = [action for action in result if action.split("[")[0] != "burst"]
 
     return result

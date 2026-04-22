@@ -39,9 +39,9 @@ def make_base_code(main_name: str, members: list[str], gear_map: dict) -> str:
     active = members[0]
     char_blocks = build_character_blocks(members, gear_map)
 
-    base_code = f"""options iteration=100 duration=10.5 swap_delay=6 workers=4;
+    base_code = f"""options iteration=100 swap_delay=6;
 options hitlag=true defhalt=false ignore_burst_energy=false;
-
+energy every interval=600,601 amount=1;
 target lvl=100 resist=0.1 pos=1,0 radius=3 freeze_resist=0 hp=1000000000;
 
 active {active};

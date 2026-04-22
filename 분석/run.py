@@ -50,7 +50,7 @@ def make_gcsim(line: str, gear_map: dict):
         blocks.append(block)
 
     base_code = f"""options iteration=1000 duration=10.5 swap_delay=6 workers=4;
-options hitlag=true defhalt=false ignore_burst_energy=false;
+options hitlag=true defhalt=false ignore_burst_energy=true;
 
 target lvl=100 resist=0.1 pos=1,0 radius=3 freeze_resist=0;
 

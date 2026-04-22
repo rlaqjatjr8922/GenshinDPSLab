@@ -5,6 +5,7 @@ from config import (
     MUTATION_PROB,
     RANDOM_INJECTION_RATIO,
     SURVIVAL_RATIO,
+    ELITE_RATIO
 )
 
 from ga.distribute import distribute_tokens
@@ -67,12 +68,14 @@ def evolve_one_T(
             "best_dps": scored_population[0][1] if scored_population else -1.0,
             "worst_dps": scored_population[-1][1] if scored_population else -1.0,
             "population_size": len(scored_population),
+            "best_individual": copy.deepcopy(scored_population[0][0]) if scored_population else {},
         })
 
         survivor_count = max(1, int(POP_SIZE * SURVIVAL_RATIO))
         survivors = scored_population[:survivor_count]
 
-        elite_count = min(2, len(survivors))
+        elite_count = max(1, int(POP_SIZE * ELITE_RATIO))
+        elite_count = min(elite_count, len(survivors))
         elites = [copy.deepcopy(x[0]) for x in survivors[:elite_count]]
 
         random_injection_count = max(1, int(POP_SIZE * RANDOM_INJECTION_RATIO))
