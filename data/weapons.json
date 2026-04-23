@@ -1,0 +1,707 @@
+{
+
+    "absolution": [
+      "absolution",
+      "Absolution"
+    ],
+    "akuoumaru": [
+      "akuoumaru",
+      "Akuoumaru"
+    ],
+    "alleyhunter": [
+      "alleyhunter",
+      "Alley Hunter"
+    ],
+    "amenomakageuchi": [
+      "amenomakageuchi",
+      "Amenoma Kageuchi"
+    ],
+    "amosbow": [
+      "amosbow",
+      "Amos' Bow"
+    ],
+    "apprenticesnotes": [
+      "apprenticesnotes",
+      "Apprentice's Notes"
+    ],
+    "aquasimulacra": [
+      "aquasimulacra",
+      "Aqua Simulacra"
+    ],
+    "aquilafavonia": [
+      "aquilafavonia",
+      "Aquila Favonia"
+    ],
+    "ashgravendrinkinghorn": [
+      "ashgravendrinkinghorn",
+      "Ash-Graven Drinking Horn"
+    ],
+    "astralvulturescrimsonplumage": [
+      "astralvulturescrimsonplumage",
+      "Astral Vulture's Crimson Plumage"
+    ],
+    "athousandblazingsuns": [
+      "athousandblazingsuns",
+      "A Thousand Blazing Suns"
+    ],
+    "athousandfloatingdreams": [
+      "athousandfloatingdreams",
+      "A Thousand Floating Dreams"
+    ],
+    "azurelight": [
+      "azurelight",
+      "Azurelight"
+    ],
+    "balladoftheboundlessblue": [
+      "balladoftheboundlessblue",
+      "Ballad of the Boundless Blue"
+    ],
+    "balladofthefjords": [
+      "balladofthefjords",
+      "Ballad of the Fjords"
+    ],
+    "beaconofthereedsea": [
+      "beaconofthereedsea",
+      "Beacon of the Reed Sea"
+    ],
+    "beginnersprotector": [
+      "beginnersprotector",
+      "Beginner's Protector"
+    ],
+    "blackcliffagate": [
+      "blackcliffagate",
+      "Blackcliff Agate"
+    ],
+    "blackclifflongsword": [
+      "blackclifflongsword",
+      "Blackcliff Longsword"
+    ],
+    "blackcliffpole": [
+      "blackcliffpole",
+      "Blackcliff Pole"
+    ],
+    "blackcliffslasher": [
+      "blackcliffslasher",
+      "Blackcliff Slasher"
+    ],
+    "blackcliffwarbow": [
+      "blackcliffwarbow",
+      "Blackcliff Warbow"
+    ],
+    "blacktassel": [
+      "blacktassel",
+      "Black Tassel"
+    ],
+    "bloodsoakedruins": [
+      "bloodsoakedruins",
+      "Bloodsoaked Ruins"
+    ],
+    "bloodtaintedgreatsword": [
+      "bloodtaintedgreatsword",
+      "Bloodtainted Greatsword"
+    ],
+    "calamityofeshu": [
+      "calamityofeshu",
+      "Calamity of Eshu"
+    ],
+    "calamityqueller": [
+      "calamityqueller",
+      "Calamity Queller"
+    ],
+    "cashflowsupervision": [
+      "cashflowsupervision",
+      "Cashflow Supervision"
+    ],
+    "chainbreaker": [
+      "chainbreaker",
+      "Chain Breaker"
+    ],
+    "cinnabarspindle": [
+      "cinnabarspindle",
+      "Cinnabar Spindle"
+    ],
+    "cloudforged": [
+      "cloudforged",
+      "Cloudforged"
+    ],
+    "compoundbow": [
+      "compoundbow",
+      "Compound Bow"
+    ],
+    "coolsteel": [
+      "coolsteel",
+      "Cool Steel"
+    ],
+    "cranesechoingcall": [
+      "cranesechoingcall",
+      "Crane's Echoing Call"
+    ],
+    "crescentpike": [
+      "crescentpike",
+      "Crescent Pike"
+    ],
+    "crimsonmoonssemblance": [
+      "crimsonmoonssemblance",
+      "Crimson Moon's Semblance"
+    ],
+    "darkironsword": [
+      "darkironsword",
+      "Dark Iron Sword"
+    ],
+    "dawningfrost": [
+      "dawningfrost",
+      "Dawning Frost"
+    ],
+    "deathmatch": [
+      "deathmatch",
+      "Deathmatch"
+    ],
+    "debateclub": [
+      "debateclub",
+      "Debate Club"
+    ],
+    "dialoguesofthedesertsages": [
+      "dialoguesofthedesertsages",
+      "Dialogues of the Desert Sages"
+    ],
+    "dodocotales": [
+      "dodocotales",
+      "Dodoco Tales"
+    ],
+    "dragonsbane": [
+      "dragonsbane",
+      "Dragon's Bane"
+    ],
+    "dragonspinespear": [
+      "dragonspinespear",
+      "Dragonspine Spear"
+    ],
+    "dullblade": [
+      "dullblade",
+      "Dull Blade"
+    ],
+    "earthshaker": [
+      "earthshaker",
+      "Earth Shaker"
+    ],
+    "elegyfortheend": [
+      "elegyfortheend",
+      "Elegy for the End"
+    ],
+    "emeraldorb": [
+      "emeraldorb",
+      "Emerald Orb"
+    ],
+    "endoftheline": [
+      "endoftheline",
+      "End of the Line"
+    ],
+    "engulfinglightning": [
+      "engulfinglightning",
+      "Engulfing Lightning"
+    ],
+    "etherlightspindlelute": [
+      "etherlightspindlelute",
+      "Etherlight Spindlelute"
+    ],
+    "everlastingmoonglow": [
+      "everlastingmoonglow",
+      "Everlasting Moonglow"
+    ],
+    "eyeofperception": [
+      "eyeofperception",
+      "Eye of Perception"
+    ],
+    "fadingtwilight": [
+      "fadingtwilight",
+      "Fading Twilight"
+    ],
+    "fangofthemountainking": [
+      "fangofthemountainking",
+      "Fang of the Mountain King"
+    ],
+    "favoniuscodex": [
+      "favoniuscodex",
+      "Favonius Codex"
+    ],
+    "favoniusgreatsword": [
+      "favoniusgreatsword",
+      "Favonius Greatsword"
+    ],
+    "favoniuslance": [
+      "favoniuslance",
+      "Favonius Lance"
+    ],
+    "favoniussword": [
+      "favoniussword",
+      "Favonius Sword"
+    ],
+    "favoniuswarbow": [
+      "favoniuswarbow",
+      "Favonius Warbow"
+    ],
+    "ferrousshadow": [
+      "ferrousshadow",
+      "Ferrous Shadow"
+    ],
+    "festeringdesire": [
+      "festeringdesire",
+      "Festering Desire"
+    ],
+    "filletblade": [
+      "filletblade",
+      "Fillet Blade"
+    ],
+    "finaleofthedeep": [
+      "finaleofthedeep",
+      "Finale of the Deep"
+    ],
+    "fleuvecendreferryman": [
+      "fleuvecendreferryman",
+      "Fleuve Cendre Ferryman"
+    ],
+    "flowerwreathedfeathers": [
+      "flowerwreathedfeathers",
+      "Flower-Wreathed Feathers"
+    ],
+    "flowingpurity": [
+      "flowingpurity",
+      "Flowing Purity"
+    ],
+    "fluteofezpitzal": [
+      "fluteofezpitzal",
+      "Flute of Ezpitzal"
+    ],
+    "footprintoftherainbow": [
+      "footprintoftherainbow",
+      "Footprint of the Rainbow"
+    ],
+    "forestregalia": [
+      "forestregalia",
+      "Forest Regalia"
+    ],
+    "fracturedhalo": [
+      "fracturedhalo",
+      "Fractured Halo"
+    ],
+    "freedomsworn": [
+      "freedomsworn",
+      "Freedom-Sworn"
+    ],
+    "frostbearer": [
+      "frostbearer",
+      "Frostbearer"
+    ],
+    "fruitfulhook": [
+      "fruitfulhook",
+      "Fruitful Hook"
+    ],
+    "fruitoffulfillment": [
+      "fruitoffulfillment",
+      "Fruit of Fulfillment"
+    ],
+    "hakushinring": [
+      "hakushinring",
+      "Hakushin Ring"
+    ],
+    "halberd": [
+      "halberd",
+      "Halberd"
+    ],
+    "hamayumi": [
+      "hamayumi",
+      "Hamayumi"
+    ],
+    "harangeppakufutsu": [
+      "harangeppakufutsu",
+      "Haran Geppaku Futsu"
+    ],
+    "harbingerofdawn": [
+      "harbingerofdawn",
+      "Harbinger of Dawn"
+    ],
+    "huntersbow": [
+      "huntersbow",
+      "Hunter's Bow"
+    ],
+    "hunterspath": [
+      "hunterspath",
+      "Hunter's Path"
+    ],
+    "ibispiercer": [
+      "ibispiercer",
+      "Ibis Piercer"
+    ],
+    "ironpoint": [
+      "ironpoint",
+      "Iron Point"
+    ],
+    "ironsting": [
+      "ironsting",
+      "Iron Sting"
+    ],
+    "jadefallssplendor": [
+      "jadefallssplendor",
+      "Jadefall's Splendor"
+    ],
+    "kagotsurubeisshin": [
+      "kagotsurubeisshin",
+      "Kagotsurube Isshin"
+    ],
+    "kagurasverity": [
+      "kagurasverity",
+      "Kagura's Verity"
+    ],
+    "katsuragikirinagamasa": [
+      "katsuragikirinagamasa",
+      "Katsuragikiri Nagamasa"
+    ],
+    "keyofkhajnisut": [
+      "keyofkhajnisut",
+      "Key of Khaj-Nisut"
+    ],
+    "kingssquire": [
+      "kingssquire",
+      "King's Squire"
+    ],
+    "kitaincrossspear": [
+      "kitaincrossspear",
+      "Kitain Cross Spear"
+    ],
+    "lightoffoliarincision": [
+      "lightoffoliarincision",
+      "Light of Foliar Incision"
+    ],
+    "lionsroar": [
+      "lionsroar",
+      "Lion's Roar"
+    ],
+    "lithicblade": [
+      "lithicblade",
+      "Lithic Blade"
+    ],
+    "lithicspear": [
+      "lithicspear",
+      "Lithic Spear"
+    ],
+    "lostprayertothesacredwinds": [
+      "lostprayertothesacredwinds",
+      "Lost Prayer to the Sacred Winds"
+    ],
+    "luxurioussealord": [
+      "luxurioussealord",
+      "Luxurious Sea-Lord"
+    ],
+    "magicguide": [
+      "magicguide",
+      "Magic Guide"
+    ],
+    "mailedflower": [
+      "mailedflower",
+      "Mailed Flower"
+    ],
+    "makhairaaquamarine": [
+      "makhairaaquamarine",
+      "Makhaira Aquamarine"
+    ],
+    "mappamare": [
+      "mappamare",
+      "Mappa Mare"
+    ],
+    "memoryofdust": [
+      "memoryofdust",
+      "Memory of Dust"
+    ],
+    "messenger": [
+      "messenger",
+      "Messenger"
+    ],
+    "missivewindspear": [
+      "missivewindspear",
+      "Missive Windspear"
+    ],
+    "mistsplitterreforged": [
+      "mistsplitterreforged",
+      "Mistsplitter Reforged"
+    ],
+    "mitternachtswaltz": [
+      "mitternachtswaltz",
+      "Mitternachts Waltz"
+    ],
+    "moonpiercer": [
+      "moonpiercer",
+      "Moonpiercer"
+    ],
+    "mouunsmoon": [
+      "mouunsmoon",
+      "Mouun's Moon"
+    ],
+    "oathsworneye": [
+      "oathsworneye",
+      "Oathsworn Eye"
+    ],
+    "otherworldlystory": [
+      "otherworldlystory",
+      "Otherworldly Story"
+    ],
+    "peakpatrolsong": [
+      "peakpatrolsong",
+      "Peak Patrol Song"
+    ],
+    "polarstar": [
+      "polarstar",
+      "Polar Star"
+    ],
+    "primordialjadecutter": [
+      "primordialjadecutter",
+      "Primordial Jade Cutter"
+    ],
+    "primordialjadewingedspear": [
+      "primordialjadewingedspear",
+      "Primordial Jade Winged-Spear"
+    ],
+    "prototypeamber": [
+      "prototypeamber",
+      "Prototype Amber"
+    ],
+    "prototypearchaic": [
+      "prototypearchaic",
+      "Prototype Archaic"
+    ],
+    "prototypecrescent": [
+      "prototypecrescent",
+      "Prototype Crescent"
+    ],
+    "prototyperancour": [
+      "prototyperancour",
+      "Prototype Rancour"
+    ],
+    "prototypestarglitter": [
+      "prototypestarglitter",
+      "Prototype Starglitter"
+    ],
+    "rainslasher": [
+      "rainslasher",
+      "Rainslasher"
+    ],
+    "ravenbow": [
+      "ravenbow",
+      "Raven Bow"
+    ],
+    "recurvebow": [
+      "recurvebow",
+      "Recurve Bow"
+    ],
+    "redhornstonethresher": [
+      "redhornstonethresher",
+      "Redhorn Stonethresher"
+    ],
+    "royalbow": [
+      "royalbow",
+      "Royal Bow"
+    ],
+    "royalgreatsword": [
+      "royalgreatsword",
+      "Royal Greatsword"
+    ],
+    "royalgrimoire": [
+      "royalgrimoire",
+      "Royal Grimoire"
+    ],
+    "royallongsword": [
+      "royallongsword",
+      "Royal Longsword"
+    ],
+    "royalspear": [
+      "royalspear",
+      "Royal Spear"
+    ],
+    "rust": [
+      "rust",
+      "Rust"
+    ],
+    "sacrificialbow": [
+      "sacrificialbow",
+      "Sacrificial Bow"
+    ],
+    "sacrificialfragments": [
+      "sacrificialfragments",
+      "Sacrificial Fragments"
+    ],
+    "sacrificialgreatsword": [
+      "sacrificialgreatsword",
+      "Sacrificial Greatsword"
+    ],
+    "sacrificialsword": [
+      "sacrificialsword",
+      "Sacrificial Sword"
+    ],
+    "sapwoodblade": [
+      "sapwoodblade",
+      "Sapwood Blade"
+    ],
+    "serpentspine": [
+      "serpentspine",
+      "Serpent Spine"
+    ],
+    "sharpshootersoath": [
+      "sharpshootersoath",
+      "Sharpshooter's Oath"
+    ],
+    "skywardatlas": [
+      "skywardatlas",
+      "Skyward Atlas"
+    ],
+    "skywardblade": [
+      "skywardblade",
+      "Skyward Blade"
+    ],
+    "skywardharp": [
+      "skywardharp",
+      "Skyward Harp"
+    ],
+    "skywardpride": [
+      "skywardpride",
+      "Skyward Pride"
+    ],
+    "skywardspine": [
+      "skywardspine",
+      "Skyward Spine"
+    ],
+    "slingshot": [
+      "slingshot",
+      "Slingshot"
+    ],
+    "snowtombedstarsilver": [
+      "snowtombedstarsilver",
+      "Snow-Tombed Starsilver"
+    ],
+    "solarpearl": [
+      "solarpearl",
+      "Solar Pearl"
+    ],
+    "songofbrokenpines": [
+      "songofbrokenpines",
+      "Song of Broken Pines"
+    ],
+    "splendoroftranquilwaters": [
+      "splendoroftranquilwaters",
+      "Splendor of Tranquil Waters"
+    ],
+    "staffofhoma": [
+      "staffofhoma",
+      "Staff of Homa"
+    ],
+    "staffofthescarletsands": [
+      "staffofthescarletsands",
+      "Staff of the Scarlet Sands"
+    ],
+    "summitshaper": [
+      "summitshaper",
+      "Summit Shaper"
+    ],
+    "thealleyflash": [
+      "thealleyflash",
+      "The Alley Flash"
+    ],
+    "theblackspoon": [
+      "theblacksword",
+      "The Black Sword"
+    ],
+    "thecatch": [
+      "thecatch",
+      "The Catch"
+    ],
+    "thedockhandsassistant": [
+      "thedockhandsassistant",
+      "The Dockhand's Assistant"
+    ],
+    "theflute": [
+      "theflute",
+      "The Flute"
+    ],
+    "thestringless": [
+      "thestringless",
+      "The Stringless"
+    ],
+    "theunforged": [
+      "theunforged",
+      "The Unforged"
+    ],
+    "theviridescenthunt": [
+      "theviridescenthunt",
+      "The Viridescent Hunt"
+    ],
+    "thewidsith": [
+      "thewidsith",
+      "The Widsith"
+    ],
+    "thrillingtalesofdragonslayers": [
+      "thrillingtalesofdragonslayers",
+      "Thrilling Tales of Dragon Slayers"
+    ],
+    "thunderingpulse": [
+      "thunderingpulse",
+      "Thundering Pulse"
+    ],
+    "tomeoftheeternalflow": [
+      "tomeoftheeternalflow",
+      "Tome of the Eternal Flow"
+    ],
+    "tulaytullahsremembrance": [
+      "tulaytullahsremembrance",
+      "Tulaytullah's Remembrance"
+    ],
+    "verdict": [
+      "verdict",
+      "Verdict"
+    ],
+    "vividnotions": [
+      "vividnotions",
+      "Vivid Notions"
+    ],
+    "vortexvanquisher": [
+      "vortexvanquisher",
+      "Vortex Vanquisher"
+    ],
+    "wanderingevenstar": [
+      "wanderingevenstar",
+      "Wandering Evenstar"
+    ],
+    "wavebreakersfin": [
+      "wavebreakersfin",
+      "Wavebreaker's Fin"
+    ],
+    "whiteblind": [
+      "whiteblind",
+      "Whiteblind"
+    ],
+    "whiteirongreatsword": [
+      "whiteirongreatsword",
+      "White Iron Greatsword"
+    ],
+    "whitetassel": [
+      "whitetassel",
+      "White Tassel"
+    ],
+    "windblumeode": [
+      "windblumeode",
+      "Windblume Ode"
+    ],
+    "wineandsong": [
+      "wineandsong",
+      "Wine and Song"
+    ],
+    "wolfsgravestone": [
+      "wolfsgravestone",
+      "Wolf's Gravestone"
+    ],
+    "xiphosmoonlight": [
+      "xiphosmoonlight",
+      "Xiphos' Moonlight"
+    ],
+    "urakumisugiri": [
+      "urakumisugiri",
+      "Uraku Misugiri"
+    ]
+  }
