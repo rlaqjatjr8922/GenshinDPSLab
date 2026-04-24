@@ -1,0 +1,56 @@
+options iteration=1000 duration=10.5 swap_delay=6 workers=4;
+options hitlag=true defhalt=false ignore_burst_energy=true;
+
+target lvl=100 resist=0.1 pos=1,0 radius=3 freeze_resist=0;
+
+active eula;
+
+# =========================
+# 캐릭터 1 (eula)
+# =========================
+eula char lvl=90/90 cons=0 talent=9,9,9;
+eula add weapon="songofbrokenpines" refine=1 lvl=90/90;
+eula add set="paleflame" count=4;
+
+# =========================
+# 캐릭터 2 (bennett)
+# =========================
+bennett char lvl=90/90 cons=0 talent=9,9,9;
+bennett add weapon="skywardblade" refine=1 lvl=90/90;
+bennett add set="noblesseoblige" count=4;
+
+# =========================
+# 캐릭터 3 (diona)
+# =========================
+diona char lvl=90/90 cons=0 talent=9,9,9;
+diona add weapon="favoniuswarbow" refine=1 lvl=90/90;
+diona add set="noblesseoblige" count=4;
+
+# =========================
+# 캐릭터 4 (fischl)
+# =========================
+fischl char lvl=90/90 cons=0 talent=9,9,9;
+fischl add weapon="alleyhunter" refine=1 lvl=90/90;
+fischl add set="goldentroupe" count=4;
+
+
+# =========================
+# Entry Order
+# =========================
+# fischl -> diona -> bennett -> eula
+
+# =========================
+# Rotation
+# =========================
+fischl skill;
+fischl burst;
+fischl attack;
+diona skill;
+diona burst;
+diona attack;
+bennett skill;
+bennett burst;
+bennett attack;
+eula skill;
+eula burst;
+eula attack;

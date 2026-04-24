@@ -1,11 +1,14 @@
 import json
 
-from config.config import DATA_DIR
+from config.config import DATA_DIR, OUTPUT_DIR
 from engine.rotation_order import save_all_orders
 
 
 TEAMS_JSON = DATA_DIR / "teams.json"
 GEAR_JSON = DATA_DIR / "gear.json"
+
+FAILED_CSV_PATH = OUTPUT_DIR / "failed_runs.csv"
+FAILED_JSON_PATH = OUTPUT_DIR / "failed_runs.json"
 
 
 def norm(s: str) -> str:
@@ -15,6 +18,22 @@ def norm(s: str) -> str:
 def load_json(path):
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
+
+
+def save_failed_csv(failed_set):
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    failed_list = sorted(failed_set)
+
+    with open(FAILED_CSV_PATH, "w", encoding="utf-8") as f:
+        f.write(",".join(failed_list))
+
+
+def save_failed_json(failed_set):
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    failed_list = sorted(failed_set)
+
+    with open(FAILED_JSON_PATH, "w", encoding="utf-8") as f:
+        json.dump(failed_list, f, ensure_ascii=False, indent=2)
 
 
 def make_gcsim(main_name: str, party_members: list[str], gear_map: dict):
@@ -56,6 +75,8 @@ def run(app_state, progress_callback=None, log_callback=None):
     def log(message: str):
         if log_callback:
             log_callback(message)
+        else:
+            print(message)
 
     def set_progress(value: float):
         if progress_callback:
@@ -77,20 +98,33 @@ def run(app_state, progress_callback=None, log_callback=None):
         raise ValueError("teams.json이 비어 있습니다.")
 
     results = []
+    failed_set = set()
 
     for i, (main_name, members) in enumerate(items, start=1):
+        if main_name in failed_set:
+            log(f"[스킵] {main_name} (이미 실패)")
+            continue
+
         try:
             log(f"[{i}/{total}] {main_name} 시작")
+
             main_name, base_code, members = make_gcsim(main_name, members, gear_map)
+
             result = save_all_orders(
                 main_name=main_name,
                 base_code=base_code,
                 party_members=members,
             )
+
             results.append(result)
             log(f"[{i}/{total}] {main_name} 완료")
+
         except Exception as e:
             log(f"[오류] {main_name}: {e}")
+            failed_set.add(main_name)
+            save_failed_csv(failed_set)
+            save_failed_json(failed_set)
+            log(f"[engine] 실패 저장 완료: {main_name}")
 
         set_progress((i / total) * 100.0)
 
@@ -98,6 +132,9 @@ def run(app_state, progress_callback=None, log_callback=None):
         "status": "done",
         "results": results,
         "count": len(results),
+        "failed_count": len(failed_set),
+        "failed_csv_path": str(FAILED_CSV_PATH) if failed_set else "",
+        "failed_json_path": str(FAILED_JSON_PATH) if failed_set else "",
     }
 
     log("[engine] 3단계 완료")

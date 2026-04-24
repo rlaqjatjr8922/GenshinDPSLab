@@ -37,8 +37,7 @@ def extract_dps(text):
 
 def run_gcsim(path):
     if not GCSIM_EXE.exists():
-        print(f"[오류] gcsim.exe 없음: {GCSIM_EXE}")
-        return 0.0
+        raise FileNotFoundError(f"gcsim.exe 없음: {GCSIM_EXE}")
 
     result = subprocess.run(
         [str(GCSIM_EXE), "-c", str(path)],
@@ -52,28 +51,26 @@ def run_gcsim(path):
     err = (result.stderr or "").strip()
 
     if result.returncode != 0:
-        print(f"[오류] gcsim 실행 실패: {path}")
-        print("===== stdout =====")
-        print(result.stdout)
-        print("===== stderr =====")
-        print(result.stderr)
-        return 0.0
+        raise RuntimeError(
+            f"gcsim 실행 실패: {path}\n"
+            f"===== stdout =====\n{output}\n"
+            f"===== stderr =====\n{err}"
+        )
 
     if not output:
-        print(f"[오류] 출력 없음: {path}")
-        print("===== stderr =====")
-        print(err)
-        return 0.0
+        raise RuntimeError(
+            f"출력 없음: {path}\n"
+            f"===== stderr =====\n{err}"
+        )
 
     dps = extract_dps(output)
 
-    if dps == 0.0:
-        print(f"[오류] DPS 추출 실패: {path}")
-        print("===== raw output =====")
-        print(output[:3000])
-        if err:
-            print("===== stderr =====")
-            print(err[:3000])
+    if dps <= 0.0:
+        raise RuntimeError(
+            f"DPS 추출 실패: {path}\n"
+            f"===== raw output =====\n{output[:3000]}"
+            + (f"\n===== stderr =====\n{err[:3000]}" if err else "")
+        )
 
     return dps
 
@@ -126,12 +123,16 @@ def save_all_orders(main_name: str, base_code: str, party_members: list[str]):
         with open(path, "w", encoding="utf-8") as f:
             f.write(final_code)
 
+        # 여기서 한 번이라도 치명적 오류 나면 해당 캐릭 즉시 중단
         dps = run_gcsim(path)
         print(f"{main_name}_{j} → DPS: {dps}")
 
         if dps > best_dps:
             best_dps = dps
             best_order = order
+
+    if best_order is None or best_dps <= 0.0:
+        raise RuntimeError(f"{main_name} 최고 DPS 계산 실패")
 
     best_orders = load_best_orders()
     best_orders[main_name] = best_order

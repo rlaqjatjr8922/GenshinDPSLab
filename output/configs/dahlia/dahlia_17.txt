@@ -1,0 +1,56 @@
+options iteration=1000 duration=10.5 swap_delay=6 workers=4;
+options hitlag=true defhalt=false ignore_burst_energy=true;
+
+target lvl=100 resist=0.1 pos=1,0 radius=3 freeze_resist=0;
+
+active dahlia;
+
+# =========================
+# 캐릭터 1 (dahlia)
+# =========================
+dahlia char lvl=90/90 cons=0 talent=9,9,9;
+dahlia add weapon="favoniussword" refine=1 lvl=90/90;
+dahlia add set="noblesseoblige" count=4;
+
+# =========================
+# 캐릭터 2 (gaming)
+# =========================
+gaming char lvl=90/90 cons=0 talent=9,9,9;
+gaming add weapon="serpentspine" refine=1 lvl=90/90;
+gaming add set="marechausseehunter" count=4;
+
+# =========================
+# 캐릭터 3 (escoffier)
+# =========================
+escoffier char lvl=90/90 cons=0 talent=9,9,9;
+escoffier add weapon="calamityqueller" refine=1 lvl=90/90;
+escoffier add set="goldentroupe" count=4;
+
+# =========================
+# 캐릭터 4 (furina)
+# =========================
+furina char lvl=90/90 cons=0 talent=9,9,9;
+furina add weapon="splendoroftranquilwaters" refine=1 lvl=90/90;
+furina add set="goldentroupe" count=4;
+
+
+# =========================
+# Entry Order
+# =========================
+# escoffier -> furina -> dahlia -> gaming
+
+# =========================
+# Rotation
+# =========================
+escoffier skill;
+escoffier burst;
+escoffier attack;
+furina skill;
+furina burst;
+furina attack;
+dahlia skill;
+dahlia burst;
+dahlia attack;
+gaming skill;
+gaming burst;
+gaming attack;

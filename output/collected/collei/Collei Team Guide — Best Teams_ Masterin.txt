@@ -1,0 +1,342 @@
+Genshin Impact Collei Best Team Guide
+Last updated April 23, 2026. Looking for the best Collei teams in
+        Genshin Impact? Start with the top team summary below, then pick the
+        lineup that fits your roster.
+This page shows best teams for Collei, primarily a Dendro DPS. Top teams include Catalyze, Bloom, Spread, Aggravate, Burgeon, and Hyperbloom compositions. Team positions can be adjusted based on your roster.
+View Collei's character page
+Collei Team Summary
+#1
+Team Rating:SS
+Collei Hyperbloom SS Tier Team
+#2
+Team Rating:S
+Collei Catalyze Team #1
+#3
+Team Rating:SS
+Collei Catalyze Keqing Quicken Team
+#4
+Team Rating:S
+Collei Burning Team
+#1 Collei Hyperbloom SS Tier Team
+Tier SS
+Hyperbloom team built around Kokomi on-field, Collei/Dendro Traveler applying Dendro off-field, and Raiden Shogun triggering Hyperbloom.
+Kokomi creates Dendro Cores through Hydro application, while Raiden’s Electro activates Hyperbloom. Collei adds extra Dendro damage and reactions, and Traveler (Dendro) helps maintain Dendro aura and can hold Deepwood Memories for team shred.
+Sangonomiya Kokomi
+Main DPS
+Hydro
+On-field driver and healer. Uses Elemental Skill and Normal Attacks to generate Dendro Cores for Hyperbloom. Burst damage scales with Max HP.
+Artifacts
+Ocean-Hued Clam
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+HP% / Energy Recharge / HP% / ATK% / Elemental Mastery
+Weapons
+Everlasting Moonglow
+Sacrificial Fragments
+Collei
+Sub DPS
+Dendro
+Off-field Dendro applicator and reaction enabler. Provides Dendro damage to create Dendro Cores and benefits from Hyperbloom team damage.
+Artifacts
+Deepwood Memories
+Main Stats
+Sands
+ATK%
+Goblet
+Dendro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Elegy for the End
+Favonius Warbow
+Raiden Shogun
+Sub DPS
+Electro
+Electro trigger for Hyperbloom. Builds Elemental Mastery to maximize Hyperbloom damage; can also contribute Electro-Charged and Spread-related reactions in the team.
+Artifacts
+Gilded Dreams
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge / ATK%
+Weapons
+Dragon's Bane
+Traveler (Dendro)
+Support
+Dendro
+Dendro support and off-field applicator. Can hold Deepwood Memories to support team Dendro damage and help create Dendro Cores.
+Artifacts
+Deepwood Memories
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Dendro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+Energy Recharge / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Favonius Sword
+#2 Collei Catalyze Team #1
+Tier S
+Collei Catalyze Team
+built around triggering Catalyze/Quicken to maximize
+Dendro
+and
+Electro
+damage. Tighnari serves as the on-field main DPS, while Yae and Collei provide off-field damage and elemental application. Zhongli adds strong shielding and
+Deepwood Memories
+resistance shred for Dendro damage.
+Tighnari
+Main DPS
+Dendro
+On-field DPS. His Dendro damage is maximized through Catalyze/Quicken interactions with Yae's Electro application.
+Artifacts
+Gilded Dreams
+Main Stats
+Sands
+ATK%
+Goblet
+Dendro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Hunter's Path
+The Stringless
+Yae Miko
+Sub DPS
+Electro
+Provides consistent off-field Electro application via attacks and Elemental Skill to keep Catalyze/Quicken active.
+Artifacts
+Thundering Fury
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT DMG / CRIT Rate
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Kagura's Verity
+The Widsith
+Collei
+Sub DPS
+Dendro
+Off-field Dendro damage dealer. Her Dendro damage is boosted by Catalyze and she helps maintain Dendro application.
+Artifacts
+Gilded Dreams
+Main Stats
+Sands
+ATK%
+Goblet
+Dendro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Elegy for the End
+Favonius Warbow
+Zhongli
+Support
+Geo
+Provides a powerful shield for comfort and survivability.
+Deepwood Memories
+enables Dendro RES shred for the team.
+Artifacts
+Deepwood Memories
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Staff of Homa
+Black Tassel
+#3 Collei Catalyze Keqing Quicken Team
+Tier SS
+Catalyze/Quicken Electro-Dendro team
+focused on enabling Keqing's fast multi-hit Electro damage while Collei contributes off-field Dendro damage and benefits from Catalyzing. Fischl provides sustained off-field Electro application, and Zhongli adds strong shielding plus
+Deepwood Memories
+Dendro RES shred support.
+Keqing
+Main DPS
+Electro
+Main on-field driver. Uses rapid multi-stage attacks to trigger Quicken/Catalyze reactions and deal most of the team's damage.
+Artifacts
+Thundering Fury
+Main Stats
+Sands
+ATK% / Elemental Mastery
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / ATK% / Energy Recharge
+Weapons
+Primordial Jade Cutter
+Iron Sting
+Fischl
+Sub DPS
+Electro
+Provides consistent off-field Electro application with Oz, helping maintain Quicken and enabling Catalyze reactions.
+C6
+is a major team upgrade.
+Artifacts
+Thundering Fury
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Skyward Harp
+The Stringless
+Collei
+Sub DPS
+Dendro
+Off-field Dendro damage dealer. Her Dendro damage is amplified through Catalyzing, and she helps maintain Quicken uptime.
+Artifacts
+Gilded Dreams
+Main Stats
+Sands
+ATK%
+Goblet
+Dendro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Elegy for the End
+Favonius Warbow
+Zhongli
+Support
+Geo
+Provides a very strong shield for comfort and survivability. Equipped with
+Deepwood Memories
+to reduce enemy Dendro RES when his Elemental DMG hits enemies, supporting Collei's damage.
+Artifacts
+Deepwood Memories
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Staff of Homa
+Black Tassel
+#4 Collei Burning Team
+Tier S
+Burning team
+centered around Tighnari and Collei applying Dendro while Xiangling and Bennett maintain Pyro to trigger Burning and deal sustained DOT to enemies.
+Tighnari
+Main DPS
+Dendro
+Main on-field DPS. Uses Charged Attacks and Dendro damage to trigger Burning with Pyro teammates.
+Artifacts
+Gilded Dreams
+Main Stats
+Sands
+ATK%
+Goblet
+Dendro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Hunter's Path
+The Stringless
+Xiangling
+Sub DPS
+Pyro
+Off-field Pyro applicator. Her Burst provides strong damage and consistent Pyro for Burning uptime.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+ATK% / Energy Recharge
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Engulfing Lightning
+"The Catch"
+Collei
+Sub DPS
+Dendro
+Provides off-field Dendro damage and helps maintain Burning reactions alongside Tighnari.
+Artifacts
+Gilded Dreams
+Main Stats
+Sands
+ATK%
+Goblet
+Dendro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Elegy for the End
+Favonius Warbow
+Bennett
+Support
+Pyro
+Healer and buffer. Burst provides a large ATK buff and healing for the team.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+Collei Teams FAQ
+What is the best Collei team in Genshin Impact?
+Collei Hyperbloom SS Tier Team is one of the strongest Collei teams right now. Use the team summary and build cards on this page to pick the best version for your account.
+What are good Collei teams without premium weapons?
+You can run strong Collei teams without signature weapons by prioritizing reaction synergy, energy consistency, and artifact main stats shown in each build card.
+Which teammates are best with Collei?
+Common high-performing partners include teams such as Collei Hyperbloom SS Tier Team, Collei Catalyze Team #1, Collei Catalyze Keqing Quicken Team. Check each lineup section for role breakdowns and gear priorities.

@@ -1,0 +1,322 @@
+Home
+Blog
+Genshin Impact Hub
+Genshin Impact Ineffa Builds, Weapons & Team Comps!
+Genshin Impact Ineffa Builds, Weapons & Team Comps!
+Daniel Mitchell
+Feb 12, 2026
+Share
+Ineffa is an upcoming 5-star Electro cha
+racter in Genshin Impact. In this comprehensive
+Ineffa build guide
+, we’ll break down her talent priorities, recommended weapons and artifacts, and the best team compositions to maximize her potential.
+🔥 Bonus Tip: Don’t forget to visit
+Lootbar.gg
+for exclusive discounts on your next purchase!
+Secure Your Gaming Top-Up with Smart Savings on LootBar
+Premium Top-Up Service Tailored for Your Game.
+3-Minute Delivery for Non-Stop Gaming.
+Trusted 4.9/5 on Trustpilot, 10/10 among Players.
+Official Partnership Route, Protect Your Game Wallet.
+Top Up With Discount Now!
+Ineffa Character Profile
+Ineffa Information
+Character Information
+Ineffa
+Rarity
+★★★★★
+Element
+Electro
+Weapon
+Sword
+Progression Bonus
+CRIT Rate +19.2%
+Combat Role
+Sub DPS
+Ineffa Gameplay
+Ineffa
+is a
+5-star Electro
+character who wields a
+Polearm
+and serves as a
+Sub-DPS
+. Her Talent converts Electro-Charged reactions into
+Lunar-Charged
+reactions, boosting its base damage. Ineffa's Elemental Skill provides a
+shield
+for her teammates and summons Birgitta, who continuously
+applies Electro
+to nearby enemies. Upon using her Elemental Burst, all nearby party members gain an increase in
+Elemental Mastery
+.
+Ineffa Talent Priority
+Below are the best talent priorities for Ineffa in Genshin Impact:
+Talent
+Priority
+Elemental Skill: Cleaning Mode: Carrier Frequency
+★★★★★ (Top)
+Elemental Burst: Supreme Instruction: Cyclonic Exterminator
+★★★★ (High)
+Normal Attack: Cyclonic Duster
+★ (Low)
+Ineffa Best Weapons
+As a DPS character who scales with ATK, any sword that boosts Ineffa’s
+CRIT stats or ATK
+will be a strong choice for her. Additionally, her kit revolves around the
+Lunar-Charged Reaction
+, whose damage is related to Elemental Mastery. As a result,
+EM
+is also an important stat to prioritize for Ineffa.
+Best Choice
+Signature Weapon
+Fractured Halo (5★)
+Base ATK
+: 608
+Bonus Stat
+: CRIT DMG +66.2%
+Weapon Effect
+(R1): After an Elemental Skill or Elemental Burst is used, ATK is increased by 24% for 20s. If the equipping character creates a Shield while this effect is active, they will gain the Electrifying Edict effect for 20s: All nearby party members deal 40% more Lunar-Charged DMG.
+5-star Alternatives
+1st
+Bloodsoaked Ruins (5★)
+Base ATK
+: 674
+Bonus Stat
+: CRIT Rate +22.1%
+Weapon Effect
+(R1): For 3.5s after using an Elemental Burst, the equipping character's Lunar-Charged DMG dealt to opponents is increased by 36%. Additionally, after triggering a Lunar-Charged reaction, the equipping character will gain Requiem of Ruin: CRIT DMG is increased by 28% for 6s. They will also regain 12 Elemental Energy. Elemental Energy can be restored this way once every 14s.
+2nd
+Calamity Queller (5★)
+Base ATK
+: 741
+Bonus Stat
+: ATK +16.5% ATK
+Weapon Effect
+(R1): Gain 12% All Elemental DMG Bonus. Obtain Consummation for 20s after using an Elemental Skill, causing ATK to increase by 3.2% per second. This ATK increase has a maximum of 6 stacks. When the character equipped with this weapon is not on the field, Consummation's ATK increase is doubled.
+3rd
+Symphonist of Scents (5★)
+Base ATK
+: 608
+Bonus Stat
+: CRIT DMG +66.2%
+Weapon Effect
+(R1): ATK is increased by 12%. When the equipping character is off-field, ATK is increased by an additional 12%. After healing, the equipping character and healed character(s) will obtain the "Sweet Echoes" effect, increasing their ATK by 32% for 3s. This effect can be triggered even if the equipping character is off-field.
+4th
+Staff of Homa (5★)
+Base ATK
+: 608
+Bonus Stat
+: CRIT DMG +66.2%
+Weapon Effect
+(R1): HP increased by 20%. Additionally, provides an ATK Bonus based on 0.8% of the wielder's Max HP. When the wielder's HP is less than 50%, this ATK Bonus is increased by an additional 1% of Max HP.
+4-star Alternatives
+Option 1
+Deathmatch (4★)
+Base ATK
+: 454
+Bonus Stat
+: +36.8% CRIT Rate
+Weapon Effect
+(R5): If there are at least 2 opponents nearby, ATK is increased by 32% and DEF is increased by 32%. If there are fewer than 2 opponents nearby, ATK is increased by 48%.
+Option 2
+Ballad of the Fjords (4★)
+Base ATK
+: 510
+Bonus Stat
+: CRIT Rate +27.6%
+Weapon Effect
+(R5): When there are at least 3 different Elemental Types in your party, Elemental Mastery will be increased by 240.
+Option 3
+Prospector's Shovel (4★)
+Base ATK
+: 510
+Bonus Stat
+: ATK +41.3%
+Weapon Effect
+(R5): Electro-Charged DMG is increased by 96% , and Lunar-Charged DMG is increased by 24%. Moonsign: Ascendant Gleam: Lunar-Charged DMG is increased by an additional 24%.
+Option 4
+Missive Windspear (4★)
+Base ATK
+: 510
+Bonus Stat
+: ATK +41.3%
+Weapon Effect
+(R5): Within 10s after an Elemental Reaction is triggered, ATK is increased by 24% and Elemental Mastery is increased by 96.
+Ineffa Best Artifacts & Stats
+When choosing the most suitable artifact sets for Ineffa, you should first consider her primary role in the team. If the goal is to enhance her supportive capabilities,
+Silken Moon's Serenade
+and
+Tenacity of the Millelith
+are recommended. If you want to boost Ineffa’s personal damage output, then
+Aubade of Morningstar and Moon
+and
+Gilded Dreams
+are the better choices.
+Ineffa Support Artifact Set
+If no other teammate in a Mod-Krai team is wearing
+Silken Moon’s Serenade
+, Ineffa is better off equipping that set herself. However, if another team member already uses
+Silken Moon’s Serenade
+, or if the team’s Moonsign level is not
+Ascendant Gleam
+, then
+Tenacity of the Millelith
+becomes the better support choice for Ineffa.
+Option 1
+Silken Moon's Serenade
+2-PC
+: Energy Recharge +20%.
+4-PC
+: When dealing Elemental DMG, gain the Gleaming Moon: Devotion effect for 8s: Increases all party members' Elemental Mastery by 60/120 when the party's Moonsign is Nascent Gleam/Ascendant Gleam. The equipping character can trigger this effect while off-field. All party members' Lunar Reaction DMG is increased by 10% for each different Gleaming Moon effect that party members have. Effects from Gleaming Moon cannot stack.
+Option 2
+Tenacity of the Millelith
+2-PC
+: HP +20%.
+4-PC
+: When an Elemental Skill hits an opponent, the ATK of all nearby party members is increased by 20% and their Shield Strength is increased by 30% for 3s. This effect can be triggered once every 0.5s. This effect can still be triggered even when the character who is using this artifact set is not on the field.
+Ineffa DPS Artifact Set
+If the team’s Moonsign level is
+Ascendant Gleam
+,
+Aubade of Morningstar and Moon
+is the best DPS artifact set for Ineffa. And if the team's Moonsign level is Nascent Gleam,
+Gilded Dreams
+is the best choice for her.
+Option 1
+Aubade of Morningstar and Moon
+2-PC
+: Increases Elemental Mastery by 80.
+4-PC
+: When the equipping character is off-field, Lunar Reaction DMG is increased by 20%. When the party's Moonsign Level is at least Ascendant Gleam, Lunar Reaction DMG will be further increased by 40%. This effect will disappear after the equipping character is active for 3s.
+Option 2
+Gilded Dreams
+2-PC
+: Increases Elemental Mastery by 80.
+4-PC
+: Within 8s of triggering an Elemental Reaction, the character equipping this will obtain buffs based on the Elemental Type of the other party members. ATK is increased by 14% for each party member whose Elemental Type is the same as the equipping character, and Elemental Mastery is increased by 50 for every party member with a different Elemental Type. Each of the aforementioned buffs will count up to 3 characters. This effect can be triggered once every 8s. The character who equips this can still trigger its effects when not on the field.
+Recommended Stats
+Here are the best Artifact main stats and sub-stats for Ineffa in Genshin Impact:
+Artifact Main Stats
+Sands:
+ATK%
+Goblet
+: ATK%
+Circlet
+: CRIT Rate or CRIT DMG
+Artifact Sub Stats
+CRIT Rate & CRIT DMG >
+ATK% > EM > ER > others
+Ineffa Best Team Comps
+As a Electro sub-DPS designed specifically for
+Lunar-Charged
+teams, Ineffa works best when supporting the main DPS
+Flins
+in Lunar Electro-Charged compositions. She can also be paired with other
+Nod-Krai
+teammates to form a
+Ascendant Gleam
+team.
+Beyond that, thanks to her solid personal damage as a sub-DPS, Ineffa can also team up with other
+Hydro or Electro main DPS characters
+, helping them handle combat scenarios that require
+Lunar reactions
+. Below are some recommended team pairings for reference.
+1. Ineffa Lunar-Charged Teams
+Main DPS
+Sub DPS
+Support/Sustain
+Flins
+(5★)
+Ineffa (5★)
+Columbina
+(5★)
+Sucrose
+(4★)
+Flins
+(5★)
+Ineffa (5★)
+Aino (4★)
+Jahoda
+(4★)
+Columbina
+(5★)
+Ineffa (5★)
+Fischl
+(5★)
+Sucrose
+(4★)
+2. Ineffa in Hydro DPS Teams
+Main DPS
+Sub DPS
+Support/Sustain
+Neuvillette (5★)
+Ineffa (5★)
+Furina
+(5★)
+Xilonen
+(5★)
+Ayato (5★)
+Ineffa (5★)
+Ororon (4★)
+Shinubu (4★)
+Tartaglia (5★)
+Ineffa (5★)
+Yelan
+(5★)
+Jean (5★)
+Kokomi (5★)
+Ineffa (5★)
+Furina
+(5★)
+Kazuha (5★)
+3. Ineffa in Electro DPS Teams
+Main DPS
+Sub DPS
+Support / Sustain
+Varesa (5★)
+Ineffa (5★)
+Furina
+(5★)
+Xianyun (5★)
+Clorinde (5★)
+Ineffa (5★)
+Xingqiu (4★)
+Jean (5★)
+Cyno (5★)
+Ineffa (5★)
+Furina
+(5★)
+Xilonen
+(5★)
+3. Ineffa - Anemo Team
+Anemo Character
+Sub DPS
+Mizuki
+(5★)
+Ineffa (5★)
+Furina
+(5★)
+Ororon (4★)
+Ifa (4★)
+Ineffa (5★)
+Furina
+(5★)
+Fischl
+(4★)
+Sucrose
+(4★)
+Ineffa (5★)
+Beidou (4★)
+Xingqiu (4★)
+Ineffa is a formidable DPS in Electro-Charged teams. By prioritizing her Elemental Skill and Burst, selecting the right weapons, and equipping optimal artifacts, you can fully unlock her capabilities in combat. And
+for
+players who want to maximize Ineffa's potential, don’t forget to
+top up Genshin Impact
+at
+LootBar
+.
+Top Up With Discount Now!
+Daniel Mitchell
+Gaming writer
+Daniel Mitchell is an accomplished American gaming writer and RPG enthusiast, currently serving as the Lead Editor of LootBar’s Genshin Impact Walkthrough Team. With dual degrees in English Literature, he blends his expertise in literary analysis with extensive knowledge of the gaming industry.

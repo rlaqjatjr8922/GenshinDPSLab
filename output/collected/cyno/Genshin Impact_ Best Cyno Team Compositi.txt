@@ -1,0 +1,245 @@
+Genshin Impact: Best Cyno Team Compositions Guide
+By
+Nahda Nabiilah
+Updated
+Mar 13, 2023, 6:30 AM EDT
+Nahda Nabiilah is a writer and editor from Indonesia. She has always loved writing and playing games, so one day she decided to combine the two. Most of the time, writing gaming guides is a blast for her, due to it being two of Nahda's favorite things. She strives to make detailed and easy-to-follow guides.
+Sign in to your
+GameRant
+account
+Add Us On
+follow
+Follow
+followed
+Followed
+Like
+Like
+Log in
+Here is a fact-based summary of the story contents:
+Try something different:
+Show me the facts
+Explain it like I’m 5
+Give me a lighthearted recap
+Cyno
+Electro
+Polearm
+Sumeru
+Guides
+Ascension
+Builds
+Weapons
+Team Comp
+Constellation
+Player Mistakes
+Back to All Characters
+Cyno’s team comp in
+Genshin Impact
+always has to include either a shielder or a healer, preferably those with a long duration. This is because after entering the field with his ultimate, Cyno has to stay as the active character for a whopping 18s. Without sufficient protection, it’s easy for enemies to deal some deadly blows, killing the character.
+RELATED:
+Genshin Impact: Best Team Compositions For Yelan
+There are a few options players can choose for Cyno’s team comp in
+Genshin Impact
+. Characters like
+Zhongli
+,
+Beidou
+,
+Dori
+, and
+Kuki Shinobu
+are all great options to pair with
+Cyno
+. As for the rest of the party, here are some choices players can pick for the best Cyno team compositions in
+Genshin Impact
+.
+Updated March 13, 2023, by Nahda Nabiilah:
+One of the major issues that players face when building Cyno teams in Genshin Impact is the lack of Dendro characters who can support Cyno throughout the whopping 18 seconds of his Burst duration. However, with the continuous updates, more content is being released that may help Cyno, as seen in some previous versions. Yaoyao has made her way into the scene with a solid Dendro application that lingers long enough to support Cyno.
+Cyno + Yaoyao + Xingqiu + Sucrose
+Cyno
+and
+Yaoyao
+form a good duo since she can help him keep triggering Aggravate in his Burst state while also healing him. On the other hand,
+Xingqiu creates an off-field duo with Yaoyao
+to keep triggering Dendro cores as long as Cyno is using his Normal attacks. In this team composition, Cyno's reliance on Elemental Mastery plays a big role since it enhances all three reactions he can trigger: Aggravate, Electro-charged, and Hyperbloom.
+Debuffs are also important in Cyno team comps to amplify the team's DMG. Players can achieve this by equipping Yaoyao with 4 pieces of Deepwood Memories and Sucrose with 4 pieces of Viridescent Venerer, allowing them to shred enemies' Dendro and Electro resistance respectively. Of course, Xingqiu can be replaced with units like Yelan, while Sucrose can be swapped out for characters like Kazuha.
+Team Roles
+Cyno:
+Main DPS
+Yaoyao:
+Healer, Dendro enabler, debuffer (4pc Deepwood Memories)
+Xingqiu:
+Sub-DPS, minor healer, Hydro enabler
+Sucrose:
+Crowd control, buffer, debuffer (4pc Viridescent Venerer)
+Cyno + Yaoyao + Dendro MC + Ayato
+As a selfish Main DPS, Cyno team comps heavily rely on off-field units that pave the way for him to execute the team's strategy. To create a Cyno Hyperbloom team, characters like Yaoyao and the Dendro Traveler are needed to keep the Dendro application active while other units are taking the field.
+Kamisato Ayato
+can operate as a Sub-DPS to cover Cyno's downtime, and his Burst is super useful in creating Dendro Cores alongside buffing Cyno's Normal attacks.
+Finally, Cyno's Elemental Burst takes place, and he will then trigger all the Cores into Hyperblooms. This strategy can deal massive DMG as long as the Dendro and Hydro fields are re-applying more Cores for Cyno to Hyperbloom. Of course, with such a team composition, Cyno should have the 4-piece of Flower of Paradise Lost to amplify Hyperbloom DMG, while either Yaoyao or the Dendro Traveler should have the 4-piece of Deepwood Memories to reduce enemies' resistance to Dendro.
+Team Roles
+Cyno:
+Main DPS
+Yaoyao:
+Healer, Dendro enabler, debuffer (4pc Deepwood Memories)
+Dendro MC:
+Sub-DPS, Dendro enabler, buffer, debuffer (4pc Deepwood Memories)
+Ayato:
+Sub-DPS, Hydro enabler, buffer
+Cyno + Beidou + Dendro MC + Xingqiu
+In this Cyno team comp, both
+Beidou
+and
+Xingqiu
+are present to protect Cyno. The idea behind this combination is for players to play with both Hyperbloom and Quicken
+Dendro Elemental Reactions in
+Genshin Impact
+, along with Electro-Charged.
+Players should start with Dendro MC’s Burst, then Xingqiu’s.
+It’s crucial to ensure Xingqiu’s Hydro comes in contact with Dendro MC’s ultimate
+as it’ll widen the Dendro Lamp’s AoE. However, if the enemies are concentrated in close space, then it’s better to hit the Dendro MC’s ultimate with Electro to increase the Lamp’s attack speed. Afterward, use Beidou’s Burst before swapping to Cyno.
+Team Roles
+Cyno
+: Main DPS
+Beidou
+: Sub-DPS (Triple EM build), debuffer (C6 effect)
+Dendro MC
+: Sub-DPS (4pc Deepwood Memories)
+Xingqiu
+: Sub-DPS, buffer (4pc Noblesse Oblige)
+Cyno + Kazuha + Dori + Xingqiu
+This Cyno
+team comp in
+Genshin Impact
+will not rely on any Dendro character; rather, it’ll focus on maximizing Electro DMG. Kazuha will buff Cyno’s Electro DMG while lowering the enemy’s Electro RES. Meanwhile, Dori exists to both heal Cyno and feed his Energy requirement.
+Dori is a brilliant pair with Cyno as she practically solves his Energy issue
+.
+For this team, start with Dori’s Elemental Skill, then Kazuha’s Burst and Skill. Afterward, use Xingqiu’s Burst, throw Dori’s ultimate, and finally, bring Cyno out to clear the enemies out.
+Team Roles
+Cyno
+: Main DPS
+Kazuha
+: Buffer, debuffer (4pc Viridescent Venerer)
+Dori
+: Healer, battery
+Xingqiu
+: Sub-DPS
+Cyno + C6 Candace + Yun Jin + Zhongli
+Although Cyno’s Elemental Burst has multipliers written on it,
+the DMG he deals during his ultimate is actually considered Normal Attack DMG
+. This means characters like Yun Jin and Candace can increase the DMG Cyno deals. This team requires C6 Candace as Candace’s
+final Constellation in
+Genshin Impact
+periodically deals Hydro DMG, allowing Electro-Charged to occur.
+RELATED:
+Genshin Impact: Best Weapons For Candace
+For the final slot, Zhongli is an amazing choice. Not only will the Geo Archon protect the main DPS, but the combination of Zhongli and Yun Jin will also trigger the Geo Resonance. Geo Resonance strengthens the team’s shield and also increases the DMG of any unit protected by a shield by 15%.
+Team Roles
+Cyno
+: Main DPS
+Candace
+: Hydro enabler, buffer (4pc Noblesse Oblige)
+Yun Jin
+: Buffer (4pc Husk of Opulent Dreams)
+Zhongli
+: Shielder, debuffer, buffer (4pc Tenacity of the Millelith)
+Cyno + Collei + Yun Jin + Zhongli
+This Cyno team comp replaces Candace with Collei. Players will play Cyno to trigger Aggravate while simultaneously buffing his DMG with Yun Jin.
+Collei is a great option for this team composition
+as her
+Sprout
+effect is attached to the active character, allowing Cyno to easily refresh the Quicken debuff as long as the Sprout effect persists. One issue with this team is that players will be missing a Battery for Cyno.
+Ensure he has enough Energy Recharge to make a smooth rotation
+.
+The team rotation should start with Zhongli summoning his shield, then Yun Jin’s Burst, Collei’s Burst and Skill, and finally, Cyno. For those who don’t own Collei, Dendro Traveler is also viable in this Cyno team comp.
+Team Roles
+Cyno
+: Main DPS
+Collei
+: Dendro enabler, buffer (4pc Noblesse Oblige)
+Yun Jin
+: Buffer (4pc Husk of Opulent Dreams)
+Zhongli
+: Shielder, debuffer, buffer (4pc Tenacity of the Millelith)
+Cyno + Beidou + Dendro MC + Kazuha
+Another Aggravate variation for Cyno team comp in
+Genshin Impact
+. This team doesn’t have much protection, but it’ll focus on dealing as much Aggravate as possible with Cyno and Beidou.
+Kazuha will buff both units
+’ Electro DMG, which will further amplify their Aggravate procs.
+Players should start with Dendro MC’s Burst and Skill, then Beidou’s Burst and Skill, then Kazuha’s Burst and Skill, and finally, Cyno to spam.
+Team Roles
+Cyno
+: Main DPS
+Beidou
+: Sub-DPS, shielder, debuffer (C6)
+Dendro MC
+: Sub-DPS, buffer (4pc Noblesse Oblige)
+Kazuha
+: Buffer, debuffer (4pc Viridescent Venerer)
+Cyno + Beidou + Dori + Kazuha
+Instead of relying on Zhongli for protection, Cyno in this
+team comp will have Beidou and Dori
+do the job. Beidou can deal a lot of DMG as a sub-DPS, and paired with Kazuha’s buff, this mono-Electro team should not be underestimated. However, one important thing to note is that
+players can’t use Thundering Fury in this setup
+. Cyno should use other options like Thundersoother or Gladiator’s Finale.
+RELATED:
+Genshin Impact: Best Candace Build Guide
+Players can do the rotation starting with Dori’s Skill, then Kazuha’s Burst and Skill, then Dori’s Burst, Beidou’s Burst, and finally, Cyno to take the field for the following 18s.
+Team Roles
+Cyno
+: Main DPS
+Beidou
+: Sub-DPS, shielder, debuffer (C6)
+Dori
+: Healer, battery, buffer (4pc Noblesse Oblige)
+Kazuha
+: Buffer, debuffer (4pc Viridescent Venerer)
+Cyno + Beidou + Dori + Xingqiu
+This Cyno team comp is similar to the previous one, but instead of using Kazuha to increase Electro DMG, Xingqiu takes his spot to enable the Electro-Charged Reaction. The combination of Cyno, Beidou, and Xingqiu means players will find a mountainous amount of numbers as they play. If
+Dori owns several of her
+Genshin Impact
+Constellations
+, then this Cyno team comp will be even more chaotic.
+Team Roles
+Cyno
+: Main DPS
+Beidou
+: Sub-DPS, shielder, debuffer (C6)
+Dori
+: Healer, battery
+Xingqiu
+: Sub-DPS, Hydro enabler, buffer (4pc Noblesse Oblige)
+Genshin Impact
+is now available on Mobile, PC, PS4, and PS5. A Switch version is in development.
+Strategy Guides
+Genshin Impact
+Follow
+Followed
+Like
+Share
+Facebook
+X
+WhatsApp
+Threads
+Bluesky
+LinkedIn
+Reddit
+Flipboard
+Copy link
+Email
+Close
+Poll
+POLL
+Which recently released Nintendo cozy game do you prefer?
+Pokemon Pokopia
+Pokemon Pokopia
+57.6%
+Tomodachi Life: Living the Dream
+Tomodachi Life: Living the Dream
+42.4%
+See Results
+Submit
+Trending Now
+Hearthstone Is Retiring Another Game Mode
+Pokemon GO Players Think They've Solved the Mystery of Where Silicobra Spawns
+7 Best Brawlers In Shonen Anime, Ranked

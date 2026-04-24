@@ -1,0 +1,153 @@
+Task Search
+Checklists
+Guides
+Markers
+Videos
+Sort and Filter
+No Results
+Checklists
+New Checklist
+All Lists
+My Checklists
+All
+All Lists
+My Checklists
+How creative can you get with your first free checklist?
+Create a free account
+All Interactive Maps and Locations
+Genshin Impact Heizou Build Guide: Best Weapons, Artifacts, and Team
+By
+Cedric Pabriga
+,
+Jen Rothery
+,
+Triforce
+,
++30 more
+Updated
+:
+Feb 16, 2026 3:28pm UTC
+Shikanoin Heizou is a 4-star Anemo
+Catalyst character
+with strong elemental DPS potential. This guide to the
+best
+Genshin Impact
+Shikanoin Heizou build
+will explain the best Heizou comp, weapons, and artifact sets, including a
+Shikanoin Heizou F2P guide
+.
+Shikanoin Heizou is shaping up to be a 4-star Catalyst DPS who can work beautifully with characters that can provide elements that can be swirled.
+Genshin Impact Shikanoin Heizou DPS Build
+Shikanoin Heizou has the potential to be a primary DPS character or a strong elemental support DPS - or both. With his flurry of punches infused with Anemo, he can easily swirl opponents afflicted with elements, or even better, he can swirl off of his teammates' skills or burst.
+Heartstopper Strike
+is a high damaging ability that should be used in conjunction with your normal attacks. His Elemental Burst,
+Windmuster Kick
+is a great skill to use when being mobbed so you can immediately gather all the monsters in it and easily combo them with normal attacks and Heartstopper Strike.
+Because Shikanoin Heizou looks to be an Anemo damage dealer with a focus on elemental reactions,
+you likely want to leave his talents at 1/1/1
+for normal attack, elemental skill, and elemental burst. Instead, you want to get your
+elemental mastery
+as high as possible. It's also recommended to get him to Level 90, because the damage formula for transformative reactions - including Swirl - factors in your
+character level.
+To find out more about Elemental Reactions, Elemental Mastery, and their effect on your damage, check out our:
+Elemental Mastery Guide
+Elemental Reactions Chart
+For
+Constellations,
+you ideally want Heizou to at least be
+C2
+for the normal attack speed increase and a Declension stack whenever he switches back to the battlefield every 10 seconds as well as increasing the pull effect of his Elemental Burst. Further constellation levels will only improve his capabilities with C4 making it very easy for him to get energy back for his Elemental Burst and C6 making his Heartstopper Strike deal catastrophic damage.
+Best Shikanoin Heizou Team Comp
+What Heizou wants in a team is a lot of Sub-DPS and a Support that can help him get off as many swirl reactions as possible. Because of this, you want characters that have persisting effects even when they're already off the field. Here's an example of a Heizou Team Composition:
+Shikanoin Heizou
+Beidou
+/
+Fischl
+Yelan
+/
+Xingqiu
+Diona
+/
+Bennett
+This team composition is popularly called a
+taser composition
+because of the number of electrocharged reactions you can pull off with it. In between those reactions, you should also try triggering swirls with one of those elements, which will weaken the resistance of enemies to the swirled element if you have Viridescent Venerer equipped on Heizou (which you should).
+Diona or Bennett are there for healing, though both can also play their part in spreading Cryo or Pyro for vaporize or freeze reactions.
+Best Shikanoin Heizou Weapon
+What's better than using your elemental skill? Using it and not having to deal with its cooldown!
+Sacrificial Fragments
+is one of the best weapons for Heizou for that reason, since it lets you get the most from his Heartstopper Strike Declension stacks and deal more elemental damage.
+Another weapon to note is the
+Solar Pearl,
+which works perfectly with Heizou, as the Solar Pearl's passive enhances normal attacks after using his elemental skill or burst and enhances elemental attacks after using normal attacks.
+These are our top picks, but if you don't manage to get them, you're not out of luck.
+Name
+Attribute
+In-Game Description
+Sacrificial Fragments
+Elemental Mastery
+Composed
+After dealing damage to an opponent with an Elemental Skill, the skill has a chance to end its own CD. Can only occur once every 30s
+Skyward Atlas
+ATK
+Wandering Clouds
+Increases Elemental DMG Bonus by 12~24%. Normal Attack hits have a 50% chance to earn the favor of the clouds. which actively seek out nearby opponents to attack for 15s, dealing 160~320% ATK DMG. Can only occur once every 30s.
+Lost Prayer to the Sacred Winds
+Crit Rate
+Boundless Blessing
+Increases Movement SPD by 10%. When in battle, gain an 8~16% Elemental DMG Bonus every 4s. Max 4 stacks. Lasts until the character falls or leaves combat.
+The Widsith
+Crit DMG
+Debut
+When a character takes the field, they will gain a random theme song for 10s. This can only occur once every 30s.
+Recitative
+: ATK is increased by 60~120%.
+Aria
+: Increases all Elemental DMG by 48~96%.
+Interlude
+: Elemental Mastery is increased by 240~480.
+Solar Pearl
+Crit Rate
+Solar Shine
+Normal Attack hits increase Elemental Skill and Elemental Burst DMG by 20~40% for 6s. Likewise, Elemental Skill or Elemental Burst hits increase Normal Attack DMG by 20~40% for 6s.
+Best Shikanoin Heizou Artifacts
+For Heizou, there's only one artifact set that works perfectly for him. The
+Viridescent Venerer
+not only increases his Anemo Damage, but also decreases the opponent's elemental RES towards the swirled element after a swirl reaction is inflicted on them.
+Set Name
+2-Piece
+4-Piece
+Viridescent Venerer
+Anemo DMG Bonus +15%
+Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s.
+For main stats, go for Elemental Mastery on Sands, Elemental Mastery/Anemo DMG for the Goblet, and Crit Rate/Crit DMG for the Circlet depending on your crit rate.
+Shikanoin Heizou F2P Build
+Shikanoin Heizou is pretty F2P-friendly. The craftable
+Mappa Mare
+is a solid choice, with its elemental mastery secondary stat and a passive skill that boosts elemental damage after the wielder triggers an elemental reaction. Forged weapons always have the benefit of, well... being forge-able. Since you can craft these, you have a higher chance of maxing out the passive skill and getting the full 16% elemental damage bonus - which stacks twice.
+Emerald Orb
+is an alternative that doesn't require grinding for billets. This three-star weapon also raises elemental mastery and boosts attack by 20%-40% after the user triggers a reaction.
+Make sure to plan ahead and start farming
+Heizou's materials
+before he comes home!
+Up Next:
+Sucrose Guide - Best Builds and Tips
+Previous
+Heizou Ascension Materials Guide
+Next
+Sucrose Guide - Best Builds and Tips
+Top Guide Sections
+Genshin Impact Luna VI Details and Patch Notes
+Genshin Impact Luna IV Release Time and Details
+Genshin Impact Luna III Details and Patch Notes
+Genshin Impact Luna II Release Date and Details
+Was this guide helpful?
+Leave feedback
+In This Guide
+Genshin Impact
+HoYoverse
+Initial Release:
+Sep 27, 2020
++2
+Learn more
+Go to comments

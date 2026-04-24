@@ -1,25 +1,17 @@
+import csv
 import json
 import re
 import time
-import requests
-from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 
-from config.config import (
-    CHARACTERS_JSON,
-    LEGAL_ACTIONS_JSON,
-    FAILED_DIR,
-)
+import requests
+from bs4 import BeautifulSoup
+
+from config.config import LEGAL_ACTIONS_JSON, FAILED_ACTIONS_CSV
 
 BASE = "https://docs.gcsim.app/reference/characters/"
 HEADERS = {"User-Agent": "Mozilla/5.0"}
 
-FAILED_JSON = FAILED_DIR / "gcsim_legal_actions_failed_characters.json"
-
-
-# -------------------------
-# slug 예외 처리
-# -------------------------
 SPECIAL_SLUGS = {
     "Kamisato Ayaka": "ayaka",
     "Kamisato Ayato": "ayato",
@@ -27,7 +19,7 @@ SPECIAL_SLUGS = {
     "Arataki Itto": "itto",
     "Kaedehara Kazuha": "kazuha",
     "Sangonomiya Kokomi": "kokomi",
-    "Kuki Shinobu": "kuki",
+    "Kuki Shinobu": "kukishinobu",
     "Raiden Shogun": "raiden",
     "Kujou Sara": "sara",
     "Yae Miko": "yaemiko",
@@ -43,30 +35,8 @@ SPECIAL_SLUGS = {
 }
 
 
-# -------------------------
-# 유틸
-# -------------------------
 def norm(s: str) -> str:
-    return s.strip().lower()
-
-
-def load_characters_map(path) -> dict:
-    with open(path, "r", encoding="utf-8-sig") as f:
-        data = json.load(f)
-
-    if "characters" not in data:
-        raise ValueError("characters.json에 'characters' 키가 없습니다.")
-
-    result = {}
-    for internal_key, aliases in data["characters"].items():
-        if not isinstance(aliases, list) or len(aliases) < 2:
-            raise ValueError(f"형식 이상: {internal_key} -> {aliases}")
-
-        # 예: "raiden": ["raiden", "Raiden Shogun"]
-        official_name = aliases[1].strip()
-        result[norm(internal_key)] = official_name
-
-    return result
+    return str(s).strip().lower()
 
 
 def name_to_slug(name: str) -> str:
@@ -81,9 +51,6 @@ def name_to_slug(name: str) -> str:
     return slug
 
 
-# -------------------------
-# 크롤링
-# -------------------------
 def fetch_legal_actions(slug: str) -> dict:
     url = urljoin(BASE, f"{slug}/")
     res = requests.get(url, headers=HEADERS, timeout=20)
@@ -105,8 +72,8 @@ def fetch_legal_actions(slug: str) -> dict:
         raise Exception("Legal Actions 테이블 없음")
 
     rows = table.find_all("tr")
-
     result = {}
+
     for tr in rows[1:]:
         cols = [td.get_text(" ", strip=True) for td in tr.find_all(["td", "th"])]
         if len(cols) < 3:
@@ -122,15 +89,24 @@ def fetch_legal_actions(slug: str) -> dict:
         }
 
     if not result:
-        raise Exception("행동 데이터가 비어 있음")
+        raise Exception("행동 데이터 비어있음")
 
     return result
 
 
-# -------------------------
-# 실행 함수
-# -------------------------
-def build_legal_actions(progress_callback=None, log_callback=None):
+def save_failed_csv(failed_rows: list[dict]):
+    FAILED_ACTIONS_CSV.parent.mkdir(parents=True, exist_ok=True)
+
+    with open(FAILED_ACTIONS_CSV, "w", encoding="utf-8-sig", newline="") as f:
+        writer = csv.DictWriter(
+            f,
+            fieldnames=["character", "official_name", "slug", "error"]
+        )
+        writer.writeheader()
+        writer.writerows(failed_rows)
+
+
+def build_legal_actions(app_state, progress_callback=None, log_callback=None):
     def log(message: str):
         if log_callback:
             log_callback(message)
@@ -141,60 +117,67 @@ def build_legal_actions(progress_callback=None, log_callback=None):
         if progress_callback:
             progress_callback(value)
 
-    char_map = load_characters_map(CHARACTERS_JSON)
+    characters = getattr(app_state, "characters", None)
+    if not isinstance(characters, dict) or not characters:
+        raise ValueError("app_state.characters 비어있음")
 
     all_data = {}
-    failed = {}
+    failed_rows = []
 
-    items = list(char_map.items())
+    items = list(characters.items())
     total = len(items)
 
-    for i, (internal_key, official_name) in enumerate(items, start=1):
-        slug = name_to_slug(official_name)
-        log(f"[{i}/{total}] {internal_key} -> {official_name} -> {slug}")
+    for idx, (char_key_raw, aliases) in enumerate(items, start=1):
+        char_key = norm(char_key_raw)
 
         try:
-            data = fetch_legal_actions(slug)
-            all_data[internal_key] = data
-            log("  ✅ OK")
-        except Exception as e:
-            failed[internal_key] = {
-                "official_name": official_name,
-                "slug": slug,
-                "error": str(e),
-            }
-            log(f"  ❌ FAIL: {e}")
+            official_name = None
 
-        set_progress((i / total) * 100.0)
-        time.sleep(0.2)
+            if isinstance(aliases, list) and len(aliases) >= 2:
+                official_name = str(aliases[1]).strip()
+            elif isinstance(aliases, str):
+                official_name = aliases.strip()
+            else:
+                official_name = char_key_raw
+
+            slug = name_to_slug(official_name)
+
+            log(f"[prepare] ({idx}/{total}) {char_key} → {slug}")
+
+            data = fetch_legal_actions(slug)
+            all_data[char_key] = data
+
+            log(f"[prepare][성공] {char_key}")
+
+        except Exception as e:
+            failed_rows.append({
+                "character": char_key,
+                "official_name": official_name if 'official_name' in locals() else "",
+                "slug": slug if 'slug' in locals() else "",
+                "error": str(e),
+            })
+            log(f"[prepare][실패] {char_key} → {e}")
+
+        set_progress((idx / total) * 100)
+        time.sleep(0.15)
 
     LEGAL_ACTIONS_JSON.parent.mkdir(parents=True, exist_ok=True)
-    FAILED_JSON.parent.mkdir(parents=True, exist_ok=True)
 
     with open(LEGAL_ACTIONS_JSON, "w", encoding="utf-8") as f:
         json.dump(all_data, f, ensure_ascii=False, indent=2)
 
-    if failed:
-        with open(FAILED_JSON, "w", encoding="utf-8") as f:
-            json.dump(failed, f, ensure_ascii=False, indent=2)
+    if failed_rows:
+        save_failed_csv(failed_rows)
 
-    log("")
-    log("[legal_actions] 완료")
-    log(f"성공: {len(all_data)}")
-    log(f"실패: {len(failed)}")
-    log(f"출력 파일: {LEGAL_ACTIONS_JSON}")
-    if failed:
-        log(f"실패 파일: {FAILED_JSON}")
-
-    return {
-        "all_data": all_data,
-        "failed": failed,
+    result = {
+        "success_count": len(all_data),
+        "failed_count": len(failed_rows),
+        "json_path": LEGAL_ACTIONS_JSON,
+        "csv_path": FAILED_ACTIONS_CSV if failed_rows else "",
     }
 
+    log(f"[prepare] JSON 저장 완료: {LEGAL_ACTIONS_JSON}")
+    if failed_rows:
+        log(f"[prepare] CSV 저장 완료: {FAILED_ACTIONS_CSV}")
 
-def main():
-    build_legal_actions()
-
-
-if __name__ == "__main__":
-    main()
+    return result

@@ -1,0 +1,137 @@
+“Hanamizaka Heroics”
+Arataki Itto
+was first released back in
+Genshin Impact
+version 2.3. He was the first
+5* Geo DPS
+and remains so to this day. He is a rather unique character since he does not rely on any kind of reaction to do DMG, opting to use brute force instead. Arataki Itto is the first proper DPS from the Geo element, which always played an inert supportive role. His most popular and optimal team is the
+Mono Geo team
+, but he could also be used in other teams. In this guide, we will discuss the best team compositions for Arataki Itto in Genshin Impact.
+Table Of Contents
+1. Mono Geo
+2. Other Teams
+Best Team Compositions of Arataki Itto in Genshin Impact
+1. Mono Geo
+Mono Geo is Itto’s best team. Itto mainly scales off DEF, and Gorou provides a DEF buff to all party members. Having a third Geo character enables Gorou to buff Geo DMG as well. Albedo provides off-field AOE Geo DMG, which benefits from Gorou’s
+DEF buff and Geo DMG bonus
+.
+Arataki Itto (Image via HoYoverse)
+Zhongli provides Geo resistance shred. Being protected by Zhongli’s shield enables the team to benefit from the
+Geo Resonance
+, which also provides Geo resistance shred and a general DMG bonus. With Zhongli’s shield, it is very difficult to take DMG, regardless, C4 Gorou is capable of providing healing. All of these factors combined to make this the best team for Itto.
+Itto
+Gorou
+Albedo
+Zhongli
+Main DPS
+DEF buff/healer
+Off-field sub-DPS
+shield/Geo DMG buff
+Different variations of the ideal Mono Geo team also function as one of his best teams, but none of them perform as great. Using
+Ningguang
+instead of Albedo will lose out on the additional instances of off-field AOE Geo DMG, but the character passing through the
+Jade Screen
+will gain a Geo DMG bonus. Ningguang also serves as a quick-swap burst DPS. Equipping her with a
+Prototype Amber
+will also enable her to provide some healing.
+Itto
+Gorou
+Ningguang
+Zhongli
+Main DPS
+DEF buff/healer
+Geo DMG buff/burst DPS
+Shield/Geo DMG buff
+Using Ningguang instead of Zhongli will lose out on the elemental resistance shred from Zhongli. However, picking up
+Crystalize shards
+will still grant the Geo resistance shred and the general DMG bonus from the Geo Resonance. Albedo still provides a pretty decent amount of
+off-field AOE Geo DMG
+. Ningguang serves the same purpose as discussed above.
+Itto
+Gorou
+Albedo
+Ningguang
+Main DPS
+DEF buff/healer
+Off-field sub-DPS
+Geo DMG buff/burst DPS
+This is a rather free-to-play-oriented team. Everyone has a C6 Geo Traveller. Geo Traveller provides a crit rate buff at C1 and restores energy at C4. Both of those massively help out Itto as the main hyper carry.
+Itto
+Gorou
+Ningguang
+Geo Traveller
+Main DPS
+DEF buff/healer
+Geo DMG buff/burst DPS
+Crit rate buff/energy restoration
+2. Other Teams
+Itto is not locked to Mono Geo team comps. He can still be used in conjunction with characters from other elements. Ideally, to maintain all of the buffs from Gorou it is advisable to have a third Geo character.
+Using Bennett in an Itto team is not a bad idea. While Itto benefits from having a lot of DEF, his DMG does not scale off DEF. His DMG scales off ATK. He converts DEF to ATK during burst mode, which enables him to do great DMG.
+Image via HoYoverse
+Bennett primarily buffs ATK, and since Itto’s DMG ultimately scales off ATK, he will benefit from this buff. Bennett’s healing is also one of the best, so the lack of a shielder will not be felt that much.
+Itto
+Gorou
+Bennett
+Geo Traveller
+Main DPS
+DEF buff/healer
+ATK buff/healer
+Crit rate buff/energy restoration
+Itto
+Gorou
+Bennett
+Ningguang
+Main DPS
+DEF buff/healer
+ATK buff/healer/Pyro battery
+Geo DMG buff/burst DPS
+This is a rather unlikely team comp. Here Bennett also acts as a battery to
+Xiangling
+, who acts as an off-field sub-DPS while Itto is still the
+on-field hyper carry
+. This team benefits from the ATK-boosting Pyro resonance too, while losing out on Gorou’s
+Geo DMG buff
+.
+Itto
+Gorou
+Bennett
+Xiangling
+Main DPS
+DEF buff/healer
+ATK buff/healer/Pyro battery
+sub-DPS
+Another free-to-play-oriented team. This one contains a healer slot for facing off corrosion floors in the Spiral Abyss.
+Itto
+Gorou
+Barbara
+/
+Kuki
+/
+Kokomi
+Ningguang
+Main DPS
+DEF buff/healer
+Healer
+Geo DMG buff/burst DPS
+Final Thoughts
+Arataki Itto is not the most complex character to play, and his simplicity is his greatest strength. Players do not need to memorize complicated rotations to get the most out of them. It is pretty easy to build him as well as play him. Being a one-of-a-kind Geo DPS means there is no one else competing for the same spot as him. He is very fun to play and players will enjoy playing him in the team comps suggested above.
+Read about our other Genshin Impact articles
+What are your thoughts about our guide on Best Team Compositions of Arataki Itto in Genshin Impact? Let us know in the comments below!
+For more Mobile Gaming news and updates, join our
+WhatsApp group
+,
+Telegram Group
+,
+or
+Discord server
+. Also, follow us on
+Google News
+,
+Instagram
+, and
+Twitter
+for quick updates.
+Tags
+Gacha Games
+Genshin Impact
+HoYoverse

@@ -2,14 +2,12 @@ import importlib
 import os
 import queue
 import threading
-
 from tkinter import messagebox
 
 from config.config import BASE_DIR, DATA_DIR, OUTPUT_DIR, GCSIM_EXE
 
 
 class MainController:
-    # 버튼 누르면 단계마다 보일 진행바 개수
     STAGE_BAR_COUNTS = {
         0: 2,  # 1 돌림
         1: 1,  # 2 활성화
@@ -17,7 +15,6 @@ class MainController:
         3: 3,  # 3 활성화
     }
 
-    # 단계별 진행바 텍스트
     STAGE_PROGRESS_LABELS = {
         0: ["1단계 진행도 A", "1단계 진행도 B", ""],
         1: ["2단계 진행도", "", ""],
@@ -25,7 +22,6 @@ class MainController:
         3: ["4단계 진행도 A", "4단계 진행도 B", "4단계 진행도 C"],
     }
 
-    # 실제 실행 모듈 경로
     STAGE_MODULES = {
         0: "collect.run_collect",
         1: "preprocess.run_prepare",
@@ -36,11 +32,14 @@ class MainController:
     def __init__(self, ui, app_state):
         self.ui = ui
         self.app_state = app_state
+        self.app_state.ui = ui
+        self.ui.app_state = app_state
 
         self.log_queue = queue.Queue()
         self.current_worker = None
         self.stop_requested = False
         self.completed_stages = [False, False, False, False]
+        self.current_stage_index = None
 
     def log(self, message: str):
         self.log_queue.put(message)
@@ -49,18 +48,12 @@ class MainController:
         s = self.app_state
 
         stage1_enabled = (
-            bool(s.weapons)
-            and bool(s.sets)
-            and bool(s.characters)
+            bool(s.weapons) and bool(s.sets) and bool(s.characters)
         )
-
         stage2_enabled = bool(s.characters)
-
         stage3_enabled = (
-            bool(s.teams)
-            and bool(s.gear)
+            bool(s.teams) and bool(s.gear)
         )
-
         stage4_enabled = (
             bool(s.gcsim_legal_actions_all)
             and bool(s.gcsim_legal_actions_parser)
@@ -109,6 +102,10 @@ class MainController:
             messagebox.showwarning("실행 중", "이미 작업이 실행 중입니다.")
             return
 
+        self.current_stage_index = None
+        self.app_state.ui = self.ui
+        self.ui.app_state = self.app_state
+
         self.ui.show_progress_bars(1)
         self.ui.set_progress(0, 0)
         self.ui.set_progress(1, 0)
@@ -134,15 +131,15 @@ class MainController:
             messagebox.showwarning("실행 중", "초기화 불가")
             return
 
+        self.current_stage_index = None
+
         self.ui.show_progress_bars(1)
         self.ui.set_progress(0, 0)
         self.ui.set_progress(1, 0)
         self.ui.set_progress(2, 0)
-
         self.ui.set_progress_text(0, "기본 진행도")
         self.ui.set_progress_text(1, "")
         self.ui.set_progress_text(2, "")
-
         self.ui.set_status("대기 중")
 
         self.completed_stages = [False, False, False, False]
@@ -164,15 +161,17 @@ class MainController:
     def reload_data(self):
         try:
             from shared.data_loader import load_all
-
             self.app_state = load_all()
+            self.app_state.ui = self.ui
+            self.ui.app_state = self.app_state
+
             self.log("[데이터] 재로드 완료")
 
             enabled_states = self.get_stage_enabled_states()
             running = self.current_worker is not None and self.current_worker.is_alive()
             self.ui.refresh_stage_buttons(running, enabled_states)
-
             messagebox.showinfo("완료", "데이터 재로드 완료")
+
         except Exception as e:
             error_text = str(e)
             self.log(f"[오류] {error_text}")
@@ -202,6 +201,8 @@ class MainController:
         os.startfile(OUTPUT_DIR)
 
     def _prepare_stage_ui(self, idx: int):
+        self.current_stage_index = idx
+
         bar_count = self.STAGE_BAR_COUNTS.get(idx, 1)
         labels = self.STAGE_PROGRESS_LABELS.get(idx, ["", "", ""])
 
@@ -237,8 +238,10 @@ class MainController:
 
     def _run_single_stage(self, idx):
         title = self.ui.stage_titles[idx]
-
         self._prepare_stage_ui(idx)
+
+        self.app_state.ui = self.ui
+        self.ui.app_state = self.app_state
 
         self.ui.set_status(f"{title} 실행 중")
         self.log("=" * 40)
@@ -250,20 +253,22 @@ class MainController:
             try:
                 from shared.data_loader import load_all
                 self.app_state = load_all()
+                self.app_state.ui = self.ui
+                self.ui.app_state = self.app_state
             except Exception as e:
                 self.log(f"[경고] 데이터 재로드 실패: {e}")
 
-            self.completed_stages[idx] = True
+        self.completed_stages[idx] = True
 
-            visible_count = self.STAGE_BAR_COUNTS.get(idx, 1)
-            for i in range(visible_count):
-                self.ui.set_progress(i, 100)
+        visible_count = self.STAGE_BAR_COUNTS.get(idx, 1)
+        for i in range(visible_count):
+            self.ui.set_progress(i, 100)
 
-            self.ui.set_status(f"{title} 완료")
-            self.log(f"[완료] {title}")
+        self.ui.set_status(f"{title} 완료")
+        self.log(f"[완료] {title}")
 
-            enabled_states = self.get_stage_enabled_states()
-            self.ui.refresh_stage_buttons(False, enabled_states)
+        enabled_states = self.get_stage_enabled_states()
+        self.ui.refresh_stage_buttons(False, enabled_states)
 
     def _run_full_pipeline(self):
         self.log("=" * 40)
@@ -294,9 +299,11 @@ class MainController:
                 continue
 
             self._run_single_stage(i)
-            completed += 1
 
+            completed += 1
             percent = (completed / runnable) * 100
+
+            self.current_stage_index = None
             self.ui.show_progress_bars(1)
             self.ui.set_progress(0, percent)
             self.ui.set_progress_text(0, f"전체 진행도: {completed} / {runnable}")
@@ -307,15 +314,18 @@ class MainController:
     def _set_progress(self, val):
         self.ui.set_progress(0, val)
 
-        current_text = self.ui.progress_text_vars[0].get()
-        if current_text:
-            if ":" in current_text:
-                label = current_text.split(":")[0]
-                self.ui.set_progress_text(0, f"{label}: {int(val)}%")
-            else:
-                self.ui.set_progress_text(0, f"{current_text} {int(val)}%")
+        if self.current_stage_index is not None:
+            base_text = self.STAGE_PROGRESS_LABELS.get(
+                self.current_stage_index, ["진행도", "", ""]
+            )[0] or "진행도"
         else:
-            self.ui.set_progress_text(0, f"진행도: {int(val)}%")
+            current_text = self.ui.progress_text_vars[0].get()
+            if ":" in current_text:
+                base_text = current_text.split(":")[0]
+            else:
+                base_text = current_text or "진행도"
+
+        self.ui.set_progress_text(0, f"{base_text}: {int(val)}%")
 
     def _run_stage(self, idx: int):
         module_name = self.STAGE_MODULES[idx]

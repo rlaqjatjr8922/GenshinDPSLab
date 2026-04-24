@@ -1,0 +1,433 @@
+Genshin Impact Shikanoin Heizou Best Team Guide
+Last updated April 23, 2026. Looking for the best Shikanoin Heizou teams in
+        Genshin Impact? Start with the top team summary below, then pick the
+        lineup that fits your roster.
+This page provides the best Shikanoin Heizou team information. Shikanoin Heizou will be Support in most of the situation. Top teams include Vaporize or Electro-Charged compositions, and team positions can be adjusted based on your roster.
+View Shikanoin Heizou's character page
+Shikanoin Heizou Team Summary
+#1
+Team Rating:SS
+Shikanoin Heizou Anemo Hypercarry Team
+C6
+#2
+Team Rating:S
+Shikanoin Heizou Vaporize S-Tier Team
+#3
+Team Rating:S
+Shikanoin Heizou Vaporize Team
+#4
+Team Rating:S
+Shikanoin Heizou Electro-Charged S Tier
+#5
+Team Rating:A
+Heizou Electro-Charged with Fischl, Beidou & Xingqiu
+#1 Shikanoin Heizou Anemo Hypercarry Team
+Tier SS
+Shikanoin Heizou is the Main DPS, maximizing his damage with
+Faruzan
+,
+Yelan
+, and
+Bennett
+support. Strong buff stacking, off-field Hydro damage, and excellent healing make this a top-tier Heizou team.
+Shikanoin Heizou
+Main DPS
+Anemo
+Main DPS of the team. Uses
+Desert Pavilion Chronicle(4)
+for Anemo DMG and strong on-field damage. Benefits greatly from Faruzan's Anemo RES shred and Bennett's ATK buff, while Yelan adds off-field Hydro damage.
+Artifacts
+Desert Pavilion Chronicle
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge / ATK%
+Weapons
+Kagura's Verity
+Solar Pearl
+Faruzan
+Support
+Anemo
+Constellation 6+
+Provides Anemo RES decrease and DMG Bonus through Elemental Burst. At
+C6
+, also grants additional CRIT DMG Bonus to Shikanoin Heizou. Uses
+Tenacity of the Millelith(4)
+and Favonius Warbow for team support and energy generation.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / Energy Recharge / ATK%
+Weapons
+Favonius Warbow
+Yelan
+Sub DPS
+Hydro
+Off-field Hydro Sub DPS that provides continuous Hydro application and strong personal damage. Built with
+Emblem of Severed Fate(4)
+and high Energy Recharge to maintain Burst uptime.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+HP%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG / CRIT Rate
+Substats
+HP% / CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Aqua Simulacra
+Favonius Warbow
+Bennett
+Support
+Pyro
+Healer and buffer.
+Noblesse Oblige(4)
+boosts team damage, while his Elemental Burst provides a large ATK buff and consistent healing.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+Energy Recharge
+Goblet
+HP%
+Circlet
+HP%
+Substats
+Energy Recharge / HP% / HP%
+Weapons
+Sapwood Blade
+#2 Shikanoin Heizou Vaporize S-Tier Team
+Tier S
+Shikanoin Heizou is the Main DPS in the team. The DMG of whole team is maximized by Vaporization.
+Shikanoin Heizou
+Main DPS
+Anemo
+Shikanoin Heizou is a Main DPS in the team. Shikanoin Heizou increases the Elemental Mastery of teammates, spread elemental attachment. By using Viridescent Venerer set, he can reduce the enemy’s elemental RES.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge / ATK
+Weapons
+Kagura's Verity
+Solar Pearl
+Xingqiu
+Sub DPS
+Hydro
+Xingqiu is the Sub DPS, his DMG is amplified by the Vaporization in this team.
+Artifacts
+Noblesse Oblige
+Heart of Depth
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Sacrificial Sword
+Xiangling
+Sub DPS
+Pyro
+Xiangling’s Elemental Burst provides huge amount of DMG and continuous Pyro element attachment for Xingqiu to trigger Vaporization.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+ATK% / Energy Recharge
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Engulfing Lightning
+"The Catch"
+Bennett
+Support
+Pyro
+Bennett’s Elemental Burst provides huge ATK buff and healing to other members.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+#3 Shikanoin Heizou Vaporize Team
+Tier S
+Shikanoin Heizou is the
+Main DPS
+of the team. The team's damage is maximized through consistent Vaporize reactions and strong off-field support.
+Heizou also benefits from
+Viridescent Venerer
+RES shred to amplify overall team damage.
+Shikanoin Heizou
+Main DPS
+Anemo
+On-field driver and main damage dealer. Uses
+Viridescent Venerer
+to shred enemy Elemental RES and maximize reaction-based team damage.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge / ATK%
+Weapons
+Kagura's Verity
+Solar Pearl
+Yelan
+Sub DPS
+Hydro
+Provides continuous off-field Hydro application and strong personal damage. Her Burst also boosts Heizou's damage through her passive.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+HP%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+HP% / CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Aqua Simulacra
+The Stringless
+Xiangling
+Sub DPS
+Pyro
+High Burst damage and continuous Pyro application to enable frequent Vaporize reactions.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+ATK% / Energy Recharge
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Engulfing Lightning
+"The Catch"
+Bennett
+Support
+Pyro
+Provides a huge ATK buff and healing with his Elemental Burst.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+#4 Shikanoin Heizou Electro-Charged S Tier
+Tier S
+Shikanoin Heizou leads an Electro-Charged team, using Swirl to spread Hydro and Electro while reducing enemy Elemental RES with
+Viridescent Venerer
+. Xingqiu and Fischl provide consistent off-field Hydro/Electro application, while Kokomi offers healing, Hydro uptime, and Tenacity support.
+Shikanoin Heizou
+Main DPS
+Anemo
+Main DPS and on-field driver. Uses Normal Attacks and Swirls to trigger and spread Electro-Charged reactions, while shredding enemy resistance with
+Viridescent Venerer(4)
+.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+Energy Recharge / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Lost Prayer to the Sacred Winds
+Solar Pearl
+Xingqiu
+Sub DPS
+Hydro
+Off-field Hydro Sub DPS whose Burst adds steady Hydro application, greatly boosting Electro-Charged damage. Best with a balanced Crit/ER build.
+Artifacts
+Noblesse Oblige
+Heart of Depth
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Sacrificial Sword
+Fischl
+Sub DPS
+Electro
+Off-field Electro Sub DPS. Oz provides continuous Electro application from the backline, helping sustain Electro-Charged reactions.
+Artifacts
+Thundering Fury
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery / Electro DMG
+Circlet
+Elemental Mastery
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Skyward Harp
+The Stringless
+Sangonomiya Kokomi
+Support
+Hydro
+Support/Healer providing team sustain and regular Hydro application.
+Tenacity of the Millelith(4)
+helps buff the team while her Skill keeps Hydro applied off-field.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+Hydro DMG
+Circlet
+Healing Bonus
+Substats
+HP% / Energy Recharge / HP% / ATK% / Elemental Mastery
+Weapons
+Everlasting Moonglow
+Thrilling Tales of Dragon Slayers
+#5 Heizou Electro-Charged with Fischl, Beidou & Xingqiu
+Tier A
+Shikanoin Heizou is the Main DPS and drives the team’s Electro-Charged reactions by swirling Electro and Hydro elements from teammates.
+Heizou also benefits from Viridescent Venerer to shred enemy elemental RES, improving overall reaction damage.
+Shikanoin Heizou
+Main DPS
+Anemo
+On-field driver and team’s main damage dealer. Builds Anemo damage while enabling Electro-Charged through consistent Swirl application.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge / ATK%
+Weapons
+Kagura's Verity
+Solar Pearl
+Fischl
+Sub DPS
+Electro
+Oz provides persistent off-field Electro application, enabling frequent Electro-Charged procs alongside Xingqiu.
+Artifacts
+Thundering Fury
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery / Electro DMG
+Circlet
+Elemental Mastery
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Skyward Harp
+The Stringless
+Beidou
+Sub DPS
+Electro
+Burst provides strong off-field Electro damage and additional Electro application for Electro-Charged reactions.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Skyward Pride
+Serpent Spine
+Xingqiu
+Sub DPS
+Hydro
+Burst applies Hydro continuously, allowing Beidou and Fischl to trigger Electro-Charged consistently.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Sacrificial Sword
+Shikanoin Heizou Teams FAQ
+What is the best Shikanoin Heizou team in Genshin Impact?
+Shikanoin Heizou Anemo Hypercarry Team is one of the strongest Shikanoin Heizou teams right now. Use the team summary and build cards on this page to pick the best version for your account.
+What are good Shikanoin Heizou teams without premium weapons?
+You can run strong Shikanoin Heizou teams without signature weapons by prioritizing reaction synergy, energy consistency, and artifact main stats shown in each build card.
+Which teammates are best with Shikanoin Heizou?
+Common high-performing partners include teams such as Shikanoin Heizou Anemo Hypercarry Team, Shikanoin Heizou Vaporize S-Tier Team, Shikanoin Heizou Vaporize Team. Check each lineup section for role breakdowns and gear priorities.

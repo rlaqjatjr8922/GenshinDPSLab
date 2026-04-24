@@ -1,0 +1,185 @@
+Genshin Impact Barbara Build
+Hydro
+Catalyst
+Support
+Barbara Upgrade Materials
+Freedom
+Ring of Boreas
+Varunada Lazurite Sliver
+Cleansing Heart
+Philanemo Mushroom
+Divining Scroll
+Barbara Best Weapons
+1
+Thrilling Tales of Dragon Slayers
+2
+Everlasting Moonglow
+3
+Prototype Amber
+4
+Favonius Codex
+5
+Wine and Song
+Barbara Best Artifacts
+1
+Maiden Beloved
+4
+2
+Maiden Beloved
+2
+Tenacity of the Millelith
+2
+3
+Maiden Beloved
+2
+Ocean-Hued Clam
+2
+4
+Ocean-Hued Clam
+2
+Tenacity of the Millelith
+2
+5
+Instructor
+4
+Barbara Best Stats
+Sands:
+HP%
+Goblet:
+HP%
+Circlet:
+Healing Bonus
+Substats:
+HP% > HP > Energy Recharge
+Character Builds by Genshin Impact Helper →
+Teams
+Talents
+Passives
+Constellations
+Ascension
+Best Barbara Teams
+Nilou Bloom
+Ayaka Freeze
+Barbara Electro-Charged
+Barbara Talents
+Normal Attack
+Whisper of Water
+Normal Attack Perform up to 4 water splashes attacks that deal
+Hydro
+DMG. Charged Attack Consumes a certain amount of Stamina to deal AoE
+Hydro
+DMG after a short casting time. Plunging Attack Gathering the might of Hydro, Barbara plunges towards the ground from mid-air, damaging all enemies in her path. Deals AoE
+Hydro
+DMG upon impact with the ground.
+Elemental Skill
+Let the Show Begin
+Summons water droplets resembling musical notes that form a Melody Loop, dealing
+Hydro
+DMG to surrounding enemies and afflicting them with the Wet status. Melody Loop Barbara's Normal Attacks heal all party members and nearby allied characters for a certain amount of HP, which scales with Barbara's Max HP. Her Charged Attack generates 4 times the amount of healing. Regenerates a certain amount of the current character's HP at regular intervals. Applies the Wet status to the character and enemies who come in contact with them.
+Elemental Burst
+Shining Miracle
+Heals friendly forces and all parties for a large amount of HP that scales with Barbara's Max HP.
+Barbara Passives
+Ascension 1
+Glorious Season
+The Stamina Consumption of characters within Let the Show Begin's Melody Loop is reduced by 12%.
+Ascension 4
+Encore
+When a character gains an Elemental Orb/Particle, the duration of Let the Show Begin's Melody Loop is extended by 1s. The maximum extension is 5s.
+Passive
+With My Whole Heart
+When a Perfect Cooking is achieved on a dish with restorative effects, there is a 12% chance to obtain double the product.
+Barbara Constellations
+Constellation 1
+Gleeful Songs
+Barbara regenerates 1 Energy every 10s.
+Constellation 2
+Vitality Burst
+Decreases the CD of Let the Show Begin by 15%. During the ability's duration, the current character gains 15%
+Hydro
+DMG Bonus.
+Constellation 3
+Star of Tomorrow
+Increases the Level of Shining Miracle by 3. Maximum upgrade level is 15.
+Constellation 4
+Attentiveness be My Power
+Every enemy hit by Barbara's Charged Attack regenerates 1 Energy for her. A maximum of 5 energy can be regenerated in this manner with any one Charged Attack.
+Constellation 5
+The Purest Companionship
+Increase the Level of Let the Show Begin by 3. Maximum upgrade level is 15.
+Constellation 6
+Dedicating Everything to You
+When Barbara is not on the field, and the character in play falls: Automatically revives this character. Fully regenerates this characters HP by 100%. This effect can only occur once every 15 mins.
+Barbara Ascension Costs
+Rank
+Lvl
+Cost
+Material
+Material
+Material
+Material
+1
+20
+20000
+1
+Varunada Lazurite Sliver
+3
+Philanemo Mushroom
+3
+Divining Scroll
+2
+40
+40000
+3
+Varunada Lazurite Fragment
+2
+Cleansing Heart
+10
+Philanemo Mushroom
+15
+Divining Scroll
+3
+50
+60000
+6
+Varunada Lazurite Fragment
+4
+Cleansing Heart
+20
+Philanemo Mushroom
+12
+Sealed Scroll
+4
+60
+80000
+3
+Varunada Lazurite Chunk
+8
+Cleansing Heart
+30
+Philanemo Mushroom
+18
+Sealed Scroll
+5
+70
+100000
+6
+Varunada Lazurite Chunk
+12
+Cleansing Heart
+45
+Philanemo Mushroom
+12
+Forbidden Curse Scroll
+6
+80
+120000
+6
+Varunada Lazurite Gemstone
+20
+Cleansing Heart
+60
+Philanemo Mushroom
+24
+Forbidden Curse Scroll
+Loading...

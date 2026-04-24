@@ -1,0 +1,697 @@
+Genshin Impact Arataki Itto Best Team Guide
+Last updated April 23, 2026. Looking for the best Arataki Itto teams in
+        Genshin Impact? Start with the top team summary below, then pick the
+        lineup that fits your roster.
+This page provides the best team info for Arataki Itto, primarily a main Geo DPS. Top teams include Geo-focused compositions with DEF bonus support. Flexibility allows swapping with Sub DPS like Noelle during downtime.
+View Arataki Itto's character page
+Arataki Itto Team Summary
+#1
+Team Rating:SS
+Itto Pure Geo Team #1
+#2
+Team Rating:SS
+Itto Pure Geo Double DPS SS Tier
+#3
+Team Rating:SS
+Itto Geo #3 - Chiori & Gorou SS Tier Geo Team
+C6
+#4
+Team Rating:SS
+Itto Geo Mono-Geo Burst Support Team
+#5
+Team Rating:SS
+Itto Geo Team #2 SS Tier
+#6
+Team Rating:A
+Itto Geo Electro Overload Team
+#7
+Team Rating:A
+Itto Geo Pyro Team
+#8
+Team Rating:SS
+Arataki Itto Crystallize Hypercarry with Navia & Furina
+#1 Itto Pure Geo Team #1
+Tier SS
+Arataki Itto is the Main DPS, with
+Gorou
+boosting Itto and Albedo's damage through Geo DMG Bonus and DEF buffs.
+A classic pure Geo lineup with strong shielding, consistent Geo damage, and excellent team stability.
+Arataki Itto
+Main DPS
+Geo
+Main on-field DPS. Uses continuous Charged Attacks –
+Arataki Kesagiri
+to deal most of the team's damage.
+Artifacts
+Husk of Opulent Dreams
+Main Stats
+Sands
+DEF%
+Goblet
+Geo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / DEF% / ATK% / Energy Recharge
+Weapons
+Redhorn Stonethresher
+Whiteblind
+Albedo
+Sub DPS
+Geo
+Off-field Geo Sub DPS. His Elemental Burst and skill damage are boosted by Geo DMG Bonus and DEF Bonus from Gorou, especially at C2.
+Artifacts
+Husk of Opulent Dreams
+Main Stats
+Sands
+DEF%
+Goblet
+Geo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Cinnabar Spindle
+Harbinger of Dawn
+Gorou
+Support
+Geo
+Geo support that buffs Itto and Albedo with DEF Bonus and Geo DMG Bonus, especially valuable at C6. Uses Favonius Warbow for energy generation.
+Artifacts
+Archaic Petra
+Husk of Opulent Dreams
+Main Stats
+Sands
+DEF%
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+DEF% / DEF / Energy Recharge / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Favonius Warbow
+Zhongli
+Support
+Geo
+Provides a very strong shield and increases team ATK with
+Tenacity of the Millelith
+.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP / Energy Recharge
+Weapons
+Staff of Homa
+Black Tassel
+#2 Itto Pure Geo Double DPS SS Tier
+Tier SS
+Arataki Itto
+is the main DPS, with
+Noelle
+as a burst-reliant backup DPS when Itto’s Elemental Burst is on cooldown.
+Gorou
+massively boosts the team’s Geo DMG and DEF scaling, especially at C6.
+Zhongli
+provides an extremely strong shield and team ATK buff through Tenacity of the Millelith.
+Arataki Itto
+Main DPS
+Geo
+Main on-field DPS. Focuses on continuous Charged Attacks with
+Arataki Kesagiri
+after casting Elemental Burst. Swapped out when Burst is on cooldown.
+Artifacts
+Husk of Opulent Dreams
+Main Stats
+Sands
+DEF%
+Goblet
+Geo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / DEF% / ATK% / Energy Recharge
+Weapons
+Redhorn Stonethresher
+Whiteblind
+Noelle
+Sub DPS
+Geo
+Backup DPS used when Itto’s Elemental Burst is on cooldown. Benefits from Gorou’s DEF and Geo DMG buffs, and can also deal strong burst damage on-field.
+Artifacts
+Husk of Opulent Dreams
+Main Stats
+Sands
+ATK% / DEF%
+Goblet
+Geo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Redhorn Stonethresher
+Whiteblind
+Gorou
+Support
+Geo
+Geo support that boosts
+Itto
+and
+Noelle
+with DEF Bonus and Geo DMG Bonus, especially valuable at C6.
+Artifacts
+Archaic Petra
+Husk of Opulent Dreams
+Main Stats
+Sands
+DEF%
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+DEF% / DEF% / Energy Recharge / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Favonius Warbow
+Zhongli
+Support
+Geo
+Provides a very strong shield for the team and increases team ATK with
+Tenacity of the Millelith
+.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Staff of Homa
+Black Tassel
+#3 Itto Geo #3 - Chiori & Gorou SS Tier Geo Team
+Tier SS
+Arataki Itto
+is the Main DPS, while
+Chiori
+deals strong off-field Geo damage that is maximized by the team's buffs and Geo construct synergy.
+Zhongli
+provides shielding and a teamwide ATK buff via Tenacity of the Millelith, and
+Gorou (C6)
+boosts Geo DMG and DEF for the Geo core.
+Chiori
+Sub DPS
+Geo
+Chiori is the team's Geo damage dealer, with her Elemental Skill and Burst benefiting greatly from team ATK buffs and Zhongli's Geo construct interaction.
+Artifacts
+Husk of Opulent Dreams
+Main Stats
+Sands
+DEF%
+Goblet
+Geo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / DEF% / ATK%
+Weapons
+Uraku Misugiri
+Harbinger of Dawn
+Arataki Itto
+Main DPS
+Geo
+Itto is the main DPS, relying on continuous Charged Attacks through Arataki Kesagiri to deal sustained Geo damage.
+Artifacts
+Husk of Opulent Dreams
+Main Stats
+Sands
+DEF%
+Goblet
+Geo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / DEF% / ATK% / Energy Recharge
+Weapons
+Redhorn Stonethresher
+Whiteblind
+Zhongli
+Support
+Geo
+Zhongli provides a strong shield for team safety and increases team ATK with a full Tenacity of the Millelith set.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Staff of Homa
+Black Tassel
+Gorou
+Support
+Geo
+Constellation 6+
+Gorou supports the Geo core by providing Geo DMG Bonus and DEF Bonus, especially valuable at C6.
+Artifacts
+Archaic Petra
+Husk of Opulent Dreams
+Main Stats
+Sands
+DEF%
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+DEF% / DEF% / Energy Recharge / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Favonius Warbow
+#4 Itto Geo Mono-Geo Burst Support Team
+Tier SS
+Arataki Itto is the main carry, with
+Gorou
+massively boosting Geo DMG and DEF scaling while
+Mona
+adds Noblesse/TTDS buffing for Itto’s burst window.
+The team centers on Itto’s continuous Charged Attacks (Arataki Kesagiri) and is strongest when buffs are layered before swapping to him.
+Arataki Itto
+Main DPS
+Geo
+Main DPS. Itto deals most of the team’s damage through his continuous Charged Attacks during Burst. Prioritize DEF and CRIT stats.
+Artifacts
+Husk of Opulent Dreams
+Main Stats
+Sands
+DEF%
+Goblet
+Geo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / DEF% / ATK% / Energy Recharge
+Weapons
+Redhorn Stonethresher
+Whiteblind
+Albedo
+Sub DPS
+Geo
+Off-field Geo Sub DPS. His Skill provides consistent damage and benefits from DEF scaling; Gorou further improves his Geo output. Burst damage also scales well with Geo DMG and DEF bonuses.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+DEF%
+Goblet
+Geo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / DEF% / DEF / Energy Recharge
+Weapons
+Cinnabar Spindle
+Harbinger of Dawn
+Gorou
+Support
+Geo
+Geo buffer and team support. Gorou provides DEF Bonus and Geo DMG Bonus, especially valuable for Itto and Albedo; C6 greatly improves Geo CRIT value.
+Artifacts
+Husk of Opulent Dreams
+Main Stats
+Sands
+DEF%
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+DEF% / DEF / Energy Recharge / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Favonius Warbow
+Mona
+Support
+Hydro
+Buffer/support slot. Mona uses Skill and Burst to trigger Noblesse and Thrilling Tales buffs before swapping to Itto, amplifying his burst damage window.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Hydro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+Energy Recharge / CRIT Rate / CRIT DMG
+Weapons
+Thrilling Tales of Dragon Slayers
+#5 Itto Geo Team #2 SS Tier
+Tier SS
+Arataki Itto
+is the Main DPS.
+Gorou
+greatly boosts Itto and Albedo with Geo DMG Bonus and DEF Bonus.
+Jean
+provides healing and can help reduce enemy Elemental RES with Viridescent Venerer.
+Arataki Itto
+Main DPS
+Geo
+Main DPS of the team. Itto mainly uses his continuous Charge Attack –
+Arataki Kesagiri
+to deal DMG.
+Artifacts
+Husk of Opulent Dreams
+Main Stats
+Sands
+DEF%
+Goblet
+Geo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / DEF% / ATK% / Energy Recharge
+Weapons
+Redhorn Stonethresher
+Whiteblind
+Albedo
+Sub DPS
+Geo
+Off-field Geo damage dealer. Albedo's Elemental Burst DMG is maximized by Geo DMG Bonus and DEF Bonus (when C2) provided by Gorou.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+DEF%
+Goblet
+Geo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / DEF% / DEF / Energy Recharge
+Weapons
+Cinnabar Spindle
+Harbinger of Dawn
+Gorou
+Support
+Geo
+Geo support who boosts Itto and Albedo by providing Geo DMG Bonus, especially at C6, and DEF Bonus.
+Artifacts
+Archaic Petra
+Husk of Opulent Dreams
+Main Stats
+Sands
+DEF%
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+DEF% / DEF / Energy Recharge / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Favonius Warbow
+Jean
+Support
+Anemo
+Healer and utility support. Jean can assist the team by reducing enemy Elemental RES with Viridescent Venerer.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+#6 Itto Geo Electro Overload Team
+Tier A
+Arataki Itto
+is the on-field main DPS, while
+Beidou
+and
+Fischl
+provide off-field Electro damage.
+Jean
+offers healing and team utility, including resistance shred via
+Viridescent Venerer
+.
+Arataki Itto
+Main DPS
+Geo
+On-field Geo DPS. Uses continuous Charged Attacks (
+Arataki Kesagiri
+) to deal most of the team's damage.
+Artifacts
+Husk of Opulent Dreams
+Main Stats
+Sands
+DEF%
+Goblet
+Geo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / DEF% / ATK% / Energy Recharge
+Weapons
+Redhorn Stonethresher
+Whiteblind
+Beidou
+Sub DPS
+Electro
+Off-field Electro Sub DPS. Her Elemental Burst can deal Electro damage from the backline.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Skyward Pride
+Serpent Spine
+Fischl
+Sub DPS
+Electro
+Provides continuous off-field Electro damage through her Elemental Skill.
+Artifacts
+Thundering Fury
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Skyward Harp
+The Stringless
+Jean
+Support
+Anemo
+Healer and utility support. Can help reduce enemy Elemental Resistance with
+Viridescent Venerer
+.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+#7 Itto Geo Pyro Team
+Tier A
+Arataki Itto leads this Geo-Pyro hybrid team as the main on-field carry. Noelle can take over as a backup on-field DPS when Itto's Burst is on cooldown, while Xiangling provides strong off-field Pyro damage. Bennett supplies powerful healing and ATK buffs to support both Geo carries.
+Arataki Itto
+Main DPS
+Geo
+Main on-field DPS. Uses continuous Charged Attacks with
+Arataki Kesagiri
+during Elemental Burst to deal most of the team's damage. Swap to Noelle when Burst is on cooldown.
+Artifacts
+Husk of Opulent Dreams
+Main Stats
+Sands
+DEF%
+Goblet
+Geo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / DEF% / ATK% / Energy Recharge
+Weapons
+Redhorn Stonethresher
+Whiteblind
+Noelle
+Sub DPS
+Geo
+Backup on-field DPS. Swapped in when Itto's Elemental Burst is on cooldown. Can also provide some sustain if needed.
+Artifacts
+Husk of Opulent Dreams
+Main Stats
+Sands
+ATK% / DEF%
+Goblet
+Geo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Redhorn Stonethresher
+Whiteblind
+Xiangling
+Sub DPS
+Pyro
+Off-field Pyro damage dealer. Her Elemental Burst provides a large amount of damage from the backline.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+ATK% / Energy Recharge
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Engulfing Lightning
+"The Catch"
+Bennett
+Support
+Pyro
+Healer/support. Elemental Burst provides a huge ATK buff and healing to the team.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+#8 Arataki Itto Crystallize Hypercarry with Navia & Furina
+Tier SS
+Team concept:
+Itto drives the team as the main on-field damage dealer while Furina supplies off-field Hydro and a strong teamwide damage buff. Navia benefits from the Crystallize shards generated by the Hydro/Pyro/Geo setup and can burst down during Itto downtime. Bennett rounds out the team with healing and a massive ATK buff.
+Notes:
+The guide describes Itto as a Sub DPS, but his build and rotation notes clearly show him as the primary on-field carry in this composition.
+Arataki Itto
+Main DPS
+Geo
+Main on-field damage dealer using continuous Charged Attacks (Arataki Kesagiri).
+Artifacts
+Husk of Opulent Dreams
+Main Stats
+Sands
+DEF%
+Goblet
+Geo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / DEF% / ATK% / Energy Recharge
+Weapons
+Redhorn Stonethresher
+Whiteblind
+Furina
+Sub DPS
+Hydro
+Provides off-field Hydro application for Crystallize and a strong Burst-based team damage buff that scales with HP changes.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Fleuve Cendre Ferryman
+Navia
+Sub DPS
+Geo
+Consumes Crystallize shards to maximize Elemental Skill damage. Can be swapped in during Itto’s Burst downtime.
+Artifacts
+Nighttime Whispers in the Echoing Woods
+Main Stats
+Sands
+ATK%
+Goblet
+Geo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Verdict
+Serpent Spine
+Bennett
+Support
+Pyro
+Provides strong ATK buff and healing through Elemental Burst.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+Arataki Itto Teams FAQ
+What is the best Arataki Itto team in Genshin Impact?
+Itto Pure Geo Team #1 is one of the strongest Arataki Itto teams right now. Use the team summary and build cards on this page to pick the best version for your account.
+What are good Arataki Itto teams without premium weapons?
+You can run strong Arataki Itto teams without signature weapons by prioritizing reaction synergy, energy consistency, and artifact main stats shown in each build card.
+Which teammates are best with Arataki Itto?
+Common high-performing partners include teams such as Itto Pure Geo Team #1, Itto Pure Geo Double DPS SS Tier, Itto Geo #3 - Chiori & Gorou SS Tier Geo Team. Check each lineup section for role breakdowns and gear priorities.

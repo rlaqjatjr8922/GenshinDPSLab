@@ -1,0 +1,316 @@
+Story Highlights
+Flins delivers massive frontloaded burst damage while staying surprisingly free-to-play friendly.
+C1 alone pushes his performance close to premium setups, rivaling teams with Ineffa.
+Night’s Sky set and simple weapon choices make him efficient and easy to build.
+Flins
+is a 5-star
+Electro Polearm character
+in
+Genshin Impact
+that was released in
+Version 6.0
+, the second phase banner. Flins is our first
+Main DPS
+for
+Lunar-Charged
+reactions, pairing with other current and future
+Nod Krai
+characters in the game.
+In this Genshin Impact Flins guide, we talk about his kit, find out his best artifacts and build, and more.
+#GenshinImpact
+#Flins
+"Sir Flins lives in a lighthouse, far away from here. He's decisive in action and seems quite tactically adept… or so I hear? Sorry, I can't say for certain — I'm a new joiner and have never worked with him directly. Everything I've heard comes from the…
+pic.twitter.com/OaXOmXMjWP
+— Genshin Impact (@GenshinImpact)
+August 4, 2025
+Table Of Contents
+Genshin Impact Flins Guide: Kit Explained
+Genshin Impact Flins Build Guide: Constellations
+Genshin Impact Flins Guide: Best in-slot weapon
+Genshin Impact Flins Build Guide: Artifacts to use
+Best Team Comps for Flins in Genshin Impact
+Is Flins worth pulling in Genshin Impact
+Genshin Impact Flins
+Guide: Kit Explained
+Flins is an
+Electro damage dealer
+who mainly revolves around his
+skill and special burst
+. When you use his skill, he enters a stance where his normal attacks become
+Electro-infused
+and he gains
+interruption resistance
+. These infused attacks also generate energy particles, which are important for keeping his bursts active.
+Pressing his skill again unleashes his
+special skill
+, a fast
+AoE Electro attack
+that also unlocks his
+special burst
+for a short time. This is the real core of his gameplay since his special burst only costs
+30 energy
+, deals strong
+Lunar Charge damage
+, and can be used multiple times in a rotation if you manage his energy properly. His
+normal burst
+exists too, costing a hefty
+80 energy
+, but it’s less efficient.
+Genshin Impact Flins (Image via HoYoverse)
+You generally prioritize the cheaper,
+faster special burst
+and only use the normal burst if you have excess energy. In practice, Flin’s gameplay loop is simple: you swap him in, use his skill to enter stance, land normal attacks for energy, then follow with his
+special skill
+and
+special burst
+. You repeat this while weaving in normal attacks until his cooldowns reset.
+His passives further boost his
+Lunar Charge damage
+and give him extra
+Elemental Mastery
+, making his reactions stronger when paired with
+Hydro or Electro
+teammates. Overall, Flins thrives on quick rotations, frequent bursts, and steady energy generation, making him a high-output DPS when played in the right setups.
+Genshin Impact Flins Build Guide: Constellations
+C1
+Reduces Flins’
+special skill cooldown
+from 6 seconds to
+4 seconds
+, which means he can fit in three uses of his
+special skill and special burst
+per rotation instead of just two.
+On top of that, it helps manage his energy needs by letting him
+recover 8 energy every 5.5 seconds
+whenever a party member triggers
+Lunar Charge
+.
+While you may still need to adjust his
+Energy Recharge
+depending on your team, this constellation is already a
+big damage increase
+and makes his rotation smoother.
+C2
+Another strong upgrade because it boosts Flins’
+normal attack damage
+while in his special stance. More importantly, when the team is in
+Ascendant Gleam
+, his Electro attacks also reduce enemy
+Electro resistance by 25%
+.
+This is a huge debuff that not only improves Flins’ personal output but also makes your
+Lunar Charge damage
+significantly stronger, benefiting both him and his team.
+C3
+C3 boosts his Burst talent level
+C4
+Gives Flins more
+stats
+, specifically increasing his
+Attack stat
+and improving his
+Attack-to-Elemental Mastery conversion
+.
+This means higher personal damage and stronger scaling for his
+Lunar Charge reactions
+, making him even more effective in reaction-based teams.
+C5
+C5 is a skill talent level boost.
+C6
+Biggest power spike. It introduces a new multiplier called
+Elevated
+, which further buffs his
+Lunar Charge damage
+with an entirely separate scaling factor.
+On top of that, when the team is in
+Ascendant Gleam
+, this same effect also applies to his
+teammates’ Lunar Charge damage
+, though at a lower value. This makes him not only a massive personal DPS at C6 but also a
+team-wide Lunar Charge enabler
+, transforming his role into a top-tier carry and support hybrid.
+Flins becomes really good at
+C2,
+which is the best investment; the rest are more luxury or whale upgrades.
+Genshin Impact Flins Guide: Best in-slot weapon
+Bloodsoaked Ruins (5*)
+His
+signature weapon
+, which is theoretically the strongest choice since it gives him more
+crit rate, attack, and elemental mastery
+that directly boost his
+Lunar Charge damage
+. It’s an
+8% damage increase
+compared to his free option.
+Prospector’s Shovel (4*)
+For a F2P
+option
+, the
+Prospector’s Shovel
+performs surprisingly well. Because Flins’ damage comes from multiple hits that only need to
+crit a few times
+, you can reliably “crit fish” with it, making the weapon very practical and efficient without needing to spend resources.
+Favonius Lance (4*)
+If you suffer from energy issues, then Favonius lance is highly recommended.
+Genshin Impact Flins Build Guide: Artifacts to use
+Image via HoYoverse
+Night of the Sky’s Unveiling
+The
+2-piece bonus
+gives him extra
+Elemental Mastery
+, which directly boosts his
+Lunar Charge reaction damage
+. The
+4-piece effect
+makes him much stronger in
+Ascendant Gleam teams
+, giving up to
+30% Crit Rate
+and also increasing the
+party’s Lunar Reaction damage
+.
+Since Flins always wants to be paired with at least one Nodcry character and relies heavily on Lunar Charge, this set perfectly complements his entire playstyle.
+Thundering Fury
+Thundering Fury
+is another strong option because the
+2-piece bonus
+boosts his
+Electro damage
+, which powers up both his
+special burst
+and infused normal attacks.
+The
+4-piece effect
+is especially good since it buffs
+Electro-Charged/Lunar-Charged damage
+and reduces his
+skill cooldown
+, letting him enter his stance and use his
+special skill + special burst
+more frequently. This keeps his rotations fast and smooth, directly fitting his gameplay loop.
+As for her Main Stats and Sub-Stats:
+Timepiece:
+ATK
+Goblet:
+ATK
+Circlet:
+CRIT
+Sub-stat:
+ATK, CRIT, ER, EM
+Best Team Comps for Flins in Genshin Impact
+Teams
+Character 1
+Character 2
+Character 3
+Character 4
+Premium Team
+Flins
+Ineffa
+Aino
+Sucrose
+F2P Friendly
+Flins
+Shinobu
+Aino
+Sucrose
+When building a team for
+Flins
+, there is always a clear archetype to follow: you need a
+Hydro unit
+to enable his Lunar-Charged attacks, an
+Electro unit
+to provide energy and maintain consistent rotations, and finally a
+support slot
+that usually belongs to
+Sucrose
+, since she provides the strongest buffs and resistance shred. With this core structure in mind, there are several variations depending on what characters you own.
+Flins Premium Team
+The strongest possible team for
+Flins
+right now is
+Flins, C6 Aino,
+Ineffa
+, and
+Sucrose
+.
+Aino
+at C6 ensures constant
+Hydro application
+, while
+Ineffa
+not only contributes around thirty percent of the team’s total damage but also provides crucial shielding and
+improves overall team DPS
+by about twenty percent compared to other options.
+Image via HoYoverse
+Meanwhile,
+Sucrose
+with the
+Viridescent Venerer set
+and
+Thrilling Tales
+massively buffs Flins’ attack and shreds enemy Hydro and Electro resistance, making her rotation as simple as pressing skill, swapping out, and empowering Flins to do the rest. This composition represents Flins at his absolute peak, both in damage and survivability.
+Flins F2P Team
+If you don’t have
+Ineffa
+, the best alternative is to run
+Flins, Aino,
+an Electro support such as
+Shinobu
+,
+Dori
+, or Ororon, and Sucrose
+. Losing Ineffa lowers overall team damage by roughly twenty percent, but the setup still performs extremely well.
+Shinobu
+or
+Dori
+can provide valuable healing, while
+Ororon
+, especially at C6, increases team DPS by around seven to nine percent.
+Even in this budget variation,
+Sucrose
+remains the most important support thanks to her massive elemental mastery buffs, attack boost from Thrilling Tales, and universal resistance shred. If survival becomes an issue,
+Lan Yan
+can replace her for shielding, or
+Xilonen
+can be used for healing, but in terms of damage potential,
+Sucrose
+is always the best choice.
+Is Flins worth pulling in Genshin Impact
+Honestly, I think
+Flins is 100% worth pulling
+if you’re even a little bit interested in him. His kit feels super fun and balanced, whether you want to spam mini-bursts or go all-in with triple burst rotations once you manage his energy.
+And yeah, he does need more ER than usual, but once you cover that, he just goes wild. What really sells me is how
+F2P-friendly
+he is, which is kind of amazing compared to most other 5-stars. If you’re lucky enough to grab his
+C1
+, it basically gives you the same benefits as having
+Ineffa
+, which is huge for his team’s flexibility.
+Sure, the only real drawbacks are that his best artifact set is locked to one option right now and he doesn’t have the flashy exploration utility that some
+Natlan units
+bring, but in actual combat, his damage is ridiculous. Even with budget builds, he keeps up with the strongest units, and with his premium setup, he’s an absolute monster.
+Read more of our Genshin Impact content here:
+Genshin Impact Flins Pre-Farm Guide: Details about Ascension and Talent Materials
+Genshin Impact Lauma Pre-Farm Guide: Details about Ascension and Talent Materials
+Genshin Impact x Among Us collaboration begins tomorrow with a free Paimon Cosmetic set
+Genshin Impact codes and how to redeem them (September 2025)
+What are your thoughts on our Genshin Impact Flins Guide? Let us know in the comments below.
+For more Mobile Gaming news and updates, join our
+WhatsApp group
+,
+Telegram Group
+, or
+Discord server
+. Also, follow us on
+Google News
+,
+Instagram
+, and
+Twitter
+for quick updates.
+Tags
+Gacha Games
+Genshin Impact
+HoYoverse

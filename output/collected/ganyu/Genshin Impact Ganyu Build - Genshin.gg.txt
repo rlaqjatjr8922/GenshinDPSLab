@@ -1,0 +1,201 @@
+Genshin Impact Ganyu Build
+Cryo
+Bow
+Main DPS
+Ganyu Upgrade Materials
+Diligence
+Shadow of the Warrior
+Shivada Jade Sliver
+Hoarfrost Core
+Qingxin
+Whopperflower Nectar
+Ganyu Best Weapons
+1
+Hunter's Path
+2
+Amos' Bow
+3
+Aqua Simulacra
+4
+Polar Star
+5
+Prototype Crescent
+Ganyu Best Artifacts
+1
+Shimenawa's Reminiscence
+4
+2
+Wanderer's Troupe
+4
+3
+Shimenawa's Reminiscence
+2
+Wanderer's Troupe
+2
+4
+Blizzard Strayer
+2
+Shimenawa's Reminiscence
+2
+5
+Blizzard Strayer
+2
+Wanderer's Troupe
+2
+Ganyu Best Stats
+Sands:
+ATK%
+Goblet:
+Cryo DMG
+Circlet:
+CRIT DMG
+Substats:
+CRIT Rate / CRIT DMG > Elemental Mastery > ATK%
+Character Builds by Genshin Impact Helper →
+Showcase
+Teams
+Talents
+Passives
+Constellations
+Ascension
+Ganyu Showcase
+Ganyu video guide by
+Zy0x
+.
+Check out his content!
+Best Ganyu Teams
+Ganyu Freeze
+Ganyu Melt
+Ayaka/Ganyu Mono Cryo
+Ganyu Talents
+Normal Attack
+Liutian Archery
+Normal Attack Performs up to 6 consecutive shots with a bow. Charged Attack Perform a more precise Aimed Shot with increased DMG. While aiming, an icy aura will accumulate on the arrowhead before the arrow is fired. Has different effects based on how long the energy has been charged: Charge Level 1: Fires off an icy arrow that deals
+Cryo
+DMG. Charge Level 2: Fires off a Frostflake Arrow that deals
+Cryo
+DMG. The Frostflake Arrow blooms after hitting its target, dealing AoE
+Cryo
+DMG. Plunging Attack Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.
+Elemental Skill
+Trail of the Qilin
+Leaving a single Ice Lotus behind, Ganyu dashes backward, shunning all impurity and dealing AoE
+Cryo
+DMG. Ice Lotus Continuously taunts surrounding opponents, attracting them to attack it. Endurance scales based on Ganyu's Max HP. Blooms profusely when destroyed or once its duration ends, dealing AoE
+Cryo
+DMG.
+Elemental Burst
+Celestial Shower
+Coalesces atmospheric frost and snow to summon a Sacred
+Cryo
+Pearl that exorcises evil. During its ability duration, the Sacred
+Cryo
+Pearl will continuously rain down shards of ice, striking opponents within an AoE and dealing
+Cryo
+DMG.
+Ganyu Passives
+Ascension 1
+Undivided Heart
+After firing a Frostflake Arrow, the CRIT Rate of subsequent Frostflake Arrows and their resulting bloom effects is increased by 20% for 5s.
+Ascension 4
+Harmony between Heaven and Earth
+Celestial Shower grants a 20%
+Cryo
+DMG Bonus to active party members in the AoE.
+Passive
+Preserved for the Hunt
+Refunds 15% of the ores used when crafting Bow-type weapons.
+Ganyu Constellations
+Constellation 1
+Dew-Drinker
+Taking DMG from a Charge Level 2 Frostflake Arrow Bloom decreases opponents'
+Cryo
+RES by 15% for 6s. A hit regenerates 2 Energy for Ganyu. This effect can only occur once per Charge Level 2 Frostflake Arrow, regardless if Frostflake Arrow itself or its Bloom hit the target.
+Constellation 2
+The Auspicious
+Trail of the Qilin gains 1 additional charge.
+Constellation 3
+Cloud-Strider
+Increases the level of Celestial Shower by 3. Maximum upgrade level is 15.
+Constellation 4
+Westward Sojourn
+Opponents standing within the AoE of Celestial Shower take increased DMG. This effect strengthens over time. Increased DMG taken begins at 5% and increases by 5% every 3s, up to a maximum of 25%. The effect lingers for 3s after the opponent leaves the AoE.
+Constellation 5
+The Merciful
+Increases the level of Trail of the Qilin by 3. Maximum upgrade level is 15.
+Constellation 6
+The Clement
+Using Trail of the Qilin causes the next Frostflake Arrow shot within 30s to not require charging.
+Ganyu Ascension Costs
+Rank
+Lvl
+Cost
+Material
+Material
+Material
+Material
+1
+20
+20000
+1
+Shivada Jade Sliver
+3
+Qingxin
+3
+Whopperflower Nectar
+2
+40
+40000
+3
+Shivada Jade Fragment
+2
+Hoarfrost Core
+10
+Qingxin
+15
+Whopperflower Nectar
+3
+50
+60000
+6
+Shivada Jade Fragment
+4
+Hoarfrost Core
+20
+Qingxin
+12
+Shimmering Nectar
+4
+60
+80000
+3
+Shivada Jade Chunk
+8
+Hoarfrost Core
+30
+Qingxin
+18
+Shimmering Nectar
+5
+70
+100000
+6
+Shivada Jade Chunk
+12
+Hoarfrost Core
+45
+Qingxin
+12
+Energy Nectar
+6
+80
+120000
+6
+Shivada Jade Gemstone
+20
+Hoarfrost Core
+60
+Qingxin
+24
+Energy Nectar
+Loading...

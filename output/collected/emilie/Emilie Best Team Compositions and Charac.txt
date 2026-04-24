@@ -1,0 +1,254 @@
+Home
+/
+Genshin Impact
+/
+Character List
+/
+Emilie Profile
+/
+Emilie Build
+/
+Emilie Teams
+Emilie Best Teams and Team Compositions
+Emilie is a 5-Star Dendro Polearm user in Genshin Impact who deals
+high amounts of off-field Dendro damage in Burning teams.
+This guide will focus on Emilie's best builds, 
+artifacts, weapons, and team compositions.
+Last updated
+on
+Apr 13, 2026
+at
+09:00
+by
+GxG Noir
+A
+Rank
+Dendro
+Element
+Polearm
+Weapon
+★
+★
+★
+★
+★
+Rarity
+Amber Aviles
+EN Voice Actor
+Hikasa Yoko
+JP Voice Actor
+Profile & Talents
+Build Guide
+Team Guide
+Emilie's Best Teams & Character Synergies
+Welcome to our Emilie team composition guide and 
+character synergies overview for Genshin Impact. 
+In this guide, we'll explore the best teams to build for Emilie, including 
+recommended characters, character synergies, and team compositions to help Emilie 
+reach her full damage potential.
+Best Pairings and Synergies With Emilie
+The most important characters to pair with Emilie are
+Pyro
+characters,
+as they are required to activate the Burning reaction. Without Burning, Emilie
+will deal negligible damage and have almost no value on a team. As long as the
+reaction is consistently present, Emilie can fit into many different teams,
+dealing good off-field damage alongside your main DPS.
+Durin
+Durin
+Durin is one of the best possible supports for Emilie, providing strong, 
+	long-lasting off-field Pyro damage and application, alongside RES Shred
+	to increase both Emilie and your on-field DPS' damage.
+Mavuika
+Pyro Traveler
+Pyro Scroll Holders
+Mavuika
+and
+Pyro Traveler
+both provide off-field
+Pyro application, while being able to wield the
+Scroll of the Hero of Cinder City
+set for team-wide DMG % buffing.
+Nicole
+Nicole
+Nicole is one of the greatest supports you can use with Emilie,
+	especially when paired with
+Durin
+. The teamwide ATK she 
+	provides, along with the DMG% from The Bounty of Nature, allows
+Emilie and Durin to deal fantastic damage together with your on-field DPS.
+Because Nicole counts as a Hexerei character, Durin will also get his full
+35% RES Shred for additional buffing.
+Note that The Bounty of Nature set will only buff Dendro DMG% for
+Emilie if you are using a Dendro character on field.
+Bennett
+Bennett
+Although Bennett does not provide off-field Pyro application,
+	Burning can still be sustained against a single wave of enemies, as long as
+	you do not apply any other Elements that would remove it.
+Iansan
+Ororon
+Scroll Holders
+Iansan
+and
+Ororon
+can both buff Dendro
+	with the
+Scroll of the Hero of Cinder City
+set. Iansan in particular
+	will also provide great buffing to your active character, especially ones
+	that move around a lot.
+Furina
+Furina
+If your team has a good healer, Furina can provide a good DMG% buff
+	that both Emilie and your main DPS will benefit from. Furina can also
+	Vaporize some of her damage off the Burning aura, allowing her to do 
+	good damage of her own.
+Kinich
+Kinich
+Kinich is a great DPS to pair with Emilie, since they both want the
+	Burning reaction to maximize their damage. Since Kinich is Dendro,
+Nicole
+will be able to buff Dendro with The Bounty of Nature.
+	Having a second Dendro unit on the team also makes it much easier for Emilie
+	to use her Elemental Burst every rotation, if desired.
+Klee
+Lyney
+Pyro DPS
+Pyro DPS, especially ones like
+Klee
+and
+Lyney
+that don't work as well in Vaporize/Melt teams, can make great use of
+	Emilie.
+Ganyu
+Wriothesley
+Cryo DPS
+Cryo DPS like
+Ganyu
+and
+Wriothesley
+can make 
+	great use of Emilie, thanks to the Burning reaction supplying extra Pyro 
+	application, ensuring they always have enough to Melt.
+Mualani
+Neuvillette
+Hydro DPS
+Similar to Cryo, Hydro DPS like
+Mualani
+and
+Neuvillette
+can use the extra Pyro application from 
+	Burning to allow for more consistent Vaporize damage.
+Clorinde
+Cyno
+Electro DPS
+Electro DPS have a unique interaction with Burning. With enough
+	Electro application, the Burning aura can be Overloaded away before the
+	Quicken aura decays. This allows for near full Quicken uptime, while getting
+	Overload damage as well.
+	However, this team archetype is currently underpowered compared to other
+	team options for Electro, like Overload and Lunar-Charged.
+Emilie's Best Team Compositions
+Listed below is a range of team compositions we recommend using 
+with Emilie. Her best teams can depend on the boss you are facing,
+as well as how you have built her. The inclusion or exclusion of any given team 
+does not necessarily reflect its overall power; for example, some F2P teams may also 
+be present.
+Pure Burning Teams
+Emilie
+Durin
+Nicole
+Kinich
+Emilie
+Bennett
+Iansan
+Kinich
+Emilie
+Durin
+Nicole
+Klee
+Emilie
+Durin
+Nicole
+Lyney
+Melt and Vaporize Teams
+Emilie
+Mualani
+Mavuika
+Nahida
+Emilie
+Durin
+Neuvillette
+Furina
+Emilie
+Durin
+Wriothesley
+Nicole
+Emilie
+Mavuika
+Ganyu
+Xilonen
+Emilie
+Durin
+Ganyu
+Nicole
+"Quickburn" Teams
+Emilie
+Durin
+Fischl
+Clorinde
+Emilie
+Durin
+Nicole
+Cyno
+Emilie
+Durin
+Nicole
+Raiden Shogun
+Changelog
+12 Apr. 2026:
+Updated for 6.6.
+27 Sep. 2025:
+Updated for 6.0.
+10 Jul. 2025:
+Updated for 5.7.
+12 Feb. 2025:
+Reviewed for 5.4.
+17 Jan. 2025:
+Updated for 5.3.
+15 Jul. 2024:
+Full Guide Released.
+18 Jun. 2024:
+V3 Beta Updates.
+12 Jun. 2024:
+Beta Updates.
+03 Jun. 2024:
+Initial Page added.
+Show more
+Show less
+Profile & Talents
+Build Guide
+Team Guide
+In The Same Category
+Emilie Profile & Talents
+Emilie Best Builds Guide
+Lauma Profile & Talents
+Nefer Profile & Talents
+Tighnari Best Builds Guide
+Dendro Traveler Best Builds Guide
+Alhaitham Best Builds Guide
+Lauma Team Guide
+Kinich Best Builds Guide
+Nahida Best Builds Guide
+Nefer Team Guide
+Baizhu Best Builds Guide
+ABOUT THE AUTHOR
+GxG Noir has been traversing the world of Teyvat since patch 1.1. 
+        He has a passion for doing calculations and theorycrafting, especially on 
+        some of the more underrated characters. You can find him on
+YouTube
+as well as
+Discord
+.
+SUPPORT OUR WRITERS

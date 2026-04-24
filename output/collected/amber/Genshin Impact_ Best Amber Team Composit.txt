@@ -1,0 +1,144 @@
+Genshin Impact: Best Amber Team Compositions Guide
+By
+Elara Leclair
+Published
+Mar 4, 2023, 10:00 AM EST
+Elara is a passionate List Writer and avid gamer. She loves writing about rpg, simulation, casual co-op games as well as tech and anime. Her current favourite games are Genshin Impact and Honkai: Star Rail.
+Sign in to your
+GameRant
+account
+Add Us On
+follow
+Follow
+followed
+Followed
+Like
+Like
+Log in
+Here is a fact-based summary of the story contents:
+Try something different:
+Show me the facts
+Explain it like I’m 5
+Give me a lighthearted recap
+Amber
+Pyro
+Bow
+Mondstadt
+Guides
+Ascension
+Builds
+Weapons
+Team Comp
+Constellation
+Player Mistakes
+Back to All Characters
+Amber is a free-to-play character in
+Genshin Impact
+and one of the first characters players receive upon starting the game. She is a bow-wielding character and is often viewed as a utility character due to her ability to apply Pyro while exploring. While she isn't the most popular character when it comes to having her in team compositions, she can still be a good addition in some team compositions for players who enjoy some challenge and want to utilize Amber. Amber's kit can be useful for triggering Pyro elemental reactions, such as Vaporize and Melt, which can deal significant damage to enemies. However, some players underestimate her potential as a damage dealer, but her Elemental Burst and Elemental Skill can dish out a considerable amount of damage.
+Related:
+Genshin Impact: Best DPS Characters For Each Element & How To Use Them
+Team composition is a crucial aspect of
+Genshin Impact
+, as players need to balance elemental reactions, roles, and character abilities to succeed in battles. Amber can fit into various team compositions due to her versatility and ability to trigger elemental reactions. She can serve as a Burst-support character, providing Pyro status effects and buffing team members' Elemental Mastery and ATK with certain weapons such as Elegy for the End. Alternatively, Amber can also be utilized as a main DPS character, dealing consistent damage with her Normal Attacks alongside her Elemental Skill and Elemental Burst. It is essential to consider Amber's abilities and team synergy when building a team composition that can maximize her potential in battle.
+Amber + Ayaka + Zhongli + Xiangling
+Amber:
+Sub-DPS, Pyro Enabler
+Ayaka:
+Main-DPS, Cryo Enabler
+Zhongli:
+Shielder, Buffer, Debuffer
+Xiangling:
+Sub-DPS, Buffer, Pyro Enabler
+The Melt reaction is a powerful Pyro reaction in
+Genshin Impact
+that relies on strong Pyro and Cryo application. To achieve this, players can rely on Ayaka to provide near-permanent Cryo infusion after sprinting, as well as her powerful Elemental Burst, which deals high damage and consistently triggers Melt reactions. For players who prefer a different Cryo character, Ganyu can be used interchangeably with Ayaka, while Amber and Xiangling can be used to ensure consistent Pyro application. If Amber is equipped with Elegy for the End, she can also buff the team further for bringing out even more DMG output.
+Related:
+Genshin Impact: Underrated Characters Who Are Great In The Sub-DPS Role
+It is worth noting that Xiangling's Elemental Burst should be used frequently to increase the consistency of Pyro application. However, since this team lacks a designated battery character, players may struggle to consistently upkeep Xiangling's Elemental Burst unless they focus on her energy recharge when building her. Alternatively, Zhongli can be replaced with an
+Anemo support character
+such as Kazuha, Sucrose, or Venti to increase elemental application and battery potential.
+Amber + Xiangling + Sucrose + Barbara
+Team Role
+Amber:
+Main-DPS, Pyro Enabler
+Xiangling:
+Sub-DPS, Buffer, Pyro Enabler
+Barbara:
+Healer, Hydro Enabler
+Sucrose:
+Buffer, Crowd-Control, Debuffer, Battery
+Amber is the first character players obtain in Genshin Impact and serves as a versatile member in many team compositions. Her abilities make her ideal for F2P challenges, as her charge attacks enable various elemental reactions. When combined with other characters, Amber can truly shine in battle. One recommended team composition for Amber focuses on using her alongside Xiangling, Sucrose, and Barbara. Xiangling serves as an off-field Pyro DPS that can increase Amber's Damage thanks to Guoba and Pyro resonance.
+Sucrose offers crowd control by swirling enemies with Pyro, increasing the Pyro DMG dealt due to the 4-piece set effect of Viridescent Venerer, and further buff and battery potential if players
+have access to her constellations
+. Meanwhile, Barbara provides consistent healing for the team and can also proc Vaporize thanks to the consistent Pyro application. This team composition can be obtained without relying on gacha pulls, except for Sucrose, as the
+characters are either given to players
+for completing certain challenges in Spiral Abyss or even obtainable through events such as Lantern Rite.
+Amber + Raiden Shogun + Venti + Bennett
+Amber:
+Sub-DPS, Pyro Enabler
+Raiden:
+Main-DPS, Battery, Electro Enabler
+Bennett:
+Healer, Buffer, Battery, Pyro Enabler
+Venti:
+Crowd-Control, Debuffer, Battery
+This team composition revolves around utilizing Amber's Elemental Skill and Burst to apply Pyro and trigger Overload reactions with Raiden Shogun as the main DPS. To maximize damage output, players should focus on using all characters' Bursts as frequently as possible, which should be no problem with so many
+characters with great battery utility
+in this team. Venti, a powerful Anemo support character, can provide crowd control and consistent Pyro or Electro application through Swirling with Elemental Burst, while also debuffing enemies with the Viridescent Venerer set. All characters in this composition benefit from Bennett's Elemental Burst, which provides a significant ATK boost and healing to the team.
+Related:
+Genshin Impact: The Healer Tier List And Tips For Using Them
+Interestingly, while
+Bennett's sixth constellation
+is not a popular choice among players, it can be especially beneficial for Raiden Shogun in this team, allowing her to trigger Overload reactions on her own with her Elemental Skill and Normal Attacks.
+Amber + Xingqiu + Kazuha + Bennett
+Amber:
+Main-DPS, Pyro Enabler
+Xingqiu:
+Sub-DPS, Hydro Enabler
+Bennett:
+Healer, Buffer, Battery, Pyro Enabler
+Kazuha:
+Buffer, Crowd-Control, Debuffer, Battery
+Utilizing Vaporize reaction can lead to an incredibly potent team in Genshin Impact due to its high damage modifiers. While popular Pyro
+characters like Hu Tao are often used in Vaporize teams
+due to their high damage output, Amber can also be a valuable character to test out. However, to ensure consistent Pyro application, Amber's Elemental Skill and Burst alone are not sufficient. Although her Charged attacks can apply Pyro, they are not fast enough to benefit from Xingqiu's rapid Hydro Application
+Related:
+Genshin Impact Pyro Character Tier List
+Therefore, Kazuha should be heavily relied upon to infuse the Elemental Burst area with Pyro, boosting not only Amber's damage but also providing continuous Pyro application. It's worth noting that even though Bennett's sixth constellation won't infuse Pyro into Amber's normal attacks, she can still benefit from the Pyro DMG bonus granted by this constellation. Additionally, Bennett's buffing and healing abilities make him a valuable member of this team. Lastly, players who have
+Yelan can replace Xingqiu
+with her to further maximize damage output. Alternatively, players can replace Kokomi with Xingqiu and Bennett with Xiangling.
+Genshin Impact
+is now available on Mobile, PC, PS4, and PS5. A Switch version is in development.
+Strategy Guides
+Genshin Impact
+PlayStation
+Follow
+Followed
+Like
+Share
+Facebook
+X
+WhatsApp
+Threads
+Bluesky
+LinkedIn
+Reddit
+Flipboard
+Copy link
+Email
+Close
+Poll
+POLL
+Which recently released Nintendo cozy game do you prefer?
+Pokemon Pokopia
+Pokemon Pokopia
+57.6%
+Tomodachi Life: Living the Dream
+Tomodachi Life: Living the Dream
+42.4%
+See Results
+Submit
+Trending Now
+Dead by Daylight Developer Behaviour Interactive Hit With Layoffs
+Half-Life 3 Reveal Rumors Are Rearing Their Head Again
+Burger King Launches Mandalorian Menu Ahead of New Star Wars Movie

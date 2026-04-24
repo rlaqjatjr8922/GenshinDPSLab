@@ -1,0 +1,564 @@
+Genshin Impact Diluc Best Team Guide
+Last updated April 23, 2026. Looking for the best Diluc teams in
+        Genshin Impact? Start with the top team summary below, then pick the
+        lineup that fits your roster.
+Thispage shows best teams for Diluc, primarily a Pyro DPS. Top teams include Vaporize and Melt compositions. Flexibility allows swapping sub-DPS like Xingqiu (Hydro), Furina (HP support), or Ganyu/Ayaka (Cryo) based on roster.
+View Diluc's character page
+Diluc Team Summary
+#1
+Team Rating:S
+Diluc Vaporize Team #1
+#2
+Team Rating:S
+Diluc Vaporize Team #2
+#3
+Team Rating:S
+Diluc Vaporize Team #3
+#4
+Team Rating:S
+Diluc Vaporize Plunge Team
+#5
+Team Rating:S
+Diluc Vaporize with Xingqiu, Sucrose, and Bennett
+#6
+Team Rating:S
+Diluc Melt Team #1
+#7
+Team Rating:S
+Diluc Melt Team #2
+#1 Diluc Vaporize Team #1
+Tier S
+Diluc is the main DPS in this Vaporize team, with Xingqiu enabling consistent Hydro application and Kazuha providing crowd control, buffing, and RES shred. Zhongli adds strong shielding and Tenacity of the Millelith ATK support.
+Diluc
+Main DPS
+Pyro
+Main DPS. Diluc’s DMG is amplified by Vaporize in this team.
+Artifacts
+Crimson Witch of Flames
+Main Stats
+Sands
+ATK%
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Wolf's Gravestone
+Serpent Spine
+Xingqiu
+Sub DPS
+Hydro
+Xingqiu’s Elemental Burst can attach Hydro element to enemies continuously, allowing Diluc to trigger Vaporize consistently.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Sacrificial Sword
+Kaedehara Kazuha
+Support
+Anemo
+Kazuha can group enemies, provide DMG buffs to teammates, and reduce enemy Elemental RES with Viridescent Venerer.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Freedom-Sworn
+Iron Sting
+Zhongli
+Support
+Geo
+Zhongli’s shield provides a safe environment for the team, and his full Tenacity of the Millelith set increases the team’s ATK.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP / Energy Recharge
+Weapons
+Staff of Homa
+Black Tassel
+#2 Diluc Vaporize Team #2
+Tier S
+Diluc is the Main DPS and his DMG is amplified by Vaporize. Xingqiu enables consistent Hydro application for Vaporize reactions, Venti provides crowd control and helps spread Hydro, and Zhongli offers strong shielding plus Tenacity of the Millelith team ATK buff.
+Diluc
+Main DPS
+Pyro
+Main DPS. His DMG is amplified by Vaporize in this team.
+Artifacts
+Crimson Witch of Flames
+Main Stats
+Sands
+ATK%
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Wolf's Gravestone
+Serpent Spine
+Xingqiu
+Sub DPS
+Hydro
+His Elemental Burst continuously applies Hydro to enemies, enabling Diluc to trigger Vaporize consistently.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Sacrificial Sword
+Venti
+Sub DPS
+Anemo
+His Elemental Burst groups enemies and provides crowd control, helping spread Xingqiu's Hydro application to nearby enemies.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Elegy for the End
+Rust
+Zhongli
+Support
+Geo
+Provides strong shielding for the team and increases whole-team ATK with a 4-piece Tenacity of the Millelith.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP / Energy Recharge
+Weapons
+Staff of Homa
+Black Tassel
+#3 Diluc Vaporize Team #3
+Tier S
+Diluc is the Main DPS, and his DMG is amplified by Vaporize. Xingqiu enables consistent Hydro application for Vaporize reactions, while Albedo adds off-field DMG and can support the team through Archaic Petra crystal pickups. Zhongli provides a strong shield and team ATK buff with Tenacity of the Millelith.
+Diluc
+Main DPS
+Pyro
+Main DPS of the team. Build for Vaporize damage amplification.
+Artifacts
+Crimson Witch of Flames
+Main Stats
+Sands
+ATK%
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Wolf's Gravestone
+Serpent Spine
+Xingqiu
+Sub DPS
+Hydro
+His Elemental Burst applies Hydro continuously, enabling Diluc to trigger Vaporize consistently.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Sacrificial Sword
+Albedo
+Sub DPS
+Geo
+Off-field Geo damage dealer. With full Archaic Petra, crystal pickups can increase corresponding team damage.
+Artifacts
+Archaic Petra
+Main Stats
+Sands
+DEF%
+Goblet
+Geo DMG
+Circlet
+DEF% / CRIT Rate
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge / DEF
+Weapons
+Cinnabar Spindle
+Harbinger of Dawn
+Zhongli
+Support
+Geo
+Provides a safe shielded environment and increases whole team ATK with Tenacity of the Millelith.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP / Energy Recharge
+Weapons
+Staff of Homa
+Black Tassel
+#4 Diluc Vaporize Plunge Team
+Tier S
+Diluc is the Main DPS and his damage is amplified by Plunging Attacks. Furina enables strong teamwide damage buffs through HP fluctuations, while Xianyun boosts Plunging Attack damage and provides healing. Bennett adds a massive ATK buff and additional healing.
+Diluc
+Main DPS
+Pyro
+Main DPS of the team. Focuses on Plunging Attack damage, which is amplified in this setup.
+Artifacts
+Crimson Witch of Flames
+Main Stats
+Sands
+ATK%
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Wolf's Gravestone
+Serpent Spine
+Furina
+Sub DPS
+Hydro
+Provides strong off-field damage and team damage buffs via her Elemental Burst based on HP changes. Her Skill can drain allies' HP, which is then restored by the team's healers.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Fleuve Cendre Ferryman
+Xianyun
+Support
+Anemo
+Provides healing and boosts Diluc's Plunging Attack performance.
+Artifacts
+Song of Days Past
+Main Stats
+Sands
+Energy Recharge
+Goblet
+ATK%
+Circlet
+Healing Bonus
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Crane's Echoing Call
+Oathsworn Eye
+Bennett
+Support
+Pyro
+Provides a huge ATK buff through his Elemental Burst and additional healing for the team.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+#5 Diluc Vaporize with Xingqiu, Sucrose, and Bennett
+Tier S
+Diluc is the main DPS and deals amplified Pyro damage through
+Vaporize
+. Xingqiu provides consistent Hydro application, Sucrose increases team Elemental Mastery and can shred resistance with Viridescent Venerer, and Bennett supplies a massive ATK buff plus healing.
+Diluc
+Main DPS
+Pyro
+Main on-field damage dealer. Focus on Vaporize reactions to amplify his Pyro damage.
+Artifacts
+Crimson Witch of Flames
+Main Stats
+Sands
+ATK%
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Wolf's Gravestone
+Serpent Spine
+Xingqiu
+Sub DPS
+Hydro
+Provides continuous Hydro application through his Elemental Burst, enabling Diluc to trigger Vaporize consistently.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Sacrificial Sword
+Sucrose
+Sub DPS
+Anemo
+Boosts the team's Elemental Mastery to increase Vaporize damage. Can also support enemy resistance shred with Viridescent Venerer.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Sacrificial Fragments
+Mappa Mare
+Bennett
+Support
+Pyro
+Provides a large ATK buff and healing with his Elemental Burst, greatly improving Diluc's damage and team survivability.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+#6 Diluc Melt Team #1
+Tier S
+Diluc is the Main DPS, and his DMG is amplified through Melt reactions. Ganyu provides off-field Cryo application, Kazuha groups enemies and buffs the team while shredding RES, and Diona offers shielding and healing support.
+Diluc
+Main DPS
+Pyro
+Main on-field DPS. Focus on maximizing Pyro DMG and crit consistency to capitalize on Melt reactions.
+Artifacts
+Crimson Witch of Flames
+Main Stats
+Sands
+ATK%
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Wolf's Gravestone
+Serpent Spine
+Ganyu
+Sub DPS
+Cryo
+Off-field Burst damage dealer. Her Cryo application enables Diluc to trigger Melt consistently.
+Artifacts
+Blizzard Strayer
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Skyward Harp
+The Stringless
+Kaedehara Kazuha
+Support
+Anemo
+Provides crowd control, team damage buffs, and Elemental RES reduction through Viridescent Venerer.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Freedom-Sworn
+Iron Sting
+Diona
+Support
+Cryo
+Shielding and healing support that helps keep the team safe and assists with Energy generation for Ganyu's Burst.
+Artifacts
+Maiden Beloved
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP / Energy Recharge
+Weapons
+Sacrificial Bow
+Favonius Warbow
+#7 Diluc Melt Team #2
+Tier S
+Diluc is the
+Main DPS
+in this team. His DMG is amplified by
+Melting
+with Cryo support, while Sucrose boosts team Elemental Mastery and Diona provides shielding and healing.
+Diluc
+Main DPS
+Pyro
+Main on-field DPS. Focus on amplifying his Pyro damage through Melt reactions.
+Artifacts
+Crimson Witch of Flames
+Main Stats
+Sands
+ATK%
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Wolf's Gravestone
+Serpent Spine
+Kamisato Ayaka
+Sub DPS
+Cryo
+Off-field Burst damage dealer. Her Cryo application helps Diluc trigger Melt reactions.
+Artifacts
+Blizzard Strayer
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Mistsplitter Reforged
+Amenoma Kageuchi
+Sucrose
+Sub DPS
+Anemo
+Provides Elemental Mastery buffs to increase Melt damage and can use Viridescent Venerer to support elemental shred.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Sacrificial Fragments
+Mappa Mare
+Diona
+Support
+Cryo
+Provides shielding and healing for the team, helping create a safer playstyle and supporting Burst uptime.
+Artifacts
+Maiden Beloved
+Main Stats
+Sands
+Energy Recharge
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP / Energy Recharge
+Weapons
+Sacrificial Bow
+Favonius Warbow
+Diluc Teams FAQ
+What is the best Diluc team in Genshin Impact?
+Diluc Vaporize Team #1 is one of the strongest Diluc teams right now. Use the team summary and build cards on this page to pick the best version for your account.
+What are good Diluc teams without premium weapons?
+You can run strong Diluc teams without signature weapons by prioritizing reaction synergy, energy consistency, and artifact main stats shown in each build card.
+Which teammates are best with Diluc?
+Common high-performing partners include teams such as Diluc Vaporize Team #1, Diluc Vaporize Team #2, Diluc Vaporize Team #3. Check each lineup section for role breakdowns and gear priorities.

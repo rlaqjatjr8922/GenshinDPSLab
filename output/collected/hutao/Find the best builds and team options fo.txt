@@ -1,0 +1,609 @@
+Genshin Impact Hu Tao Build
+Polearm
+Pyro
+Wangsheng Funeral Parlor
+15/7
+Papilio Charontis
+Taishan Mansion
+The 77th Director of the Wangsheng Funeral Parlor. She took over the business at a rather young age.
+Best builds for Hu Tao
+DPS Build
+Weapons
+1
+Staff of Homa
+CRIT DMG
+2
+Staff of the Scarlet Sands
+CRIT Rate
+3
+Ballad of the Fjords
+CRIT Rate
+4
+Lumidouce Elegy
+CRIT Rate
+5
+Dragon's Bane
+Elemental Mastery
+6
+Deathmatch
+CRIT Rate
+7
+Primordial Jade Winged-Spear
+CRIT Rate
+8
+Lithic Spear
+ATK%
+9
+Missive Windspear
+ATK%
+10
+White Tassel
+CRIT Rate
+11
+Blackcliff Pole
+CRIT DMG
+12
+Kitain Cross Spear
+Elemental Mastery
+13
+Rightful Reward
+HP%
+Artifacts
+1
+Crimson Witch of Flames
+4
+2
+Shimenawa's Reminiscence
+4
+3
+Gilded Dreams
+4
+Choose 2
+Crimson Witch of Flames
+2
+Elemental Mastery +80 set
+2
+HP +20% set
+2
+5
+Marechaussee Hunter
+4
+Substats Priority
+1
+CRIT Rate
+2
+CRIT DMG
+3
+Elemental Mastery
+4
+HP%
+5
+ATK%
+Talents Priority
+1
+NA
+Normal Attack
+2
+E
+Skill
+3
+Q
+Burst
+Recommended Primary Stats
+Sands
+HP% / Elemental Mastery
+Goblet
+Pyro DMG Bonus
+Circlet
+CRIT Rate / CRIT DMG
+When ending
+Hu Tao
+'s combos with an
+Elemental Burst
+, if you do not jump/dash cancel the last charged attack, the
+Elemental Burst
+will still benefit from
+Hu Tao
+'s
+Elemental Skill
+.
+It is recommended to use cancels when performing your
+Hu Tao
+combos as to maximize damage.
+For
+Hu Tao
+combos, the following patterns can be used:
+N2CJ for
+C0
+N2CD for
+C1
+N3CJ/N3CD can be used to conserve stamina at the cost of damage
+N
+= Normal Attack,
+C
+= Charged Attack,
+J
+= Jump,
+D
+= Dash
+Hu Tao
+is a predominantly Charged Attack focused DPS who best synergizes in teams with sufficient off-field
+Hydro
+application which allow her to
+Vaporize
+all of her Charged Attack hits.
+Regarding
+Weapon Choices
+:
+Staff of the Scarlet Sands
+: When using this weapon,
+Gilded Dreams (4)
+becomes competitive with
+Crimson Witch of Flames (4)
+for being
+Hu Tao
+'s best artifact set.
+Ballad of the Fjords
+and
+Lithic Spear (4 Stacks)
+: At
+R5
+, these weapons are better than
+Staff of the Scarlet Sands
+.
+Primordial Jade Winged-Spear
+: Is better than the
+R1
+variants of
+Dragon's Bane
+and
+Deathmatch
+with ideal stacking. While this is a very strong weapon when fully stacked, maintaining the stacks on
+Hu Tao
+isn't ideal in realistic situations making the weapon less consistent than other options.
+Deathmatch
+: This weapon is better than
+Dragon's Bane
+when you're not doing
+Vaporize
+.
+Blackcliff Pole
+: Despite seeming quite good due to the
+Crit DMG
+substat,
+Blackcliff Pole
+at
+1
+stack performs only slightly better than an
+R5
+White Tassel
+in practice as it is difficult to maintain stacks consistently. It is not recommended to buy this weapon specifically for
+Hu Tao
+and should only be used if you already have one.
+White Tassel
+: This weapon prefers an
+N2C
+combo over an
+N1C
+combo.
+Regarding
+Artifact Sets
+:
+Shimenawa's Reminiscence (4)
+: Provides higher
+Normal
+and
+Charged Attack
+damage than
+Crimson Witch of Flames (4)
+, but reduces
+Elemental Burst
+damage, impacting overall
+AoE
+damage. Additionally, if you're unable to burst, it might lead to survivability issues unless you're running a healer.
+Gilded Dreams (4)
+: At
+3
+EM
+stacks, this artifact set is equal to
+Crimson Witch of Flames (4)
+in teams where you are not getting
+EM
+from other sources (e.g team or weapon).
+Marechaussee Hunter (4)
+: This is
+Hu Tao
+'s best set when you can reliably get
+3
+stacks, which typically requires running
+Furina
+, or healer that can heal smaller amounts over time (i.e
+Xianyun
+,
+Chevreuse
+).
+Regarding
+Artifact Substats Priority
+: 
+Since
+Hu Tao
+is able to trigger
+Vaporize
+on most of her damage output,
+Elemental Mastery
+is quite valuable on her. If you have less than
+100
+EM
+total (including from
+Sucrose
+EM
+share,
+Instructor (4)
+, etc)
+EM
+substats take priority over
+Crit Rate
+/
+DMG
+.
+Most-used community build
+This build is based on the community's most-used artifacts and weapons. Submit your UID to help improve this data.
+Weapons
+1
+Staff of Homa
+CRIT DMG
+2
+Dragon's Bane
+Elemental Mastery
+3
+Deathmatch
+CRIT Rate
+4
+Primordial Jade Winged-Spear
+CRIT Rate
+5
+Blackcliff Pole
+CRIT DMG
+Artifacts
+1
+Crimson Witch of Flames
+4
+2
+Shimenawa's Reminiscence
+4
+3
+Marechaussee Hunter
+4
+4
+Crimson Witch of Flames
+2
+Wanderer's Troupe
+2
+5
+Crimson Witch of Flames
+2
+Gladiator's Finale
+2
+Best teams for Hu Tao
+Open the full Hu Tao team guide
+#
+1
+#
+2
+#
+3
+#
+4
+#
+5
+#
+6
+#
+7
+C6
+#
+8
+Hu Tao Skills
+Secret Spear of Wangsheng
+Normal Attack
+Performs up to 6 consecutive spear strikes.
+Charged Attack
+Consumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.
+Plunging Attack
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Level
+1
+1-Hit DMG
+46.9%
+2-Hit DMG
+48.3%
+3-Hit DMG
+61.1%
+4-Hit DMG
+65.6%
+5-Hit DMG
+33.3% + 35.2%
+6-Hit DMG
+86%
+Charged Attack
+136%
+Charged Attack Stamina Cost
+25
+Plunge DMG
+65.4%
+Low/High Plunge DMG
+130.8% / 163.4%
+Guide to Afterlife
+Hu Tao's Secret Spear technique is based on several rules, the first of which is: "The spear opens the path to the afterlife, and the butterflies bridge this world and the next."
+Only an unwavering flame can cleanse the impurities of this world.
+Hu Tao consumes a set portion of her HP to knock the surrounding enemies back and enter the Paramita Papilio state.
+Paramita Papilio
+·Increases Hu Tao's ATK based on her Max HP at the time of entering this state. ATK Bonus gained this way cannot exceed 400% of Hu Tao's Base ATK.
+·Converts attack DMG to
+Pyro DMG
+, which cannot be overridden by any other elemental infusion.
+·Charged Attacks apply the Blood Blossom effect to the enemies hit.
+·Increases Hu Tao's resistance to interruption.
+Blood Blossom
+Enemies affected by Blood Blossom will take
+Pyro DMG
+every 4s. This DMG is considered Elemental Skill DMG.
+Each enemy can be affected by only one Blood Blossom effect at a time, and its duration may only be refreshed by Hu Tao herself.
+Paramita Papilio
+ends when its duration is over, or Hu Tao has left the battlefield or fallen.
+Level
+1
+Activation Cost
+30% Current HP
+ATK Increase
+3.84% Max HP
+Blood Blossom DMG
+64%
+Blood Blossom Duration
+8s
+Duration
+9s
+CD
+16s
+Spirit Soother
+Supernatural activity by those who have already left this world is a source of great anxiety for the Wangsheng Funeral Parlor. In such cases, cremation always lets Hu Tao find peace of mind. The more anxious she feels, the stronger the flame.
+Commands a blazing spirit to attack, dealing
+Pyro DMG
+in a large AoE.
+Upon striking the enemy, regenerates a percentage of Hu Tao's Max HP. This effect can be triggered up to 5 times, based on the number of enemies hit.
+If Hu Tao's HP is below or equal to 50% when the enemy is hit, both the DMG and HP Regeneration are increased.
+Level
+1
+Skill DMG
+303.3%
+Low HP Skill DMG
+379.1%
+Skill HP Regeneration
+6.26% Max HP
+Low HP Skill Regeneration
+8.35% Max HP
+CD
+15s
+Energy Cost
+60
+Passive Talents
+Flutter By
+Ascension Phase 1
+When a
+Paramita Papilio
+state activated by
+Guide to Afterlife
+ends, all allies in the party (excluding Hu Tao herself) will have their CRIT Rate increased by 12% for 8s.
+Sanguine Rouge
+Ascension Phase 4
+When Hu Tao's HP is equal to or less than 50%, her
+Pyro DMG Bonus
+is increased by 33%.
+The More the Merrier
+Passive
+When Hu Tao cooks a dish perfectly, she has an 18% chance to receive an additional "Suspicious" dish of the same type.
+Constellations
+Crimson Bouquet
+Constellation Lv. 1
+While in a
+Paramita Papilio
+state activated by
+Guide to Afterlife
+, Hu Tao's Charged Attacks do not consume Stamina.
+Ominous Rainfall
+Constellation Lv. 2
+Increases the
+Blood Blossom
+DMG by an amount equal to 10% of Hu Tao's Max HP at the time the effect is applied.
+Additionally,
+Spirit Soother
+will also apply the
+Blood Blossom
+effect.
+Lingering Carmine
+Constellation Lv. 3
+Increases the Level of
+Guide to Afterlife
+by 3.
+Maximum upgrade level is 15.
+Garden of Eternal Rest
+Constellation Lv. 4
+Upon defeating an enemy affected by a
+Blood Blossom
+that Hu Tao applied herself, all nearby allies in the party (excluding Hu Tao herself) will have their CRIT Rate increased by 12% for 15s.
+Floral Incense
+Constellation Lv. 5
+Increases the Level of
+Spirit Soother
+by 3.
+Maximum upgrade level is 15.
+Butterfly's Embrace
+Constellation Lv. 6
+Triggers when Hu Tao's HP drops below 25%, or when she suffers a lethal strike:
+Hu Tao will not fall as a result of the DMG sustained. Additionally, for the next 10s, her All Elemental and Physical RES is increased by 200%, her CRIT Rate is increased by 100%, and her resistance to interruption is greatly increased.
+This effect triggers automatically when Hu Tao has 1 HP left.
+Can only occur once every 60s.
+Outfits
+Cherries Snow-Laden
+Hu Tao's outfit. Styled in a palette lighter than the dark ceremonial wear favored by the Wangsheng Funeral Parlor, the dress is a special gift from her good friend Xiangling. The sunglasses, for their part, are from Hu Tao's personal collection.
+Plum Blossom Bouquet
+Default
+Hu Tao's outfit. The daily work clothes of the Wangsheng Funeral Parlor's director.
+Stats
+Lv.
+1
+Lv.
+20
+Lv.
+40
+Lv.
+50
+Lv.
+60
+Lv.
+70
+Lv.
+80
+Lv.
+90
+Before Ascension
+After Ascension
+Ascend
+-
+1
+Base HP
+-
+1211
+Base ATK
+-
+8
+Base DEF
+-
+68
+CRIT DMG
+-
+50.0%
+Ascension Materials
+View ascension details
+Total
+420000
+1
+9
+9
+6
+46
+168
+18
+30
+36
+Talent Materials
+LV.
+1
+→
+2
+12500
+Mora
+3
+Teachings of Diligence
+6
+Whopperflower Nectar
+LV.
+2
+→
+3
+17500
+Mora
+2
+Guide to Diligence
+3
+Shimmering Nectar
+LV.
+3
+→
+4
+25000
+Mora
+4
+Guide to Diligence
+4
+Shimmering Nectar
+LV.
+4
+→
+5
+30000
+Mora
+6
+Guide to Diligence
+6
+Shimmering Nectar
+LV.
+5
+→
+6
+37500
+Mora
+9
+Guide to Diligence
+9
+Shimmering Nectar
+LV.
+6
+→
+7
+120000
+Mora
+4
+Philosophies of Diligence
+4
+Energy Nectar
+1
+Shard of a Foul Legacy
+LV.
+7
+→
+8
+260000
+Mora
+6
+Philosophies of Diligence
+6
+Energy Nectar
+1
+Shard of a Foul Legacy
+LV.
+8
+→
+9
+450000
+Mora
+12
+Philosophies of Diligence
+9
+Energy Nectar
+2
+Shard of a Foul Legacy
+LV.
+9
+→
+10
+700000
+Mora
+16
+Philosophies of Diligence
+12
+Energy Nectar
+2
+Shard of a Foul Legacy
+1
+Crown of Insight
+Total
+1652500
+3
+21
+38
+6
+22
+31
+6
+1

@@ -1,0 +1,577 @@
+Genshin Impact Dehya Best Team Guide
+Last updated April 23, 2026. Looking for the best Dehya teams in
+        Genshin Impact? Start with the top team summary below, then pick the
+        lineup that fits your roster.
+This page shows best teams for Dehya, primarily a Pyro DPS. Top teams include Melt, Burning, and Pure Pyro comps, often featuring Ganyu or Xiangling as Sub‑DPS. Team positions can be swapped to suit your roster.
+View Dehya's character page
+Dehya Team Summary
+#1
+Team Rating:SS
+Dehya Burning Melt Ganyu SS Team
+#2
+Team Rating:SS
+Dehya Melting Ganyu SS Team
+#3
+Team Rating:SS
+Dehya Melt Ayaka Burst Team
+#4
+Team Rating:SS
+Dehya Pure Pyro Burst Team
+#5
+Team Rating:SS
+Dehya Pure Pyro Burst Team
+C1
+#6
+Team Rating:S
+Dehya Burgeon Team
+C2
+#7
+Team Rating:SS
+Dehya Vaporize Burn Team with Mualani & Emilie
+#1 Dehya Burning Melt Ganyu SS Team
+Tier SS
+Ganyu is the main damage dealer, using Melt reactions enabled by Dehya and Nahida. Bennett provides a large ATK buff and healing, while Dehya supplies consistent off-field Pyro for Burning and extra survivability.
+Ganyu
+Main DPS
+Cryo
+Deals most of the team's damage through Charged Attacks and Elemental Burst. Her Cryo hits Melt reliably thanks to Burning and Dehya's off-field Pyro application.
+Artifacts
+Wanderer's Troupe
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Hunter's Path
+Hamayumi
+Dehya
+Sub DPS
+Pyro
+Provides off-field Pyro through her Elemental Skill, enabling Burning and helping Ganyu trigger Melt more consistently. Also adds interruption resistance and some team durability.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+Energy Recharge / HP%
+Weapons
+Favonius Greatsword
+Nahida
+Sub DPS
+Dendro
+Applies strong off-field Dendro to maintain Burning and trigger reactions. Her Skill links enemies and improves overall reaction damage; having two Pyro characters also boosts her Tri-Karma Purification damage.
+Artifacts
+Gilded Dreams
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge / ATK%
+Weapons
+Wandering Evenstar
+Bennett
+Support
+Pyro
+Provides a strong ATK buff and healing through his Burst, greatly increasing Ganyu's damage and team comfort.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+Energy Recharge
+Goblet
+HP%
+Circlet
+HP%
+Substats
+Energy Recharge / HP%
+Weapons
+Aquila Favonia
+Favonius Sword
+#2 Dehya Melting Ganyu SS Team
+Tier SS
+Dehya enables Pyro application for Ganyu to consistently trigger Melt, maximizing Ganyu's Charged Attack and Burst damage. Kazuha boosts damage through grouping and RES shred, while Bennett provides a massive ATK buff and healing.
+Ganyu
+Main DPS
+Cryo
+Primary on-field damage dealer. Uses Charged Attacks and Elemental Burst to deal sustained Cryo damage and trigger Melt with Dehya's Pyro application.
+Artifacts
+Wanderer's Troupe
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Hunter's Path
+Hamayumi
+Dehya
+Sub DPS
+Pyro
+Provides off-field Pyro through her Elemental Skill, enabling Melt reactions for Ganyu while adding AoE Pyro damage.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+ATK%
+Goblet
+Pyro DMG
+Circlet
+CRIT DMG / CRIT Rate
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Favonius Greatsword
+Kaedehara Kazuha
+Support
+Anemo
+Groups enemies, provides crowd control, buffs team damage, and shreds enemy Elemental RES with Viridescent Venerer.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Freedom-Sworn
+Iron Sting
+Bennett
+Support
+Pyro
+Supplies a strong ATK buff and healing through his Elemental Burst, greatly increasing team damage and survivability.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+Energy Recharge
+Goblet
+HP%
+Circlet
+HP%
+Substats
+Energy Recharge / HP%
+Weapons
+Aquila Favonia
+Favonius Sword
+#3 Dehya Melt Ayaka Burst Team
+Tier SS
+Ayaka is the Main DPS, with
+Dehya
+enabling Melting through off-field Pyro application to maximize Ayaka's Burst damage.
+Kazuha provides grouping, VV shred, and team damage buffs, while Bennett supplies a massive ATK buff and healing.
+Kamisato Ayaka
+Main DPS
+Cryo
+On-field Cryo DPS. Her Elemental Burst is the main damage source and is amplified by Melt reactions.
+Artifacts
+Noblesse Oblige
+Blizzard Strayer
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Mistsplitter Reforged
+Amenoma Kageuchi
+Dehya
+Sub DPS
+Pyro
+Provides off-field Pyro application via her Elemental Skill coordinated attacks, enabling Ayaka to trigger Melt.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+ATK%
+Goblet
+Pyro DMG
+Circlet
+CRIT DMG / CRIT Rate
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Favonius Greatsword
+Kaedehara Kazuha
+Support
+Anemo
+Groups enemies, provides crowd control, buffs team damage, and reduces enemy Elemental RES with Viridescent Venerer.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Freedom-Sworn
+Iron Sting
+Bennett
+Support
+Pyro
+Provides a strong ATK buff through his Elemental Burst and also heals the team.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+Energy Recharge
+Goblet
+HP%
+Circlet
+HP%
+Substats
+Energy Recharge / HP%
+Weapons
+Aquila Favonia
+Favonius Sword
+#4 Dehya Pure Pyro Burst Team
+Tier SS
+Dehya is the Main DPS and her Elemental Burst damage is maximized by
+Kazuha
+and
+Bennett
+. Xiangling provides strong off-field Pyro damage while Kazuha groups enemies, buffs the team, and shreds Pyro resistance. Bennett offers a massive ATK buff and healing.
+Dehya
+Main DPS
+Pyro
+Main on-field DPS. Focuses on Elemental Burst damage in this team.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Beacon of the Reed Sea
+Xiangling
+Sub DPS
+Pyro
+Strong off-field Pyro damage through her Elemental Burst.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+ATK% / Energy Recharge
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Engulfing Lightning
+"The Catch"
+Kaedehara Kazuha
+Support
+Anemo
+Groups enemies, provides crowd control, buffs teammates, and reduces enemy Elemental Resistance.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Freedom-Sworn
+Iron Sting
+Bennett
+Support
+Pyro
+Provides a huge ATK buff and healing with his Elemental Burst.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+Energy Recharge
+Goblet
+HP%
+Circlet
+HP%
+Substats
+Energy Recharge / HP%
+Weapons
+Aquila Favonia
+Favonius Sword
+#5 Dehya Pure Pyro Burst Team
+Tier SS
+Dehya is the Main DPS in this team. Her Elemental Burst DMG is maximized by Kazuha and Bennett.
+Dehya
+Main DPS
+Pyro
+Dehya mainly deals DMG through her Elemental Burst.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Beacon of the Reed Sea
+Mona
+Support
+Hydro
+Constellation 1+
+Mona’s Elemental Burst can provide DMG and increase all party members’ Elemental Mastery and Dehya ATK%.
+Artifacts
+Instructor
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Hydro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+Energy Recharge / CRIT Rate / CRIT DMG / ATK%
+Weapons
+Thrilling Tales of Dragon Slayers
+Kaedehara Kazuha
+Support
+Anemo
+Kazuha can group enemies, provide crowd control and DMG buffs, and reduce enemy Elemental Resistance.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Freedom-Sworn
+Iron Sting
+Bennett
+Support
+Pyro
+Bennett’s Elemental Burst provides a huge ATK buff and healing to the team.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+Energy Recharge
+Goblet
+HP%
+Circlet
+HP%
+Substats
+Energy Recharge / HP%
+Weapons
+Aquila Favonia
+Favonius Sword
+#6 Dehya Burgeon Team
+Tier S
+Dehya is the Support in the team. Dehya triggers Burgeon by using her Elemental Skill to activate the Dendro cores.
+Nahida
+Main DPS
+Dendro
+Nahida mainly deals DMG through her Elemental Skill, which can connect up to 8 enemies and deal Dendro DMG while triggering elemental reactions. Her Elemental Burst buffs her Elemental Skill based on the elements of her teammates.
+Artifacts
+Deepwood Memories
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / ATK% / Energy Recharge
+Weapons
+A Thousand Floating Dreams
+Solar Pearl
+Dehya
+Support
+Pyro
+Dehya triggers Burgeon by using her Elemental Skill to activate the cores. When a teammate takes damage, a portion of the damage is mitigated and Dehya takes the damage instead.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+HP% / Elemental Mastery
+Weapons
+Rainslasher
+Xingqiu
+Sub DPS
+Hydro
+Xingqiu’s Elemental Burst continuously applies Hydro to enemies, reacting with Dendro from Nahida to trigger Bloom and produce cores.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG / CRIT Rate
+Substats
+Energy Recharge / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Sapwood Blade
+Kuki Shinobu
+Support
+Electro
+Constellation 2+
+Kuki Shinobu is the healer and her more important role in this team is to trigger Hyperbloom by using her Elemental Skill to activate the cores. By maximizing Kuki’s Elemental Mastery, Hyperbloom damage becomes significant.
+Artifacts
+Gilded Dreams
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / HP% / HP% / Energy Recharge
+Weapons
+Freedom-Sworn
+Iron Sting
+#7 Dehya Vaporize Burn Team with Mualani & Emilie
+Tier SS
+High-damage Vaporization/Burning hybrid team built around
+Mualani
+as the on-field DPS.
+Emilie
+enables strong Burning uptime,
+Xiangling
+adds massive off-field Pyro damage, and
+Dehya
+provides interruption resistance, Pyro application, and
+Tenacity
+support.
+Note: this guide uses
+Dehya
+as a support, while the team name may reference her because of her role in the Burning/Vape setup.
+Mualani
+Main DPS
+Hydro
+On-field driver and main damage dealer. Use her skill to enter Nightsoul’s Blessing and trigger enhanced Normal Attacks, marking enemies and launching Shark Missiles as stacks build.
+Artifacts
+Obsidian Codex
+Main Stats
+Sands
+HP%
+Goblet
+Hydro DMG
+Circlet
+Elemental Mastery
+Substats
+HP% / CRIT DMG / CRIT Rate / Elemental Mastery / Energy Recharge
+Weapons
+Surf's Up
+Sacrificial Jade
+Emilie
+Sub DPS
+Dendro
+Off-field Dendro damage dealer. Her Lumidouce Case benefits greatly from Burning, making her a strong enabler and damage source in this team.
+Artifacts
+Unfinished Reverie
+Main Stats
+Sands
+ATK%
+Goblet
+Dendro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Lumidouce Elegy
+Deathmatch
+Xiangling
+Sub DPS
+Pyro
+Off-field Pyro sub DPS with extremely strong Burst damage and consistent Pyro application, helping maintain elemental reactions for the team.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Engulfing Lightning
+Favonius Lance
+Dehya
+Support
+Pyro
+Support slot. Provides interruption resistance and coordinated Pyro attacks from her Elemental Skill.
+Tenacity of the Millelith
+boosts team utility while stacking HP for survivability.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+Energy Recharge / HP%
+Weapons
+Favonius Greatsword
+Dehya Teams FAQ
+What is the best Dehya team in Genshin Impact?
+Dehya Burning Melt Ganyu SS Team is one of the strongest Dehya teams right now. Use the team summary and build cards on this page to pick the best version for your account.
+What are good Dehya teams without premium weapons?
+You can run strong Dehya teams without signature weapons by prioritizing reaction synergy, energy consistency, and artifact main stats shown in each build card.
+Which teammates are best with Dehya?
+Common high-performing partners include teams such as Dehya Burning Melt Ganyu SS Team, Dehya Melting Ganyu SS Team, Dehya Melt Ayaka Burst Team. Check each lineup section for role breakdowns and gear priorities.

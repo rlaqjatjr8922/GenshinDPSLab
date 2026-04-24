@@ -1,0 +1,515 @@
+Genshin Impact Chasca Best Team Guide
+Last updated April 23, 2026. Looking for the best Chasca teams in
+        Genshin Impact? Start with the top team summary below, then pick the
+        lineup that fits your roster.
+Thispage shows best teams for Furina, primarily a Hydro Sub DPS. Top teams include Hydro-focused compositions, Vaporize, or Melt archetypes. Team positions can be adjusted based on your roster.
+View Chasca's character page
+Chasca Team Summary
+#1
+Team Rating:SS
+Chasca Vaporize SS Team with Furina, Yanfei, and Bennett
+C4
+#2
+Team Rating:S
+Chasca Vaporize with Furina, Xilonen & Bennett
+#3
+Team Rating:SS
+Chasca Vaporize Melt SS Team
+#4
+Team Rating:SS
+Chasca Multi-Reactions Team
+#5
+Team Rating:S
+Chasca Freezing
+#6
+Team Rating:S
+Chasca Melting Team
+#1 Chasca Vaporize SS Team with Furina, Yanfei, and Bennett
+Tier SS
+Chasca Vaporize team built around Chasca's reaction flexibility and strong buff stacking from Furina, Yanfei(C4), and Bennett.
+Chasca acts as the primary on-field DPS while the rest of the team provides Hydro/Pyro application, damage buffs, shielding, and healing support.
+Chasca
+Main DPS
+Anemo
+Chasca is the on-field carry of the team. Depending on the elemental attributes of her teammates, she alters the properties of her Shadowhunt Shells, enabling her to trigger various elemental reactions on her own.
+Artifacts
+Obsidian Codex
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Astral Vulture's Crimson Plumage
+Flower-Wreathed Feathers
+Furina
+Sub DPS
+Hydro
+Furina provides continuous Hydro application through her Elemental Skill and a powerful team DMG increase through her Elemental Burst based on HP fluctuation. Her damage contribution also scales well with investment.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Favonius Sword
+Yanfei
+Support
+Pyro
+Constellation 4+
+Yanfei(C4) provides shielding and team utility. With the help of her artifact set and weapon, she can also supply buffs to the main DPS.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+HP%
+Circlet
+HP%
+Substats
+Energy Recharge / HP%
+Weapons
+Prototype Amber
+Thrilling Tales of Dragon Slayers
+Bennett
+Support
+Pyro
+Bennett's Elemental Burst provides a huge ATK buff and healing to other team members, making him one of the strongest support options in the game.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+Energy Recharge / HP%
+Weapons
+Mistsplitter Reforged
+The Alley Flash
+#2 Chasca Vaporize with Furina, Xilonen & Bennett
+Tier S
+Chasca Vaporization team built around
+Chasca
+as the on-field Main DPS, with
+Furina
+providing consistent Hydro application and burst damage,
+Xilonen
+offering RES shred and healing, and
+Bennett
+supplying a massive ATK buff plus additional healing. Becomes
+SS
+at
+C2 Chasca
+.
+Chasca
+Main DPS
+Anemo
+Main on-field damage dealer. Chasca changes the properties of her Shadowhunt Shells based on teammates' elements, allowing her to trigger elemental reactions efficiently on her own.
+Artifacts
+Obsidian Codex
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Astral Vulture's Crimson Plumage
+Flower-Wreathed Feathers
+Furina
+Sub DPS
+Hydro
+Provides continuous Hydro application through her Elemental Skill and strong team DMG increase via her Elemental Burst, which scales with HP changes in allies.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Favonius Sword
+Xilonen
+Support
+Geo
+Uses Samplers to reduce enemies' Elemental RES while also providing healing support to the team.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Peak Patrol Song
+Favonius Sword
+Bennett
+Support
+Pyro
+Elemental Burst provides a huge ATK buff and healing for the team.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+Energy Recharge / HP%
+Weapons
+Mistsplitter Reforged
+The Alley Flash
+#3 Chasca Vaporize Melt SS Team
+Tier SS
+Chasca Vaporization & Melting team built around Chasca's flexible elemental shell interactions, with Furina for off-field Hydro application, Bennett for powerful ATK buff and healing, and Layla for shielding plus Cryo support.
+Chasca
+Main DPS
+Anemo
+Main DPS. Uses
+Obsidian Codex(4)
+with ATK% / ATK% / Crit Rate or Crit DMG. Prioritize
+CRIT DMG = CRIT RATE > ATK% > EM
+. Best 5-star weapon:
+Astral Vulture’s Crimson Plumage
+. Best 4-star weapon:
+Flower-Wreathed Feathers
+. Depending on teammates' elemental attributes, Chasca can alter the properties of her Shadowhunt Shells and trigger different elemental reactions on her own.
+Artifacts
+Obsidian Codex
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Astral Vulture's Crimson Plumage
+Flower-Wreathed Feathers
+Furina
+Sub DPS
+Hydro
+Off-field Hydro application via Elemental Skill. Elemental Burst grants DMG bonus based on allies' HP changes, which can be enabled by HP drain and healing. Best 5-star weapon:
+Splendor of Tranquil Waters
+. Best 4-star weapon:
+Favonius Sword
+.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Favonius Sword
+Layla
+Support
+Cryo
+Shield/Support. Provides a strong shield for team safety, some off-field Cryo damage, and increases teammates' Normal Attack DMG. Best 5-star weapon:
+Key of Khaj-Nisut
+. Best 4-star weapon:
+The Dockhand’s Assistant
+.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP%
+Weapons
+Key of Khaj-Nisut
+The Dockhand's Assistant
+Bennett
+Support
+Pyro
+Healer/Support. Elemental Burst provides a large ATK buff and healing to the team. Best 5-star weapon:
+Mistsplitter Reforged
+. Best 4-star weapon:
+The Alley Flash
+.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+Energy Recharge / HP%
+Weapons
+Mistsplitter Reforged
+The Alley Flash
+#4 Chasca Multi-Reactions Team
+Tier SS
+Chasca multi-reaction composition built around Chasca's flexible Shell conversions, with Furina providing sustained Hydro, Ororon enabling extra Electro-related utility and energy support, and Bennett supplying a massive ATK buff plus healing.
+Chasca
+Main DPS
+Anemo
+Main DPS of the team. Depending on the elemental attributes of her teammates, Chasca alters the properties of her Shadowhunt Shells, enabling her to trigger various elemental reactions on her own.
+Artifacts
+Obsidian Codex
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Astral Vulture's Crimson Plumage
+Flower-Wreathed Feathers
+Furina
+Sub DPS
+Hydro
+Provides continuous Hydro application through her Elemental Skill. Her Elemental Burst grants a DMG increase based on HP changes among allies, which is enabled by her Skill's HP drain and restored by healing.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Favonius Sword
+Ororon
+Support
+Electro
+Triggers additional off-field damage when teammates deal Electro-Charged or Nightsoul-aligned damage, and can activate the Scroll of the Hero of Cinder City effect. His Skill restores teammates' energy when their Normal, Charged, or Plunge Attacks hit enemies; at C6 he further boosts teammates' ATK.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Favonius Warbow
+Bennett
+Support
+Pyro
+Provides a huge ATK buff and healing through his Elemental Burst.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+Energy Recharge / HP%
+Weapons
+Mistsplitter Reforged
+The Alley Flash
+#5 Chasca Freezing
+Tier S
+Chasca Freeze team with Furina, Shenhe, and Charlotte for strong Hydro/Cryo application, buffs, and healing.
+Chasca
+Main DPS
+Anemo
+Main DPS. Chasca alters Shadowhunt Shell properties based on teammates' elements, allowing her to trigger multiple elemental reactions.
+Artifacts
+Obsidian Codex
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Astral Vulture's Crimson Plumage
+Flower-Wreathed Feathers
+Furina
+Sub DPS
+Hydro
+Provides continuous Hydro application through Elemental Skill and a strong DMG buff via Elemental Burst, enabled by HP fluctuation and healing.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Favonius Sword
+Shenhe
+Sub DPS
+Cryo
+Provides ATK bonus to the team and reduces Cryo RES of enemies, helping the Freeze core and boosting team damage.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+ATK%
+Circlet
+ATK%
+Substats
+ATK% / Energy Recharge / CRIT Rate
+Weapons
+Calamity Queller
+Favonius Lance
+Charlotte
+Support
+Cryo
+Healer and Cryo applier. Burst provides team protection and helps trigger Freeze reactions.
+Often uses Thrilling Tales for extra team ATK buff.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+Energy Recharge
+Goblet
+ATK%
+Circlet
+ATK%
+Substats
+Energy Recharge / ATK%
+Weapons
+Thrilling Tales of Dragon Slayers
+#6 Chasca Melting Team
+Tier S
+Chasca is the Main DPS, with support from Shenhe, Charlotte, and Bennett to amplify damage, enable reactions, and provide healing/buffs.
+Chasca
+Main DPS
+Anemo
+Main on-field DPS. Her Shadowhunt Shells change properties based on teammates' elements, allowing her to trigger multiple elemental reactions on her own.
+Artifacts
+Obsidian Codex
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Astral Vulture's Crimson Plumage
+Flower-Wreathed Feathers
+Shenhe
+Sub DPS
+Cryo
+Provides ATK bonus to teammates and reduces enemies' Cryo RES.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+ATK%
+Circlet
+ATK%
+Substats
+ATK% / Energy Recharge / CRIT Rate
+Weapons
+Calamity Queller
+Favonius Lance
+Charlotte
+Support
+Cryo
+Healer and Cryo support. Her Elemental Burst helps protect the team and can assist with Freeze-related setups.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+Energy Recharge
+Goblet
+ATK%
+Circlet
+ATK%
+Substats
+Energy Recharge / ATK%
+Weapons
+Thrilling Tales of Dragon Slayers
+Bennett
+Support
+Pyro
+Provides a huge ATK buff and healing through his Elemental Burst.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+Energy Recharge / HP%
+Weapons
+Mistsplitter Reforged
+The Alley Flash
+Chasca Teams FAQ
+What is the best Chasca team in Genshin Impact?
+Chasca Vaporize SS Team with Furina, Yanfei, and Bennett is one of the strongest Chasca teams right now. Use the team summary and build cards on this page to pick the best version for your account.
+What are good Chasca teams without premium weapons?
+You can run strong Chasca teams without signature weapons by prioritizing reaction synergy, energy consistency, and artifact main stats shown in each build card.
+Which teammates are best with Chasca?
+Common high-performing partners include teams such as Chasca Vaporize SS Team with Furina, Yanfei, and Bennett, Chasca Vaporize with Furina, Xilonen & Bennett, Chasca Vaporize Melt SS Team. Check each lineup section for role breakdowns and gear priorities.

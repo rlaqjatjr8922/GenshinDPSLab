@@ -1,0 +1,229 @@
+Best Escoffier Teams in Genshin Impact
+By
+Elara Leclair
+Published
+May 7, 2025, 12:15 AM EDT
+Elara is a passionate List Writer and avid gamer. She loves writing about rpg, simulation, casual co-op games as well as tech and anime. Her current favourite games are Genshin Impact and Honkai: Star Rail.
+Add Us On
+Jump links
+Jump Links
+Cryo DPS + Furina + Shenhe + Escoffier
+Neuvillette + Furina + Citlali + Escoffier
+Ayato + Furina + Yelan + Escoffier
+Mavuika + Bennett + Citlali + Escoffier
+follow
+Follow
+followed
+Followed
+Like
+Like
+Thread
+Log in
+Here is a fact-based summary of the story contents:
+Try something different:
+Show me the facts
+Explain it like I’m 5
+Give me a lighthearted recap
+Escoffier
+Cryo (Ousia)
+Polearm
+Fontaine
+Guides
+Ascension
+Builds
+Weapons
+Team Comp
+Constellation
+Player Mistakes
+Back to All Characters
+Escoffier debuts as a Cryo support tailored for Freeze-centric teams in
+Genshin Impact
+, distinguishing herself through specialized buffs and resistance-shredding abilities. While
+Citlali is versatile across Melt and Freeze compositions
+—incorporating characters from all elements in form of main DPS or support —Escoffier finds her strongest footing alongside Cryo and Hydro DPS and support units.
+Escoffier's kit provides greater benefits when the number of Cryo and Hydro characters in the team increases. Her ascension passive allows her to reduce the Hydro and Cryo RES of opponents hit by her Elemental Skill or Burst. For example, with three aligned characters, the resistance reduction is 15%, but it jumps to 55% when the party consists entirely of Cryo and Hydro units. Furthermore, her first constellation benefits Cryo characters specifically by providing a Crit DMG buff, as long as the team is composed exclusively of Cryo and Hydro characters.
+Related
+Genshin Impact: Local Legend "Infinitesimal" Guide (Location & All 3 Achievements)
+Find the new Local Legend "Infinitesimal" in Natlan and how to defeat it with this guide.
+Posts
+By
+Nurul Nabilah
+Considering these restrictions, Escoffier’s presence may feel somewhat limited in flexible overworld exploration or endgame content like Spiral Abyss. However, when properly integrated into Freeze-oriented setups, she becomes a force multiplier for Cryo damage output, strengthening compositions built around Freeze reaction. This advantage is particularly significant
+in Imaginarium Theater
+, where elemental restrictions dictate team-building strategies. Here are some examples of teams where Escoffier's utility shines the most in
+Genshin Impact
+.
+Among Escoffier's strongest synergies, Furina stands out as an ideal partner due to their complementary mechanics, which means essentially all of Escoffier's best teams will also include Furina, but she is not a must. Furina’s health-draining abilities, which power her buffs and passive effects, pair seamlessly with Escoffier’s consistent healing. This dynamic allows Furina to maximize her offensive potential without needing a dedicated healer unit, making their interaction particularly valuable for maximum amount of party wide utility.
+Cryo DPS + Furina + Shenhe + Escoffier
+Escoffier finds her place in Freeze compositions thanks to her Cryo application, healing, and resistance reduction, making her an excellent support for
+Cryo DPS units
+. Among the strongest Cryo carries that benefit from her presence, Wriothesley, Ayaka, and Ganyu stand out due to their reliance on continuous Cryo uptime and synergy with Hydro application.
+Wriothesley, as the Cryo DPS, benefits greatly from Escoffier’s healing to sustain his rotations. Since his damage output increases as his HP fluctuates, Escoffier ensures he can consistently stay in combat while applying Cryo without interruption. This also makes
+Furina an even more synergistic addition
+, particularly for this team composition, as Ayaka and Ganyu do not rely on HP fluctuation mechanics. Nevertheless, both Ayaka and Ganyu will still benefit from Furina’s general buffs, while Furina remains the most synergistic Hydro character for Escoffier-based teams.
+For a Cryo buffer slot, players will find Shenhe to be invaluable. She provides a Cryo DMG bonus for the active character, Cryo RES shredding, and serves as a battery while offering additional Cryo application. Her presence alongside Escoffier results in stacked resistance reduction, making Cryo-resistant enemies significantly more vulnerable
+Players who do not have access to Shenhe can opt for a Hydro support unit instead, such as
+Yelan or Xingqiu
+. Both characters provide consistent Hydro application, ensuring Freeze uptime while offering additional utility.
+Additionally, with soon-to-be-released characters like Skirk, Escoffier’s synergy pool may expand even further. If Skirk’s kit revolves Freeze compositions, which currently lack prominence in the meta, Escoffier’s utility could become significantly more valuable.
+Team Roles
+Wriothesley / Ganyu / Ayaka
+: Main DPS
+Furina:
+Buffer,
+Sub-DPS, Hydro Enabler
+Shenhe
+: Buffer, Battery
+Escoffier:
+Buffer, Healer
+Neuvillette + Furina + Citlali + Escoffier
+Neuvillette, Furina, Citlali, and Escoffier form a strong Freeze-focused Hydro team, built around continuous Hydro application, resistance shredding, and HP-based scaling. Similar to Wriothesley, Neuvillette also benefits from HP fluctuation mechanics, making his synergy with Furina particularly strong, alongside her general utility and buffs for the team. Escoffier further enhances his damage through Hydro resistance shredding and provides a degree of crowd control, ensuring enemies remain in place for Neuvillette’s charged attacks. Through perma-freeze, enemies are effectively immobilized, allowing Neuvillette to fully capitalize on his damage potential.
+Beyond this core synergy, Citlali and Escoffier generally replace Kazuha and Xilonen in
+standard Neuvillette teams
+. Citlali serves as Cryo support, applying Hydro resistance shred and shielding, which aids in resistance to interruption during Neuvillette’s attack sequences. Her kit ensures strong Freeze uptime, working alongside Escoffier to maintain the Cryo-Hydro reaction cycle. As this composition consists of double Hydro and double Cryo units, Neuvillette and Furina fully benefit from both Cryo and Hydro resonance bonuses, namely Crit Rate and HP boosts, both of which they scale from, further buffing their stats.
+Players who prefer Kazuha or Xilonen over Citlali can still use either of them in place of Citlali, as both Xilonen and Kazuha provide buffs that compensate for the loss of Escoffier’s and Citlali's passive effects combined.
+Team Roles
+Neuvillette
+: Main DPS
+Furina:
+Buffer,
+Sub-DPS
+Citlali
+: Buffer, Shielder, Cryo Enabler
+Escoffier:
+Buffer, Healer, Cryo Enabler
+Ayato + Furina + Yelan + Escoffier
+Ayato, Furina, Yelan, and Escoffier form a Triple Hydro core with strong damage scaling, resistance shredding, and sustained healing, making them a highly effective team with solid sub-DPS synergy. Ayato serves as the main DPS, utilizing his fast Hydro-infused normal attacks to apply consistent elemental damage. While his synergy with Furina is less pronounced than it would be for Neuvillette, Furina still remains the top support choice, providing damage buffs and additional Hydro application to reinforce Freeze uptime. Yelan brings off-field Hydro application and sub-DPS utility, making her a natural complement to Ayato and Furina despite lacking direct buffing abilities.
+Related
+The Unwritten Rules of Playing Genshin Impact's Ayato
+Genshin Impact's Ayato is a highly flexible Hydro applicator for players to have and can be used in almost any kind of team comp.
+Posts
+By
+Blade Moore
+Escoffier becomes the sole Cryo enabler for Freeze mechanics, ensuring consistent enemy immobilization while reducing Hydro resistance—benefiting all three Hydro units by enhancing their damage potential against weakened opponents. This setup prioritizes sustained damage uptime, and perma freeze, thanks to Escoffier being capable of consistent Cryo application off-field.
+Ayato
+: Main DPS
+Furina:
+Buffer,
+Sub-DPS
+Yelan
+: Sub-DPS
+Escoffier:
+Buffer, Healer, Cryo Enabler
+Mavuika + Bennett + Citlali + Escoffier
+Mavuika, Bennett, Citlali, and Escoffier form a double Cryo/Pyro team, primarily focused on Melt reaction consistency rather than maximizing Escoffier’s kit. While Escoffier is typically more effective in Freeze compositions, her Cryo application and resistance shredding can still contribute to Melt setups, particularly for players who lack access to Xilonen, Kazuha, or Furina, who are among
+Mavuika’s strongest team members
+. Nevertless, with this team, players will be able to benefit from both Pyro and Cryo resonance, which can also make Mavuika easier to optimize for maximum DMG.
+Mavuika serves as the main Pyro DPS, applying consistent Pyro damage to trigger Melt reactions. Bennett provides ATK buffs and healing, ensuring Mavuika can maintain high damage output while staying sustained in combat. Citlali acts as the primary Pyro buffer, as an addition to her role in other team compositions, and together with Escoffier, they can maintain excellent Cryo application for consistent Melt DMG uptime. While she does not provide the same level of elemental manipulation as Kazuha or Xilonen, Escoffier’s role in this composition is less about direct synergy and more about reinforcing Cryo uptime, especially for players who are looking for a multi-purpose Cryo off-field unit.
+Mavuika
+: Main DPS, Pyro Enabler
+Bennett:
+Buffer,
+Healer, Battery
+Citlali
+: Buffer, Shielder, Cryo Enabler
+Escoffier:
+Buffer, Healer, Cryo Enabler
+Like
+Follow
+Followed
+Genshin Impact
+RPG
+Action
+Adventure
+Gacha
+Open-World
+Systems
+8
+/10
+Released
+September 28, 2020
+6 Images
+Close
+Where to play
+Close
+WHERE TO PLAY
+SUBSCRIPTION
+DIGITAL
+ESRB
+Teen / Alcohol Reference, Fantasy Violence, In-Game Purchases (Includes Random Items), Users Interact
+Developer(s)
+HoYoverse (Formerly miHoYo)
+Publisher(s)
+HoYoverse (Formerly miHoYo)
+Engine
+Unity
+Multiplayer
+Online Co-Op
+Cross-Platform Play
+All platforms
+Cross Save
+All platforms
+PC Release Date
+September 28, 2020
+Xbox Series X|S Release Date
+November 20, 2024
+PS5 Release Date
+April 28, 2021
+Genre(s)
+RPG
+,
+Action
+,
+Adventure
+, Gacha,
+Open-World
+Platform(s)
+PlayStation 5
+,
+PlayStation 4
+,
+Xbox Series X
+,
+Xbox Series S
+,
+PC
+,
+iOS
+,
+Android
+OpenCritic Rating
+Strong
+X|S Optimized
+yes
+Powered by
+Expand
+Collapse
+Video Games
+Genshin Impact
+miHoYo
+Follow
+Followed
+Like
+Share
+Facebook
+X
+WhatsApp
+Threads
+Bluesky
+LinkedIn
+Reddit
+Flipboard
+Copy link
+Email
+Close
+Poll
+POLL
+Which recently released Nintendo cozy game do you prefer?
+Pokemon Pokopia
+Pokemon Pokopia
+57.6%
+Tomodachi Life: Living the Dream
+Tomodachi Life: Living the Dream
+42.4%
+See Results
+Submit
+Trending Now
+Anime Adaptation of Massively Popular Mystery Novel Series Announced
+Masters of Albion First Impressions: Real Nostalgia, Real Growing Pains
+Elder Scrolls Online: The Best Classes For Beginners In 2026, Ranked
