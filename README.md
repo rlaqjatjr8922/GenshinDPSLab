@@ -1,44 +1,42 @@
-# 🔥 Genshin Auto DPS Analyzer
+# Genshin Auto DPS Analyzer
 
-## 📌 프로젝트 소개
+## 프로젝트 소개
 
-이 프로젝트는 **원신 캐릭터의 최적 파티 구성과 행동 순서를 자동으로 분석**하는 프로그램입니다.
+원신 캐릭터 파티랑 행동 순서를 자동으로 계산해서
+딜이 가장 잘 나오는 조합을 찾는 프로그램입니다.
 
-웹 데이터를 수집하고, 행동 조건을 생성한 뒤,
-gcsim 시뮬레이션을 통해 **가장 높은 DPS를 내는 파티 순서**를 찾아냅니다.
-
----
-
-## ⚙️ 기능 (1 ~ 4 단계)
-
-### 1️⃣ 데이터 수집 (Collect)
-
-* 캐릭터별 웹 검색
-* 파티 / 무기 / 성유물 정보 추출
-* 텍스트 분석 및 정리
-
-### 2️⃣ 전처리 (Preprocess)
-
-* gcsim Legal Actions 크롤링
-* 행동 가능 조건 생성
-* notes 및 조건 데이터 정리
-
-### 3️⃣ 엔진 (Engine)
-
-* 파티 순서 모든 경우 생성 (Permutation)
-* gcsim 실행
-* 메인 딜러 기준 DPS 평가
-* 최고 순서 선택
-
-### 4️⃣ 새부분석 (Postprocess)
-
-* 최종 결과 정리
-* 실패 캐릭 제외
-* JSON / CSV 결과 저장
+웹에서 정보 모아서 정리하고,
+gcsim 돌려서 실제 DPS 기준으로 결과를 뽑습니다.
 
 ---
 
-## 📂 폴더 구조
+## 기능
+
+### 1. 데이터 수집
+
+캐릭터별로 검색해서
+파티, 무기, 성유물 정보 가져옵니다.
+
+### 2. 전처리
+
+gcsim에서 사용할 행동 조건을 만들고
+필요한 데이터 정리합니다.
+
+### 3. 엔진
+
+파티 순서를 바꿔가면서
+gcsim으로 딜 계산하고
+가장 높은 결과를 선택합니다.
+
+### 4. 새부분석
+
+결과 정리하고
+실패한 캐릭은 제외해서
+최종 파일로 저장합니다.
+
+---
+
+## 폴더 구조
 
 ```text
 main.py
@@ -50,136 +48,75 @@ output/
 external_postprocess/
 ```
 
-### 주요 폴더 설명
-
-```text
-controller/ : 버튼 → 실행 연결
-ui/ : UI 구성
-data/ : 입력/중간 데이터
-output/ : 결과 및 로그
-external_postprocess/ : gcsim + GA 분석 엔진
-```
-
 ---
 
-## ▶️ 실행 방법
+## 실행 방법
 
 ```bash
 python main.py
 ```
 
-### 실행 순서
-
-```text
-1 → 데이터 수집
-2 → 전처리
-3 → 엔진 실행
-4 → 결과 생성
-```
-
-또는 UI에서 버튼 클릭으로 실행
+UI에서 버튼 순서대로 실행하면 됩니다.
 
 ---
 
-## ⚙️ 설정값
+## 설정값
 
-### 1️⃣ Collect 설정
+### 1번 (수집)
 
-```text
-MAX_WORKERS
-SEARCH_RESULT_LIMIT
-MAX_DOCS_PER_CHARACTER
-MIN_TEXT_LENGTH
-SAVE_RAW_TEXT
-IGNORE_KEYWORDS
-BLOCK_SITES
-```
+* 동시 실행 수
+* 검색 결과 개수
+* 문서 저장 개수
+* 최소 글자 수
+* txt 저장 여부
+* 제외 키워드
+* 제외 사이트
 
----
+### 2번 (전처리)
 
-### 2️⃣ Preprocess 설정
+* 동시 실행 수
 
-```text
-MAX_WORKERS
-```
+### 3번 (엔진)
 
----
+* 동시 실행 수
+* iteration
+* duration
+* timeout
 
-### 3️⃣ Engine 설정
+### 4번 (새부분석)
 
-```text
-MAX_WORKERS
-ITERATION
-DURATION
-GCSIM_TIMEOUT
-```
+* 동시 실행 수
+* 개체 수
+* 세대 수
+* 토큰 범위
 
 ---
 
-### 4️⃣ 새부분석 설정
+## 결과 파일
 
-```text
-MAX_WORKERS
-POP_SIZE
-GENERATIONS
-T_START
-T_MAX
-GCSIM_TIMEOUT
-ITERATION
-DURATION
-```
+### data
 
----
+* teams.json → 파티 정보
+* gear.json → 장비 정보
+* best_orders.json → 최고 순서
 
-## 📊 결과 파일 설명
+### output
 
-### data/
-
-```text
-teams.json → 캐릭터별 파티
-gear.json → 무기 / 성유물
-best_orders.json → 최고 DPS 순서
-gcsim_legal_actions_all.json → 행동 데이터
-```
+* failed_runs.csv → 실패한 캐릭
+* 최종 결과 파일
+* 로그 및 config
 
 ---
 
-### output/
+## 핵심 방식
 
-```text
-failed_runs.csv → 실패 캐릭 목록
-final_results.csv → 최종 결과
-로그 파일
-gcsim config 파일
-```
+파티 하나 정해놓고
+순서만 바꿔가면서 전부 돌린 다음
+딜 가장 높은 걸 고르는 방식입니다.
 
 ---
 
-## 🔥 핵심 알고리즘
+## 한줄 정리
 
-```text
-1. 파티 고정
-2. 순서 모든 경우 생성
-3. gcsim 실행
-4. DPS 계산
-5. 최고 결과 선택
-```
-
----
-
-## 🚀 특징
-
-* 자동 데이터 수집
-* 조건 기반 행동 생성
-* GA + 시뮬레이션 기반 최적화
-* 병렬 처리 지원
-* 실패 자동 처리 및 스킵
-
----
-
-## 📌 한줄 요약
-
-```text
-원신 파티와 행동 순서를 자동으로 최적화하는 DPS 분석 엔진
-```
-을 만들고있는중임니다
+원신 파티 순서 자동으로 돌려서
+딜 제일 잘 나오는 조합 찾는 프로그램
