@@ -1,0 +1,2 @@
+[DPS 오류] barbara | individual={'beidou': ['dash'], 'barbara': ['burst'], 'amber': ['burst'], 'fischl': ['burst']}
+[DPS 오류 내용] DPS 추출 실패
