@@ -1,5 +1,6 @@
 import random
-from config import DEFAULT_ACTION_WEIGHTS
+from config.config import DEFAULT_ACTION_WEIGHTS
+
 
 
 def get_action_weight(action_name: str, is_main_dps: bool, genome: dict) -> float:

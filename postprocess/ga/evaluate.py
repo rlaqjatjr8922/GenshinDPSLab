@@ -1,6 +1,6 @@
 import multiprocessing as mp
 
-from config import WORKERS
+from config.config import WORKERS
 
 
 def evaluate_one_individual(

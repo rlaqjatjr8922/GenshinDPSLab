@@ -1,4 +1,4 @@
-from config import CHARACTER_DEFAULT_STATES
+from config.config import CHARACTER_DEFAULT_STATES
 
 
 def init_party_state(members: list[str], active_char: str):

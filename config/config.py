@@ -38,12 +38,73 @@ TEAMS_JSON = DATA_DIR / "teams.json"
 GEAR_JSON = DATA_DIR / "gear.json"
 BEST_ORDERS_JSON = DATA_DIR / "best_orders.json"
 
-# 네가 원하는 저장 위치
 LEGAL_ACTIONS_JSON = DATA_DIR / "gcsim_legal_actions_all.json"
 LEGAL_PARSER_JSON = DATA_DIR / "gcsim_legal_actions_parser.json"
 
-# 실패 CSV는 output
+# =========================================
+# 실패 파일
+# =========================================
 FAILED_ACTIONS_CSV = OUTPUT_DIR / "gcsim_legal_actions_failed.csv"
+
+# =========================================
+# 병렬 처리
+# =========================================
+WORKERS = 4
+
+# =========================================
+# 토큰 / 행동 관련
+# =========================================
+MAIN_DPS_BONUS = 2.0
+SUPPORT_WEIGHT = 1.0
+MAX_TOKEN_RATIO = 0.5
+
+ACTION_BLACKLIST = {"swap"}
+
+ACTION_KEYS = [
+    "attack",
+    "charge",
+    "aim",
+    "skill",
+    "burst",
+    "dash",
+    "jump",
+    "walk",
+    "low_plunge",
+    "high_plunge",
+]
+
+DEFAULT_ACTION_WEIGHTS = {
+    "attack": 1.0,
+    "charge": 0.7,
+    "aim": 0.2,
+    "skill": 1.3,
+    "burst": 1.4,
+    "dash": 0.4,
+    "jump": 0.3,
+    "walk": 0.1,
+    "low_plunge": 0.6,
+    "high_plunge": 0.8,
+}
+
+CHARACTER_DEFAULT_STATES = {}
+
+# =========================================
+# GA 설정
+# =========================================
+POP_SIZE = 100
+GENERATIONS = 50
+MUTATION_PROB = 0.15
+SURVIVAL_RATIO = 0.20
+ELITE_RATIO = 0.05
+RANDOM_INJECTION_RATIO = 0.15
+
+# =========================================
+# T 탐색
+# =========================================
+T_START = 4
+T_MAX = 30
+EARLY_STOP_DROP_RATIO = 0.05
+EARLY_STOP_STREAK = 3
 
 # =========================================
 # 초기 폴더 생성 함수
@@ -60,5 +121,6 @@ def ensure_dirs():
         FAILED_DIR,
         BIN_DIR,
     ]
+
     for d in dirs:
         d.mkdir(parents=True, exist_ok=True)

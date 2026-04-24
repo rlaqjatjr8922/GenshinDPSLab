@@ -1,7 +1,7 @@
 import os
 import re
 import subprocess
-from config import GCSIM_EXE
+from config.config import GCSIM_EXE
 
 
 def run_gcsim(config_path: str) -> str:

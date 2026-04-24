@@ -1,5 +1,5 @@
 import copy
-from config import (
+from config.config import (
     POP_SIZE,
     GENERATIONS,
     MUTATION_PROB,

@@ -1,4 +1,4 @@
-from config import ACTION_BLACKLIST
+from config.config import ACTION_BLACKLIST
 
 
 def check_condition(condition: dict, local_state: dict, next_action_name: str | None = None) -> bool:

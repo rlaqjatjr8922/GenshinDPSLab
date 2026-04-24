@@ -1,4 +1,4 @@
-from config import (
+from config.config import (
     T_START,
     T_MAX,
     EARLY_STOP_DROP_RATIO,
