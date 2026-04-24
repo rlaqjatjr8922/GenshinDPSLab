@@ -11,15 +11,9 @@ TOKEN_RE = re.compile(r"^\s*(.*?)\((\d+)\)\s*$")
 
 def save_json(path: Path, data):
     path.parent.mkdir(parents=True, exist_ok=True)
+
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
-
-
-def load_json(path: Path):
-    if not path.exists():
-        return {}
-    with open(path, "r", encoding="utf-8") as f:
-        return json.load(f)
 
 
 def build_reverse_alias_map(data: dict):
@@ -90,8 +84,10 @@ def pick_top_party_members(party_text: str, character_reverse_map: dict, limit: 
             norm = normalize_to_canonical(name, character_reverse_map)
             if norm and norm not in members:
                 members.append(norm)
+
             if len(members) >= limit:
                 break
+
         return members
 
     for chunk in str(party_text or "").split("/"):
@@ -123,6 +119,7 @@ def pick_top_one(text: str, reverse_alias_map: dict):
 
 def append_summary_row(summary_row: dict, filename: str = "summary.csv"):
     COLLECTED_DIR.mkdir(parents=True, exist_ok=True)
+
     csv_path = COLLECTED_DIR / filename
     file_exists = csv_path.exists()
 
@@ -151,11 +148,8 @@ def upsert_collect_outputs(app_state, summary_row: dict, log_callback=None):
     weapon_reverse_map = build_reverse_alias_map(app_state.weapons or {})
     set_reverse_map = build_reverse_alias_map(app_state.sets or {})
 
-    teams_path = DATA_DIR / "teams.json"
-    gear_path = DATA_DIR / "gear.json"
-
-    teams = load_json(teams_path)
-    gear = load_json(gear_path)
+    teams = app_state.teams or {}
+    gear = app_state.gear or {}
 
     character = (
         summary_row.get("character")
@@ -193,8 +187,11 @@ def upsert_collect_outputs(app_state, summary_row: dict, log_callback=None):
     else:
         log(f"[skip gear] {char_key}: weapon={weapon_text}, set={set_text}")
 
-    save_json(teams_path, teams)
-    save_json(gear_path, gear)
+    app_state.teams = teams
+    app_state.gear = gear
+
+    save_json(DATA_DIR / "teams.json", teams)
+    save_json(DATA_DIR / "gear.json", gear)
 
     log(f"[saved] {char_key}")
     log(f"[collect] teams: {len(teams)}개")

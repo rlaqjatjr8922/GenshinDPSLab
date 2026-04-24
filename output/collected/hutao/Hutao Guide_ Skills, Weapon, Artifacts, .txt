@@ -1,0 +1,151 @@
+Hutao Guide: Skills, Weapon, Artifacts, Team Build - Genshin Impact
+By
+KoeniginYU
+Last updated:
+9 November 2022
+0
+Content
+Hutao [Overview]
+Hutao [Skills]
+Hutao [Weapon]
+Hutao [Artifacts Sets]
+Hutao [Team Build]
+Hutao [Overview]
+Hutao, the 77th Director of the Wangsheng Funeral Parlor, a person vital to managing Liyue's funerary affairs.
+Hu Tao's character is extremely odd, writing her eccentric adventure poems at midnight and going all over the Liyue during the daytime. Even though she always comes and goes, she can light and warm all the people around her.
+As a Pyro five stars’ character, she uses the weapon, Polearm.
+Hutao [Skills]
+Skill Talent
+Details
+Normal Attack
+Secret
+Spear
+of
+Wangsheng
+Normal Attack
+Max 6 stacks
+Charged Attack
+Consuming stamina and rush forward to cause damage on the path.
+Plunging attack
+Attacking in the path of falling, and causing damage when landing.
+Elemental Skill
+Guide to Afterlife
+Using part of HP, knocks back the surrounding enemies, and enters the Paramita Papilio state.
+Paramita Papilio
+Based on the upper limit of Hutao's HP and increase ATT. It cannot exceed 400% of Hutao's basic attack power.
+Turn the attack damage into Pyro elemental damage, and this elemental transformation cannot be covered by enchantment.
+Charged Attacks apply the Blood Blossom effect to the hit.
+Improve Hutao's ability to resist interruptions.
+Blood Blossom
+Enemies will receive Pyro damage every 4s. This damage is regarded as elemental combat skill damage.
+There can only be one Blood Blossom effect on the same target, and it can only be refreshed for the duration by Hutao herself.
+* will be ended of its duration, or character exits the field or falls down.
+Elemental Burst
+Spirit Soother
+Inflicts large-scale Pyro elemental damage.
+When hitting an enemy, based on the upper limit of Hutao's HP, her HP will be restored. This effect will take effect on up to 5 enemies hit.
+If
+HP is ≤ 50%
+, it will cause
+higher damage
+and
+healing
+.
+Hutao [Weapon Choice]
+I suggest choosing the Weapon with:
+Critical DMG, Crit Rate
+HP
+ATT %, ATT Flat
+*4 Stars’ Crafting weapons are not good for Hutao, if you don’t have one from Wish, I recommend Prototype Starglitter to give some Charge Attack.
+*3 Stars’ weapons base attack is too low, not recommended.
+Weapon
+Details
+Staff of Homa (Wish)
+HP increased by 20%, additionally, provides an ATK Bonus based on 0.8% of the wielder's Max HP. When HP is less than 50%, this ATK Bonus is increased by an additional 1% of Max HP.
+Primordial Jade Winged-Spear (Wish)
+On hit, increases ATK by 3.2% for 6s. Max 7 stacks. This effect can only occur once every 0.3s. While in possession of the maximum possible stacks, DMG dealt is increased by 12%.
+Deathmatch (buy BP Pass)
+Increase DMG dealt by Normal and Charged Attacks by 20%. Additionally, regenerates 60% of ATK as HP when Normal and Charged Attack score a CRIT Hit. This effect can occur once every 5s.
+Dragon's Bane(Wish)
+If are there at least 2 enemies nearby, ATK increased by 16% and DEF increased by 16%. If there are fewer than 2 enemies nearby, ATK is increased by 24%.
+Blackcliff Pole(Wish)
+After defeating an opponent, ATK is increased by 12% for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others.
+The Catch (Exchanging)
+The best free four stars weapon for Hutao, with high energy rechage.
+Obtain: ①Catch 20 Rusty Koi， ②Catch 20 Golden Koi， ③Catch 6 Raimei Angelfish，④ Exchange the fishes to Kujirai Momiji's shop in Inazuma.
+Favonius Lance (Wish)
+CRIT hits have a 60% - 100% chance to generate a small number of Elemental Paticles, in every12-6s.
+White Tasse (Wish)
+The best 3-star weapon for Hutao. With ATK and Crit Rite. But we are going to build Hutao as a strong DPS, the 3 stars weapon is good for transformation.
+Crafting Weapon
+Mondstadt/Liyue/Inazuma's Crafting Polearms are not the best choice. If you are only going to prepare one for Hutao, try crafting one "Prototype Starglitter" from Liyue.
+Hutao [Artifacts Sets]
+Same as weapon Status on your artifacts, these are the focus points:
+Critical DMG, Crit Rate
+HP %
+ATT %
+ATT Flat≥ HP Flat
+Prioritizing Crit damage gives the biggest DPS output. HP % will boost her elemental Skills the most. Att Flat is taken because it usually has a bigger impact on attacks than flat HP.
+Basic
+(Obtaining difficulty is low, only for transition):
+Berserker (Crit Rate)
+Martial Artist (Charged Attack DMG)
+Advanced
+(Obtaining difficulty is low, only for transition):
+2 + 2 + 1 free
+The two “2” could be:
+Crimson Witch of Flames Set / Wanderer's Troupe Set / Noblesse Oblige Set / Gladiator Set.
+Premium:
+③  4 Crimson Witch of Flames Set + 1 free
+Artifact
+Details
+Crimson Witch of Flames
+2-Piece: Pyro +15%.
+4-Piece:
+The damage caused by overload and combustion reactions is increased by 40%, and the Vaporize and melting reactions are increased by 15%. 2-piece is increased by 50% in 10s, max up to 3 times.
+Berserker (Max 4stars)
+【Farm Location】
+All bosses.
+Such as: Fatui, Mages, Ruin Hunters, and Mitachurls.
+Martial Artist (Max 4stars)
+Farm Location: 【Domain】
+Hidden Palace Of Zhou Formula, Liyue
+Hutao [Team Build]
+Hu Tao's team composition primarily revolves around her and Zhongli, but there are several viable options:
+Hu Tao, Xingqiu, Chongyun, and Zhongli
+: This team focuses on high AoE damage and freeze combos.
+Hu Tao, Xingqiu, Bennett, and Xiangling
+: A well-rounded team that provides healing, energy recharge, and Pyro resonance.
+When using Hutaoas Main DPS in a team, the other teammates could:
+provide healing.
+provide Elemental Reactions.
+provide shield.
+Basic: *(If you are totally f2p, and no extra good characters for Hutao at the moment)
+Hutao + Barbara + Fischl + Kaeya
+Xingqiu can heal, and Kaeya’s elemental burst will provide the shield and the reactions.
+Two Pyros will increase damage.
+Advanced: *(More choices in the list below)
+Hutao + Xingqiu + Bennett + Kaeya
+Hutao + Xiangling + Fischl + Noelle
+Hutao + Xingqiu + Xiangling + Fischl
+Noelle and Diona can give the shield and Healing. Bennett can increase the DMG and Healing.
+Intermediate (More Choices in the table):
+Hutao + Xingqiu + Albedo + Zhongli
+Barbara and Qiqi are good healers, but the more continuous Healing they do, the less damage Hutao will do. So I prefer to use Jean here.
+Healer
+Support 1
+(Gather Enemies or Provide the Elemental reactions )
+Support 2
+(Shield Buff)
+5 Stars
+Jean
+Ganyu/ Albedo
+Zhongli
+4 Stars
+Xingqiu
+Fischl/ Xiangling/ Kaeya/ Bennett/ Chongyun
+Noelle/ Diona
+Here, you can see "Constellation or Weapon - Which One is Important for Hutao"
+Your turn:
+Like, Dislike, comment, or share!
+0

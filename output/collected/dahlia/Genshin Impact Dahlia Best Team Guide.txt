@@ -1,0 +1,429 @@
+Genshin Impact Dahlia Best Team Guide
+Last updated April 24, 2026. Looking for the best Dahlia teams in
+        Genshin Impact? Start with the top team summary below, then pick the
+        lineup that fits your roster.
+This page provides the best team information for Dahlia, primarily a Support character. Top teams include various compositions where Dahlia can provide shields and increase attack speed, and can be paired with Sub-DPS characters like Yelan or Fischl in teams such as Vaporize or Aggravate comps, with flexibility to adjust based on your roster.
+View Dahlia's character page
+Dahlia Team Summary
+#1
+Team Rating:S
+Dahlia Permafrost Team #1
+#2
+Team Rating:S
+Dahlia Anemo Wanderer Team
+#3
+Team Rating:S
+Dahlia Vaporization Team
+#4
+Team Rating:S
+Dahlia Permafrost Ayato Furina Escoffier
+#5
+Team Rating:S
+Clorinde Electro Aggravate Team with Fischl, Xilonen & Dahlia
+C6
+#1 Dahlia Permafrost Team #1
+Tier S
+Permafrost team built around
+Skirk
+as the on-field Cryo DPS, with
+Dahlia
+providing shields and attack speed,
+Furina
+enabling strong teamwide DMG buffs, and
+Escoffier
+supplying off-field Cryo application, healing, and Cryo/Hydro RES shred.
+Skirk
+Main DPS
+Cryo
+Main on-field Cryo carry. Uses Seven-Phase Flash mode to infuse Normal Attacks with Cryo and enhance Burst damage. Prioritizes Serpent's Subtlety generation and absorbs Void Rifts for stronger Burst damage.
+Artifacts
+Finale of the Deep Galleries
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Azurelight
+Calamity of Eshu
+Dahlia
+Support
+Hydro
+Provides a shield and increases allies' attack speed. Uses Favonius Sword to help with Energy Recharge and team utility.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+Energy Recharge
+Goblet
+HP%
+Circlet
+HP%
+Substats
+Energy Recharge / HP% / CRIT Rate
+Weapons
+Favonius Sword
+Furina
+Sub DPS
+Hydro
+Off-field Hydro support that provides sustained Hydro application and a powerful team DMG bonus based on HP changes. Best paired with healing to offset her HP drain.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Freedom-Sworn
+Favonius Sword
+Escoffier
+Support
+Cryo
+Off-field Cryo support/healer. Summons a Cooking Mek for sustained Cryo damage, and her Skill/Burst reduce enemy Cryo or Hydro RES, scaling with the number of Cryo and Hydro party members.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Symphonist of Scents
+Favonius Lance
+#2 Dahlia Anemo Wanderer Team
+Tier S
+Wanderer
+is the main on-field DPS, with Dahlia providing support utility, Faruzan shredding Anemo RES and boosting Anemo DMG, and Bennett supplying a strong ATK buff plus healing. The team is centered around maximizing Wanderer’s Hovering State damage through layered buffs and support effects.
+Wanderer
+Main DPS
+Anemo
+Uses Elemental Skill to enter Hovering State and attack from the air. Benefits greatly from Bennett's Pyro buff and Yelan's Hydro interaction note in the source, though the listed team here centers on Dahlia/Faruzan/Bennett support for Wanderer.
+Artifacts
+Desert Pavilion Chronicle
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / ATK% / Energy Recharge
+Weapons
+Tulaytullah's Remembrance
+The Widsith
+Dahlia
+Support
+Hydro
+Provides attack speed for allies and a shield. Best used as a support slot with high Energy Recharge and HP investment.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+Energy Recharge
+Goblet
+HP%
+Circlet
+HP%
+Substats
+Energy Recharge / HP% / CRIT Rate
+Weapons
+Freedom-Sworn
+Favonius Sword
+Faruzan
+Support
+Anemo
+Applies Anemo RES decrease and DMG Bonus to Wanderer through her Elemental Burst. At C6, she also grants additional CRIT DMG Bonus.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / Energy Recharge / ATK%
+Weapons
+Favonius Warbow
+Bennett
+Support
+Pyro
+Elemental Burst provides a huge ATK buff and healing to the team.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+Energy Recharge / HP%
+Weapons
+Mistsplitter Reforged
+The Alley Flash
+#3 Dahlia Vaporization Team
+Tier S
+Vaporization
+team centered around Yoimiya's Pyro Normal Attacks, amplified by Yelan's off-field Hydro application.
+Dahlia provides shield and Attack Speed buffs, while Bennett supplies strong ATK buff and healing.
+Yoimiya
+Main DPS
+Pyro
+Yoimiya is the main DPS. Her damage is amplified by
+Vaporize
+reactions in this team.
+Artifacts
+Shimenawa's Reminiscence
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Thundering Pulse
+Rust
+Yelan
+Sub DPS
+Hydro
+Yelan provides continuous off-field Hydro application to trigger Vaporize. Her Elemental Burst also increases allies' damage via her passive talent.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Aqua Simulacra
+Favonius Warbow
+Dahlia
+Support
+Hydro
+Dahlia increases allies' attack speed and provides a shield.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+Energy Recharge
+Goblet
+HP%
+Circlet
+HP%
+Substats
+Energy Recharge / HP% / CRIT Rate
+Weapons
+Freedom-Sworn
+Favonius Sword
+Bennett
+Support
+Pyro
+Bennett's Elemental Burst provides a huge ATK buff and healing to the team.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+Energy Recharge / HP%
+Weapons
+Mistsplitter Reforged
+The Alley Flash
+#4 Dahlia Permafrost Ayato Furina Escoffier
+Tier S
+Permafrost-style Hydro/Cryo team built around Ayato as the on-field driver with Furina buffing team damage and Escoffier providing Cryo support, healing, and resistance shred. Dahlia adds shielding and attack speed to keep Ayato comfortable on-field.
+Kamisato Ayato
+Main DPS
+Hydro
+On-field Hydro driver and main damage dealer. His continuous Hydro attacks help trigger reactions consistently.
+Artifacts
+Marechaussee Hunter
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / HP%
+Weapons
+Haran Geppaku Futsu
+The Black Sword
+Dahlia
+Support
+Hydro
+Provides shielding and increases allies' attack speed, helping Ayato stay active and maintain smoother combos.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+Energy Recharge
+Goblet
+HP%
+Circlet
+HP%
+Substats
+Energy Recharge / HP% / CRIT Rate
+Weapons
+Freedom-Sworn
+Favonius Sword
+Furina
+Sub DPS
+Hydro
+Off-field Hydro application and major team damage buffer. Her Burst boosts team damage based on HP changes, which works well with team healing.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Freedom-Sworn
+Favonius Sword
+Escoffier
+Support
+Cryo
+Off-field Cryo damage, team healing, and Cryo/Hydro resistance shred. Her effectiveness improves with more Cryo and Hydro characters in the party.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Symphonist of Scents
+Favonius Lance
+#5 Clorinde Electro Aggravate Team with Fischl, Xilonen & Dahlia
+Tier S
+An Electro-focused Aggravate team built around
+Clorinde
+as the on-field carry.
+Fischl
+provides strong off-field Electro application for Aggravate,
+Xilonen
+offers RES shred and healing, and
+Dahlia
+gives shield and attack speed support.
+Clorinde
+Main DPS
+Electro
+On-field Electro DPS. Her Elemental Skill converts Normal Attacks into Electro pistol attacks for sustained damage and Bond of Life management.
+Artifacts
+Fragment of Harmonic Whimsy
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Absolution
+The Black Sword
+Fischl
+Sub DPS
+Electro
+Constellation 6+
+Provides continuous off-field Electro application to enable Aggravate.
+C6
+is a major upgrade for the team.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Aqua Simulacra
+Alley Hunter
+Xilonen
+Support
+Geo
+Applies enemy elemental RES reduction through Samplers and provides healing to the team.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Peak Patrol Song
+Favonius Sword
+Dahlia
+Support
+Hydro
+Provides shield and increases allies' attack speed. Uses
+Noblesse Oblige
+to boost team damage.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+Energy Recharge
+Goblet
+HP%
+Circlet
+HP%
+Substats
+Energy Recharge / HP% / CRIT Rate
+Weapons
+Freedom-Sworn
+Favonius Sword
+Dahlia Teams FAQ
+What is the best Dahlia team in Genshin Impact?
+Dahlia Permafrost Team #1 is one of the strongest Dahlia teams right now. Use the team summary and build cards on this page to pick the best version for your account.
+What are good Dahlia teams without premium weapons?
+You can run strong Dahlia teams without signature weapons by prioritizing reaction synergy, energy consistency, and artifact main stats shown in each build card.
+Which teammates are best with Dahlia?
+Common high-performing partners include teams such as Dahlia Permafrost Team #1, Dahlia Anemo Wanderer Team, Dahlia Vaporization Team. Check each lineup section for role breakdowns and gear priorities.

@@ -1,0 +1,752 @@
+Genshin Impact Furina Best Team Guide
+Last updated April 24, 2026. Looking for the best Furina teams in
+        Genshin Impact? Start with the top team summary below, then pick the
+        lineup that fits your roster.
+This page provides the best team information for Furina, primarily a Sub DPS. Top teams include Vaporize, Permafrost, and Melt compositions. Team positions can be adjusted based on your roster, with flexibility to swap Furina with Yelan in some teams.
+View Furina's character page
+Furina Team Summary
+#1
+Team Rating:SS
+Furina Aggravate Hyperbloom with Clorinde, Nahida, and Baizhu
+#2
+Team Rating:SS
+Furina Neuvillette Bloom
+#3
+Team Rating:SS
+Furina Vaporize Hu Tao Team
+#4
+Team Rating:SS
+Furina Raiden Core Electro-Charged Team
+#5
+Team Rating:SS
+Furina Bloom Nilou Nahida Baizhu SS Team
+#6
+Team Rating:SS
+Furina Vaporize #2
+C6
+C2
+#7
+Team Rating:SS
+Furina Geo Noelle Hypercarry
+#8
+Team Rating:SS
+Furina Spread Hyperbloom with Alhaitham and Yae Miko
+#9
+Team Rating:SS
+Furina Quickbloom SS+ Team
+#1 Furina Aggravate Hyperbloom with Clorinde, Nahida, and Baizhu
+Tier SS
+An SS-tier Quicken-based team that combines
+Aggravate
+and
+Hyperbloom
+for very high sustained damage. Clorinde drives on-field Electro damage, Furina provides strong off-field Hydro application and team DMG buffs, Nahida supplies Dendro application and reaction setup, and Baizhu adds healing, shielding, and extra reaction support.
+Clorinde
+Main DPS
+Electro
+On-field Electro DPS. Uses her Elemental Skill to convert Normal Attacks into Electro pistol attacks for sustained damage and reaction triggers. Prioritize her personal damage and critical stats.
+Artifacts
+Fragment of Harmonic Whimsy
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Absolution
+The Black Sword
+Furina
+Sub DPS
+Hydro
+Off-field Hydro enabler and team buffer. Her Skill provides continuous Hydro application for Bloom-related reactions, while her Burst increases team damage based on HP changes.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Fleuve Cendre Ferryman
+Nahida
+Sub DPS
+Dendro
+Primary Dendro applier and reaction enabler. Her Skill links multiple enemies and deals consistent Dendro damage, making her excellent for Aggravate and Hyperbloom setups.
+Artifacts
+Deepwood Memories
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / ATK% / Energy Recharge
+Weapons
+A Thousand Floating Dreams
+Wandering Evenstar
+Baizhu
+Support
+Dendro
+Healer and shielder who keeps the team safe while contributing to Dendro reaction value. His passive also boosts Aggravate damage based on his Max HP.
+Artifacts
+Ocean-Hued Clam
+Main Stats
+Sands
+Energy Recharge
+Goblet
+HP%
+Circlet
+HP%
+Substats
+Energy Recharge / HP% / HP% / CRIT DMG / CRIT Rate
+Weapons
+Jadefall's Splendor
+Prototype Amber
+#2 Furina Neuvillette Bloom
+Tier SS
+Bloom-focused Hydro/Dendro team
+centered on Neuvillette and Furina, with Baizhu enabling Bloom cores and Kazuha providing grouping, buffs, and resistance shred.
+Neuvillette
+Main DPS
+Hydro
+On-field Hydro driver and main damage source. His continuous Hydro attacks react with Baizhu's Dendro to trigger Bloom.
+Artifacts
+Marechaussee Hunter
+Main Stats
+Sands
+HP%
+Goblet
+Hydro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Tome of the Eternal Flow
+Sacrificial Jade
+Furina
+Sub DPS
+Hydro
+Off-field Hydro application and team damage buffer. Her Skill maintains Hydro application for Bloom, while her Burst boosts party damage based on HP changes.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Fleuve Cendre Ferryman
+Kaedehara Kazuha
+Support
+Anemo
+Provides grouping, crowd control, team buffs, and Elemental Resistance shred. Best used to control enemies and amplify team damage.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Freedom-Sworn
+Iron Sting
+Baizhu
+Support
+Dendro
+Provides healing and shielding to keep the team safe. His passive also increases Bloom damage based on his Max HP.
+Artifacts
+Ocean-Hued Clam
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+HP% / HP% / Energy Recharge / CRIT DMG / CRIT Rate
+Weapons
+Jadefall's Splendor
+Prototype Amber
+#3 Furina Vaporize Hu Tao Team
+Tier SS
+Hu Tao Vaporize
+team with Furina and Yelan providing strong off-field Hydro application and massive damage amplification. Zhongli adds survivability and Tenacity buff uptime.
+Hu Tao
+Main DPS
+Pyro
+Main on-field carry. Her damage is amplified by Vaporize reactions in this team.
+Artifacts
+Crimson Witch of Flames
+Main Stats
+Sands
+HP% / Elemental Mastery
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Elemental Mastery / ATK%
+Weapons
+Staff of Homa
+Lithic Spear
+Yelan
+Sub DPS
+Hydro
+Provides continuous off-field Hydro application for Vaporize, while her Burst also boosts Hu Tao's damage via passive talent.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+HP%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+HP% / CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Aqua Simulacra
+The Stringless
+Furina
+Sub DPS
+Hydro
+Off-field Hydro application enables consistent Vaporize. Her Burst increases team damage based on HP fluctuations, which synergizes with self-HP drain and healing.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Fleuve Cendre Ferryman
+Zhongli
+Support
+Geo
+Provides a strong shield for safety and activates the 4-piece Tenacity of the Millelith ATK buff for the team.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Staff of Homa
+Black Tassel
+#4 Furina Raiden Core Electro-Charged Team
+Tier SS
+Raiden Shogun is the on-field Main DPS, with
+Yelan
+and
+Furina
+amplifying her damage through off-field Hydro application and buffing.
+Jean
+provides healing and
+Viridescent Venerer
+resistance shred to support Furina’s HP-based Burst buff and sustain the team.
+Raiden Shogun
+Main DPS
+Electro
+On-field main DPS. Her Burst damage is strongly amplified by Yelan and Furina, and her Skill helps increase team Burst damage while generating Energy for allies.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+Energy Recharge / ATK%
+Goblet
+ATK%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Engulfing Lightning
+"The Catch"
+Yelan
+Sub DPS
+Hydro
+Off-field Hydro Sub DPS. Provides consistent Hydro application for Electro-Charged and increases the active character’s damage through her Burst passive.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+HP%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG / CRIT Rate
+Substats
+HP% / CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Aqua Simulacra
+The Stringless
+Furina
+Sub DPS
+Hydro
+Off-field Hydro Sub DPS. Her Skill applies continuous Hydro for Electro-Charged, while her Burst provides a strong team DMG bonus based on allies’ HP fluctuations.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Fleuve Cendre Ferryman
+Jean
+Support
+Anemo
+Healer and Anemo support. Provides team sustain and
+Viridescent Venerer
+shred to lower enemy RES and boost team damage.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+#5 Furina Bloom Nilou Nahida Baizhu SS Team
+Tier SS
+Bloom-focused reaction team with strong off-field Hydro application from Furina and Nilou, enabling constant Bloom generation. Nilou's passive converts Bloom cores into
+Bountiful Cores
+for larger AoE damage, while Nahida provides consistent Dendro application and Baizhu offers healing and shielding to keep the team stable. Furina also adds burst damage and team-wide damage amplification through HP changes.
+Furina
+Main DPS
+Hydro
+Main DPS of the team. Her Elemental Skill provides continuous off-field Hydro application to trigger Bloom, and her Burst boosts team damage based on HP fluctuations.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Fleuve Cendre Ferryman
+Nilou
+Sub DPS
+Hydro
+Provides Hydro application and enables
+Bountiful Cores
+when the team is composed only of Hydro and Dendro characters. Focus on stacking HP to maximize her team utility.
+Artifacts
+Tenacity of the Millelith
+Vourukasha's Glow
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Elemental Mastery / CRIT Rate / CRIT DMG
+Weapons
+Key of Khaj-Nisut
+The Dockhand's Assistant
+Nahida
+Sub DPS
+Dendro
+Primary Dendro applicator. Her Skill links multiple enemies and enables frequent reactions, while her Burst buffs her Skill based on teammates' elements. With two Hydro teammates, her Burst duration is increased.
+Artifacts
+Deepwood Memories
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / ATK% / Energy Recharge
+Weapons
+A Thousand Floating Dreams
+Solar Pearl
+Baizhu
+Support
+Dendro
+Healer and shielder for team survivability. Also increases Bloom damage through his Max HP scaling passive.
+Artifacts
+Ocean-Hued Clam
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+HP% / HP% / Energy Recharge / CRIT DMG / CRIT Rate
+Weapons
+Jadefall's Splendor
+Prototype Amber
+#6 Furina Vaporize #2
+Tier SS
+Furina is the Main DPS. The team's Vaporize damage is maximized by
+Kazuha C2
+bonuses, while
+Xiangling
+and
+Bennett
+provide consistent Pyro application to enable Vaporize reactions.
+Furina's Elemental Skill provides continuous Hydro application even when off-field, and her Burst increases team damage based on HP changes, which are enabled by self-drain and Bennett's healing.
+Furina
+Main DPS
+Hydro
+Constellation 6+
+Furina DPS build. Her Elemental Skill enables continuous Hydro application for Vaporize, and her Burst scales with HP changes from team HP drain and healing.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Fleuve Cendre Ferryman
+Xiangling
+Sub DPS
+Pyro
+Xiangling's Burst deals massive damage and provides consistent Pyro application for Furina to Vaporize.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+ATK% / Energy Recharge
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Engulfing Lightning
+"The Catch"
+Kaedehara Kazuha
+Support
+Anemo
+Constellation 2+
+Provides grouping, crowd control, team damage buffs, and enemy Elemental RES shred via Viridescent Venerer.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Freedom-Sworn
+Iron Sting
+Bennett
+Support
+Pyro
+Bennett's Burst provides a strong ATK buff and healing for the team.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+#7 Furina Geo Noelle Hypercarry
+Tier SS
+Noelle is the main on-field DPS, with
+Gorou
+greatly amplifying her Geo/DEF scaling.
+Furina
+adds a powerful teamwide DMG buff and off-field damage, while also providing healing synergy to maintain the HP swings needed for her Burst.
+Noelle
+Main DPS
+Geo
+Main on-field DPS. Uses Elemental Burst to boost her Normal/Charged Attacks, with performance scaling especially well at higher constellations. Switching characters can extend Burst duration.
+Artifacts
+Husk of Opulent Dreams
+Main Stats
+Sands
+ATK% / DEF%
+Goblet
+Geo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Redhorn Stonethresher
+Whiteblind
+Albedo
+Sub DPS
+Geo
+Off-field Geo damage dealer. His Burst is boosted by Geo DMG Bonus and DEF scaling, especially with Gorou support.
+Artifacts
+Husk of Opulent Dreams
+Main Stats
+Sands
+DEF%
+Goblet
+Geo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Cinnabar Spindle
+Harbinger of Dawn
+Gorou
+Support
+Geo
+Geo support who provides Geo DMG Bonus and DEF Bonus to the team, with especially strong value at C6.
+Artifacts
+The Exile
+Main Stats
+Sands
+DEF%
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+DEF% / Energy Recharge / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Favonius Warbow
+Furina
+Support
+Hydro
+Team buffer and off-field damage dealer. Her Burst increases team DMG based on HP changes, which are enabled by her Skill and sustained by healing.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Fleuve Cendre Ferryman
+#8 Furina Spread Hyperbloom with Alhaitham and Yae Miko
+Tier SS
+Furina Spread + Hyperbloom
+Core team built around Alhaitham’s Dendro application and Yae Miko’s off-field Electro to enable Spread, while Furina adds strong off-field Hydro for Hyperbloom reactions and teamwide damage amplification. Baizhu provides sustain, shielding, and extra Dendro support. This is a very high-value, reaction-dense comp with excellent damage and comfort.
+Alhaitham
+Main DPS
+Dendro
+On-field Dendro carry. His Skill and Burst generate Chisel-Light Mirrors, and his attacks trigger coordinated Dendro projection damage based on mirror count.
+Artifacts
+Gilded Dreams
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Dendro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / ATK% / Energy Recharge
+Weapons
+Light of Foliar Incision
+Harbinger of Dawn
+Yae Miko
+Sub DPS
+Electro
+Off-field Electro application from her Skill helps trigger Spread and Hyperbloom reactions alongside Alhaitham and Furina.
+Artifacts
+Gilded Dreams
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT DMG / CRIT Rate
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Kagura's Verity
+The Widsith
+Furina
+Sub DPS
+Hydro
+Off-field Hydro from Skill helps generate Dendro Cores, while Burst boosts team damage based on HP fluctuations. Excellent damage amplifier for this comp.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Fleuve Cendre Ferryman
+Baizhu
+Support
+Dendro
+Healer and shielder who keeps the team safe while also increasing Spread damage through his passive based on Max HP. Best paired with Deepwood Memories for Dendro RES shred.
+Artifacts
+Deepwood Memories
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / Energy Recharge / CRIT DMG / CRIT Rate
+Weapons
+Jadefall's Splendor
+Prototype Amber
+#9 Furina Quickbloom SS+ Team
+Tier SS
+Furina Quickbloom
+is a no-normal-attack team built around Hyperbloom damage with strong off-field application and sustain. Furina acts as a Sub DPS, while Baizhu provides healing, shielding, and team comfort.
+Raiden Shogun
+Main DPS
+Electro
+Uses only Elemental Skill in this team and is built for Hyperbloom trigger damage.
+Artifacts
+Flower of Paradise Lost
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge / ATK%
+Weapons
+Dragon's Bane
+Emilie
+Sub DPS
+Dendro
+Off-field Dendro application from Lumidouce Case helps maintain Dendro presence for reaction setups. Her Burst further boosts Lumidouce Case damage.
+Artifacts
+Deepwood Memories
+Main Stats
+Sands
+ATK%
+Goblet
+Dendro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Lumidouce Elegy
+Deathmatch
+Furina
+Sub DPS
+Hydro
+Provides continuous off-field Hydro application to enable Blooming and strengthen the team's reaction uptime.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+Hydro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Favonius Sword
+Baizhu
+Support
+Dendro
+Provides healing and shielding for team survivability. His passive talent also increases the team's Hyperbloom damage based on his Max HP.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+Energy Recharge / HP%
+Weapons
+Jadefall's Splendor
+Prototype Amber
+Furina Teams FAQ
+What is the best Furina team in Genshin Impact?
+Furina Aggravate Hyperbloom with Clorinde, Nahida, and Baizhu is one of the strongest Furina teams right now. Use the team summary and build cards on this page to pick the best version for your account.
+What are good Furina teams without premium weapons?
+You can run strong Furina teams without signature weapons by prioritizing reaction synergy, energy consistency, and artifact main stats shown in each build card.
+Which teammates are best with Furina?
+Common high-performing partners include teams such as Furina Aggravate Hyperbloom with Clorinde, Nahida, and Baizhu, Furina Neuvillette Bloom, Furina Vaporize Hu Tao Team. Check each lineup section for role breakdowns and gear priorities.

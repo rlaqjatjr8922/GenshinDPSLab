@@ -1,0 +1,448 @@
+Home
+/
+Genshin Impact
+/
+Character List
+/
+Skirk Profile
+/
+Skirk Build
+Skirk Guide and Best Builds
+Skirk is a 5-star Cryo Sword character in Genshin Impact.
+Our Skirk build guide will focus on Skirk's best weapons,
+best artifacts, skills, constellations and Skirk's best teams.
+Last updated
+on
+Feb 11, 2026
+at
+11:30
+by
+GachaHub
+11 comments
+S+
+Rank
+Cryo
+Element
+Sword
+Weapon
+★
+★
+★
+★
+★
+Rarity
+Cat Protano
+EN Voice Actor
+Noto Mamiko
+JP Voice Actor
+Profile & Talents
+Build Guide
+Team Guide
+Skirk Guide & Best Builds
+Welcome to our Skirk build guide for Genshin Impact.
+Skirk
+is a 5-Star
+Cryo
+Main DPS Character who 
+focuses on the Freeze reaction. In our guide, we'll cover everything you need to 
+know to get the most out of your Skirk, from building the best Artifacts 
+and Weapons to important stat priorities and rotations.
+1.
+Skirk Build Guide Infographic
+Best Weapons for Skirk
+Listed below are Skirk's best weapons. While weapons are listed in a priority order,
+what's best to build on your Skirk can vary depending on the team composition and
+level of investment you want to put into Skirk.
+Azurelight
+(R1)
+132%
+Whitehill's Bestowal
+Base ATK:
+674
+CRIT Rate:
+22.1%
+Within 12s after an Elemental Skill is used, ATK is increased by
+24% / 30% / 36% / 42% / 48%
+. During this time, when the equipping character has 0 Energy, ATK will be further increased by
+24% / 30% / 36% / 42% / 48%
+, and CRIT DMG will be increased by
+40% / 50% / 60% / 70% / 80%
+.
+This is Skirk's signature weapon and provides way more damage supporting her both Burst playstyle and Normal Attack playstyle,
+Azurelight has high base attack which helps in providing enough attack to 
+Skirk which is very important as she cannot use traditional attack buffers like
+Bennett
+and
+Iansan
+,
+Haran Geppaku Futsu
+(R1)
+113%
+Honed Flow
+Base ATK:
+608
+CRIT Rate:
+33.1%
+Obtain
+12% / 15% / 18% / 21% / 24%
+All Elemental DMG Bonus. When other nearby party members use Elemental Skills, the character equipping this weapon will gain 1 Wavespike stack. Max 2 stacks. This effect can be triggered once every 0.3s. When the character equipping this weapon uses an Elemental Skill, all stacks of Wavespike will be consumed to gain Rippling Upheaval: each stack of Wavespike consumed will increase Normal Attack DMG by
+20% / 25% / 30% / 35% / 40%
+for 8s.
+This is the 2nd best option you can use to maximise skirk's damage as this 
+provides additional damage bonus, perfectly matching Skirk's needs when 
+specifically playing her in a Normal Attack playstyle.
+Primordial Jade Cutter
+(R1)
+112%
+Protector's Virtue
+Base ATK:
+542
+CRIT Rate:
+44.1%
+HP increased by
+20% / 25% / 30% / 35% / 40%
+. Additionally, provides an ATK Bonus based on
+1.2% / 1.5% / 1.8% / 2.1% / 2.4%
+of the wielder's Max HP.
+This weapon provides 44% CRIT Rate as main stats with decent attack from sub-stats based on her HP. Even with low base attack the amount of Crit stats it provides makes it another great option.
+Mistsplitter Reforged
+(R1)
+109%
+Mistsplitter's Edge
+Base ATK:
+674
+CRIT DMG:
+44.1%
+Gain a
+12% / 15% / 18% / 21% / 24%
+Elemental DMG Bonus for all elements and receive the might of the Mistsplitter's Emblem. At stack levels 1/2/3, the Mistsplitter's Emblem provides a
+8/16/28% / 10/20/35% / 12/24/42% / 14/28/49% / 16/32/56%
+Elemental DMG Bonus for the character's Elemental Type. The character will obtain 1 stack of the Mistsplitter's Emblem in each of the following scenarios: Normal Attack deals Elemental DMG (stack lasts 5s), casting Elemental Burst (stack lasts 10s); Energy is less than 100% (stack disappears when Energy is full). Each stack's duration is calculated independently.
+Another very good weapon option with high base attack and crit stats that perfectly fulfil Skirk's needs with a good amount of damage bonus from it's passives.
+Calamity of Eshu
+(R5)
+108%
+Diffusing Boundary
+Base ATK:
+565
+ATK:
+27.6%
+While characters are protected by a Shield, DMG dealt by Normal and Charged Attacks is increased by
+20% / 25% / 30% / 35% / 40%
+, and Normal and Charged Attack CRIT Rate is increased by
+8% / 10% / 12% / 14% / 16%
+.
+THis is one of the most broken weapons and best 4-star weapon options for Skirk with an insane passive providing passive Normal Attack damage bonuses.
+However, it comes with the restriction of running a shielder as it's passive only works when the character in shielded.
+Uraku Misugiri
+(R1)
+100.1%
+Brocade Bloom, Shrine Sword
+Base ATK:
+542
+CRIT DMG:
+88.2%
+Normal Attack DMG is increased by
+16% / 20% / 24% / 28% / 32%
+and Elemental Skill DMG is increased by
+24% / 30% / 36% / 42% / 48%
+. After a nearby active character deals Geo DMG, the aforementioned effects increase by 100% for 15s. Additionally, the wielder's DEF is increased by
+20% / 25% / 30% / 35% / 40%
+.
+Another weapon with good stats and crit making it another great build option without Skirk's signature which also provides decent normal attack damage from it's passive.
+The Black Sword
+(R5)
+100.1%
+Justice
+Base ATK:
+510
+CRIT Rate:
+27.6%
+Increases DMG dealt by Normal and Charged Attacks by
+20% / 25% / 30% / 35% / 40%
+. Additionally, regenerates
+60% / 70% / 80% / 90% / 100%
+of ATK as HP when Normal and Charged Attacks score a CRIT Hit. This effect can occur once every 5s.
+One of the best 4-star options with crit stats and supportive passive providing additional normal attack damage for skirk on-field playstyle specially at R5.
+Finale of the Deep
+(R5)
+100%
+An End Sublime
+Base ATK:
+565
+ATK:
+27.6%
+When using an Elemental Skill, ATK will be increased by
+12% / 15% / 18% / 21% / 24%
+for 15s, and a Bond of Life worth 25% of Max HP will be granted. This effect can be triggered once every 10s. When the Bond of Life is cleared, a maximum of
+150 / 187.5 / 225 / 262.5 / 300
+ATK will be gained based on
+2.4% / 3% / 3.6% / 4.2% / 4.8%
+of the total amount of the Life Bond cleared, lasting for 15s.
+Best f2p weapon with very good supportive passive and being a craftable option meaning it is accessible to all players and the go-to option for any player without a 5-star sword options.
+Absolution
+(R1)
+99%
+Deathly Pact
+Base ATK:
+674
+CRIT DMG:
+44.1%
+CRIT DMG increased by
+20% / 25% / 30% / 35% / 40%
+. Increasing the value of a Bond of Life increases the DMG the equipping character deals by
+16% / 20% / 24% / 28% / 32%
+for 6s. Max 3 stacks.
+Summit Shaper
+(R1)
+99%
+Golden Majesty
+Base ATK:
+608
+ATK:
+49.6%
+Increases Shield Strength by
+20% / 25% / 30% / 35% / 40%
+. Scoring hits on opponents increases ATK by
+4% / 5% / 6% / 7% / 8%
+for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%.
+This is a another decent weapon and provides good amount of attack and specially becomes very good when you run it with a shielder to maximise it's passive providing additional damage.
+Light of Foliar Incision
+(R1)
+98%
+Whitemoon Bristle
+Base ATK:
+542
+CRIT DMG:
+88.2%
+CRIT Rate is increased by
+4% / 5% / 6% / 7% / 8%
+. After Normal Attacks deal Elemental DMG, the Foliar Incision effect will be obtained, increasing DMG dealt by Normal Attacks and Elemental Skills by
+120% / 150% / 180% / 210% / 240%
+of Elemental Mastery. This effect will disappear after 28 DMG instances or 12s. You can obtain Foliar Incision once every 12s.
+The Black Sword
+(R1)
+93%
+Justice
+Base ATK:
+510
+CRIT Rate:
+27.6%
+Increases DMG dealt by Normal and Charged Attacks by
+20% / 25% / 30% / 35% / 40%
+. Additionally, regenerates
+60% / 70% / 80% / 90% / 100%
+of ATK as HP when Normal and Charged Attacks score a CRIT Hit. This effect can occur once every 5s.
+Aquila Favonia
+(R1)
+90%
+Falcon's Defiance
+Base ATK:
+674
+Physical DMG Bonus:
+41.3%
+ATK is increased by
+20% / 25% / 30% / 35% / 40%
+. Triggers on taking DMG: the soul of the Falcon of the West awakens, holding the banner of resistance aloft, regenerating HP equal to
+100% / 115% / 130% / 145% / 160%
+of ATK and dealing
+200% / 230% / 260% / 290% / 320%
+of ATK as DMG to surrounding opponents. This effect can only occur once every 15s.
+This weapon provides Physical DMG Bonus which is pretty useless for Skirk 
+but thanks to her massive high base attack and how Skirk values attack it still can be used if there is no other options.
+Kagotsurube Isshin
+(R1)
+89%
+Isshin Art Clarity
+Base ATK:
+510
+ATK:
+41.3%
+When a Normal, Charged, or Plunging Attack hits an opponent, it will whip up a Hewing Gale, dealing AoE DMG equal to 180% of ATK and increasing ATK by 15% for 8s. This effect can be triggered once every 8s.
+Sturdy Bone
+(R5)
+87%
+Trapper's Pride
+Base ATK:
+565
+ATK:
+27.6%
+Sprint or Alternate Sprint Stamina Consumption decreased by 15%. Additionally, after using Sprint or Alternate Sprint, Normal Attack DMG is increased by
+16% / 20% / 24% / 28% / 32%
+of ATK. This effect expires after triggering 18 times or 7s.
+A good weapon providing attack and attack speed. and being one of the few weapons providing attack speed which Skirk does benefit from . While decent, it still comes nowhere close to above options.
+Wolf-Fang
+(R1)
+86%
+Northwind Wolf
+Base ATK:
+510
+CRIT Rate:
+27.6%
+DMG dealt by Elemental Skill and Elemental Burst is increased by
+16% / 20% / 24% / 28% / 32%
+. When an Elemental Skill hits an opponent, its CRIT Rate will be increased by
+2% / 2.5% / 3% / 3.5% / 4%
+. When an Elemental Burst hits an opponent, its CRIT Rate will be increased by
+2% / 2.5% / 3% / 3.5% / 4%
+. Both of these effects last 10s separately, have 4 max stacks, and can be triggered once every 0.1s.
+Best Artifacts for Skirk
+Finale of the Deep Galleries
+Finale of the Deep Galleries
+2-Piece Set
+: Cryo DMG Bonus +15%
+4-Piece Set
+: When the equipping character has 0 Elemental Energy, Normal Attack DMG is increased by 60% and Elemental Burst DMG is increased by 60%. After the equipping character deals Normal Attack DMG, the aforementioned Elemental Burst effect will stop applying for 6s. After the equipping character deals Elemental Burst DMG, the aforementioned Normal Attack effect will stop applying for 6s. This effect can trigger even if the equipping character is off the field.
+Finale of the deep galleries is currently Skirk's 
+best artifact set as it provides a massive damage buffs for both normal attack and burst playstyle
+making it the go-to option.
+Marechaussee Hunter
+Marechaussee Hunter
+2-Piece Set
+: Normal and Charged Attack DMG +15%
+4-Piece Set
+: When current HP increases or decreases, CRIT Rate will be increased by 12% for 5s. Max 3 stacks.
+Marechaussee Hunters is her 2nd best option thanks to it's bonus provides 36% crit rate solving all of Skirk's crit issue.
+However, to activate it's passive your always going to need
+Furina
+in 
+your Team and you also have the possibility of overcapping on crit rate as most of Skirk's weapon options provides crit-Rate
+alongside
+Cryo
+resonance that provides additional crit-rate.
+Skirk's Stat Priority
+:
+ATK %
+:
+Cryo DMG
+> ATK %
+:
+CRIT Rate / CRIT DMG
+Substats:
+CRIT Rate/DMG > ATK %
+Skirk is a Dedicated Freeze DPS and does not benefit from EM as freeze doesn’t 
+scale from it. Skirk also does not use energy recharge making her stats limited to CRIT and attack.
+Recommended Stats for Skirk
+Build recommendations assume a "decently built" level of artifact rolls 
+alongside Skirk's best free to play weapon,
+Finale of the Deep
+. 
+Using other weapons may increase or decrease certain stats relative to these 
+recommendations.
+HP:
+18,000-20,000
+ATK:
+2200
+CRIT Rate:
+70-75%
+CRIT DMG:
+170-200%
+Skirk's Talent Priority
+Talent Priority:
+Havoc: Warp
+>
+Havoc: Ruin
+>>>
+Havoc: Sunder
+Skirk's most important talents to level are her Elemental skill and then 
+Elemental Burst. Skirk Basic Attacks can be ignored for the most part.
+How to Play Skirk
+Skirk is a on-field Main DPS with a very unique mechanic compared to most characters in the game.
+She does not use Elemental Energy, and instead relies on her Serpent's Subtlety resource to power
+her damage and determine whether she leans into sustained Normal Attack uptime or quicker Burst-focused
+windows. As a Freeze-focused DPS, Elemental Mastery is not a priority stat for her, and her damage
+mainly scales through her core kit and
+Cryo
+/
+Hydro
+team synergies.
+Skirk has two main playstyles. The first is her on-field Normal Attack focused mode. You enter this
+playstyle by using her Elemental Skill,
+Havoc: Warp
+, to switch into Seven-Phase Flash mode
+and gain Serpent's Subtlety. During this mode, you stay on-field and deal sustained damage while managing
+your resource and absorbing Void Rifts for additional Serpent's Subtlety. Void Rifts are generated when
+nearby party members trigger reactions such as Freeze, Superconduct, Cryo Swirl, or Cryo Crystallize
+against opponents.
+A simple on-field sequence typically looks like chaining Normal Attacks, weaving in Burst usage when
+available, and using a Charged Attack to absorb nearby Void Rifts during your Seven-Phase Flash window
+to extend or strengthen your damage cycle. The key is to remain in her mode long enough to benefit from
+multiple Rift absorptions and avoid swapping out too early and losing value from your uptime.
+Her second playstyle is a quicker Burst-focused approach. Instead of relying on standard Elemental Energy,
+Skirk consumes Serpent's Subtlety to unleash her Elemental Burst,
+Havoc: Ruin
+, once she has
+enough resource available. In this playstyle, you aim to build Serpent's Subtlety quickly, then spend it
+to deal a large Burst window of damage before transitioning back into the next setup.
+Skirk's Best Constellations
+Constellation
+% of C0
+% From Previous Constellation
+C0
+100%
+100%
+C1
+125%
+125%
+C2
+147%
+118%
+C3
+147%
+100%
+C4
+164%
+112%
+C5
+191%
+116%
+C6
+236%
+124%
+Investment Priority:
+Weapon > Constellation 1 > Constellation 2
+Skirk's Best Team Compositions
+To learn all about Skirk's synergies and best team compositions, check 
+our dedicated Skirk team page below:
+Skirk Best Teams
+Changelog
+11 Feb. 2026:
+Skirk guide updated for 6.3.
+27 Sep. 2025:
+Updated for 6.0.
+13 Jun. 2025:
+Guide updates.
+08 Jun. 2025:
+Updates to the guide but not full guide release.
+07 May 2025:
+Guide added.
+Show more
+Show less
+Profile & Talents
+Build Guide
+Team Guide
+Need any help? Check out our
+General Discussion Forum
+!
+11 comments
+In The Same Category
+Skirk Profile & Talents
+Skirk Team Guide
+Freminet Best Builds Guide
+Mika Best Builds Guide
+Chongyun Best Builds Guide
+Citlali Profile & Talents
+Kamisato Ayaka Best Builds Guide
+Escoffier Profile & Talents
+Lohen Best Builds Guide
+Citlali Team Guide
+Ganyu Best Builds Guide
+Qiqi Best Builds Guide
+ABOUT THE AUTHOR
+Asher is a Genshin Impact and Wuthering Waves creator and theorycrafter 
+        with over three years of experience in Teyvat and one year in Solaris-3. 
+        He has been producing guides and analysis content consistently for the past 
+        six months, building a growing YouTube community of more than 8,000 subscribers. 
+        He focuses on creating simple, clear, and beginner-friendly guides designed 
+        to help new players understand characters, builds, and meta strategies with ease.
+SUPPORT OUR WRITERS

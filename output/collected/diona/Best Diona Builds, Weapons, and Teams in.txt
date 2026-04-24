@@ -1,0 +1,142 @@
+0
+Bookmark (
+0
+)
+Please login to bookmark
+Close
+Username or Email Address
+Password
+Remember Me
+Don't have an account? Register here.
+Create an account to bookmark articles.
+Username
+*
+3-60 characters, letters, numbers, spaces, and these symbols: @._-
+Email
+*
+You will receive an email to set your password after registration.
+Subscribe to The Destructoid Checkpoint Newsletter
+Get the latest gaming news and updates delivered to your inbox.
+Create Account
+Already have an account? Sign in here.
+Back to top
+Home
+Guides
+Best Diona Builds, Weapons, and Teams in Genshin Impact
+Shaken and stirred!
+Christine Choi
+| Oct 2, 2023 2:04 pm
+Image via HoYoverse
+Diona is a 4-star Cryo Bow healer and shielder in
+Genshin Impact
+.
+Ensure your drinks are shaken
+and
+stirred by tipping your bartender with the best weapons, artifacts, and teams!
+Recommended Videos
+Playstyles
+Diona is a
+support
+character with the ability to heal and shield teammates. She is also a good Cryo battery, since her Skill can generate a flurry of Cryo particles.
+In team rotations, use Diona’s hold Skill and Burst, then swap to your teammates. If she’s equipped with Sacrificial Bow, you can cast her hold Skill twice in quick succession to generate twice as many particles.
+In co-op, you may want to stick with spamming tap Skill instead of hold. It’s a slightly weaker shield with a shorter duration, but since Diona will be on-field more often, you can afford to continuously refresh the shield with more tap Skills. This eliminates the 3 seconds of downtime while her hold Skill is on cooldown. Note that Diona needs Constellation 2 in order to shield teammates in co-op.
+Screenshot by Destructoid
+Weapons
+Favonius Warbow
+Favonius Warbow allows Diona to be a better
+all-purpose battery.
+The clear particles provide energy for all teammates equally, regardless of element. Since Diona’s hold Skill has five individual hits, each with their own chance to CRIT, she gets five chances to proc this weapon passive. You can obtain one Favonius Warbow for free after completing the Mondstadt Archon quests.
+Sacrificial Bow
+Sacrificial Bow makes Diona a better
+Cryo battery.
+She generates an average of four Cryo particles with each hold Skill, so casting it twice results in around eight. You can easily swap to another character to catch the second wave of particles too. This is a great strategy to generate lots of Energy at once for Cryo characters like Ayaka or Eula.
+Recurve Bow
+If you have neither of the above, you can slap a 3-star Recurve Bow on Diona. Its passive isn’t particularly useful, but it does give Diona more HP, improving her healing and shielding capabilities. Consider an Energy Recharge sands if you go this route. This weapon can be found in chests around Mondstadt.
+Screenshot by Destructoid
+Artifacts
+4pc Noblesse Oblige (4NO)
+Though Diona herself makes little use of the 2pc effect, the 4pc effect allows her to buff her entire team’s ATK whenever she Bursts. If you
+do not
+have Constellation 1 or an Energy Recharge weapon, it can be difficult to reliably trigger this buff every rotation.
+2pc combos
+If you don’t need the ATK buff from 4NO, then you can combine 2pc sets that provide HP, Energy Recharge, or Healing Bonus.
+Artifact Stats
+Sands
+Goblet
+Circlet
+HP
+Energy Recharge
+HP
+HP
+Healing Bonus
+CRIT Rate (if Favonius)
+If your Diona is Constellation 1 with Recurve Bow, Diona should shoot for around 180% Energy Recharge. Favonius Warbow and Sacrificial Bow make it so that you rarely have to build much additional Energy Recharge on top of what your weapon gives you. Still, extra Energy Recharge is always welcome, especially when the only other stat Diona cares about is HP.
+Use a CRIT Rate circlet if equipping Favonius Warbow to help proc its passive effect. You don’t need too much; remember that Diona has five chances to proc it with each hold Skill. About 45% CRIT Rate is fine, or around 30% with Cryo Resonance.
+The rest of Diona’s stats can focus on HP. HP is preferred over Healing Bonus, since both her shields and healing scale with her max HP.
+Screenshot by Destructoid
+Teams
+Diona is great for Cryo teams, but she can really be slotted in anytime you need a defensive support. Feel free to add her to any team if all you need is a shield or some healing.
+Freeze/Mono Cryo
+These teams get the most mileage out of Diona as a Cryo battery. Diona provides defensive utility as well as Energy for your main Cryo DPS. Here are some classic teams to try out:
+Diona – Ganyu/Ayaka – Venti/Kazuha – Hydro
+Diona – Ganyu/Ayaka – Venti/Kazuha – Shenhe
+Dendro/Vapemelt
+At Constellation 6, Diona’s Burst buffs the Elemental Mastery of teammates in its AoE. This can be useful for some teams that aren’t Cryo-focused, but appreciate the Elemental Mastery. For Hyperbloom and Burgeon teams, Diona can sometimes generate more Blooms by triggering Freeze, which helps preserve Hydro auras on enemies. In reverse Vaporize teams with a Pyro DPS, Diona’s Cryo application can even enable the occasional Melt. If you want to maximize Diona’s Elemental Mastery buff, consider equipping her with 4pc Instructor. It’ll result in less survivability due to its 4-star artifact stats, but it can grant a sizable team buff on top of her C6 effect. Some team examples include:
+Diona – Tighnari/Alhaitham –
+Fischl
+– Nahida
+Diona – Raiden(EM) – Dendro – Hydro
+Diona – Thoma – Dendro – Hydro
+Diona –
+Hu Tao
+/Yoimiya –
+Xingqiu
+–
+Yelan
+Physical
+As a Cryo unit, Diona can enable Superconduct when paired with Electro. She can also provide Energy for Physical Cryo DPS units like Eula and Freminet. These teams look a bit like:
+Diona – Eula – Fischl/Raiden – Rosaria
+Diona –
+Freminet
+– Xingqiu/Yelan – Fischl
+0
+Christine Choi
+Contributing Writer - Christine has been gaming since she first stole her brother's Game Boy as a kid. She's come a long way since then and has been creating content for Genshin Impact since 2021.
+Tags:
+Genshin Impact
+guides
+HoYoverse
+miHoYo
+mobile
+PC
+PS4
+PS5
+0
+Bookmark (
+0
+)
+Please login to bookmark
+Close
+Username or Email Address
+Password
+Remember Me
+Don't have an account? Register here.
+Create an account to bookmark articles.
+Username
+*
+3-60 characters, letters, numbers, spaces, and these symbols: @._-
+Email
+*
+You will receive an email to set your password after registration.
+Subscribe to The Destructoid Checkpoint Newsletter
+Get the latest gaming news and updates delivered to your inbox.
+Create Account
+Already have an account? Sign in here.
+Share
+this article
+Destructoid is supported by our audience. When you purchase through links on our site, we may earn a small affiliate commission.
+Learn more about our Affiliate Policy
+.
+Like our content? Set Destructoid as a
+Preferred Source on Google
+in just one step to ensure you see us more frequently in your Google searches!

@@ -1,0 +1,239 @@
+Games
+Genshin Impact Xianyun build guide: Best Catalyst, artifacts, teams, more
+by
+Aakash Regmi
+Updated:
+Feb 05, 2024, 08:22
+Save for later
+Save for later
+HoYoverse
+Xianyun is the human form of the widely known adepti in Genshin Impact, Cloud Retainer. If you’re wondering about her best build, here is how to play her, as well as her best artifacts, teams, and weapons.
+Xianyun
+is a newly introduced 5-star unit from
+Liyue
+that is now playable following the release of
+version 4.4
+of
+Genshin Impact
+. She is a support unit, so building her is fairly straightforward, and playing her is relatively simple without too many quirks.
+Article continues after ad
+Even before her official announcement, Xianyun was
+one of the highly anticipated characters
+heading into the version, so if you’ve
+farmed all her material
+, here is the best Xianyun build in Genshin Impact.
+Article continues after ad
+How to play Xianyun in Genshin Impact
+Genshin Impact Xianyun abilities explained
+Genshin Impact Xianyun best weapons
+Genshin Impact Xianyun best artifacts
+Genshin Impact Xianyun best team and rotations
+HoYoverse
+Xianyun is an Anemo Catalyst user in Genshin Impact.
+How to play Xianyun in Genshin Impact
+Xianyun in Genshin Impact is primarily a plunging attack support unit who also enables other characters to do plunging attacks.
+Most characters can only do normal attacks on themselves, and they’ll need some sort of jumping boost to do a plunge. Xianyun provides the boost, so with her on your team, everybody can perform a plunging attack.
+Article continues after ad
+Her boosting capabilities are tied to her Elemental Burst, so
+the usual playstyle for Xianyun is to perform her Elemental Burst
+and enable other characters to perform a plunging attack.
+Outside of these, she is also a
+team-wide healer,
+which is just as important when you pair her with a team that has
+Furina
+.
+Article continues after ad
+Genshin Impact Xianyun abilities explained
+Normal Attack
+Xinayun’s Normal Attack in Genshin Impact are just standard attacks dealing Anemo DMG, what you’d usually expect from Catalyst users. It isn’t of any use to her kit, so you can safely avoid it. Likewise, it is the least in terms of talent level upgrade priority.
+Related
+Best Feng 82 loadout in Warzone
+Hero Wars tier list: Best heroes & team compositions
+How much storage does Genshin Impact take? Mobile & PC file size
+Article continues after ad
+Elemental Skill
+In her Elemental Skill, Xianyun lunges in the air and can do so three times, and after she’s afloat, she can plunge herself. For every leap she takes, Xianyun leaves a trail behind that does damage.
+The Elemental Skill of Xianyun in itself isn’t very useful, but one of the talent passives makes performing it extremely valuable. The said passive, Galefeather Pursuit, provides a bonus CRIT Rate to all plunging attacks based on the number of targets Xianyun’s trail left behind by her Elemental Skill hits.
+Article continues after ad
+Article continues after ad
+Given how important CRIT Rate is, in an ideal rotation, you must
+perform Xianyun’s Elemental Skill before her Elemental Burst.
+In terms of upgrade priority, you don’t necessarily need to upgrade Elemental Skill as well, but it’ll sit second when talking about upgrade priority.
+Elemental Burst
+Xianyun’s Elemental Burst grants the party member the ability to plunge, but only eight times. She will first summon a Starwicker that grants her eight stacks of Adeptal Assistance, which is consumed whenever the party member plunges.
+Article continues after ad
+Outside of this, Xianyun’s burst also does a single instance of AoE Anemo DMG and continuously heals party members. One of her passives – Consider, the Adeptus in Her Realm – states that the plunging attack shockwave DMG for characters with Adeptal Assitance is increased by 180% of Xianyun’s ATK. Bonus DMG provided by the buff is capped at 9,000.
+Article continues after ad
+Given how much Xianyun’s burst provides, it is
+your first priority for talent upgrades
+, as healing also scales with the level of talent.
+Article continues after ad
+HoYoverse
+Because Elemental Burst in important for Xianyun, you’ll need high Energy Recharge.
+Xianyun’s Constellations
+Here are all of Xianyun’s Constellations in Genshin Impact:
+C1
+: Xianyun gains one additional charge to her Elemental Skill and this will allow her to leap one more time.
+C2
+: Xianyun’s ATK will increase by 20% for 15s after using her Elemental Skill. Further, it’ll increase the attack shockwave DMG bonus that Xianyun provides with her passive (Consider, the Adeptus in Her Realm) to 360% of her ATK and increase the cap of the bonus to 18,000.
+C3
+: Increase Elemental Burst level by 3.
+C4
+: Whenever the trail left behind Xianyun’s Elemental Skill hits an opponent, it’ll heal party members based on the number of leaps Xianyun took in her Skill. On 1/2/3 leap, heal members by 50/80/150% of her ATK.
+C5
+: Increase Elemental Skill level by 3.
+C6
+:  Increase CRIT DMG of Elemental Skill by 15%/35%/70% based on the number of leaps Xianyun took through her Elemental Skill. Additionally, Xianyun’s Elemental Skill will not enter into cooldown for 16s after she uses her Elemental Burst.
+C2 is arguably Xianyun’s best Constellation
+, which further improves her buffing capabilities. C6, meanwhile, allows her to plunge through Elemental Skill all the time instead of just once, which makes playing her as DPS viable and strong in
+Genshin Impact
+.
+Genshin Impact Xianyun best weapons
+Crane’s Echoing Call
+HoYoverse
+Crane’s Echoing Call is best for all Xianyun’s teams.
+Base ATK:
+741
+ATK:
+16.5%
+Passive:
+After the wielder hits an opponent with a plunging attack, all party members will gain 28% increased DMG for their plunging attacks for 20s. Whenever any party member’s plunging attack hits an opponent, it’ll restore the wielder’s 2.5 energy (can proc every 0.7s).
+Undoubtedly,
+Crane’s Echoing Call is the best-in-slot weapon for Xianyun in Genshin Impact
+, as it is also her signature weapon. The passive further strengthens Xianyun’s buffing capabilities, as it is extremely beneficial for other party members.
+Article continues after ad
+Article continues after ad
+Being a signature weapon means that it is a 5-star weapon locked behind gacha, and can only be obtained through the weapon banner whenever Xianyun is part of the limited banner pool. But if you want the best for Xianyun, there aren’t any other weapons that are remotely close to being this good.
+Oathsworn Eye
+Base ATK:
+565
+ATK:
+27.6%
+Passive:
+Increases Energy Recharge by 24% for 10s after using an Elemental Skill. (48% on R5).
+Oathsworn Eye is another good choice for Xianyun, but it only shines when you’re
+playing her on a team that does not have any other Anemo units
+(her best team has three Anemo units). That’s because the Energy Recharge will be less of an issue when playing multiple characters of the same element.
+Article continues after ad
+However, Xianyun has a strict ER requirement when she is the only Anemo unit, so when you’re playing her in a team where she is solo Anemo Oathsworn Eye will be her second-best weapon.
+Article continues after ad
+Thrilling Tales of Dragon Slayers
+Base ATK:
+401
+HP:
+35.2%
+Passive:
+After performing an Elemental Burst and switching to a different character, the now on-field character will have their ATK increased by 48% for 10s.
+Thrilling Tales of Dragon Slayers is one weapon that you can slap on any Catalyst user who supports a character that scales with ATK. For Xainyun, she’s the best support for Xiao, who benefits a ton from ATK.
+Likewise, for other characters that do not benefit from ATK, it’ll be useless. Not only that but since Xinayun’s ER requirements are very strict, it’ll be hard to pick these over other weapons like Oathsworn Eye, even when playing with characters that benefit from attack, whenever Xianyun is the solo Anemo unit.
+Article continues after ad
+So, when playing Xinayun with Xiao on his best team, TTDS is a very good option if you have a respectable ER. Otherwise, it is recommended to stick with the Oath when her signature isn’t available. TTDS is a 3-star weapon, so you probably have hundreds of them already.
+Article continues after ad
+Other weapon options include the
+Favonius Codex
+and the
+Skyward Atlas
+.
+Genshin Impact Xianyun best artifacts
+Before we get into the specifics of the best artifacts for Xianyun in Genshin Impact, there are a few things to keep in mind. These are nothing but certain stats to keep in check with, or what to look forward to in her artifacts.
+Article continues after ad
+Xianyun scales with ATK, so that’s the only major offensive stat you’ll be chasing.
+Ideally use ATK% for all three—Sands, Goblet, and Circlet.
+She has strict Energy Recharge requirements, especially when using her on teams that have no other Anemo units.
+When Xianyun is the solo Anemo unit, her ER should be 200-250%, depending on weapons.
+When there are multiple Anemo characters, ER should be around 120–200%, depending on how many units you have and if you’re playing C6 Faruzan.
+ER requirements get lower with the number of Favonius weapons you’ve in the team.
+Because of high ER requirements, you can use ER Sands instead of ATK. Just stack ER until you’re able to consistently get her Burst off-cooldown.
+4pc Song of Days Past
+2-Pieces: Healing Bonus +15%.
+4-Pieces: Whenever someone who equips this artifact heals a party member, the amount of healing (including overflow healing) will be recorded by a counter for 6s. After six seconds have elapsed, whenever the active party member hits an opponent with any attack the DMG dealt will be increased by 8% of the total amount previously recorded.
+Song of Days Past is the best artifact for Xianyun
+in Genshin Impact. It was introduced with version 4.3 and is one of the better artifacts for most team-wide healers who are best paired with Furina.
+The artifact doesn’t buff anything for Xianyun herself, but it improves her healing and boosts her more as a support.
+Article continues after ad
+4pc Viridescent Venerer
+2-Piece Bonus: Increase Anemo DMG Bonus by +15%
+4-Piece Bonus:  Increases Swirl DMG by 60% and when an element is infused with Swirl, the enemy’s resistance to the said element is decreased by 60% for 10s.
+Viridescent Venerer is the best artifact for Xianyun in Genshin Impact whenever you’re playing her with a team that deals element damage – Pyro, Hydro, Electro, and Cryo. VV is almost a staple for all Anemo support units like Venti and Kazuha because of the 4pc bonus.
+Article continues after ad
+So as long as your team has a damage dealer that belongs to one of the above-mentioned elements, you can run VV, especially if you already have a good 4pc lying around and don’t want to stress on grinding other artifacts like Song of Days Past.
+4pc Noblesse Oblige
+HoYoverse
+Noblesse Oblige does not stack so you can only run it on one teammate.
+2-piece: Elemental Burst DMG +20%
+4-piece: Using an Elemental Burst increases all party members’ ATK by 20% for 12s. This effect cannot stack.
+While Song of Days Past is better than Noblesse Oblige, it was just added in version 4.3, and the other artifact in the domain is so far only best for Navia. So if you can’t bring yourself to farm the domain, you can use Noblesse Oblige. It has been in the game since the very start, which means there is a high chance you have a good 4PC if you have been playing the game for a while.
+Article continues after ad
+Article continues after ad
+Genshin Impact Xianyun best team and rotations
+The best team for Xianyun in Genshin Impact is
+Xianyun, Xiao, Faruzan, and Furina
+. Xiao is already one of the best DPS units in the game, and the introduction of Xianyun makes his ceiling taller than ever before.
+Best team:
+Xiao — Xianyun — Faruzan — Furina
+Rotation:
+Furina Elemental Skill
+Furina Elemental Burst
+Faruzan Elemental Burst
+Xianyun Elemental Skill (x1)
+Xianyun Elemental Burst
+Xiao Elemental Skill (x2)
+Xiao Elemental Burst
+Lament!
+Other teams:
+Xianyun — Gaming — Furina — Bennett
+Xianyun — Hu Tao — Furina — Yelan
+Xianyun — Diluc — Furina — Bennett (or Yelan)
+Xianyun — Raiden Shogun — Kujo Sara — Bennett (or Furina)
+Xianyun — Bennett (C6 as a DPS) — Furina — Yelan (or Xingqiu)
+Xianyun — Wriothesley — Shenhe — Furina
+Xianyun — Chongyun — Shenhe — Furina
+That’s everything you need to know about the best build for Xianyun in Genshin Impact. For more build guides on Genshin Impact, check out:
+Genshin Impact Gaming build guide
+|
+Genshin Impact Chevreuse build guide
+|
+Genshin Impact Navia build guide
+|
+Genshin Impact Neuvillette build guide
+|
+Genshin Impact Xiangling build guide
+|
+Genshin Impact Cyno build guide
+|
+Genshin Impact Venti build guide
+|
+Genshin Impact Hu Tao build guide
+|
+Genshin Impact Chongyun build guide
+|
+Genshin Impact Zhongli build guide
+|
+Genshin Impact Albedo build guide
+|
+Genshin Impact Dendro Traveler build guide
+|
+Genshin Impact Sangonomiya Kokomi build guide
+|
+Genshin Impact Kamisato Ayato build guide
+Article continues after ad
+Article continues after ad
+More
+genshin impact
+News
+Related Topics
+genshin impact
+Featured Articles
+Call of Duty: Warzone
+Best SMGs in Warzone: Meta loadouts for Season 2
+Call of Duty: Warzone
+Best Assault Rifles in Warzone: Meta loadouts for Season 2
+Call of Duty: Warzone
+How to fix low FPS issues & stuttering in Warzone
+Call of Duty
+Best Warzone PC settings for FPS, graphics & reduced lag
+Call of Duty
+Best Black Ops 6 PC settings for high FPS & reduced lag
+Sign up to CharlieINTEL
+For The latest News, Views & Reviews
+Sign up

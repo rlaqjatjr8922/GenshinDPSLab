@@ -1,0 +1,270 @@
+Hu Tao
+5
+★
+Polearm
+Pyro
+The 77th Director of the Wangsheng Funeral Parlor
+.
+Basic Stats
+Nv.
+90
+HP
+15552
+ATK
+106
+DEF
+876
+CRIT DMG
+88.4%
+Basic Stats
+Nv.
+90
+HP
+15552
+ATK
+106
+DEF
+876
+CRIT DMG
+88.4%
+Hu Tao
+Ascension Materials
+Agnidus Agate Sliver
+Silk Flower
+Juvenile Jade
+Whopperflower Nectar
+Teachings of Diligence
+Shard of a Foul Legacy
+Hu Tao
+Best Weapon
+Staff of Homa
+Level
+.
+90
+ATK
+608
+CRIT DMG
+66.2%
+Refinement
+.
+5
+HP increased by 40%. Additionally, provides an ATK Bonus based on 1.6% of the wielder's Max HP. When the wielder's HP is less than 50%, this ATK Bonus is increased by an additional 1.8% of Max HP.
+Other Weapons
+2
+°
+Staff of the Scarlet Sands
+CRIT Rate
+3
+°
+Ballad of the Fjords
+CRIT Rate
+4
+°
+Dragon's Bane
+Elemental Mastery
+Hu Tao
+Best Artifact Set
+Crimson Witch of Flames
+2 Pc
+:
+Pyro DMG Bonus +15%
+4 Pc
+:
+Increases Overloaded, Burning, and Burgeon DMG by 40%. Increases Vaporize and Melt DMG by 15%. Using Elemental Skill increases the 2-Piece Set Bonus by 50% of its starting value for 10s. Max 3 stacks.
+Artifacts Main Stats
+Sands
+:
+HP % / EM
+Goblet
+:
+Pyro Bonus
+Circlet
+:
+Crit Rate / Crit Damage
+Artifacts Substats
+Crit Rate
+Crit Damage
+Elemental Mastery
+HP %
+Other Artifacts Sets
+2
+°
+4x
+Shimenawa's Reminiscence
+3
+°
+4x
+Gilded Dreams
+Hu Tao
+Talent Priority
+1
+°
+Normal Attack
+2
+°
+Elemental Skill
+3
+°
+Elemental Burst
+Hu Tao
+Best Teams
+Time #
+1
+Main DPS
+Sub-DPS
+Sub-DPS
+Support
+Hu Tao
+Xingqiu
+Yelan
+Zhongli
+Time #
+2
+Main DPS
+Sub-DPS
+Sub-DPS
+Support
+Hu Tao
+Xingqiu
+Furina
+Xilonen
+Hu Tao
+Ascension Costs
+Cost
+5
+→
+6
+120
+K
+Agnidus Agate Gemstone
+6
+Juvenile Jade
+20
+Silk Flower
+60
+Energy Nectar
+24
+Hu Tao
+Talents Costs
+Cost
+9
+→
+10
+700
+K
+Philosophies of Diligence
+16
+Energy Nectar
+12
+Shard of a Foul Legacy
+2
+Crown of Insight
+1
+Hu Tao
+Talents
+Normal Attack
+Secret Spear of Wangsheng
+Normal Attack
+Performs up to 6 consecutive spear strikes.
+Charged Attack
+Consumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.
+Plunging Attack
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Elemental Skill
+Guide to Afterlife
+Only an unwavering flame can cleanse the impurities of this world.
+Hu Tao consumes a set portion of her HP to knock the surrounding enemies back and enter the Paramita Papilio state.
+Paramita Papilio
+·Increases Hu Tao's ATK based on her Max HP at the time of entering this state. ATK Bonus gained this way cannot exceed 400% of Hu Tao's Base ATK.
+·Converts attack DMG to
+Pyro DMG
+, which cannot be overridden by any other elemental infusion.
+·Charged Attacks apply the Blood Blossom effect to the enemies hit.
+·Increases Hu Tao's resistance to interruption.
+Blood Blossom
+Enemies affected by Blood Blossom will take
+Pyro DMG
+every 4s. This DMG is considered Elemental Skill DMG.
+Each enemy can be affected by only one Blood Blossom effect at a time, and its duration may only be refreshed by Hu Tao herself.
+Paramita Papilio
+ends when its duration is over, or Hu Tao has left the battlefield or fallen.
+Hu Tao's Secret Spear technique is based on several rules, the first of which is:
+"The spear opens the path to the afterlife, and the butterflies bridge this world and the next."
+Elemental Burst
+Spirit Soother
+Commands a blazing spirit to attack, dealing
+Pyro DMG
+in a large AoE.
+Upon striking the enemy, regenerates a percentage of Hu Tao's Max HP. This effect can be triggered up to 5 times, based on the number of enemies hit.
+If Hu Tao's HP is below or equal to 50% when the enemy is hit, both the DMG and HP Regeneration are increased.
+Supernatural activity by those who have already left this world is a source of great anxiety for the Wangsheng Funeral Parlor. In such cases, cremation always lets Hu Tao find peace of mind. The more anxious she feels, the stronger the flame.
+Hu Tao
+Passives
+Passive
+1
+Flutter By
+When a
+Paramita Papilio
+state activated by
+Guide to Afterlife
+ends, all allies in the party (excluding Hu Tao herself) will have their CRIT Rate increased by 12% for 8s.
+Passive
+2
+Sanguine Rouge
+When Hu Tao's HP is equal to or less than 50%, her
+Pyro DMG Bonus
+is increased by 33%.
+Passive
+3
+The More the Merrier
+When Hu Tao cooks a dish perfectly, she has an 18% chance to receive an additional
+"Suspicious"
+dish of the same type.
+Hu Tao
+Constellations
+C
+1
+Crimson Bouquet
+While in a
+Paramita Papilio
+state activated by
+Guide to Afterlife
+, Hu Tao's Charged Attacks do not consume Stamina.
+C
+2
+Ominous Rainfall
+Increases the
+Blood Blossom
+DMG by an amount equal to 10% of Hu Tao's Max HP at the time the effect is applied.
+Additionally,
+Spirit Soother
+will also apply the
+Blood Blossom
+effect.
+C
+3
+Lingering Carmine
+Increases the Level of
+Guide to Afterlife
+by 3.
+Maximum upgrade level is 15.
+C
+4
+Garden of Eternal Rest
+Upon defeating an enemy affected by a
+Blood Blossom
+that Hu Tao applied herself, all nearby allies in the party (excluding Hu Tao herself) will have their CRIT Rate increased by 12% for 15s.
+C
+5
+Floral Incense
+Increases the Level of
+Spirit Soother
+by 3.
+Maximum upgrade level is 15.
+C
+6
+Butterfly's Embrace
+Triggers when Hu Tao's HP drops below 25%, or when she suffers a lethal strike:
+Hu Tao will not fall as a result of the DMG sustained. Additionally, for the next 10s, her All Elemental and Physical RES is increased by 200%, her CRIT Rate is increased by 100%, and her resistance to interruption is greatly increased.
+This effect triggers automatically when Hu Tao has 1 HP left.
+Can only occur once every 60s.

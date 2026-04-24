@@ -1,0 +1,56 @@
+options iteration=1000 duration=10.5 swap_delay=6 workers=4;
+options hitlag=true defhalt=false ignore_burst_energy=true;
+
+target lvl=100 resist=0.1 pos=1,0 radius=3 freeze_resist=0;
+
+active lisa;
+
+# =========================
+# 캐릭터 1 (lisa)
+# =========================
+lisa char lvl=90/90 cons=0 talent=9,9,9;
+lisa add weapon="engulfinglightning" refine=1 lvl=90/90;
+lisa add set="thunderingfury" count=4;
+
+# =========================
+# 캐릭터 2 (beidou)
+# =========================
+beidou char lvl=90/90 cons=0 talent=9,9,9;
+beidou add weapon="serpentspine" refine=1 lvl=90/90;
+beidou add set="emblemofseveredfate" count=4;
+
+# =========================
+# 캐릭터 3 (fischl)
+# =========================
+fischl char lvl=90/90 cons=0 talent=9,9,9;
+fischl add weapon="alleyhunter" refine=1 lvl=90/90;
+fischl add set="goldentroupe" count=4;
+
+# =========================
+# 캐릭터 4 (kazuha)
+# =========================
+kazuha char lvl=90/90 cons=0 talent=9,9,9;
+kazuha add weapon="freedomsworn" refine=1 lvl=90/90;
+kazuha add set="viridescentvenerer" count=4;
+
+
+# =========================
+# Entry Order
+# =========================
+# kazuha -> lisa -> beidou -> fischl
+
+# =========================
+# Rotation
+# =========================
+kazuha skill;
+kazuha burst;
+kazuha attack;
+lisa skill;
+lisa burst;
+lisa attack;
+beidou skill;
+beidou burst;
+beidou attack;
+fischl skill;
+fischl burst;
+fischl attack;

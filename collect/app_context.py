@@ -1,27 +1,20 @@
-import json
-
-from config.config import CHARACTERS_JSON, WEAPONS_JSON, SETS_JSON
 from config.settings import SETTINGS
 
 config = SETTINGS["collect"]
 
 
-def _load_json(path):
-    with open(path, "r", encoding="utf-8") as f:
-        return json.load(f)
-
-
 def _normalize_alias(text: str) -> str:
-    return text.strip().lower()
+    return str(text).strip().lower()
 
 
 def _normalize_canonical(text: str) -> str:
-    return text.strip().lower()
+    return str(text).strip().lower()
 
 
 def _build_names(data: dict):
     if not isinstance(data, dict):
         return []
+
     return [_normalize_canonical(k) for k in data.keys()]
 
 
@@ -61,30 +54,19 @@ def _build_alias_map(data: dict):
     return result
 
 
-characters_data = _load_json(CHARACTERS_JSON)
-weapons_data = _load_json(WEAPONS_JSON)
-sets_data = _load_json(SETS_JSON)
+def build_collect_context(app_state):
+    characters_data = app_state.characters or {}
+    weapons_data = app_state.weapons or {}
+    sets_data = app_state.sets or {}
 
+    return {
+        "config": config,
 
-# 캐릭터
-character_names = _build_names(characters_data)
-character_alias_map = _build_alias_map(characters_data)
+        "character_names": _build_names(characters_data),
+        "weapon_names": _build_names(weapons_data),
+        "set_names": _build_names(sets_data),
 
-
-# 무기
-weapon_names = _build_names(weapons_data)
-weapon_alias_map = _build_alias_map(weapons_data)
-
-
-# 세트
-set_names = _build_names(sets_data)
-set_alias_map = _build_alias_map(sets_data)
-
-
-print("[DEBUG] character_names:", len(character_names))
-print("[DEBUG] weapon_names:", len(weapon_names))
-print("[DEBUG] set_names:", len(set_names))
-
-print("[DEBUG] character_alias_map:", len(character_alias_map))
-print("[DEBUG] weapon_alias_map:", len(weapon_alias_map))
-print("[DEBUG] set_alias_map:", len(set_alias_map))
+        "character_alias_map": _build_alias_map(characters_data),
+        "weapon_alias_map": _build_alias_map(weapons_data),
+        "set_alias_map": _build_alias_map(sets_data),
+    }

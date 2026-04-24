@@ -1,0 +1,482 @@
+Home
+/
+Genshin Impact
+/
+Character List
+/
+Arataki Itto Build
+Arataki Itto Guide and Best Builds
+Arataki Itto is a 5-Star
+Geo
+Claymore user from Inazuma who
+deals massive Damage through his Normal Attacks and Charged Attacks.
+Read our Arataki Itto guide to learn more about
+Arataki Itto's kit, Arataki Itto's best Builds and also his Ascension and Talent Materials.
+Last updated
+on
+Oct 20, 2025
+at
+01:48
+by
+Jaymo
+1 comment
+A
+Rank
+Geo
+Element
+Claymore
+Weapon
+★
+★
+★
+★
+★
+Rarity
+Max Mittleman
+EN Voice Actor
+Nishikawa Takanori
+JP Voice Actor
+Arataki Itto's Strengths & Weaknesses
+Strengths
+Great at AoE due to his Charged Attacks hitting in large surroudning area.
+Itto has great survivability as a result of being a Geo character.
+High resistance to interruption during Charged Attacks.
+Weaknesses
+Strict team composition being heavily tied to 3 Geo characters.
+Burst is cancelled if you switch him out during the duration making you loose DPS.
+1.
+Arataki Itto Build Guide, Best Artifacts, Weapons and Talent Priority
+Arataki Itto is built as a
+Geo
+Main DPS. Itto's 
+burst will also increase his own ATK through his DEF.
+BiS Weapon
+Redhorn Stonethresher
+Alternative Weapons
+Serpent Spine
+Beacon of the Reed Sea
+Skyward Pride
+Whiteblind
+Best Artifacts
+Husk of Opulent Dreams
+2-piece:
+Husk of Opulent Dreams
++
+Archaic Petra
+Main Stats
+Sand Stats
+: DEF %
+Goblet Stats
+:
+Geo
+DMG
+Circlet Stats
+: CRIT Rate / DMG
+Substat Priority
+DEF %
+CRIT Rate / DMG
+Energy Recharge
+ATK %
+Talent Priority
+Normal Attack
+Elemental Burst
+Elemental Skill
+For this build, Arataki Itto's best weapon is his signature weapon
+Redhorn Stonethresher
+. 
+It will provide Itto with CRIT DMG, while also scaling Itto's DEF further. This also increases his Normal
+and Charged Attacks, which you will be using a lot. The other weapons mentioned are all
+good enough options.
+Serpent Spine
+is a bit better, however since it is a Battle Pass weapon 
+it is less obtainable than the others.
+For Itto's build you only really need one set of Artifacts:
+Husk of Opulent Dreams
+,
+which is available as a Strongbox, making it easy to farm. Using a 2-piece
+Husk of Opulent Dreams
+with a 2-piece
+Archaic Petra
+is viable if you want to benefit from some additional
+Geo
+DMG, but it will not perform better than the full
+Husk of Opulent Dreams
+set.
+The primary source of damage for Itto's build will come from his Charged Attacks and Elemental Burst,
+so leveling those in priority is important. We recommand you do not leave the Elemental Skill out
+completely, as it is still important, but it can be saved for last.
+2.
+Recommended Endgame Build Stats for Wriothesley
+Build recommendations assume a "decently built" level of artifact rolls alongside 
+Wriothesley's best weapon. Using other weapons may increase or decrease certain stats relative to these recommendations.
+HP:
+15,000 - 20,000
+DEF:
+2000 - 2400
+CRIT Rate:
+70 - 80%
+CRIT DMG:
+140 - 220%
+ER:
+120 - 130%
+Itto requires a lot of DEF if you want to maximize the damage he can do. This is why your
+Sands will focus on DEF %. You will also need around 120-130% Energy Recharge. The ER 
+requirement depends heavily on whether one of your teammates wears a Favonius weapon or not
+(typically
+Gorou
+will equip the
+Favonius Warbow
+).
+3.
+Arataki Itto Combos and How to Play
+Arataki Itto is an On-field DPS. This means that it is not recommended to swap him out during his Burst, 
+as it will cancel it. You will have to use his teammate's abilities first, before switching to Itto.
+In order to make the most out of Itto, you will need to use his Elemental Burst,
+Royal Descent: Behold, Itto the Evil!
+first. Granting him Superlative Superstrength stacks, and converting his Normal Attacks 
+into
+Geo
+DMG. You can get a total of 5 stacks of Superlative Superstrength.
+The number of stacks is indicated behind Itto by some shiny little markers. Once you have 
+stacks, you can use Itto's Charged Attack which will deal increased DMG and consume zero stamina.
+His special Charged Attack deals massive damage, and has a very powerful finisher hit.
+There are multiple ways Itto can gain Superlative Superstrength stacks:
+When his Second and Fourth Normal Attack hits an enemy
+Through his Elemental Skill:
+When Ushi deals damage
+When Ushi is being hit
+When Ushi leaves the field
+During the Elemental Burst on the First and Third Normal Attack
+Itto's basic rotation for this build is the following:
+Use his teammates abilities first
+Royal Descent: Behold, Itto the Evil!
+Masatsu Zetsugi: Akaushi Burst!
+Fight Club Legend
+Charged Attacks
+Charged Attack Finisher
+Masatsu Zetsugi: Akaushi Burst!
+Fight Club Legend
+x4 times
+Charged Attacks until you are out of stacks
+Always make sure that you use your charged attacks when you have stacks available, 
+otherwise you loose a lot of DPS.
+Never
+swap him out before the end of his burst as it 
+will cancel it.
+4.
+Arataki Itto's Best Team Compositions
+Arataki Itto does not have many teammates he can be paired with.
+Gorou
+is
+his best partner, and should always be used with Itto. After that, it is recommended to 
+use a third
+Geo
+, typically
+Albedo
+or
+Chiori
+. 
+The fourth slot can be rather flexible.
+4.1.
+Arataki Itto Mono Geo Team
+Main DPS
+Sub DPS
+Support
+Shield
+Arataki Itto
+Albedo
+Gorou
+Zhongli
+Arataki Itto
+Chiori
+Gorou
+Zhongli
+Gorou
+is notably the best unit for Itto as he provides sufficient
+Geo
+particles and buffs.
+Albedo
+is another 
+good addition to Itto's Mono
+Geo
+team, as he provides some off-field damage,
+which is very useful since Itto requires a lot of on-field time.
+Chiori
+will 
+leave her doll on the field which will deal off-field damage.
+Zhongli
+is a very strong shielder and will allow you to ignore most of the incoming damage on Itto.
+If you do not have
+Albedo
+or
+Chiori
+, you can replace them with the
+Geo Traveler
+or
+Ningguang
+. You can also use
+Noelle
+instead of
+Zhongli
+.
+4.2.
+Arataki Itto 3 Geo Flex Team
+Main DPS
+Sub DPS
+Support
+Flex
+Arataki Itto
+Albedo
+Gorou
+Bennett
+Arataki Itto
+Chiori
+Gorou
+Sangonomiya Kokomi
+Arataki Itto
+Albedo
+Gorou
+Fischl
+Main DPS
+Support
+Support
+Flex
+Arataki Itto
+Xilonen
+Gorou
+Bennett
+A common team build for Itto is also 3
+Geo
+units and one flex.
+Gorou
+is still needed in all the teams, but
+Albedo
+can be replaced 
+with other
+Geo
+units such as
+Chiori
+or
+Xilonen
+.
+Xilonen
+will provide additional support to Itto.
+The fourth slot is very flexible and can be filled with any buffer such as
+Bennett
+, or another shielder like
+Diona
+or
+Layla
+.
+Electro
+units such as
+Fischl
+or
+Kuki Shinobu
+can also work since they will enable crystallize effects.
+5.
+Itto's Ascensions, Talents, and Constellations
+Itto's Ascensions
+Itto's Talents
+Itto's Constellations
+5.1.
+Itto's Ascension Passives and Materials
+Unlock
+Ascension Passive
+Explanation
+With Character
+Woodchuck Chucked
+When a party member uses attacks to obtain wood from a tree, they have
+    a 25% chance to get an additional log of wood.
+1st Ascension
+Arataki Ichiban
+When Arataki Itto uses consecutive attacks, he obtains the following
+      effects:
+Each slash increases the ATK SPD of the next slash by 10%. Max ATK
+        SPD increase is 30%.
+Increases his resistance to interruption.
+These effects will be cleared once he stops performing consecutive
+      slashes.
+4th Ascension
+Bloodline of the Crimson Oni
+Fight Club Legend
+DMG is increased by 35% of
+    Arataki Itto's DEF.
+Itto requires a range of materials to ascend to the 6th ascension.
+Starting from the second ascension she gains additional
+Elemental Mastery as he gains levels, giving a total of 96
+Elemental Mastery at the final ascension. The total cost to upgrade all
+ascensions is:
+Source
+Quantity
+Mora
+420,000 Mora
+Boss Material
+46x
+Riftborn Regalia
+Ascension Material
+1x
+Prithiva Topaz Sliver
+9x
+Prithiva Topaz Fragment
+9x
+Prithiva Topaz Chunk
+6x
+Prithiva Topaz Gemstone
+Local Specialty
+168x
+Onikabuto
+Enhancement Material
+18x
+Slime Condensate
+30x
+Slime Secretions
+36x
+Slime Concentrate
+5.2.
+Itto's Talents
+Listed below is each talent and a brief explanation of how they work.
+Type
+Talent Name
+Brief Explanation
+Normal
+Fight Club Legend
+Standard Normal Attack dealing 4 consecutive strikes. When your 2nd
+    and 4th strike hit an opponent you gain Superlative Superstrength stacks.
+    Charged Attack unleashes a series of slashes that consume stack of
+    Superlative Superstrength. Plunging Attacks strike the ground below with
+    an AoE Damage circle.
+Elemental Skill
+Masatsu Zetsugi: Akaushi Burst!
+Pressing the skill hurls two summons at your opponents, dealing
+Geo
+DMG. Ushi will remain on the field granting Itto
+    Superlative Superstrength.
+Elemental Burst
+Royal Descent: Behold, Itto the Evil!
+This skill converts Itto's Normal, Charged and Plunging attacks into
+    Geo Damage. It also increases his Normal Attack SPD and boost his ATK based
+    on his DEF. The downside is this skill decreases Itto's Elemental and
+    Physical RES.
+To upgrade a single talent to level 10, it costs:
+Source
+Quantity
+Mora
+1,625,500 Mora
+Special Material
+1x
+Crown of Insight
+Boss Material
+6x
+Ashen Heart
+Domain Material
+3x
+Teachings of Elegance
+21x
+Guide to Elegance
+38x
+Philosophies of Elegance
+Enhancement Material
+6x
+Slime Condensate
+22x
+Slime Secretions
+31x
+Slime Concentrate
+5.3.
+Itto's Constellations
+Almost all of Itto's constellations are useful, but players are usually
+after his
+Jailhouse Bread and Butter
+(C4) and
+Arataki Itto, Present!
+(C6) for the big boost to his personal
+damage. However, Itto functions fine at C0 but investment into C6 is a very
+noticeable difference.
+#
+Name
+Explanation
+C1
+Stay a While and Listen Up
+After using
+Royal Descent: Behold, Itto the Evil!
+, Arataki
+    Itto gains 2 stacks of Superlative Superstrength. After 1s, Itto will gain
+    1 stack of Superlative Superstrength every 0.5s for 1.5s.
+C2
+Gather 'Round, It's a Brawl!
+After using
+Royal Descent: Behold, Itto the Evil!
+, each party
+    member whose Element is
+Geo
+will decrease that skill's CD
+    by 1.5s and restore 6 Energy to Arataki Itto. CD can be decreased by up to
+    4.5s in this manner. Max 18 Energy can be restored in this manner.
+C3
+Horns Lowered, Coming Through
+Increases the Level of
+Masatsu Zetsugi: Akaushi Burst!
+by 3.
+Maximum upgrade level is 15.
+C4
+Jailhouse Bread and Butter
+When the Raging Oni King state caused by
+Royal Descent: Behold, Itto the Evil!
+ends, all nearby party members
+    gain 20% DEF and 20% ATK for 10s.
+C5
+10 Years of Hanamizaka Fame
+Increases the Level of
+Royal Descent: Behold, Itto the Evil!
+by 3.
+Maximum upgrade level is 15.
+C6
+Arataki Itto, Present!
+Arataki Itto's
+Charged Attack
+s deal +70% CRIT DMG. Additionally, when
+    he uses Arataki Kesagiri, he has a 50% chance to not consume stacks of
+    Superlative Superstrength.
+Changelog
+20 Oct. 2025:
+Updated for Luna II.
+30 Jul. 2025:
+Updated for 5.8.
+17 Jun. 2025:
+Updated for 5.7.
+06 May 2025:
+Updated for 5.6.
+25 Mar. 2025:
+Updated for 5.5.
+06 Feb. 2025:
+Build Updated for 5.3.
+18 Oct. 2024:
+Reviewed and added new team for Update 5.1.
+07 Dec. 2023:
+Guide added.
+Show more
+Show less
+Need any help? Check out our
+General Discussion Forum
+!
+1 comment
+In The Same Category
+Chiori Best Builds Guide
+Zhongli Best Builds Guide
+Zibai Team Guide
+Illuga Best Builds Guide
+Xilonen Profile & Talents
+Navia Team Guide
+Illuga Profile & Talents
+Illuga Team Guide
+Navia Best Builds Guide
+Geo Traveler Best Builds Guide
+Zibai Profile & Talents
+Linnea Profile & Talents
+ABOUT THE AUTHOR
+Written by Jaymo, a longtime gamer who spends way too many hours exploring
+        open worlds, grinding in MMOs, and pulling for his favorite gacha characters.
+        He covers news and guides for all kinds of games, and just likes helping people
+        enjoy them more. You can find him hanging out on Twitch or chatting in Discord (jaym0).
+SUPPORT OUR WRITERS

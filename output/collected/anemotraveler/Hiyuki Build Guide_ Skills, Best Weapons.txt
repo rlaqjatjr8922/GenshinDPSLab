@@ -1,0 +1,241 @@
+In the
+Wuthering Waves Version 3.3
+, the Glacio Sword Resonator
+Hiyuki
+makes a stunning debut. Designed as a Main Damage Dealer who relies on devastating Resonance Liberation (Ultimate) burst damage, Hiyuki features a unique dual-form mechanic and the powerful "Glacio Chafe" system. This comprehensive guide will break down her mechanics and provide the best weapons, Echoes, team compositions, and ascension materials to help you maximize her potential.
+6480+1600 Lunites*10
+Enjoy Up To 22% Off On Game Top-ups.
+3-minute Delivery For Non-stop Gaming.
+Trusted 4.9/5 On Trustpilot, 10/10 Among Players.
+Official Partnership Route, Protect Your Game Wallet.
+$831.8
+Top Up With Discount Now!
+Skills & Mechanics Explained
+Hiyuki's gameplay loop revolves around
+stance switching
+and
+resource management
+, with her damage heavily weighted toward her high-multiplier Resonance Liberation.
+Choose the best Wuthering Waves product.
+Wuthering Waves
+5
+/
+5
+6k+ Sold
+143+ reviews
+Wuthering Waves
+6480+1600 Lunites
+6480+1600 Lunites
+$
+73.75
+$99.99
+-18%
+Login
+Buy
+Signature Weapon Guaranteed Bundle
+Signature Weapon Guaranteed Bundle
+$
+147.85
+$164.97
+-10%
+UID
+Buy
+Qiuyuan Guaranteed Bundle
+Qiuyuan Guaranteed Bundle
+$
+307.48
+$330
+-7%
+UID
+Buy
+Sigrika Guaranteed Bundle
+Sigrika Guaranteed Bundle
+$
+307.48
+$330
+-7%
+UID
+Buy
+6480+1600 Lunites*10
+6480+1600 Lunites*10
+$
+831.8
+$999.9
+-17%
+UID
+Buy
+6480+1600 Lunites*5
+6480+1600 Lunites*5
+$
+415.9
+$499.95
+-17%
+UID
+Buy
+6480 + 1600 Lunites*3
+6480 + 1600 Lunites*3
+$
+249.54
+$299.97
+-17%
+UID
+Buy
+6480 + 1600 Lunites
+6480 + 1600 Lunites
+$
+83.18
+$99.99
+-17%
+UID
+Buy
+3280+600 Lunites
+3280+600 Lunites
+$
+42.47
+$49.99
+-15%
+UID
+Buy
+1980 + 260 Lunites
+1980 + 260 Lunites
+$
+25.47
+$29.99
+-15%
+UID
+Buy
+980+110 Lunites
+980+110 Lunites
+$
+12.73
+$14.99
+-15%
+UID
+Buy
+300+30 Lunites
+300+30 Lunites
+$
+4.25
+$4.99
+-15%
+UID
+Buy
+Scroll within the list to view more products
+Continue reading
+Show More
+Show More
+Dual Forms (Present Self & Foreclaimed Self)
+Present Self (Default Form):
+Hiyuki starts in this state. By using Basic Attack Stage 3 and her Intro Skill, she builds up the Forte Gauge
+[Dedication]
+. Once [Dedication] reaches 300, she can cast her Enhanced Heavy Attack (Frost Splinter), unlocking her Resonance Liberation (Foreclaiming: Inward Vision) to switch to her burst form.
+Foreclaimed Self (Burst Form):
+In this state, Hiyuki's Basic Attacks are considered Resonance Liberation DMG. Attacking builds a new Forte Gauge,
+[Frostheart]
+. Consuming 100 [Frostheart] allows her to perform a special
+[Iai]
+strike.
+Core Nuke (Blade Liberation)
+While in Foreclaimed Self, casting [Iai] grants stacks of [Whiteout Bitterfrost]. At 3 stacks, she can cast a special Heavy Attack to gain up to 3 points of
+[Snowforged Blade]
+. Finally, she can consume these points to unleash her ultimate nuke:
+Foreclaiming: Blade Liberation
+. The more points consumed, the higher the damage multiplier.
+Glacio Chafe & Glacio Bite
+Hiyuki applies "Glacio Chafe" to enemies with her attacks. When she is in the team, any Glacio Chafe applied by nearby Resonators converts into "Glacio Bite," which triggers additional burst damage based on the enemy's stack limit. This makes her both a selfish hypercarry and an excellent synergistic piece for Glacio teams.
+Best Weapons for Hiyuki
+For Hiyuki, you want to prioritize
+Crit Rate, ATK%, and Resonance Liberation DMG bonuses
+.
+Best in Slot: Self No More (Signature / 5★)
+Perfect Fit.
+Provides 24.3% Crit Rate and 12% ATK. Applying Glacio Chafe amplifies Glacio DMG by 28% and makes Resonance Liberation DMG ignore 10% of the target's DEF. It also buffs Glacio Chafe DMG for the team when she is active.
+Best Alternative: Emerald of Genesis (5★)
+Provides 24.3% Crit Rate and 12.8% Energy Regen. Casting Resonance Skills stacks ATK% (up to 12%). This is the absolute best generalist 5-star option if you skip her signature.
+Best 4-Star: Oath of Tide Hunters (4★)
+Provides 20.25% Crit Rate. Casting Resonance Liberation increases ATK by 7.2% and grants a 10.8% Resonance Liberation DMG Bonus, syncing perfectly with Hiyuki's burst rotation.
+Best Echoes Setup
+Hiyuki's kit is specifically tailored to take full advantage of the new Echo set arriving in Version 3.3.
+Best Set: 5-Pc Wishes of Quiet Snowfall
+2-Pc Effect:
+Glacio DMG +10%.
+5-Pc Effect:
+Inflicting Glacio Chafe increases Glacio DMG by 10%. Grants the [Snowfall] effect: Dealing Resonance Liberation DMG removes it to
+increase Crit Rate by 25%
+for 6s (extendable up to 24s by continuously dealing Resonance Liberation DMG). This perfectly bridges the Crit Rate gap for her nuke!
+Main Stat Priority (4-3-3-1-1)
+4-Cost:
+Crit. DMG / Crit. Rate
+3-Cost:
+Glacio DMG Bonus x2
+1-Cost:
+ATK% x2
+Substat Priority
+Crit Rate / Crit DMG > ATK% > Resonance Liberation DMG > Energy Regen > Flat ATK
+Best Team Compositions
+As a hypercarry, Hiyuki thrives with teammates who can provide DMG Amplification, survivability, and off-field coordination.
+Current Best Team
+Hiyuki (Main DPS) + Lynae (Sub-DPS/Buffer) + Mornye (Healer/Support)
+Lynae (Spectro Pistols):
+Generates Concerto Energy rapidly. Her Outro Skill grants the incoming Resonator 15% All DMG Amplification and 25% Resonance Liberation DMG Amplification, which directly buffs Hiyuki's ultimate nuke.
+Mornye (Fusion Broadblade):
+Excellent survivability buffer. Her Outro Skill provides a massive 25% All DMG Amplification to the team for 30 seconds.
+The Definitive Endgame Team
+Hiyuki + Lucilla (Upcoming) + Chisa (Havoc Support)
+According to leaks, the upcoming character
+Lucilla
+will complete the ultimate Glacio trio.
+Chisa (Havoc Broadblade):
+Provides shields, healing, and DEF shred. Crucially, Chisa's Outro Skill increases the maximum stacks of Negative Statuses enemies can receive and allows teammates to ignore DEF. This has incredible synergy with Hiyuki's stack-based "Glacio Chafe" mechanics.
+Ascension Materials
+To level Hiyuki and her signature weapon to Level 90, you will need to pre-farm the following materials:
+Character Ascension & Skill Materials (Hiyuki)
+Material Type
+Name & Quantity Required
+Shell Credits
+~2,200,000 (170k for Ascension + 2.03M for Skills)
+Local Specialty
+Redbell x60
+Monster Drops (Exoswarm Core)
+LF x29, MF x40, HF x52, FF x61
+Forgery Challenge (Polarizer)
+Broken Wing x25, Monowing x28, Polywing x55, Layered Wing x67
+Weekly Boss
+We Who Question x26
+Weapon Ascension Materials (Self No More)
+Material Type
+Name & Quantity Required
+Shell Credits
+330,000
+Monster Drops (Exoswarm Pendant)
+Fractured x6, Worn x6, Chipped x10, Intact x12
+Forgery Challenge (Polarizer)
+Broken Wing x6, Monowing x8, Polywing x6, Layered Wing x20
+Resonance Chain (Constellations) Analysis
+Hiyuki is a complete and powerful character at Resonance Chain 0 (S0). However, if you are looking to invest further, S2 and S6 are her massive power spikes.
+Chain 1 (Springless):
+Increases Foreclaimed Self multipliers, adds grouping to her basic attacks, and provides interruption resistance. Great quality-of-life upgrade.
+Chain 2 (To Burn Cold in Silence) - Best Value:
+Increases [Iai] DMG multiplier by 125%. Out of combat, she instantly restores [Snowforged Blade] and [Frostheart], massively speeding up her burst rotation upon entering a fight.
+Chain 3 (No Self, No Bound):
+Significantly buffs her coordinated [Glacio Bite] damage multipliers.
+Chain 4 (Like Reeds on Tides):
+Casting specific skills increases teamwide damage by 20% and restores a large chunk of HP, turning her into a potent sub-DPS/healer hybrid.
+Chain 5 (Vessel of Thousand Wishes):
+Standard skill multiplier increases (+80%).
+Chain 6 (Into a Night Without End) - Ultimate Nuke:
+Increases the Crit. DMG of her Foreclaiming abilities by an absurd 500%. Furthermore, any Resonator applying Glacio Chafe triggers fixed-multiplier Glacio Bite DMG, making her an unstoppable force.
+Is Hiyuki Worth Pulling?
+Conclusion: Absolutely.
+If your account lacks a premier Glacio Main DPS, or if you enjoy high-skill-ceiling characters that reward resource management with massive, screen-clearing nuke damage, Hiyuki is a must-pull. Her signature weapon is highly recommended due to the rare DEF-ignore stat and high Crit Rate. Additionally, her kit's synergy with upcoming characters (like Lucilla and Chisa) gives her incredible future-proof value.
+Frequently Asked Questions (FAQ)
+Q: Is Hiyuki difficult to play?
+A: She has a moderate learning curve. The core of her gameplay is "Dual Gauge Management": max out [Dedication] to enter burst form, max out [Frostheart] for Iai strikes, and stack [Snowforged Blade] for the final nuke. Once you learn the rhythm, her rotation flows very smoothly.
+Q: What is the best F2P weapon alternative?
+A: If you don't pull her signature, the Standard 5-star sword,
+Emerald of Genesis
+, is your best bet. Its Crit Rate and ATK% buffs ensure her damage floor remains very high.
+Q: Does Hiyuki need Energy Regen (ER%)?
+A: Yes. Because her massive nuke is tied to her Resonance Liberation (which costs 125 Energy), you should aim for approximately
+120% - 130% Energy Regen
+from your Echo substats to guarantee a smooth rotation in endgame content.

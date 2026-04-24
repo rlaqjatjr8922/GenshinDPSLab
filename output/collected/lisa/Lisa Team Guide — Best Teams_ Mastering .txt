@@ -1,0 +1,344 @@
+Genshin Impact Lisa Best Team Guide
+Last updated April 24, 2026. Looking for the best Lisa teams in
+        Genshin Impact? Start with the top team summary below, then pick the
+        lineup that fits your roster.
+This page provides the best team info for Lisa, primarily a Sub DPS/Support. Top teams include Thunder, Superconduct, Electro-Charged, and Overload archetypes. Flexibility allows swapping Fischl and Kujou Sara to optimize based on your roster.
+View Lisa's character page
+Lisa Team Summary
+#1
+Team Rating:S
+Lisa Thunder Overload Raiden Hypercarry
+C6
+#2
+Team Rating:B
+Lisa Superconduct Eula Team
+#3
+Team Rating:B
+Lisa Overload Vaporize Team
+#4
+Team Rating:B
+Lisa Electro-Charged Kokomi Fischl Kazuha Team
+#1 Lisa Thunder Overload Raiden Hypercarry
+Tier S
+Lisa is a Sub DPS in the team. The Electro DMG of whole team is maximized by Kujou Sara(C6)’s Electro CRIT DMG Bonus.
+Raiden Shogun
+Main DPS
+Electro
+Raiden Shogun is the main DPS in the team. The DMG of Elemental Burst depends on the energy consumed by team members using their Elemental Burst. Beidou and Kujou Sara’s Elemental Bursts require 80 energy, which makes them best teammates of Raiden Shogun.
+Raiden Shogun can boost Energy Recharge of their teammates by using Elemental Burst, and also increase DMG of teammates’ Elemental Burst by using Elemental Skill. This makes Raiden Shogun a all-rounded Main DPS.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Engulfing Lightning
+"The Catch"
+Kujou Sara
+Support
+Electro
+Constellation 6+
+Kujou Sara can provide ATK Bonus to teammates. And C6 Kujou Sara’s Elemental Burst can boost CRIT DMG of Electro DMG of Raiden Shogun and Beidou. The high energy consumption of Elemental Burst maximizes Elemental Burst DMG of Raiden Shogun.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Skyward Harp
+The Stringless
+Lisa
+Sub DPS
+Electro
+Lisa’s Elemental Burst can provide continuous Electro attachment even at backstage, which works with Kokomi to trigger Electro.
+Artifacts
+Thundering Fury
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Skyward Atlas
+Sacrificial Fragments
+Mappa Mare
+Bennett
+Support
+Pyro
+Bennett’s Elemental Burst provides huge ATK buff and healing to other members.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+#2 Lisa Superconduct Eula Team
+Tier B
+Superconduct-focused Eula team
+. Eula is the main carry, with Lisa enabling Superconduct and adding burst damage, Rosaria batterying Eula and contributing Cryo damage, and Zhongli providing a strong shield plus
+Tenacity of the Millelith
+team ATK buff.
+Eula
+Main DPS
+Cryo
+Core of the team. Her Elemental Burst is the main source of damage and is heavily amplified by Superconduct. Prioritize Burst uptime and physical damage.
+Artifacts
+Pale Flame
+Main Stats
+Sands
+ATK%
+Goblet
+Physical DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Song of Broken Pines
+Serpent Spine
+Lisa
+Sub DPS
+Electro
+Applies Electro from off-field with her Elemental Burst to maintain
+Superconduct
+and support Eula's Physical damage. Can also contribute respectable burst damage.
+Artifacts
+Thundering Fury
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Skyward Atlas
+Sacrificial Fragments
+Mappa Mare
+Rosaria
+Sub DPS
+Cryo
+Burst-focused Cryo sub DPS and battery for Eula. Helps generate energy while contributing additional damage and Cryo particles.
+Artifacts
+Blizzard Strayer
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Skyward Spine
+Favonius Lance
+Zhongli
+Support
+Geo
+Provides a very durable shield for safe Eula field time and activates
+Tenacity of the Millelith
+to boost the team's ATK. Also offers universal RES shred.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Staff of Homa
+Black Tassel
+#3 Lisa Overload Vaporize Team
+Tier B
+Team Rating: B Tier
+Lisa is the Sub DPS in this team. Diluc’s DMG is amplified by Vaporization.
+Diluc
+Main DPS
+Pyro
+Diluc is the main DPS, his DMG is amplified by the Vaporization in this team.
+Artifacts
+Crimson Witch of Flames
+Main Stats
+Sands
+ATK%
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Wolf's Gravestone
+Serpent Spine
+Lisa
+Sub DPS
+Electro
+Lisa’s Elemental Burst can provide continuous Electro attachment even at backstage, which works with Kokomi to trigger Electro.
+Artifacts
+Thundering Fury
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Skyward Atlas
+Sacrificial Fragments
+Mappa Mare
+Kaedehara Kazuha
+Support
+Anemo
+Kazuha can assist the team by grouping enemies together, applying crowd control, provide DMG buff to teammates and reduce Elemental Resistance of enemies.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Freedom-Sworn
+Iron Sting
+Bennett
+Support
+Pyro
+Bennett’s Elemental Burst provides huge ATK buff and healing to other members.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+#4 Lisa Electro-Charged Kokomi Fischl Kazuha Team
+Tier B
+Lisa is a
+Sub DPS
+in this Electro-Charged team. Lisa and Fischl help trigger Electro-Charged consistently, while Kokomi provides Hydro application and healing. Kazuha groups enemies, buffs team damage, and reduces enemy Elemental RES.
+Sangonomiya Kokomi
+Main DPS
+Hydro
+Kokomi is the main on-field damage dealer. Her Elemental Burst scales with her Max HP, and her Elemental Skill applies Wet to enable constant Electro-Charged reactions with Lisa and Fischl.
+Artifacts
+Ocean-Hued Clam
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+HP% / Energy Recharge / HP% / ATK% / Elemental Mastery
+Weapons
+Everlasting Moonglow
+Thrilling Tales of Dragon Slayers
+Lisa
+Sub DPS
+Electro
+Lisa’s Elemental Burst can provide continuous off-field Electro application, working with Kokomi to trigger Electro-Charged.
+Artifacts
+Thundering Fury
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Skyward Atlas
+Sacrificial Fragments
+Mappa Mare
+Fischl
+Sub DPS
+Electro
+Oz provides continuous off-field Electro application, allowing Kokomi to trigger Electro-Charged consistently.
+Artifacts
+Thundering Fury
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Skyward Harp
+The Stringless
+Kaedehara Kazuha
+Support
+Anemo
+Kazuha groups enemies, provides crowd control, buffs teammates’ damage, and reduces enemy Elemental RES with Viridescent Venerer.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Freedom-Sworn
+Iron Sting
+Lisa Teams FAQ
+What is the best Lisa team in Genshin Impact?
+Lisa Thunder Overload Raiden Hypercarry is one of the strongest Lisa teams right now. Use the team summary and build cards on this page to pick the best version for your account.
+What are good Lisa teams without premium weapons?
+You can run strong Lisa teams without signature weapons by prioritizing reaction synergy, energy consistency, and artifact main stats shown in each build card.
+Which teammates are best with Lisa?
+Common high-performing partners include teams such as Lisa Thunder Overload Raiden Hypercarry, Lisa Superconduct Eula Team, Lisa Overload Vaporize Team. Check each lineup section for role breakdowns and gear priorities.

@@ -1,0 +1,192 @@
+Genshin Impact Xiangling Build
+Pyro
+Polearm
+Sub DPS
+Xiangling Upgrade Materials
+Diligence
+Dvalin's Claw
+Agnidus Agate Sliver
+Everflame Seed
+Jueyun Chili
+Slime Condensate
+Xiangling Best Weapons
+1
+Staff of the Scarlet Sands
+2
+Staff of Homa
+3
+Engulfing Lightning
+4
+The Catch
+R5
+5
+Deathmatch
+Xiangling Best Artifacts
+1
+Emblem of Severed Fate
+4
+2
+Crimson Witch of Flames
+4
+3
+Crimson Witch of Flames
+2
+Emblem of Severed Fate
+2
+4
+Emblem of Severed Fate
+2
+Noblesse Oblige
+2
+5
+Crimson Witch of Flames
+2
+Noblesse Oblige
+2
+Xiangling Best Stats
+Sands:
+Energy Recharge / ATK%
+Goblet:
+Pyro DMG
+Circlet:
+CRIT Rate / CRIT DMG
+Substats:
+Energy Recharge > CRIT Rate / CRIT DMG > ATK%
+Character Builds by Genshin Impact Helper →
+Showcase
+Teams
+Talents
+Passives
+Constellations
+Ascension
+Xiangling Showcase
+Xiangling video guide by
+Zy0x
+.
+Check out his content!
+Best Xiangling Teams
+Childe Vaporize
+Raiden Vaporize
+Xiangling Vaporize
+Xiangling Talents
+Normal Attack
+Dough-Fu
+Normal Attack Performs up to 5 consecutive spear strikes. Charged Attack Consumes a certain amount of Stamina to lunge forward, dealing damage to enemies along the way. Plunging Attack Plunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.
+Elemental Skill
+Guoba Attack
+Summons Guoba the Panda. Guoba continuously breathes fire, dealing AoE
+Pyro
+DMG.
+Elemental Burst
+Pyronado
+Displaying her mastery over both fire and polearms, Xiangling sends a Pyronado whirling around her. The Pyronado will move with your character for so long as the ability persists, dealing
+Pyro
+DMG to all enemies in its path.
+Xiangling Passives
+Ascension 1
+Crossfire
+Increases the flame range of Guoba by 20%.
+Ascension 4
+Beware, It's Super Hot!
+When Guoba Attack's effect ends, Guoba leaves a chili pepper on the spot where it disappeared. Picking up a chili pepper increases ATK by 10% for 10s.
+Passive
+Chef de Cuisine
+When Xiangling cooks an ATK-boosting dish perfectly, she has a 12% chance to receive double the product.
+Xiangling Constellations
+Constellation 1
+Crispy Outside, Tender Inside
+Enemies hit by Guoba's attacks have their
+Pyro
+RES reduced by 15% for 6s.
+Constellation 2
+Oil Meets Fire
+The last attack in a Normal Attack sequence applies the Implode status onto the enemy for 2s. An explosion will occur once this duration ends, dealing 75% of Xiangling's ATK as AoE
+Pyro
+DMG.
+Constellation 3
+Deepfry
+Increases the Level of Pyronado by 3. Maximum upgrade level is 15.
+Constellation 4
+Slowbake
+Pyronado's duration is increased by 40%.
+Constellation 5
+Guoba Mad
+Increase the Level of Guoba Attack by 3. Maximum upgrade level is 15.
+Constellation 6
+Condensed Pyronado
+For the duration of Pyronado, all party members receive a 15%
+Pyro
+DMG Bonus.
+Xiangling Ascension Costs
+Rank
+Lvl
+Cost
+Material
+Material
+Material
+Material
+1
+20
+20000
+1
+Agnidus Agate Sliver
+3
+Jueyun Chili
+3
+Slime Condensate
+2
+40
+40000
+3
+Agnidus Agate Fragment
+2
+Everflame Seed
+10
+Jueyun Chili
+15
+Slime Condensate
+3
+50
+60000
+6
+Agnidus Agate Fragment
+4
+Everflame Seed
+20
+Jueyun Chili
+12
+Slime Secretions
+4
+60
+80000
+3
+Agnidus Agate Chunk
+8
+Everflame Seed
+30
+Jueyun Chili
+18
+Slime Secretions
+5
+70
+100000
+6
+Agnidus Agate Chunk
+12
+Everflame Seed
+45
+Jueyun Chili
+12
+Slime Concentrate
+6
+80
+120000
+6
+Agnidus Agate Gemstone
+20
+Everflame Seed
+60
+Jueyun Chili
+24
+Slime Concentrate
+Loading...

@@ -1,0 +1,248 @@
+Trending
+The Boys Season 5
+Windrose
+Invincible Season 4
+Twitch
+Overwatch
+Gaming
+Genshin Impact
+Best Sethos Genshin Impact build: Artifacts, weapon, team comp & more
+by
+Rishov Mukherjee
+Updated:
+Jun 17, 2024, 16:41
+Save for later
+Save for later
+HoYoverse
+Get Notifications for Gaming News
+Sethos is a 4-star unit in
+Genshin Impact
+who first appeared on Clorinde’s debut banner. Here is everything you need to know about building him with the best weapons, artifacts, and more.
+Sethos was leaked before the April 2024 HoYoverse livestream, but was featured as an NPC in Cyno’s second story quest.
+Sethos
+will be featured as a 4-star character on Clorinde and Alhaitham’s banner from
+June 5, 2024, to June 25, 2024.
+The other 4-star units available to pull include Bennett and Thoma.
+Article continues after ad
+Keep reading for all you need to know about effectively building Sethos in Genshin Impact.
+Sethos abilities in Genshin Impact
+HoYoverse
+Normal Attack: Royal Reed Archery
+Normal Attack
+Performs up to 3 consecutive shots with a bow.
+Charged Attack
+Performs a more precise Aimed Shot with increased DMG.
+While aiming, the power of Electro will accumulate on the arrowhead before the arrow is fired. Has different effects based on how long the energy has been charged:
+Charge Level 1: Fires off an arrow carrying the power of lightning that deals Electro DMG.
+Charge Level 2: Fires off a Shadowpiercing Shot which can pierce enemies, dealing Electro DMG to enemies along its path. After the Shadowpiercing Shot is fully charged, Sethos cannot move around.
+Plunging Attack
+Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.
+Elemental Skill: Ancient Rite – The Thundering Sands
+Gathers the might of thunder, dealing AoE Electro DMG and quickly retreating. If this attack triggers Electro-Charged, Superconduct, Overloaded, Quicken, Aggravate, or Electro Swirl reactions, Sethos recovers a certain amount of Elemental Energy.
+Elemental Burst: Secret Rite – Twilight Shadowpiercer
+Perform a secret rite, entering the “Twilight Meditation” state, during which Sethos’s Normal Attacks will be converted into enemy-piercing Dusk Bolts: Deal Electro DMG to opponents in its path, with DMG increased based on Sethos’s Elemental Mastery.
+Article continues after ad
+Article continues after ad
+Sethos cannot perform Aimed Shots while in this state. DMG dealt by Dusk Bolts is considered Charged Attack DMG. This effect will be canceled when Sethos leaves the field.
+Passive Skills
+Reflected Revelation
+Displays the location of nearby resources unique to Sumeru on the mini-map.
+Black Kite’s Enigma
+When Aiming, the charging time is decreased by 0.285s based on each point of Sethos’s current Elemental Energy that is not over 20. Charging time can be reduced to a minimum of 0.3s through this method. If a Shadowpiercing Shot is fired, consume the corresponding amount of Elemental Energy; if it is a Charge Level 1 shot, then consume 50% of the corresponding amount of Elemental Energy.
+Related
+Best Yao Guang Honkai Star Rail build: Team, Light Cones, Eidolons, and Abilities
+Best Archer Honkai Star Rail build: Relics, Light Cones & team comp
+Genshin Impact tier list: Best characters as of update 5.4
+Article continues after ad
+The Sand King’s Boon
+Sethos gains the “Scorching Sandshade” effect, increasing the DMG dealt by Shadowpiercing Shots by 700% of Sethos’s Elemental Mastery.
+The Scorching Sandshade effect will be canceled when any of the following conditions are met:
+Article continues after ad
+5s after a Shadowpiercing Shot first hits an opponent.
+After 4 Shadowpiercing Shots strike opponents.
+When a Shadowpiercing Shot affected by Scorching Sandshade first hits an opponent, Sethos will regain Scorching Sandshade after 15s.
+Sethos Constellations in Genshin Impact
+Level 1: Sealed Shrine’s Spiritsong
+– The CRIT Rate of Shadowpiercing Shot is increased by 15%.
+Level 2: Papyrus Scripture of the Silent Secrets
+– When the following conditions are met, Sethos gains a 15% Electro DMG Bonus for 10s (may stack up to 2 times, counted independently):
+Article continues after ad
+Regaining Elemental Energy by triggering Elemental Reactions using Ancient Rite: The Thundering Sands.
+Using Secret Rite: Twilight Shadowpiercer
+Consuming Elemental Energy through Aimed Shots.
+Level 3: Ode to the Moonrise Sage
+– Increases the Level of Normal Attack: Royal Reed Archery by 3.
+Maximum upgrade level is 15.
+Level 4: Beneficient Plumage
+– When a Shadowpiercing Shot or Dusk Bolt strikes 2 or more opponents, all nearby party members gain 80 Elemental Mastery for 10s.
+Level 5: Record of the Desolate God’s Burning Sands
+– Increases the Level of Secret Rite: Twilight Shadowpiercer by 3. Maximum upgrade level is 15.
+Level 6: Pylon of the Sojourning Sun Temple
+– After Shadowpiercing Shotstrikes an opponent, the Elemental Energy consumed by the Passive Talent “Black Kite’s Enigma” will be returned. This effect can be triggered up to once every 15s. You must first unlock the Passive Talent “Black Kite’s Enigma.
+Article continues after ad
+Article continues after ad
+Best weapons for Sethos in Genshin Impact
+The best weapon for Sethos in Genshin Impact is the 5-star option
+Hunter’s Path
+. This Bow will grant Sethos a 12% Elemental DMG bonus in addition to increasing his Charged Attack DMG by 160% of his Elemental Mastery. This is perfect for Sethos based on his kit scaling on Elemental Mastery and reliance on Charged Shots.
+If you don’t have Hunter’s Path, another 5-star option is
+The First Great Magic
+to increase Charged Attack DMG by 16%. Lastly, an efficient 4-star weapon is
+Cloudforged
+to improve Elemental Mastery after using Elemental Energy.
+Article continues after ad
+Weapon
+Details
+Hunter’s Path
+Gain 12% All Elemental DMG Bonus. Obtain the Tireless Hunt effect after hitting an opponent with a Charged Attack. This effect increases Charged Attack DMG by 160% of Elemental Mastery. This effect will be removed after 12 Charged Attacks or 10s. Only 1 instance of Tireless Hunt can be gained every 12s.
+The First Great Magic
+DMG dealt by Charged Attacks increased by 16%. For every party member with the same Elemental Type as the wielder (including the wielder themselves), gain 1 Gimmick stack.
+For every party member with a different Elemental Type from the wielder, gain 1 Theatrics stack. When the wielder has 1/2/3 or more Gimmick stacks, ATK will be increased by 16%/32%/48%. When the wielder has 1/2/3 or more Theatrics stacks, Movement SPD will be increased by 4%/7%/10%.
+Cloudforged
+After Elemental Energy is decreased, the equipping character’s Elemental Mastery will increase by 40 for 18s. Max 2 stacks.
+Best Artifacts for Sethos in Genshin Impact
+You could run the 4-piece
+Wanderer’s Troupe
+or 4-piece
+Gilded Dreams
+to maximize Sethos’s potential. I suggest going for the former if you want to increase the power of Sethos’s Charged Attacks greatly.
+On the other hand, you can buff both ATK and Elemental Mastery by going with the 4-piece Gilded Dreams for each member whose Elemental Type is the same as Sethos.
+Article continues after ad
+Artifact
+Bonuses
+Wanderer’s Troupe
+2-piece bonus:
+Increases Elemental Mastery by 80.
+4-piece bonus:
+Increases Charged Attack DMG by 35% if the character uses a Catalyst or a Bow.
+Gilded Dreams
+2-piece bonus:
+Elemental Mastery +80
+4-piece bonus:
+Within 8s of triggering an Elemental Reaction, the character equipping this will obtain buffs based on the Elemental Type of the other party members.
+ATK is increased by 14% for each member whose Elemental Type is the same as the equipping character, and EM is increased by 50 for every member with a different Elemental Type. Each of the buffs will count up to 3 characters. This effect can be triggered once every 8s and even when not on the field.
+Sethos Ascension and Talent Level-up materials in Genshin Impact
+Sethos in Genshin Impact needs
+Vajrada Amethyst Silver and its upgrades, Trishirate, Faded Red Satin and its upgrades, and Cloudseam Scale
+. The materials across each level have been listed below:
+Article continues after ad
+Ascension materials
+Ascension Level
+Mora
+Materials
+1
+20000
+Vajrada Amethyst Silver x1
+—
+Faded Red Satin x3
+Trishiraite x3
+2
+40000
+Vajrada Amethyst Fragment x3
+Cloudseam Scale x2
+Faded Red Satin x15
+Trishiraite x10
+3
+60000
+Vajrada Amethyst Fragment x6
+Cloudseam Scale
+Trimmed Red Silk x12
+Trishiraite x20
+4
+80000
+Vajrada Amethyst Chunk x3
+Cloudseam Scale
+Trimmed Red Silk x18
+Trishiraite x30
+5
+100000
+Vajrada Amethyst Chunk x6
+Cloudseam Scale
+Rich Red Brocade x12
+Trishiraite x45
+6
+120000
+Vajrada Amethyst Chunk x6
+Cloudseam Scale
+Rich Red Brocade x24
+Trishiraite x60
+Talent level-up materials
+Sethos in Genshin Impact needs
+Teachings of Praxis and its upgrades, Daka’s Bell and Faded Red Satin, and its upgrades for his talents
+. The exact number of materials you need are as follows:
+Talent Level-Up Materials
+Talent Books
+Teachings of Praxis x9
+Guide to Praxis x63
+x114 Philosophies of Praxis
+Common Materials
+Faded Red Satin x18
+Trimmed Red Silk x66
+Rich Red Brocade x93
+Boss Materials
+x18 Daka’s Bell
+Sethos Talent and Constellation priority in Genshin Impact
+Talent priority
+Normal Attack
+Elemental Burst
+Elemental Skill
+You must prioritize leveling up Sethos’s Normal Attack to deal some serious damage with his Level 2 Charged Shots.
+Constellation priority
+C2
+C6
+We suggest pulling for Sethos’s second and sixth Constellation if you want to maximize his potential. Sethos’s sixth Constellation is his best, considering its Elemental Energy generation after his Aimed Shots.
+Article continues after ad
+Sethos Pros and Cons in Genshin Impact
+Pros
+Cons
+Elemental Mastery kit scaling for Hyperbloom and Aggravate teams
+Requires a lot of Energy
+Versatile with Charged Shot or Elemental Burst playstyles
+Prone to interruption during his Level 2 Charged Shot
+Should you pull for Sethos in Genshin Impact?
+Sethos isn’t a necessity for anyone’s team in Genshin Impact. There are much better 5-star Electro characters, such as Yae Miko and Raiden Shogun. Still, you may pull Sethos while trying to add Clorinde to your roster.
+Article continues after ad
+Best Sethos team in Genshin Impact
+Sethos performs well on teams focused on Aggravate or Hyperbloom Elemental Reactions. For Aggravate, we suggest running him alongside
+Fischl, Nahida,
+and
+Kazuha.
+This will guarantee Electro application that efficiently works with his Charged Attacks.
+As for Hyperbloom, we recommend the same setup except for switching Kazuha to
+Xingqiu.
+Instead of Charged Attacks, this focuses on Sethos’s Normal Attack playstyle. If you’d like, you can also replace Fischl with
+Raiden Shogun.
+Article continues after ad
+Sethos Genshin Impact trailer
+On June 1, 2024, Genshin Impact posted Sethos’s official character demo. You can check it out below:
+All Electro characters in Genshin Impact
+|
+All Cryo characters in Genshin Impact
+|
+Games like Genshin Impact
+|
+Best Barbara build in Genshin Impact
+|
+Best Genshin Impact Wish Simulators
+More
+Genshin Impact
+News
+Add as a preferred source on Google
+Follow on Google News
+Featured Articles
+TV & Movies
+Every upcoming DCU movie and show in development, including Man of Tomorrow
+Roblox
+Special Forces Simulator codes (April 2026)
+Pokemon
+Pokemon Go Shop: Items, prices, box changes (April 2026)
+Food
+AriZona reveals Hot Wheels tea flavors and a real Mazda Miata giveaway
+TV & Movies
+Best TV shows on Apple TV
+Sign up to Dexerto
+For The latest News, Views & Reviews
+Better Reading Experience
+|
+Save Your Favourite Items
+Sign up

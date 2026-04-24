@@ -1,0 +1,554 @@
+Genshin Impact Kirara Best Team Guide
+Last updated April 24, 2026. Looking for the best Kirara teams in
+        Genshin Impact? Start with the top team summary below, then pick the
+        lineup that fits your roster.
+This page provides the best team information for Kirara, primarily a Shield/Support. Top teams include Catalyze, Bloom, Spread, Aggravate, Burgeon, and Hyperbloom compositions. Team positions can be adjusted based on your roster.
+View Kirara's character page
+Kirara Team Summary
+#1
+Team Rating:SS
+Kirara Hyperbloom Ayato Nahida Kuki Shield Team
+C2
+#2
+Team Rating:SS
+Kirara Bloom Team SS - Nahida Nilou Barbara Kirara
+C6
+#3
+Team Rating:SS
+Kirara Spread Team with Alhaitham, Raiden Shogun and Nahida
+#4
+Team Rating:SS
+Kirara Aggravate Team with Yae Miko and Nahida
+#5
+Team Rating:SS
+Kirara Aggravate Team 2
+C6
+#6
+Team Rating:SS
+Kirara Aggravate Sethos Team
+C6
+#1 Kirara Hyperbloom Ayato Nahida Kuki Shield Team
+Tier SS
+Hyperbloom-focused team with
+Ayato
+as on-field Hydro driver,
+Nahida
+enabling Dendro application,
+Kuki Shinobu
+triggering Hyperbloom with off-field Electro and healing the party, and
+Kirara
+providing a strong shield plus extra utility. Kirara is especially valuable for comfort and anti-interruption; at
+C6
+she also grants
+12% All Elemental DMG Bonus
+after using Skill or Burst.
+Kamisato Ayato
+Main DPS
+Hydro
+On-field Hydro driver and main damage dealer. His continuous Hydro attacks react with Dendro from Nahida, Kirara, and Kuki to create Bloom cores that Kuki can trigger into Hyperbloom.
+Artifacts
+Nymph's Dream
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / HP% / Energy Recharge
+Weapons
+Light of Foliar Incision
+The Black Sword
+Nahida
+Sub DPS
+Dendro
+Primary off-field Dendro enabler. Her Skill can link up to 8 enemies and deal consistent Dendro damage, while her Burst buffs her Skill based on teammates' elements.
+Artifacts
+Deepwood Memories
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge / CRIT DMG / CRIT Rate / ATK%
+Weapons
+A Thousand Floating Dreams
+Wandering Evenstar
+Kuki Shinobu
+Support
+Electro
+Constellation 2+
+Healer and the team's main Hyperbloom trigger. Build as much Elemental Mastery as possible so her Electro Skill detonates Dendro cores for strong Hyperbloom damage.
+Artifacts
+Gilded Dreams
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / HP% / HP / Energy Recharge
+Weapons
+Freedom-Sworn
+Iron Sting
+Kirara
+Support
+Dendro
+Shield support that protects the team and reduces interruption. Her shield improves comfort, and at
+C6
+she adds
+12% All Elemental DMG Bonus
+to nearby party members after using Skill or Burst.
+Artifacts
+Tenacity of the Millelith
+Vourukasha's Glow
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP / Energy Recharge / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Key of Khaj-Nisut
+Sapwood Blade
+#2 Kirara Bloom Team SS - Nahida Nilou Barbara Kirara
+Tier SS
+Kirara is the Shield/Support in the team. The team deals DMG mainly through Bloom. Nilou's passive converts Bloom cores into
+Bountiful Cores
+, which deal larger AoE DMG.
+This team focuses on consistent Hydro/Dendro application, strong Bloom reaction uptime, and survivability through Kirara and Barbara.
+Nahida
+Main DPS
+Dendro
+Main on-field driver and primary Dendro damage dealer. Nahida mainly deals DMG through her Elemental Skill, which links up to 8 enemies and triggers reactions. Her Burst buffs her Skill based on teammates' elements.
+Best used to maintain consistent Dendro application for Bloom.
+Artifacts
+Deepwood Memories
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / ATK% / Energy Recharge
+Weapons
+A Thousand Floating Dreams
+Solar Pearl
+Barbara
+Support
+Hydro
+Healer and off-field Hydro applier. Barbara's Skill heals the team and continuously applies Hydro to enemies, enabling Bloom reactions.
+Artifacts
+Ocean-Hued Clam
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+HP% / Energy Recharge / HP% / ATK% / Elemental Mastery
+Weapons
+Everlasting Moonglow
+Prototype Amber
+Nilou
+Sub DPS
+Hydro
+Hydro enabler and Bloom specialist. Nilou provides strong Hydro application and, with a team composed only of Hydro and Dendro characters, turns Bloom cores into
+Bountiful Cores
+that explode faster and deal larger AoE DMG.
+Artifacts
+Tenacity of the Millelith
+Vourukasha's Glow
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Elemental Mastery / CRIT Rate / CRIT DMG
+Weapons
+Key of Khaj-Nisut
+The Dockhand's Assistant
+Kirara
+Support
+Dendro
+Constellation 6+
+Shield support that protects the team and helps reduce interruption. Kirara provides a strong shield, and at C6 grants nearby party members a 12% All Elemental DMG Bonus after using her Skill or Burst.
+Artifacts
+Tenacity of the Millelith
+Vourukasha's Glow
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Key of Khaj-Nisut
+Sapwood Blade
+#3 Kirara Spread Team with Alhaitham, Raiden Shogun and Nahida
+Tier SS
+Spread-focused Dendro team
+built around Alhaitham’s sustained Dendro damage, Nahida’s off-field Dendro application, and Raiden Shogun’s off-field Electro application to consistently trigger Spread. Kirara provides a strong shield and, at
+C6
+, grants an additional All Elemental DMG Bonus to the party.
+Alhaitham
+Main DPS
+Dendro
+Primary on-field damage dealer. Uses his Elemental Skill and Burst to generate Chisel-Light Mirrors and deal repeated AoE Dendro damage. Benefits greatly from constant Electro application to trigger Spread.
+Artifacts
+Gilded Dreams
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Dendro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / ATK% / Energy Recharge
+Weapons
+Light of Foliar Incision
+Harbinger of Dawn
+Raiden Shogun
+Sub DPS
+Electro
+Provides off-field Electro application to enable Spread reactions for Alhaitham and Nahida. Can be built for support/off-field utility in this team.
+Artifacts
+Gilded Dreams
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge / ATK%
+Weapons
+Dragon's Bane
+Nahida
+Sub DPS
+Dendro
+Off-field Dendro applier and reaction enabler. Her Elemental Skill links enemies and deals consistent Dendro damage, while her Burst enhances her skill based on teammates' elements. Electro teammates shorten Tri-Karma Purification trigger interval.
+Artifacts
+Deepwood Memories
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge / CRIT DMG / CRIT Rate / ATK%
+Weapons
+A Thousand Floating Dreams
+Wandering Evenstar
+Kirara
+Support
+Dendro
+Provides a shield to protect the team and reduce interruption. At
+C6
+, her Skill or Burst grants nearby party members
+12% All Elemental DMG Bonus
+.
+Artifacts
+Tenacity of the Millelith
+Vourukasha's Glow
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Key of Khaj-Nisut
+Sapwood Blade
+#4 Kirara Aggravate Team with Yae Miko and Nahida
+Tier SS
+Aggravate team centered around
+Yae Miko
+and
+Nahida
+, with
+Kazuha
+providing grouping, resistance shred, and damage buffs, while
+Kirara
+supplies shielding and Dendro support. Strong off-field Electro and Dendro application keeps Aggravate uptime high.
+Yae Miko
+Main DPS
+Electro
+Main damage dealer. Provides consistent off-field Electro application to trigger Aggravate with Dendro from Nahida and Kirara.
+Artifacts
+Gilded Dreams
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT DMG / CRIT Rate
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Kagura's Verity
+The Widsith
+Nahida
+Main DPS
+Dendro
+Primary Dendro enabler and damage source. Her Elemental Skill links enemies and applies strong Dendro damage, while her Burst buffs her skill based on teammates' elements.
+Artifacts
+Deepwood Memories
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / ATK% / Energy Recharge
+Weapons
+A Thousand Floating Dreams
+Solar Pearl
+Kaedehara Kazuha
+Support
+Anemo
+Provides crowd control, elemental damage buffs, and enemy resistance shred with Viridescent Venerer. Best used to group enemies and amplify team damage.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Freedom-Sworn
+Iron Sting
+Kirara
+Support
+Dendro
+Provides a sturdy shield and additional Dendro application. At C6, she also grants nearby party members a 12% All Elemental DMG Bonus after using her Elemental Skill or Burst.
+Artifacts
+Tenacity of the Millelith
+Vourukasha's Glow
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Key of Khaj-Nisut
+Sapwood Blade
+#5 Kirara Aggravate Team 2
+Tier SS
+Kirara is the shield/support
+in this Aggravate team. Dendro application comes from
+Nahida
+and
+Kirara
+, while Electro is provided by
+Keqing
+and
+Fischl
+. The team focuses on frequent Aggravate procs, with Fischl and Keqing enabling strong sustained Electro application and Nahida amplifying reaction damage.
+Keqing
+Main DPS
+Electro
+On-field Aggravate driver. Uses multi-hit attacks to trigger Aggravate consistently and helps maintain Electro resonance for more frequent burst uptime.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+ATK% / Elemental Mastery
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / ATK% / Energy Recharge
+Weapons
+Primordial Jade Cutter
+Iron Sting
+Fischl
+Sub DPS
+Electro
+Constellation 6+
+Off-field Electro application through Oz, enabling constant Aggravate procs alongside Nahida and Kirara.
+C6
+is a major power spike for the team.
+Artifacts
+Thundering Fury
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Aqua Simulacra
+The Stringless
+Nahida
+Sub DPS
+Dendro
+Primary Dendro applier and reaction enabler. Her Skill links multiple enemies and applies Dendro consistently, while her Burst further buffs her Skill depending on teammates' elements.
+Artifacts
+Deepwood Memories
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / ATK% / Energy Recharge
+Weapons
+Prototype Amber
+Kirara
+Support
+Dendro
+Provides a strong shield to protect the team and prevent interruption. At
+C6
+, her Skill or Burst grants nearby party members a 12% All Elemental DMG Bonus.
+Artifacts
+Tenacity of the Millelith
+Vourukasha's Glow
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Key of Khaj-Nisut
+Sapwood Blade
+#6 Kirara Aggravate Sethos Team
+Tier SS
+Kirara Aggravate Team
+Aggravate-focused composition that maximizes
+Sethos
+' Electro damage with off-field Electro from
+Fischl
+, Anemo resistance shred from
+Kazuha
+, and shielding/buffing from
+Kirara
+.
+Sethos
+Main DPS
+Electro
+Main on-field DPS. Sethos' passive reduces charging time, enabling rapid Charged Attacks and consistent Aggravate triggers.
+Artifacts
+Wanderer's Troupe
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / ATK% / Energy Recharge
+Weapons
+Amos' Bow
+Scion of the Blazing Sun
+Kaedehara Kazuha
+Support
+Anemo
+Provides grouping, crowd control, damage buffing, and enemy Elemental RES reduction through Swirl with Viridescent Venerer.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Freedom-Sworn
+Iron Sting
+Fischl
+Sub DPS
+Electro
+Constellation 6+
+Off-field Electro applicator with strong continuous Electro attachment. C6 provides a significant upgrade to the team.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Aqua Simulacra
+The Stringless
+Kirara
+Support
+Dendro
+Provides shielding to protect the team and help prevent knockback. At C6, after using Skill or Burst, nearby party members gain 12% All Elemental DMG Bonus.
+Artifacts
+Tenacity of the Millelith
+Vourukasha's Glow
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Key of Khaj-Nisut
+Sapwood Blade
+Kirara Teams FAQ
+What is the best Kirara team in Genshin Impact?
+Kirara Hyperbloom Ayato Nahida Kuki Shield Team is one of the strongest Kirara teams right now. Use the team summary and build cards on this page to pick the best version for your account.
+What are good Kirara teams without premium weapons?
+You can run strong Kirara teams without signature weapons by prioritizing reaction synergy, energy consistency, and artifact main stats shown in each build card.
+Which teammates are best with Kirara?
+Common high-performing partners include teams such as Kirara Hyperbloom Ayato Nahida Kuki Shield Team, Kirara Bloom Team SS - Nahida Nilou Barbara Kirara, Kirara Spread Team with Alhaitham, Raiden Shogun and Nahida. Check each lineup section for role breakdowns and gear priorities.

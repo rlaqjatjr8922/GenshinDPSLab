@@ -1,0 +1,196 @@
+Genshin Impact Mona Build
+Hydro
+Catalyst
+Support
+Mona Upgrade Materials
+Resistance
+Ring of Boreas
+Varunada Lazurite Sliver
+Cleansing Heart
+Philanemo Mushroom
+Whopperflower Nectar
+Mona Best Weapons
+1
+Thrilling Tales of Dragon Slayers
+2
+Favonius Codex
+3
+Prototype Amber
+4
+Wine and Song
+5
+The Widsith
+Mona Best Artifacts
+1
+Noblesse Oblige
+4
+2
+Tenacity of the Millelith
+4
+3
+Emblem of Severed Fate
+2
+Scholar
+2
+4
+Emblem of Severed Fate
+4
+5
+Scholar
+4
+Mona Best Stats
+Sands:
+Energy Recharge / ATK%
+Goblet:
+Hydro DMG / ATK%
+Circlet:
+CRIT Rate
+Substats:
+Energy Recharge > CRIT Rate > ATK%
+Character Builds by Genshin Impact Helper →
+Showcase
+Teams
+Talents
+Passives
+Constellations
+Ascension
+Mona Showcase
+Mona video guide by
+Braxophone
+.
+Check out his content!
+Best Mona Teams
+Ganyu Freeze
+Ayaka Freeze
+Mona Vaporize
+Mona Talents
+Normal Attack
+Ripple of Fate
+Normal Attack Performs up to 4 water splash attacks that deal
+Hydro
+DMG. Charged Attack Consumes a certain amount of Stamina and deals AoE
+Hydro
+DMG after a short casting time. Plunging Attack Gathering the might of Hydro, Mona plunges towards the ground from mid-air, damaging all enemies in her path. Deals AoE
+Hydro
+DMG upon impact with the ground.
+Elemental Skill
+Mirror Reflection of Doom
+Creates an illusory Phantom of fate from coalesced waterspouts. The Phantom has the following special properties: Continuously taunts nearby enemies, attracting their fire. Continuously deals
+Hydro
+DMG to nearby enemies. When its duration expires, the Phantom explodes, dealing AoE
+Hydro
+DMG. Hold Utilizes water currents to move backwards swiftly before conjuring a Phantom. Only one Phantom created by Mirror Reflection of Doom can exist at any time.
+Elemental Burst
+Stellaris Phantasm
+Mona summons the sparkling waves and creates a reflection of the starry sky, applying the Illusory Bubble status to opponents in a large AoE. Illusory Bubble Traps opponents inside a pocket of destiny and also makes them Wet. Renders weaker opponents immobile. When an opponent affected by Illusory Bubble sustains DMG, the following effects are produced: Applies an Omen to the opponent, which gives a DMG Bonus, also increasing the DMG of the attack that causes it. Removes the Illusory Bubble, dealing
+Hydro
+Elemental DMG in the process. The DMG Bonus does not apply to the
+Hydro
+Elemental DMG dealt in this instance. Omen During its duration, increases DMG taken by enemies.
+Right Click
+Illusory Torrent
+Alternate Spirit Mona cloaks herself within the water's flow, consuming Stamina to move rapidly. When under the effect of Illusory Torrent, Mona can move at high speed on water. Applies the Wet status to nearby enemies when she reappears.
+Mona Passives
+Ascension 1
+Come 'n' Get Me, Hag!
+After she has used Illusory Torrent for 2s, if there are any enemies nearby, Mona will automatically create a Phantom. A Phantom created in this manner lasts for 2s, and its explosion DMG is equal to 50% of Mirror Reflection of Doom.
+Ascension 4
+Waterborne Destiny
+Increases Mona's
+Hydro
+DMG Bonus by a degree equivalent to 20% of her Energy Recharge rate.
+Passive
+Principium of Astrology
+When Mona crafts Weapon Ascension Materials, she has a 25% chance to refund a portion of the crafting materials used.
+Mona Constellations
+Constellation 1
+Prophecy of Submersion
+The effects of Hydro-related Elemental Reactions are enhanced for 8s after a character hits an enemy affected by an Omen: Electro-Charged DMG is increased by 15%. Vaporize DMG is increased by 15%. Hydro Swirl DMG is increased by 15%. The duration for which enemies are Frozen is increased by 15%.
+Constellation 2
+Lunar Chain
+When a Normal Attack hits, there is a 20% chance that it will be automatically followed by a Charged Attack. This effect can only occur once every 5s.
+Constellation 3
+Restless Revolution
+Increases the Level of Stellaris Phantasm by 3. Maximum upgrade level is 15.
+Constellation 4
+Prophecy of Oblivion
+When a character attacks an enemy affected by the Omen status effect, their CRIT Rate is increased by 15%.
+Constellation 5
+Mockery of Fortuna
+Increase the Level of Mirror Reflection of Doom by 3. Maximum upgrade level is 15.
+Constellation 6
+Rhetorics of Calamitas
+Upon entering Illusory Torrent, Mona gain a 60% increase to the DMG her next Charged Attack per second of movement. A maximum DMG Bonus of 180% can be achieved in this manner. The effect lasts for no more than 8s.
+Mona Ascension Costs
+Rank
+Lvl
+Cost
+Material
+Material
+Material
+Material
+1
+20
+20000
+1
+Varunada Lazurite Sliver
+3
+Philanemo Mushroom
+3
+Whopperflower Nectar
+2
+40
+40000
+3
+Varunada Lazurite Fragment
+2
+Cleansing Heart
+10
+Philanemo Mushroom
+15
+Whopperflower Nectar
+3
+50
+60000
+6
+Varunada Lazurite Fragment
+4
+Cleansing Heart
+20
+Philanemo Mushroom
+12
+Shimmering Nectar
+4
+60
+80000
+3
+Varunada Lazurite Chunk
+8
+Cleansing Heart
+30
+Philanemo Mushroom
+18
+Shimmering Nectar
+5
+70
+100000
+6
+Varunada Lazurite Chunk
+12
+Cleansing Heart
+45
+Philanemo Mushroom
+12
+Energy Nectar
+6
+80
+120000
+6
+Varunada Lazurite Gemstone
+20
+Cleansing Heart
+60
+Philanemo Mushroom
+24
+Energy Nectar
+Loading...

@@ -1,0 +1,192 @@
+Genshin Impact Heizou Build
+Anemo
+Catalyst
+Sub DPS
+Heizou Upgrade Materials
+Transience
+The Meaning of Aeons
+Vayuda Turquoise Sliver
+Runic Fang
+Onikabuto
+Treasure Hoarder Insignia
+Heizou Best Weapons
+1
+A Thousand Floating Dreams
+2
+Sacrificial Fragments
+3
+Wandering Evenstar
+4
+Mappa Mare
+5
+Favonius Codex
+Heizou Best Artifacts
+1
+Viridescent Venerer
+4
+2
+Noblesse Oblige
+4
+3
+Gilded Dreams
+2
+Wanderer's Troupe
+2
+4
+Gilded Dreams
+4
+5
+Emblem of Severed Fate
+2
+Gilded Dreams
+2
+Heizou Best Stats
+Sands:
+Elemental Mastery
+Goblet:
+Elemental Mastery
+Circlet:
+Elemental Mastery
+Substats:
+Elemental Mastery > ATK% > Energy Recharge
+Character Builds by Genshin Impact Helper →
+Showcase
+Teams
+Talents
+Passives
+Constellations
+Ascension
+Heizou Showcase
+Heizou video guide by
+Braxophone
+.
+Check out his content!
+Best Heizou Teams
+Hu Tao VV Vaporize
+Ayaka Freeze
+Heizou Talents
+Normal Attack
+Fudou Style Martial Arts
+Normal Attack Performs up to 5 fisticuffs empowered by a mighty wind, dealing
+Anemo
+DMG. Charged Attack Consumes a set amount of Stamina to perform a sweeping kick, dealing
+Anemo
+DMG. Plunging Attack Calling upon the surging wind, Heizou plunges towards the ground from mid-air, damaging all opponents in his path. Deals AoE
+Anemo
+DMG upon impact with the ground.
+Elemental Skill
+Heartstopper Strike
+Press Wields the swift winds to launch a Heartstopper Strike that deals
+Anemo
+DMG. Hold Charges energy to unleash an even stronger blow. He will obtain the Declension effect while charging, which will increase the power of the Heartstopper Strike. When the skill button is released or the skill duration ends, he will strike forward, dealing
+Anemo
+DMG. Declension Increases the power of the next Heartstopper Strike. Max 4 stacks. When you possess 4 Declension stacks, the Conviction effect will be produced, which will cause the next Heartstopper Strike to be even stronger and have a larger AoE.
+Elemental Burst
+Windmuster Kick
+Leaps into the air and uses the Fudou Style Vacuum Slugger and kicks his opponent. The Vacuum Slugger will explode upon hit and create an Arresting Windtunnel that pulls in nearby objects and opponents, dealing AoE
+Anemo
+DMG. When Fudou Style Vacuum Slugger hits enemies affected by Hydro, Pyro,
+Cryo
+or Electro, it afflicts them with Windmuster Iris. Moments later, Windmuster Iris explodes and dissipates, dealing AoE DMG of the corresponding elemental type. Fudou Style Vacuum Slugger can afflict a maximum of four enemies with the Windmuster Iris. A single enemy cannot be afflicted by Irises of different elemental types at the same time.
+Heizou Passives
+Ascension 1
+Paradoxical Practice
+When Shikanoin Heizou activates a Swirl reaction while on the field, he will gain 1 Declension stack for Heartstopper Strike. This effect can be triggered every 0.1s.
+Ascension 4
+Penetrative Reasoning
+After Shikanoin Heizou‘s Heartstopper Strike hits an opponent, increases all party members' (excluding Shikanoin Heizou) Elemental Mastery by 80 for 10s.
+Passive
+Pre-Existing Guilt
+Decreases sprinting Stamina consumption for your own party members by 20%. Not stackable with Passive Talents that provide the exact same effects.
+Heizou Constellations
+Constellation 1
+Named Juvenile Casebook
+For 5s after Shikanoin Heizou takes the field, his Normal Attack SPD is increased by 15%. He also gains 1 Declension stack for Heartstopper Strike. This effect can be triggered once every 10s.
+Constellation 2
+Investigative Collection
+The pull effect of the Arresting Windtunnel created by Windmuster Kick is enhanced, and its duration is increased to 1s.
+Constellation 3
+Esoteric Puzzle Book
+Increases the level of Heartstopper Strike by 3. Maximum upgrade level is 15.
+Constellation 4
+Tome of Lies
+The first Windmuster Iris explosion in each Windmuster Kick will regenerate 9 Elemental Energy for Shikanoin Heizou. Every subsequent explosion in that Windmuster Kick will each regenerate an additional 1.5 Energy for Heizou. One Windmuster Kick can regenerate a total of 13.5 Energy for Heizou in this manner.
+Constellation 5
+Secret Archive
+Increases the level of Windmuster Kick by 3. Maximum upgrade level is 15.
+Constellation 6
+Curious Casefiles
+Each Declension stack will increase the CRIT Rate of the Heartstopper Strike unleashed by 4%. When Heizou possesses Conviction, this Heartstopper Strike's CRIT DMG is increased by 32%.
+Heizou Ascension Costs
+Rank
+Lvl
+Cost
+Material
+Material
+Material
+Material
+1
+20
+20000
+1
+Vayuda Turquoise Sliver
+3
+Onikabuto
+3
+Treasure Hoarder Insignia
+2
+40
+40000
+3
+Vayuda Turquoise Fragment
+2
+Runic Fang
+10
+Onikabuto
+15
+Treasure Hoarder Insignia
+3
+50
+60000
+6
+Vayuda Turquoise Fragment
+4
+Runic Fang
+20
+Onikabuto
+12
+Silver Raven Insignia
+4
+60
+80000
+3
+Vayuda Turquoise Chunk
+8
+Runic Fang
+30
+Onikabuto
+18
+Silver Raven Insignia
+5
+70
+100000
+6
+Vayuda Turquoise Chunk
+12
+Runic Fang
+45
+Onikabuto
+12
+Golden Raven Insignia
+6
+80
+120000
+6
+Vayuda Turquoise Gemstone
+20
+Runic Fang
+60
+Onikabuto
+24
+Golden Raven Insignia
+Loading...

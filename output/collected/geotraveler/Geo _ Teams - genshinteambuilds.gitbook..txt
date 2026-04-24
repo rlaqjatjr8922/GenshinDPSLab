@@ -1,0 +1,441 @@
+copy
+Copy
+chevron-down
+block-quote
+On this page
+block-quote
+Teams
+Geo
+Geo
+teams do not have access to any
+Elemental Reaction
+that amplifies their
+Geo DMG
+. Due to this, building
+Geo
+team's is simplified as no other specific elements are required. At least 2
+Geo
+characters are often included for
+Geo Resonance
+with the other slots being used for Off-Field DPS or utility such as buffs, shielding, or even
+Pyro Resonance
+.
+hashtag
+Characters
+triangle-exclamation
+Characters are ranked roughly according to how well they perform in this team composition.
+Itto
+Noelle (C6)
+Ningguang
+On-Field DPS
+Core / Flex Support
+Healer / Shielder
+Itto
+Gorou
+Zhongli
+Albedo
+Bennett
+Zhongli
+Jean
+Traveler (Geo)
+Barbara
+Ningguang
+Diona
+Kokomi
+On-Field DPS
+Core / Flex Support
+Flex Support
+Noelle (
+C6
+)
+Gorou
+Bennett
+Albedo
+Yelan
+Traveler (Geo)
+Xingqiu
+Ningguang
+Fischl
+Yunjin
+Zhongli
+Xiangling (With Bennett only)
+On-Field DPS
+Core Support / Resonance
+Flex Support
+Healer / Shielder
+Ningguang
+Zhongli
+Yelan
+Bennett
+Albedo
+Venti
+Diona
+Traveler (Geo)
+Xiangling (With Bennett only)
+Kokomi
+Xingqiu
+Jean
+Fischl
+Barbara
+triangle-exclamation
+Teams using Gorou typically use 3
+Geo
+characters due to the nature of his
+Elemental Skill
+which provides more buffs depending on how many
+Geo
+characters are in the team.
+hashtag
+On-Field DPS
+Character
+Notes
+Itto
+Works best paired with Gorou. Gorou provides Itto with multiple useful buffs.
+Zhongli and Albedo are strong options for a 3rd Geo unit to benefit fully from Gorou's buffs.
+Noelle
+Has large
+AoE Normal Attacks
+during her
+Elemental Burst
+.
+C6
+further increases the
+ATK
+converted from
+DEF
+during her
+Elemental Burst
+and increases its duration when you defeat enemies.
+Provides healing. May negate the need for a dedicated Healer role.
+Ningguang
+C2
+, provides increased
+Energy Particle
+generation.
+Jade Screen provides
+Geo DMG Bonus
+to characters who pass through it, providing some buffs to her supports too.
+hashtag
+Support / Resonance
+Character
+Notes
+Gorou
+Teams using Gorou typically use 3
+Geo
+characters due to the nature of his
+Elemental Skill
+which provides more buffs depending on how many
+Geo
+characters are in the team.
+Provides buffs to the team through his
+Elemental Skill
+and
+Elemental Burst
+.
+Best used with Characters who scale off of
+DEF
+.
+C4
+can provide healing to the active character during
+Elemental Burst
+.
+C6
+increases the
+CRIT DMG
+of all
+Geo DMG
+when Gorou's buffs are active.
+​
+Zhongli
+Elemental Skill
+creates a
+Geo
+Stone stele which resonates with other
+Geo
+constructs to deal
+AoE
+Geo
+DMG
+.
+Elemental Skill
+debuffs enemy
+Elemental RES
+and
+Elemental Burst
+immobilizes Enemies for a short period of time.
+​
+​
+Albedo
+Supportive
+Off-Field DPS
+with his
+Elemental Skill
+. Generates a decent amount of
+Energy Particles
+.
+Can buff the team when equipped with the
+Tenacity of Millelith 4-set
+.
+Traveller (Geo)
+Mainly used for
+Geo Resonance
+and as a Battery for the On-Field DPS.
+Elemental Skill
+summons a construct that protect from attacks. With
+C2
+, the construct explodes when destroyed dealing, extra
+Geo DMG
+.
+C1
+buffs the
+CRIT Rate
+of the party members within the
+Elemental Burst AoE
+.
+Ningguang
+As a catalyst user, she can support via weapon and artifacts.
+Fulfills the role of a geo resonance support or Gorou's need for a third geo unit.
+hashtag
+Flex Support
+Character
+Notes
+Xiangling
+Often paired with Bennett due to high cost
+Elemental Burst,
+as well as provides
+Pyro Resonance
+for the team.
+Elemental Burst
+and
+Elemental Skill
+provides Off-Field
+Pyro DMG
+and constantly generates shields through
+Crystallization
+.
+Yelan
+Elemental Burst
+deal a large amount of
+Hydro DMG
+on their own given the On-Field DPS
+Normal Attacks
+frequently which helps generate shields through
+Crystallization
+. Also provides a
+DMG
+buff to any character On-Field while it's active.
+Xingqiu
+Elemental Burst
+provides Off-Field
+Hydro DMG
+and constantly generates shields through
+Crystallization
+.
+The Rain Swords from his
+Elemental Skill
+and
+Elemental Burst
+provide
+Damage Reduction
+. This affects shields as well, allowing them to take more hits.
+Fischl
+Elemental Burst
+and
+Elemental Skill
+maintains Oz's presence, providing Off-Field
+Electro DMG
+and constantly generates shields through
+Crystallization
+.
+Venti
+Works best paired with Ningguang or Albedo.
+Elemental Burst
+provides Crowd Control and allows easier
+AoE
+damage from your other characters.
+Not recommended to use with Melee On-Field DPS as the light enemies are too high for them to reach while his
+Elemental Burst
+is active.
+hashtag
+Healer / Shielder
+circle-check
+If you do not struggle with survivability with shields from
+Crystallization
+and
+Geo Resonance
+, you can opt to run another Off-Field DPS character instead of a Healer.
+Character
+Notes
+Zhongli
+Elemental Skill
+provides a powerful shield that can substitute for a Healer.
+Bennett
+Provides healing and an
+ATK
+buff to the active character standing in the field created by his
+Elemental Burst
+.
+Low cooldown
+Elemental Skill
+allows him to recharge Xiangling effectively.
+Diona
+Elemental Skill
+creates a
+shield
+while applying
+Cryo
+to enemies at range.
+Elemental Burst
+creates a field that periodically applies
+Cryo
+to enemies and heals the On-Field character in it's
+AoE.
+Acts as an Energy Battery with
+Favonius Bow
+or
+Sacrificial Bow
+.
+Jean
+Provides a large instantaneous heal with
+Elemental Burst
+.
+Kokomi
+Provides healing and can equip
+Thrilling Tales of Dragon Slayers
+to provide an
+ATK
+buff.
+Will trigger
+Electro-Charged
+and
+Freeze
+reactions which can interfere with
+Superconduct.
+Barbara
+Provides healing and can equip
+Thrilling Tales of Dragon Slayers
+to provide an
+ATK
+buff.
+Will trigger
+Electro-Charged
+and
+Freeze
+reactions which can interfere with
+Superconduct.
+Noelle
+Provides healing and shielding. Her shield is stronger than Diona's but has uptime issues.
+Her healing requires her to be the one On-Field with her shield active to heal.
+Other Healers or Shielders typically provide more utility than Noelle but she a decent option if you don't have other Healers available.
+Gorou (C4)
+Provides "chip" healing to the active character during Gorou's
+Elemental Burst
+.
+Not recommended to be the main healer of the team and instead paired with a strong Shielder or another Healer.
+Qiqi
+Elemental
+Burst
+and
+Normal Attack
+applies a Talisman on enemies, which will heal the active character when marked enemies are attacked.
+Sayu
+Provides healing for the active character with her
+Elemental Burst
+.
+Healing is drastically improved by
+Elemental Mastery
+at
+C6
+.
+hashtag
+Sample Team Compositions
+hashtag
+This mono
+Geo
+team composition synergizes greatly to provide Itto with offensive and defensive buffs and the ability to deal damage uninterrupted during his
+Elemental Burst
+.
+Gorou is able to buff both Itto and Albedo due to buffing their
+DEF
+.
+Albedo provides Off-Field
+Geo DMG
+.
+Zhongli's shield provides survival utility.
+Lower
+Energy Recharge
+is required across the board due to the constant
+Geo
+Energy Particle
+generation from the entire team.
+hashtag
+Zhongli's shield coupled with
+Geo Resonance
+reduces the
+Geo
+RES
+of Enemies by -40%.
+Ningguang generates a substantial amount of energy particles allowing both her and Zhongli to cast their
+Elemental Burst
+frequently.
+When
+Elemental Bursts
+are not ready to be cast, Ningguang deals sustained damage with her
+Normal
+and
+Charged Attacks
+.
+Xiangling deals Off-Field
+AoE
+Pyro DMG
+and Bennett acts as Xiangling's Energy Battery and overall team Buffer and Healer.
+hashtag
+circle-info
+This team composition is not advisable to play before your Noelle is
+C6
+. Otherwise, the overall damage output of this team will be significantly lower as Noelle's
+Elemental Burst
+is the largest source of damage in this team.
+Noelle deals
+Geo DMG
+through her
+Normal Attacks
+during her
+Elemental Burst
+. Supports are swapped in during her
+Elemental Burst
+to provide a constant stream of buffs and
+Energy Particles
+.
+As Noelle cannot generate
+Energy Particles
+, Traveler (Geo) acts as her dedicated Energy Battery.
+The Traveler's
+Elemental Burst
+also provides a
+CRIT Rate
+buff when Noelle is inside its
+AoE
+.
+Cryo Resonance
+from Rosaria and Diona also provides the team with a buff of 15%
+CRIT Rate
+. Rosaria's
+A4
+can also buff team members
+CRIT Rate
+. Altogether, the
+CRIT Rate
+buffs from Traveler (
+Geo
+), Rosaria and
+Cryo
+Resonance add up to 40%.
+Previous
+Freeze (Cryo)
+chevron-left
+Next
+Melt (Cryo)
+chevron-right
+Last updated
+3 years ago

@@ -1,0 +1,193 @@
+Genshin Impact Diona Build
+Cryo
+Bow
+Support
+Diona Upgrade Materials
+Freedom
+Shard of a Foul Legacy
+Shivada Jade Sliver
+Hoarfrost Core
+Calla Lily
+Firm Arrowhead
+Diona Best Weapons
+1
+Favonius Warbow
+2
+Sacrificial Bow
+3
+Elegy for the End
+4
+Recurve Bow
+5
+End of the Line
+Diona Best Artifacts
+1
+Noblesse Oblige
+4
+2
+Emblem of Severed Fate
+2
+Tenacity of the Millelith
+2
+3
+Maiden Beloved
+2
+Tenacity of the Millelith
+2
+4
+Maiden Beloved
+4
+5
+Emblem of Severed Fate
+2
+Maiden Beloved
+2
+Diona Best Stats
+Sands:
+Energy Recharge / HP%
+Goblet:
+HP%
+Circlet:
+HP% / Healing Bonus
+Substats:
+HP% > Energy Recharge > HP
+Character Builds by Genshin Impact Helper →
+Showcase
+Teams
+Talents
+Passives
+Constellations
+Ascension
+Diona Showcase
+Diona video guide by
+Zy0x
+.
+Check out his content!
+Best Diona Teams
+Ganyu Freeze
+Eula Superconduct
+Ayaka/Ganyu Mono Cryo
+Diona Talents
+Normal Attack
+Katzlein Style
+Normal Attack Performs up to 5 consecutive shots with a bow. Charged Attack Perform a more precise Aimed Shot with increased DMG. While aiming, biting frost accumulates on the arrowhead. A fully charged frost arrow will deal
+Cryo
+DMG. Plunging Attack Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.
+Elemental Skill
+Icy Paws
+Fires an Icy Paw that deals
+Cryo
+DMG to opponents and forms a shield on hit. The shield's DMG Absorption scales based on Diona's Max HP, and its duration scales off the number of Icy Paws that hit their target. Press Rapidly fires off 2 Icy Paws. Hold Dashes back quickly before firing five Icy Paws. The shield created by a Hold attack will gain a 75% DMG Absorption Bonus. The shield has a 250%
+Cryo
+DMG Absorption Bonus, and will cause your active character to become affected by
+Cryo
+at the point of formation for a short duration.
+Elemental Burst
+Signature Mix
+Tosses out a special cold brew that deals AoE
+Cryo
+DMG and creates a Drunken Mist in an AoE. Drunken Mist Deals continuous
+Cryo
+DMG to opponents within the AoE. Continuously regenerates the HP of characters within the AoE.
+Diona Passives
+Ascension 1
+Cat's Tail Secret Menu
+Characters shielded by Icy Paws have their Movement SPD increased by 10% and their Stamina Consumption decreased by 10%.
+Ascension 4
+Drunkards' Farce
+Opponents who enter the AoE of Signature Mix have 10% decreased ATK for 15s.
+Passive
+Complimentary Bar Food
+When a Perfect Cooking is achieved on a dish with restorative effects, there is a 12% chance to obtain double the product.
+Diona Constellations
+Constellation 1
+A Lingering Flavor
+Regenerates 15 Energy for Diona after the effects of Signature Mix end.
+Constellation 2
+Shaken, Not Purred
+Increases Icy Paws' DMG by 15%, and increases its shield's DMG Absorption by 15%. Additionally, when paws hit their targets, creates a shield for other nearby characters on the field with 50% of the Icy Paws shield's DMG Absorption for 5s.
+Constellation 3
+A-Another Round?
+Increases the Level of Signature Mix by 3. Maximum upgrade level is 15.
+Constellation 4
+Wine Industry Slayer
+Within the radius of Signature Mix, Diona's charge time for aimed shots is reduced by 60%.
+Constellation 5
+Double Shot, On The Rocks
+Increases the level of Icy Paws by 3. Maximum upgrade level is 15.
+Constellation 6
+Cat's Tail Closing Time
+Characters within Signature Mix's radius will gain the following effects based on their HP amounts: Increasing Incoming Healing Bonus by 30% when HP falls below or is equal to 50%. Elemental Mastery is increased by 200 when HP is above 50%.
+Diona Ascension Costs
+Rank
+Lvl
+Cost
+Material
+Material
+Material
+Material
+1
+20
+20000
+1
+Shivada Jade Sliver
+3
+Calla Lily
+3
+Firm Arrowhead
+2
+40
+40000
+3
+Shivada Jade Fragment
+2
+Hoarfrost Core
+10
+Calla Lily
+15
+Firm Arrowhead
+3
+50
+60000
+6
+Shivada Jade Fragment
+4
+Hoarfrost Core
+20
+Calla Lily
+12
+Sharp Arrowhead
+4
+60
+80000
+3
+Shivada Jade Chunk
+8
+Hoarfrost Core
+30
+Calla Lily
+18
+Sharp Arrowhead
+5
+70
+100000
+6
+Shivada Jade Chunk
+12
+Hoarfrost Core
+45
+Calla Lily
+12
+Weathered Arrowhead
+6
+80
+120000
+6
+Shivada Jade Gemstone
+20
+Hoarfrost Core
+60
+Calla Lily
+24
+Weathered Arrowhead
+Loading...

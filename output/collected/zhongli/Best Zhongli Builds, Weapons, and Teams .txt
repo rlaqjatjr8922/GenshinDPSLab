@@ -1,0 +1,147 @@
+0
+Bookmark (
+0
+)
+Please login to bookmark
+Close
+Username or Email Address
+Password
+Remember Me
+Don't have an account? Register here.
+Create an account to bookmark articles.
+Username
+*
+3-60 characters, letters, numbers, spaces, and these symbols: @._-
+Email
+*
+You will receive an email to set your password after registration.
+Subscribe to The Destructoid Checkpoint Newsletter
+Get the latest gaming news and updates delivered to your inbox.
+Create Account
+Already have an account? Sign in here.
+Back to top
+Home
+Guides
+Best Zhongli Builds, Weapons, and Teams in Genshin Impact
+Osmanthus wine tastes the same as I remember...
+Christine Choi
+| Aug 31, 2023 8:59 am
+Image via HoYoverse
+Zhongli is a 5-star Geo Polearm shielder in
+Genshin Impact
+.
+Here are the best weapons, artifacts, and teams to make your Zhongli build as solid as stone.
+Recommended Videos
+Playstyles
+Zhongli is most often a shield support. His shield scales with his max HP, so shielder Zhongli simply stacks as much HP as possible. In combat, use his hold E to generate a shield, and then swap to other members of your team. You can use his Burst too if you want, but its damage will generally not be worth the animation time. It can be helpful for its invincibility frames though, helping you avoid damage from certain attacks.
+If you do want Zhongli to do damage, you can give him somewhat of a hybrid build as an invested support. You’ll still want HP for strong shields, but adding CRIT stats makes his Burst do decent damage too. Burst damage Zhongli is only recommended if you’re willing to invest quite a lot into him.
+There are other playstyles too (like Physical DPS Zhongli or Bloom Zhongli) but they are fairly niche and won’t be covered here.
+Screenshot by Destructoid
+Weapons
+The recommended playstyle for each weapon is specified in its notes.
+Staff of Homa
+– Best weapon for Burst damage Zhongli. A 5-star polearm that grants both HP and CRIT DMG. It also converts some of Zhongli’s HP into ATK, which translates some of your defensive stats into damage.
+Favonius Lance
+– Recommended for shielder Zhongli. Zhongli himself will rarely need as much Energy Recharge as Favonius provides, but the weapon’s passive allows him to generate Energy for the entire team. Build some CRIT Rate if using this weapon.
+Black Tassel
+– Recommended for shielder Zhongli. It doesn’t have as much utility as Favonius, but the HP secondary stat will make Zhongli’s shield the strongest in
+Genshin Impact
+. As a 3-star weapon, it’s very easy to obtain through
+wishes
+.
+Calamity Queller / Primordial Jade Winged-Spear / Vortex Vanquisher
+– If you have a spare of any of these 5-star weapons, they are usable on Burst damage Zhongli. I don’t recommend specifically pulling them for Zhongli, but they result in good damage if you don’t have Staff of Homa.
+“The Catch” / Deathmatch / Wavebreaker’s Fin
+– 4-star options for Burst damage Zhongli if you don’t have any of the options above. With Refinements, these can out-damage some of the 5-stars in the list above.
+Screenshot by Destructoid
+Artifacts
+2pc HP combos
+– Recommended for shielder Zhongli. Combining 2pc sets with HP bonuses (like Tenacity of the Millelith and Vourukasha’s Glow) will maximize Zhongli’s shield strength.
+4pc Tenacity of the Millelith (4TotM)
+– Recommended for shielder Zhongli. The 2pc effect buffs his shields, and the 4pc effect grants a teamwide 20% ATK buff when his Jade Pillar hits an enemy.
+4pc Noblesse Oblige (4NO)
+– Recommended for Burst damage Zhongli. Buffs Zhongli’s Burst damage and grants a teamwide 20% ATK buff when he Bursts.
+Other combos
+– It’s perfectly fine to mix and match 2pc sets with useful set bonuses. HP, Geo DMG, Energy Recharge, and ATK are all useful stats for Burst damage Zhongli. For shielder Zhongli, you can just sort your artifacts by HP and equip whatever has the highest, forgoing set bonuses altogether.
+Artifact Stats
+Sands
+Goblet
+Circlet
+HP
+HP
+Geo DMG
+HP
+CRIT Rate/DMG
+Zhongli’s Energy Recharge requirements can be quite high if he is not paired with another Geo unit. If playing Burst damage Zhongli, I recommend having at least one other Geo unit in your party in order to generate particles and activate Geo resonance. In a double Geo team, Zhongli will need about 130-140% Energy Recharge.
+Shielder Zhongli doesn’t need to Burst at all, so he can ignore Energy Recharge altogether. Just stack as much HP as you can. Consider a CRIT Rate circlet if using Favonius Lance.
+You
+can
+use ATK Sands for Burst damage Zhongli, but the damage increase over HP is quite small. Since HP also buffs his shielding capabilities, I recommend using an HP Sands whenever possible.
+Screenshot by Destructoid
+Teams
+Flex Shielder
+Zhongli as a shielder can be slotted into virtually any team. His shield reduces enemy RES to all elements and grants interruption resistance — great for many on-field DPS units who may otherwise be staggered during their combos. This includes teams like:
+Yoimiya – Xingqiu/
+Yelan
+–
+Bennett
+/Yun Jin – Zhongli
+Hu Tao – Xingqiu – Yelan – Zhongli
+Xiao – Faruzan – Bennett – Zhongli
+Lyney
+– Bennett – Kazuha – Zhongli
+Alhaitham – Nahida – Fischl – Zhongli
+Cyno – Xingqiu/Yelan – Dendro Traveler/Nahida – Zhongli
+This is not an exhaustive list. You can add Zhongli to any team that isn’t actively hampered by having a Geo teammate. Because his shield is so strong, you can often forgo a healer too. Beware of HP-draining mechanics like Corrosion though.
+Double Geo
+Burst Damage Zhongli should be used with at least one other Geo unit. Albedo in particular has great synergy, since he can reliably generate Geo particles and do decent damage. Zhongli and Albedo form a great double Geo pair that can be flexibly slotted into many teams. Examples include:
+Yoimiya – Bennett/Yun Jin/Kazuha – Albedo – Zhongli
+Hu Tao – Xingqiu/Yelan – Albedo – Zhongli
+Xiao – Faruzan – Albedo – Zhongli
+Lyney – Bennett – Albedo – Zhongli
+Noelle/Itto – Gorou – Albedo – Zhongli
+Microwave
+Microwave is the community’s unofficial term for a unique interaction between Zhongli and other characters’ Geo constructs. The pulses of damage that emanate from Zhongli’s Jade Pillar can propagate from other Geo constructs. There’s normally a limit of three Geo constructs on the field, but Geo Traveler’s Burst can bypass that limit and create four constructs that don’t count toward that total.
+This means that Zhongli’s pillar, Geo Traveler’s Skill and Burst, and Albedo’s Skill can all coexist and generate pulses of damage. Surround an enemy with these constructs and watch as your “microwave” cooks your meal for you. If you want to maximize your microwave damage, you may want to build more ATK at the expense of your shield strength.
+Screenshot by Destructoid
+0
+Christine Choi
+Contributing Writer - Christine has been gaming since she first stole her brother's Game Boy as a kid. She's come a long way since then and has been creating content for Genshin Impact since 2021.
+Tags:
+Genshin Impact
+guides
+HoYoverse
+miHoYo
+mobile
+PC
+PS4
+PS5
+0
+Bookmark (
+0
+)
+Please login to bookmark
+Close
+Username or Email Address
+Password
+Remember Me
+Don't have an account? Register here.
+Create an account to bookmark articles.
+Username
+*
+3-60 characters, letters, numbers, spaces, and these symbols: @._-
+Email
+*
+You will receive an email to set your password after registration.
+Subscribe to The Destructoid Checkpoint Newsletter
+Get the latest gaming news and updates delivered to your inbox.
+Create Account
+Already have an account? Sign in here.
+Share
+this article
+Destructoid is supported by our audience. When you purchase through links on our site, we may earn a small affiliate commission.
+Learn more about our Affiliate Policy
+.
+Like our content? Set Destructoid as a
+Preferred Source on Google
+in just one step to ensure you see us more frequently in your Google searches!

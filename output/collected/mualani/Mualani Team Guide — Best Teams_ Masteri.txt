@@ -1,0 +1,756 @@
+Genshin Impact Mualani Best Team Guide
+Last updated April 24, 2026. Looking for the best Mualani teams in
+        Genshin Impact? Start with the top team summary below, then pick the
+        lineup that fits your roster.
+This page provides the best team information for Mualani, primarily a Hydro DPS. Top teams include Vaporize, Pure Hydro, or other compositions that utilize her Elemental Skill and Burst. Team positions can be adjusted based on your roster and available characters.
+View Mualani's character page
+Mualani Team Summary
+#1
+Team Rating:S
+Mualani Vaporize with Xilonen, Xiangling & Zhongli
+#2
+Team Rating:SS
+Mualani Witch's Eve Rite Vaporize Team #2
+C4
+#3
+Team Rating:S
+Mualani Vaporize Sucrose Xilonen Mavuika Team
+C4
+#4
+Team Rating:SS
+Mualani Vaporize SS Team #4
+#5
+Team Rating:S
+Mualani Permafrost Team
+#6
+Team Rating:SS
+Mualani Vaporize SS Team #5
+#7
+Team Rating:SS
+Mualani Vaporize Premium Furina Xilonen Xiangling
+#8
+Team Rating:SS
+Mualani Vaporize SS Team with Xiangling Yelan Citlali
+#9
+Team Rating:S
+Mualani Vaporize Premium Core with Chiori & Xilonen
+C1
+#1 Mualani Vaporize with Xilonen, Xiangling & Zhongli
+Tier S
+Mualani Vaporization team focused on strong Hydro forward Vaporize reactions. Xilonen provides RES shred and healing, Xiangling supplies consistent off-field Pyro application, and Zhongli adds shielding for comfort and interruption resistance.
+Mualani
+Main DPS
+Hydro
+Uses Skill to enter
+Nightsoul’s Blessing
+and trigger
+Sharky Bite
+. Prioritize Vaporize window damage with high HP scaling and some EM for reaction value.
+Artifacts
+Obsidian Codex
+Main Stats
+Sands
+HP%
+Goblet
+Hydro DMG
+Circlet
+Elemental Mastery
+Substats
+HP% / CRIT DMG / CRIT Rate / Elemental Mastery / Energy Recharge
+Weapons
+Surf's Up
+Sacrificial Jade
+Xilonen
+Support
+Geo
+Provides elemental RES reduction through Samplers and can heal teammates. Builds mainly for support utility and energy consistency.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Peak Patrol Song
+Favonius Sword
+Xiangling
+Sub DPS
+Pyro
+Off-field Burst deals high damage and applies Pyro consistently, enabling Mualani's Vaporize reactions.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Engulfing Lightning
+Favonius Lance
+Zhongli
+Support
+Geo
+Provides a strong shield for safe on-field play. Best used as a comfort pick when extra survivability is needed.
+Artifacts
+Archaic Petra
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / CRIT Rate
+Weapons
+Favonius Lance
+#2 Mualani Witch's Eve Rite Vaporize Team #2
+Tier SS
+Vaporization team built around Mualani as the on-field Hydro Main DPS.
+Focused on buffing Mualani’s Sharky Bite / Shark Missiles with Hydro application, Vaporize amplification, and Anemo resistance shred.
+Mualani
+Main DPS
+Hydro
+On-field Hydro carry using Nightsoul’s Blessing to stack Wave Momentum and launch Shark Missiles. Prioritize HP% and EM for stronger Vaporize damage.
+Artifacts
+Obsidian Codex
+Main Stats
+Sands
+HP%
+Goblet
+Hydro DMG
+Circlet
+Elemental Mastery
+Substats
+HP% / CRIT DMG / CRIT Rate / Elemental Mastery / Energy Recharge
+Weapons
+Surf's Up
+Sacrificial Jade
+Mona
+Support
+Hydro
+Provides DMG amplification through Burst and additional Hydro application. Her passive can further boost Vaporize damage by consuming Phantasmal Bubble stacks.
+Artifacts
+Instructor
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Energy Recharge
+Weapons
+Prototype Amber
+Sucrose
+Support
+Anemo
+Constellation 4+
+Uses 4pc Viridescent Venerer for Anemo swirl and Hydro resistance shred. EM stacking improves team reaction damage; C4 helps lower Skill cooldown via Normal Attacks.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge / CRIT DMG / CRIT Rate
+Weapons
+Thrilling Tales of Dragon Slayers
+Traveler (Pyro)
+Support
+Pyro
+Pyro Traveler with 4pc Scroll of the Hero of Cinder City to provide team buffs and sustained Pyro application for Vaporize setups.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Favonius Sword
+#3 Mualani Vaporize Sucrose Xilonen Mavuika Team
+Tier S
+Vaporization team centered around
+Mualani
+as the on-field Main DPS.
+Xilonen
+provides RES shred and healing,
+Sucrose
+adds strong Anemo utility and extra RES reduction via Viridescent Venerer, and
+Mavuika
+supplies off-field Pyro damage for Vaporize setups. Note: the source guide labels Mavuika as Anemo, but she is typically a Pyro character.
+Mualani
+Main DPS
+Hydro
+On-field driver and main damage dealer. Uses Nightsoul’s Blessing state and Sharky Bite to trigger Shark Missiles on marked enemies.
+Artifacts
+Obsidian Codex
+Main Stats
+Sands
+HP%
+Goblet
+Hydro DMG
+Circlet
+Elemental Mastery
+Substats
+HP% / CRIT DMG / CRIT Rate / Elemental Mastery / Energy Recharge
+Weapons
+Surf's Up
+Sacrificial Jade
+Xilonen
+Support
+Geo
+Provides elemental RES reduction through Samplers and offers team healing.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Peak Patrol Song
+Favonius Sword
+Sucrose
+Support
+Anemo
+Constellation 4+
+Uses Viridescent Venerer to shred enemy elemental resistance and can help reduce cooldowns via C4 interactions.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge / CRIT DMG / CRIT Rate
+Weapons
+A Thousand Floating Dreams
+Sacrificial Fragments
+Mavuika
+Sub DPS
+Pyro
+Off-field Pyro application and damage via Ring of Searing Radiance, enabling Vaporize reactions for Mualani.
+Artifacts
+Obsidian Codex
+Main Stats
+Sands
+ATK%
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+A Thousand Blazing Suns
+Serpent Spine
+#4 Mualani Vaporize SS Team #4
+Tier SS
+Vaporization core
+built around Mualani as the on-field Main DPS, with strong RES shred, shielding, and off-field reaction support. Xilonen improves team damage through RES reduction and healing, Citlali provides shielding plus Hydro/Pyro RES reduction, and Mavuika adds off-field Pyro application for consistent Vaporize setups.
+Mualani
+Main DPS
+Hydro
+On-field Vaporize carry. Use Skill to enter Nightsoul’s Blessing and stack Wave Momentum before triggering Shark Missiles with Sharky Bite.
+Artifacts
+Obsidian Codex
+Main Stats
+Sands
+HP%
+Goblet
+Hydro DMG
+Circlet
+Elemental Mastery
+Substats
+HP% / CRIT DMG / CRIT Rate / Elemental Mastery / Energy Recharge
+Weapons
+Surf's Up
+Sacrificial Jade
+Xilonen
+Support
+Geo
+Provides elemental RES shred through Samplers and can also heal the team. Best used to amplify Mualani’s Vaporize damage.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Peak Patrol Song
+Favonius Sword
+Citlali
+Support
+Cryo
+Shielding support with EM-scaling shield and AoE Cryo damage. Can reduce Pyro and Hydro RES after Frozen or Melt reactions occur.
+Artifacts
+Instructor
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge / CRIT DMG / CRIT Rate
+Weapons
+Starcaller's Watch
+Sacrificial Fragments
+Mavuika
+Sub DPS
+Pyro
+Off-field Pyro application from her Ring of Searing Radiance helps enable Vaporize reactions while the active character stays on the field.
+Artifacts
+Obsidian Codex
+Main Stats
+Sands
+ATK%
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+A Thousand Blazing Suns
+Serpent Spine
+#5 Mualani Permafrost Team
+Tier S
+A Cryo-Hydro Permafrost setup built around
+Mualani
+as the Main DPS, with
+Skirk
+providing Cryo on-field pressure and
+Escoffier
++
+Furina
+supplying Cryo/Hydro synergy, healing, and damage buffs. Strong Cryo-related reaction consistency lets the team maintain strong damage amplification and resistance shred.
+Skirk
+Main DPS
+Cryo
+On-field Cryo carry using Seven-Phase Flash mode to infuse Normal Attacks with Cryo and enhance her Elemental Burst. Prioritize Serpent's Subtlety generation and Cryo reaction uptime.
+Artifacts
+Finale of the Deep Galleries
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Azurelight
+The Black Sword
+Mualani
+Main DPS
+Hydro
+Primary damage dealer in Nightsoul's Blessing state, using Sharky Bite and Shark Missiles for burst damage. Best played with strong Hydro damage amplification and crit scaling.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+HP%
+Goblet
+HP% / Hydro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+HP% / CRIT DMG / CRIT Rate / Elemental Mastery
+Weapons
+Thrilling Tales of Dragon Slayers
+Escoffier
+Support
+Cryo
+Off-field Cryo applicator and healer. Her Skill and Burst provide Cryo damage, team sustain, and Cryo/Hydro resistance shred that scales with the party's Cryo/Hydro count.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Symphonist of Scents
+Favonius Lance
+Furina
+Sub DPS
+Hydro
+Off-field Hydro support providing consistent Hydro application and a powerful DMG buff based on HP fluctuations. Benefits greatly from healer support to restore team HP.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+Hydro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Wolf-Fang
+#6 Mualani Vaporize SS Team #5
+Tier SS
+Vaporization team
+built around Mualani as the on-field Hydro DPS, with Emilie and Xiangling enabling strong reaction damage and Dehya offering extra Pyro application and survivability. The team relies on consistent off-field Pyro to trigger Vaporize on Mualani's hits while Emilie benefits from Burning synergy.
+Mualani
+Main DPS
+Hydro
+On-field Hydro carry. Uses her skill to enter Nightsoul’s Blessing and spam Sharky Bite to build Wave Momentum and fire Shark Missiles.
+Artifacts
+Obsidian Codex
+Main Stats
+Sands
+HP%
+Goblet
+Hydro DMG
+Circlet
+Elemental Mastery
+Substats
+HP% / CRIT DMG / CRIT Rate / Elemental Mastery / Energy Recharge
+Weapons
+Surf's Up
+Sacrificial Jade
+Emilie
+Sub DPS
+Dendro
+Off-field Dendro damage dealer whose Lumidouce Case gains power in Burning teams. Helps maintain Burning for the Vaporize setup while contributing strong personal damage.
+Artifacts
+Unfinished Reverie
+Main Stats
+Sands
+ATK%
+Goblet
+Dendro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Lumidouce Elegy
+Deathmatch
+Xiangling
+Sub DPS
+Pyro
+Core off-field Pyro applicator. Pyronado provides sustained Pyro damage and enables frequent Vaporize reactions for Mualani.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Engulfing Lightning
+Favonius Lance
+Dehya
+Support
+Pyro
+Provides interruption resistance and additional off-field Pyro through coordinated attacks from her skill field. Can hold Tenacity for team utility.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+Energy Recharge / HP%
+Weapons
+Favonius Greatsword
+#7 Mualani Vaporize Premium Furina Xilonen Xiangling
+Tier SS
+Vaporization team
+built around Mualani as the on-field DPS, with Furina and Xiangling enabling strong off-field Hydro/Pyro application and Xilonen providing RES shred plus healing for team comfort.
+Mualani
+Main DPS
+Hydro
+Main on-field DPS. Uses Skill to enter Nightsoul's Blessing and spam enhanced Normal Attacks to trigger Shark Missiles after stacking Wave Momentum.
+Artifacts
+Obsidian Codex
+Main Stats
+Sands
+HP%
+Goblet
+Hydro DMG
+Circlet
+Elemental Mastery
+Substats
+HP% / CRIT DMG / CRIT Rate / Elemental Mastery / Energy Recharge
+Weapons
+Surf's Up
+Sacrificial Jade
+Xilonen
+Support
+Geo
+Provides elemental RES reduction through her Samplers and adds team healing for extra sustain.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Peak Patrol Song
+Favonius Sword
+Furina
+Sub DPS
+Hydro
+Off-field Hydro applicator and powerful damage buffer. Her Burst increases team DMG based on HP changes, which synergizes well with healing support.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Favonius Sword
+Xiangling
+Sub DPS
+Pyro
+Off-field Pyro damage dealer. Her Burst deals heavy sustained damage and provides consistent Pyro application for Vaporize reactions.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Engulfing Lightning
+Favonius Lance
+#8 Mualani Vaporize SS Team with Xiangling Yelan Citlali
+Tier SS
+High-damage Vaporization comp built around Mualani's on-field Hydro hits enabling consistent Vaporize reactions with Xiangling's Pyro application, while Yelan adds strong off-field Hydro damage and Citlali provides shielding plus team utility.
+Note:
+The guide lists Citlali as Hydro, but Citlali is a Cryo character.
+Mualani
+Main DPS
+Hydro
+On-field driver and main damage dealer. Uses Skill to enter Nightsoul's Blessing and repeatedly trigger
+Sharky Bite
+/
+Shark Missiles
+for heavy Vaporize damage.
+Artifacts
+Obsidian Codex
+Main Stats
+Sands
+HP%
+Goblet
+Hydro DMG
+Circlet
+Elemental Mastery
+Substats
+HP% / CRIT DMG / CRIT Rate / Elemental Mastery / Energy Recharge
+Weapons
+Surf's Up
+Sacrificial Jade
+Xiangling
+Sub DPS
+Pyro
+Off-field Pyro enabler and burst damage source.
+Pyronado
+provides continuous Pyro application for Mualani's Vaporize hits.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Engulfing Lightning
+Favonius Lance
+Yelan
+Sub DPS
+Hydro
+Provides strong off-field Hydro damage and coordinated attacks. Also helps maintain Hydro resonance and overall team damage.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+HP%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Aqua Simulacra
+Favonius Warbow
+Citlali
+Support
+Cryo
+Provides shielding and additional utility. Her skill summons a creature that deals AoE Cryo damage; the guide claims reaction-based enemy resistance reduction, though the listed element in the guide is incorrect.
+Artifacts
+Instructor
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge / CRIT DMG / CRIT Rate
+Weapons
+Starcaller's Watch
+Sacrificial Fragments
+#9 Mualani Vaporize Premium Core with Chiori & Xilonen
+Tier S
+A high-damage
+Mualani Vaporization
+team focused on strong Hydro on-field damage with off-field Pyro application from Xiangling. Chiori adds supplemental Geo damage, while Xilonen provides RES shred and healing support.
+Mualani
+Main DPS
+Hydro
+Uses Skill to enter
+Nightsoul’s Blessing
+and convert Normal Attacks into
+Sharky Bite
+. Build stacks through contact to unleash
+Shark Missiles
+for burst damage.
+Artifacts
+Obsidian Codex
+Main Stats
+Sands
+HP%
+Goblet
+Hydro DMG
+Circlet
+Elemental Mastery
+Substats
+HP% / CRIT DMG / CRIT Rate / Elemental Mastery / Energy Recharge
+Weapons
+Surf's Up
+Sacrificial Jade
+Chiori
+Sub DPS
+Geo
+Constellation 1+
+Off-field Geo damage dealer; benefits from team buffs and Geo Construct interactions to maximize Elemental Skill and Burst damage.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+DEF%
+Goblet
+Geo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / DEF% / ATK%
+Weapons
+Uraku Misugiri
+Wolf-Fang
+Xilonen
+Support
+Geo
+Provides Elemental RES reduction through active Samplers and also contributes healing for the team.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Peak Patrol Song
+Favonius Sword
+Xiangling
+Sub DPS
+Pyro
+Off-field Pyro burst support with strong continuous Elemental Burst damage and consistent Pyro application for Vaporize setups.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Engulfing Lightning
+Favonius Lance
+Mualani Teams FAQ
+What is the best Mualani team in Genshin Impact?
+Mualani Vaporize with Xilonen, Xiangling & Zhongli is one of the strongest Mualani teams right now. Use the team summary and build cards on this page to pick the best version for your account.
+What are good Mualani teams without premium weapons?
+You can run strong Mualani teams without signature weapons by prioritizing reaction synergy, energy consistency, and artifact main stats shown in each build card.
+Which teammates are best with Mualani?
+Common high-performing partners include teams such as Mualani Vaporize with Xilonen, Xiangling & Zhongli, Mualani Witch's Eve Rite Vaporize Team #2, Mualani Vaporize Sucrose Xilonen Mavuika Team. Check each lineup section for role breakdowns and gear priorities.

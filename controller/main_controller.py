@@ -11,8 +11,8 @@ class MainController:
     STAGE_BAR_COUNTS = {
         0: 2,  # 1 돌림
         1: 1,  # 2 활성화
-        2: 2,  # 2 돌림
-        3: 3,  # 3 활성화
+        2: 2,  # 3 돌림
+        3: 3,  # 4 활성화
     }
 
     STAGE_PROGRESS_LABELS = {
@@ -48,17 +48,24 @@ class MainController:
         s = self.app_state
 
         stage1_enabled = (
-            bool(s.weapons) and bool(s.sets) and bool(s.characters)
+            bool(s.weapons)
+            and bool(s.sets)
+            and bool(s.characters)
         )
+
         stage2_enabled = bool(s.characters)
+
         stage3_enabled = (
-            bool(s.teams) and bool(s.gear)
+            bool(s.teams)
+            and bool(s.gear)
         )
+
+        # ✅ 4번 버튼 활성화 조건 수정
         stage4_enabled = (
             bool(s.gcsim_legal_actions_all)
-            and bool(s.gcsim_legal_actions_parser)
             and bool(s.best_orders)
             and bool(s.gear)
+            and bool(s.gcsim_legal_actions_parser)
         )
 
         return [
@@ -83,6 +90,7 @@ class MainController:
             return
 
         enabled_states = self.get_stage_enabled_states()
+
         if not enabled_states[stage_index]:
             messagebox.showwarning("비활성", "필수 내부 데이터가 비어 있습니다.")
             return
@@ -161,6 +169,7 @@ class MainController:
     def reload_data(self):
         try:
             from shared.data_loader import load_all
+
             self.app_state = load_all()
             self.app_state.ui = self.ui
             self.ui.app_state = self.app_state
@@ -169,6 +178,7 @@ class MainController:
 
             enabled_states = self.get_stage_enabled_states()
             running = self.current_worker is not None and self.current_worker.is_alive()
+
             self.ui.refresh_stage_buttons(running, enabled_states)
             messagebox.showinfo("완료", "데이터 재로드 완료")
 
@@ -238,6 +248,7 @@ class MainController:
 
     def _run_single_stage(self, idx):
         title = self.ui.stage_titles[idx]
+
         self._prepare_stage_ui(idx)
 
         self.app_state.ui = self.ui
@@ -252,15 +263,18 @@ class MainController:
         if not self.stop_requested:
             try:
                 from shared.data_loader import load_all
+
                 self.app_state = load_all()
                 self.app_state.ui = self.ui
                 self.ui.app_state = self.app_state
+
             except Exception as e:
                 self.log(f"[경고] 데이터 재로드 실패: {e}")
 
         self.completed_stages[idx] = True
 
         visible_count = self.STAGE_BAR_COUNTS.get(idx, 1)
+
         for i in range(visible_count):
             self.ui.set_progress(i, 100)
 
@@ -278,6 +292,7 @@ class MainController:
         runnable = 0
 
         initial_enabled_states = self.get_stage_enabled_states()
+
         for i in range(4):
             if initial_enabled_states[i]:
                 runnable += 1
@@ -294,6 +309,7 @@ class MainController:
                 return
 
             enabled_states = self.get_stage_enabled_states()
+
             if not enabled_states[i]:
                 self.log(f"[건너뜀] {self.ui.stage_titles[i]} - 내부 데이터 부족")
                 continue
@@ -316,10 +332,12 @@ class MainController:
 
         if self.current_stage_index is not None:
             base_text = self.STAGE_PROGRESS_LABELS.get(
-                self.current_stage_index, ["진행도", "", ""]
+                self.current_stage_index,
+                ["진행도", "", ""],
             )[0] or "진행도"
         else:
             current_text = self.ui.progress_text_vars[0].get()
+
             if ":" in current_text:
                 base_text = current_text.split(":")[0]
             else:
@@ -332,12 +350,14 @@ class MainController:
 
         try:
             module = importlib.import_module(module_name)
+
         except ModuleNotFoundError as e:
             self.ui.set_status("오류")
             self.log(f"[오류] {e}")
             return
 
         run = getattr(module, "run", None)
+
         if run is None:
             self.ui.set_status("오류")
             self.log(f"[오류] {module_name} 에 run 함수가 없습니다.")

@@ -1,103 +1,53 @@
-import json
-
-from config.config import DATA_DIR
-
-
-def norm(s: str) -> str:
-    return s.strip().lower().replace(" ", "")
-
-
-def extract_names(value: str, limit: int) -> list[str]:
-    if not value or value == "모름":
-        return []
-
-    result = []
-
-    for part in value.split(" / "):
-        name = part.split("(")[0].strip()
-        if name:
-            result.append(norm(name))
-        if len(result) >= limit:
-            break
-
-    return result
-
-
-def extract_one(value: str) -> str:
-    names = extract_names(value, 1)
-    return names[0] if names else "모름"
-
-
 def run(app_state, progress_callback=None, log_callback=None):
-    def log(message: str):
+    def log(msg: str):
         if log_callback:
-            log_callback(message)
+            log_callback(msg)
 
-    def set_progress(value: float):
+    def set_progress(v: float):
         if progress_callback:
-            progress_callback(value)
+            progress_callback(v)
 
-    log("[postprocess] 4단계 시작")
+    log("[postprocess] 시작")
     set_progress(0)
 
-    stage1 = app_state.stage1
-    if stage1 is None:
-        raise ValueError("stage1 결과가 없습니다. 먼저 1단계를 실행하세요.")
+    legal_actions = app_state.gcsim_legal_actions_all
+    best_orders = app_state.best_orders
+    gear = app_state.gear
+    legal_parser = app_state.gcsim_legal_actions_parser
 
-    summary_rows = stage1.get("summary_rows", [])
-    if not summary_rows:
-        raise ValueError("summary_rows가 비어 있습니다.")
+    if not legal_actions:
+        raise ValueError("gcsim_legal_actions_all 없음")
 
-    set_progress(20)
+    if not best_orders:
+        raise ValueError("best_orders 없음")
 
-    teams = {}
-    gear = {}
+    if not gear:
+        raise ValueError("gear 없음")
 
-    for row in summary_rows:
-        character = row.get("캐릭터", "").strip()
-        if not character:
-            continue
+    if not legal_parser:
+        raise ValueError("gcsim_legal_actions_parser 없음")
 
-        char_key = norm(character)
+    set_progress(30)
 
-        party_value = row.get("파티", "")
-        weapon_value = row.get("무기", "")
-        set_value = row.get("성유물 이름", "")
+    log(f"[postprocess] legal_actions: {len(legal_actions)}개")
+    log(f"[postprocess] best_orders: {len(best_orders)}개")
+    log(f"[postprocess] gear: {len(gear)}개")
+    log(f"[postprocess] legal_parser: {len(legal_parser)}개")
 
-        # teams.json용
-        members = extract_names(party_value, 4)
-        teams[char_key] = members
-
-        # gear.json용
-        gear[char_key] = {
-            "weapon": extract_one(weapon_value),
-            "set_name": extract_one(set_value),
-        }
-
-    set_progress(60)
-
-    DATA_DIR.mkdir(parents=True, exist_ok=True)
-
-    teams_path = DATA_DIR / "teams.json"
-    gear_path = DATA_DIR / "gear.json"
-
-    with open(teams_path, "w", encoding="utf-8") as f:
-        json.dump(teams, f, ensure_ascii=False, indent=2)
-
-    with open(gear_path, "w", encoding="utf-8") as f:
-        json.dump(gear, f, ensure_ascii=False, indent=2)
+    set_progress(70)
 
     result = {
         "status": "done",
-        "teams_path": str(teams_path),
-        "gear_path": str(gear_path),
+        "legal_actions_count": len(legal_actions),
+        "best_orders_count": len(best_orders),
+        "gear_count": len(gear),
+        "legal_parser_count": len(legal_parser),
     }
 
     app_state.stage4 = result
 
     set_progress(100)
-    log(f"[postprocess] teams.json 저장 완료: {teams_path}")
-    log(f"[postprocess] gear.json 저장 완료: {gear_path}")
-    log("[postprocess] 4단계 완료")
+
+    log("[postprocess] 완료")
 
     return result

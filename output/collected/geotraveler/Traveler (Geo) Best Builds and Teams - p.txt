@@ -1,0 +1,388 @@
+Traveler (Geo) Best Builds and Teams | Genshin Impact | PrimoGuides.gg | The best and easy-to-understand guides for your favorite games
+🚧
+PrimoGuides.GG is in soft launch!
+Some character guides are still a work in progress. Most build recommendations are live, with detailed explanations coming soon.
+Traveler (Geo)
+★★★★★
+Geo
+Sword
+Off-Field
+DPS
+Builds Update
+5.7
+Teams Update
+5.7
+Is this guide outdated or incomplete?
+📜 Request Update
+construction
+Builds
+groups
+Teams
+Skill/Burst Sub DPS
+Best Artifacts
+4pc
+Nighttime Whispers in the Echoing Woods
+(2)
+ATK
++18%
+(4)
+After using an
+Elemental Skill
+, gain a
+20%
+Geo
+DMG Bonus
+for
+10s
+. While under a shield granted by the
+Crystallize reaction
+, the above effect will be increased by
+150%
+, and this additional increase disappears
+1s
+after that shield is lost.
+4pc
+Golden Troupe
+(2)
+Increases
+Elemental Skill
+DMG
+by
+20%
+.
+(4)
+Increases
+Elemental Skill
+DMG
+by
+25%
+. Additionally, when not on the field,
+Elemental Skill
+DMG
+will be further increased by
+25%
+. This effect will be cleared
+2s
+after taking the field.
+2pc
+Archaic Petra
+(2)
+Geo
+DMG Bonus
++15%
+(4)
+Upon obtaining an Elemental Shard created through a
+Crystallize Reaction
+, all party members gain
+35%
+DMG Bonus
+for that particular element for
+10s
+. Only one form of
+Elemental
+DMG Bonus
+can be gained in this manner at any one time.
+add
+2pc
+Noblesse Oblige
+(2)
+Elemental Burst
+DMG
++20%
+(4)
+Using an
+Elemental Burst
+increases all party members'
+ATK
+by
+20%
+for
+12s
+. This effect cannot stack.
+Best Stats
+Sands
+ATK%
+Goblet
+Geo
+DMG Bonus
+Circlet
+CRIT Rate
+/
+CRIT DMG
+Substats
+CRIT Rate
+/
+CRIT DMG
+/
+ATK%
+/
+Energy Recharge
+Best Weapons
+1
+Uraku Misugiri
+5★
+Base ATK
+542
+CRIT DMG
++88.2%
+Source
+Event Wish
+Brocade Bloom, Shrine Sword
+Normal Attack
+DMG
+is increased by
+16
+~
+32%
+and
+Elemental Skill
+DMG
+is increased by
+24
+~
+48%
+. After a nearby active character deals
+Geo
+DMG
+, the aforementioned effects increase by
+100%
+for
+15s
+. Additionally, the wielder's
+DEF
+is increased by
+20
+~
+40%
+.
+2
+Primordial Jade Cutter
+5★
+Base ATK
+542
+CRIT Rate
++44.1%
+Source
+Event Wish
+Protector's Virtue
+HP
+increased by
+20
+~
+40%
+. Additionally, provides an
+ATK Bonus
+based on
+1.2
+~
+2.4%
+of the wielder's
+Max HP
+.
+3
+Summit Shaper
+5★
+Base ATK
+608
+ATK
++49.6%
+Source
+Event Wish
+Golden Majesty
+Increases
+Shield Strength
+by
+20
+~
+40%
+. Scoring hits on opponents increases
+ATK
+by
+4
+~
+8%
+for
+8s
+. Max
+5
+stacks. Can only occur once every
+0.3s
+. While protected by a shield, this
+ATK
+increase effect is increased by
+100%
+.
+4
+Wolf-Fang
+4★
+Base ATK
+510
+CRIT Rate
++27.6%
+Source
+Battle Pass
+Northwind Wolf
+DMG
+dealt by
+Elemental Skill
+and
+Elemental Burst
+is increased by
+16
+~
+32%
+. When an
+Elemental Skill
+hits an opponent, its
+CRIT Rate
+will be increased by
+2
+~
+4%
+. When an
+Elemental Burst
+hits an opponent, its
+CRIT Rate
+will be increased by
+2
+~
+4%
+. Both of these effects last
+10s
+separately, have
+4
+max stacks, and can be triggered once every
+0.1s
+.
+5
+Finale of the Deep
+4★
+Base ATK
+565
+ATK
++27.6%
+Source
+Forging
+An End Sublime
+When using an
+Elemental Skill
+,
+ATK
+will be increased by
+12
+~
+24%
+for
+15s
+, and a Bond of Life worth
+25%
+of
+Max HP
+will be granted. This effect can be triggered once every
+10s
+. When the Bond of Life is cleared, a maximum of
+150
+~
+300
+ATK
+will be gained based on
+2.4
+~
+4.8%
+of the total amount of the Life Bond cleared, lasting for
+15s
+.
+6
+Festering Desire
+4★
+Base ATK
+510
+Energy Recharge
++45.9%
+Source
+Event
+Undying Admiration
+Increases
+Elemental Skill
+DMG
+by
+16
+~
+32%
+and
+Elemental Skill
+CRIT Rate
+by
+6
+~
+12%
+.
+7
+Skyward Blade
+5★
+Base ATK
+608
+Energy Recharge
++55.1%
+Source
+Wish
+Sky-Piercing Fang
+CRIT Rate
+increased by
+4
+~
+8%
+. Gains Skypiercing Might upon using an
+Elemental Burst
+: Increases Movement SPD by
+10%
+, increases
+ATK SPD
+by
+10%
+, and
+Normal
+and
+Charged
+hits deal additional
+DMG
+equal to
+20
+~
+40%
+of
+ATK
+. Skypiercing Might lasts for
+12s
+.
+8
+Fleuve Cendre Ferryman
+4★
+Base ATK
+510
+Energy Recharge
++45.9%
+Source
+Fishing
+Ironbone
+Increases
+Elemental Skill
+CRIT Rate
+by
+8
+~
+16%
+. Additionally, increases
+Energy Recharge
+by
+16
+~
+32%
+for
+5s
+after using an
+Elemental Skill
+.
+Copyright © 2025 PrimoGuides.GG
+·
+Privacy Policy

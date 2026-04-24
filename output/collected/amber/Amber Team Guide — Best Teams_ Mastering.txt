@@ -1,0 +1,566 @@
+Genshin Impact Amber Best Team Guide
+Last updated April 24, 2026. Looking for the best Amber teams in
+        Genshin Impact? Start with the top team summary below, then pick the
+        lineup that fits your roster.
+This page provides the best team info for Amber, primarily a Sub-DPS. Top teams include Vaporize (with Xingqiu), Melt (with Ayaka), and Overload (with Raiden Shogun) compositions. Flexibility allows swapping characters like Yoimiya to tailor teams based on artifact/weapon synergy and personal roster.
+View Amber's character page
+Amber Team Summary
+#1
+Team Rating:A
+Amber Vaporize Team
+#2
+Team Rating:A
+Amber Vaporize Kazuha Bennett Xingqiu
+#3
+Team Rating:B
+Amber Melt Ayaka Burst Team
+#4
+Team Rating:B
+Ayaka Melt with Amber, Zhongli and Bennett
+#5
+Team Rating:A
+Amber Overload with Raiden Shogun and Kazuha
+#6
+Team Rating:A
+Raiden Shogun Overload with Amber and Kazuha Bennett
+#7
+Team Rating:A
+Amber Overload Vaporize Fischl Bennett Team
+C6
+#1 Amber Vaporize Team
+Tier A
+The DMG of Amber is maximized by Vaporization.
+Amber
+Main DPS
+Pyro
+Amber is the main DPS, her DMG is amplified by Vaporization in this team.
+Artifacts
+Crimson Witch of Flames
+Main Stats
+Sands
+ATK%
+Goblet
+ATK% / Pyro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Thundering Pulse
+Rust
+Xingqiu
+Sub DPS
+Hydro
+Xingqiu’s Elemental Burst can attach Hydro element to enemies continuously, and so react with Amber’s Pyro DMG to trigger Vaporization.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Sacrificial Sword
+Kaedehara Kazuha
+Support
+Anemo
+Kazuha can assist the team by grouping enemies together, applying crowd control, provide DMG buff to teammates and reduce Elemental Resistance of enemies.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Freedom-Sworn
+Iron Sting
+Bennett
+Support
+Pyro
+Bennett’s Elemental Burst provides huge ATK buff and healing to other members.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+#2 Amber Vaporize Kazuha Bennett Xingqiu
+Tier A
+Amber is the main DPS in this Vaporize team, with Xingqiu enabling consistent Hydro application while Kazuha provides grouping, crowd control, DMG buffing, and RES shred. Bennett supplies strong ATK buff and healing.
+Amber
+Main DPS
+Pyro
+Amber is the main DPS, her DMG is amplified by Vaporization in this team.
+Artifacts
+Crimson Witch of Flames
+Main Stats
+Sands
+ATK%
+Goblet
+ATK% / Pyro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Thundering Pulse
+Rust
+Xingqiu
+Sub DPS
+Hydro
+Xingqiu’s Elemental Burst can attach Hydro element to enemies continuously, and so react with Amber’s Pyro DMG to trigger Vaporization.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Sacrificial Sword
+Kaedehara Kazuha
+Support
+Anemo
+Kazuha can assist the team by grouping enemies together, applying crowd control, provide DMG buff to teammates and reduce Elemental Resistance of enemies.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Freedom-Sworn
+Iron Sting
+Bennett
+Support
+Pyro
+Bennett’s Elemental Burst provides huge ATK buff and healing to other members.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+#3 Amber Melt Ayaka Burst Team
+Tier B
+The DMG of Ayaka is maximized by Melting. Ayaka deals DMG by her Elemental Burst, and her Cryo DMG reacts with Pyro attachment from Amber’s Elemental Skill to trigger Melting.
+Kamisato Ayaka
+Main DPS
+Cryo
+Ayaka deals DMG by her Elemental Burst, and her Cryo DMG reacts with Pyro attachment from Amber’s Elemental Skill to trigger Melting.
+Artifacts
+Blizzard Strayer
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Mistsplitter Reforged
+Amenoma Kageuchi
+Amber
+Sub DPS
+Pyro
+Amber is the Sub DPS, which works with Ayaka to trigger Melting.
+Artifacts
+Crimson Witch of Flames
+Main Stats
+Sands
+ATK%
+Goblet
+ATK% / Pyro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Thundering Pulse
+Rust
+Zhongli
+Support
+Geo
+Zhongli’s shield provides a safe environment for team members, and increases ATK of the whole team by using the full set of Tenacity of the Millelith.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Staff of Homa
+Black Tassel
+Bennett
+Support
+Pyro
+Bennett’s Elemental Burst provides huge ATK buff and healing to other members.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+#4 Ayaka Melt with Amber, Zhongli and Bennett
+Tier B
+Ayaka-focused Melt team. Ayaka deals the main damage through her Elemental Burst, while Amber enables Pyro application for Melt reactions. Zhongli provides shielding and a team ATK buff via Tenacity of the Millelith, and Bennett supplies healing plus a strong ATK boost with his Burst.
+Kamisato Ayaka
+Main DPS
+Cryo
+Ayaka deals DMG mainly through her Elemental Burst, and her Cryo hits react with Amber's Pyro application to trigger Melt.
+Artifacts
+Blizzard Strayer
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Mistsplitter Reforged
+Amenoma Kageuchi
+Amber
+Sub DPS
+Pyro
+Amber serves as the Pyro enabler/Sub DPS, helping Ayaka trigger Melt reactions.
+Artifacts
+Crimson Witch of Flames
+Main Stats
+Sands
+ATK%
+Goblet
+ATK% / Pyro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Thundering Pulse
+Rust
+Zhongli
+Support
+Geo
+Zhongli provides a strong shield for safety and increases team ATK with a full Tenacity of the Millelith set.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Staff of Homa
+Black Tassel
+Bennett
+Support
+Pyro
+Bennett's Elemental Burst provides a huge ATK buff and healing to the team.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+#5 Amber Overload with Raiden Shogun and Kazuha
+Tier A
+Amber Overload team built around frequent Overload reactions, with Raiden Shogun providing Electro application and burst damage, while Kazuha groups enemies and amplifies team damage. Bennett adds a strong ATK buff and healing.
+Raiden Shogun
+Main DPS
+Electro
+Main DPS of the team. Her Elemental Burst deals increased DMG based on the energy consumed by teammates' Bursts.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Engulfing Lightning
+"The Catch"
+Amber
+Sub DPS
+Pyro
+Sub DPS that provides Pyro attachment to trigger frequent Overload reactions with Raiden Shogun.
+Artifacts
+Crimson Witch of Flames
+Main Stats
+Sands
+ATK%
+Goblet
+ATK% / Pyro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Thundering Pulse
+Rust
+Kaedehara Kazuha
+Support
+Anemo
+Groups enemies, provides crowd control, buffs team damage, and reduces enemy Elemental RES.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Freedom-Sworn
+Iron Sting
+Bennett
+Support
+Pyro
+Provides a huge ATK buff and healing with his Elemental Burst.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+#6 Raiden Shogun Overload with Amber and Kazuha Bennett
+Tier A
+Overload reaction team
+built around Raiden Shogun’s burst damage and Amber’s Pyro application. Kazuha groups enemies, buffs the team, and reduces enemy resistance, while Bennett provides healing and a large ATK buff.
+Raiden Shogun
+Main DPS
+Electro
+Main DPS of the team. Her Elemental Burst deals increased DMG based on energy consumed by party members using their Bursts.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Engulfing Lightning
+"The Catch"
+Amber
+Sub DPS
+Pyro
+Provides Pyro application to trigger frequent
+Overload
+reactions with Raiden Shogun.
+Artifacts
+Crimson Witch of Flames
+Main Stats
+Sands
+ATK%
+Goblet
+ATK% / Pyro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Thundering Pulse
+Rust
+Kaedehara Kazuha
+Support
+Anemo
+Groups enemies, provides crowd control, buffs teammates, and reduces enemy Elemental RES.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Freedom-Sworn
+Iron Sting
+Bennett
+Support
+Pyro
+Provides a strong ATK buff and healing through Elemental Burst.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+#7 Amber Overload Vaporize Fischl Bennett Team
+Tier A
+Amber is the main DPS. The team is built around frequent
+Overload
+triggers from Amber's Pyro and Fischl's Electro, while Xingqiu adds consistent Hydro application for additional
+Vaporize
+reactions. Bennett provides strong ATK buff and healing, greatly boosting Amber's damage.
+Amber
+Main DPS
+Pyro
+Main DPS. Focus on normal/charged attack damage and reaction-based output. Uses Pyro application to trigger Overload with Fischl and Vaporize with Xingqiu.
+Artifacts
+Crimson Witch of Flames
+Main Stats
+Sands
+ATK%
+Goblet
+ATK% / Pyro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Thundering Pulse
+Rust
+Xingqiu
+Sub DPS
+Hydro
+Provides continuous Hydro application through his Elemental Burst, enabling frequent Vaporize reactions with Amber's Pyro attacks.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Sacrificial Sword
+Fischl
+Sub DPS
+Electro
+Constellation 6+
+Off-field Electro support. Oz provides consistent Electro application for Overload reactions with Amber. C6 is a major upgrade for the team.
+Artifacts
+Thundering Fury
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Skyward Harp
+The Stringless
+Bennett
+Support
+Pyro
+Healer/support. His Elemental Burst provides a large ATK buff and healing to the team.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+Amber Teams FAQ
+What is the best Amber team in Genshin Impact?
+Amber Vaporize Team is one of the strongest Amber teams right now. Use the team summary and build cards on this page to pick the best version for your account.
+What are good Amber teams without premium weapons?
+You can run strong Amber teams without signature weapons by prioritizing reaction synergy, energy consistency, and artifact main stats shown in each build card.
+Which teammates are best with Amber?
+Common high-performing partners include teams such as Amber Vaporize Team, Amber Vaporize Kazuha Bennett Xingqiu, Amber Melt Ayaka Burst Team. Check each lineup section for role breakdowns and gear priorities.

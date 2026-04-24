@@ -1,0 +1,427 @@
+Home
+/
+Genshin Impact
+/
+Character List
+/
+Sayu Build
+Sayu Guide and Best Builds
+Sayu is the 4-Star
+Anemo
+Claymore Character from Inazuma who
+can heal and swirl. Read our Sayu guide to learn more about
+Sayu's kit, Sayu's best Builds and also her Ascension and Talent Materials.
+Last updated
+on
+Oct 20, 2025
+at
+03:27
+by
+Jaymo
+1 comment
+B
+Rank
+Anemo
+Element
+Claymore
+Weapon
+★
+★
+★
+★
+★
+Rarity
+Lily Ki (Lilypichu)
+EN Voice Actor
+Suzaki Aya
+JP Voice Actor
+Sayu's Strengths & Weaknesses
+Strengths
+Heals and deals damage simultaneously with her Elemental Burst.
+Great mobility with her E skill (rolling dash).
+Strong support for both healing and Swirl reactions.
+Passive ability provides extra healing when triggering Swirl.
+Weaknesses
+Before C6 can be tricky to distribute both ATK and EM required.
+Limited damage compared to other Anemo Characters.
+Needs high Energy Recharge for frequent Burst uptime.
+1.
+Sayu Build Guide, Best Artifacts, Weapons and Talent Priority
+Sayu's best build is as a support as she will supply the team with a good amount of healing
+while also absorbing and swirling elements around.
+BiS Weapon
+Favonius Greatsword
+Alternative Weapons
+Wolf's Gravestone
+Flame-Forged Insight
+Mailed Flower
+Skyward Pride
+Sacrificial Greatsword
+Katsuragikiri Nagamasa
+Makhaira Aquamarine
+Tidal Shadow
+"Ultimate Overlord's Mega Magic Sword"
+Best Artifacts
+Viridescent Venerer
+Main Stats
+Sand Stats
+: Energy Recharge / Elemental Mastery
+Goblet Stats
+: ATK % / Elemental Mastery
+Circlet Stats
+: Healing Bonus / Elemental Mastery
+Substat Priority
+Energy Recharge
+Elemental Mastery
+ATK %
+CRIT Rate (if Favonius)
+Talent Priority
+Elemental Burst
+Elemental Skill
+Normal Attack
+Support Sayu's build uses
+Favonius Greatsword
+as her BiS weapon.
+You will need to build some CRIT rate for it however. This weapon will help her 
+Burst each rotation.
+Wolf's Gravestone
+is the second best choice as it will 
+give the whole team a small buff.
+Katsuragikiri Nagamasa
+is the best F2P
+weapon as you can craft it, and it provides Sayu with decent ER.
+For this build, Sayu's best Artifact set is
+Viridescent Venerer
+, whether you play her 
+on field or off field. It allows both elemental RES shred and increases Sayu's Swirl.
+You do not have to level Sayu's Normal Attack.
+2.
+Recommended Endgame Build Stats for Sayu
+Build recommendations assume a "decently built" level of artifact rolls alongside 
+Sayu's best weapon. Using other weapons may increase or decrease certain stats relative to these recommendations.
+HP:
+15,000 - 20,000
+ATK:
+1200 - 1400
+CRIT Rate (if Favonius):
+40 - 60%
+EM:
++500
+ER:
+160 - 200%
+Sayu requires a lot of Energy Recharge for this build: you will want to aim for 
+at least 200 %+ if you want to use her Burst every rotation. Her C4 will lower it to 160-180 %.
+Favonius or another
+Anemo
+character will lower it more. 
+Before C6, you will have to balance her ATK and EM: her heal scales on ATK, and her swirl damage on EM.
+After C6, her heal will also scale with EM, making it easier for you.
+3.
+Sayu Combos and How to Play
+Sayu's burst
+Yoohoo Art: Mujina Flurry
+as a support build is what you will want to use the most. You will 
+deal
+Anemo
+damage to nearby enemies, and heal your allies.
+Sayu is not very hard to play. Your role with her will be to swap her in once you applied some elements
+so she swirl and spread it, you can then use your Burst to heal if needed or deal extra Swirl damage.
+The optimal rotation for Support Sayu is:
+Swap on her after applying one or multiple other Elements to the enemies
+Use
+Yoohoo Art: Fuuin Dash
+to Swirl
+Use
+Yoohoo Art: Mujina Flurry
+to heal or deal additional DMG
+Swap back to a DPS
+4.
+Sayu's Best Team Compositions
+As an
+Anemo
+support, Sayu is extremely flexible and can fit 
+in a various amount of teams.
+4.1.
+Sayu Support Team
+Support
+Main DPS
+Sub DPS
+Support
+Sayu
+Xiao
+Fischl
+Ororon
+Zhongli
+Lan Yan
+Sayu
+Kamisato Ayaka
+Xingqiu
+Shenhe
+Sayu
+Clorinde
+Yae Miko
+Nahida
+Support
+Main DPS
+Support
+Support
+Sayu
+Arlecchino
+Citlali
+Bennett
+Sayu
+Clorinde
+Yae Miko
+Nahida
+Sayu can be a good support for
+Xiao
+as she can provide him with a 
+decent healing, and she can also serve as his personal battery.
+Fischl
+will serve as an off-field DPS while also applying
+Electro
+.
+Ororon
+can be used instead of Fischl if you don't have her.
+Zhongli
+will provide his shield to the team.
+Lan Yan
+is another viable option to shield in this team if you do not have Zhongli.
+The other team options presented in the table on top revolve around Sayu buffing 
+elemental reactions with her swirl ability, while also acting as a healer. This works for 
+reactions such as
+Melt
+,
+Freeze
+,
+or
+Aggravate
+.
+4.2.
+Sayu Mono-Element Team
+Support
+Main DPS
+Sub DPS
+Support
+Sayu
+Arlecchino
+Mavuika
+Xiangling
+Bennett
+Chevreuse
+A more Mono-Elemental team is another option for Sayu. Mono
+Pyro
+is the best for this set-up as Sayu will be able to swirl Pyro to all surrounding enemies. 
+You will want to pick a powerful Main DPS such as
+Arlecchino
+and add 
+additional DPS with
+Xiangling
+for example, as well as another 
+buffer such as
+Bennett
+.
+5.
+Sayu's Ascensions, Talents, and Constellations
+Sayu's Ascensions
+Sayu's Talents
+Sayu's Constellations
+5.1.
+Sayu's Ascension Passives and Materials
+Unlock
+Ascension Passive
+Explanation
+With Character
+Yoohoo Art: Silencer's Secret
+When Sayu is in the party, your characters will not startle
+    Crystalflies and certain other animals when getting near them. Check the
+    "Other" sub-category of the "Living Beings / Wildlife" section in the Archive
+    for creatures this skill works on.
+1st Ascension
+Someone More Capable
+When Sayu triggers a
+Swirl
+reaction while
+    active, she heals all your characters and nearby allies for 300 HP.
+    She will also heal an additional 1.2 HP for every point of
+    Elemental Mastery she has. This effect can be
+    triggered once every 2s.
+4th Ascension
+No Work Today!
+The Muji-Muji Daruma created by Yoohoo Art: Mujina Flurry gains the following effects.
+When healing a character, it will also heal characters near that
+        healed character for 20% the amount of HP.
+Increases the AoE of its attack against opponents.
+Sayu requires a range of materials to ascend to the 6th ascension.
+Starting from the second ascension she gains additional
+Elemental Mastery as she gains levels, giving a total of 96
+Elemental Mastery at the final ascension. The total cost to upgrade all
+ascensions is:
+Source
+Quantity
+Mora
+420,000 Mora
+Boss Material
+46x
+Marionette Core
+Ascension Material
+1x
+Vayuda Turquoise Sliver
+9x
+Vayuda Turquoise Fragment
+9x
+Vayuda Turquoise Chunk
+6x
+Vayuda Turquoise Gemstone
+Local Specialty
+168x
+Crystal Marrow
+Enhancement Material
+18x
+Whopperflower Nectar
+30x
+Shimmering Nectar
+36x
+Energy Nectar
+5.2.
+Sayu's Talents
+Listed below is each talent and a brief explanation of how they work.
+Type
+Talent Name
+Brief Explanation
+Normal
+Shuumatsuban Ninja Blade
+Standard Normal Attack dealing 4 consecutive strikes. Charged
+    Attack will perform a spinning attack with a large slash as the end. Plunging
+    Attacks strike the ground below with an AoE DMG circle.
+Elemental Skill
+Yoohoo Art: Fuuin Dash
+Pressing the skill puts Sayo into a Windwheel roll, going a short
+    distance than performing a whirlwind kick dealing
+Anemo
+DMG. Holding the skill down puts her into a continuous Windwheel, rolling
+    around the field absorbing any elements she comes across and dealing that
+    Elemental DMG on the field.
+Elemental Burst
+Yoohoo Art: Mujina Flurry
+This summons a pair of healing hands and deals Anemo damage to nearby
+    enemies. If the HP of the active character is above 70% you will deal more
+    Anemo damage, if it is below you will heal the active character more.
+To upgrade a single talent to level 10, it costs:
+Source
+Quantity
+Mora
+1,625,500 Mora
+Special Material
+1x
+Crown of Insight
+Boss Material
+6x
+Gilded Scale
+Domain Material
+3x
+Teachings of Light
+21x
+Guide to Light
+38x
+Philosophies of Light
+Enhancement Material
+6x
+Whopperflower Nectar
+22x
+Shimmering Nectar
+31x
+Energy Nectar
+5.3.
+Sayu's Constellations
+Almost all of Sayu's constellations are useful, and it is definitely worth getting her to 
+C4 for the additional Energy Recharge, and her C6 allowing her Heal to benefit from EM as well.
+#
+Name
+Explanation
+C1
+Multi-Task no Jutsu
+The Muji-Muji Daruma created by
+Yoohoo Art: Mujina Flurry
+will ignore HP limits and can simultaneously attack nearby opponents and
+    heal characters.
+C2
+Egress Prep
+Yoohoo Art: Fuuin Dash
+gains the following effects.
+DMG of Fuufuu Whirlwind Kick in Tapping (mobile) / Press (PC &
+        PlayStation) Mode increased by 3.3%.
+Every 0.5s in the Fuufuu Windwheel state will increase the DMG of
+        this Fuufuu Whirlwind Kick by 3.3%. The maximum DMG increase possible
+        through this method is 66%.
+C3
+Eh, the Bunshin Can Handle It
+Increases the Level of
+Yoohoo Art: Mujina Flurry
+by 3.
+Maximum upgrade level is 15.
+C4
+Skiving: New and Improved
+Sayu recovers 1.2 Energy when she triggers a
+Swirl
+reaction. This effect occurs once every 2s.
+C5
+Speed Comes First
+Increases the Level of
+Yoohoo Art: Fuuin Dash
+by 3.
+Maximum upgrade level is 15.
+C6
+Sleep O'Clock
+The Muji-Muji Daruma created by Sayu's
+Yoohoo Art: Mujina Flurry
+will now also benefit from her
+      Elemental Mastery. Each point of Sayu's Elemental
+      Mastery will produce the following effects.
+Increases the damage dealt by the Muji-Muji Daruma's attacks by
+          0.2% ATK. A maximum DMG increase of 400% ATK can be gained via this
+          method.
+Increases the HP restored by the Muji-Muji Daruma by 3. A maximum
+          of 6,000 additional HP can be restored in this manner.
+Changelog
+20 Oct. 2025:
+Updated for Luna II.
+30 Jul. 2025:
+Updated for 5.8.
+17 Jun. 2025:
+Updated for 5.7.
+06 May 2025:
+Updated for 5.6.
+25 Mar. 2025:
+Updated for 5.5.
+12 Feb. 2025:
+Build updated for 5.3.
+22 Oct. 2024:
+Build Reviewed for Update 5.1.
+07 Dec. 2023:
+Guide added.
+Show more
+Show less
+Need any help? Check out our
+General Discussion Forum
+!
+1 comment
+In The Same Category
+Lynette Best Builds Guide
+Varka Profile & Talents
+Varka Team Guide
+Lan Yan Best Builds Guide
+Jahoda Team Guide
+Shikanoin Heizou Best Builds Guide
+Jahoda Profile & Talents
+Prune Best Builds Guide
+Faruzan Team Guide
+Jean Best Builds Guide
+Faruzan Profile & Talents
+Kaedehara Kazuha Best Builds Guide
+ABOUT THE AUTHOR
+Written by Jaymo, a longtime gamer who spends way too many hours exploring
+        open worlds, grinding in MMOs, and pulling for his favorite gacha characters.
+        He covers news and guides for all kinds of games, and just likes helping people
+        enjoy them more. You can find him hanging out on Twitch or chatting in Discord (jaym0).
+SUPPORT OUR WRITERS

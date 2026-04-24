@@ -1,0 +1,56 @@
+options iteration=1000 duration=10.5 swap_delay=6 workers=4;
+options hitlag=true defhalt=false ignore_burst_energy=true;
+
+target lvl=100 resist=0.1 pos=1,0 radius=3 freeze_resist=0;
+
+active heizou;
+
+# =========================
+# 캐릭터 1 (heizou)
+# =========================
+heizou char lvl=90/90 cons=0 talent=9,9,9;
+heizou add weapon="mappamare" refine=1 lvl=90/90;
+heizou add set="viridescentvenerer" count=4;
+
+# =========================
+# 캐릭터 2 (fischl)
+# =========================
+fischl char lvl=90/90 cons=0 talent=9,9,9;
+fischl add weapon="alleyhunter" refine=1 lvl=90/90;
+fischl add set="goldentroupe" count=4;
+
+# =========================
+# 캐릭터 3 (beidou)
+# =========================
+beidou char lvl=90/90 cons=0 talent=9,9,9;
+beidou add weapon="serpentspine" refine=1 lvl=90/90;
+beidou add set="emblemofseveredfate" count=4;
+
+# =========================
+# 캐릭터 4 (bennett)
+# =========================
+bennett char lvl=90/90 cons=0 talent=9,9,9;
+bennett add weapon="skywardblade" refine=1 lvl=90/90;
+bennett add set="noblesseoblige" count=4;
+
+
+# =========================
+# Entry Order
+# =========================
+# fischl -> beidou -> heizou -> bennett
+
+# =========================
+# Rotation
+# =========================
+fischl skill;
+fischl burst;
+fischl attack;
+beidou skill;
+beidou burst;
+beidou attack;
+heizou skill;
+heizou burst;
+heizou attack;
+bennett skill;
+bennett burst;
+bennett attack;

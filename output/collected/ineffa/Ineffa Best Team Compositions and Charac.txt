@@ -1,0 +1,328 @@
+Home
+/
+Genshin Impact
+/
+Character List
+/
+Ineffa Profile
+/
+Ineffa Build
+/
+Ineffa Teams
+Ineffa Best Teams and Team Compositions
+Ineffa is a 5-star Electro Polearm character in Genshin Impact.
+Our Ineffa build guide will focus on Ineffa's best weapons,
+best artifacts, skills, constellations and Ineffa's best teams.
+Last updated
+on
+Mar 09, 2026
+at
+11:09
+by
+GxG Noir
+S
+Rank
+Electro
+Element
+Polearm
+Weapon
+★
+★
+★
+★
+★
+Rarity
+Angelina Danielle Cama
+EN Voice Actor
+Nakajima Megumi
+JP Voice Actor
+Profile & Talents
+Build Guide
+Team Guide
+Ineffa's Best Teams & Character Synergies
+Welcome to our Ineffa team composition guide and 
+character synergies overview for Genshin Impact. 
+In this guide, we'll explore the best teams to build for Ineffa, including 
+recommended characters, character synergies, and team compositions to help Ineffa 
+reach her full potential.
+Best Pairings and Synergies With Ineffa
+Ineffa works best on teams that can utilize the Lunar-Charged reaction and
+maximize its damage. This entails pairing her with a
+Hydro
+unit, and
+characters of other elements that are not disruptive to keeping both
+Hydro
+and
+Electro
+auras on enemies consistently.
+Columbina
+Columbina
+Columbina is Ineffa's greatest teammate, providing the Hydro needed for
+	Lunar-Charged, providing fantastic buffs to the reaction, and even
+	dealing excellent Lunar-Charged damage of her own. Pairing Columbina
+		and Ineffa together results in a powerful duo that can fit into many
+		different teams, dealing tremendous Lunar-Charged damage from off-field.
+Hydro
+Hydro
+If not using Columbina, you still need a Hydro unit on the team.
+		For off-field Hydro options,
+Aino
+works well as she provides Moonsign
+		to enable Ascendant Gleam, and can buff the active character's EM and 
+		Lunar DMG% with her C1 and C6 respectively.
+Furina
+works well if there 
+		is a healer on the team, but keep in mind her DMG% buff does not apply to
+			Lunar damage. If not using Aino or Furina, the next best options will
+			generally be
+Yelan
+and/or
+Xingqiu
+.
+Sucrose
+Anemo
+Anemo
+Anemo characters are fantastic on Lunar-Charged teams, lowering enemy
+	resistance by 40% via 4pc Viridescent Venerer.
+Sucrose
+will usually be the
+best Anemo unit, thanks to providing great Elemental Mastery buffs while also 
+being able to buff your active character's ATK% via Thrilling Tales.
+Jahoda
+is also a good option, as she can enable Ascendant Gleam, while providing
+some Elemental Mastery and even some CRIT DMG buffing at C6. Jahoda also 
+provides healing, which can allow
+Furina
+to be used as the Hydro slot if not
+using Columbina.
+Ifa
+also works well here, directly buffing Lunar-Charged DMG%. However, he needs
+to be used on-field, so it's not recommended to use him in teams with another
+on-fielder.
+		On-field Hydro appliers can also be good to use, such as
+Neuvillette
+,
+Kamisato Ayato
+,
+		or
+Tartaglia
+.
+Flins
+Electro
+Electro
+Flins
+is a very powerful DPS to use with Ineffa, as he deals excellent
+		Lunar-Charged damage and further buffs the reaction's damage, allowing
+		him and Ineffa to deal incredible damage together. 
+			Although not as strong as Flins, other Electro DPS can also work well 
+			with Ineffa, especially if they have Elemental Mastery scaling. For example,
+Cyno
+,
+Sethos
+, and
+Yae Miko
+.
+Geo
+Geo
+Geo can be used on Lunar-Charged teams, enabling the Lunar Crystalize
+	reaction to be used as well. This can decrease the amount of damage procs
+	from the Lunar-Charged Thundercloud, but there is still enough uptime for
+	Ineffa to get all of her direct Lunar-Charged damage procs. As such, this is 
+	a powerful team core for many Geo DPS, such as
+Navia
+,
+Arataki Itto
+,
+Noelle
+, and
+Ningguang
+.
+	If using Ineffa with a Geo DPS, then
+Xilonen
+also becomes a strong 
+			support option instead of Anemo, able to provide RES Shred to both
+Electro
+and
+Geo
+.
+Durin
+Durin
+can trigger both Vaporize and Overload on Lunar-Charged enemies,
+			allowing him to deal good damage while providing some RES Shred. His long
+			uptime makes him a good alternative to Anemo in teams with an on-fielder
+			with long field time, such as
+Cyno
+.
+Pyro
+Pyro
+With sufficient Hydro application, Pyro DPS can be used in Lunar-Charged
+	teams, and the Pyro DPS can trigger both Overload and Vaporize. Since the
+	Pyro application will continuously remove the Lunar-Charged aura from
+	the enemies, this results in less damage procs from the Thundercloud. 
+			However, with sufficient Hydro application, there is still enough for 
+			Ineffa to get all of her direct Lunar-Charged damage instances.
+			Some Pyro DPS that can work well here are
+Hu Tao
+,
+Lyney
+, and
+Arlecchino
+.
+Dendro
+Dendro
+Dendro characters can be used with Ineffa to create Hyperbloom and 
+	Quickbloom teams. With fast enough Hydro application, Lunar-Charged can be
+	triggered enough to not miss any direct Lunar-Charged damage on Ineffa, 
+	allowing her to still deal her own high damage, while either she or another 
+	Electro unit also deals Hyperbloom damage. If there is not enough 
+	Hydro application, Dendro can still work well with Ineffa but there will be no Lunar-Charged uptime, 
+			and Ineffa will be relying mostly on Hyperbloom for damage. Alongside 
+			that Hyperbloom damage, she still provides her Shield, Elemental Mastery 
+			buff, and can also enable Quicken.
+			Some Dendro units that can work well with Ineffa are
+Alhaitham
+and
+Tighnari
+as on-field options, and
+Lauma
+and
+Nahida
+for off-field options.
+Ineffa's Best Team Compositions
+Listed below are a range of team compositions we recommend you use 
+with Ineffa. Her best teams, however, can depend on what boss you are against 
+as well as how you have built her. The inclusion or exclusion of any given team 
+does not necessarily reflect their overall power. For example, some F2P teams 
+may also be present.
+Lunar-Charged Teams
+Ineffa
+Flins
+Columbina
+Sucrose
+Ineffa
+Cyno
+Columbina
+Durin
+Ineffa
+Yae Miko
+Columbina
+Sucrose
+Ineffa
+Sethos
+Columbina
+Sucrose
+Ineffa
+Neuvillette
+Columbina
+Sucrose
+Ineffa
+Kamisato Ayato
+Columbina
+Sucrose
+Ineffa
+Fischl
+Columbina
+Sucrose
+Ineffa
+Ifa
+Columbina
+Ororon
+Geo DPS Teams
+Ineffa
+Zibai
+Columbina
+Illuga
+Ineffa
+Navia
+Columbina
+Xilonen
+Ineffa
+Arataki Itto
+Columbina
+Xilonen
+Ineffa
+Noelle
+Columbina
+Xilonen
+Ineffa
+Ningguang
+Columbina
+Xilonen
+Hyperbloom/Quickbloom Teams
+Ineffa
+Cyno
+Xingqiu
+Lauma
+Ineffa
+Neuvillette
+Columbina
+Lauma
+Ineffa
+Sethos
+Xingqiu
+Lauma
+Ineffa
+Alhaitham
+Columbina
+Lauma
+Ineffa
+Tighnari
+Columbina
+Lauma
+Ineffa
+Columbina
+Aino
+Lauma
+Pyro DPS Overload Teams
+Ineffa
+Hu Tao
+Columbina
+Xingqiu
+Ineffa
+Lyney
+Columbina
+Sucrose
+Ineffa
+Arlecchino
+Columbina
+Sucrose
+Changelog
+02 Feb. 2026:
+Updated for 6.4
+28 Sep. 2025:
+Updated for 6.0.
+01 Jul. 2025:
+Beta build additions for Ineffa.
+29 Jun. 2025:
+Team details added.
+27 Jun. 2025:
+More build details fleshed out.
+18 Jun. 2025:
+Guide added.
+Show more
+Show less
+Profile & Talents
+Build Guide
+Team Guide
+In The Same Category
+Ineffa Best Builds Guide
+Ineffa Profile & Talents
+Iansan Team Guide
+Beidou Best Builds Guide
+Varesa Best Builds Guide
+Flins Profile & Talents
+Dori Best Builds Guide
+Iansan Profile & Talents
+Cyno Team Guide
+Keqing Best Builds Guide
+Ororon Best Builds Guide
+Kujou Sara Best Builds Guide
+ABOUT THE AUTHOR
+GxG Noir has been traversing the world of Teyvat since patch 1.1. 
+        He has a passion for doing calculations and theorycrafting, especially on 
+        some of the more underrated characters. You can find him on
+YouTube
+as well as
+Discord
+.
+SUPPORT OUR WRITERS

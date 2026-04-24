@@ -1,0 +1,326 @@
+Varesa
+5
+★
+Catalyst
+Electro
+A laid-back orchard manager and warrior of the Collective of Plenty
+.
+Basic Stats
+Nv.
+90
+HP
+12699
+ATK
+356
+DEF
+782
+CRIT Rate
+24.2%
+Basic Stats
+Nv.
+90
+HP
+12699
+ATK
+356
+DEF
+782
+CRIT Rate
+24.2%
+Varesa
+Ascension Materials
+Vajrada Amethyst Sliver
+Skysplit Gembloom
+Sparkless Statue Core
+Juvenile Fang
+Teachings of Conflict
+Eroded Scale-Feather
+Varesa
+Best Weapon
+Vivid Notions
+Level
+.
+90
+ATK
+674
+CRIT DMG
+44.1%
+Refinement
+.
+5
+ATK is increased by 56%. When you use a Plunging Attack, you will gain the "Dawn's First Hue" effect: Plunging Attack CRIT DMG is increased by 56%. When you use an Elemental Skill or Burst, you will gain the "Twilight's Splendor" effect: Plunging Attack CRIT DMG is increased by 80%. The two effects above each last for 15s, and will be canceled 0.1s after the ground impact hits a target.
+Other Weapons
+2
+°
+Lost Prayer to the Sacred Winds
+CRIT Rate
+3
+°
+The Widsith
+CRIT DMG
+4
+°
+Skyward Atlas
+ATK
+Varesa
+Best Artifact Set
+Long Night's Oath
+2 Pc
+:
+Plunging Attack DMG increased by 25%.
+4 Pc
+:
+After the equipping character's Plunging Attack/Charged Attack/Elemental Skill hits an opponent, they will gain 1/2/2 stack(s) of "Radiance Everlasting." Plunging Attacks, Charged Attacks, or Elemental Skills can each trigger this effect once every 1s. Radiance Everlasting: Plunging Attacks deal 15% increased DMG for 6s. Max 5 stacks. Each stack's duration is counted independently.
+Artifacts Main Stats
+Sands
+:
+ATK %
+Goblet
+:
+Electro Bonus
+Circlet
+:
+Crit Rate / Crit Damage
+Artifacts Substats
+Crit Rate / Crit Damage
+ATK %
+Energy Recharge
+Elemental Mastery
+Other Artifacts Sets
+2
+°
+4x
+Obsidian Codex
+3
+°
+4x
+Thundering Fury
+Varesa
+Talent Priority
+1
+°
+Normal Attack
+2
+°
+Elemental Burst
+3
+°
+Elemental Skill
+Varesa
+Best Teams
+Time #
+1
+Main DPS
+Sub-DPS
+Support
+Support
+Varesa
+Furina
+Iansan
+Xianyun
+Time #
+2
+Main DPS
+Sub-DPS
+Support
+Support
+Varesa
+Xiangling
+Iansan
+Chevreuse
+Varesa
+Ascension Costs
+Cost
+5
+→
+6
+120
+K
+Vajrada Amethyst Gemstone
+6
+Sparkless Statue Core
+20
+Skysplit Gembloom
+60
+Tyrant's Fang
+24
+Varesa
+Talents Costs
+Cost
+9
+→
+10
+700
+K
+Philosophies of Conflict
+16
+Tyrant's Fang
+12
+Eroded Scale-Feather
+2
+Crown of Insight
+1
+Varesa
+Talents
+Normal Attack
+By the Horns
+Normal Attack
+Gotta try... to do battle like the greatest champion luchadors do! Varesa launches up to 3 strikes, dealing
+Electro DMG
+.
+Charged Attack
+Consumes a certain amount of Stamina to headbutt opponents in front, dealing Nightsoul-aligned
+Electro DMG
+and using the momentum to leap into the air.
+Plunging Attack
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing Nightsoul-aligned
+AoE Electro DMG
+upon impact. If Varesa is in a combat state upon landing, or if the shockwave from her plunging attack hits an opponent, she will gain 25 Nightsoul points. She enters the Fiery Passion state upon reaching maximum Nightsoul points through this method.
+Fiery Passion
+In this state, Varesa's Normal, Charged, and Plunging Attacks will gain corresponding buffs:
+Normal Attack
+Fight like a superstar champion luchador! Launches up to 3 fierce strikes, dealing greater
+Electro DMG
+.
+Charged Attack
+Consumes a certain amount of Stamina to slam into her opponents, dealing greater amounts of Nightsoul-aligned
+Electro DMG
+and using the momentum to leap into the air.
+Plunging Attack
+Consumes all her Nightsoul points and slams down on the ground from mid-air, dealing DMG to opponents in her path and dealing greater amounts of Nightsoul-aligned
+AoE Electro DMG
+upon hitting the ground.
+Elemental Skill
+Riding the Night-Rainbow
+With footwork swift as lightning and fierce as thunder, Varesa displays the true spirit of lucha libre, rushing forward a certain distance and dealing Nightsoul-aligned
+Electro DMG
+to opponents in her path.
+After using this Skill, Varesa gains 20 Nightsoul points and gains the
+"Follow-Up Strike"
+effect: Varesa has increased interruption resistance during this time, and upon pressing her Normal Attack, she will quickly unleash a Charged Attack that does not consume Stamina.
+"Follow-Up Strike"
+will be canceled after Varesa uses a Charged Attack.
+She will use different techniques based on whether the skill is Tapped or Held.
+Tap
+Quickly rush a certain distance forward.
+Hold
+Varesa enters the Nightsoul's Blessing state and switches to Sudden Onrush mode.
+Sudden Onrush
+Continuously consumes Nightsoul points. In this state, Varesa's Movement SPD and interruption resistance are increased. She can use terrain to execute flying leaps or consume additional Nightsoul points to traverse atop water or liquid Phlogiston while remaining immune to DMG from the latter.
+Nightsoul's Blessing: Varesa
+When she runs out of Nightsoul points, her Nightsoul's Blessing state will be canceled. When Varesa is in the Sudden Onrush state or Fiery Passion state, she will always be counted as being in the Nightsoul's Blessing state.
+Has 2 charges. When Varesa enters the Fiery Passion state, she will obtain an additional Tap charge of her Elemental Skill and its DMG will be increased.
+Fiery Passion
+· While not in the Fiery Passion state, Varesa can use Plunging Attacks to gain Nightsoul points. She will enter Fiery Passion when she reaches maximum Nightsoul points via this method, or when she uses her Elemental Burst
+Guardian Vent!
+· While in the Fiery Passion state, her Normal Attacks, Elemental Skill, and Elemental Burst will gain unique buffs. She can also use a special Elemental Burst shortly after using a Plunging Attack.
+· The Fiery Passion state lasts for up to 15s and will end when she runs out of Nightsoul points or after she leaves combat for a period of time.
+"Right now, I'm my own hero."
+Elemental Burst
+Guardian Vent!
+Leaps into the air before using the momentum of the drop to unleash a powerful flying kick, dealing Nightsoul-aligned
+AoE Electro DMG
+to opponents — just like those heroes of justice in woven scrolls for kids!
+After using this Skill, Varesa's Nightsoul points will be restored to maximum and she will enter the Fiery Passion state.
+In the Fiery Passion state, Varesa's Elemental Burst will deal a greater amount of Nightsoul-aligned
+AoE Electro DMG
+.
+Additionally, she will briefly activate Apex Drive after using a Plunging Attack while in her Fiery Passion state.
+Apex Drive
+Increases Varesa's interruption resistance. While affected by Apex Drive, Varesa can ignore her Elemental Burst CD and consume less Energy to use her special Elemental Burst,
+"Guardian Vent: Volcano Kablam"
+: This causes her to use the especially powerful Plunging Attack, the
+"Thunderous Tornado Eruption,"
+which deals Nightsoul-aligned
+AoE Electro DMG
+upon landing before causing her to exit Apex Drive. This DMG is considered Plunging Attack DMG.
+Varesa will exit Apex Drive after using her Elemental Skill.
+In truth, the original name Varesa gave this move was the
+"Invincible Dynamic Heroic Justice Super Mega Ultimate Thundercrash Sky-Splitting Supersonic Boom Kick."
+Alas, this name proved too long, and she was too embarrassed to shout it in front of everyone, even with her mask on. As such, she changed it to its present title instead.
+Varesa
+Passives
+Passive
+1
+Tag-Team Triple Jump!
+After using the Elemental Skill
+Riding the Night-Rainbow
+, Varesa gains
+"Rainbow Crash"
+for 5s.
+During this time, when Varesa uses a Plunging Attack, the shockwave DMG dealt when she hits the ground is increased by 50% of her ATK. If Varesa is in the Fiery Passion state, this ground impact DMG is increased by 180% of her ATK instead.
+The Rainbow Crash effect will be canceled once a ground impact hits an opponent, or when its duration expires.
+Passive
+2
+The Hero Twice-Returned!
+When a nearby party member triggers a Nightsoul Burst, Varesa's ATK increases by 35% for 12s. Max 2 stacks. Each stack's duration is counted independently.
+Passive
+3
+Night Realm's Gift: A Torch That Incinerates Evil
+After Nightsoul points have been fully depleted, Varesa will switch to using Phlogiston to maintain the Sudden Onrush mode from her Nightsoul's Blessing.
+While in an area with Phlogiston Mechanics within Natlan, Nightsoul Transmission: Varesa can be used. When the current active character is sprinting or in movement modes caused by certain Talents, or at a certain height in the air, switching to Varesa will trigger the following: Varesa enters the Nightsoul's Blessing state, switches to Sudden Onrush mode, and obtains 20 Nightsoul points. Nightsoul Transmission can be triggered once every 10s by your own party.
+While in an area with Phlogiston Mechanics within Natlan, Varesa will not take fall DMG when using terrain differences to make leaps.
+Passive
+4
+Blazing Heart, Singular Advance!
+Varesa's Sprint speed is increased. When she is not in combat, her Sprint Stamina consumption will also increase.
+Additionally, while in an area with Phlogiston Mechanics within Natlan, your party members will restore 20 Phlogiston when consuming food. This effect can occur once every 10s and does not take effect in Domains, Trounce Domains, or the Spiral Abyss.
+Varesa
+Constellations
+C
+1
+Undying Passion
+The effects of the Passive Talent
+"Tag-Team Triple Jump!"
+are enhanced:
+When performing the Special Plunging Attack
+"Thunderous Tornado Eruption,"
+Varesa will also gain
+"Rainbow Crash"
+for 5s.
+When
+"Rainbow Crash"
+is in effect, Varesa's Plunging Attack ground impact DMG is increased by 180% of her ATK, whether she is in the Fiery Passion state or not. You must first unlock the Passive Talent
+"Tag-Team Triple Jump!"
+to access the above effect.
+Additionally, when Varesa is in the Sudden Onrush mode of her Nightsoul's Blessing, she consumes 30% less Nightsoul points or Phlogiston.
+C
+2
+Beyond the Edge of Light
+Varesa will enter Apex Drive after using a Plunging Attack, regardless of whether she is in the Fiery Passion state or not.
+When Apex Drive is active, Varesa's interruption resistance will also further increase.
+Additionally, Varesa will restore 11.5 Energy when her Plunging Attack ground impact hits an opponent.
+C
+3
+Unbowed Resolve
+Increases the Level of
+Guardian Vent!
+by 3.
+Maximum upgrade level is 15.
+C
+4
+The Courage to Press On
+Varesa will receive various buffs based on her state when using her Elemental Burst
+Guardian Vent!
+If Varesa:
+· Has neither Fiery Passion nor Apex Drive active, she will gain Diligent Refinement for 15s, which will increase her Plunging Attack ground impact DMG by 500% of her ATK, with a maximum increase of 20,000 DMG. This effect will be canceled once the ground impact hits an opponent, or if its duration ends.
+· If she has either Fiery Passion or Apex Drive active, this instance of her Elemental Burst
+Guardian Vent!
+deals 100% increased DMG.
+C
+5
+Thoughts Floating on the Warm Breeze
+Increases the Level of
+Normal Attack: By the Horns
+by 3.
+Maximum upgrade level is 15.
+C
+6
+A Hero of Justice's Triumph
+Varesa restores 30 Energy when she enters Apex Drive.
+Her Plunging Attacks and Elemental Burst
+Guardian Vent!
+gain 10% CRIT Rate and 100% CRIT DMG.
+Additionally, when Varesa uses the Hold version of her Elemental Skill
+Riding the Night-Rainbow
+, or Taps her Elemental Skill while in the Sudden Onrush mode, she will restore Nightsoul points up to her maximum.

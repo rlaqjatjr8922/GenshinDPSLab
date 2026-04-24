@@ -1,0 +1,117 @@
+Home
+Blog
+Genshin Impact Hub
+Genshin impact Nilou best build Version 4.8 UPDATE: Weapons, artifacts and team comps
+Genshin impact Nilou best build Version 4.8 UPDATE: Weapons, artifacts and team comps
+Daniel Mitchell
+Aug 5, 2024
+Share
+Nilou, a 5-Star Hydro Sword wielder in Genshin Impact, excels as a supportive Sub-DPS character. Her combat prowess introduces an innovative element to the Bloom reactions through the creation of Bountiful Cores. For the ultimate Nilou experience, explore this comprehensive build guide that includes her optimal builds, recommended Artifacts, top weapon choices, and ideal team compositions. If you are interested, welcome to keep following our further articles on our platform.
+Basic information
+Ascension and Talent Material Sump
+Best builds for Nilou
+1.
+Sub-DPS Build for Off-Field
+This Nilou build is crafted to highlight her optimal role as a Sub-DPS, with a focus on generating Bountiful Cores. To maximize her potential, prioritize HP% as the main stat and equip her with a combination of two pieces from the Tenacity of the Millelith set and two pieces from the Vourukasha's Glow set, which synergizes to enhance the damage output of her Bountiful Cores.
+2.
+Main DPS Build for On-Field
+Nilou can be deployed as a frontline combatant capable of generating Bountiful Cores through her Hydro-infused Sword Dance. The Sacrificial Sword is an excellent choice for her, as it allows for the utilization of both forms of her Elemental Skill, thereby optimizing her Hydro coverage on foes.
+While Nilou can benefit from the full 4-piece Vourukasha's Glow set bonus due to the self-damage inflicted by her Bountiful Cores, you may opt for the more accessible 2-piece HP%/HP% artifact combination to streamline your farming process and reduce the resin expenditure.
+Best Artifacts for Nilou
+1.
+Tenacity of the Millelith
+2-PC
+: HP +20%
+2.
+Vourukasha' s Glow
+2-PC
+: HP +20%
+4-PC
+: Elemental Skill and Elemental Burst DMG will be increased by 10%. After the equipping character takes DMG, the aforementioned DMG Bonus is increased by 80% for 5s. This effect increase can have 5 stacks. The duration of each stack is counted independently. These effects can be triggered even when the equipping character is not on the field.
+3.
+Gilded Dreams
+2-PC
+: Elemental Mastery +80
+Typically, the combination of a two-piece Tenacity of the Millelith set and a two-piece Vourukasha's Glow set is the recommended choice for Nilou when it comes to amplifying the damage of her Bountiful Cores. This artifact set pairing is specifically tailored to enhance her capabilities as a Sub-DPS character, ensuring that the Bountiful Cores she creates are as potent as possible.
+The Tenacity of the Millelith set, with its two-piece bonus, boosts her damage output by increasing her Hydro damage, which is essential for Nilou's elemental abilities. On the other hand, the Vourukasha's Glow set, when equipped in two pieces, further augments the damage of her Bountiful Cores, making them a more significant threat to enemies.
+This artifact set strategy not only maximizes Nilou's potential as a damage dealer through her Bountiful Cores but also complements her role as a supportive character in the team. By focusing on these sets, players can ensure that Nilou's contributions to the team's overall damage are optimized, making her a valuable asset in various combat scenarios within Genshin Impact.
+Best Weapons for Nilou
+1.
+Key of Khaj-Nisut
+Base ATK
+: 542
+Bonus Stat
+: HP 66.2%
+Skill Effect
+: HP increased by
+20%
+. When an Elemental Skill hits opponents, you gain the Grand Hymn effect for 20s. This effect increases the equipping character's Elemental Mastery by
+0.12%
+of their Max HP. This effect can trigger once every 0.3s. Max 3 stacks. When this effect gains 3 stacks, or when the third stack's duration is refreshed, the Elemental Mastery of all nearby party members will be increased by
+0.2%
+of the equipping character's max HP for 20s.
+2.
+Freedom-Sworn
+Base ATK
+: 608
+Bonus Stat
+: Elemental Mastery 198
+Skill Effect
+: Increases DMG by
+10%
+. When characters with Freedom-Sworn trigger Elemental Reactions, they gain a Sigil of Rebellion (once every 0.5s). This triggers even if they aren't on the field. When you reach 2 Sigils, they will be consumed which grants nearby party members
+20%
+ATK and
+16%
+Normal, Charged, and Plunging Attack DMG for 12s. Once triggered, you gain no Sigils for 20s. The same buffs from the Millennial Movement series does not stack.
+3.
+The Dockhand' s Assistant
+Base ATK
+: 510
+Bonus Stat
+: HP 41.3%
+Skill Effect
+: When the wielder is healed or heals others, they will gain a Stoic's Symbol for 30s, max 3 Symbols. Upon Elemental Skill or Burst usage, consume all Symbols to get the Roused effect for 10s. For each Symbol consumed, gain 40 Elemental Mastery, and after 2s, restore 2 Energy per Symbol. The Roused effect can be triggered once every 15s, and Symbols can be gained even when the character is off-field.
+Nilou excels when equipped with weapons that have HP% Bonus Stats, as these significantly enhance the damage of her Bountiful Cores. This makes HP-based weapons the optimal choice for her, ensuring that her unique combat mechanic is as effective as possible in battle.
+While HP% weapons are ideal, those with Elemental Mastery (EM) or Energy Recharge (ER) as a secondary stat are also valuable for Nilou. Elemental Mastery weapons are particularly beneficial in scenarios where her Bountiful Cores trigger elemental reactions, boosting the overall damage output. Energy Recharge weapons, on the other hand, are advantageous if you need Nilou to utilize her Elemental Burst more frequently, reducing the reliance on cooldowns.
+Among the free-to-play (F2P) craftable weapons, the Iron Sting stands out as an excellent option for Nilou. Its passive ability and Elemental Mastery substat synergize well with her playstyle, amplifying her damage across the board, especially when she successfully triggers a Bountiful Core reaction.
+The Sapwood Blade is another weapon to consider, particularly for its supportive capabilities and Energy Recharge substat. It's a viable choice if you're looking to bolster Nilou's utility in a team composition that requires more frequent use of her abilities. However, it's important to note that, like Elemental Mastery, the Sapwood Blade's passive ability is most effective when Nilou is able to trigger a Bloom reaction, which may limit its consistent performance in all combat situations.
+Best team comps for Nilou
+1.
+Double Hydro Team
+A team composition that features two Hydro and two Dendro characters can potentially generate a higher number of Bountiful Cores than a team with three Hydro characters. However, this diversity in elemental representation can lead to complications in managing the ownership of the Bountiful Cores. As a result, it becomes essential for each team member to allocate some resources to boosting their Elemental Mastery. This investment will ensure that the team can effectively capitalize on the increased Bountiful Core generation, maintaining control and strategic advantage in combat scenarios.
+2.
+Nilou Triple Hydro Team
+Nilou thrives in a team setup that consists of three Hydro elements complemented by a single Dendro damage dealer. This configuration ensures that the generation of Bountiful Cores is attributed solely to the Dendro character, simplifying the process of enhancing their impact. By focusing on equipping the Dendro unit with a full set of Elemental Mastery (EM) Artifacts, the team can effortlessly amplify the damage potential of the Bountiful Cores. This streamlined approach allows for a more targeted and efficient build, maximizing the elemental synergy and leveraging Nilou's abilities to their fullest extent.
+3.
+Nilou On-Field
+When Nilou assumes the role of Main DPS, she becomes the central figure in applying Hydro to enemies. In this scenario, it is most effective for Nilou to wield the Sacrificial Sword while on the field, allowing her to utilize both of her Dance Forms to consistently apply Hydro to opponents.
+Upon the conclusion of her Sword Dance form's duration, the team can transition to Barbara, who can continue the Hydro application. This switch maintains the elemental advantage and ensures that enemies remain vulnerable to Hydro-related reactions, thereby supporting the team's overall damage output and strategic positioning.
+Summary
+In conclusion, Nilou emerges as a formidable character in the realm of Genshin Impact, with a unique set of strengths that can significantly bolster a team's combat capabilities. Her ability to transform Dendro Cores into the more potent Bountiful Cores is a game-changer, providing a strategic edge in battles against multiple foes. Furthermore, her second constellation bestows powerful debuffs upon enemies, enhancing her team's overall damage potential.
+However, Nilou's effectiveness is contingent upon a specific team composition, primarily consisting of Hydro and Dendro elements, to fully harness her talents. This requirement can limit flexibility in team building and strategy. Additionally, her reliance on a healer is crucial to counteract the friendly fire damage caused by Dendro Core explosions, ensuring that her team remains in fighting shape throughout the engagement.
+Despite these considerations, Nilou's strengths shine through, making her a valuable asset for players seeking to optimize their elemental strategies and maximize damage output. With careful team composition and strategic play, Nilou can be a key component in overcoming even the most challenging of adversaries in Genshin Impact.
+Why Top Up Genshin Impact on LootBar.gg
+Are you looking to enhance your Genshin Impact experience? Topping up Genesis Crystals is essential for unlocking new characters, weapons, and other in-game items. By following a few simple steps on LootBar.gg, you can easily and securely top up your account. Don't miss out on the additional rewards for your first recharge! Visit
+LootBar.gg
+now to get started.
+Exclusive Benefits of Topping Up Genshin Impact on LootBar.gg
+LootBar.gg offers a seamless and user-friendly platform for topping up your Genshin Impact Genesis Crystals. With accurate and timely recharges, you can enjoy uninterrupted gameplay. Make sure to fill in your Genshin Impact UID and server information correctly to avoid any delays. Head over to
+LootBar.gg
+and take advantage of the exclusive in-game rewards for your first top-up.
+Secure and Convenient Genshin Impact Top-Up at LootBar.gg
+When it comes to topping up your Genshin Impact account, security and convenience are paramount. LootBar.gg ensures that your transactions are safe and your Genesis Crystals are delivered promptly. Simply log in, select Genshin Impact, choose your desired amount of Genesis Crystals, and complete the purchase. Don't wait any longer—visit
+LootBar.gg
+today and elevate your Genshin Impact gameplay.
+How to Top Up Genshin Impact on LootBar
+To top up Genshin Impact on LootBar, please follow the steps below.
+1. Access LootBar's official site
+Lootbar.gg
+, select the language, currency type, and log in.
+2. In the top up column, select the game you want to top up. In this case, top up >
+Genshin Impact.
+3. Decide the amount of Genesis Crystals you want to buy and click 'Buy Now'.
+4. Select the server and enter your Genshin Impact UID.
+Daniel Mitchell
+Gaming writer
+Daniel Mitchell is an accomplished American gaming writer and RPG enthusiast, currently serving as the Lead Editor of LootBar’s Genshin Impact Walkthrough Team. With dual degrees in English Literature, he blends his expertise in literary analysis with extensive knowledge of the gaming industry.

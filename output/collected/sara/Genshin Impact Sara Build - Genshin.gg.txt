@@ -1,0 +1,190 @@
+Genshin Impact Sara Build
+Electro
+Bow
+Support
+Sara Upgrade Materials
+Elegance
+Ashen Heart
+Vajrada Amethyst Sliver
+Storm Beads
+Dendrobium
+Damaged Mask
+Sara Best Weapons
+1
+Skyward Harp
+2
+Elegy for the End
+3
+Polar Star
+4
+Fading Twilight
+5
+Mouun's Moon
+Sara Best Artifacts
+1
+Emblem of Severed Fate
+4
+2
+Noblesse Oblige
+4
+3
+Noblesse Oblige
+2
+Thundering Fury
+2
+4
+Noblesse Oblige
+2
+Shimenawa's Reminiscence
+2
+5
+Shimenawa's Reminiscence
+2
+Thundering Fury
+2
+Sara Best Stats
+Sands:
+Energy Recharge / ATK%
+Goblet:
+Electro DMG
+Circlet:
+CRIT Rate / CRIT DMG
+Substats:
+Energy Recharge > CRIT Rate / CRIT DMG > ATK%
+Character Builds by Genshin Impact Helper →
+Showcase
+Teams
+Talents
+Passives
+Constellations
+Ascension
+Sara Showcase
+Sara video guide by
+Braxophone
+.
+Check out his content!
+Best Sara Teams
+Raiden Overload
+Childe Electro-Charged
+Sara Talents
+Normal Attack
+Tengu Bowmanship
+Normal Attack Performs up to 5 consecutive shots with a bow. Charged Attack Perform a more precise Aimed Shot with increased DMG. While aiming, crackling lightning will accumulate on the arrowhead. An arrow fully charged with the storm's might will deal
+Electro
+DMG. When in the Crowfeather Cover state, a fully-charged arrow will leave a Crowfeather behind after it hits. Plunging Attack Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.
+Elemental Skill
+Tengu Stormcall
+Retreats rapidly with the speed of a tengu, summoning the protection of the Crowfeather. Gains Crowfeather Cover for 18s, and when Kujou Sara fires a fully-charged Aimed Shot, Crowfeather Cover will be consumed, and will leave a Crowfeather at the target location. Crowfeathers will trigger Tengu Juurai: Ambush after a short time, dealing
+Electro
+DMG and granting the active character within its AoE an ATK Bonus based on Kujou Sara's Base ATK. The ATK Bonuses from different Tengu Juurai will not stack, and their effects and duration will be determined by the last Tengu Juurai to take effect.
+Elemental Burst
+Subjugation: Koukou Sendou
+Casts down Tengu Juurai: Titanbreaker, dealing AoE
+Electro
+DMG. Afterwards, Tengu Juurai: Titanbreaker spreads out into 4 consecutive bouts of Tengu Juurai: Stormcluster, dealing AoE
+Electro
+DMG. Tengu Juurai: Titanbreaker and Tengu Juurai: Stormcluster can provide the active character within their AoE with the same ATK Bonus as given by the Elemental Skill, Tengu Stormcall. The ATK Bonus provided by various kinds of Tengu Juurai will not stack, and their effects and duration will be determined by the last Tengu Juurai to take effect.
+Sara Passives
+Ascension 1
+Immovable Will
+While in the Crowfeather Cover state provided by Tengu Stormcall, Aimed Shot charge times are decreased by 60%.
+Ascension 4
+Decorum
+When Tengu Juurai: Ambush hits opponents, Kujou Sara will restore 1.2 Energy to all party members for every 100% Energy Recharge she has. This effect can be triggered once every 3s.
+Passive
+Land Survey
+When dispatched on an expedition in Inazuma, time consumed is reduced by 25%.
+Sara Constellations
+Constellation 1
+Crow's Eye
+When Tengu Juurai grant characters ATK Bonuses or hits opponents, the CD of Tengu Stormcall is decreased by 1s. This effect can be triggered once every 3s.
+Constellation 2
+Dark Wings
+Unleashing Tengu Stormcall will leave a weaker Crowfeather at Kujou Sara's original position that will deal 30% of its original DMG.
+Constellation 3
+The War Within
+Increases the Level of Subjugation: Koukou Sendou by 3. Maximum upgrade level is 15.
+Constellation 4
+Conclusive Proof
+The number of Tengu Juurai: Stormcluster released by Subjugation: Koukou Sendou is increased to 6.
+Constellation 5
+Spellsinger
+Increase the Level of Tengu Stormcall by 3. Maximum upgrade level is 15.
+Constellation 6
+Sin of Pride
+The
+Electro
+DMG of characters who have had their ATK increased by Tengu Juurai has its Crit DMG increased by 60%.
+Sara Ascension Costs
+Rank
+Lvl
+Cost
+Material
+Material
+Material
+Material
+1
+20
+20000
+1
+Vajrada Amethyst Sliver
+3
+Dendrobium
+3
+Damaged Mask
+2
+40
+40000
+3
+Vajrada Amethyst Fragment
+2
+Storm Beads
+10
+Dendrobium
+15
+Damaged Mask
+3
+50
+60000
+6
+Vajrada Amethyst Fragment
+4
+Storm Beads
+20
+Dendrobium
+12
+Stained Mask
+4
+60
+80000
+3
+Vajrada Amethyst Chunk
+8
+Storm Beads
+30
+Dendrobium
+18
+Stained Mask
+5
+70
+100000
+6
+Vajrada Amethyst Chunk
+12
+Storm Beads
+45
+Dendrobium
+12
+Ominous Mask
+6
+80
+120000
+6
+Vajrada Amethyst Gemstone
+20
+Storm Beads
+60
+Dendrobium
+24
+Ominous Mask
+Loading...

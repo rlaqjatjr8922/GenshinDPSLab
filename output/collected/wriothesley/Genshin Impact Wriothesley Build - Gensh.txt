@@ -1,0 +1,192 @@
+Genshin Impact Wriothesley Build
+Cryo
+Catalyst
+Main DPS
+Wriothesley Upgrade Materials
+Order
+Shivada Jade Sliver
+Subdetection Unit
+Meshing Gear
+Tourbillon Device
+Primordial Greenbloom
+Wriothesley Best Weapons
+1
+Cashflow Supervision
+2
+Tulaytullah's Remembrance
+3
+Skyward Atlas
+4
+Flowing Purity
+R5
+5
+The Widsith
+Wriothesley Best Artifacts
+1
+Marechaussee Hunter
+4
+2
+Blizzard Strayer
+4
+3
+Shimenawa's Reminiscence
+4
+4
+Blizzard Strayer
+2
+Marechaussee Hunter
+2
+5
+Marechaussee Hunter
+2
+Shimenawa's Reminiscence
+2
+Wriothesley Best Stats
+Sands:
+ATK%
+Goblet:
+Cryo DMG
+Circlet:
+CRIT Rate / CRIT DMG
+Substats:
+CRIT Rate / CRIT DMG > ATK% > Energy Recharge
+Character Builds by Genshin Impact Helper →
+Showcase
+Teams
+Talents
+Passives
+Constellations
+Ascension
+Wriothesley Showcase
+Wriothesley video guide by
+Zy0x
+.
+Check out his content!
+Best Wriothesley Teams
+Wriothesley Reverse Melt
+Wriothesley Freeze
+Wriothesley Freeze
+Wriothesley Talents
+Normal Attack
+Forceful Fists of Frost
+Normal Attack Coalescing frost about his fist, Wriothesley will unleash powerful Repelling Fists, performing up to 5 rapid attacks that deal
+Cryo
+DMG. Apart from this, Normal Attack combo count will not reset for a short time after using Icefang Rush or sprinting. Charged Attack Consumes a fixed amount of Stamina to leap and unleash a Vaulting Fist, dealing AoE
+Cryo
+DMG. Plunging Attack Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE
+Cryo
+DMG upon impact.
+Elemental Skill
+Icefang Rush
+Adjusting his breathing, rhythm, and pace, Wriothesley sprints forward a short distance, entering the Chilling Penalty state and unleashing more powerful attacks than before. Chilling Penalty Increases Wriothesley's interruption resistance. When his HP is above 50%, it will enhance the Repelling Fists of Normal Attack: Forceful Fists of Frost and increase its DMG. When such an attack hits, it will consume a fixed amount of Wriothesley's HP. HP can be lost this way once every 0.1s. This effect will be canceled should Wriothesley leave the field.
+Elemental Burst
+Darkgold Wolfbite
+Activating his boxing gloves, Wriothesley strikes out with an icy straight, then uses Icicle Impact to cause multiple instances of AoE
+Cryo
+DMG in a frontal area. Arkhe: Ousia After Icicle Impact ends, a Surging Blade will descend upon the opponent's position, dealing Ousia-aligned
+Cryo
+DMG.
+Wriothesley Passives
+Ascension 1
+There Shall Be a Plea for Justice
+When Wriothesley's HP is less than 60%, he will obtain a Gracious Rebuke. The next Charged Attack of his Normal Attack: Forceful Fists of Frost will be enhanced to become Rebuke: Vaulting Fist. It will not consume Stamina, will deal 50% increased DMG, and after hitting will restore HP for Wriothesley equal to 30% of his Max HP. You can gain a Gracious Rebuke this way once every 5s.
+Ascension 4
+There Shall Be a Reckoning for Sin
+When Wriothesley's current HP increases or decreases, if he is in the Chilling Penalty state conferred by Icefang Rush, Chilling Penalty will gain one stack of Prosecution Edict. Max 5 stacks. Each stack will increase Wriothesley's ATK by 6%.
+Passive
+The Duke's Grace
+When Wriothesley crafts Weapon Ascension Materials, he has a 10% chance to receive double the product.
+Wriothesley Constellations
+Constellation 1
+Terror for the Evildoers
+The Gracious Rebuke from the Passive Talent "There Shall Be a Plea for Justice" is changed to this: When Wriothesley's HP is less than 60% or while he is in the Chilling Penalty state caused by Icefang Rush, when the fifth attack of Repelling Fists hits, it will create a Gracious Rebuke. 1 Gracious Rebuke effect can be obtained every 2.5s. Additionally, Rebuke: Vaulting Fist will obtain the following enhancement: The DMG Bonus gained will be further increased to 200%. When it hits while Wriothesley is in the Chilling Penalty state, that state's duration is extended by 4s. 1 such extension can occur per 1 Chilling Penalty duration. You must first unlock the Passive Talent "There Shall Be a Plea for Justice."
+Constellation 2
+Shackles for the Arrogant
+When using Darkgold Wolfbite, each Prosecution Edict stack from the Passive Talent "There Shall Be a Reckoning for Sin" will increase said ability's DMG dealt by 40%. You must first unlock the Passive Talent "There Shall Be a Reckoning for Sin."
+Constellation 3
+Punishment for the Frauds
+Increases the Level of Normal Attack: Forceful Fists of Frost by 3. Maximum upgrade level is 15.
+Constellation 4
+Redemption for the Suffering
+The HP restored to Wriothesley through Rebuke: Vaulting Fist will be increased to 50% of his Max HP. You must first unlock the Passive Talent "There Shall Be a Plea for Justice." Additionally, when Wriothesley is healed, if the amount of healing overflows, the following effects will occur depending on whether he is on the field or not. If he is on the field, his ATK SPD will be increased by 20% for 4s. If he is off-field, all of your own party members' ATK SPD will be increased by 10% for 6s. These two methods of increasing ATK SPD cannot stack.
+Constellation 5
+Mercy for the Wronged
+Increases the Level of Darkgold Wolfbite by 3. Maximum upgrade level is 15.
+Constellation 6
+Esteem for the Innocent
+The CRIT Rate of Rebuke: Vaulting Fist will be increased by 10%, and its CRIT DMG by 80%. When unleashed, it will also create an additional icicle that deals 100% of Rebuke: Vaulting Fist's Base DMG as
+Cryo
+DMG. DMG dealt this way is regarded as Charged Attack DMG. You must first unlock the Passive Talent "There Shall Be a Plea for Justice."
+Wriothesley Ascension Costs
+Rank
+Lvl
+Cost
+Material
+Material
+Material
+Material
+1
+20
+20000
+1
+Shivada Jade Sliver
+3
+Subdetection Unit
+3
+Meshing Gear
+2
+40
+40000
+3
+Shivada Jade Fragment
+2
+Tourbillon Device
+10
+Subdetection Unit
+15
+Meshing Gear
+3
+50
+60000
+6
+Shivada Jade Fragment
+4
+Tourbillon Device
+20
+Subdetection Unit
+12
+Mechanical Spur Gear
+4
+60
+80000
+3
+Shivada Jade Chunk
+8
+Tourbillon Device
+30
+Subdetection Unit
+18
+Mechanical Spur Gear
+5
+70
+100000
+6
+Shivada Jade Chunk
+12
+Tourbillon Device
+45
+Subdetection Unit
+12
+Artificed Dynamic Gear
+6
+80
+120000
+6
+Shivada Jade Gemstone
+20
+Tourbillon Device
+60
+Subdetection Unit
+24
+Artificed Dynamic Gear
+Loading...

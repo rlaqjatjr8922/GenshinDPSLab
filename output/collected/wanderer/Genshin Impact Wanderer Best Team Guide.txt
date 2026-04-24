@@ -1,0 +1,579 @@
+Genshin Impact Wanderer Best Team Guide
+Last updated April 24, 2026. Looking for the best Wanderer teams in
+        Genshin Impact? Start with the top team summary below, then pick the
+        lineup that fits your roster.
+This page provides the best Wanderer Team information. Wanderer is a Main DPS in most situations, primarily a DPS. Top teams include Vaporize, Melt, and Electro-Charged comps. Team positions can be adjusted based on your roster, and swapping Wanderer with Xiao is also an option.
+View Wanderer's character page
+Wanderer Team Summary
+#1
+Team Rating:SS
+Wanderer Vaporize Team
+#2
+Team Rating:SS
+Wanderer Anemo Hypercarry with Faruzan, Xingqiu & Bennett
+#3
+Team Rating:SS
+Wanderer Anemo Hypercarry with Faruzan Yelan Bennett
+C6
+#4
+Team Rating:S
+Wanderer Sunfire Hypercarry with Yelan & Rosaria
+C2
+#5
+Team Rating:SS
+Wanderer Burgeon Bloom SS Team
+C6
+#6
+Team Rating:S
+Wanderer Electro-Charged Team #1
+#7
+Team Rating:SS
+Wanderer Permafrost Freeze Team
+#1 Wanderer Vaporize Team
+Tier SS
+Wanderer
+is the main DPS, with Xiangling, Xingqiu, and Bennett enabling strong Vaporize damage and important buffs. Wanderer can gain bonuses from Pyro/Hydro contacts during his Elemental Skill, while Bennett provides healing and a major ATK buff.
+Wanderer
+Main DPS
+Anemo
+Main on-field DPS.
+Uses Elemental Skill to enter Hovering State and deal sustained Anemo damage. Benefits from Pyro/Hydro contacts for increased Kuugoryoku Point cap and ATK buffs.
+Artifacts
+Desert Pavilion Chronicle
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / ATK%
+Weapons
+Tulaytullah's Remembrance
+The Widsith
+Xiangling
+Sub DPS
+Pyro
+Off-field Pyro Sub DPS.
+Her Elemental Burst deals strong continuous damage and applies Pyro for Vaporize reactions and Wanderer’s ATK buff interaction.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+ATK%
+Goblet
+Pyro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Engulfing Lightning
+"The Catch"
+Xingqiu
+Sub DPS
+Hydro
+Off-field Hydro applier.
+His Elemental Burst continuously applies Hydro to enemies, supporting Vaporize reactions and granting Wanderer bonus Kuugoryoku Point cap on Hydro contact.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Favonius Sword
+Bennett
+Support
+Pyro
+Healer and buffer.
+His Elemental Burst provides strong ATK buff and healing, and also enables Wanderer’s Pyro contact bonus during Skill use.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+Energy Recharge
+Goblet
+HP%
+Circlet
+HP%
+Substats
+Energy Recharge / HP%
+Weapons
+Sapwood Blade
+#2 Wanderer Anemo Hypercarry with Faruzan, Xingqiu & Bennett
+Tier SS
+Wanderer is the Main DPS and benefits greatly from Faruzan's Anemo RES shred and DMG Bonus, Xingqiu's continuous Hydro application, and Bennett's massive ATK buff and healing. Wanderer's Skill interactions with Hydro and Pyro can increase his Kuugoryoku Point cap by 20 and his ATK by 30%.
+Wanderer
+Main DPS
+Anemo
+Primary on-field carry. Use Elemental Skill to enter Hovering State and deal most of the team's damage.
+Artifacts
+Desert Pavilion Chronicle
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / ATK%
+Weapons
+Tulaytullah's Remembrance
+The Widsith
+Faruzan
+Support
+Anemo
+Provides Anemo RES decrease and DMG Bonus through Elemental Burst. At C6, grants additional CRIT DMG Bonus to Wanderer.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / Energy Recharge / ATK%
+Weapons
+Favonius Warbow
+Xingqiu
+Sub DPS
+Hydro
+Off-field Hydro application via Elemental Burst. Helps trigger Wanderer's Kuugoryoku Point cap increase.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Favonius Sword
+Bennett
+Support
+Pyro
+Elemental Burst provides a huge ATK buff and healing. Pyro contact with Wanderer's Skill also increases Wanderer's ATK by 30%.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+Energy Recharge
+Goblet
+HP%
+Circlet
+HP%
+Substats
+Energy Recharge / HP% / HP%
+Weapons
+Sapwood Blade
+#3 Wanderer Anemo Hypercarry with Faruzan Yelan Bennett
+Tier SS
+Wanderer is the Main DPS and deals the majority of the team's damage, maximized with buffs from Faruzan, Yelan, and Bennett. Bennett and Yelan also help trigger Wanderer’s Elemental Skill bonuses, increasing Kuugoryoku Point cap by 20 and ATK by 30%.
+Wanderer
+Main DPS
+Anemo
+Main on-field DPS. Use Elemental Skill to enter Hovering State and take advantage of the buffs provided by Faruzan, Yelan, and Bennett.
+Artifacts
+Desert Pavilion Chronicle
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / ATK%
+Weapons
+Tulaytullah's Remembrance
+The Widsith
+Faruzan
+Support
+Anemo
+Constellation 6+
+Provides Anemo RES shred and DMG Bonus through Elemental Burst. At C6, also grants additional CRIT DMG Bonus to Wanderer.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / Energy Recharge / ATK%
+Weapons
+Favonius Warbow
+Yelan
+Sub DPS
+Hydro
+Off-field Hydro application helps maintain continuous damage and also triggers Wanderer’s Elemental Skill Hydro contact bonus, increasing Kuugoryoku Point cap by 20.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+HP%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+HP% / CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Aqua Simulacra
+Favonius Warbow
+Bennett
+Support
+Pyro
+Elemental Burst provides a strong ATK buff and healing. His Pyro application can also trigger Wanderer’s Elemental Skill Pyro contact bonus, increasing ATK by 30%.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+Energy Recharge
+Goblet
+HP%
+Circlet
+HP%
+Substats
+Energy Recharge / HP% / HP%
+Weapons
+Sapwood Blade
+#4 Wanderer Sunfire Hypercarry with Yelan & Rosaria
+Tier S
+Wanderer is the Main DPS, with
+Faruzan
+,
+Rosaria
+, and
+Bennett
+maximizing his damage. The team benefits from Pyro/Cryo/Hydro element absorption to boost Wanderer’s Kuugoryoku Point cap and combat stats.
+Note: the provided guide mentions Faruzan in the overview, but the detailed team composition shown here is Wanderer, Yelan, Rosaria, and Bennett.
+Wanderer
+Main DPS
+Anemo
+Main on-field DPS. Uses Elemental Skill to enter Hovering State and deal sustained Anemo damage. Gains bonuses from absorbing Pyro/Cryo/Hydro with his Skill.
+Artifacts
+Desert Pavilion Chronicle
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / ATK%
+Weapons
+Tulaytullah's Remembrance
+The Widsith
+Yelan
+Sub DPS
+Hydro
+Off-field Hydro damage dealer who provides continuous Hydro application. Can help trigger Wanderer’s Hydro absorption bonus.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+HP%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+HP% / CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Aqua Simulacra
+Favonius Warbow
+Rosaria
+Sub DPS
+Cryo
+Constellation 2+
+Burst-focused Cryo sub DPS. Provides Cryo application for Wanderer’s absorption bonus. At C2, can grant extra CRIT Rate to teammates based on her own CRIT Rate.
+Artifacts
+Blizzard Strayer
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT Rate
+Substats
+CRIT Rate / CRIT DMG / ATK% / Energy Recharge
+Weapons
+Skyward Spine
+Favonius Lance
+Bennett
+Support
+Pyro
+Healer/support. His Elemental Burst provides a large ATK buff and healing, and his Pyro aura can trigger Wanderer’s Pyro absorption bonus.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+Energy Recharge
+Goblet
+HP%
+Circlet
+HP%
+Substats
+Energy Recharge / HP% / HP%
+Weapons
+Sapwood Blade
+#5 Wanderer Burgeon Bloom SS Team
+Tier SS
+Wanderer on-field Burgeon driver with Nahida + Yelan enabling Bloom cores and Thoma triggering Burgeon. Wanderer benefits from Pyro/Hydro absorption for extra buffs, while Thoma provides shielding and off-field Pyro application.
+Wanderer
+Main DPS
+Anemo
+On-field driver and main damage dealer. Uses Skill to enter Hovering State and benefit from Pyro/Hydro contacts for increased Kuugoryoku Point cap and ATK.
+Artifacts
+Desert Pavilion Chronicle
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / ATK%
+Weapons
+Tulaytullah's Remembrance
+The Widsith
+Yelan
+Sub DPS
+Hydro
+Provides consistent off-field Hydro application to trigger Bloom with Nahida and supports Wanderer's Elemental Skill buffs via Hydro contact.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+HP%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+HP% / Energy Recharge / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Aqua Simulacra
+Favonius Warbow
+Nahida
+Sub DPS
+Dendro
+Applies strong off-field Dendro through Skill and Burst, enabling Bloom reactions. Should be the highest Elemental Mastery character to share EM to Thoma through her Burst.
+Artifacts
+Deepwood Memories
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / ATK% / Energy Recharge
+Weapons
+A Thousand Floating Dreams
+Solar Pearl
+Thoma
+Support
+Pyro
+Constellation 6+
+Shielder and Burgeon trigger. Burst adds Pyro attacks to the active character's Normal Attacks, detonating Dendro Cores. C6 adds Normal Attack DMG bonus when shield is obtained or refreshed.
+Artifacts
+Flower of Paradise Lost
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Elemental Mastery / HP%
+Circlet
+Elemental Mastery / HP%
+Substats
+Energy Recharge / Elemental Mastery / HP%
+Weapons
+Kitain Cross Spear
+#6 Wanderer Electro-Charged Team #1
+Tier S
+Wanderer Electro-Charged team centered on
+Wanderer
+as the on-field Main DPS, with
+Fischl
+and
+Xingqiu
+enabling consistent Electro-Charged reactions.
+Zhongli
+provides strong shielding and a teamwide ATK buff through Tenacity of the Millelith.
+Wanderer
+Main DPS
+Anemo
+On-field driver and Main DPS. Uses Elemental Skill to enter Hovering State and gain boosted mobility and damage while triggering reactions with off-field Hydro/Electro application.
+Artifacts
+Desert Pavilion Chronicle
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / ATK%
+Weapons
+Tulaytullah's Remembrance
+The Widsith
+Fischl
+Sub DPS
+Electro
+Off-field Electro applicator through Oz, enabling steady Electro-Charged uptime and supporting Wanderer’s energy needs when Electro is contacted by his Elemental Skill.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Aqua Simulacra
+The Stringless
+Xingqiu
+Sub DPS
+Hydro
+Provides consistent Hydro application with Elemental Burst to maintain Electro-Charged with Fischl’s Oz. Also helps Wanderer gain Kuugoryoku Point cap when Hydro is contacted by his Elemental Skill.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Sacrificial Sword
+Zhongli
+Support
+Geo
+Provides one of the strongest shields in the game, increasing team survivability and comfort. Full Tenacity of the Millelith also grants a teamwide ATK buff.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Staff of Homa
+Black Tassel
+#7 Wanderer Permafrost Freeze Team
+Tier SS
+Wanderer is the Main DPS, supported by Cryo/Hydro Freeze setup and Anemo buffs. Ganyu provides Cryo application and burst damage, Kokomi supplies reliable Hydro application and healing, while Kazuha groups enemies and amplifies team damage through Viridescent Venerer resistance shred and Elemental DMG buffs.
+Wanderer
+Main DPS
+Anemo
+Main on-field DPS. Uses Elemental Skill to enter Hovering State and gain boosted Kuugoryoku Point cap and CRIT Rate when Cryo and Hydro are present.
+Artifacts
+Desert Pavilion Chronicle
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / ATK%
+Weapons
+Tulaytullah's Remembrance
+The Widsith
+Ganyu
+Sub DPS
+Cryo
+Provides strong off-field Cryo Burst damage and enables Freeze reactions with Kokomi's Hydro application.
+Artifacts
+Noblesse Oblige
+Blizzard Strayer
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Amos' Bow
+The Stringless
+Sangonomiya Kokomi
+Support
+Hydro
+Healer and consistent Hydro applier. Her Skill triggers Hydro every 2s and can activate Tenacity of the Millelith bonuses.
+Thrilling Tales of Dragon Slayers (R5) can greatly increase Wanderer's ATK when swapping off Kokomi.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+Hydro DMG
+Circlet
+Healing Bonus
+Substats
+HP% / Energy Recharge / HP / ATK% / Elemental Mastery
+Weapons
+Everlasting Moonglow
+Thrilling Tales of Dragon Slayers
+Kaedehara Kazuha
+Support
+Anemo
+Groups enemies, provides crowd control and DMG buffs, and reduces enemy Elemental Resistance with Viridescent Venerer.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Freedom-Sworn
+Iron Sting
+Wanderer Teams FAQ
+What is the best Wanderer team in Genshin Impact?
+Wanderer Vaporize Team is one of the strongest Wanderer teams right now. Use the team summary and build cards on this page to pick the best version for your account.
+What are good Wanderer teams without premium weapons?
+You can run strong Wanderer teams without signature weapons by prioritizing reaction synergy, energy consistency, and artifact main stats shown in each build card.
+Which teammates are best with Wanderer?
+Common high-performing partners include teams such as Wanderer Vaporize Team, Wanderer Anemo Hypercarry with Faruzan, Xingqiu & Bennett, Wanderer Anemo Hypercarry with Faruzan Yelan Bennett. Check each lineup section for role breakdowns and gear priorities.

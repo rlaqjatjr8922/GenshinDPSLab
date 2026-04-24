@@ -1,0 +1,208 @@
+Home
+Blog
+Genshin Impact Hub
+[V6.2]Xilonen Builds, Weapons, Artifacts & Team Comps | Genshin Impact
+[V6.2]Xilonen Builds, Weapons, Artifacts & Team Comps | Genshin Impact
+Daniel Mitchell
+Nov 24, 2025
+Share
+Xilonen is a 5-star Geo Support who makes her debut in the
+Genshin Impact 5.1 banners
+. She is a versatile support and can be a part in nearly any teams! To fully unlock her potential, check our ultimate
+Xilonen build guide
+! We will introduce her best weapons, artifacts, and team compositions. Keep reading for all the information!
+🔥 Bonus Tip: Don’t forget to visit
+Lootbar.gg
+for exclusive discounts on your next purchase!
+Secure Your Gaming Top-Up with Smart Savings on LootBar
+Premium Top-Up Service Tailored for Your Game.
+3-Minute Delivery for Non-Stop Gaming.
+Trusted 4.9/5 on Trustpilot, 10/10 among Players.
+Official Partnership Route, Protect Your Game Wallet.
+Top Up With Discount Now!
+Xilonen Brief Introduction
+Xilonen Information
+Character Information
+Xilonen
+Rarity
+5★
+Element
+Geo
+Weapon
+Sword
+Progression Bonus
+DEF +36.0%
+Combat Role
+Support & Healer
+Xilonen Gameplay
+Xilonen
+is a
+five-star
+Geo
+character who wields a
+Sword
+and excels as a powerful
+Support
+. Her abilities are almost related with Defence. After casting her Ultimate, Xilonen can heal nearby characters at intervals based on her DEF. And her Elemental Skill can decrease nearby opponents' corresponding Elemental RES according to party members' Elemental Types. When equipped with Natlan's new Artifacts Scroll of the Hero of Cinder City, Xilonen can further granting 40% Elemental DMG Bonus to all party members, which will be a huge boost.
+Rarity:
+Five-star |
+Element:
+Geo |
+Weapon:
+Sword |
+Role:
+Support & Healer
+Xilonen Talent Priority
+Below are the best talent priorities for Xilonen in Genshin Impact:
+Talent
+Priority
+Elemental Skill: Yohual's Scratch
+★★★★★ (Top)
+Elemental Burst: Ocelotlicue Point!
+★★★★ (High)
+Normal Attack: Ehecatl's Roar
+★ (Low)
+Xilonen has two support abilities. One is related to her
+Elemental Skill
+, which is to decrease nearby opponents' corresponding
+Elemental RES
+, another is
+Elemental
+Burst's healing ability
+. So you should first level up those two talents. As for her Normal Attack, it is not essential. Thus, you can choose to skip upgrading it to save materials.
+Xilonen Best Weapons
+Xilonen's signature weapon, Peak Patrol Song, is perfectly designed to complement her abilities. In the absence of her signature weapon, alternative options include Freedom-Sworn, Flute of Ezpitzal and Favonius Sword.
+Best Choice
+Signature Weapon
+Peak Patrol Song (5★)
+Base ATK
+: 542
+Bonus Stat
+: +82.7% DEF
+Weapon Effect
+: Gain "Ode to Flowers" after Normal or Plunging Attacks hit an opponent: DEF increases by 8% / 10% / 12% / 14% / 16% and gain a 10% / 12.5% / 15% / 17.5% / 20% All Elemental DMG Bonus for 6s. Max 2 stacks. Can trigger once per 0.1s. When this effect reaches 2 stacks or the 2nd stack's duration is refreshed, increase all nearby party members' All Elemental DMG Bonus by 8% / 10% / 12% / 14% / 16% for every 1,000 DEF the equipping character has, up to a maximum of 25.6% / 32% / 38.4% / 44.8% / 51.2% , for 15s.
+1
+1
+Freedom-Sworn (5★)
+Base ATK
+: 608
+Bonus Stat
+: +198.5 Elemental Mastery
+Weapon Effect
+: A part of the "Millennial Movement" that wanders amidst the winds. Increases DMG by 10% / 12.5% / 15% / 17.5% / 20% . When the character wielding this weapon triggers Elemental Reactions, they gain a Sigil of Rebellion. This effect can be triggered once every 0.5s and can be triggered even if said character is not on the field. When you possess 2 Sigils of Rebellion, all of them will be consumed and all nearby party members will obtain "Millennial Movement: Song of Resistance" for 12s. "Millennial Movement: Song of Resistance" increases Normal, Charged and Plunging Attack DMG by 16% / 20% / 24% / 28% / 32% and increases ATK by 20% / 25% / 30% / 35% / 40% . Once this effect is triggered, you will not gain Sigils of Rebellion for 20s. Of the many effects of the "Millennial Movement," buffs of the same type will not stack.
+4-star Alternatives
+1
+Favonius Sword (4★)
+Base ATK
+: 454
+Bonus Stat
+: +61.3% Energy Recharge
+Weapon Effect
+: CRIT Hits have a 60% / 70% / 80% / 90% / 100% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 12 / 10.5 / 9 / 7.5 / 6 s.
+2
+Flute of Ezpitzal (4★)
+Base ATK
+: 454
+Bonus Stat
+: +69.0% DEF
+Weapon Effect
+: Using an Elemental Skill increases DEF by 16% / 20% / 24% / 28% / 32% for 15s.
+Xilonen Best Artifacts & Stats
+★ Artifacts
+Best Choice
+Scroll of the Hero of Cinder City
+2-PC
+: When a nearby party member triggers a Nightsoul Burst, the equipping character regenerates 6 Elemental Energy.
+4-PC
+: After the equipping character triggers a reaction related to their Elemental Type, all nearby party members gain a 12% Elemental DMG Bonus for the Elemental Types involved in the elemental reaction for 15s. If the equipping character is in the Nightsoul's Blessing state when triggering this effect, all nearby party members gain an additional 28% Elemental DMG Bonus for the Elemental Types involved in the elemental reaction for 20s. The equipping character can trigger this effect while off-field, and the DMG bonus from Artifact Sets with the same name do not stack.
+Alternative Choice
+Archaic Petra
+2-PC
+: Gain a 15% Geo DMG Bonus.
+4-PC
+: Upon obtaining an Elemental Shard created through a Crystallize Reaction, all party members gain a 35% DMG Bonus for that particular element for 10s. Only one form of Elemental DMG Bonus can be gained in this manner at any one time.
+Instructor
+2-PC
+: Increases Elemental Mastery by 80.
+4-PC
+: Upon triggering an Elemental Reaction, increases all party members' Elemental Mastery by 120 for 8s.
+★ Recommended Stats
+Here are the best Artifact main stats, sub-stats for Xilonen in Genshin Impact:
+Artifact Main Stats
+Sands:
+DEF / Energy Recharge
+Goblet
+: DEF
+Circlet
+: DEF / Healing Bonus
+Artifact Sub Stats
+DEF = Energy Recharge > others
+Xilonen Best Team Comps
+Xilonen is a very versatile support and can be an addition in almost all teams. So in this part, we will just give some sample teams for Xilonen in Genshin Impact:
+1. Pyro Hypercarry Teams
+Main DPS
+Support
+Mavuika
+(5★)
+Xilonen (5★)
+Citlali
+(5★)
+Bennett (4★)
+Arlecchino
+(5★)
+Xilonen (5★)
+Yelan
+(5★)
+Bennett (4★)
+2. Hydro Hypercarry Teams
+Main DPS
+Support
+Neuvillette (5★)
+Xilonen (5★)
+Furina
+(5★)
+Kazuha (5★)
+Mualani
+(5★)
+Xilonen (5★)
+Kazuha (5★)
+Mavuika
+(5★)
+3. Electro Hypercarry Teams
+Main DPS
+Support
+Varesa
+(5★)
+Xilonen (5★)
+Xianyun (5★)
+Iansan (4★)
+Clorinde (5★)
+Xilonen (5★)
+Furina
+(5★)
+Nahida
+(5★)
+4. Geo Hypercarry Teams
+Main DPS
+Support
+Navia (5★)
+Xilonen (5★)
+Furina
+(5★)
+Bennett (4★)
+Itto (5★)
+Xilonen (5★)
+Furina
+(5★)
+Gorou (4★)
+In conclusion, Xilonen is a rather formidable support and is a character worthing your pulls. Her unique skills have surely brought new dynamics to Genshin! And
+for
+players who want to maximize Xilonen's potential, don’t forget to
+top up Genshin Impact
+at
+LootBar
+.
+Top Up With Discount Now!
+Daniel Mitchell
+Gaming writer
+Daniel Mitchell is an accomplished American gaming writer and RPG enthusiast, currently serving as the Lead Editor of LootBar’s Genshin Impact Walkthrough Team. With dual degrees in English Literature, he blends his expertise in literary analysis with extensive knowledge of the gaming industry.

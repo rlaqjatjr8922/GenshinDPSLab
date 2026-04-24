@@ -1,0 +1,187 @@
+Genshin Impact Rosaria Build
+Cryo
+Polearm
+Support
+Rosaria Upgrade Materials
+Ballad
+Shadow of the Warrior
+Shivada Jade Sliver
+Hoarfrost Core
+Valberry
+Recruit's Insignia
+Rosaria Best Weapons
+1
+Staff of Homa
+2
+Wavebreaker's Fin
+3
+Vortex Vanquisher
+4
+Primordial Jade Winged-Spear
+5
+Blackcliff Pole
+Rosaria Best Artifacts
+1
+Blizzard Strayer
+4
+2
+Noblesse Oblige
+4
+3
+Blizzard Strayer
+2
+Noblesse Oblige
+2
+4
+Blizzard Strayer
+2
+Shimenawa's Reminiscence
+2
+5
+Noblesse Oblige
+2
+Shimenawa's Reminiscence
+2
+Rosaria Best Stats
+Sands:
+ATK%
+Goblet:
+Cryo DMG
+Circlet:
+CRIT DMG
+Substats:
+CRIT DMG > ATK% > Energy Recharge
+Character Builds by Genshin Impact Helper →
+Showcase
+Teams
+Talents
+Passives
+Constellations
+Ascension
+Rosaria Showcase
+Rosaria video guide by
+Zy0x
+.
+Check out his content!
+Best Rosaria Teams
+Ganyu Freeze
+Ayaka Freeze
+Kaeya Reverse Melt
+Rosaria Talents
+Normal Attack
+Spear of the Church
+Normal Attack Performs up to 5 consecutive spear strikes. Charged Attack Consumes a certain amount of Stamina to lunge forward, dealing damage to enemies along the way. Plunging Attack Plunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.
+Elemental Skill
+Ravaging Confession
+Rosaria swiftly shifts her position to appear behind her opponent, then stabs and slashes them with her polearm, dealing
+Cryo
+DMG. This ability cannot be used to travel behind opponents of a larger build.
+Elemental Burst
+Rites of Termination
+Rosaria's unique take on this prayer ritual: First, she swings her weapon to slash surrounding opponents; then, she summons a frigid Ice Lance that strikes the ground. Both actions deal
+Cryo
+DMG. While active, the Ice Lance periodically releases a blast of cold air, dealing
+Cryo
+DMG to surrounding opponents.
+Rosaria Passives
+Ascension 1
+Regina Probationum
+When Rosaria strikes an opponent from behind using Ravaging Confession, Rosaria's CRIT Rate increases by 12% for 5s.
+Ascension 4
+Shadow Samaritan
+Casting Rites of Termination increases CRIT Rate of all nearby party members (except Rosaria herself) by 15% of Rosaria's CRIT Rate for 10s. CRIT Rate Bonus gained this way cannot exceed 15%.
+Passive
+Night Walk
+At night (18:00 - 6:00), increases the Movement SPD of your own party members by 10%. Does not take effect in Domains, Trounce Domains, or Spyral Abyss. Not stackable with Passive Talents that provide the exact same effects.
+Rosaria Constellations
+Constellation 1
+Unholy Revelation
+When Rosaria deals a CRIT Hit, her ATK SPD increases by 10% and her Normal Attack DMG increases by 10% for 4s.
+Constellation 2
+Land Without Promise
+The duration of the Ice Lance created by Rites of Termination is increased by 4s.
+Constellation 3
+The Wages of Sin
+Increases the Level of Ravaging Confession by 3. Maximum upgrade level is 15.
+Constellation 4
+Painful Grace
+Ravaging Confession's CRIT Hits regenerate 5 Energy for Rosaria. Can only be triggered once each time Ravaging Confession is cast.
+Constellation 5
+Last Rites
+Increase the Level of Rites of Termination by 3. Maximum upgrade level is 15.
+Constellation 6
+Divine Retribution
+Rites of Termination's attack decreases opponents' Physical RES by 20% for 10s.
+Rosaria Ascension Costs
+Rank
+Lvl
+Cost
+Material
+Material
+Material
+Material
+1
+20
+20000
+1
+Shivada Jade Sliver
+3
+Valberry
+3
+Recruit's Insignia
+2
+40
+40000
+3
+Shivada Jade Fragment
+2
+Hoarfrost Core
+10
+Valberry
+15
+Recruit's Insignia
+3
+50
+60000
+6
+Shivada Jade Fragment
+4
+Hoarfrost Core
+20
+Valberry
+12
+Sergeant's Insignia
+4
+60
+80000
+3
+Shivada Jade Chunk
+8
+Hoarfrost Core
+30
+Valberry
+18
+Sergeant's Insignia
+5
+70
+100000
+6
+Shivada Jade Chunk
+12
+Hoarfrost Core
+45
+Valberry
+12
+Lieutenant's Insignia
+6
+80
+120000
+6
+Shivada Jade Gemstone
+20
+Hoarfrost Core
+60
+Valberry
+24
+Lieutenant's Insignia
+Loading...

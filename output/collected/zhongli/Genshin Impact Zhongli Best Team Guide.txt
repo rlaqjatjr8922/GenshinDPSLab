@@ -1,0 +1,594 @@
+Genshin Impact Zhongli Best Team Guide
+Last updated April 24, 2026. Looking for the best Zhongli teams in
+        Genshin Impact? Start with the top team summary below, then pick the
+        lineup that fits your roster.
+This page provides the best team info for Zhongli, primarily a Shield/Support. Top teams include Geo-Shield compositions, Vaporize, or Superconduct archetypes. Team positions can be adjusted based on your roster.
+View Zhongli's character page
+Zhongli Team Summary
+#1
+Team Rating:SS
+Zhongli Catalyze Keqing Aggravate Team
+C6
+#2
+Team Rating:SS
+Zhongli Xiao Core Team
+C4
+#3
+Team Rating:SS
+Zhongli Hu Tao Vaporize Team
+#4
+Team Rating:SS
+Zhongli Permafrost Freeze Team #1
+#5
+Team Rating:SS
+Zhongli Permafrost Freeze Team #2
+#6
+Team Rating:S
+Eula Superconduct Shield Team with Fischl, Chongyun and Zhongli
+C2
+#7
+Team Rating:SS
+Zhongli Melt SS Tier Team
+#1 Zhongli Catalyze Keqing Aggravate Team
+Tier SS
+Zhongli Catalyze Team
+Zhongli provides strong shielding and resistance shred via Deepwood Memories, while Keqing serves as the on-field carry. Fischl and Traveler (Dendro) enable consistent Catalyze/Aggravate reactions to maximize Electro damage.
+Keqing
+Main DPS
+Electro
+On-field DPS. Uses rapid multi-hit attacks to trigger Catalyze and maximize Electro damage.
+Artifacts
+Thundering Fury
+Wanderer's Troupe
+Main Stats
+Sands
+ATK% / Elemental Mastery
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / ATK% / Energy Recharge
+Weapons
+Mistsplitter Reforged
+Iron Sting
+Fischl
+Sub DPS
+Electro
+Constellation 6+
+Provides continuous off-field Electro application through Oz, enabling Catalyze reactions.
+C6
+is a major upgrade for the team.
+Artifacts
+Thundering Fury
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Skyward Harp
+The Stringless
+Traveler (Dendro)
+Sub DPS
+Dendro
+Off-field Dendro support that helps sustain Catalyze/Aggravate and contributes damage.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Dendro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+Energy Recharge / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Favonius Sword
+Zhongli
+Support
+Geo
+Provides a very strong shield for comfort and survivability. With
+Deepwood Memories
+, Zhongli can reduce enemy Dendro RES when his Elemental DMG hits opponents, even off-field.
+Artifacts
+Deepwood Memories
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP / Energy Recharge
+Weapons
+Staff of Homa
+Black Tassel
+#2 Zhongli Xiao Core Team
+Tier SS
+Zhongli is a Shield/Support in the team.
+The DMG of Xiao's Elemental Burst is maximized by teammates.
+Xiao
+Main DPS
+Anemo
+Xiao's Elemental Burst allows him to perform consecutive Plunge Attacks that deal wide AOE Anemo DMG.
+Artifacts
+Viridescent Venerer
+Gladiator's Finale
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Primordial Jade Winged-Spear
+Deathmatch
+Jean
+Support
+Anemo
+Constellation 4+
+Jean is a healer and acts as a battery to recharge Xiao's Elemental Burst.
+Jean C4 can further assist Xiao by lowering enemy Anemo RES, making her one of Xiao's best teammates.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+Albedo
+Sub DPS
+Geo
+Albedo pairs with Zhongli to trigger Geo Resonance, and his Elemental Skill DMG is maximized by Husk of Opulent Dreams (4).
+Artifacts
+Husk of Opulent Dreams
+Main Stats
+Sands
+DEF%
+Goblet
+Geo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / DEF% / DEF / Energy Recharge
+Weapons
+Cinnabar Spindle
+Harbinger of Dawn
+Zhongli
+Support
+Geo
+Zhongli's shield provides a safe environment for team members and increases the whole team's ATK by using the full set of Tenacity of the Millelith.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP / Energy Recharge
+Weapons
+Staff of Homa
+Black Tassel
+#3 Zhongli Hu Tao Vaporize Team
+Tier SS
+Hu Tao’s DMG is amplified by Vaporization.
+Zhongli provides a strong shield and team ATK buff, while Kazuha offers grouping, crowd control, DMG buff, and Elemental RES shred.
+Hu Tao
+Main DPS
+Pyro
+Main DPS of the team. Her DMG is amplified by Vaporize.
+Artifacts
+Crimson Witch of Flames
+Main Stats
+Sands
+HP% / Elemental Mastery
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Elemental Mastery / ATK%
+Weapons
+Staff of Homa
+Deathmatch
+Xingqiu
+Sub DPS
+Hydro
+His Elemental Burst applies Hydro continuously, enabling Vaporize reactions with Hu Tao’s Pyro DMG.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Sacrificial Sword
+Kaedehara Kazuha
+Support
+Anemo
+Groups enemies, provides crowd control and DMG buffs, and reduces enemy Elemental RES.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Freedom-Sworn
+Iron Sting
+Zhongli
+Support
+Geo
+Provides a safe environment with a strong shield and increases team ATK using Tenacity of the Millelith.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP / Energy Recharge
+Weapons
+Staff of Homa
+Black Tassel
+#4 Zhongli Permafrost Freeze Team #1
+Tier SS
+Permafrost Freeze
+team centered around Ganyu’s Cryo damage and Mona’s Hydro application to keep enemies Frozen, with Venti providing grouping and Zhongli offering an exceptionally strong shield plus Tenacity buff uptime.
+Ganyu
+Main DPS
+Cryo
+Primary on-field damage dealer. Uses charged attacks and Burst damage to deal sustained Cryo DMG while keeping enemies Frozen with Mona’s Hydro.
+Artifacts
+Noblesse Oblige
+Blizzard Strayer
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Amos' Bow
+Prototype Crescent
+Mona
+Support
+Hydro
+Provides Hydro application for Freeze and a strong damage amp through her Elemental Burst. Very valuable for enabling Ganyu’s damage window.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Hydro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+Energy Recharge / CRIT Rate / CRIT DMG / ATK%
+Weapons
+Skyward Atlas
+Favonius Codex
+Thrilling Tales of Dragon Slayers
+Venti
+Sub DPS
+Anemo
+Groups enemies together with his Burst and helps spread Hydro to nearby targets. Also improves team control and AoE consistency.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Elegy for the End
+Rust
+Zhongli
+Support
+Geo
+Provides a very safe environment with his shield and boosts team ATK using 4pc Tenacity of the Millelith when the shield is active.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Staff of Homa
+Black Tassel
+#5 Zhongli Permafrost Freeze Team #2
+Tier SS
+Ayaka is the main Freeze DPS, with Mona enabling Hydro application for Freezing. Kazuha provides grouping, Elemental DMG buff, and RES shred, while Zhongli offers strong shielding and a Tenacity of the Millelith ATK buff.
+Kamisato Ayaka
+Main DPS
+Cryo
+Deals most of the team's damage through her Elemental Burst and Cryo attacks, freezing enemies with Mona's Hydro application.
+Artifacts
+Blizzard Strayer
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Skyward Harp
+Rust
+Mona
+Support
+Hydro
+Provides Hydro application for Freeze and boosts team damage with her Elemental Burst debuff.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Hydro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+Energy Recharge / CRIT Rate / CRIT DMG / ATK%
+Weapons
+Skyward Atlas
+Favonius Codex
+Thrilling Tales of Dragon Slayers
+Kaedehara Kazuha
+Support
+Anemo
+Groups enemies, provides crowd control, buffs teammates' Elemental DMG, and reduces enemy Elemental RES with Viridescent Venerer.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Freedom-Sworn
+Iron Sting
+Zhongli
+Support
+Geo
+Provides strong shielding and increases team ATK by using a full Tenacity of the Millelith set.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP / Energy Recharge
+Weapons
+Staff of Homa
+Black Tassel
+#6 Eula Superconduct Shield Team with Fischl, Chongyun and Zhongli
+Tier S
+Eula-centered physical team built around
+Superconduct
+uptime, strong shielding, and off-field support. Despite the source title, this is not a Vaporize comp;
+Eula's Burst
+is the main damage source, amplified by Electro application and Zhongli's
+Tenacity of the Millelith
+buff.
+Eula
+Main DPS
+Cryo
+Core on-field DPS. Focus on maximizing
+Lightfall Sword
+Burst damage through physical bonus, crit, and Superconduct support.
+Artifacts
+Pale Flame
+Main Stats
+Sands
+ATK%
+Goblet
+Physical DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Song of Broken Pines
+Serpent Spine
+Fischl
+Sub DPS
+Electro
+Provides consistent off-field Electro application with Oz to trigger
+Superconduct
+for Eula's physical damage.
+Artifacts
+Thundering Fury
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Skyward Harp
+The Stringless
+Chongyun
+Sub DPS
+Cryo
+Constellation 2+
+Provides off-field Cryo damage and can reduce Eula Burst cooldown at
+C2
+. Useful as a secondary Cryo support, though his field infusion is generally not the focus here.
+Artifacts
+Blizzard Strayer
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Wolf's Gravestone
+Serpent Spine
+Zhongli
+Support
+Geo
+Provides a powerful shield for safe gameplay and activates
+Tenacity of the Millelith
+4-piece ATK buff for the team.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP / Energy Recharge
+Weapons
+Staff of Homa
+Black Tassel
+#7 Zhongli Melt SS Tier Team
+Tier SS
+Zhongli Melt
+is a strong Melt-focused team built around Ganyu’s Charged Attacks and Xiangling’s off-field Pyro application, with Bennett boosting the team’s damage and Zhongli providing strong shielding and Tenacity support.
+Ganyu
+Main DPS
+Cryo
+Ganyu is the primary damage dealer. Her Charged Attacks deal high Cryo damage and help trigger Melt reactions consistently.
+Artifacts
+Wanderer's Troupe
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Amos' Bow
+Hamayumi
+Xiangling
+Sub DPS
+Pyro
+Xiangling provides strong off-field Pyro damage through her Elemental Burst, enabling Ganyu’s Melt reactions.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+ATK%
+Goblet
+Pyro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Engulfing Lightning
+"The Catch"
+Bennett
+Support
+Pyro
+Bennett offers powerful healing and a large ATK buff with his Elemental Burst.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+Zhongli
+Support
+Geo
+Zhongli provides an extremely strong shield, keeping the team safe and comfortable. With 4pc Tenacity of the Millelith, he also buffs team ATK.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP / Energy Recharge
+Weapons
+Staff of Homa
+Black Tassel
+Zhongli Teams FAQ
+What is the best Zhongli team in Genshin Impact?
+Zhongli Catalyze Keqing Aggravate Team is one of the strongest Zhongli teams right now. Use the team summary and build cards on this page to pick the best version for your account.
+What are good Zhongli teams without premium weapons?
+You can run strong Zhongli teams without signature weapons by prioritizing reaction synergy, energy consistency, and artifact main stats shown in each build card.
+Which teammates are best with Zhongli?
+Common high-performing partners include teams such as Zhongli Catalyze Keqing Aggravate Team, Zhongli Xiao Core Team, Zhongli Hu Tao Vaporize Team. Check each lineup section for role breakdowns and gear priorities.

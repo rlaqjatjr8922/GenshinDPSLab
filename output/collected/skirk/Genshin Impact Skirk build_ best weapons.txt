@@ -1,0 +1,146 @@
+Genshin Impact – Skirk build and materials guide
+Check out the best weapons and artifacts for Skirk in Genshin Impact.
+By
+Marco Wutz
+| Jun 17, 2025
+HoYoverse
+Unleash otherworldly powers with the
+best Genshin Impact Skirk build
+. This 5-Star character deals Cryo DMG and is a potent Main DPS for your team, using unique mechanics that do not depend on Energy.
+Table of Contents
+Best Skirk weapons – Genshin Impact
+Best Skirk artifacts – Genshin Impact
+Best Skirk teams – Genshin Impact
+Skirk ascension materials – Genshin Impact
+Skirk’s Elemental Skill, Havoc: Warp, generates 45 Serpent’s Subtlety. Tapping it allows her to enter the Seven-Phase Flash mode, while holding it increases her movement speed as well as interrupt resistance, enabling her to walk over water.
+Seven-Phase Flash mode enables Skirk to absorb Void Rifts, which are created automatically when her party members trigger Cryo Reactions. She can absorb Void Rifts by using Charged Attacks, her Special Elemental Burst, or the alternative version of her Elemental Skill while the mode is active. Absorbing Void Rifts generates additional Serpent’s Subtlety.
+Furthermore, Skirk can generate Death’s Crossing stacks when Hydro or Cryo allies deal their respective DMG Type to enemies. In Seven-Phase Flash mode, Death’s Crossing bolsters her Basic Attack and Elemental Burst DMG.
+Skirk’s Elemental Burst, Havoc: Ruin, can be used when she has at least 50 Serpent’s Subtlety to deal Cryo DMG in the area before her. This Cryo DMG increases for every Serpent’s Subtlety above 50, counting up to 12 additional Serpent’s Subtlety.
+When Skirk is in Seven-Phase Flash mode, her Elemental Burst changes to Havoc: Extinction. It can be used without consuming Serpent’s Subtlety and grants the All Shall Wither effect to Skirk while she’s in Seven-Phase Flash mode, absorbing all nearby Void Rifts. All Shall Wither boosts Skirk’s Basic Attack DMG for ten hits and this buff becomes greater the more Void Rifts she was able to absorb.
+Unlocking Skirk’s Constellation by obtaining duplicates of her provides additional bonuses.
+Level
+Effects
+1
+- Absorbed Void Rifts deal Cryo DMG based on Skirk’s ATK and counting as Charged Attack DMG to nearby enemies.
+2
+- Elemental Skill activation restores 10 additional Serpent’s Subtlety.
+- Elemental Burst DMG increase takes up to 10 additional surplus Serpent’s Subtlety into account.
+- Special Elemental Burst temporarily increases Skirk’s ATK while she’s in Seven-Phase Flash mode.
+3
+- +3 Elemental Burst Level, up to 15.
+4
+- Stacks of Death’s Crossing additionally increase Skirk’s ATK by 10%/20%/40%.
+5
+- +3 Elemental Skill Level, up to 15.
+6
+- Absorbed Void Rifts grant stacks of Havoc: Sever, up to a maximum of 3. Havoc: Sever can be consumed to deal additional Cryo DMG based on Skirk’s ATK during Elemental Burst and Basic Attack or to reduce incoming DMG during Seven-Phase Flash mode, triggering a counterattack dealing Cryo DMG based on Skirk’s ATK.
+Best Skirk weapons – Genshin Impact
+Skirk is wearing a fake Vision to fit in, but her powers do not flow from Teyvat. / HoYoverse
+Skirk’s offensive power comes from traditional Main DPS stats — ATK, CRIT DMG, and CRIT Rate. Naturally, her signature Sword – Azurelight – delivers all that. It brings CRIT Rate as a secondary stat and increases its wearer’s ATK after they’ve used an Elemental Skill. If the wearer has no Energy, which is a condition Skirk always meets, this ATK buff grows stronger and raises the wearer’s CRIT DMG.
+Best weapons for Skirk in Genshin Impact
+:
+Azurelight
+(5-Star)
+Mistsplitter Reforged
+(5-Star)
+Haran Geppaku Futsu
+(5-Star)
+Primordial Jade Cutter
+(5-Star)
+The Black Sword
+(4-Star)
+[Shield]
+Calamity of Eshu
+(4-Star)
+The Flute
+(4-Star)
+Best Skirk artifacts – Genshin Impact
+What’s been stated above holds true for Skirk’s artifact sets as well: Maximizing her damage requires ATK, CRIT DMG, and CRIT Rate.
+Naturally, Energy Regeneration is no consideration whatsoever due to her special mechanics. Elemental Mastery is a nice filler stat to get extra oomph out of any Elemental Reactions she might trigger, but it’s not a priority and you may even consider bolstering her HP instead.
+Best Artifact Sets for Skirk in Genshin Impact
+:
+Finale of the Deep Galleries
+(4) – +15% Cryo DMG, +60% Basic Attack and Elemental Burst DMG when the wearer has 0 Energy; Basic Attack and Elemental Burst DMG buffs are paused for 6s after the wearer deals the other kind of damage.
+Blizzard Strayer
+(4) – +15% Cryo DMG, +20% CRIT Rate when the wearer attacks an enemy affected by Cryo and another +20% CRIT Rate if the enemy is Frozen.
+Best stats for Skirk in Genshin Impact
+:
+Flower:
+HP
+(main stat), ATK %, CRIT Rate, CRIT DMG, ATK
+Plume:
+ATK
+(main stat), ATK %, CRIT Rate, CRIT DMG, Elemental Mastery
+Sands:
+ATK %
+(main stat), CRIT Rate, CRIT DMG, ATK, Elemental Mastery
+Goblet:
+Cryo DMG
+(main stat), ATK %, CRIT Rate, CRIT DMG, ATK
+Circlet:
+CRIT Rate
+(main stat), ATK %, CRIT DMG, ATK, Elemental Mastery
+Best Skirk teams – Genshin Impact
+Skirk's best team archetype is Freeze, but any Cryo comps will do. / HoYoverse
+Skirk prefers party members of the Hydro and Cryo variety, as these allow her to make full use of her Talents — and she can passively boost their own effectiveness, as she bolsters the Skill level of Hydro and Cryo allies thanks to her experience as a mentor.
+Skirk
+(Main DPS),
+Furina
+(Sub DPS),
+Shenhe
+(Support),
+Escoffier
+(Support)
+A Freeze team, therefore, is the ideal composition for Skirk. Shenhe and Escoffier both provide a variety of potent buffs to the Main DPS in addition to keeping the team healed up. Furina, too, provides offensive boosts but mainly supplies the off-field Hydro application needed to keep the enemy frozen. This team also requires minimal field time, leaving the stage to Skirk.
+https://images2.minutemediacdn.com/image/upload/v1745850508/images/voltaxMediaLibrary/mmsport/dbltap_en_international_web/01jsycs7y52samqphjqa.jpg. Furina. https://images2.minutemediacdn.com/image/upload/v1745482966/images/voltaxMediaLibrary/mmsport/dbltap_en_international_web/01jske8rhphj475y5nfh.png. Escoffier. Genshin Impact Skirk synergies. https://images2.minutemediacdn.com/image/upload/v1746544076/images/voltaxMediaLibrary/mmsport/dbltap_en_international_web/01jtk278rjkgar7a7b2e.jpg. Citlali
+Citlali, Layla, and Dahlia are robust alternatives to Escoffier, while
+Kokomi
+, Yelan, and Xingqiu are capable of replacing Furina.
+Skirk ascension materials – Genshin Impact
+You’ll want to quickly raise Skirk’s level when you finally get her, which means that you’ll need to farm her ascension materials. You’ll also require some material to upgrade her talents.
+Here’s what you need to get Skirk to level 90:
+Shivada Jade Sliver
+x1
+Shivada Jade Fragment
+x9
+Shivada Jade Chunk
+x9
+Shivada Jade Gemstone
+x6
+Meshing Gear
+x18
+Mechanical Spur Gear
+x30
+Artificed Dynamic Gear
+x36
+Skysplit Gembloom
+x168
+Ensnaring Gaze
+x46
+Mora
+x2,092,600
+Shivada Jade is available from any Cryo-affiliated boss on the world map, such as the Cryo Regisvine or the Cryo Hypostasis. Gears are available from Geological Survey Meks found in Fontaine. Skysplit Gemblooms are found in Natlan’s Atocpan area. Tenebrous Gaze is a drop from the Tenebrous Papilla: Type I found in Natlan. The best way to earn more Mora is to farm golden Ley Line Blossoms.
+Here’s what you need to upgrade all of Skirk’s talents to their maximum level:
+Meshing Gear
+x18
+Mechanical Spur Gear
+x66
+Artificed Dynamic Gear
+x93
+Teachings of Contention
+x9
+Guide to Contention
+x63
+Philosophies of Contention
+x114
+Ascended Sample: Knight
+x18
+Crown of Insight
+x3
+Mora
+x4,957,500
+For the materials already mentioned, check above. Scrolls of Contention can be farmed at the Blazing Ruins Domain in Natlan on Monday, Thursday, and Sunday. Ascended Sample: Knight is a boss material obtained from Wager with the Mages. Crowns of Insight are a rare item gained from time-limited events or regional reward mechanics like the Grand Narukami Shrine in Inazuma, the Tree of Dreams in Sumeru, the Fountain of Lucine in Fontaine, or the Tablet of Tona in Natlan.
+Next. Genshin Impact – All current and upcoming characters. Genshin Impact – All current and upcoming characters. dark
+Home
+/
+Guides

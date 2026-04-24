@@ -1,0 +1,56 @@
+options iteration=1000 duration=10.5 swap_delay=6 workers=4;
+options hitlag=true defhalt=false ignore_burst_energy=true;
+
+target lvl=100 resist=0.1 pos=1,0 radius=3 freeze_resist=0;
+
+active emilie;
+
+# =========================
+# 캐릭터 1 (emilie)
+# =========================
+emilie char lvl=90/90 cons=0 talent=9,9,9;
+emilie add weapon="athousandblazingsuns" refine=1 lvl=90/90;
+emilie add set="deepwoodmemories" count=4;
+
+# =========================
+# 캐릭터 2 (bennett)
+# =========================
+bennett char lvl=90/90 cons=0 talent=9,9,9;
+bennett add weapon="skywardblade" refine=1 lvl=90/90;
+bennett add set="noblesseoblige" count=4;
+
+# =========================
+# 캐릭터 3 (wriothesley)
+# =========================
+wriothesley char lvl=90/90 cons=0 talent=9,9,9;
+wriothesley add weapon="cashflowsupervision" refine=1 lvl=90/90;
+wriothesley add set="marechausseehunter" count=4;
+
+# =========================
+# 캐릭터 4 (furina)
+# =========================
+furina char lvl=90/90 cons=0 talent=9,9,9;
+furina add weapon="splendoroftranquilwaters" refine=1 lvl=90/90;
+furina add set="goldentroupe" count=4;
+
+
+# =========================
+# Entry Order
+# =========================
+# furina -> wriothesley -> emilie -> bennett
+
+# =========================
+# Rotation
+# =========================
+furina skill;
+furina burst;
+furina attack;
+wriothesley skill;
+wriothesley burst;
+wriothesley attack;
+emilie skill;
+emilie burst;
+emilie attack;
+bennett skill;
+bennett burst;
+bennett attack;

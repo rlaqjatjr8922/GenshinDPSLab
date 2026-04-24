@@ -1,0 +1,932 @@
+Genshin Impact Xilonen Best Team Guide
+Last updated April 24, 2026. Looking for the best Xilonen teams in
+        Genshin Impact? Start with the top team summary below, then pick the
+        lineup that fits your roster.
+This page provides the best team info for Xilonen, primarily a Support (can also be built as a secondary DPS). Top team archetypes include Geo DEF/Shield comps (with Gorou), Hydro-synergy/HP-management teams (with Furina/Aino), and general sustain/res‑shred support teams. Team positions are flexible and Xilonen can be swapped or tuned depending on your roster and build.
+View Xilonen's character page
+Xilonen Team Summary
+#1
+Team Rating:S
+Xilonen Plunge Attack Team #1
+C6
+#2
+Team Rating:S
+Xilonen Vaporize Mualani Team
+#3
+Team Rating:SS
+Xilonen Melt Team
+#4
+Team Rating:S
+Xilonen Pure Pyro Arlecchino Hypercarry
+#5
+Team Rating:S
+Xilonen Vaporize Arlecchino Furina Bennett
+#6
+Team Rating:SS
+Xilonen Pure Hydro Neuvillette Furina Kazuha
+#7
+Team Rating:SS
+Xilonen Vaporization Team #4
+#8
+Team Rating:SS
+xilonen_melting_vaporization_team
+#9
+Team Rating:S
+Xilonen Electro Plunge Team
+#10
+Team Rating:SS
+Xilonen Lunar-Charged Flins Hypercarry
+#11
+Team Rating:S
+Xilonen Pyro Klee Overload
+#1 Xilonen Plunge Attack Team #1
+Tier S
+Xilonen is the Main DPS and deals most of her damage through Plunging Attacks, heavily amplified by her teammates' buffs, Geo support, Hydro off-field damage, and healing.
+This team focuses on maximizing Plunge damage while maintaining Furina's HP-drain synergy and Xianyun's Plunging Attack support.
+Xilonen
+Main DPS
+Geo
+Main damage dealer of the team. Focuses on Plunging Attacks and benefits greatly from teamwide buffs to maximize her plunge damage.
+Artifacts
+Obsidian Codex
+Main Stats
+Sands
+DEF%
+Goblet
+Geo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Peak Patrol Song
+Flute of Ezpitzal
+Favonius Sword
+Gorou
+Support
+Geo
+Constellation 6+
+Provides Geo DMG Bonus and DEF Bonus, especially valuable at C6. Also serves as a battery with Favonius Warbow.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+DEF%
+Goblet
+Geo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / Energy Recharge / DEF%
+Weapons
+Favonius Warbow
+Furina
+Sub DPS
+Hydro
+Off-field Hydro application plus a powerful team damage buff through her Burst based on HP changes. Her Skill enables steady Hydro application and HP fluctuation synergy.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Favonius Sword
+Xianyun
+Support
+Anemo
+Healer and Plunging Attack enabler/buffer for Xilonen. Helps sustain the team and boosts plunge performance.
+Artifacts
+Gladiator's Finale
+Shimenawa's Reminiscence
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+ATK%
+Substats
+Energy Recharge / ATK% / CRIT Rate
+Weapons
+Crane's Echoing Call
+Oathsworn Eye
+#2 Xilonen Vaporize Mualani Team
+Tier S
+Vaporize team built around Mualani
+with Xilonen providing RES shred and healing, Xiangling supplying off-field Pyro application, and Zhongli offering strong shielding and Tenacity buffs.
+Mualani
+Main DPS
+Hydro
+On-field Hydro driver and main damage dealer. Uses Nightsoul’s Blessing and enhanced Normal Attacks to trigger Shark Missiles for bursty Vaporize damage.
+Artifacts
+Obsidian Codex
+Main Stats
+Sands
+HP%
+Goblet
+Hydro DMG
+Circlet
+Elemental Mastery
+Substats
+HP% / CRIT DMG / CRIT Rate / Elemental Mastery / Energy Recharge
+Weapons
+Surf's Up
+Sacrificial Jade
+Xilonen
+Support
+Geo
+Provides elemental RES shred through Samplers and also offers team healing. Best used with
+Scroll of the Hero of Cinder City
+to amplify team damage.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Peak Patrol Song
+Favonius Sword
+Xiangling
+Sub DPS
+Pyro
+Off-field Pyro applicator and source of strong Burst damage, enabling Vaporize reactions for Mualani.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Engulfing Lightning
+Favonius Lance
+Zhongli
+Support
+Geo
+Provides a very strong shield for comfort and survivability, while
+Tenacity of the Millelith
+boosts team ATK.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+CRIT Rate / Energy Recharge
+Weapons
+Favonius Lance
+#3 Xilonen Melt Team
+Tier SS
+A high-damage Melt-focused team built around Chasca’s flexible elemental shots, with Xilonen providing resistance shred and healing, Citlali adding shields and extra Cryo application, and Bennett supplying a massive ATK buff plus healing.
+Chasca
+Main DPS
+Anemo
+Main DPS of the team. Chasca can alter the properties of her Shadowhunt Shells based on her teammates’ elements, allowing her to trigger strong reactions on her own.
+Artifacts
+Obsidian Codex
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Astral Vulture's Crimson Plumage
+Flower-Wreathed Feathers
+Xilonen
+Support
+Geo
+Provides Samplers that reduce enemy Elemental RES when active, while also offering healing for the team.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+DEF
+Circlet
+DEF
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Peak Patrol Song
+Favonius Sword
+Citlali
+Support
+Cryo
+Provides a shield based on Elemental Mastery and summons a creature that deals AoE Cryo damage. While active, nearby party members triggering Frozen or Melt will reduce affected enemies’ Pyro and Hydro RES.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge / CRIT DMG / CRIT Rate
+Weapons
+Starcaller's Watch
+Thrilling Tales of Dragon Slayers
+Bennett
+Support
+Pyro
+Burst provides a huge ATK buff and healing to the team.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+Energy Recharge / HP%
+Weapons
+Mistsplitter Reforged
+The Alley Flash
+#4 Xilonen Pure Pyro Arlecchino Hypercarry
+Tier S
+Pure Pyro hypercarry team centered around
+Arlecchino
+, with strong Pyro buffs, RES shred, grouping, and healing from the supports.
+Xilonen
+provides elemental RES reduction and healing,
+Kazuha
+adds grouping and Pyro DMG buff, and
+Bennett
+supplies a massive ATK buff and additional healing.
+Arlecchino
+Main DPS
+Pyro
+Primary on-field carry. Her attacks convert to Pyro DMG when Bond of Life is above 20%, and her Burst can deal AoE Pyro DMG while resetting her Skill CD.
+Artifacts
+Fragment of Harmonic Whimsy
+Main Stats
+Sands
+ATK%
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Crimson Moon's Semblance
+Deathmatch
+Xilonen
+Support
+Geo
+Provides Samplers that reduce enemy Elemental RES and also offers healing to the team.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Peak Patrol Song
+Favonius Sword
+Kaedehara Kazuha
+Support
+Anemo
+Groups enemies, provides crowd control, buffs team DMG, and reduces enemy Elemental RES via Viridescent Venerer.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge / CRIT Rate
+Weapons
+Freedom-Sworn
+Xiphos' Moonlight
+Bennett
+Support
+Pyro
+Elemental Burst provides a large ATK buff and healing for the team.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+Energy Recharge / HP%
+Weapons
+Mistsplitter Reforged
+The Alley Flash
+#5 Xilonen Vaporize Arlecchino Furina Bennett
+Tier S
+Vaporize-focused team built around
+Arlecchino
+as the on-field Pyro DPS, with
+Furina
+providing off-field Hydro application and DMG bonus, while
+Xilonen
+adds RES shred and healing.
+Bennett
+supplies a strong ATK buff and extra healing to stabilize Furina’s HP drain and support Arlecchino’s burst windows.
+Arlecchino
+Main DPS
+Pyro
+Main on-field damage dealer. Her attacks convert to Pyro while Bond of Life is above 20% HP, enabling consistent Vaporize reactions with Furina’s Hydro application. Her Burst deals AoE Pyro DMG, refreshes her Skill cooldown, and can heal herself.
+Artifacts
+Fragment of Harmonic Whimsy
+Main Stats
+Sands
+ATK%
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Crimson Moon's Semblance
+Deathmatch
+Xilonen
+Support
+Geo
+Provides elemental RES shred through her Samplers and offers team healing. Uses
+Scroll of the Hero of Cinder City
+to further support team damage.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Peak Patrol Song
+Favonius Sword
+Furina
+Sub DPS
+Hydro
+Off-field Hydro applicator and major damage amplifier. Her Skill provides sustained Hydro application, while her Burst increases team DMG based on HP fluctuations, which is enabled by her Skill and Bennett/Xilonen healing.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Favonius Sword
+Bennett
+Support
+Pyro
+Provides a massive ATK buff and healing through his Burst, helping offset Furina’s HP drain and boosting Arlecchino’s overall damage.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+Energy Recharge / HP%
+Weapons
+Mistsplitter Reforged
+The Alley Flash
+#6 Xilonen Pure Hydro Neuvillette Furina Kazuha
+Tier SS
+Pure Hydro core team built around
+Neuvillette
+as on-field carry, with
+Furina
+amplifying team damage,
+Kazuha
+providing grouping and Anemo resistance shred, and
+Xilonen
+supplying Geo support utility, healing, and additional RES reduction. Strong, comfortable, and high-ceiling Hydro-focused composition.
+Neuvillette
+Main DPS
+Hydro
+Main on-field DPS. Prioritize Charged Attack damage and overall HP scaling. Best when supported by Hydro buffs, RES shred, and interruption control.
+Artifacts
+Marechaussee Hunter
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Tome of the Eternal Flow
+Sacrificial Jade
+Furina
+Sub DPS
+Hydro
+Provides continuous Hydro application and massive team damage buffs through her Burst. Her HP fluctuation mechanic synergizes well with healing support.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Wolf-Fang
+Kaedehara Kazuha
+Support
+Anemo
+Groups enemies, provides strong crowd control, buffs team damage, and reduces enemy Elemental RES with Viridescent Venerer.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge / CRIT Rate
+Weapons
+Freedom-Sworn
+Xiphos' Moonlight
+Xilonen
+Support
+Geo
+Sampler-based support that reduces enemy elemental RES and offers healing to the team. Build for support uptime and healing consistency.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Peak Patrol Song
+Favonius Sword
+#7 Xilonen Vaporization Team #4
+Tier SS
+Vaporization team centered around
+Chasca
+as the on-field DPS, with
+Furina
+providing off-field Hydro application and team damage amplification.
+Xilonen
+supplies RES shred and healing, while
+Bennett
+adds a massive ATK buff and sustain.
+Chasca
+Main DPS
+Anemo
+On-field driver of the team. Chasca can alter the properties of her Shadowhunt Shells based on teammates' elemental attributes, enabling her to trigger multiple elemental reactions.
+Artifacts
+Obsidian Codex
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Astral Vulture's Crimson Plumage
+Flower-Wreathed Feathers
+Furina
+Sub DPS
+Hydro
+Provides continuous Hydro application through her Elemental Skill. Her Burst increases team damage based on HP changes, which synergizes well with healing support.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Favonius Sword
+Xilonen
+Support
+Geo
+Applies Samplers to reduce enemies' elemental RES and provides healing to teammates.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Peak Patrol Song
+Favonius Sword
+Bennett
+Support
+Pyro
+His Elemental Burst provides a large ATK buff and healing, boosting the team's overall damage and survivability.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+Energy Recharge / HP%
+Weapons
+Mistsplitter Reforged
+The Alley Flash
+#8 xilonen_melting_vaporization_team
+Tier SS
+A premium Melt/Vaporize reaction team centered around
+Mualani
+as the on-field Hydro DPS, with
+Xilonen
+providing RES shred and healing,
+Mavuika
+supplying off-field Pyro application, and
+Citlali
+offering shielding plus elemental buffs/debuffs.
+Mualani
+Main DPS
+Hydro
+On-field driver and main damage dealer. Uses Nightsoul’s Blessing and Sharky Bite to trigger Shark Missiles for strong Vaporize-focused burst damage.
+Artifacts
+Obsidian Codex
+Main Stats
+Sands
+HP%
+Goblet
+Hydro DMG
+Circlet
+Elemental Mastery
+Substats
+HP% / CRIT DMG / CRIT Rate / Elemental Mastery / Energy Recharge
+Weapons
+Surf's Up
+Sacrificial Jade
+Xilonen
+Support
+Geo
+Provides elemental RES reduction through Samplers and adds valuable team healing. Core support for boosting Mualani’s reaction damage.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Peak Patrol Song
+Favonius Sword
+Mavuika
+Sub DPS
+Pyro
+Off-field Pyro applicator. Her skill summons a Ring of Searing Radiance that follows the active character and deals periodic Pyro damage to enable Melt/Vaporize reactions.
+Artifacts
+Obsidian Codex
+Main Stats
+Sands
+ATK%
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+A Thousand Blazing Suns
+Fang of the Mountain King
+Serpent Spine
+Citlali
+Support
+Cryo
+Provides a shield based on Elemental Mastery and summons Cryo application. Also reduces enemy Pyro and Hydro RES when Freeze or Melt reactions are triggered nearby.
+Artifacts
+Instructor
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge / CRIT DMG / CRIT Rate
+Weapons
+Starcaller's Watch
+Sacrificial Fragments
+#9 Xilonen Electro Plunge Team
+Tier S
+Electro plunge-focused team built around Varesa’s Apex Drive state and enhanced by Xianyun’s plunge buffs, Xilonen’s RES shred/healing, and Iansan’s ATK buff. Strong single-target and burst damage with excellent team comfort.
+Varesa
+Main DPS
+Electro
+Primary on-field damage dealer. Build for Plunge Attack synergy and burst uptime. Her Nightsoul/Apex Drive state lets her use a special Elemental Burst with lower energy needs.
+Artifacts
+Long Night's Oath
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / ATK% / Energy Recharge
+Weapons
+Vivid Notions
+The Widsith
+Xilonen
+Support
+Geo
+Provides elemental RES reduction through Samplers and also offers healing. Prioritize support uptime and enough Energy Recharge for consistent Burst usage.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Peak Patrol Song
+Favonius Sword
+Xianyun
+Support
+Anemo
+Enables and amplifies plunge-based gameplay by increasing teammates’ Plunge Attack CRIT Rate and damage. Use as the main plunge enabler and team buffer.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Energy Recharge
+Goblet
+ATK%
+Circlet
+ATK%
+Substats
+ATK% / Energy Recharge / CRIT Rate
+Weapons
+Crane's Echoing Call
+Favonius Codex
+Iansan
+Support
+Electro
+ATK buffer whose Burst scales off her own ATK when Nightsoul Points are high. Provides mobile buffing without a fixed field, making rotations more flexible.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+ATK%
+Substats
+CRIT Rate / ATK% / Energy Recharge
+Weapons
+Favonius Lance
+#10 Xilonen Lunar-Charged Flins Hypercarry
+Tier SS
+Lunar-Charged team built around
+Flins
+as the on-field main DPS, with
+Aino
+enabling Hydro application,
+Xilonen
+providing RES shred and healing, and
+Ineffa
+adding shielding plus Lunar-Charged amplification.
+Note: the guide labels some characters' elements inconsistently; roles and build recommendations were extracted from the provided text.
+Flins
+Main DPS
+Electro
+On-field carry. His Elemental Skill transforms him into Manifest Flame form, converting Normal Attacks into Electro DMG. In this state, his Skill is enhanced, and after using it he can unleash a Special Elemental Burst dealing Lunar-Charged AoE Electro DMG. He also converts allies' Electro-Charged DMG into Lunar-Charged DMG, with damage scaling based on his ATK.
+Artifacts
+Night of the Sky's Unveiling
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge / Elemental Mastery
+Weapons
+Bloodsoaked Ruins
+Deathmatch
+Aino
+Support
+Hydro
+Hydro enabler. Her Elemental Burst deals continuous Hydro DMG by summoning the Cool Your Jets Ducky.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / Energy Recharge
+Weapons
+Flame-Forged Insight
+Xilonen
+Support
+Geo
+Provides Samplers that reduce enemies' Elemental RES and also offers team healing.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+DEF%
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Peak Patrol Song
+Flute of Ezpitzal
+Ineffa
+Support
+Electro
+Shielding support and Lunar-Charged enabler. Her passive converts Electro-Charged into Lunar-Charged, with Lunar-Charged damage scaling from her ATK. Her Skill provides a shield and summons Birgitta, which triggers additional attacks from Lunar-Charged reactions. Her Burst increases the active character's Elemental Mastery.
+Artifacts
+Silken Moon's Serenade
+Main Stats
+Sands
+ATK%
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Fractured Halo
+Ballad of the Fjords
+#11 Xilonen Pyro Klee Overload
+Tier S
+Xilonen Pyro Team #2
+A Pyro-focused team built around Klee’s on-field damage, with Xilonen providing healing and RES shred, Bennett supplying a massive ATK buff and healing, and Durin adding off-field Pyro damage plus extra reaction/RES utility. Best played with Klee driving field time while teammates maintain buffs and off-field pressure.
+Klee
+Main DPS
+Pyro
+On-field Pyro DPS and primary damage dealer. Klee uses her Skill and Burst to generate Explosive Sparks and deal sustained AoE Pyro damage. Her Charged Attack becomes a stamina-free Boom-Boom Strike during her Burst windows.
+Artifacts
+Lavawalker
+Main Stats
+Sands
+ATK%
+Goblet
+ATK% / Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Cashflow Supervision
+The Widsith
+Xilonen
+Support
+Geo
+Provides healing and elemental RES reduction through her Samplers. Uses Scroll of the Hero of Cinder City to support the team’s overall damage output.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Peak Patrol Song
+Favonius Sword
+Durin
+Sub DPS
+Pyro
+Off-field Pyro support with state-dependent utility. Confirmation of Purity emphasizes team utility and RES shredding, while Denial of Darkness increases personal damage and reaction damage in Vaporize/Melt teams.
+Artifacts
+Noblesse Oblige
+Flower of Paradise Lost
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / Energy Recharge / ATK%
+Weapons
+Athame Artis
+Wolf-Fang
+Bennett
+Support
+Pyro
+Provides a huge ATK buff and healing with his Elemental Burst. Standard Noblesse holder and a core buffer for Klee-centric Pyro teams.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+Energy Recharge / HP%
+Weapons
+Mistsplitter Reforged
+The Alley Flash
+Xilonen Teams FAQ
+What is the best Xilonen team in Genshin Impact?
+Xilonen Plunge Attack Team #1 is one of the strongest Xilonen teams right now. Use the team summary and build cards on this page to pick the best version for your account.
+What are good Xilonen teams without premium weapons?
+You can run strong Xilonen teams without signature weapons by prioritizing reaction synergy, energy consistency, and artifact main stats shown in each build card.
+Which teammates are best with Xilonen?
+Common high-performing partners include teams such as Xilonen Plunge Attack Team #1, Xilonen Vaporize Mualani Team, Xilonen Melt Team. Check each lineup section for role breakdowns and gear priorities.

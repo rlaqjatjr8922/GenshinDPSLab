@@ -1,0 +1,580 @@
+Genshin Impact Tartaglia Build
+Bow
+Hydro
+Fatui
+20/7
+Monoceros Caeli
+Forsaken Rift
+No. 11 of The Harbingers, also known as "Childe." His name is highly feared on the battlefield.
+Best builds for Tartaglia
+DPS Build
+Weapons
+1
+Polar Star
+CRIT Rate
+2
+Hunter's Path
+CRIT Rate
+3
+Aqua Simulacra
+CRIT DMG
+4
+Skyward Harp
+CRIT Rate
+5
+Thundering Pulse
+CRIT DMG
+6
+Astral Vulture's Crimson Plumage
+CRIT DMG
+7
+The First Great Magic
+CRIT DMG
+8
+The Viridescent Hunt
+CRIT Rate
+9
+King's Squire
+R
+5
+ATK%
+10
+Amos' Bow
+ATK%
+11
+The Stringless
+R
+5
+Elemental Mastery
+12
+Scion of the Blazing Sun
+CRIT Rate
+13
+Blackcliff Warbow
+CRIT DMG
+14
+Chain Breaker
+R
+5
+ATK%
+15
+Windblume Ode
+R
+5
+Elemental Mastery
+16
+Hamayumi
+R
+5
+ATK%
+17
+Mouun's Moon
+ATK%
+18
+Rust
+R
+5
+ATK%
+Artifacts
+1
+Nymph's Dream
+4
+2
+Heart of Depth
+4
+3
+Hydro DMG Bonus +15% set
+2
+ATK +18% set
+2
+Choose 2
+Noblesse Oblige
+2
+Hydro DMG Bonus +15% set
+2
+ATK +18% set
+2
+5
+Shimenawa's Reminiscence
+4
+Substats Priority
+1
+CRIT Rate
+2
+CRIT DMG
+3
+ATK%
+4
+Elemental Mastery
+5
+Energy Recharge
+Talents Priority
+1
+E
+Skill
+2
+Q
+Burst
+3
+NA
+Normal Attack
+Recommended Primary Stats
+Sands
+ATK%
+Goblet
+Hydro DMG Bonus
+Circlet
+CRIT Rate / CRIT DMG
+Genshin Impact Game Note:
+Skill Duration:
+- For
+[C0]
+: Optimal durations are
+7s
+,
+9s
+, or
+12s
+.
+- For
+[C1]
+: Optimal durations are
+9s
+,
+11s
+, or
+14s
+.
+Melee Burst:
+Use Melee Burst only in situations where you need only 1 rotation to clear, as the ER requirement to maintain burst uptime is quite high (
+170-190%
+ER). Always start your rotations with Ranged Burst, as it refunds energy to maintain your rotation well.
+Skill Combo:
+-
+Optimal:
+2 NA + 1 CA
+-
+Recommended:
+3 NA + 1 CA
+-
+Recommended (Rust or Thundering Pulse):
+5 NA + 1 CA
+NA
+= Normal Attack,
+CA
+= Charged Attack
+Notes:
+- The Optimal combo provides more damage but consumes more stamina.
+- The Recommended combo provides slightly less damage but is stamina neutral and what most weapons should use.
+Game Abbreviations:
+- NA: Normal Attack
+- CA: Charged Attack
+- ER: Energy Recharge
+- EM: Elemental Mastery
+Formatting Rules:
+- Separate different topics with line breaks
+- Group related information together
+- Use lists for multiple items/steps
+- Keep game abbreviations (EM, ER, etc.)
+- Format percentages consistently
+Most-used community build
+This build is based on the community's most-used artifacts and weapons. Submit your UID to help improve this data.
+Weapons
+1
+Polar Star
+CRIT Rate
+2
+Skyward Harp
+CRIT Rate
+3
+Rust
+ATK%
+4
+Thundering Pulse
+CRIT DMG
+5
+The Viridescent Hunt
+CRIT Rate
+Artifacts
+1
+Heart of Depth
+4
+2
+Gladiator's Finale
+2
+Heart of Depth
+2
+3
+Nymph's Dream
+4
+4
+Heart of Depth
+2
+Shimenawa's Reminiscence
+2
+5
+Heart of Depth
+2
+Noblesse Oblige
+2
+Best teams for Tartaglia
+Open the full Tartaglia team guide
+#
+1
+C2
+#
+2
+C2
+#
+3
+C2
+#
+4
+C6
+#
+5
+C6
+#
+6
+#
+7
+Tartaglia Skills
+Cutting Torrent
+Normal Attack
+Performs up to 6 consecutive shots with a bow.
+Charged Attack
+Performs a more precise
+Aimed Shot
+with increased DMG.
+While aiming, the power of Hydro will accumulate on the arrowhead. An arrow fully charged with the torrent will deal
+Hydro DMG
+and apply the Riptide status.
+Riptide
+Opponents affected by Riptide will suffer from
+AoE Hydro DMG
+effects when attacked by Tartaglia in various ways. DMG dealt in this way is considered Normal Attack DMG.
+·Riptide Flash: A fully-charged Aimed Shot that hits an opponent affected by Riptide deals consecutive bouts of AoE DMG. Can occur once every 0.7s.
+·Riptide Burst: Defeating an opponent affected by Riptide creates a Hydro burst that inflicts the Riptide status on nearby opponents hit.
+Plunging Attack
+Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.
+When Tartaglia is in Foul Legacy: Raging Tide's Melee Stance, he cannot perform a plunging attack.
+Level
+1
+1-Hit DMG
+41.3%
+2-Hit DMG
+46.3%
+3-Hit DMG
+55.4%
+4-Hit DMG
+57%
+5-Hit DMG
+60.9%
+6-Hit DMG
+72.8%
+Aimed Shot
+43.9%
+Fully-Charged Aimed Shot
+124%
+Riptide Flash DMG
+12.4%×3
+Riptide Burst DMG
+62%
+Riptide Duration
+10s
+Plunge DMG
+63.9%
+Low/High Plunge DMG
+127.8% / 159.7%
+Foul Legacy: Raging Tide
+He chose the bow as his weapon precisely to overcome his weakness with it. But a serious fight demands that he gets serious...
+Unleashes a set of weaponry made of pure water, dealing
+Hydro DMG
+to surrounding opponents and entering Melee Stance.
+In this Stance, Tartaglia's Normal and Charged Attacks are converted to
+Hydro DMG
+that cannot be overridden by any other elemental infusion and change as follows:
+Normal Attack
+Performs up to 6 consecutive
+Hydro
+strikes.
+Charged Attack
+Consumes a certain amount of Stamina to unleash a cross slash, dealing
+Hydro DMG
+.
+Riptide Slash
+Hitting an opponent affected by Riptide with a melee attack unleashes a Riptide Slash that deals
+AoE Hydro DMG
+. DMG dealt in this way is considered Elemental Skill DMG, and can only occur once every 1.5s.
+After 30s, or when the ability is unleashed again, this skill will end. Tartaglia will return to his Ranged Stance and this ability will enter CD. The longer Tartaglia stays in his Melee Stance, the longer the CD.
+If the return to a ranged stance occurs automatically after 30s, the CD is even longer.
+Level
+1
+Stance Change DMG
+72%
+1-Hit DMG
+38.9%
+2-Hit DMG
+41.6%
+3-Hit DMG
+56.3%
+4-Hit DMG
+59.9%
+5-Hit DMG
+55.3%
+6-Hit DMG
+35.4% + 37.7%
+Charged Attack DMG
+60.2% + 72%
+Charged Attack Stamina Cost
+20
+Riptide Slash
+60.2%
+Max Duration
+30s
+Preemptive CD
+6-36s
+Max CD
+45s
+Havoc: Obliteration
+Rushing waters are rarely seen in his snowy homeland. Perhaps his ability to command water is due to his understanding of just how precious it is.
+Performs different attacks based on what stance Tartaglia is in when casting.
+Ranged Stance: Flash of Havoc
+Swiftly fires a Hydro-imbued magic arrow, dealing
+AoE Hydro DMG
+and applying the Riptide status.
+Returns a portion of its Energy Cost after use.
+Melee Stance: Light of Obliteration
+Performs a slash with a large AoE, dealing massive
+Hydro DMG
+to all surrounding opponents, which triggers Riptide Blast.
+Riptide Blast
+When the obliterating waters hit an opponent affected by Riptide, it clears their Riptide status and triggers a Hydro Explosion that deals
+AoE Hydro DMG
+.
+DMG dealt in this way is considered Elemental Burst DMG.
+Level
+1
+Skill DMG: Melee
+464%
+Skill DMG: Ranged
+378.4%
+Riptide Blast DMG
+120%
+Energy Return (Ranged)
+20
+CD
+15s
+Energy Cost
+60
+Passive Talents
+Never Ending
+Ascension Phase 1
+Extends Riptide duration by 8s.
+Sword of Torrents
+Ascension Phase 4
+When Tartaglia is in
+Foul Legacy: Raging Tide
+'s Melee Stance, on dealing a CRIT hit, Normal and Charged Attacks apply the Riptide status effect to opponents.
+Master of Weaponry
+Passive
+Increases your own party members'
+Normal Attack
+Level by 1.
+Constellations
+Foul Legacy: Tide Withholder
+Constellation Lv. 1
+Decreases the CD of
+Foul Legacy: Raging Tide
+by 20%.
+Foul Legacy: Understream
+Constellation Lv. 2
+When opponents affected by Riptide are defeated, Tartaglia regenerates 4 Elemental Energy.
+Abyssal Mayhem: Vortex of Turmoil
+Constellation Lv. 3
+Increases the Level of
+Foul Legacy: Raging Tide
+by 3.
+Maximum upgrade level is 15.
+Abyssal Mayhem: Hydrospout
+Constellation Lv. 4
+If Tartaglia is in
+Foul Legacy: Raging Tide
+'s Melee Stance, triggers Riptide Slash against opponents on the field affected by Riptide every 4s, otherwise, triggers Riptide Flash.
+Riptide Slashes and Riptide Flashes triggered by this Constellation effect are not subject to the time intervals that would typically apply to these two Riptide effects, nor do they have any effect on those time intervals.
+Havoc: Formless Blade
+Constellation Lv. 5
+Increases the Level of
+Havoc: Obliteration
+by 3.
+Maximum upgrade level is 15.
+Havoc: Annihilation
+Constellation Lv. 6
+When
+Havoc: Obliteration
+is cast in Melee Stance, the CD of
+Foul Legacy: Raging Tide
+is reset.
+This effect will only take place once Tartaglia returns to his Ranged Stance.
+Outfits
+Blades of Glory
+Default
+Tartaglia's outfit. Illustrious attire that signifies Childe's position as the eleventh Fatui Harbinger.
+Stats
+Lv.
+1
+Lv.
+20
+Lv.
+40
+Lv.
+50
+Lv.
+60
+Lv.
+70
+Lv.
+80
+Lv.
+90
+Before Ascension
+After Ascension
+Ascend
+-
+1
+Base HP
+-
+1020
+Base ATK
+-
+23
+Base DEF
+-
+63
+Hydro DMG Bonus
+-
+0.0%
+Ascension Materials
+View ascension details
+Total
+420000
+1
+9
+9
+6
+46
+168
+18
+30
+36
+Talent Materials
+LV.
+1
+→
+2
+12500
+Mora
+3
+Teachings of Freedom
+6
+Recruit's Insignia
+LV.
+2
+→
+3
+17500
+Mora
+2
+Guide to Freedom
+3
+Sergeant's Insignia
+LV.
+3
+→
+4
+25000
+Mora
+4
+Guide to Freedom
+4
+Sergeant's Insignia
+LV.
+4
+→
+5
+30000
+Mora
+6
+Guide to Freedom
+6
+Sergeant's Insignia
+LV.
+5
+→
+6
+37500
+Mora
+9
+Guide to Freedom
+9
+Sergeant's Insignia
+LV.
+6
+→
+7
+120000
+Mora
+4
+Philosophies of Freedom
+4
+Lieutenant's Insignia
+1
+Shard of a Foul Legacy
+LV.
+7
+→
+8
+260000
+Mora
+6
+Philosophies of Freedom
+6
+Lieutenant's Insignia
+1
+Shard of a Foul Legacy
+LV.
+8
+→
+9
+450000
+Mora
+12
+Philosophies of Freedom
+9
+Lieutenant's Insignia
+2
+Shard of a Foul Legacy
+LV.
+9
+→
+10
+700000
+Mora
+16
+Philosophies of Freedom
+12
+Lieutenant's Insignia
+2
+Shard of a Foul Legacy
+1
+Crown of Insight
+Total
+1652500
+3
+21
+38
+6
+22
+31
+6
+1

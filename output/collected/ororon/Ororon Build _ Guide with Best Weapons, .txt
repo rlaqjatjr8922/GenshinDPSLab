@@ -1,0 +1,315 @@
+Ororon
+4
+★
+Bow
+Electro
+A young man from the Masters of the Night-Wind who instead lives in the wild alongside all manner of life
+.
+Basic Stats
+Nv.
+90
+HP
+9244
+ATK
+244
+DEF
+587
+ATK
+24%
+Basic Stats
+Nv.
+90
+HP
+9244
+ATK
+244
+DEF
+587
+ATK
+24%
+Ororon
+Ascension Materials
+Vajrada Amethyst Sliver
+Glowing Hornshroom
+Mark of the Binding Blessing
+Juvenile Fang
+Teachings of Kindling
+Lightless Silk String
+Ororon
+Best Weapon
+Elegy for the End
+Level
+.
+90
+ATK
+608
+Energy Recharge
+55.1%
+Refinement
+.
+5
+A part of the "Millennial Movement" that wanders amidst the winds. Increases Elemental Mastery by 120. When the Elemental Skills or Elemental Bursts of the character wielding this weapon hit opponents, that character gains a Sigil of Remembrance. This effect can be triggered once every 0.2s and can be triggered even if said character is not on the field. When you possess 4 Sigils of Remembrance, all of them will be consumed and all nearby party members will obtain the "Millennial Movement: Farewell Song" effect for 12s. "Millennial Movement: Farewell Song" increases Elemental Mastery by 200 and increases ATK by 40%. Once this effect is triggered, you will not gain Sigils of Remembrance for 20s. Of the many effects of the "Millennial Movement," buffs of the same type will not stack.
+Other Weapons
+2
+°
+Aqua Simulacra
+CRIT DMG
+3
+°
+Amos' Bow
+ATK
+4
+°
+Chain Breaker
+ATK
+Ororon
+Best Artifact Set
+Scroll of the Hero of Cinder City
+2 Pc
+:
+When a nearby party member triggers a Nightsoul Burst, the equipping character regenerates 6 Elemental Energy.
+4 Pc
+:
+After the equipping character triggers a reaction related to their Elemental Type, all nearby party members gain a 12% Elemental DMG Bonus for the Elemental Types involved in the elemental reaction for 15s. If the equipping character is in the Nightsoul's Blessing state when triggering this effect, all nearby party members gain an additional 28% Elemental DMG Bonus for the Elemental Types involved in the elemental reaction for 20s. The equipping character can trigger this effect while off-field, and the DMG bonus from Artifact Sets with the same name do not stack.
+Artifacts Main Stats
+Sands
+:
+ATK % / ER %
+Goblet
+:
+Electro Bonus
+Circlet
+:
+Crit Rate / Crit Damage
+Artifacts Substats
+Crit Rate
+Crit Damage
+ATK %
+Energy Recharge
+Other Artifacts Sets
+2
+°
+4x
+Thundering Fury
+3
+°
+4x
+Emblem of Severed Fate
+Ororon
+Talent Priority
+1
+°
+Elemental Burst
+2
+°
+Elemental Skill
+Ororon
+Best Teams
+Time #
+1
+Main DPS
+Sub-DPS
+Sub-DPS
+Support
+Ayato
+Ororon
+Fischl
+Sucrose
+Time #
+2
+Main DPS
+Sub-DPS
+Sub-DPS
+Support
+Chasca
+Ororon
+Furina
+Bennett
+Ororon
+Ascension Costs
+Cost
+5
+→
+6
+120
+K
+Vajrada Amethyst Gemstone
+6
+Mark of the Binding Blessing
+20
+Glowing Hornshroom
+60
+Tyrant's Fang
+24
+Ororon
+Talents Costs
+Cost
+9
+→
+10
+700
+K
+Philosophies of Kindling
+16
+Tyrant's Fang
+12
+Lightless Silk String
+2
+Crown of Insight
+1
+Ororon
+Talents
+Normal Attack
+Spiritvessel Snapshot
+Normal Attack
+Performs up to 3 consecutive shots with a bow.
+Charged Attack
+Performs a more precise
+Aimed Shot
+with increased DMG.
+While aiming, Electro energy will accumulate on the arrowhead. A fully charged arrow will deal
+Electro DMG
+.
+Plunging Attack
+Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.
+Elemental Skill
+Night's Sling
+Ororon manifests an ancient mystical technique from the Masters of the Night-Wind as a
+Spirit Orb
+of midnight shade and throws it at his foe, dealing Nightsoul-aligned
+Electro DMG
+.
+When other opponents are nearby, the Spirit Orb will bounce between them, dealing Nightsoul-aligned
+Electro DMG
+. Each time Night's Sling is used, each opponent can only be selected as a target once.
+After 3 bounces, or if there are no eligible targets left, the Orb will disappear.
+"People always wish to foretell the future, but that might be because they have yet to discover that which they must do... Sorry, I'm saying complicated things again, aren't I..."
+Elemental Burst
+Dark Voices Echo
+Ororon works an ancient ritual, dealing Nightsoul-aligned
+AoE Electro DMG
+, summoning forth a Supersonic Oculus.
+Supersonic Oculus
+·Continuously taunts nearby opponents and attracts attacks from them.
+·Continuously rotates and fires off sonic waves that deal Nightsoul-aligned
+Electro DMG
+.
+Those with sharp enough senses can hear the minute voices with which all things speak. That way, they will never lose their way — not even on long, lightless nights.
+Right Click
+Special Jump
+If this character is in Natlan, Hold to consume Phlogiston and execute a Rocket Double Jump. When Phlogiston is completely depleted, it will consume Stamina to execute the Double Jump instead.
+Ororon
+Passives
+Passive
+1
+Nightshade Synesthesia
+After a nearby party member triggers Nightsoul Burst, Ororon will gain 40 Nightsoul points. Within 15s after using his Elemental Skill, when other party members'
+Hydro
+or
+Electro
+attacks hit opponents, Ororon will gain 5 Nightsoul points, an effect that can occur every 0.3s for a maximum of 10 times during this 15s duration.
+Ororon can have a maximum of 80 Nightsoul points.
+Also, when nearby opponents take
+Electro-Charged or Lunar-Charged
+reaction DMG or Nightsoul-aligned DMG dealt by other nearby characters, Ororon will consume 10 Nightsoul points (provided he has at least that amount), entering the Nightsoul's Blessing state and triggering the Hypersense effect: Deal Nightsoul-aligned
+Electro DMG
+based on 160% of Ororon's ATK to at most 4 nearby opponents. The aforementioned effect can trigger once every 1.8s.
+Nightsoul's Blessing: Ororon
+Ororon's Nightsoul's Blessing state lasts 6s.
+Passive
+2
+Aspect Catalyst
+After the Elemental Skill
+Night's Sling
+'s
+Spirit Orb
+hits an opponent, Ororon will gain the Aspect Sigil effect for 15s.
+Aspect Sigil
+When a nearby active party member hits an opponent with Normal, Charged, or Plunging Attacks, that character will restore 3 Energy. If Ororon is off-field, Ororon will also restore 3 Energy. This effect can trigger once every 1s, and can trigger 3 times per duration.
+Passive
+3
+Night Realm's Gift: Flowing Fog, Spritely Shadows
+While in an area with Phlogiston Mechanics within Natlan, he can use Nightsoul Transmission: Ororon. When the active character is currently in the air, the following will trigger when switching to Ororon: Ororon will leap up high. Nightsoul Transmission can be triggered once every 10s by your party.
+Holding Aiming Mode will cause Ororon to enter the
+"Spiritspeaker"
+state, which will allow him to interact with
+"Nightspirit Graffiti"
+and
+"Nightspirit Sigils,"
+extracting information and power from them. The rules for interacting with these objects follow the same rules as those governing Iktomisaurus interactions.
+Additionally, holding the jump button will cause Ororon to consume 75 Stamina and leap. In areas within Natlan where Phlogiston mechanics are present, Ororon will prioritize consuming 5 Phlogiston to leap to a height higher still.
+When in the air, Ororon can Hold his Normal Attack to consume Phlogiston or Stamina and enter Aiming Mode.
+Passive
+4
+The Art of Skinchanging
+Increases gliding SPD for your own party members by 15%.
+Not stackable with Passive Talents that provide the exact same effects.
+Ororon
+Constellations
+C
+1
+Trails Amidst the Forest Fog
+The Elemental Skill
+Night's Sling
+'s
+Spirit Orb
+can bounce 2 additional times.
+Additionally, after the
+Spirit Orb
+hits an opponent, it will apply the Nighttide effect to them for 12s. Opponents affected by Nighttide take 50% increased DMG from Hypersense triggered by the Passive Talent,
+"Nightshade Synesthesia."
+Unlock the aforementioned Passive Talent to trigger this effect.
+C
+2
+King Bee of the Hidden Honeyed Wine
+After using his Elemental Burst,
+Dark Voices Echo
+, Ororon will obtain the Spiritual Supersense effect for 9s.
+Spiritual Supersense
+Gain 8%
+Electro DMG Bonus
+.
+Additionally, during this time, every additional opponent hit by the Elemental Burst
+Dark Voices Echo
+or
+Supersonic Oculus
+will grant Ororon a further 8%
+Electro DMG Bonus
+. The maximum that can be gained this way is 32%
+Electro DMG Bonus
+.
+C
+3
+Roosting Bat's Spiritcage
+Increases the Level of
+Dark Voices Echo
+by 3.
+Maximum upgrade level is 15.
+C
+4
+As the Mysteries of the Night Wind
+The
+Supersonic Oculus
+summoned by the Elemental Burst
+Dark Voices Echo
+rotates 25% faster.
+Additionally, Ororon will restore 8 Energy to himself after using
+Dark Voices Echo
+.
+C
+5
+A Gift For the Soul
+Increases the Level of
+Night's Sling
+by 3.
+Maximum upgrade level is 15.
+C
+6
+Ode to Deep Springs
+After triggering Hypersense through the Passive Talent, Nightshade Synesthesia, your current active character's ATK is increased by 10% for 9s. Max 3 stacks, each stack is counted independently.
+Additionally, when you use the Elemental Burst
+Dark Voices Echo
+, you will trigger one instance of an effect equivalent to Hypersense, dealing 200% of its original DMG.
+You must unlock the Passive Talent
+"Nightshade Synesthesia"
+first.

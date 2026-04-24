@@ -1,0 +1,559 @@
+Genshin Impact Clorinde Build
+Sword
+Electro
+Trial Court
+20/9
+Rapperia
+Pale Forgotten Glory
+An undefeated Champion Duelist. Sword in hand, she defends justice in the Court of Fontaine.
+Best builds for Clorinde
+DPS Build
+Weapons
+1
+Absolution
+CRIT DMG
+2
+Light of Foliar Incision
+CRIT DMG
+3
+Haran Geppaku Futsu
+CRIT Rate
+4
+Mistsplitter Reforged
+CRIT DMG
+5
+Primordial Jade Cutter
+CRIT Rate
+6
+Uraku Misugiri
+CRIT DMG
+7
+Freedom-Sworn
+Elemental Mastery
+8
+Calamity of Eshu
+R
+5
+ATK%
+9
+Finale of the Deep
+R
+5
+ATK%
+10
+The Black Sword
+CRIT Rate
+Artifacts
+1
+Fragment of Harmonic Whimsy
+4
+2
+Gladiator's Finale
+4
+3
+Thundering Fury
+4
+Substats Priority
+1
+CRIT Rate
+2
+CRIT DMG
+3
+ATK%
+4
+Elemental Mastery
+5
+Energy Recharge
+Talents Priority
+1
+E
+Skill
+2
+Q
+Burst
+3
+NA
+Normal Attack
+Recommended Primary Stats
+Sands
+ATK% / Elemental Mastery
+Goblet
+Electro DMG Bonus
+Circlet
+CRIT Rate / CRIT DMG
+Genshin Impact Game Note:
+Skill Combos:
+With Burst:
+- Q > E > E > <5N3E> > N2 or N3
+- Q > E > <6N3E>
+Without Burst:
+- E > <6N3E>
+N
+= Normal Attack
+E
+= Elemental Skill
+Q
+= Elemental Burst
+Elemental Mechanics:
+- Utilize
+Vaporize
+and
+Melt
+reactions for increased damage
+- Maintain
+Energy Recharge (ER)
+for consistent Elemental Burst usage
+Team Compositions:
+- Pyro, Hydro, Cryo, and Electro characters enable various reactions and synergies
+Artifact Sets:
+-
+Noblesse Oblige
+(4-piece) for Elemental Burst damage bonus
+-
+Gladiator's Finale
+(2-piece) and
+Wanderer's Troupe
+(2-piece) for Normal Attack and Elemental Skill damage bonus
+Weapons:
+- 5-star weapons:
+Skyward Spine
+,
+Primordial Jade Cutter
+- 4-star weapons:
+Serpent Spine
+,
+Blackcliff Longsword
+Farming Locations:
+- Artifacts:
+Domain of Forgery
+,
+Domain of Guyun
+- Weapons: Crafting, Blacksmith, or World Boss drops
+Clorinde
+is an Electro
+DPS
+who primarily deals damage with her Elemental Skill, which puts her into the Night Vigil state. Attacks during this state grant her a
+Bond of Life
+, and she can clear her Bond of Life by using her Elemental Skill again while in the Night Vigil state. It should be noted that while in the Night Vigil state, outside healing sources give Clorinde a Bond of Life instead of healing her. Clorinde's Elemental Burst also grants her a Bond of Life that increases based on her talent level.
+Regarding Weapon Choices:
+-
+Haran Geppaku Futsu
+,
+Primordial Jade Cutter
+: Be careful when using these weapons as it is easy to overcap on Crit Rate due to Clorinde's A4 talent giving her a free 20% Crit Rate.
+-
+Mistsplitter Reforged
+: Maximizing Stacks requires Clorinde to use her Elemental Burst before her Elemental Skill.
+-
+Freedom-Sworn
+: This weapon loses significant value outside of Dendro-based teams.
+-
+Calamity of Eshu
+: Ranking assumes Clorinde is being shielded by someone, most notably being Kirara.
+-
+The Black Sword
+(R5): This weapon will perform better than Finale of the Deep (R5).
+Regarding Artifact Sets:
+-
+Thundering Fury (4)
+: This set pulls ahead of Fragment of Harmonic Whimsy if Clorinde is played in Quickbloom with Furina, and is competitive with Fragment of Harmonic Whimsy in Aggravate.
+Regarding Main Stat Choices:
+-
+Sands
+: In Quickbloom, EM sands performs similarly to ATK% sands, and has a lower priority in Aggravate.
+Regarding Substats:
+-
+Elemental Mastery
+(EM): In Quickbloom scenarios, EM has a similar priority to ATK%, and has a lower priority in Aggravate. It should not be built outside of Dendro-based teams.
+-
+Energy Recharge
+(ER): Having ER rolls can allow Clorinde to be able to Burst every rotation, which is useful, however, ER should not be prioritized.
+Regarding Talent Priority:
+It is recommended to bring Clorinde's Elemental Burst talent to at least Level 7 to take full advantage of her A4 talent. This also allows for the Burst rotations as seen in the Ability Tips section.
+Most-used community build
+This build is based on the community's most-used artifacts and weapons. Submit your UID to help improve this data.
+Weapons
+1
+Absolution
+CRIT DMG
+2
+Finale of the Deep
+ATK%
+3
+Mistsplitter Reforged
+CRIT DMG
+4
+Light of Foliar Incision
+CRIT DMG
+5
+The Black Sword
+CRIT Rate
+Artifacts
+1
+Fragment of Harmonic Whimsy
+4
+2
+Gladiator's Finale
+4
+3
+Thundering Fury
+4
+4
+Fragment of Harmonic Whimsy
+2
+Gladiator's Finale
+2
+5
+Gladiator's Finale
+2
+Thundering Fury
+2
+Best teams for Clorinde
+Open the full Clorinde team guide
+#
+1
+#
+2
+C6
+C1
+#
+3
+C6
+C6
+#
+4
+C6
+#
+5
+C6
+#
+6
+C6
+#
+7
+#
+8
+Clorinde Skills
+Oath of Hunting Shadows
+Normal Attack
+Performs up to 5 rapid strikes.
+Charged Attack
+Consumes a certain amount of Stamina and fires Suppressing Shots in a fan pattern with her pistolet.
+Plunging Attack
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Level
+1
+1-Hit DMG
+54.1%
+2-Hit DMG
+51.6%
+3-Hit DMG
+34.2% + 34.2%
+4-Hit DMG
+23.1% + 23.1%+23.1%
+5-Hit DMG
+90%
+Charged Attack DMG
+128.1%
+Charged Attack Stamina Cost
+20
+Plunge DMG
+63.9%
+Low/High Plunge DMG
+127.8% / 159.7%
+Hunter's Vigil
+Though the evil that lurked in the shadows of the night had been purged across thousands of years, a shadow that the light could not reach clouded human hearts.
+Even now, the warning left by the Golden Hunter is etched into her memory: Those of the Night Vigil, carrying aloft lit candles against the blackness, have greater need still to remain vigilant. Be not corrupted by the cold dark.
+Preparing her pistolet, she enters the "Night Vigil" state, using steel and shot together. In this state, Clorinde's Normal Attacks will be transformed into "Swift Hunt" pistolet attacks, and the DMG dealt is converted into
+Electro DMG
+that cannot be overridden by infusions, and she will be unable to use Charged Attacks. Using her Elemental Skill will transform it into "Impale the Night": Perform a lunging attack, dealing
+Electro DMG
+. The DMG done through the aforementioned method is considered Normal Attack DMG.
+Swift Hunt
+· When her Bond of Life is equal to or greater than 100% of her max HP: Performs a pistolet shot.
+· When her Bond of Life is less than 100%, firing her pistolet will grant her Bond of Life, with the amount gained based on her max HP. The shots she fires can pierce opponents, and DMG dealt to opponents in their path is increased.
+Impale the Night
+The current percentage value of Clorinde's Bond of Life determines its effect:
+· When the Bond of Life value is 0%, perform a normal lunging strike;
+· When the Bond of Life value is less than 100% of her max HP, Clorinde is healed based on the Bond of Life value, and the AoE of the lunging attack and the DMG dealt is increased;
+· When the value of the Bond of Life is equal to or greater than 100% of her max HP, use Impale the Night: Pact. The healing multiplier is increased, and the AoE and DMG dealt by the lunge is increased even further.
+In addition, when Clorinde is in the Night Vigil state, healing effects other than Impale the Night will not take effect and will instead be converted into a Bond of Life that is a percentage of the healing that would have been received.
+Clorinde will exit the "Night Vigil" state when she leaves the field.
+Arkhe: Ousia
+Periodically, when Clorinde's Swift Hunt shots strike opponents, she will summon a Surging Blade at the position hit that deals Ousia-aligned
+Electro DMG
+.
+Level
+1
+Swift Hunt DMG
+26.8% / 38.8%
+Swift Hunt Bond of Life Gain
+35% Max HP
+Impale the Night DMG
+33% / 44% / 25.1%×3
+Impale the Night Healing
+0% / 104% / 110% Bond of Life
+Bond of Life Conversion
+80% Healing
+Surging Blade DMG
+43.2%
+Surging Blade Interval
+10s
+Night Vigil Duration
+7.5s
+CD
+16s
+Last Lightfall
+It is said the legacy of the ancient art of resisting non-human beings with but a mortal body can be traced back to the Lochknights who resisted the Remurian Empire.
+Be that as it may, so long as one can find a way to control the level of force used, it's not as if it cannot be used in duels against ordinary opponents.
+Grants herself a Bond of Life based upon her own max HP before swiftly evading and striking with saber and sidearm as one, dealing
+AoE Electro DMG
+.
+Level
+1
+Skill DMG
+126.9%×5
+Bond of Life Gain
+66% Max HP
+CD
+15s
+Energy Cost
+60
+Passive Talents
+Dark-Shattering Flame
+Ascension Phase 1
+After a nearby party member triggers an
+Electro-related reaction
+against an opponent,
+Electro DMG
+dealt by Clorinde's Normal Attacks and
+Last Lightfall
+will be increased by 20% of Clorinde's ATK for 15s. Max 3 stacks. Each stack is counted independently. The Maximum DMG increase achievable this way for the above attacks is 1,800.
+Lawful Remuneration
+Ascension Phase 4
+If Clorinde's Bond of Life is equal to or greater than 100% of her Max HP, her CRIT Rate will increase by 10% for 15s whenever her Bond of Life value increases or decreases. Max 2 stacks. Each stack is counted independently.
+Additionally,
+Hunter's Vigil
+'s Night Vigil state is buffed: While it is active, the percent of healing converted to Bond of Life increases to 100%.
+Night Vigil's Harvest
+Passive
+Displays the location of nearby
+resources unique to Fontaine
+on the mini-map.
+Constellations
+"From This Day, I Pass the Candle's Shadow-Veil"
+Constellation Lv. 1
+While
+Hunter's Vigil
+'s Night Vigil state is active, when
+Electro DMG
+from Clorinde's Normal Attacks hit opponents, they will trigger 2 coordinated attacks from a Nightvigil Shade summoned near the hit opponent, each dealing 30% of Clorinde's ATK as
+Electro DMG
+.
+This effect can occur once every 1.2s. DMG dealt this way is considered Normal Attack DMG.
+"Now, As We Face the Perils of the Long Night"
+Constellation Lv. 2
+Enhance the Ascension Talent "Dark-Shattering Flame": After a nearby party member triggers an
+Electro-related reaction
+against an opponent,
+Electro DMG
+dealt by Clorinde's Normal Attacks and
+Last Lightfall
+will be increased by 30% of Clorinde's ATK for 15s. Max 3 stacks. Each stack is counted independently. When you have 3 stacks, Clorinde's interruption resistance will be increased. The Maximum DMG increase achievable this way for the above attacks is 2,700.
+You must first unlock the Ascension Talent "Dark-Shattering Flame."
+"I Pledge to Remember the Oath of Daylight"
+Constellation Lv. 3
+Increases the Level of
+Hunter's Vigil
+by 3.
+Maximum upgrade level is 15.
+"To Enshrine Tears, Life, and Love"
+Constellation Lv. 4
+When
+Last Lightfall
+deals DMG to opponent(s), DMG dealt is increased based on Clorinde's Bond of Life percentage. Every 1% of her current Bond of Life will increase
+Last Lightfall
+DMG by 2%. The maximum
+Last Lightfall
+DMG increase achievable this way is 200%.
+"Holding Dawn's Coming as My Votive"
+Constellation Lv. 5
+Increases the Level of
+Last Lightfall
+by 3.
+Maximum upgrade level is 15.
+"And So Shall I Never Despair"
+Constellation Lv. 6
+For 12s after
+Hunter's Vigil
+is used, Clorinde's CRIT Rate will be increased by 10%, and her CRIT DMG by 70%.
+Additionally, while Night Vigil is active, a Glimbright Shade will appear under specific circumstances, executing an attack that deals 200% of Clorinde's ATK as
+Electro DMG
+. DMG dealt this way is considered Normal Attack DMG.
+The Glimbright Shade will appear under the following circumstances:
+· When Clorinde is about to be hit by an attack.
+· When Clorinde uses Impale the Night: Pact.
+1 Glimbright Shade can be summoned in the aforementioned ways every 1s. 6 Shades can be summoned per single Night Vigil duration.
+In addition, while Night Vigil is active, the DMG Clorinde receives is decreased by 80% and her interruption resistance is increased. This effect will disappear after the Night Vigil state ends or 1s after she summons 6 Glimbright Shades.
+Outfits
+Sword of Honor
+Default
+Clorinde's outfit. Without the strength to enforce their authority, the dignity of the law and the order of justice start to seem fragile indeed. And Clorinde in her work uniform is the ultimate guarantor.
+Stats
+Lv.
+1
+Lv.
+20
+Lv.
+40
+Lv.
+50
+Lv.
+60
+Lv.
+70
+Lv.
+80
+Lv.
+90
+Before Ascension
+After Ascension
+Ascend
+-
+1
+Base HP
+-
+1009
+Base ATK
+-
+26
+Base DEF
+-
+61
+CRIT Rate
+-
+5.0%
+Ascension Materials
+View ascension details
+Total
+420000
+1
+9
+9
+6
+46
+168
+18
+30
+36
+Talent Materials
+LV.
+1
+→
+2
+12500
+Mora
+3
+Teachings of Justice
+6
+Transoceanic Pearl
+LV.
+2
+→
+3
+17500
+Mora
+2
+Guide to Justice
+3
+Transoceanic Chunk
+LV.
+3
+→
+4
+25000
+Mora
+4
+Guide to Justice
+4
+Transoceanic Chunk
+LV.
+4
+→
+5
+30000
+Mora
+6
+Guide to Justice
+6
+Transoceanic Chunk
+LV.
+5
+→
+6
+37500
+Mora
+9
+Guide to Justice
+9
+Transoceanic Chunk
+LV.
+6
+→
+7
+120000
+Mora
+4
+Philosophies of Justice
+4
+Xenochromatic Crystal
+1
+Everamber
+LV.
+7
+→
+8
+260000
+Mora
+6
+Philosophies of Justice
+6
+Xenochromatic Crystal
+1
+Everamber
+LV.
+8
+→
+9
+450000
+Mora
+12
+Philosophies of Justice
+9
+Xenochromatic Crystal
+2
+Everamber
+LV.
+9
+→
+10
+700000
+Mora
+16
+Philosophies of Justice
+12
+Xenochromatic Crystal
+2
+Everamber
+1
+Crown of Insight
+Total
+1652500
+3
+21
+38
+6
+22
+31
+6
+1

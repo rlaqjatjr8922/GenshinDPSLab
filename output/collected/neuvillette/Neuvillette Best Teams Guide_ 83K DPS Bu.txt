@@ -1,0 +1,97 @@
+Understanding Neuvillette’s Kit and Team Role
+Here’s the thing about Neuvillette – he’s not your typical DPS. This 5-star Hydro Catalyst user scales entirely off Max HP, which fundamentally changes how you approach team building. At Level 90, he sits at 14,695 base HP with 88.4% base CRIT DMG (pretty generous, honestly).
+His bread and butter comes from ‘Equitable Judgment’, but you’ll need to master Sourcewater Droplet management first. Think of it this way: his Skill drops 3 droplets when hitting enemies, his Burst gives you 6. Absorb 3 droplets? That painful 4-second charge time shrinks to roughly 1 second. That’s your damage window right there.
+Each droplet heals him too, which counteracts the HP drain when he’s above 50% Max HP. The Charged Attack hits individual targets once per 0.4 seconds – maximum 8 hits per use – with 50% Poise DMG reduction during execution. Not bad for staying alive while you’re channeling.
+For players looking to enhance their Neuvillette experience, BitTopup offers competitive pricing and fast delivery for
+team banner prep top up
+, ensuring you can secure the characters needed for optimal team compositions with excellent customer service and secure transactions.
+The Pneuma Alignment Game-Changer
+Now here’s where it gets interesting. Neuvillette’s A1 Passive grants ‘Past Draconic Glories’ stacks when your party triggers Vaporize, Frozen, Electro-Charged, Bloom, Hydro Swirl, and Hydro Crystallize. Each stack lasts 30 seconds independently – and trust me, you want all three.
+The damage scaling jumps to 110% (1 stack), 125% (2 stacks), or a whopping 160% (3 stacks). This is why diverse elemental teammates aren’t just nice to have – they’re essential.
+His A4 Passive? 0.6% Hydro DMG Bonus per 1% current HP exceeding 30% Max HP, capped at 30% when HP reaches 80%. Just remember this bonus decreases during Charged Attack HP drain without external healing.
+Core Team Building Philosophy
+After testing dozens of combinations, Neuvillette’s team building boils down to two priorities: maximizing A1 passive stacks and ensuring consistent energy generation. 4-piece Marechaussee Hunter isn’t just Best-in-Slot – it’s in a league of its own, providing +15% Charged Attack DMG and up to 36% CRIT Rate.
+The performance gap is honestly staggering. 4pc Heart of Depth? Only 89% relative performance. Mixed 2pc sets? You’re looking at 84-87%. Don’t handicap yourself here.
+Optimal rotations split Charged Attacks into two segments: Neuvillette E → Team Setup → Neuvillette C + E + C + Q → Buff Refresh → Neuvillette 2[C]. For talents, prioritize Normal Attack > Elemental Burst = Elemental Skill. Going 10/1/1 offers just 3% damage increase over 9/6/6, so don’t stress about crowning everything immediately.
+Energy Recharge: The Numbers That Matter
+This is where many players mess up. Neuvillette’s ER requirements swing wildly based on team composition, and his Burst is absolutely vital for droplet generation every rotation.
+The Real ER Thresholds
+Double Hydro with Furina:
+With Tome of the Eternal Flow/Prototype Amber: 100-115%
+Other weapons: 110-125%
+Double Electro with Fischl:
+With Tome/Prototype Amber: 100-110%
+Other weapons: 120-140%
+Solo Hydro Compositions:
+With Tome/Prototype Amber: 100-130%
+Other weapons: 140-160%
+Pro tip: Every team Favonius weapon proc drops these requirements by 10-20%. Double Hydro teams get the sweet spot treatment – Hydro Resonance (+25% HP) plus shared energy generation makes life so much easier.
+Tome’s passive restores 8 Energy when reaching 3 stacks every 12 seconds. Prototype Amber provides consistent energy through its healing passive. Both are game-changers for ER management.
+Mastering Viridescent Venerer Support
+4-piece Viridescent Veneer increases Swirl DMG by 60% and decreases opponent’s Elemental RES by 40% for 10 seconds. Here’s the critical part: your Anemo support must trigger Hydro Swirl immediately before Neuvillette takes the field.
+Kazuha’s Hydro-infused Burst maintains Hydro aura for subsequent Swirls while providing 30-40% Elemental DMG Bonus. It’s honestly broken how good this synergy is.
+Kazuha (S+ Tier):
+Hydro RES shred, substantial Elemental DMG Bonus, and that crucial enemy grouping.
+Sucrose:
+EM sharing and crowd control, though with less damage amplification.
+Venti:
+Excellent for grouping smaller enemies but struggles against heavy opponents.
+When building your optimal Neuvillette team, securing his signature weapon becomes crucial for maximizing performance. BitTopup provides reliable access to
+Tome of the Eternal Flow fund
+with competitive rates and secure payment processing, helping you achieve the 37% damage increase over R5 Prototype Amber.
+Rotation Mastery
+Hypercarry Team (Furina, Kazuha, Zhongli):
+Neuvillette E → Furina E + Dash → Kazuha tap E + Plunge + Q → Zhongli hold E + Dash → Furina Q
+Neuvillette C + E + C + Q → Kazuha tap E + Plunge → Neuvillette 2[C]
+Hyperbloom Team (Nahida, Raiden, Furina):
+Neuvillette E → Furina E + Dash → Raiden E → Nahida E + Q → Furina Q
+Neuvillette C + E + C + Q → Nahida E → Neuvillette 2[C]
+These rotations maximize buff uptime while ensuring proper element application timing. The key? Don’t rush the setup phase.
+Meta Team Performance Analysis
+Let’s talk numbers (C0 5-stars, C6 4-stars):
+Hyperbloom (Neuvillette, Furina, Nahida, Raiden): 83,849 DPS
+Electro-Charged (Neuvillette, Furina, Kazuha, Kuki): 79,509 DPS
+Hypercarry (Neuvillette, Furina, Kazuha, Baizhu): 71,500 DPS
+Vaporize (Neuvillette, Xiangling, Kazuha, Zhongli): 59,343 DPS
+The Neuvillette-Furina pairing? It’s the foundation of his strongest teams. Furina provides massive DMG Bonus, enables Hydro Resonance for +25% HP, and contributes significant personal damage. Plus, Neuvillette’s self-HP fluctuation allows rapid Fanfare stack building without dedicated healing.
+Support Character Deep Dive
+Double Hydro compositions benefit from that sweet +25% HP bonus and improved energy generation. The Hydro Resonance bonus directly amplifies Neuvillette’s HP-scaling damage before other multipliers kick in.
+Defensive Options:
+Zhongli (universal shield + RES shred), Layla (surprisingly strong Cryo shield)
+Offensive Options:
+Fischl (off-field DPS + battery), Albedo (Geo resonance + consistent damage)
+Utility Options:
+Bennett (ATK buff for supports + healing), Baizhu (healing + Dendro application)
+Constellation and Weapon Investment
+C1:
+Provides 1 A1 stack automatically and increases interruption resistance. That’s 0-24% DPS increase while enabling flexible team compositions. Honestly? It’s a quality-of-life game-changer.
+C2:
+Each A1 stack increases Charged Attack CRIT DMG by 14% (maximum 42%). Approximately 38% DPS increase from C0. This is where whales start to separate from dolphins.
+C6:
+Allows droplet absorption during Charged Attacks for approximately 118% DPS increase from C0. Whale territory, but absolutely bonkers performance.
+Tome of the Eternal Flow (R1):
+Achieves 137% performance relative to R5 Prototype Amber
+Sacrificial Jade (R5):
+Reaches 130% relative performance with 36.8% CRIT Rate
+Prototype Amber (R5):
+Your baseline F2P option at 100% relative performance
+Spiral Abyss Strategy
+Single Target Floors:
+Hypercarry compositions maximize personal damage output against high-HP bosses.
+Multi-Target Scenarios:
+Electro-Charged and Hyperbloom teams leverage reaction damage scaling with Kazuha’s grouping.
+High Mobility Enemies:
+Freeze teams prevent enemy movement while maintaining damage output.
+FAQ
+What are minimum ER requirements for different team compositions?
+Double Hydro with Furina needs 100-115% with Tome/Prototype Amber, Double Electro requires 100-110%, Solo Hydro needs 100-130%. These jump by 10-25% with other weapons.
+How important is C1 for team building flexibility?
+C1 provides 0-24% DPS increase with automatic A1 stack generation and interruption resistance. It enables Double Hydro teams and eliminates shielder requirements – pretty significant quality-of-life improvement.
+Which Anemo support provides best value?
+Kazuha offers highest value with 30-40% Elemental DMG Bonus and essential grouping. Sucrose serves as an excellent budget alternative with EM sharing, but the gap is noticeable.
+How do you optimize rotations for maximum buff uptime?
+Split Neuvillette’s Charged Attacks into two phases (2+2 or 3+1) with buff refreshing between phases. Use VV supports immediately before damage windows – timing is everything here.
+What’s the performance difference between Tome and alternatives?
+R1 Tome achieves 137% performance relative to R5 Prototype Amber, while R5 Sacrificial Jade reaches 130%. The signature weapon provides optimal damage scaling, but F2P options are definitely viable.
+How do reaction teams compare to Hypercarry compositions?
+Hyperbloom teams achieve highest DPS at 83,849, followed by Electro-Charged at 79,509 and Hypercarry at 71,500. Hypercarry offers more consistent performance across enemy types, though – sometimes raw numbers don’t tell the whole story.

@@ -1,0 +1,56 @@
+options iteration=1000 duration=10.5 swap_delay=6 workers=4;
+options hitlag=true defhalt=false ignore_burst_energy=true;
+
+target lvl=100 resist=0.1 pos=1,0 radius=3 freeze_resist=0;
+
+active gaming;
+
+# =========================
+# 캐릭터 1 (gaming)
+# =========================
+gaming char lvl=90/90 cons=0 talent=9,9,9;
+gaming add weapon="serpentspine" refine=1 lvl=90/90;
+gaming add set="marechausseehunter" count=4;
+
+# =========================
+# 캐릭터 2 (bennett)
+# =========================
+bennett char lvl=90/90 cons=0 talent=9,9,9;
+bennett add weapon="skywardblade" refine=1 lvl=90/90;
+bennett add set="noblesseoblige" count=4;
+
+# =========================
+# 캐릭터 3 (kazuha)
+# =========================
+kazuha char lvl=90/90 cons=0 talent=9,9,9;
+kazuha add weapon="freedomsworn" refine=1 lvl=90/90;
+kazuha add set="viridescentvenerer" count=4;
+
+# =========================
+# 캐릭터 4 (xianyun)
+# =========================
+xianyun char lvl=90/90 cons=0 talent=9,9,9;
+xianyun add weapon="favoniuscodex" refine=1 lvl=90/90;
+xianyun add set="viridescentvenerer" count=4;
+
+
+# =========================
+# Entry Order
+# =========================
+# xianyun -> gaming -> kazuha -> bennett
+
+# =========================
+# Rotation
+# =========================
+xianyun skill;
+xianyun burst;
+xianyun attack;
+gaming skill;
+gaming burst;
+gaming attack;
+kazuha skill;
+kazuha burst;
+kazuha attack;
+bennett skill;
+bennett burst;
+bennett attack;

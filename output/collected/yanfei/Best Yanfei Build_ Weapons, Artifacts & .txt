@@ -1,0 +1,122 @@
+Table of Contents
+Skills
+Weapons
+Artifacts
+Team Comps
+Constellation
+Yanfei is a Pyro catalyst user that excels in dealing damage while applying Pyro constantly. Her kit allows her to apply Pyro from any of her attacks, which can trigger reactions very effectively and boost her overall damage.
+While Yanfei does not have the highest attack as a DPS, placing her in the right comp to fully utilize her Pyro application can make her a strong damage dealer. This is why it is important to gear her properly and place her in the right comp. Here you can learn how to optimize her build to reach her peak performance!
+Skills
+Normal Attack: Seal of Approval
+Yanfei shoots up to three fireballs that deal Pyro damage. For each one of those attacks that hit enemies, Yanfei gains a stack of “Scarlet Seal”. Holding the skill will deal AOE Pyro damage and consume stamina and all Scarlet Seal stacks. For each Scarlet Seal stack, Yanfei’s stamina consumption is decreased by 15%, and her charged attack’s damage increases.
+Yanfei’s damage revolves around her charged attack. It is important to consume her Scarlet Seal stacks before using other skills to maximize her damage. Thus it is recommended to use charged attacks before any skill. Since this skill is her main source of damage,
+it takes the highest priority in leveling up.
+Elemental Skill: Signed Edict
+Yanfei shoots flames on enemies that deals AOE Pyro damage and grant Yanfei the maximum number of Scarlet Seals. This skill is fairly simple, and it can be used to fully charge Scarlet Seal and generate particles. However, it does not deal much damage, and leveling it up is not that essential.
+Thus, it takes the least priority in leveling up.
+Elemental Burst: Done Deal
+Yanfei deals AOE Pyro damage around her and fully charges her Scarlet Seals stacks. Moreover, it grants her “Brilliance status”, which increases her charged attack’s damage while granting her one Scarlet Seal per second.
+Passive: Proviso
+For each Scarlet Seal stack consumed by Yanfei’s charged attack, she gains 5% Pyro damage bonus for six seconds. Using charged attacks again removes the previous buff before applying the new one.
+2nd Passive: Blazing Eye
+Dealing a critical hit from Yanfei’s charged attack will deal a second hit that deals 80% of her attack as a charged attack damage.
+Weapons
+Lost Prayer to the Sacred Winds
+Lost Prayer to the Sacred Winds synergizes so well with Yanfei since it boosts her elemental damage and crit rate. The higher crit rate is important to fully utilize her second passive, while the elemental damage increases her overall damage. Yanfei spends more time on field due to her rotation style, and Lost Prayer to the Sacred Winds requires 16 seconds to give 32-64% elemental damage bonus.
+Skyward Atlas
+Skyward Atlas is a great alternative that is more consistent. While Lost Prayer to the Sacred Winds deals the most damage at the end, Skyward Atlas deals consistent damage throughout the rotation. This is especially important if the rotation is fairly short. The 33.1% attack along with 12-24% elemental damage bonus will massively boost Yanfei’s damage.
+The Widsith
+For catalysts, The Widsith is one of the best weapons due to its global use and being compatible with most of its users. For R5 Widsith, it can even compete with five-star weapons in its maximum damage. However, it lacks a bit of consistency since there are three different buffs that are given separately at random.
+Artifacts
+In terms of artifacts, the focus is to boost Yanfei’s charged attacks as much as possible. This is why 4-piece
+Shimenawa’s Reminiscence
+set is perfect for her. While the 15 energy loss is not ideal, the tradeoff of 50% damage increase to charged attacks is more than worth the trade. Not only that, the 18% attack is also very beneficial.
+As for an alternative,
+Crimson Witch of Flames
+is a great alternative due to its Pyro damage boost. The 2-piece effect, which increases Pyro damage bonus by 15%, can be increased by 50% for 10 seconds, and this effect stacks up to three times. If Yanfei is placed in a reaction team, the 15% increase to melt and vaporize damage can be useful as well. This set can outperform Shimenawa’s Reminiscence only in specific team comps that depend on elemental reactions.
+As for substats, getting Yanfei’s attack as high as possible is important. Meanwhile, crit rate and crit damage are also essential, so it is important to balance those three out. Elemental mastery is good only in the reaction teams, and energy recharge is good but not essential.
+Build:
+Shimenawa’s Reminiscence
+Flower
+Plume
+Sands
+Goblet
+Circlet
+Substats
+1. HP
+1.  ATK
+1. ATK %
+1. Pyro DMG Bonus
+1. Crit Rate/DMG %
+1. Crit Rate %
+2. Crit DMG %
+3. ATK %
+Also Read:
+Best Settings For Genshin Impact: Get The Highest Performance And Graphics.
+Build:
+Crimson Witch of Flames
+Flower
+Plume
+Sands
+Goblet
+Circlet
+Substats
+1. HP
+1.  ATK
+1. ATK %
+1. Pyro DMG Bonus
+1. Crit Rate/DMG %
+1. Crit Rate %
+2. Crit DMG %
+3. ATK %
+4.
+Elemental Mastery
+Team Comps
+Yanfei is an amazing Pyro applier, since she can apply it through normal, charged attacks, Elemental Skill and Burst. This allows her to apply an elemental reaction with any attack from her kit. As a Pyro DPS, she can either trigger Melt or Vaporize, which grants a damage multiplier. The other two slots can be filled with a shielder/healer along with a swirl user or a buffer.
+Yelan/Xingqiu
+Yelan and Xingqiu are one of the best supports for Yanfei. Due to their Hydro application after normal attacks, they can constantly trigger Vaporize reaction while boosting the overall damage. If the comp has another shielder/healer, Yelan is more recommended since she deals more damage, while Xingqiu offers damage reduction and interruption resistance.
+Also Read:
+Best Yelan Build: Weapons, Artifacts & Team Comps
+Diona
+Diona is the best choice for a Melt comp for Yanfei since she applies Cryo while shielding and healing. Not only that but using her with weapons such as Elegy can be a great pair for boosting Yanfei’s damage. One thing to note is that her Cryo application is limited, so it’s best to bring a swirl user for extra Cryo applications.
+Kazuha/Venti/Sucrose
+Also Read:
+Best Kazuha Build: Weapons, Artifacts & Team Comps
+Swirl users are always beneficial for element applications, especially that Yanfei can apply Pyro constantly. Using them along with Hydro or Cryo can boost Yanfei’s damage through Vaporize and Melt reactions. Not only that, their elemental mastery can give extra push to those reactions. Finally, their grouping mechanism can make sure that grouped enemies are all damaged by her charged attack.
+Also Read:
+Best Venti Build: Weapons, Artifacts & Team Comps
+Ayaka
+Pairing Ayaka with Yanfei will use them both as damage dealers while the other two in the comp as their supports. Ayaka will be the main damage dealer, while Yanfei will deal damage and apply Pyro while Ayaka’s Burst is on the field. Ayaka’s Burst can apply Cryo consecutively, which replaces the Cryo and swirl user slots, giving your time more flexibility in the last two spots.
+Also Read:
+Best Ayaka Build: Weapons, Artifacts & Team Comps
+Bennet
+Bennet can is great in healing and buffing attacks of characters in his field. He can be used as a great support for Yanfei since she needs as much attack as possible. Not only that, for the players with C6 Bennett, Yanfei benefits from the 15% Pyro bonus, making them a wonderful pair.
+Also Read:
+Best Bennett Build: Weapons, Artifacts & Team Comps
+Mona
+Mona is another character that applies Hydro to enemies for Vaporize reaction, but what makes her unique is the extra damage dealt she applies on enemies from her Burst. This paired with her taunt can increase the damage output all while keeping Yanfei safe from taunted enemies.
+Constellation
+The Law Knows No Kindness
+For each Scarlet Seal consumed by the charged attack, reduce the stamina cost of that charged attack by 10% and increase the interruption resistance of that attack
+Right of Final Interpretation
+Charged attacks against enemies with 50% HP or less have 20% increased crit rate
+Samadhi Fire-Forged
+Increases the level of the Elemental Skill by 3 and the maximum level to 15
+Supreme Amnesty
+Upon using the Elemental Burst, gain a shield for 15 seconds that scales with 45% of Yanfei’s maximum HP. This shield is 250% more effective against Pyro damage
+Abiding Affidavit
+Increases the level of the Elemental Burst by 3 and the maximum level to 15
+Extra Clause
+Increase the maximum number of Scarlet Seals by one
+In terms of constellations, the best constellation for Yanfei is the sixth one, since it boosts her charged attack damage. However, the second and fourth constellations are also great. The extra crit rate from the second constellation can help trigger her passive more frequently.
+The fourth constellation is perfect for freeing a spot in the team comp, since she won’t need a shielder. Yelan works better with C4 Yanfei, which can improve her damage significantly while being protected.
+While Yanfei does not have the highest attack for a
+Pyro character
+, her constant Pyro application along with her strong charged attacks make up for it. Not only that, she can protect herself through the fourth constellation while her charged attacks do not consume as much stamina.
+Overall, Yanfei is a great Pyro DPS that requires some investment to truly shine. Since her damage mainly relies on her normal attacks and charged attacks, her damage is very consistent and reliable. This makes her a great character to have especially for newer players or mid stages of the game.
+All image copyrights belong to
+Mihoyo
+,
+Genshin Impact fandom
+, and
+Genshin honeyhunterworld.

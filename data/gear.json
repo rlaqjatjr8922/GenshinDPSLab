@@ -1,15 +1,15 @@
 {
   "albedo": {
-    "weapon": "urakumisugiri",
-    "set_name": "huskofopulentdreams"
+    "weapon": "peakpatrolsong",
+    "set_name": "goldentroupe"
   },
   "alhaitham": {
-    "weapon": "lightoffoliarincision",
+    "weapon": "favoniussword",
     "set_name": "deepwoodmemories"
   },
   "aloy": {
-    "weapon": "elegyfortheend",
-    "set_name": "noblesseoblige"
+    "weapon": "aquasimulacra",
+    "set_name": "emblemofseveredfate"
   },
   "amber": {
     "weapon": "skywardharp",
@@ -20,7 +20,7 @@
     "set_name": "fragmentofharmonicwhimsy"
   },
   "ayaka": {
-    "weapon": "mistsplitterreforged",
+    "weapon": "sacrificialbow",
     "set_name": "blizzardstrayer"
   },
   "ayato": {
@@ -32,7 +32,7 @@
     "set_name": "deepwoodmemories"
   },
   "barbara": {
-    "weapon": "thrillingtalesofdragonslayers",
+    "weapon": "prototypeamber",
     "set_name": "oceanhuedclam"
   },
   "beidou": {
@@ -44,7 +44,7 @@
     "set_name": "noblesseoblige"
   },
   "candace": {
-    "weapon": "blacktassel",
+    "weapon": "staffofhoma",
     "set_name": "noblesseoblige"
   },
   "charlotte": {
@@ -56,19 +56,19 @@
     "set_name": "obsidiancodex"
   },
   "chevreuse": {
-    "weapon": "blacktassel",
+    "weapon": "engulfinglightning",
     "set_name": "noblesseoblige"
   },
   "chiori": {
     "weapon": "urakumisugiri",
-    "set_name": "goldentroupe"
+    "set_name": "noblesseoblige"
   },
   "chongyun": {
     "weapon": "serpentspine",
-    "set_name": "noblesseoblige"
+    "set_name": "blizzardstrayer"
   },
   "citlali": {
-    "weapon": "sacrificialfragments",
+    "weapon": "favoniuscodex",
     "set_name": "scrolloftheheroofcindercity"
   },
   "clorinde": {
@@ -89,7 +89,7 @@
   },
   "dehya": {
     "weapon": "beaconofthereedsea",
-    "set_name": "emblemofseveredfate"
+    "set_name": "tenacityofthemillelith"
   },
   "diluc": {
     "weapon": "serpentspine",
@@ -104,8 +104,8 @@
     "set_name": "noblesseoblige"
   },
   "emilie": {
-    "weapon": "deathmatch",
-    "set_name": "unfinishedreverie"
+    "weapon": "athousandblazingsuns",
+    "set_name": "deepwoodmemories"
   },
   "escoffier": {
     "weapon": "calamityqueller",
@@ -144,283 +144,283 @@
     "set_name": "blizzardstrayer"
   },
   "gorou": {
-    "weapon": "favoniuswarbow",
+    "weapon": "elegyfortheend",
     "set_name": "huskofopulentdreams"
   },
   "heizou": {
-    "weapon": "solarpearl",
+    "weapon": "mappamare",
     "set_name": "viridescentvenerer"
   },
   "hutao": {
-    "weapon": "deathmatch",
+    "weapon": "staffofhoma",
     "set_name": "crimsonwitchofflames"
   },
   "ineffa": {
     "weapon": "fracturedhalo",
-    "set_name": "tenacityofthemillelith"
+    "set_name": "deepwoodmemories"
   },
   "itto": {
     "weapon": "redhornstonethresher",
     "set_name": "huskofopulentdreams"
   },
   "jean": {
-    "weapon": "skywardblade",
+    "weapon": "favoniussword",
     "set_name": "viridescentvenerer"
   },
   "kaeya": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "favoniussword",
+    "set_name": "blizzardstrayer"
   },
   "kaveh": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "favoniusgreatsword",
+    "set_name": "deepwoodmemories"
   },
   "kazuha": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "freedomsworn",
+    "set_name": "viridescentvenerer"
   },
   "keqing": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "mistsplitterreforged",
+    "set_name": "thunderingfury"
   },
   "kinich": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "fangofthemountainking",
+    "set_name": "deepwoodmemories"
   },
   "kirara": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "keyofkhajnisut",
+    "set_name": "deepwoodmemories"
   },
   "klee": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "thewidsith",
+    "set_name": "lavawalker"
   },
   "kokomi": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "everlastingmoonglow",
+    "set_name": "oceanhuedclam"
   },
   "kukishinobu": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "freedomsworn",
+    "set_name": "gildeddreams"
   },
   "lanyan": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "thrillingtalesofdragonslayers",
+    "set_name": "viridescentvenerer"
   },
   "lauma": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "athousandfloatingdreams",
+    "set_name": "deepwoodmemories"
   },
   "layla": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "primordialjadecutter",
+    "set_name": "tenacityofthemillelith"
   },
   "lisa": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "engulfinglightning",
+    "set_name": "thunderingfury"
   },
   "lynette": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "favoniussword",
+    "set_name": "viridescentvenerer"
   },
   "lyney": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "aquilafavonia",
+    "set_name": "viridescentvenerer"
   },
   "mavuika": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "athousandblazingsuns",
+    "set_name": "instructor"
   },
   "mika": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "favoniuslance",
+    "set_name": "noblesseoblige"
   },
   "mizuki": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "athousandfloatingdreams",
+    "set_name": "viridescentvenerer"
   },
   "mona": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "lostprayertothesacredwinds",
+    "set_name": "noblesseoblige"
   },
   "mualani": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "thewidsith",
+    "set_name": "obsidiancodex"
   },
   "nahida": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "athousandfloatingdreams",
+    "set_name": "deepwoodmemories"
   },
   "navia": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "verdict",
+    "set_name": "marechausseehunter"
   },
   "neuvillette": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "tomeoftheeternalflow",
+    "set_name": "viridescentvenerer"
   },
   "nilou": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "keyofkhajnisut",
+    "set_name": "deepwoodmemories"
   },
   "ningguang": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "lostprayertothesacredwinds",
+    "set_name": "archaicpetra"
   },
   "noelle": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "redhornstonethresher",
+    "set_name": "huskofopulentdreams"
   },
   "ororon": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "aquasimulacra",
+    "set_name": "scrolloftheheroofcindercity"
   },
   "qiqi": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "blacktassel",
+    "set_name": "oceanhuedclam"
   },
   "raiden": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "thecatch",
+    "set_name": "emblemofseveredfate"
   },
   "razor": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "serpentspine",
+    "set_name": "emblemofseveredfate"
   },
   "rosaria": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "engulfinglightning",
+    "set_name": "noblesseoblige"
   },
   "sara": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "skywardharp",
+    "set_name": "noblesseoblige"
   },
   "sayu": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "favoniusgreatsword",
+    "set_name": "viridescentvenerer"
   },
   "sethos": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "thestringless",
+    "set_name": "gildeddreams"
   },
   "shenhe": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "calamityqueller",
+    "set_name": "noblesseoblige"
   },
   "sigewinne": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "elegyfortheend",
+    "set_name": "tenacityofthemillelith"
   },
   "skirk": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "azurelight",
+    "set_name": "finaleofthedeepgalleries"
   },
   "sucrose": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "sacrificialfragments",
+    "set_name": "viridescentvenerer"
   },
   "tartaglia": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "polarstar",
+    "set_name": "heartofdepth"
   },
   "thoma": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "favoniuslance",
+    "set_name": "noblesseoblige"
   },
   "tighnari": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "hunterspath",
+    "set_name": "gildeddreams"
   },
   "anemotraveler": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "freedomsworn",
+    "set_name": "viridescentvenerer"
   },
   "dendrotraveler": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "favoniussword",
+    "set_name": "deepwoodmemories"
   },
   "electrotraveler": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "favoniussword",
+    "set_name": "emblemofseveredfate"
   },
   "geotraveler": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "mistsplitterreforged",
+    "set_name": "noblesseoblige"
   },
   "hydrotraveler": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "sacrificialsword",
+    "set_name": "goldentroupe"
   },
   "pyrotraveler": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "freedomsworn",
+    "set_name": "scrolloftheheroofcindercity"
   },
   "varesa": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "vividnotions",
+    "set_name": "obsidiancodex"
   },
   "venti": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "elegyfortheend",
+    "set_name": "viridescentvenerer"
   },
   "wanderer": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "thewidsith",
+    "set_name": "desertpavilionchronicle"
   },
   "wriothesley": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "cashflowsupervision",
+    "set_name": "marechausseehunter"
   },
   "xiangling": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "engulfinglightning",
+    "set_name": "emblemofseveredfate"
   },
   "xianyun": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "favoniuscodex",
+    "set_name": "viridescentvenerer"
   },
   "xiao": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "staffofhoma",
+    "set_name": "vermillionhereafter"
   },
   "xilonen": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "favoniussword",
+    "set_name": "scrolloftheheroofcindercity"
   },
   "xingqiu": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "favoniussword",
+    "set_name": "emblemofseveredfate"
   },
   "xinyan": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "skywardpride",
+    "set_name": "bloodstainedchivalry"
   },
   "yaemiko": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "skywardatlas",
+    "set_name": "emblemofseveredfate"
   },
   "yanfei": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "thewidsith",
+    "set_name": "crimsonwitchofflames"
   },
   "yaoyao": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "blacktassel",
+    "set_name": "deepwoodmemories"
   },
   "yelan": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "favoniuswarbow",
+    "set_name": "tenacityofthemillelith"
   },
   "yoimiya": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "thunderingpulse",
+    "set_name": "echoesofanoffering"
   },
   "yunjin": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "favoniuslance",
+    "set_name": "huskofopulentdreams"
   },
   "zhongli": {
-    "weapon": "모름",
-    "set_name": "모름"
+    "weapon": "blacktassel",
+    "set_name": "tenacityofthemillelith"
   }
 }

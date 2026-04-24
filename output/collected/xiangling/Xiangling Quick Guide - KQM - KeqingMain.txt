@@ -1,0 +1,519 @@
+Updated for Version 4.5
+Xiangling is a 4-star Pyro Polearm character in Genshin Impact who provides excellent off-field Pyro damage and application. Learn about Xiangling’s best builds, best weapons, best artifacts, and best teams in this quick guide.
+You can obtain a free copy of Xiangling upon clearing Floor 3 of the Spiral Abyss.
+Note that the information given may change if new discoveries are made.
+More extensive testing is in progress.
+The full-length guide is available
+here
+. It is currently being updated. Join our
+Discord
+to check on and participate in the theorycrafting process.
+Table of Contents
+New Content
+Infographic
+Character Overview
+Playstyles
+Talents
+Constellations
+Artifacts
+ER Requirements
+Artifact Stats
+Artifact Sets
+Weapons
+Teams
+Teambuilding
+Reverse Vape
+Overvape
+Reverse Melt
+Mono Pyro
+Overloaded
+Burgeon
+Double Pyro Flex
+Credits
+New Content
+Chevreuse
+Chevreuse has significantly upgraded
+Overloaded
+team viability thanks to her tremendous buffs. She makes the composition even better at C6.
+New Characters
+Lyney
+,
+Neuvillette
+,
+Wriothesley
+,
+Furina
+,
+Navia
+,
+Gaming
+These characters synergize with Xiangling in a variety of team compositions.
+Ballad of the Fjords
+Ballad of the Fjords is an excellent option in Vape teams with at least three different Elements (Pyro, Hydro, and typically Anemo or Electro). It is generally not worth purchasing solely for Xiangling due to its teammate requirement and The Catch’s availability.
+Infographic
+Credits to: icedsquid, jamberry, haafr, and KQM Staff
+Credits to: clevernt, caxia5, haafr, and KQM Staff
+Character Overview
+Playstyles
+Off-Field Pyro DPS
+Xiangling deals almost all of her damage via her Elemental Burst (Pyronado), which makes her an off-field Pyro damage dealer. She is frequently paired with Bennett and can snapshot his Flat ATK buff, so she uses her Burst when Bennett’s Burst is active.
+Talents
+Talent Priority
+Burst > Skill
+Xiangling’s Burst deals the largest share of her damage. Her Skill also dishes out substantial DPS, with each hit potentially dealing damage on par with a hit of her Burst. It is not recommended to level Xiangling’s Normal Attack.
+Talent Overview
+Normal Attack
+Elemental Skill
+Elemental Burst
+Ascension 1 Passive
+Ascension 4 Passive
+Normal Attack
+Normal Attack
+|
+Dough-Fu
+Talent Description
+Normal Attack
+Performs up to five consecutive spear strikes.
+Charged Attack
+Consumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.
+Plunging Attack
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Xiangling’s Normal Attacks are the least significant part of her kit. They can be used to trigger off-field coordinated attacks or weapon passives, but leveling this Talent will not significantly increase Xiangling’s damage.
+Elemental Skill
+Elemental Skill |
+Guoba Attack
+Talent Description
+Summons Guoba, who will continuously breathe fire at opponents, dealing AoE Pyro DMG.
+Xiangling’s Skill provides great off-field damage and decent particle generation. It is important to place Guoba where he can consistently hit an enemy to manage Xiangling’s ER requirements and maximize her damage output.
+Xiangling can perform a dash after her Elemental Skill to cancel its animation, resulting in a slightly quicker rotation and higher buff uptime for the on-field DPS.
+Elemental Burst
+Elemental Burst |
+Pyronado
+Talent Description
+Displaying her mastery over both fire and polearms, Xiangling sends a Pyronado whirling around her. The Pyronado will move with your character for the ability’s duration, dealing Pyro DMG to all opponents in its path.
+Xiangling’s Burst is the most important part of her kit. It deals substantial AoE damage and enables Pyro-related reactions. Pyronado snapshots buffs and applies Pyro on every swing after the initial three hits (i.e., it has no Internal Cooldown).
+Ascension 1 Passive
+Ascension 1 Passive |
+Crossfire
+Talent Description
+Increases the flame range of Guoba by 20%.
+Xiangling’s A1 Passive makes it easier for Guoba to hit enemies and helps with his consistency. Not much else to it.
+Ascension 4 Passive
+Ascension 4 Passive |
+Beware, It’s Super Hot!
+Talent Description
+When Guoba Attack’s effects end, Guoba leaves a chili pepper on the spot where it disappeared. Picking up a chili pepper increases ATK by 10% for 10s.
+Xiangling’s 4th Ascension Passive provides a small ATK buff to the character who picks up the pepper. While it can be nice, it is not worth wasting time to chase down the pepper if it is not in a convenient place.
+Constellations
+Calcs for Constellation DPS increases can be found
+here
+(last updated for Version 3.4).
+Constellation 1
+Constellation 2
+Constellation 3
+Constellation 4
+Constellation 5
+Constellation 6
+Constellation 1
+Constellation 1 |
+Crispy Outside, Tender Inside
+Opponents hit by Guoba’s attacks have their Pyro RES reduced by 15% for 6s.
+A good Constellation that effectively increases Xiangling’s damage output. It more greatly benefits teams without other forms of Pyro RES Shred (like 4pc Viridescent Venerer).
+Constellation 2
+Constellation 2 |
+Oil Meets Fire
+The last attack in a Normal Attack sequence applies the Implode status onto the opponent for 2s. An explosion will occur once this duration ends, dealing 75% of Xiangling’s ATK as AoE Pyro DMG.
+This Constellation provides very little benefit because Xiangling rarely finishes her entire Normal Attack sequence. It is not recommended to perform her full sequence of Normal Attacks as it takes up too much field time.
+Constellation 3
+Constellation 3 |
+Deepfry
+Increases the Level of Pyronado by 3.
+Maximum upgrade level is 15.
+A much appreciated and significant damage boost to Xiangling’s Burst.
+Constellation 4
+Constellation 4 |
+Slowbake
+Pyronado’s duration is increased by 40%.
+Xiangling’s strongest and most important Constellation. This Constellation greatly increases her and her team’s overall DPS even when Pyronado cannot trigger or enable reactions for its entire duration.
+Constellation 5
+Constellation 5 |
+Guoba Mad
+Increases the Level of Guoba Attack by 3.
+Maximum upgrade level is 15.
+A decent Constellation that provides a damage boost to her Skill.
+Constellation 6
+Constellation 6 |
+Condensed Pyronado
+For the duration of Pyronado, all party members receive a 15% Pyro DMG Bonus.
+Unfortunately, Xiangling’s Burst itself does not snapshot this buff, but the Pyro DMG Bonus is still appreciated by her Pyro teammates. Guoba can also be buffed if Pyronado is cast beforehand.
+Artifacts
+ER Requirements
+Xiangling’s ER requirements vary significantly depending on her team. Funneling the Pyro Energy particles generated by Bennett’s Skill to Xiangling helps tremendously with lowering her ER requirements. Kitain Cross Spear and Favonius Lance are also fantastic weapon options to help meet her high ER requirements.
+Use the
+Energy Recharge Calculator
+to determine exact requirements for your team and rotation.
+Calcs for ER requirements can be found
+here
+(last updated for 4.5).
+# Xiangling Skill Uses
+# Bennett Skill Uses
+Rotation Length
+Most Weapons
+Favonius Lance
+R5 Kitain Cross Spear
+1
+2
+20–21s
+220–280%
+200–260%
+185–235%
+1
+3
+20–21s
+220–235%
+200–210%
+170–180%
+1
+2
+20–21s (Raiden)
+195-205%
+175–185%
+145–155%
+1
+2
+20–21s (Ganyu)
+300–310%
+280–290%
+245–255%
+2
+0
+24–25s (Neuvi.)
+270–280%
+250–260%
+180–190%
+2
+2
+24–25s (Ayato)
+195–210%
+180–195%
+130–140%
+2
+3
+24–28s (Childe)
+190–200%
+180–190%
+125–135%
+Assumptions:
+Additional Favonius procs reduce ER requirements by roughly 10%
+“Safe” enemy particles
+Average particle RNG
+Guoba lands 3 hits per Skill use
+Bennett funnels all his particles when possible
+1 Favonius proc when holding Favonius
+1 Kitain proc is 15 Flat Energy since Burst before Skill
+2 Kitain procs is 27 Flat Energy since 15 – 3 + 15 = 27
+Raiden assumes 22 Flat Energy recharged
+Zhongli pillar hits 50% of the time
+Artifact Stats
+Sands
+Goblet
+Circlet
+ER% or EM or ATK%
+Pyro DMG Bonus
+CRIT Rate or CRIT DMG
+Stat Priority:
+ER% (until requirement) > CRIT > ATK% (= EM)
+Xiangling typically uses an EM or ATK% Sands when equipping weapons with an ER% secondary stat and an ER% Sands otherwise or if she needs to meet her ER requirements.
+An EM Sands is recommended when Xiangling can trigger Transformative Reactions alongside Reverse Vape, such as Burgeon or Overloaded.
+EM and ATK% Sands perform similarly in other teams where Xiangling only triggers Reverse Vape on almost all of her damage.
+An ATK% Sands is best in teams where Xiangling does not trigger Elemental Reactions or cannot Reverse Vape all of her Burst hits.
+Artifact Sets
+Recommended Set
+4pc Emblem of Severed Fate (ESF)
+Emblem of Severed Fate is Xiangling’s best set in almost every scenario, as it maximizes her Burst damage and helps fulfill her high ER requirements.
+Farm this set.
+Other Sets
+4pc Crimson Witch of Flames (CW)
+Crimson Witch is a good option in teams where Xiangling triggers Pyro-related reactions. 4pc CW can surpass 4pc Emblem in Overvape teams with Sucrose. However, it is not recommended to farm since it falls behind in every other scenario.
+4pc Gilded Dreams (GD)
+Gilded Dreams is on par with Crimson Witch of Flames in teams where Xiangling triggers reactions. It performs exceptionally well in Burgeon teams.
+4pc Flower of Paradise Lost (FoPL)
+FoPL is a good option for Xiangling in Burgeon teams only. Not worth farming since other options are more universal.
+2pc Mixed Sets
+2pc Set Bonuses: Pyro DMG%, ER%, EM, ATK%, Burst DMG%
+2pc set combinations are good transitional sets while you farm 4pc Emblem of Severed Fate.
+Weapons
+General Recommendations
+These Polearms are great in many teams and scenarios.
+Staff of the Scarlet Sands
+Staff of the Scarlet Sands is Xiangling’s Best-in-Slot Polearm in almost all of her teams. Stacking its passive is unnecessary and a waste of time.
+R5 The Catch
+The Catch is Xiangling’s baseline recommendation thanks to its ER% secondary stat and buffs to her Burst. It is competitive with 5-star options and is freely attainable from Inazuma’s Fishing Association.
+Favonius Lance
+Favonius Lance is a great option when Xiangling and her teammates have high ER requirements. The passive cannot be triggered off-field, but the three large AoE hits of her Burst are usually enough even at low refinements.
+Other Recommended Options
+These Polearms perform well in some circumstances or on par with R5 Catch.
+Engulfing Lightning
+Engulfing Lightning is Xiangling’s best option in teams without Bennett and a generally good option overall. It lets her build a lot of ER% without significantly decreasing her damage.
+R5 Kitain Cross Spear
+Kitain Cross Spear is a great option in teams where Xiangling has high ER requirements and triggers reactions. It is most effective in teams where she can cast her Skill twice per rotation.
+Ballad of the Fjords
+Ballad of the Fjords is an excellent option in Vape teams with at least three different Elements (Pyro, Hydro, and typically Anemo or Electro). It is generally not worth purchasing solely for Xiangling due to its teammate requirement and The Catch’s availability.
+Wavebreaker’s Fin
+Wavebreaker’s Fine can be a good option if Xiangling’s team has Bursts with high Energy Costs. It performs much better at R5, with DMG% buffs, and with artifacts that have many CRIT Rate and CRIT DMG substat rolls.
+Staff of Homa
+Staff of Homa is a good stat stick for Xiangling even without fully activating its passive. At R1, it performs on par with The Catch.
+Dragon’s Bane
+Dragon’s Bane possesses a valuable EM secondary stat and a strong passive. It is competitive with The Catch at equal refinements in Reverse Vape and Overvape teams, and it performs incredibly well in a Burgeon team with Bennett.
+Deathmatch
+Deathmatch is a good option in Chevreuse teams with Raiden if you need to put the Catch on Raiden. It is worse than Ballad of the Fjords where Ballad’s passive is active.
+Teams
+Rotation Notation
+N = Normal Attack
+C = Charged Attack
+A = Aimed Shot
+P = Plunging Attack
+E = Elemental Skill
+tE = Tap Skill
+hE = Hold Skill
+Q = Elemental Burst
+D = dash (cancel)
+J = jump (cancel)
+W = walk (cancel)
+> = switch character
+( ) = these actions are optional; please refer to the notes below
+[ ] = repeat these actions the specified number of times
+This is not a comprehensive list of teams. The inclusion or exclusion of any given team does not necessarily reflect its power level.
+Teambuilding
+Bennett
+Bennett is Xiangling’s best teammate in the majority of her teams. He provides crucial buffs with his Burst and fantastic Pyro Particle generation with his Skill.
+You should funnel Bennett’s Skill particles to Xiangling like this: Bennett Q tE > Xiangling Q E.
+You can use Bennett’s Skill at the end of the team’s rotation to funnel more particles to Xiangling if she needs it, in a sequence like this: Bennett tE > Xiangling N2 (catch particles).
+Reverse Vape
+Xiangling — Bennett — Hydro — Flex
+Xiangling’s Reverse Vape teams are among her best. A strong Hydro applier lets her Burst trigger Vaporize on every hit after the initial ramp up.
+Some people refer to variations of Reverse Vape with Xingqiu as “National,” coined from an old inside joke by the Chinese theorycrafting community saying the team is so good that it can represent the nation (like a national sports team).
+Notable Teammates
+Hydro
+Anemo
+Cryo
+Geo
+Hydro
+These Hydro characters enable Xiangling to consistently trigger Vape with her Burst.
+A Double Hydro core with an on-fielder and off-fielder or two off-fielders can also deal great damage.
+Tartaglia
+Ayato
+Neuvillette
+Kokomi
+Xingqiu
+Yelan
+Furina
+Anemo
+An Anemo character can shred enemy Pyro and Hydro RES via 4pc Viridescent Venerer. These Anemo units all provide additional buffs in some way.
+Note that Venti fully lifts smaller enemies above Xiangling’s Burst AoE, so he is only recommended against heavier enemies.
+Kazuha
+Sucrose
+Heizou
+Venti
+Cryo
+A Cryo character enables Vapemelt teams where Xiangling can trigger both Reverse Vape and Forward Melt.
+Wriothesley
+Chongyun
+Kaeya
+Ayaka
+Geo
+These Geo units provide comfort and additional buffs.
+Zhongli
+Albedo
+Example Teams
+Xiangling — Bennett — Tartaglia — Kazuha
+This standard Vape team, referred to as “International” in some circles, is great in single-target and multi-target scenarios and is popular with speedrunners. It benefits greatly from vertical investment into both Childe and Xiangling. Proper management of Childe’s Skill cooldown is crucial to playing the team optimally.
+First Rotation
+Childe E > Bennett Q > Kazuha Q tEP (N1) > Xiangling Q E > Childe Q E 5[N2CD] N2CJ > Downtime
+For a Double Swirl in multi-target, Childe’s Skill cast must make contact with at least one enemy, and Bennett’s Burst must hit at least one different enemy.
+Downtime
+Bennett E > Xiangling (N2 / E) > Kazuha tEP / Childe C > (Following Rotation)
+Repeat this sequence until Xiangling’s Burst is almost full (usually 2–3 times).
+Following Rotation
+Childe C > Xiangling E > Kazuha hEP Q (N1) > Bennett Q E > Xiangling Q > Childe Q E 5[N2CD] N2CJ > Downtime
+Childe’s Charged Shot must hit an enemy marked with Riptide or without a pre-existing Pyro aura. This rotation is also used for subsequent rotations if necessary.
+Xiangling — Bennett — Ayato — Sucrose
+This is a viable Ayato Vape team where Sucrose can employ a
+Guoba Swirl
+to achieve a Double Swirl for Pyro and Hydro.
+Sample Rotation
+Ayato Q > Bennett Q > Xiangling N2 E > Sucrose E (Guoba Swirl) > Xiangling Q > Ayato E N15 > Bennett E > Xiangling N2 > Sucrose E > Bennett E > Xiangling E > Ayato E N15
+Xiangling — Bennett — Xingqiu — Yelan
+This team deals tremendous single-target damage. The Double Hydro and Double Pyro core helps lower the team’s ER requirements, which enables more investment into damage. Weaving in a Normal Attack between Skills and Bursts increases team DPS substantially.
+Sample Rotation
+Yelan Q N1 E N1 > Xingqiu Q N1 > Bennett E N1 Q > Xiangling N1 Q N1 E > Xingqiu N2 > Bennett N1 E > Yelan N1 E N1 > Xingqiu N1 ED N2 > Bennett N1 E > Xiangling N2 > Bennett N1 E > Xiangling N2
+Xiangling — Bennett — Furina — Wriothesley
+This is a potent Vapemelt team where Xiangling can trigger Vape and Melt off Furina’s and Wriothesley’s Elemental application. Wriothesley triggers Melt on a few of his Normal and Charged Attacks.
+Sample Rotation
+Furina ED Q > Bennett Q E > Xiangling Q ED > Wriothesley E 3[N5CD] > Bennett E > Xiangling N2
+This Wriothesley combo assumes C1. He can use 5[N3C] at C0.
+Overvape
+Xiangling — Bennett / Flex — Electro — Hydro
+Overvape teams allow Xiangling to trigger both Overloaded and Vaporize off an Electro-Charged aura. These teams work better in single-target scenarios or against heavy enemies since Overloaded knocks lighter enemies away. Characters that have AoE, ranged, or movement abilities are helpful against groups of smaller enemies that are staggered.
+Notable Teammates
+Electro
+Hydro
+Electro
+These characters apply enough Electro to enable a consistent Electro-Charged aura.
+Fischl is one of the best options thanks to highly consistent damage via her A4 Passive.
+Fischl
+Yae Miko
+Kuki Shinobu
+Raiden
+Razor
+Keqing
+Hydro
+These Hydro characters work well with Electro characters above. Use a combination of an on-fielder and off-fielder or use two off-fielders.
+Tartaglia
+Ayato
+Neuvillette
+Kokomi
+Xingqiu
+Yelan
+Furina
+Example Teams
+Xiangling — Bennett — Raiden — Xingqiu
+This is a classic Overvape team (called “Rational” or “Raiden National” by some). While this team is less powerful and more difficult to play than Hypercarry Raiden teams in multi-target scenarios, it is nonetheless a good option against Bosses.
+Sample Rotation
+Raiden E > Xingqiu EDQ > Bennett Q E > Xiangling Q E > Raiden Q combo > Bennett E > Xiangling N2
+Xiangling — Bennett — Fischl — Ayato
+This is a great Ayato Overvape team in single-target and low-AoE scenarios.
+Sample Rotation
+Ayato Q > Bennett EQ > Fischl E > Xiangling Q ED > Ayato E N15 > Fischl Q > Bennett E > Xiangling (N2) ED > Ayato E N15
+Xiangling — Sucrose — Fischl — Kokomi
+Infamously referred to as “Sukokomon” by some enthusiasts, this is a highly technical team that is viable in multi-target scenarios. Learn more about this difficult-to-play team in
+Xiangling’s Extended Guide
+.
+Sample Rotation
+Fischl E > Kokomi E > Xiangling ED > Sucrose N1 E (Guoba Swirl) > Xiangling Q > Kokomi Q N3C N3D N3C > Fischl Q > Xiangling ED > Sucrose N1 E N2 Q N3 until Oz disappears
+Xiangling — Diona (C6) — Fischl — Neuvillette
+This is a possible Overvape team with Neuvillette. Xiangling’s Burst can snapshot Diona’s C6 EM buff to buff her Vape damage (but not her Overloaded damage due to the game’s mechanics).
+Sample Rotation
+Neuvillette E > Diona Q tE > Xiangling Q E > Fischl Q > Neuvillette C E C Q > Diona tE > Xiangling ED > Fischl E > Neuvillette 2[C]
+Reverse Melt
+Xiangling — Bennett — Cryo — Flex
+Reverse Melt teams function by dealing Cryo damage to enemies affected by Pyro to trigger Melt. Xiangling provides a consistent Pyro aura so the Cryo DPS unit(s) can consistently trigger Melt on enemies.
+Notable Teammates
+Cryo DPS Units
+Cryo Supports
+Cryo DPS Units
+These Cryo characters can all deal significant Reverse Melt damage. Xiangling applies enough Pyro for these units to consistently trigger Reverse Melt even with an additional Cryo teammate (with a couple exceptions).
+Rosaria
+Ganyu
+Wriothesley
+Kaeya
+Ayaka
+Cryo Supports
+These units provide valuable buffs and support to the team. Running two Cryo units on the team helps reduce ER requirements. They can also Melt their own damage.
+Shenhe
+Chongyun
+Rosaria
+Diona (C6)
+Layla
+Example Teams
+Xiangling — Bennett — Rosaria — Chongyun
+This Reverse Melt team consists entirely of 4-star characters, making it an accessible high-damage option for Spiral Abyss. There are several possible rotations for this team, but the one detailed below is easy to follow and allows Chongyun to Melt all his Burst hits. This team benefits greatly from Chongyun’s C2 cooldown reduction.
+Sample Rotation
+Chongyun E > Bennett N1 E N1 Q > Chongyun Q > Rosaria EQ > Xiangling Q E N1 > Bennett E > Xiangling N2 > Rosaria E > Bennett E > Xiangling N2
+Xiangling — Bennett — Ganyu — Zhongli
+A staple Ganyu Melt team. Xiangling is preferred over Kazuha for ease of gameplay and consistency. Zhongli (or another shielder) is important to prevent Ganyu from being staggered during her charging animation. The rotation below allows for a longer DPS window for Ganyu.
+Sample Rotation
+Xiangling ED > Zhongli hED > Bennett Q E > Xiangling Q > Ganyu 5[C] E C > Bennett E
+Xiangling — Bennett — Shenhe — Wriothesley
+Xiangling provides enough Pyro application to allow Wriothesley to trigger Reverse Melt on all his important hits, even with Shenhe’s Burst active.
+Sample Rotation
+Shenhe hEQ > Bennett Q E > Xiangling Q E > Wriothesley E 5[N3C] (Q) > Bennett E > Xiangling N2
+This rotation assumes C0 Wriothesley. Use 3[N5CD] if you have C1.
+Mono Pyro
+Xiangling — Bennett — Pyro — Flex
+Mono Pyro teams focus on raw Pyro damage instead of reaction-based damage from Melt or Vaporize. The frequent generation of Pyro Particles can lower the ER requirements for Xiangling’s Pyro teammates; however, her own ER requirements rarely decrease.
+Bennett is essential to the Mono Pyro team archetype. C6 Bennett provides melee units with (an additional source of) Pyro Infusion and a Pyro DMG% buff.
+Notable Teammates
+Pyro DPS Units
+All these units work in Mono Pyro team compositions. Lyney and Klee thrive in such teams, but the other characters are still viable.
+Lyney
+Klee
+Yoimiya
+Hu Tao
+Diluc
+Gaming
+Dehya
+Xinyan
+Yanfei
+Example Teams
+Xiangling — Bennett — Lyney — Zhongli
+As a Charged Shot DPS, Lyney requires interruption resistance from a shielder like Zhongli to avoid being staggered out of his charging animation.
+Sample Rotation
+Zhongli hED > Bennett Q E > Xiangling Q ED > Lyney 5[C] (Q / C) E > Bennett E > Xiangling N2
+Lyney should use his Burst every other rotation. When his Burst is down, he can use a sixth Charged Shot before casting his Skill.
+Xiangling — Bennett — Klee — Kazuha
+A classic Mono Pyro team. Klee is a potent on-field Mono Pyro DPS character. Kazuha provides crucial buffs, grouping, and 4pc Viridescent Venerer RES Shred. Xiangling provides great off-field DPS with her Burst, which pairs well with Klee’s semi-ranged on-field playstyle.
+Sample Rotation
+Bennett E > Kazuha tEPQ > Bennett Q E > Xiangling Q E > Kazuha hEP > Klee N1 EQ 4[N1C] N1 > Bennett E > Xiangling N4
+Variants of this rotation can be found in the
+Klee Extended Guide
+.
+Xiangling — Bennett — Yoimiya — Furina
+This team uses Furina in the last slot over Kazuha or Zhongli to take advantage of her DMG% buff and strong turret damage. Yoimiya does not need to worry about her Normal Attack Vape sequence in this team since her combined Pyro application with Xiangling causes Furina to be the Vape trigger. Although this team lacks a shield, Yoimiya can dodge as needed without incurring a significant DPS loss.
+Sample Rotation
+Furina ED Q > (Yoimiya Q) > Bennett Q E > Xiangling Q E > Yoimiya E combo > Bennett E > Xiangling N2
+Xiangling — Bennett — Gaming — Xianyun
+Xianyun buffs Plunging Attacks and allows Gaming to perform additional Pyro Plunging Attacks if you have C6 Bennett.
+Sample Rotation
+Bennett Q E > Xiangling Q E > Xianyun EP Q > Gaming combo > Bennett E > Gaming / Xiangling
+Bennett uses another instance of his Skill towards the end of the rotation to funnel Pyro Particles to either Gaming or Xiangling.
+Overloaded
+Xiangling — Bennett / Chevreuse — Fischl / Electro —  Pyro / Electro
+Overloaded teams with Xiangling are more like Mono Pyro teams with an Electro character, i.e., they focus more on raw Pyro and Electro damage than actual Overloaded damage. Do
+not
+build full EM on any teammate.
+Notable Teammates
+Chevreuse
+Chevreuse has significantly upgraded Overloaded team viability thanks to her tremendous buffs. She makes the composition even better at C6.
+Fischl
+Fischl is one of the best Electro options thanks to her strong damage and high rate of Electro application.
+Example Teams
+Xiangling — Bennett — Fischl — Chevreuse
+This is a great 4-star–only team, especially if everyone is C6.
+Sample Rotation
+This team has a generally flexible rotation where you use abilities off cooldown; however, you should try to snapshot Bennett’s buff when summoning Oz and casting Xiangling’s Burst.
+Xiangling — Chevreuse (C6) — Raiden — Sara
+Xiangling’s ER requirements are low enough with Raiden that C6 Chevreuse can swap in for Bennett without a problem, opening him up for your team on the other side of Spiral Abyss.
+Note: This team is still viable if you replace either Chevreuse or Sara with Bennett.
+Sample Rotation
+Raiden E > Chevreuse Q hE > Sara E C > Xiangling Q ED > Sara Q > Raiden Q combo
+Burgeon
+Xiangling — Hydro — Dendro — Flex
+Burgeon teams are better in multi-target scenarios due to Burgeon’s AoE damage. These teams need a consistent Hydro applier to maintain a Hydro aura on enemies, which is essential to avoid Burning. Xiangling can be played as an off-field Pyro applier in Burgeon teams with her Burst.
+In Burgeon teams without Bennett, Xiangling should opt for R5 Kitain Cross Spear, Favonius Lance, or Engulfing Lightning in order to meet her incredibly high ER requirements. Additionally, her teammates can hold a Favonius weapon to further lower her ER requirement.
+Example Teams
+Xiangling — Neuvillette — Baizhu — Furina
+Neuvillette and Furina form an exceptional Hydro pairing. Baizhu’s low rate of Dendro application limits Dendro Core production, but it lets Xiangling trigger Vape off enemy Hydro auras.
+Sample Rotation
+Neuvillette E > Baizhu EQ > Xiangling Q ED > Furina ED Q > Neuvillette C E C Q > Baizhu E (N1) > Xiangling ED (N1) > Neuvillette 2[C]
+Double Pyro Flex
+Xiangling — Bennett — Flex — Flex
+Xiangling and Bennett create a strong and flexible Double Pyro core. Many on-field DPS characters appreciate Bennett’s massive Flat ATK buff and Xiangling’s strong Pyro damage and application.
+Example Teams
+Xiangling — Bennett — Navia — Zhongli
+Navia greatly appreciates Xiangling’s off-field Pyro damage and application that enables Pyro Crystallize. The Pyro Resonance ATK% buff is also nice. Xiangling has incredibly high ER requirements in this team.
+Sample Rotation
+Zhongli hED > Navia Q > Bennett Q E > Xiangling Q E > Navia 2[E N3D N2] > Bennett E > Xiangling N2
+Xiangling — Bennett — Wanderer — Faruzan
+Faruzan should hold 4pc Viridescent Venerer in this team to shred enemy Pyro RES for Xiangling.
+Sample Rotation
+Bennett E > Faruzan (ED) Q > Bennett Q E > Xiangling Q E > Wanderer C E combo (Q) > Bennett E > Xiangling N2
+Xiangling — Bennett — Ningguang — Chiori
+This is a fairly strong Ningguang team. Chiori and Ningguang should dash through Ningguang’s Skill (Jade Screen) to buff their Geo damage. This team needs to run a 20s rotation to accommodate Xiangling’s Burst cooldown.
+Sample Rotation
+Bennett Q E > Xiangling Q ED > Ningguang (C) E > Chiori D (Q) 2[E] > Ningguang D Q E C N2C > Bennett E > Xiangling N2 > Ningguang C N2C
+Credits
+irokei, jamberry, cuppacote, nikatosaurus, chasing_haze, aciewacie, raven.9205, polomo
+Team images made with the
+KQM portrait generator
+.

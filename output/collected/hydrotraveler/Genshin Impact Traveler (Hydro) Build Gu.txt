@@ -1,0 +1,614 @@
+Genshin Impact Traveler (Hydro) Build
+Sword
+Hydro
+-
+0/0
+Viatrix
+Pale Forgotten Glory
+A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.
+Best builds for Traveler (Hydro)
+SUPPORT Build
+Weapons
+1
+Favonius Sword
+Energy Recharge
+2
+Fleuve Cendre Ferryman
+R
+5
+Energy Recharge
+3
+Skyward Blade
+Energy Recharge
+4
+Freedom-Sworn
+Elemental Mastery
+5
+Sacrificial Sword
+Energy Recharge
+6
+Amenoma Kageuchi
+ATK%
+Artifacts
+1
+Instructor
+4
+2
+Noblesse Oblige
+4
+3
+Scroll of the Hero of Cinder City
+4
+4
+Tenacity of the Millelith
+4
+Substats Priority
+1
+Energy Recharge
+2
+CRIT Rate
+3
+CRIT DMG
+4
+ATK%
+Talents Priority
+1
+E
+Skill
+2
+Q
+Burst
+3
+NA
+Normal Attack
+Recommended Primary Stats
+Sands
+Energy Recharge / ATK%
+Goblet
+Hydro DMG Bonus
+Circlet
+CRIT Rate / CRIT DMG / Healing Bonus
+When building a team, avoid using
+Hydro Traveler
+unless necessary for
+Pneuma
+mechanics and you don't own the
+Sword of Descension
+or
+Sword of Narzissenkreuz
+yet.
+Note that
+Traveler
+does not generate
+particles
+if interrupted during the hold state of their
+Skill
+.
+Consider the following when using
+Traveler
+:
+Avoid using
+Traveler
+for
+Elemental Reactions
+that require consistent
+particle
+generation
+Use
+Traveler
+only when necessary for specific
+game mechanics
+or
+Reaction
+setups
+ON-FIELD DPS Build
+Weapons
+1
+Primordial Jade Cutter
+CRIT Rate
+2
+Mistsplitter Reforged
+CRIT DMG
+3
+Splendor of Tranquil Waters
+CRIT DMG
+4
+Uraku Misugiri
+CRIT DMG
+5
+Light of Foliar Incision
+CRIT DMG
+6
+Haran Geppaku Futsu
+CRIT Rate
+7
+Absolution
+CRIT DMG
+8
+Summit Shaper
+ATK%
+9
+Wolf-Fang
+CRIT Rate
+10
+Finale of the Deep
+ATK%
+11
+Harbinger of Dawn
+CRIT DMG
+12
+Fleuve Cendre Ferryman
+R
+5
+Energy Recharge
+13
+Festering Desire
+R
+5
+Energy Recharge
+14
+Favonius Sword
+Energy Recharge
+Artifacts
+1
+Marechaussee Hunter
+4
+2
+Emblem of Severed Fate
+4
+3
+Golden Troupe
+4
+Choose 2
+Hydro DMG Bonus +15% set
+2
+Golden Troupe
+2
+Emblem of Severed Fate
+2
+ATK +18% set
+2
+Substats Priority
+1
+Energy Recharge
+2
+CRIT Rate
+3
+CRIT DMG
+4
+ATK%
+5
+HP%
+Talents Priority
+1
+E
+Skill
+2
+Q
+Burst
+3
+NA
+Normal Attack
+Recommended Primary Stats
+Sands
+Energy Recharge / ATK%
+Goblet
+Hydro DMG Bonus
+Circlet
+CRIT Rate / CRIT DMG
+Hydro Traveler
+'s personal DPS is not high enough to clear the
+Abyss
+, unless used in an extremely expensive and invested team.
+To build a team around
+Hydro Traveler
+, consider the following:
+Invest in a high-damage dealing main DPS character to carry the team.
+Use a support character with high
+Energy Recharge
+to enable
+Hydro Traveler
+'s elemental bursts.
+Choose an
+Electro
+-based character to trigger
+Electro-Charged
+reactions and increase overall team damage.
+Keep in mind that even with an invested team,
+Hydro Traveler
+'s personal damage output will still be relatively low.
+In terms of artifacts, focus on sets that provide high
+Elemental Mastery
+and
+Attack%
+bonuses to maximize
+Hydro Traveler
+'s damage potential.
+Remember to farm materials and resources accordingly to support your team's growth and development.
+Hydro Traveler
+Playstyle and Build Guide
+IMPORTANT NOTICE: At the time of writing this,
+Hydro Traveler
+provides no utility to a team that cannot be better filled by another unit, including
+Barbara
+which all players can obtain at AR 18.
+SUPPORT
+Since
+Hydro Traveler
+lacks any utility, this playstyle focuses on using their Skill and Burst to trigger various support-based weapon and artifact passives along with dealing
+Pneuma
+damage with their Skill. This is only recommended if a source of
+Pneuma
+is required and
+Traveler
+is your only source of
+Pneuma
+aligned damage. It should be noted that the guaranteeable 4-Star "
+Sword of Narzissenkreuz
+" can also provide an
+Arkhe
+attack for other characters, meaning
+Hydro Traveler
+'s usability is further diminished if this weapon has been obtained.
+Artifact Sets:
+Tenacity of the Millelith
+: Only used if you use the hold version of
+Hydro Traveler
+'s Skill.
+ON FIELD DPS
+Hydro Traveler
+can be used as an on-field DPS. Typically this is only worth using in teams with
+Furina
+,
+Bennett
+, and a flexible unit. Their DPS is not extremely high, however.
+Weapon Choices:
+Uraku Misugiri
+: This weapon is
+Hydro Traveler
+'s Best Weapon in teams with a
+Geo
+character.
+Summit Shaper
+: This is ranked assuming
+Hydro Traveler
+is C4 which provides a shield for him.
+Wolf Fang
+: At R5 this weapon is about equal to
+Light of Foliar Incision
+.
+Favonius Sword
+: This weapon's utility may make it better than above options.
+Detailed weapon comparisons can be found here.
+Most-used community build
+This build is based on the community's most-used artifacts and weapons. Submit your UID to help improve this data.
+Weapons
+1
+Prototype Rancour
+Physical DMG Bonus
+2
+Favonius Sword
+Energy Recharge
+3
+Sacrificial Sword
+Energy Recharge
+4
+Harbinger of Dawn
+CRIT DMG
+5
+Iron Sting
+Elemental Mastery
+Artifacts
+1
+Deepwood Memories
+4
+2
+Gladiator's Finale
+4
+3
+Scroll of the Hero of Cinder City
+4
+4
+Obsidian Codex
+4
+5
+Emblem of Severed Fate
+4
+Best teams for Traveler (Hydro)
+Open the full Traveler (Hydro) team guide
+Traveler (Hydro) Skills
+Foreign Stream
+Normal Attack
+Performs up to 5 rapid strikes.
+Charged Attack
+Consumes a certain amount of Stamina to unleash 2 rapid sword strikes.
+Plunging Attack
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Level
+1
+1-Hit DMG
+44.5%
+2-Hit DMG
+43.4%
+3-Hit DMG
+53%
+4-Hit DMG
+58.3%
+5-Hit DMG
+70.8%
+Charged Attack DMG
+55.9% + 72.2%
+Charged Attack Stamina Cost
+20
+Plunge DMG
+63.9%
+Low/High Plunge DMG
+127.8% / 159.7%
+Aquacrest Saber
+You studied the ripples in the water with Paimon.
+Unleashes a torrent that can cleanse the world.
+Press
+Sends a Torrent Surge forward that will deal
+Hydro DMG
+to opponents it comes into contact with.
+Hold
+Enter Aiming Mode and constantly fire off Dewdrops in the direction in which you are aiming, dealing
+Hydro DMG
+to opponents they hit.
+When the skill ends, it will send a Torrent Surge forward that will deal
+Hydro DMG
+to opponents it comes into contact with.
+Suffusion: When using the Hold configuration of this skill, if the Traveler's HP is higher than 50%, the DMG dealt by Dewdrops will increase based on the Traveler's Max HP, and the Traveler will lose a fixed amount of HP every second.
+Arkhe: Pneuma
+At certain intervals, after using Torrent Surge, this skill will unleash a Spiritbreath Thorn that pierces opponents, dealing Pneuma-aligned
+Hydro DMG
+.
+Level
+1
+Torrent Surge DMG
+189.3%
+Dewdrop DMG
+32.8%
+Spiritbreath Thorn DMG
+32.8%
+Spiritbreath Thorn Interval
+9s
+Suffusion HP Cost
+4% Max HP
+Suffusion DMG Bonus
+0.64% Max HP
+Hold Duration
+Max 6s
+CD
+10s
+Rising Waters
+You studied the ebb and flow of the tides with Paimon.
+Unleashes a slow-moving floating bubble that deals continuous
+Hydro DMG
+to nearby opponents.
+Level
+1
+Skill DMG
+101.9%
+Duration
+4s
+CD
+20s
+Energy Cost
+80
+Passive Talents
+Spotless Waters
+Ascension Phase 1
+After the Dewdrop fired by the Hold Mode of the
+Aquacrest Saber
+hits an opponent, a Sourcewater Droplet will be generated near to the Traveler. If the Traveler picks it up, they will restore 7% HP.
+1 Droplet can be created this way every second, and each use of Aquacrest Saber can create 4 Droplets at most.
+Clear Waters
+Ascension Phase 4
+If HP has been consumed via Suffusion while using the Hold Mode
+Aquacrest Saber
+, the Torrent Surge at the skill's end will deal Bonus DMG equal to 45% of the total HP the Traveler has consumed in this skill use via Suffusion.
+The maximum DMG Bonus that can be gained this way is 5,000.
+Constellations
+Swelling Lake
+Constellation Lv. 1
+Picking up a Sourcewater Droplet will restore 2 Energy to the Traveler.
+You must first unlock the Ascension Talent "Spotless Waters."
+Trickling Purity
+Constellation Lv. 2
+The Movement SPD of
+Rising Waters
+' bubble will be decreased by 30%, and its duration increased by 3s.
+Turbulent Ripples
+Constellation Lv. 3
+Increases the Level of
+Aquacrest Saber
+by 3.
+Maximum upgrade level is 15.
+Pouring Descent
+Constellation Lv. 4
+When using
+Aquacrest Saber
+, an Aquacrest Aegis that can absorb 10% of the Traveler's Max HP in DMG will be created and will absorb
+Hydro DMG
+with 250% effectiveness. It will persist until the Traveler finishes using the skill.
+Once every 2s, after a Dewdrop hits an opponent, if the Traveler is being protected by Aquacrest Aegis, the DMG Absorption of the Aegis will be restored to 10% of the Traveler's Max HP. If the Traveler is not presently being protected by an Aegis, one will be redeployed.
+Churning Whirlpool
+Constellation Lv. 5
+Increases the Level of
+Rising Waters
+by 3.
+Maximum upgrade level is 15.
+Tides of Justice
+Constellation Lv. 6
+When the Traveler picks up a Sourcewater Droplet, they will restore HP to a nearby party member with the lowest remaining HP percentage based on 6% of said member's Max HP.
+Outfits
+As Heaven and Earth Are Made Anew
+An outfit worn by the Traveler which has accompanied the twin "stars" in their journey through countless worlds. Despite this, they cannot yet cannot grasp the true purpose of the cosmos. Even so, surely every question posed brings them a little closer to the final answer.
+Source
+:
+Complete the Archon Quest "True Moon" to obtain
+Rising Star
+Default
+The Traveler's outfit. A practical set of clothing to wear during a long journey.
+Stats
+Lv.
+1
+Lv.
+20
+Lv.
+40
+Lv.
+50
+Lv.
+60
+Lv.
+70
+Lv.
+80
+Lv.
+90
+Before Ascension
+After Ascension
+Ascend
+-
+1
+Base HP
+-
+912
+Base ATK
+-
+18
+Base DEF
+-
+57
+ATK%
+-
+0.0%
+Ascension Materials
+View ascension details
+Total
+420000
+1
+9
+9
+6
+168
+18
+30
+36
+Talent Materials
+LV.
+1
+→
+2
+12500
+Mora
+3
+Teachings of Equity
+6
+Transoceanic Pearl
+LV.
+2
+→
+3
+17500
+Mora
+2
+Guide to Justice
+3
+Transoceanic Chunk
+LV.
+3
+→
+4
+25000
+Mora
+4
+Guide to Order
+4
+Transoceanic Chunk
+LV.
+4
+→
+5
+30000
+Mora
+6
+Guide to Equity
+6
+Transoceanic Chunk
+LV.
+5
+→
+6
+37500
+Mora
+9
+Guide to Justice
+9
+Transoceanic Chunk
+LV.
+6
+→
+7
+120000
+Mora
+4
+Philosophies of Order
+4
+Xenochromatic Crystal
+1
+Worldspan Fern
+LV.
+7
+→
+8
+260000
+Mora
+6
+Philosophies of Equity
+6
+Xenochromatic Crystal
+1
+Worldspan Fern
+LV.
+8
+→
+9
+450000
+Mora
+12
+Philosophies of Justice
+9
+Xenochromatic Crystal
+2
+Worldspan Fern
+LV.
+9
+→
+10
+700000
+Mora
+16
+Philosophies of Order
+12
+Xenochromatic Crystal
+2
+Worldspan Fern
+1
+Crown of Insight
+Total
+1652500
+3
+11
+6
+4
+20
+12
+6
+6
+22
+31
+6
+1

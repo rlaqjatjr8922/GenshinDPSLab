@@ -1,0 +1,190 @@
+Genshin Impact Noelle Build
+Geo
+Claymore
+Main DPS
+Noelle Upgrade Materials
+Resistance
+Dvalin's Claw
+Prithiva Topaz Sliver
+Basalt Pillar
+Valberry
+Damaged Mask
+Noelle Best Weapons
+1
+Redhorn Stonethresher
+2
+Serpent Spine
+3
+Skyward Pride
+4
+Whiteblind
+5
+Favonius Greatsword
+Noelle Best Artifacts
+1
+Husk of Opulent Dreams
+4
+2
+Retracing Bolide
+4
+3
+Gladiator's Finale
+4
+4
+Archaic Petra
+2
+Husk of Opulent Dreams
+2
+5
+Gladiator's Finale
+2
+Husk of Opulent Dreams
+2
+Noelle Best Stats
+Sands:
+DEF% / ATK%
+Goblet:
+Geo DMG
+Circlet:
+CRIT Rate / CRIT DMG
+Substats:
+CRIT Rate / CRIT DMG > Energy Recharge > DEF%
+Character Builds by Genshin Impact Helper →
+Showcase
+Teams
+Talents
+Passives
+Constellations
+Ascension
+Noelle Showcase
+Noelle video guide by
+Zy0x
+.
+Check out his content!
+Best Noelle Teams
+Noelle Standard
+Noelle Mono Geo
+Noelle Talents
+Normal Attack
+Favonius Bladework - Maid
+Normal Attack Performs up to 4 consecutive strikes. Charged Attack Drains Stamina over time to perform continuous swirling attacks against all nearby enemies. At end of the sequence, perform a more powerful slash. Plunging Attack Plunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.
+Elemental Skill
+Breastplate
+Summons a protective stone armor, dealing
+Geo
+DMG to surrounding enemies and creating a shield. The shield's DMG Absorption scaled based on Noelle's DEF. The shield has the following properties: When Noelle's Normal and Charged Attacks hit a target, they have a certain chance to regenerate HP for all characters, both on and off the field. Applies the
+Geo
+element to the character. Possesses 250% Absorption Efficiency against
+Geo
+DMG. The amount of HP healed when regeneration is triggered scales based on Noelle's DEF.
+Elemental Burst
+Sweeping Time
+Gathering the strength of stone around her weapon, Noelle strikes the enemies surrounding her within a large AoE, dealing
+Geo
+DMG. Afterwards, Noelle gains the following effects: Larger attack AoE. Converts attack DMG to
+Geo
+DMG. Increased ATK that scales based on her DEF.
+Noelle Passives
+Ascension 1
+Devotion
+When Noelle is in the party but not on the field, this ability triggers automatically when the active character's HP falls below 30%: Creates a shield that lasts for 20s and absorbs DMG equal to 400% of Noelle's DEF. This effect can only occur once every 60s.
+Ascension 4
+Nice and Clean
+Every 4 Normal or Charged Attack hits will decrease the CD of Breastplate by 1s. Hitting multiple enemies with a single attack is only counted as 1 hit.
+Passive
+Maid's Knighthood
+When a Perfect Cooking is achieved on a DEF-boosting dish, Noelle has a 12% chance to obtain double the product.
+Noelle Constellations
+Constellation 1
+I Got Your Back
+While Sweeping Time and Breastplate are both in effect, the chance of Breastplate's healing effects activating is increased to 100%.
+Constellation 2
+Combat Maid
+Decreases the Stamina Consumption of Noelle's Charged Attacks by 20% and increases her Charged Attack DMG by 15%.
+Constellation 3
+Invulnerable Maid
+Increases the Level of Breastplate by 3. Maximum upgrade level is 15.
+Constellation 4
+To Be Cleaned
+When Breastplate's duration expires or it is destroyed by DMG, it will deal 400% ATK of
+Geo
+DMG to surrounding enemies.
+Constellation 5
+Favonius Sweeper Master
+Increase the Level of Sweeping Time by 3. Maximum upgrade level is 15.
+Constellation 6
+Must Be Spotless
+Sweeping Time increases Noelle's ATK by an additional 50% of her DEF. Additionally, every enemy defeated during the skill's duration adds 1s to the duration, up to 10s.
+Noelle Ascension Costs
+Rank
+Lvl
+Cost
+Material
+Material
+Material
+Material
+1
+20
+20000
+1
+Prithiva Topaz Sliver
+3
+Valberry
+3
+Damaged Mask
+2
+40
+40000
+3
+Prithiva Topaz Fragment
+2
+Basalt Pillar
+10
+Valberry
+15
+Damaged Mask
+3
+50
+60000
+6
+Prithiva Topaz Fragment
+4
+Basalt Pillar
+20
+Valberry
+12
+Stained Mask
+4
+60
+80000
+3
+Prithiva Topaz Chunk
+8
+Basalt Pillar
+30
+Valberry
+18
+Stained Mask
+5
+70
+100000
+6
+Prithiva Topaz Chunk
+12
+Basalt Pillar
+45
+Valberry
+12
+Ominous Mask
+6
+80
+120000
+6
+Prithiva Topaz Gemstone
+20
+Basalt Pillar
+60
+Valberry
+24
+Ominous Mask
+Loading...

@@ -1,0 +1,154 @@
+0
+Bookmark (
+0
+)
+Please login to bookmark
+Close
+Username or Email Address
+Password
+Remember Me
+Don't have an account? Register here.
+Create an account to bookmark articles.
+Username
+*
+3-60 characters, letters, numbers, spaces, and these symbols: @._-
+Email
+*
+You will receive an email to set your password after registration.
+Subscribe to The Destructoid Checkpoint Newsletter
+Get the latest gaming news and updates delivered to your inbox.
+Create Account
+Already have an account? Sign in here.
+Back to top
+Home
+Guides
+Best Xingqiu Builds, Weapons, and Teams in Genshin Impact
+At your service, my liege.
+Christine Choi
+| Oct 9, 2024 9:56 am
+Image via HoYoverse
+Xingqiu is a 4-star Hydro Sword off-field DPS in
+Genshin Impact
+.
+Here are the best weapons, artifacts, and teams to bring out the power of Guhua!
+Recommended Videos
+Playstyles
+Xingqiu is an
+off-field DPS
+who deals damage with his Burst. Casting his Burst summons a set of rain swords around him, which mitigate damage taken and provide interruption resistance. The rain swords persist when swapping to a different character. When your active character performs a Normal Attack with Xingqiu’s Burst active, it will proc a coordinated sword rain attack that deals single-target Hydro damage. Especially at Constellation 6, Xingqiu’s sword rain attacks can deal respectable damage and practically guarantee a Hydro aura.
+Xingqiu’s Skill consists of two big hits of Hydro damage. It has a long 21-second cooldown and generates five Hydro particles with each cast. The guaranteed five particles makes Xingqiu a great Sacrificial Sword user, allowing him to generate a whopping ten Hydro particles in a matter of seconds.
+When using Xingqiu in a team, just use his Skill and Burst before swapping to other characters. Try to weave in Normal Attacks while rotating through other characters to get a few more sword rain attacks in. If equipped with Sacrificial Sword, use two Skills in a row before Bursting. Skill > Burst > Skill is not recommended due to increased rotation time.
+Screenshot by Destructoid
+Weapons
+Primordial Jade Cutter / Mistsplitter Reforged / Haran Geppaku Futsu / Light of Foliar Incision / Skyward Blade / Summit Shaper
+These are 5-star stat sticks that result in the best personal DPS. Xingqiu has a lot of options though, so consider the 4-stars below before committing to pulling on the
+weapon banner
+.
+Wolf-Fang
+The new battle pass Sword provides a CRIT Rate secondary stat and Skill/Burst DMG bonus. Xingqiu is unable to stack its passive unless he stays on-field, but it’s still an option to consider. You can gain one quick stack on his Burst by performing a quick Normal Attack before switching to other characters.
+Favonius Sword / Sacrificial Sword (R3+)
+These are the more accessible generally-recommended 4-star options. Both of these Swords are good options for Xingqiu, despite Favonius’ low base ATK. Favonius makes Xingqiu a better battery in general, while Sacrificial Sword can make him a better battery for Hydro units. Note that casting two consecutive Skills will extend your rotation time by a few seconds. Sacrificial Sword needs to be at least Refinement 3 in order to proc every rotation.
+Fleuve Cendre Ferryman / Amenoma Kageuchi
+These are the free-to-play options if you have access to none of the above. Xingqiu needs quite a lot of Energy, and these Swords will help with that.
+Lion’s Roar / Finale of the Deep
+These Swords are actually quite good, but situational. Lion’s Roar is only recommended in teams where you can maintain a consistent Electro aura (e.g., Raiden or Fischl teams). Finale of the Deep requires pairing Xingqiu with a potent healer.
+Screenshot by Destructoid
+Artifacts
+4pc Emblem of Severed Fate (4EoSF)
+Xingqiu’s best artifact set by far. It provides the Energy Recharge that he is hungry for, and converts a portion of it into Burst DMG.
+2pc combos
+Especially at lower Energy Recharge thresholds, you can just combine helpful 2pc set bonuses. Energy Recharge, Hydro DMG, Burst DMG, and ATK are all useful stats for Xingqiu.
+Artifact Stats
+Sands
+Goblet
+Circlet
+Energy Recharge
+ATK
+Hydro DMG
+CRIT Rate/DMG
+Without Constellation 6 or an Energy-generating weapon, Xingqiu can require upwards of 200% Energy Recharge. Constellation 6 and Sacrificial Sword can get this down to about 150%. I personally still run 200% Energy Recharge even with Constellation 6, just for the comfort factor. Find a value that works for you and your team(s).
+The rest of Xingqiu’s stats can be invested in CRIT and ATK.
+Screenshot by Destructoid
+Teams
+Xingqiu is incredibly flexible. He’s one of the
+best 4-star units in
+Genshin
+due to his high DPS and ability to fit into a variety of teams. Here are just a few archetypes where Xingqiu is useful, but you can play him any time you’re able to use Normal Attacks and need an off-field Hydro DPS.
+Vaporize
+Xingqiu’s ability to maintain the Wet status on enemies (actual in-game term, I swear) makes him the perfect Vaporize enabler for Pyro DPS units. This includes classic teams like:
+Xingqiu –
+Hu Tao
+–
+Yelan
+– shielder
+Xingqiu – Yoimiya – Yun Jin –
+Bennett
+Xingqiu – Xiangling – Bennett – flex
+Electro-Charged/Overvape
+Combine Hydro with Electro to trigger Electro-Charged. Add some Pyro on top, and you have a combination of Electro-Charged and Overload that fills your screen with numbers. You can more or less mix and match characters as desired, but I highly recommend bringing an Anemo unit to keep enemies grouped.
+Xingqiu – Sucrose –
+Fischl
+– Beidou
+Xingqiu – Yoimiya – Fischl – Bennett/Zhongli/Venti
+Bloom/Hyperbloom/Burgeon
+Xingqiu’s Hydro application makes him great for Bloom-based teams as well. Combine Hydro and Dendro to trigger Bloom. You can stop here if you’re playing Nilou, but otherwise, you’ll want to add either Electro or Pyro for Hyperbloom or Burgeon.
+Xingqiu – Nilou – Nahida/Dendro Traveler/Collei – healer
+Xingqiu – Yelan – Dendro – Kuki/Raiden
+Xingqiu – Fischl – Dendro – Sucrose
+Xingqiu – Yelan – Dendro – Thoma
+Freeze
+Freeze teams can be tricky with Xingqiu since you need to use Normal Attacks to trigger his sword rain attacks. This makes him explicitly anti-synergistic with one of the primary Freeze powerhouses: Ganyu. He still works great with Ayaka though, who can use her Cryo-infused Normal Attacks to deal damage and trigger sword rain attacks.
+Xingqiu – Ayaka/Kaeya/Rosaria – Kazuha – Cryo
+Xingqiu – Kaeya/Rosaria – Kazuha/Shenhe – Chongyun
+Flex off-field DPS
+As long as he has enough Energy, Xingqiu can be slotted into most teams that allow for the occasional Normal Attack. They might not make the most of his Hydro application, and these aren’t his
+best
+teams, but his raw damage and interruption resistance still make him worth considering.
+Xingqiu –
+Noelle
+– Albedo – Gorou
+Xingqiu – Wanderer/Xiao – Faruzan – Bennett
+Xingqiu –
+Tartaglia
+– Kazuha – healer
+0
+Christine Choi
+Contributing Writer - Christine has been gaming since she first stole her brother's Game Boy as a kid. She's come a long way since then and has been creating content for Genshin Impact since 2021.
+Tags:
+Genshin Impact
+guides
+HoYoverse
+miHoYo
+mobile
+PC
+PS4
+PS5
+0
+Bookmark (
+0
+)
+Please login to bookmark
+Close
+Username or Email Address
+Password
+Remember Me
+Don't have an account? Register here.
+Create an account to bookmark articles.
+Username
+*
+3-60 characters, letters, numbers, spaces, and these symbols: @._-
+Email
+*
+You will receive an email to set your password after registration.
+Subscribe to The Destructoid Checkpoint Newsletter
+Get the latest gaming news and updates delivered to your inbox.
+Create Account
+Already have an account? Sign in here.
+Share
+this article
+Destructoid is supported by our audience. When you purchase through links on our site, we may earn a small affiliate commission.
+Learn more about our Affiliate Policy
+.
+Like our content? Set Destructoid as a
+Preferred Source on Google
+in just one step to ensure you see us more frequently in your Google searches!

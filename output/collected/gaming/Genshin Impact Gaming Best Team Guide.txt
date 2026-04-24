@@ -1,0 +1,270 @@
+Genshin Impact Gaming Best Team Guide
+Last updated April 24, 2026. Looking for the best Gaming teams in
+        Genshin Impact? Start with the top team summary below, then pick the
+        lineup that fits your roster.
+This page provides the best team information for Gaming, primarily a Pyro DPS. Top teams include Melting or Pure Pyro compositions, allowing for flexibility based on your build and character roster.
+View Gaming's character page
+Gaming Team Summary
+#1
+Team Rating:SS
+Gaming Melt Plunge Team
+#2
+Team Rating:SS
+Gaming Pure Pyro Melt Team
+#3
+Team Rating:SS
+Gaming Vaporize SS Team
+#1 Gaming Melt Plunge Team
+Tier SS
+Gaming
+is the main DPS, with
+Ganyu
+providing off-field Cryo application to enable Melt reactions.
+Layla
+adds shielding and extra Cryo support, while
+Xianyun
+heals and greatly enhances Gaming's Plunging Attacks.
+Gaming
+Main DPS
+Pyro
+Gaming is the team's on-field carry. His Plunging Attacks provide consistent Pyro application to trigger Melt.
+Artifacts
+Crimson Witch of Flames
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Pyro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Redhorn Stonethresher
+Serpent Spine
+Ganyu
+Sub DPS
+Cryo
+Ganyu provides Cryo application to help Gaming trigger Melt reactions.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Hunter's Path
+Hamayumi
+Layla
+Support
+Cryo
+Layla offers a strong shield for team survivability and provides additional off-field Cryo damage/application.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+Cryo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+HP% / CRIT Rate / CRIT DMG
+Weapons
+Primordial Jade Cutter
+Harbinger of Dawn
+Xianyun
+Support
+Anemo
+Xianyun provides healing and boosts Gaming's Plunging Attack performance.
+Artifacts
+Song of Days Past
+Main Stats
+Sands
+Energy Recharge
+Goblet
+ATK%
+Circlet
+Healing Bonus
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Crane's Echoing Call
+Oathsworn Eye
+#2 Gaming Pure Pyro Melt Team
+Tier SS
+Gaming
+is the main DPS, with
+Xianyun
+enabling strong Plunging Attack damage and healing,
+Xiangling
+adding off-field Pyro damage, and
+Bennett
+providing a massive ATK buff and healing. Note: the guide mentions Ganyu for Cryo application, but she is not included in the listed team composition.
+Gaming
+Main DPS
+Pyro
+Main on-field damage dealer. His Plunging Attacks provide continuous Pyro DMG.
+Artifacts
+Marechaussee Hunter
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Pyro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Redhorn Stonethresher
+Serpent Spine
+Xiangling
+Sub DPS
+Pyro
+Her Elemental Burst provides huge off-field damage.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+ATK% / Energy Recharge
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Engulfing Lightning
+"The Catch"
+Xianyun
+Support
+Anemo
+Provides healing and boosts Gaming’s Plunging Attack damage.
+Artifacts
+Song of Days Past
+Main Stats
+Sands
+Energy Recharge
+Goblet
+ATK%
+Circlet
+Healing Bonus
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Crane's Echoing Call
+Oathsworn Eye
+Bennett
+Support
+Pyro
+Provides a huge ATK buff and healing through his Elemental Burst.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+Energy Recharge
+Goblet
+HP%
+Circlet
+HP%
+Substats
+Energy Recharge / HP%
+Weapons
+Aquila Favonia
+Favonius Sword
+#3 Gaming Vaporize SS Team
+Tier SS
+Gaming Vaporize team centered on
+Gaming
+as the Main DPS. His Plunging Attacks consistently apply Pyro to trigger Vaporize, with
+Furina
+providing off-field Hydro application,
+Kazuha
+shredding Pyro RES and grouping enemies, and
+Xianyun
+supplying healing plus Plunging Attack buffs.
+Gaming
+Main DPS
+Pyro
+Main DPS of the team. His Plunging Attacks provide continuous Pyro application to trigger Vaporize.
+Artifacts
+Crimson Witch of Flames
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Pyro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Redhorn Stonethresher
+Serpent Spine
+Kaedehara Kazuha
+Support
+Anemo
+Groups enemies, provides crowd control, buffs team damage, and reduces enemy Elemental RES.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Freedom-Sworn
+Iron Sting
+Furina
+Sub DPS
+Hydro
+Off-field Hydro application enables Vaporize. Her Burst also increases team DMG based on HP changes, which Xianyun helps stabilize through healing.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Fleuve Cendre Ferryman
+Xianyun
+Support
+Anemo
+Provides healing and boosts Gaming's Plunging Attacks.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+Energy Recharge
+Goblet
+ATK%
+Circlet
+Healing Bonus
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Crane's Echoing Call
+Oathsworn Eye
+Gaming Teams FAQ
+What is the best Gaming team in Genshin Impact?
+Gaming Melt Plunge Team is one of the strongest Gaming teams right now. Use the team summary and build cards on this page to pick the best version for your account.
+What are good Gaming teams without premium weapons?
+You can run strong Gaming teams without signature weapons by prioritizing reaction synergy, energy consistency, and artifact main stats shown in each build card.
+Which teammates are best with Gaming?
+Common high-performing partners include teams such as Gaming Melt Plunge Team, Gaming Pure Pyro Melt Team, Gaming Vaporize SS Team. Check each lineup section for role breakdowns and gear priorities.

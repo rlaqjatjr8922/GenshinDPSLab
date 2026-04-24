@@ -1,0 +1,74 @@
+Home
+Guides
+Genshin Impact
+The best Genshin Impact Tighnari team comps
+Power in numbers
+Guide
+by
+Josh Broadwell
+Contributor
+Updated on
+Aug. 24, 2022
+1 comment
+Follow Genshin Impact
+The best
+Genshin Impact
+Tighnari teams
+are more complicated than you might expect, thanks to changes introduced with the Dendro element. Now that the new Dendro archer is out and we've spent some time with him, we've updated our Tighnari team guide with a new recommendation that puts him in a more passive role as well.
+Dendro reactions
+have multiple branching paths, and since Tighnari is (mostly) a Dendro DPS above all else, you have quite a few different options to get the most out of him and his elemental mastery.
+Version 3.0 "The Morn a Thousand Roses Brings" Trailer | Genshin Impact
+Watch on YouTube
+These suggested teams are calibrated based on our picks for the
+best Tighnari build
+, so if you're not familiar with the new character, check those out too.
+What is the best Tighnari team comp?
+Tighnari is designed for elemental mastery, and we recommend focusing on that stat in our
+Tighnari build guide
+. There’s no shortage of Dendro-related elemental reactions introduced in Genshin Impact 3.0. HoYoverse added six new ones, but early indications are that
+Quicken, a reaction that takes place when Dendro and Electro meet, may be the most useful for Tighnari
+in particular.
+Earlier leaks called the Quickened state Catalyze, so if you’re thinking “what about Catalyze?” this is that.
+When a foe is under the Quicken effect, attacking with Electro increases Electro damage and attacking with Dendro increases Dendro damage. Tighnari is already build to deal high Dendro damage with his powerful charged attacks, and this tentatively seems like the best way to maximize his output.
+Tighnari Quicken team
+Tighnari
+Fischl OR Raiden Shogun
+Zhongli
+Shenhe
+A Tighnari Quicken team will center mainly around Tighnari, of course, and an Electro character whose elemental skills remain active while they aren’t on the field. The two best candidates are Fischl, with her Oz turret, and the Raiden Shogun’s Baleful Omen skill attack opponents at a distance and apply Electro. Yae Miko is a solid replacement for the Shogun if you have her.
+Kuki Shinobu is another choice, though you need to be closer to your foe with her.
+Zhongli is there to reduce enemy resistance to the elements you’re using and to provide shields. Early indications are that Dendro can’t be used with Swirl, and as a result, won’t be affected by Viridescent Venerer. This is the only way to reduce your foe’s elemental resistance. If you don’t have Zhongli, another shield generator such as Yun Jin or Gorou would work effectively.
+For our final slot, we prioritized Shenhe. Cryo can’t react with Dendro, but Shene’s elemental skill can increase the elemental damage your party deals.
+Some popular theory builds include Collei as a sub-DPS, but we’re tentatively keeping her off the team for now. Using an Electro character with long-lasting skills means you can rely on Tighnari’s charged attack and burst to trigger reactions and deal Dendro damage. If you build Tighnari with Gilded Dreams, you actually get a bit more elemental mastery by not having Collei in the party than you do with Dendro’s resonance effect.
+Tighnari team - Sub-DPS
+The Quicken team centers on having your Electro character in a supporting role, but since Quicken works both ways, you could swap those roles and make Tighnari your supporting sub-DPS. This setup works particularly well with Keqing, even more so if you have Lion's Roar on her since it boosts damage dealt to enemies afflicted with Electro.
+Raiden Shogun, Razer, and Yae Miko would all be solid choices for this team as well, and presumably Cyno, once he's available.
+Tighnari Bloom team
+Tighnari
+Yelan, Mona, or Xingqiu
+Yanfei or Klee
+Fischl, Yae Miko, or Raiden Shogun
+Bloom is a more complicated reaction that has
+three different forms.
+The initial reaction involves Dendro and Hydro, and it creates Dendro cores. Using
+Pyro on the cores creates an explosion
+, and using
+Electro creates a series of homing arrows
+that target a nearby foe.
+Five cores can exist on the field at once. If a sixth one is generated, the cores explode and deal Dendro damage in a broad area.
+Your Bloom team should ideally cover all these bases. For Electro and Pyro, you want a character who can target the core directly.
+Any Hydro character would work for generating the cores, but if you want to generate five quickly or just as many as you can to trigger the Dendro explosion, a character whose Hydro skills stay active off the field would work best.
+Since Dendro is only involved in the initial reaction, Tighnari would actually take a less active role in this team, applying Dendro with his charged shot before you switch to your Pyro or Electro character for the rest. It doesn’t seem like the most efficient use for him, admittedly, so you may want to reserve this setup for a Collei team instead.
+What is the best Tighnari F2P team?
+Tighnari
+Lisa
+Barbara
+Xiangling
+The same guiding principles apply to a Tighnari F2P team, though you can pretty much squeeze Bloom, Burning, and Quicken onto the same team without having to adjust much.
+Lisa is excellent for applying Electro continuously, though the best use is firing off her burst, then switching to Tighnari to use his charged attacks and deal higher Dendro damage. For Bloom, apply Dendro with Tighnari’s skill, then switch to Barbara and use her normal attack to create cores.
+For burning, you’ll get the most out of using Xiangling’s burst and then switching to Tighnari, so make sure Xiangling has some extra energy recharge for this team.
+If you're saving up for future
+Genshin Impact banners
+, make sure to check out our up-do-date list of
+Genshin Impact codes
+for some free Primogems.

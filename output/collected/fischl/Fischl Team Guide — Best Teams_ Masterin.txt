@@ -1,0 +1,842 @@
+Genshin Impact Fischl Best Team Guide
+Last updated April 24, 2026. Looking for the best Fischl teams in
+        Genshin Impact? Start with the top team summary below, then pick the
+        lineup that fits your roster.
+Fischl serves as a Sub-DPS with Thunder, Superconduct, and Electro-Charged archetypes, offering flexibility to swap with Beidou for optimal synergy. This composition emphasizes support and damage control while allowing adaptability.
+View Fischl's character page
+Fischl Team Summary
+#1
+Team Rating:S
+Clorinde Fischl Mavuika Chevreuse Overload Team
+C6
+#2
+Team Rating:S
+Chasca Fischl Electro-Charged Team
+#3
+Team Rating:S
+Arlecchino Fischl Chevreuse Bennett Overload Team
+#4
+Team Rating:S
+Cyno Fischl Overload with Xiangling Chevreuse
+C6
+#5
+Team Rating:S
+Clorinde Fischl Aggravate Team
+#6
+Team Rating:A
+Fischl Aggravate Keqing Hyperbloom
+#7
+Team Rating:S
+Fischl Anemo Venti Hypercarry
+#8
+Team Rating:S
+Fischl Overload Team #3 - Klee Overload with Fischl, Durin & Bennett
+#9
+Team Rating:S
+Fischl Venti Overload Swirl Team
+#10
+Team Rating:S
+Fischl Electro-Charged Lunar-Charged Team #2
+#1 Clorinde Fischl Mavuika Chevreuse Overload Team
+Tier S
+Overload-focused Electro/Pyro team
+built around Clorinde as the on-field DPS, with Fischl and Mavuika providing off-field Electro/Pyro damage and Chevreuse supplying healing, buffs, and resistance shredding. Strong synergy through frequent Overload triggers and high personal damage from all three damage dealers.
+Clorinde
+Main DPS
+Electro
+On-field driver and main damage dealer. Uses Elemental Skill to convert Normal Attacks into Electro pistol attacks for sustained damage. Prioritize maintaining Bond of Life management for optimal skill use.
+Artifacts
+Fragment of Harmonic Whimsy
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Absolution
+The Black Sword
+Fischl
+Sub DPS
+Electro
+Off-field Electro applicator via Oz, contributing consistent damage and enabling Overload reactions. Excellent single-target pressure and energy-friendly rotation.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Aqua Simulacra
+Alley Hunter
+Mavuika
+Sub DPS
+Pyro
+Provides off-field Pyro damage through her Ring of Searing Radiance. Her Burst can also amplify the active character's damage based on Fighting Spirit, adding strong team-wide value.
+Artifacts
+Obsidian Codex
+Main Stats
+Sands
+ATK%
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+A Thousand Blazing Suns
+Serpent Spine
+Chevreuse
+Support
+Pyro
+Constellation 6+
+Healer/support that enables the team's core Overload synergy. Reduces Pyro and Electro RES when Overload is triggered, buffs Pyro and Electro characters with her skill, and provides healing.
+C6
+adds further Pyro/Electro DMG support.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / CRIT Rate / Energy Recharge
+Weapons
+Symphonist of Scents
+Favonius Lance
+#2 Chasca Fischl Electro-Charged Team
+Tier S
+Electro-Charged team built around
+Chasca
+as the on-field Main DPS, with
+Furina
+and
+Fischl
+providing off-field Hydro/Electro application and damage, plus
+Bennett
+for healing and a strong ATK buff. Despite the label, the team can also trigger multiple reactions thanks to Chasca’s team-based elemental shell interactions.
+Chasca
+Main DPS
+Anemo
+On-field driver and main source of damage. Chasca’s Shadowhunt Shells adapt based on teammates’ elements, letting her trigger reactions efficiently on her own.
+Artifacts
+Obsidian Codex
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Astral Vulture's Crimson Plumage
+Flower-Wreathed Feathers
+Furina
+Sub DPS
+Hydro
+Provides consistent off-field Hydro application through Skill and large team damage buffs through Burst. Her HP fluctuation mechanic is supported by Bennett’s healing.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Favonius Sword
+Fischl
+Sub DPS
+Electro
+Summons Oz for continuous off-field Electro damage. With 2 Hexerei characters, Oz also grants team buffs; Electro-Charged helps increase Elemental Mastery for nearby active characters.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Aqua Simulacra
+The Stringless
+Bennett
+Support
+Pyro
+Provides strong ATK buff and healing through his Elemental Burst, keeping Furina’s HP mechanic comfortable while boosting team damage.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+Energy Recharge / HP%
+Weapons
+Mistsplitter Reforged
+The Alley Flash
+#3 Arlecchino Fischl Chevreuse Bennett Overload Team
+Tier S
+Strong Overload team centered around
+Arlecchino
+as the on-field Pyro DPS with
+Fischl
+providing consistent off-field Electro damage.
+Chevreuse
+enables the core Overload synergy by shredding Pyro/Electro RES and buffing the party, while
+Bennett
+adds a massive ATK buff and healing support.
+Arlecchino
+Main DPS
+Pyro
+On-field Pyro carry. Her attacks convert to Pyro when Bond of Life is above 20%, and her Burst deals AoE Pyro DMG while resetting Skill CD. She can only be healed by her Burst.
+Artifacts
+Fragment of Harmonic Whimsy
+Main Stats
+Sands
+ATK%
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Crimson Moon's Semblance
+Deathmatch
+Fischl
+Sub DPS
+Electro
+Summons Oz to continuously deal off-field Electro DMG. Provides strong sustained Electro application and damage for Overload reactions. With at least 2 Hexerei characters in the party, Oz can provide extra team buffs.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Aqua Simulacra
+Sacrificial Bow
+Chevreuse
+Support
+Pyro
+Core Overload enabler. Reduces enemy Pyro and Electro RES when Overload is triggered, and buffs Pyro/Electro teammates' ATK based on her Max HP. Her Skill also heals allies, making her a partial healer. At C6, she can further increase teammates' Pyro and Electro DMG.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / CRIT Rate / Energy Recharge
+Weapons
+Symphonist of Scents
+Favonius Lance
+Bennett
+Support
+Pyro
+Provides a huge ATK buff and healing through his Elemental Burst. Also helps keep the team stable while boosting Arlecchino's damage.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+Energy Recharge / HP%
+Weapons
+Mistsplitter Reforged
+The Alley Flash
+#4 Cyno Fischl Overload with Xiangling Chevreuse
+Tier S
+Overload team built around
+Cyno
+as the on-field Electro DPS, supported by
+Fischl
+and
+Xiangling
+for off-field damage and consistent elemental application, with
+Chevreuse
+enabling strong Pyro/Electro buffs, RES shred, and healing support.
+Cyno
+Main DPS
+Electro
+Main on-field carry. Cyno’s Elemental Burst infuses his Normal Attacks with Electro for sustained damage during his field time.
+Artifacts
+Echoes of an Offering
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Staff of the Scarlet Sands
+Deathmatch
+Fischl
+Sub DPS
+Electro
+Summons Oz with Elemental Skill for continuous off-field Electro damage. With at least 2 Hexerei characters in the party, Oz also provides extra team buffs.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Aqua Simulacra
+Sacrificial Bow
+Xiangling
+Sub DPS
+Pyro
+Off-field Pyro applicator and damage dealer. Her Elemental Burst deals strong continuous Pyro damage while Cyno is active.
+Artifacts
+Gilded Dreams
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Energy Recharge / Elemental Mastery / ATK% / CRIT DMG / CRIT Rate
+Weapons
+Engulfing Lightning
+"The Catch"
+Chevreuse
+Support
+Pyro
+Constellation 6+
+Core support for Overload teams. Reduces enemy Pyro and Electro RES when Overload is triggered, grants ATK buffs to Pyro/Electro teammates based on her Max HP, heals allies, and at C6 increases teammates’ Pyro and Electro DMG.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / CRIT Rate / Energy Recharge
+Weapons
+Symphonist of Scents
+Favonius Lance
+#5 Clorinde Fischl Aggravate Team
+Tier S
+Aggravate core built around Clorinde’s on-field Electro damage, with Fischl providing strong off-field Electro application, Nahida enabling Dendro aura for Aggravate, and Xilonen supplying RES shred and healing support.
+Clorinde
+Main DPS
+Electro
+Clorinde is the on-field driver and main damage dealer. Her Elemental Skill converts Normal Attacks into Electro pistol attacks for sustained damage, and her lunge attack gains stronger AoE and damage when Bond of Life is high.
+Artifacts
+Fragment of Harmonic Whimsy
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Absolution
+The Black Sword
+Fischl
+Sub DPS
+Electro
+Fischl summons Oz for consistent off-field Electro damage and excellent reaction uptime. In Hexerei teams, Oz also grants additional team buffs, increasing ATK on Overloaded and Elemental Mastery on Electro-Charged or Lunar-Charged reactions.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Aqua Simulacra
+The Stringless
+Xilonen
+Support
+Geo
+Xilonen reduces enemy elemental RES through her Samplers and also provides healing for the team. She helps boost overall team damage while improving survivability.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Peak Patrol Song
+Favonius Sword
+Nahida
+Sub DPS
+Dendro
+Nahida provides strong off-field Dendro application through her Elemental Skill and improves team damage with her Burst based on teammates’ elements. She is a key enabler for Aggravate reactions.
+Artifacts
+Deepwood Memories
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / CRIT Rate / CRIT DMG / Energy Recharge / ATK%
+Weapons
+A Thousand Floating Dreams
+Wandering Evenstar
+#6 Fischl Aggravate Keqing Hyperbloom
+Tier A
+Aggravate-focused Electro team with Keqing as the on-field driver and Fischl providing strong off-field Electro damage. Xilonen supplies RES shred and healing, while Nahida enables Dendro application for Aggravate reactions.
+Keqing
+Main DPS
+Electro
+On-field Electro driver. Keqing uses her Elemental Skill to mark enemies and blink for an Electro slash, then gains Electro infusion to trigger consistent Aggravate reactions.
+Artifacts
+Thundering Fury
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / ATK%
+Weapons
+Mistsplitter Reforged
+Wolf-Fang
+Fischl
+Sub DPS
+Electro
+Off-field Electro support with Oz for continuous Electro application and strong personal damage. Provides additional team buffs when conditions are met.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Aqua Simulacra
+The Stringless
+Xilonen
+Support
+Geo
+Provides elemental RES shred via Samplers and offers healing for the team.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Peak Patrol Song
+Favonius Sword
+Nahida
+Sub DPS
+Dendro
+Applies Dendro off-field through Elemental Skill to enable Aggravate reactions and contributes strong reaction-based damage. Her Burst further enhances her skill based on teammates' elements.
+Artifacts
+Deepwood Memories
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / CRIT Rate / CRIT DMG / Energy Recharge / ATK%
+Weapons
+A Thousand Floating Dreams
+Wandering Evenstar
+#7 Fischl Anemo Venti Hypercarry
+Tier S
+Fischl Anemo Team #1
+Venti acts as the main on-field DPS, supported by Faruzan for Anemo RES shred and damage buffs, Fischl for consistent off-field Electro damage, and Bennett for strong ATK buff and healing.
+Venti
+Main DPS
+Anemo
+On-field Anemo driver and primary damage dealer. His Burst groups enemies and extends Stormeye duration with Normal Attacks.
+Artifacts
+Desert Pavilion Chronicle
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+The Daybreak Chronicles
+Rust
+Faruzan
+Support
+Anemo
+Provides Anemo RES decrease and DMG Bonus through her Elemental Burst. At C6, she also grants additional CRIT DMG to Anemo allies.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / Energy Recharge / ATK%
+Weapons
+Elegy for the End
+Favonius Warbow
+Fischl
+Sub DPS
+Electro
+Summons Oz for consistent off-field Electro damage. In Hexerei teams, Oz also enables additional team buffs through Electro-related reactions.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Aqua Simulacra
+Alley Hunter
+Bennett
+Support
+Pyro
+Provides a large ATK buff and healing with his Elemental Burst.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+Energy Recharge / HP%
+Weapons
+Mistsplitter Reforged
+The Alley Flash
+#8 Fischl Overload Team #3 - Klee Overload with Fischl, Durin & Bennett
+Tier S
+Overload-focused Pyro team
+built around Klee’s on-field damage with Fischl’s off-field Electro application. Durin adds off-field Pyro damage and RES shred utility, while Bennett provides the core ATK buff and healing. Strong in multi-target content and benefits from Hexerei synergies.
+Klee
+Main DPS
+Pyro
+On-field Pyro DPS. Klee drives the team’s damage with charged attacks, skills, and burst. Uses constant Pyro application to trigger Overload consistently.
+Artifacts
+Lavawalker
+Main Stats
+Sands
+ATK%
+Goblet
+ATK% / Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Cashflow Supervision
+The Widsith
+Fischl
+Sub DPS
+Electro
+Off-field Electro applicator through Oz. Provides frequent Overload triggers and team buffs when Hexerei conditions are met.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Aqua Simulacra
+Sacrificial Bow
+Durin
+Support
+Pyro
+Off-field Pyro support. In
+Confirmation of Purity
+, Durin provides continuous off-field Pyro damage and enemy RES reduction, especially strengthened when paired with a Hexerei character.
+Artifacts
+Noblesse Oblige
+Flower of Paradise Lost
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / Energy Recharge / ATK%
+Weapons
+Athame Artis
+Wolf-Fang
+Bennett
+Support
+Pyro
+Healer and buffer. Bennett’s Burst provides a massive ATK buff and sustained healing, enabling Klee to stay aggressive on field.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+Energy Recharge / HP%
+Weapons
+Mistsplitter Reforged
+The Alley Flash
+#9 Fischl Venti Overload Swirl Team
+Tier S
+An S-tier
+Fischl Anemo
+team centered around Venti’s crowd control and Swirl damage, with Fischl and Durin providing strong off-field elemental application and Bennett supplying healing plus a massive ATK buff. Hexerei synergies further enhance team damage and utility.
+Venti
+Main DPS
+Anemo
+On-field driver and burst-based crowd control unit. Venti groups enemies with his Elemental Burst and deals sustained Anemo damage while triggering Swirl reactions to amplify team output.
+Artifacts
+Desert Pavilion Chronicle
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+The Daybreak Chronicles
+Rust
+Durin
+Support
+Pyro
+Off-field Pyro support that adds continuous damage and resistance shred in
+Confirmation of Purity
+. In this team, Durin helps enable Pyro-related reactions and benefits from Hexerei synergy.
+Artifacts
+Noblesse Oblige
+Flower of Paradise Lost
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / Energy Recharge / ATK%
+Weapons
+Athame Artis
+Wolf-Fang
+Fischl
+Sub DPS
+Electro
+Off-field Electro DPS through Oz. Fischl contributes consistent Electro damage and reacts well with Venti’s Swirls and Bennett/Durin elemental application.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Aqua Simulacra
+Alley Hunter
+Bennett
+Support
+Pyro
+Healer and buffer. Bennett’s Burst provides strong team healing and a large ATK buff, making him the main sustain and boost source for the team.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+Energy Recharge / HP%
+Weapons
+Mistsplitter Reforged
+The Alley Flash
+#10 Fischl Electro-Charged Lunar-Charged Team #2
+Tier S
+Electro-Charged / Lunar-Charged team centered around
+Flins
+as the Main DPS.
+Fischl
+provides off-field Electro application and buffs, while
+Aino
+enables consistent Hydro application.
+Jahoda
+offers healing, Viridescent shred, and utility for the team's elemental reactions.
+Flins
+Main DPS
+Electro
+Main on-field carry. Flins can enter Manifest Flame form, converting Normal Attacks into Electro DMG and enhancing his Elemental Skill. His Special Elemental Burst deals Lunar-Charged AoE Electro DMG and converts allies' Electro-Charged DMG into Lunar-Charged DMG, scaling with ATK.
+Artifacts
+Night of the Sky's Unveiling
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge / Elemental Mastery
+Weapons
+Bloodsoaked Ruins
+Deathmatch
+Aino
+Support
+Hydro
+Provides continuous Hydro application through her Elemental Burst, summoning the Cool Your Jets Ducky to maintain reactions.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / Energy Recharge
+Weapons
+Flame-Forged Insight
+Jahoda
+Support
+Anemo
+Healer and reaction utility. Her Burst summons a robot that heals the active character and can absorb an enemy element in full Moonsign teams to deal continuous elemental DMG. Also grants a temporary EM buff when healing triggers above 70% HP.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Energy Recharge
+Goblet
+ATK%
+Circlet
+CRIT Rate
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Elegy for the End
+Favonius Warbow
+Fischl
+Sub DPS
+Electro
+Off-field Electro Sub DPS. Oz continuously attacks nearby enemies with Electro DMG. With at least 2 Hexerei characters in the party, Fischl provides extra buffs: Overloaded triggers ATK bonuses, while Electro-Charged or Lunar-Charged triggers EM boosts for nearby active party members.
+Artifacts
+Silken Moon's Serenade
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Aqua Simulacra
+The Stringless
+Fischl Teams FAQ
+What is the best Fischl team in Genshin Impact?
+Clorinde Fischl Mavuika Chevreuse Overload Team is one of the strongest Fischl teams right now. Use the team summary and build cards on this page to pick the best version for your account.
+What are good Fischl teams without premium weapons?
+You can run strong Fischl teams without signature weapons by prioritizing reaction synergy, energy consistency, and artifact main stats shown in each build card.
+Which teammates are best with Fischl?
+Common high-performing partners include teams such as Clorinde Fischl Mavuika Chevreuse Overload Team, Chasca Fischl Electro-Charged Team, Arlecchino Fischl Chevreuse Bennett Overload Team. Check each lineup section for role breakdowns and gear priorities.

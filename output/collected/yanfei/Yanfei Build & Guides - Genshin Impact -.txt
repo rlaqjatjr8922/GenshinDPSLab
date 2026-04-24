@@ -1,0 +1,496 @@
+Home
+/
+Genshin Impact
+/
+Character List
+/
+Yanfei Build
+Yanfei Guide and Best Builds
+Yanfei is a 4-Star Pyro Catalyst user in Genshin Impact who deals
+powerful Pyro damage through the Vaporize or Overload reactions.
+Read our Yanfei guide to learn more about
+Yanfei's kit, Yanfei's best Builds and also her Ascension and Talent Materials.
+Last updated
+on
+Oct 26, 2025
+at
+10:21
+by
+Shikhu
+1 comment
+B
+Rank
+Pyro
+Element
+Catalyst
+Weapon
+★
+★
+★
+★
+★
+Rarity
+Lizzie Freeman
+EN Voice Actor
+Hanamori Yumiri
+JP Voice Actor
+Yanfei's Strengths & Weaknesses
+Strengths
+Overload knockback isn't an issue for Yanfei due to being a ranged character.
+Does not require Constellations to deal decent damage while C4 instead turns Yanfei into a shielder.
+Great Pyro application due to being an on-field catalyst character.
+Weaknesses
+While fun to play, damage output will be noticeably lower than the many other powerful Pyro DPS.
+Primarily uses Charged Attacks which consumes a lot of stamina leaving Yanfei vulnerable.
+1.
+Yanfei Build Guide, Best Artifacts, Weapons and Talent Priority
+Yanfei has 2 main builds, the first being a
+Pyro
+DPS and the second
+being a Shield Support with her 4th Constellation
+Supreme Amnesty
+.
+2.
+Yanfei's Build Options
+Main DPS Yanfei
+Shield Support Yanfei
+3.
+Yanfei Main DPS Build
+BiS Weapon
+Surf's Up
+Alternate Weapons
+Vivid Notions
+Tome of the Eternal Flow
+Flowing Purity
+The Widsith
+Skyward Atlas
+Memory of Dust
+Lost Prayer to the Sacred Winds
+Kagura's Verity
+Dodoco Tales
+Mappa Mare
+Best Artifacts
+Crimson Witch of Flames
+Marechaussee Hunter
+Gilded Dreams
+Main Stats
+Sand Stats
+: Elemental Mastery / ATK %
+Goblet Stats
+:
+Pyro
+DMG
+Circlet Stats
+: CRIT Rate / DMG
+Substat Priority
+CRIT Rate / DMG
+ATK %
+Elemental Mastery
+Energy Recharge
+Talent Priority
+Normal Attack
+Elemental Burst
+Elemental Skill
+Yanfei's best weapon in a DPS build can vary depending on which buffs you use to
+increase Yanfei's overall DPS. Generally, some of the 5-Star options 
+such as
+Surf's Up
+,
+Vivid Notions
+or
+Tome of the Eternal Flow
+will
+be your best weapon assuming you can build around any of the the team requirements.
+Build Yanfei with
+Crimson Witch of Flames
+while focusing
+on stats such as CRIT, ATK and Pyro DMG to increase
+Yanfei's potential.
+Marechaussee Hunter
+however is Yanfei's
+best artifact set if your team uses
+Furina
+.
+Yanfei's artifacts can also be built to focus your Main and Sub stats
+Elemental Mastery when used in
+Overload
+reactions and team compositions such as those involving
+Chevreuse
+. In this situation you want to use
+Gilded Dreams
+.
+4.
+Yanfei Shield Support
+Sometimes referred to as "Tankfei", Yanfei's
+Supreme Amnesty
+allows her to be built as a Shielder instead of a DPS focusing on HP % stats and
+Energy Recharge.
+BiS Weapon
+Prototype Amber
+Alternate Weapons
+Favonius Codex
+Thrilling Tales of Dragon Slayers
+Best Artifacts
+2 Piece HP % or Energy Recharge Artifacts
+Main Stats
+Sand Stats
+: Energy Recharge / HP %
+Goblet Stats
+: HP %
+Circlet Stats
+: HP %
+Substat Priority
+Energy Recharge to requirements
+HP %
+HP
+Talent Priority
+Elemental Burst
+Normal Attack
+Elemental Skill
+Yanfei as a shielder is built with
+Prototype Amber
+, because it
+increases the strength of Yanfei's shield, generates Energy, and also provides
+a small amount of Healing for the team.
+Thrilling Tales of Dragon Slayers
+can also be a good build choice
+due to the powerful ATK buffs it provides but Prototype Amber is easy to get with no downsides
+to using it.
+The exact artifacts for Yanfei is less important because you are building 
+around the 2-Piece effects. Choose what sets have the correct 2-Piece bonuses 
+you need that have good substats.
+Build Yanfei with a lot of Energy Recharge to hit her requirements to regularly Burst.
+The only other stat you need to build Yanfei with as a shielder is HP. This
+then increases Yanfei's shield strength.
+4.1.
+Energy Recharge Requirements
+When playing Yanfei as an on-field DPS, she generally wants around
+120-130% Energy Recharge. This is because Yanfei normally
+bursts every other rotation so that artifacts can focus on CRIT instead.
+If you did want Yanfei to burst every rotation, or when played as a
+Shield Support, you instead need to build 200-240% depending on your team composition.
+When building Yanfei as a shielder, it is better to build around 240%. This
+provides flexibility and does not take away from other stats that Yanfei needs
+to build because she only needs HP.
+5.
+Combos and How to Play Yanfei
+Yanfei's Normal Attacks, Skills and Bursts help to generate Scarlet Seals
+up to a maximum of 3 seals (or 4 at C6). These seals decrease Stamina
+consumption and are consumed with
+Charged Attack
+to deal
+increased DMG as well as a wider AoE to defeat enemies.
+Both
+Signed Edict
+and
+Done Deal
+generate
+the maximum number of Scarlet Seals. This means that you want to use a
+Charged Attack between activations of your Skill and Burst to ensure you
+do not waste Seals. An example would be:
+Yanfei
+Done Deal
+Yanfei
+(If C6)
+Charged Attack
+Yanfei
+Signed Edict
+Charged Attack
+From there you can continue to build up Seals and Deal Charged Attacks.
+Depending on how fast you can apply
+Hydro
+, you may only
+want to do 2/3 Normal Attacks so that you Charge more often to
+deal bigger
+Vaporize
+damage hits.
+6.
+Yanfei's Best Team Comps
+Yanfei has some great team compositions, generally either involving
+Vaporize
+or
+Overload
+.
+6.1.
+Yanfei Vaporize Teams
+Main DPS
+Sub DPS
+Support
+Support
+Yanfei
+Yelan
+Furina
+Xilonen
+Yanfei
+Xingqiu
+Kaedehara Kazuha
+Furina
+Bennett
+Yanfei
+Yelan
+Furina
+Xianyun
+Yanfei wants a consistent amount of
+Hydro
+application
+to be able to keep up with her for elemental reactions. This means that 2
+Hydro characters is ideal.
+Furina
+is often Yanfei's best
+support due to the powerful DMG buffs Furina provides on top of
+some elemental application.
+Xianyun
+teams work a little
+differently however, as the aim is to vape on Plunging attacks instead.
+6.2.
+Yanfei Overload Teams
+Main DPS
+Sub DPS
+Support
+Support
+Yanfei
+Fischl
+Chevreuse
+Bennett
+Yanfei
+Yae Miko
+Xilonen
+Beidou
+In Overload teams,
+Chevreuse
+is an incredibly
+useful teammate with her ability to buff both
+Pyro
+as well as
+Electro
+.
+Fischl
+and
+Yae Miko
+are great supports with Fischl having a
+focus on single-target and Yae multi-target damage.
+6.3.
+Yanfei Shield Support Team
+Main DPS
+Support
+Support
+Support
+Lyney
+Kaedehara Kazuha
+Bennett
+Yanfei
+Hu Tao
+Yelan
+Kaedehara Kazuha
+Yanfei
+Chasca
+Bennett
+Citlali
+Yanfei
+Yanfei's best teams as a shielder tend to be in teams which benefit from
+the
+Pyro Resonance
+she provides while
+also providing minimal Pyro application allowing her to be a fairly neutral
+shielder. Characters who tend to benefit most are
+Hu Tao
+,
+Lyney
+and
+Yoimiya
+.
+Chasca
+is another DPS who can benefit from Yanfei in a
+more unique manner. This is because Yanfei's interruption resistance is handy
+for Chasca while in the air but she additionally adds another
+Pyro
+bullet for Chasca to create more reactions with.
+7.
+Yanfei's Ascensions, Talents and Constellations
+Yanfei's Ascensions
+Yanfei's Talents
+Yanfei's Constellations
+7.1.
+Yanfei's Ascension Passives and Materials
+Unlock
+Ascension Passive
+Explanation
+With Character
+Encyclopedic Expertise
+Displays the location of nearby resources unique to Liyue on the mini-map.
+1st Ascension
+Proviso
+When
+Charged Attack
+s occur, each
+    Scarlet Seal increases
+Pyro
+DMG by 5% for 6s.
+4th Ascension
+Blazing Eye
+Charged Attack
+s deal additional AoE
+Pyro
+DMG when Yanfei deals a CRIT.
+Yanfei requires a range of materials to ascend to the 6th ascension.
+Starting from the second ascension she gains additional Pyro DMG as she levels,
+giving a total of 24% Bonus
+Pyro
+DMG at the final ascension.
+The total cost to upgrade all ascensions is:
+Source
+Quantity
+Mora
+420,000 Mora
+Boss Material
+46x
+Juvenile Jade
+Ascension Material
+1x
+Agnidus Agate Sliver
+9x
+Agnidus Agate Fragment
+9x
+Agnidus Agate Chunk
+6x
+Agnidus Agate Gemstone
+Local Specialty
+168x
+Noctilucous Jade
+Enhancement Material
+18x
+Treasure Hoarder Insignia
+30x
+Silver Raven Insignia
+36x
+Golden Raven Insignia
+7.2.
+Yanfei's Talents
+Listed below is each talent and a simplified explanation of how they work.
+Type
+Talent Name
+Brief Explanation
+Normal
+Seal of Approval
+All Attacks deal
+Pyro
+DMG. Normal Attacks give a
+    Scarlet Seal with each attack. Charged Attacks use up Scarlet Seals to
+    deal additional DMG. Charged Attacks work normally and do not give seals.
+Elemental Skill
+Signed Edict
+Deals AoE
+Pyro
+DMG, granting the maximum number of
+    Scarlet Seals and generating 3 energy when an enemy is hit.
+Elemental Burst
+Done Deal
+Deals AoE
+Pyro
+DMG around Yanfei and
+    applying
+Brilliance
+.
+Brilliance then generates Scarlet Seals every second and gives Yanfei
+    a Charged Attack DMG Bonus based on skill level.
+To upgrade a single talent to level 10, it costs:
+Source
+Quantity
+Mora
+1,625,500 Mora
+Special Material
+1x
+Crown of Insight
+Boss Material
+6x
+Bloodjade Branch
+Domain Material
+3x
+Teachings of Gold
+21x
+Guide to Gold
+38x
+Philosophies of Gold
+Enhancement Material
+6x
+Treasure Hoarder Insignia
+22x
+Silver Raven Insignia
+31x
+Golden Raven Insignia
+7.3.
+Yanfei's Constellations
+#
+Name
+Explanation
+C1
+The Law Knows No Kindness
+When
+Charged Attack
+s occur, each Scarlet Seal
+    reduces the Stamina cost even further while increasing interruption RES.
+C2
+Right of Final Interpretation
+Increases Yanfei's
+Charged Attack
+CRIT Rate by 20% for enemies below 50% HP.
+C3
+Samadhi Fire-Forged
+Increases the Level of
+Signed Edict
+by 3.
+Maximum upgrade level is 15.
+C4
+Supreme Amnesty
+Creates Shields when
+Done Deal
+is used based on HP
+    and absorbs
+Pyro
+DMG more effectively.
+C5
+Abiding Affidavit
+Increases the Level of
+Done Deal
+by 3.
+Maximum upgrade level is 15.
+C6
+Extra Clause
+Increases the maximum number of Scarlet Seals by 1.
+Changelog
+26 Oct. 2025:
+Updated for 6.1.
+27 Feb. 2025:
+Updated for 5.3.
+03 Jun. 2024:
+Reviewed for 4.7.
+21 Mar. 2024:
+Additional build information added.
+22 Jan. 2024:
+Guide added.
+Show more
+Show less
+Need any help? Check out our
+General Discussion Forum
+!
+1 comment
+In The Same Category
+Diluc Profile & Talents
+Chevreuse Best Builds Guide
+Bennett Best Builds Guide
+Klee Best Builds Guide
+Diluc Team Guide
+Dehya Best Builds Guide
+Bennett Team Guide
+Nicole Profile & Talents
+Xinyan Best Builds Guide
+Thoma Best Builds Guide
+Mavuika Team Guide
+Pyro Traveler Best Builds Guide
+ABOUT THE AUTHOR
+This guide has been written by Shikhu (Discord - Shikhu), an avid Genshin Impact player who has
+          been exploring Teyvat since the game has launched. He has experienced
+          all the game has to offer from building his favorite characters,
+          exploring the world to clearing Spiral Abyss each rotation. His
+          favorite character being his C6 Furina.
+SUPPORT OUR WRITERS

@@ -1,0 +1,253 @@
+Xiao
+5
+★
+Polearm
+Anemo
+A yaksha adeptus who defends Liyue
+.
+Basic Stats
+Nv.
+90
+HP
+12736
+ATK
+349
+DEF
+799
+CRIT Rate
+24.2%
+Basic Stats
+Nv.
+90
+HP
+12736
+ATK
+349
+DEF
+799
+CRIT Rate
+24.2%
+Xiao
+Ascension Materials
+Vayuda Turquoise Sliver
+Qingxin
+Juvenile Jade
+Slime Condensate
+Teachings of Prosperity
+Shadow of the Warrior
+Xiao
+Best Weapon
+Primordial Jade Winged-Spear
+Level
+.
+90
+ATK
+674
+CRIT Rate
+22.1%
+Refinement
+.
+5
+On hit, increases ATK by 6% for 6s. Max 7 stacks. This effect can only occur once every 0.3s. While in possession of the maximum possible stacks, DMG dealt is increased by 24%.
+Other Weapons
+2
+°
+Staff of Homa
+CRIT DMG
+3
+°
+Deathmatch
+CRIT Rate
+4
+°
+Blackcliff Pole
+CRIT DMG
+Xiao
+Best Artifact Set
+Long Night's Oath
+2 Pc
+:
+Plunging Attack DMG increased by 25%.
+4 Pc
+:
+After the equipping character's Plunging Attack/Charged Attack/Elemental Skill hits an opponent, they will gain 1/2/2 stack(s) of "Radiance Everlasting." Plunging Attacks, Charged Attacks, or Elemental Skills can each trigger this effect once every 1s. Radiance Everlasting: Plunging Attacks deal 15% increased DMG for 6s. Max 5 stacks. Each stack's duration is counted independently.
+Artifacts Main Stats
+Sands
+:
+ATK %
+Goblet
+:
+Anemo Bonus
+Circlet
+:
+Crit Rate / Crit Damage
+Artifacts Substats
+Crit Rate
+Crit Damage
+ATK %
+Energy Recharge
+Other Artifacts Sets
+2
+°
+4x
+Vermillion Hereafter
+3
+°
+4x
+Marechaussee Hunter
+Xiao
+Talent Priority
+1
+°
+Normal Attack
+2
+°
+Elemental Burst
+3
+°
+Elemental Skill
+Xiao
+Best Teams
+Time #
+1
+Main DPS
+Sub-DPS
+Support
+Support
+Xiao
+Furina
+Faruzan
+Xianyun
+Time #
+2
+Main DPS
+Support
+Support
+Support
+Xiao
+Bennett
+Faruzan
+Zhongli
+Xiao
+Ascension Costs
+Cost
+5
+→
+6
+120
+K
+Vayuda Turquoise Gemstone
+6
+Juvenile Jade
+20
+Qingxin
+60
+Slime Concentrate
+24
+Xiao
+Talents Costs
+Cost
+9
+→
+10
+700
+K
+Philosophies of Prosperity
+16
+Slime Concentrate
+12
+Shadow of the Warrior
+2
+Crown of Insight
+1
+Xiao
+Talents
+Normal Attack
+Whirlwind Thrust
+Normal Attack
+Performs up to 6 consecutive spear strikes.
+Charged Attack
+Consumes a certain amount of Stamina to perform an upward thrust.
+Plunging Attack
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Xiao does not take DMG from performing Plunging Attacks.
+Elemental Skill
+Lemniscatic Wind Cycling
+Xiao lunges forward, dealing
+Anemo DMG
+to opponents in his path.
+Can be used in mid-air.
+Starts with 2 charges.
+According to the legends of another land, the world will someday be crushed by two great wind wheels. Xiao's mastery over polearms is transcendent, ripping his foes apart like those legendary wind wheels.
+Elemental Burst
+Bane of All Evil
+Xiao dons the Yaksha Mask that set gods and demons trembling millennia ago.
+Yaksha's Mask
+·Greatly increases Xiao's jumping ability.
+·Increases his attack AoE and attack DMG.
+·Converts attack DMG into
+Anemo DMG
+, which cannot be overridden by any other elemental infusion.
+In this state, Xiao will continuously lose HP.
+The effects of this skill end when Xiao leaves the field.
+Donning the Mask of the Yaksha, Xiao takes the terrifying, demon-conquering form of the Vigilant Yaksha. But this great power has also brought him great suffering. Some call him
+"The Bane of All Evil."
+Xiao
+Passives
+Passive
+1
+Conqueror of Evil: Tamer of Demons
+While under the effects of
+Bane of All Evil
+, all DMG dealt by Xiao increases by 5%. DMG increases by a further 5% for every 3s the ability persists.
+The maximum DMG Bonus is 25%.
+Passive
+2
+Dissolution Eon: Heaven Fall
+Using
+Lemniscatic Wind Cycling
+increases the DMG of subsequent uses of Lemniscatic Wind Cycling by 15%.
+This effect lasts for 7s, and has a maximum of 3 stacks. Gaining a new stack refreshes the effect's duration.
+Passive
+3
+Transcension: Gravity Defier
+Decreases climbing Stamina consumption for your own party members by 20%.
+Not stackable with Passive Talents that provide the exact same effects.
+Xiao
+Constellations
+C
+1
+Dissolution Eon: Destroyer of Worlds
+Increases
+Lemniscatic Wind Cycling
+'s charges by 1.
+C
+2
+Annihilation Eon: Blossom of Kaleidos
+When in the party and not on the field, Xiao's Energy Recharge is increased by 25%.
+C
+3
+Conqueror of Evil: Wrath Deity
+Increases the Level of
+Lemniscatic Wind Cycling
+by 3.
+Maximum upgrade level is 15.
+C
+4
+Transcension: Extinction of Suffering
+When Xiao's HP falls below 50%, he gains a 100% DEF Bonus.
+C
+5
+Evolution Eon: Origin of Ignorance
+Increases the Level of
+Bane of All Evil
+by 3.
+Maximum upgrade level is 15.
+C
+6
+Conqueror of Evil: Guardian Yaksha
+While under the effects of
+Bane of All Evil
+, hitting at least 2 opponents with Xiao's Plunging Attack will immediately grant him 1 charge of
+Lemniscatic Wind Cycling
+, and for the next 1s, he may use Lemniscatic Wind Cycling while ignoring its CD.

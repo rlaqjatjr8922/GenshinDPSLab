@@ -1,0 +1,661 @@
+Genshin Impact Hu Tao Best Team Guide
+Last updated April 24, 2026. Looking for the best Hu Tao teams in
+        Genshin Impact? Start with the top team summary below, then pick the
+        lineup that fits your roster.
+This page provides the best team info for Hu Tao, primarily a main DPS. Top teams focus on Vaporize and Melting reactions. Flexibility allows swapping Sub DPS options like Xingqiu, Yelan, or Ayaka, and pairing with off-field DPS like Yoimiya.
+View Hu Tao's character page
+Hu Tao Team Summary
+#1
+Team Rating:SS
+Hu Tao Vaporize Team with Xingqiu, Kazuha, and Zhongli
+#2
+Team Rating:SS
+Hu Tao Vaporize Team #2
+#3
+Team Rating:SS
+Hu Tao Vaporize Team #3
+#4
+Team Rating:SS
+Hu Tao Vaporize Double Pyro Shield Team
+#5
+Team Rating:S
+Hu Tao Vaporize with Xingqiu, Sucrose & Bennett
+#6
+Team Rating:S
+Hu Tao Vaporize S Tier Team
+#7
+Team Rating:SS
+Hu Tao Melt Team with Xingqiu, Rosaria, and C6 Diona
+C6
+#8
+Team Rating:S
+Hu Tao Melt Team #2
+#1 Hu Tao Vaporize Team with Xingqiu, Kazuha, and Zhongli
+Tier SS
+Hu Tao Vaporize team centered around
+Hu Tao
+as the main DPS.
+Xingqiu
+enables consistent Hydro application for Vaporize,
+Kazuha
+provides grouping, elemental damage buff, and resistance shred, and
+Zhongli
+offers strong shielding plus Tenacity team ATK buff.
+Hu Tao
+Main DPS
+Pyro
+Main DPS. Her damage is amplified by Vaporize in this team.
+Artifacts
+Shimenawa's Reminiscence
+Main Stats
+Sands
+HP% / Elemental Mastery
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Elemental Mastery / ATK%
+Weapons
+Staff of Homa
+Deathmatch
+Xingqiu
+Sub DPS
+Hydro
+Provides continuous Hydro application through Elemental Burst to enable Hu Tao Vaporize reactions.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Primordial Jade Cutter
+Sacrificial Sword
+Kaedehara Kazuha
+Support
+Anemo
+Groups enemies, provides crowd control, buffs team damage, and reduces enemy Elemental Resistance.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Freedom-Sworn
+Iron Sting
+Zhongli
+Support
+Geo
+Provides a strong shield for survivability and increases team ATK with the 4-piece Tenacity of the Millelith set.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Staff of Homa
+Black Tassel
+#2 Hu Tao Vaporize Team #2
+Tier SS
+Hu Tao Vaporize team from Liyue with strong off-field Hydro application and shielding. Hu Tao is the main damage dealer, enabled by consistent Vaporize reactions from Yelan and Xingqiu, while Zhongli provides comfort and teamwide ATK buff via Tenacity of the Millelith.
+Hu Tao
+Main DPS
+Pyro
+Main DPS. Hu Tao's DMG is amplified by Vaporize reactions.
+Artifacts
+Crimson Witch of Flames
+Main Stats
+Sands
+HP% / Elemental Mastery
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Elemental Mastery / ATK%
+Weapons
+Staff of Homa
+Lithic Spear
+Yelan
+Sub DPS
+Hydro
+Provides continuous off-field Hydro application for Hu Tao to Vaporize. Her Burst also increases Hu Tao's DMG via her passive talent.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+HP%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+HP% / CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Aqua Simulacra
+The Stringless
+Xingqiu
+Sub DPS
+Hydro
+His Elemental Burst continuously applies Hydro to enemies, supporting Vaporize reactions for Hu Tao.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Primordial Jade Cutter
+Sacrificial Sword
+Zhongli
+Support
+Geo
+Provides strong shielding for the team and increases whole-team ATK with 4-piece Tenacity of the Millelith.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP / Energy Recharge
+Weapons
+Staff of Homa
+Black Tassel
+#3 Hu Tao Vaporize Team #3
+Tier SS
+Hu Tao is the Main DPS in this team. Hu Tao’s DMG is amplified by Vaporization.
+Hu Tao
+Main DPS
+Pyro
+Hu Tao is the main DPS, her DMG is amplified by the Vaporization in this team.
+Artifacts
+Crimson Witch of Flames
+Main Stats
+Sands
+HP% / Elemental Mastery
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Elemental Mastery / ATK%
+Weapons
+Staff of Homa
+Deathmatch
+Xingqiu
+Sub DPS
+Hydro
+Xingqiu’s Elemental Burst can attach Hydro element to enemies continuously, and so react with Hu Tao’s Pyro DMG to trigger Vaporization.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Primordial Jade Cutter
+Sacrificial Sword
+Albedo
+Sub DPS
+Geo
+Albedo pairs with Zhongli to trigger resonance, and by using full set of Archaic Petra, picking up crystal can increase corresponding DMG of team members.
+Artifacts
+Archaic Petra
+Main Stats
+Sands
+DEF%
+Goblet
+Geo DMG
+Circlet
+DEF% / CRIT Rate
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge / DEF
+Weapons
+Cinnabar Spindle
+Harbinger of Dawn
+Zhongli
+Support
+Geo
+Zhongli’s shield provides safe environment for team members, and increase ATK of whole team by using full set of Tenacity of the Millelith.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP / Energy Recharge
+Weapons
+Staff of Homa
+Black Tassel
+#4 Hu Tao Vaporize Double Pyro Shield Team
+Tier SS
+Hu Tao is the main DPS in this Vaporize team.
+Yoimiya can also serve as an alternate main DPS option, but both benefit from Xingqiu's consistent Hydro application.
+Zhongli provides strong shielding and a teamwide ATK buff via Tenacity of the Millelith.
+Hu Tao
+Main DPS
+Pyro
+Main DPS. Her damage is amplified by Vaporize reactions through Xingqiu's Hydro application.
+Artifacts
+Crimson Witch of Flames
+Main Stats
+Sands
+HP% / Elemental Mastery
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Elemental Mastery / ATK%
+Weapons
+Staff of Homa
+Deathmatch
+Yoimiya
+Main DPS
+Pyro
+Alternate main DPS. Her damage is amplified by Vaporize reactions through Xingqiu's Hydro application.
+Artifacts
+Shimenawa's Reminiscence
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Thundering Pulse
+Rust
+Xingqiu
+Sub DPS
+Hydro
+Provides continuous Hydro application with Elemental Burst to enable Vaporize for Hu Tao and Yoimiya.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Sacrificial Sword
+Zhongli
+Support
+Geo
+Shield support. Provides a safe environment for the team and increases team ATK with 4pc Tenacity of the Millelith.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Staff of Homa
+Black Tassel
+#5 Hu Tao Vaporize with Xingqiu, Sucrose & Bennett
+Tier S
+Hu Tao is the Main DPS and deals amplified damage through Vaporize reactions. Xingqiu enables consistent Hydro application, Sucrose boosts Elemental Mastery and can shred resistance with Viridescent Venerer, and Bennett provides strong ATK buff and healing support.
+Hu Tao
+Main DPS
+Pyro
+Main DPS of the team. Her damage is significantly amplified by Vaporize. Use her skill-enhanced charged attacks to maximize reaction damage.
+Artifacts
+Crimson Witch of Flames
+Main Stats
+Sands
+HP% / Elemental Mastery
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Elemental Mastery / ATK%
+Weapons
+Staff of Homa
+Deathmatch
+Xingqiu
+Sub DPS
+Hydro
+Provides continuous Hydro application through his Burst, enabling Hu Tao to trigger Vaporize consistently.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Sacrificial Sword
+Sucrose
+Sub DPS
+Anemo
+Provides Elemental Mastery bonus to the team, increasing Vaporize damage. Viridescent Venerer also helps amplify team damage.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Sacrificial Fragments
+Mappa Mare
+Bennett
+Support
+Pyro
+Provides a huge ATK buff and healing through his Elemental Burst, increasing team survivability and Hu Tao's damage output.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+#6 Hu Tao Vaporize S Tier Team
+Tier S
+Hu Tao Vaporize team centered around
+Hu Tao
+'s Pyro damage being amplified through
+Vaporize
+.
+Xingqiu enables consistent Hydro application, Sucrose boosts reaction damage with Elemental Mastery, and Thoma provides shielding for safer gameplay.
+Hu Tao
+Main DPS
+Pyro
+Main DPS and primary on-field damage dealer. Her Pyro attacks are amplified by Vaporize.
+Artifacts
+Crimson Witch of Flames
+Main Stats
+Sands
+HP% / Elemental Mastery
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Elemental Mastery / ATK%
+Weapons
+Staff of Homa
+Deathmatch
+Xingqiu
+Sub DPS
+Hydro
+Applies Hydro consistently with Elemental Burst to enable Vaporize for Hu Tao.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Primordial Jade Cutter
+Sacrificial Sword
+Sucrose
+Sub DPS
+Anemo
+Provides Elemental Mastery bonuses to the team, increasing Vaporize damage. Also can help with crowd control and support utility.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Prototype Amber
+Thoma
+Support
+Pyro
+Shield support that helps keep the team safe during Hu Tao's field time.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP / Energy Recharge
+Weapons
+Staff of Homa
+Black Tassel
+#7 Hu Tao Melt Team with Xingqiu, Rosaria, and C6 Diona
+Tier SS
+Hu Tao is the Main DPS and her DMG is amplified by Melting. The team also benefits from Cryo resonance for +15% CRIT Rate against Frozen or Cryo-affected enemies.
+Xingqiu enables consistent Hydro application for Vaporize and Freeze setups, Rosaria provides off-field Cryo damage and a CRIT Rate buff, and C6 Diona offers shielding plus a large Elemental Mastery boost with Instructor. Team play centers on maintaining enemy aura control so Hu Tao can trigger strong Melt/Vaporize reactions.
+Hu Tao
+Main DPS
+Pyro
+Main DPS. Uses Pyro attacks to trigger Melt with Rosaria's Cryo application and Vaporize with Xingqiu's Hydro application.
+Artifacts
+Crimson Witch of Flames
+Main Stats
+Sands
+HP% / Elemental Mastery
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Elemental Mastery / ATK%
+Weapons
+Staff of Homa
+Deathmatch
+Xingqiu
+Sub DPS
+Hydro
+Off-field Hydro applicator. His Elemental Burst continuously applies Hydro to enemies, enabling Vaporize with Hu Tao and Freeze with Rosaria.
+Artifacts
+Heart of Depth
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Primordial Jade Cutter
+Sacrificial Sword
+Rosaria
+Sub DPS
+Cryo
+Off-field Cryo Sub DPS. Her Burst provides Cryo application for Melt with Hu Tao and Freeze with Xingqiu, while also giving nearby party members 15% of Rosaria's CRIT Rate as bonus CRIT Rate for 10s after casting Burst.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT Rate
+Substats
+CRIT Rate / ATK% / Energy Recharge
+Weapons
+Skyward Spine
+Favonius Lance
+Diona
+Support
+Cryo
+Constellation 6+
+Shielding Support. Diona provides a safe environment with her shield, and at C6 together with Instructor(4) grants a large Elemental Mastery boost to the party.
+Artifacts
+Instructor
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Elegy for the End
+Favonius Warbow
+#8 Hu Tao Melt Team #2
+Tier S
+Hu Tao is the
+Main DPS
+and her DMG is amplified by
+Melting
+. Kazuha provides grouping, crowd control, DMG buff, and Elemental RES shred, while Bennett supplies healing and a strong ATK buff. Ayaka acts as a backstage Cryo Sub DPS to help trigger Melt reactions.
+Hu Tao
+Main DPS
+Pyro
+Main DPS. Hu Tao’s DMG is amplified by
+Melting
+in this team.
+Artifacts
+Crimson Witch of Flames
+Main Stats
+Sands
+HP% / Elemental Mastery
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Elemental Mastery / ATK%
+Weapons
+Staff of Homa
+Deathmatch
+Kamisato Ayaka
+Sub DPS
+Cryo
+Deals DMG mainly through her Elemental Burst from off-field/backstage. Her Cryo application reacts with Hu Tao’s Pyro to trigger Melt.
+Artifacts
+Blizzard Strayer
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Mistsplitter Reforged
+Amenoma Kageuchi
+Kaedehara Kazuha
+Support
+Anemo
+Provides grouping, crowd control, team DMG buff, and reduces enemy Elemental RES.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Freedom-Sworn
+Iron Sting
+Bennett
+Support
+Pyro
+Provides a huge ATK buff and healing through his Elemental Burst.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+Hu Tao Teams FAQ
+What is the best Hu Tao team in Genshin Impact?
+Hu Tao Vaporize Team with Xingqiu, Kazuha, and Zhongli is one of the strongest Hu Tao teams right now. Use the team summary and build cards on this page to pick the best version for your account.
+What are good Hu Tao teams without premium weapons?
+You can run strong Hu Tao teams without signature weapons by prioritizing reaction synergy, energy consistency, and artifact main stats shown in each build card.
+Which teammates are best with Hu Tao?
+Common high-performing partners include teams such as Hu Tao Vaporize Team with Xingqiu, Kazuha, and Zhongli, Hu Tao Vaporize Team #2, Hu Tao Vaporize Team #3. Check each lineup section for role breakdowns and gear priorities.

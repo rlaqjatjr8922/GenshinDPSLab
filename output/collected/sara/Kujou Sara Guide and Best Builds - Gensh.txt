@@ -1,0 +1,420 @@
+Home
+/
+Genshin Impact
+/
+Character List
+/
+Kujou Sara Build
+Kujou Sara Guide and Best Builds
+Kujou Sara is a 4-Star
+Electro
+bow character from Inazuma who
+can deal AoE Electro damage and buff your team's ATK. Read our Kujou Sara guide to learn more about
+Kujou Sara's kit, Kujou Sara's best Builds and also her Ascension and Talent Materials.
+Last updated
+on
+Oct 20, 2025
+at
+03:41
+by
+GxG Noir
+1 comment
+A
+Rank
+Electro
+Element
+Bow
+Weapon
+★
+★
+★
+★
+★
+Rarity
+Jeannie Tirado
+EN Voice Actor
+Seto Asami
+JP Voice Actor
+Kujou Sara's Strengths & Weaknesses
+Strengths
+ATK buff can be equivalent to Bennett's.
+Two ways to apply Sara's buff, it is not solely locked behind her Burst.
+Can work as a battery for other
+Electro
+characters.
+Can work as both a Support and Sub-DPS with the AoE Electro damage from her Burst.
+Weaknesses
+Full potential for buffs is locked behind Constellations.
+High energy recharge cost.
+Not easy to play at C0. Automatic buff unlocks only at C2.
+Short buff time compared to other similar characters.
+1.
+Kujou Sara Build Guide, Best Artifacts, Weapons and Talent Priority
+Kujou Sara is primarily built as a support thanks to her unique ability to buff her teammates
+ATK.
+BiS Weapon
+Skyward Harp
+Alternative Weapons
+Polar Star
+Elegy for the End
+The First Great Magic
+Aqua Simulacra
+Hunter's Path
+Thundering Pulse
+Amos' Bow
+Fading Twilight
+Mouun's Moon
+Alley Hunter
+The Viridescent Hunt
+Scion of the Blazing Sun
+Sacrificial Bow
+Chain Breaker
+Favonius Warbow
+Best Artifacts
+Emblem of Severed Fate
+Noblesse Oblige
+Main Stats
+Sand Stats:
+Energy Recharge / ATK %
+Goblet Stats:
+Electro
+DMG
+Circlet Stats:
+CRIT Rate / CRIT DMG
+Substat Priority
+Energy Recharge (until requirement)
+CRIT Rate / CRIT DMG
+ATK %
+Talent Priority
+Elemental Skill
+Elemental Burst
+Normal Attack
+In order to understand Kujou Sara's build choices regarding her weapons, artifacts, and stats, 
+you first need to understand how her buff works. Similar to
+Bennett
+'s Elemental 
+Burst mechanic, Sara's ATK buff is also based on her Total Base ATK. This means that it 
+will only take into account Kujou Sara's Base ATk + her weapon's Base ATK. Stacking ATK on her artifacts 
+will not give any bonus to her buff. If you want to maximize Kujou Sara's ATK buff, you need to 
+wear the weapon with the highest Base ATK, and level her own level up to 90.
+Knowing this, Kujou Sara's support build best weapon is the
+Skyward Harp
+with its 
+Base 674 ATK. This weapon also has CRIT Rate as main stat, which makes it a great 
+weapon for both Sara's personal DMG, and her buff capacity. Kujou Sara's support build best in slot F2P weapon is 
+the
+Fading Twilight
+with high base ATK, energy recharge, and a good passive.
+When building artifacts, for a Support Kujou Sara's build we recommand the
+Emblem of Severed Fate
+Artifact set for the Energy Recharge and Elemental Burs DMG including a 75% bonus DMG. 
+If no one else wears a
+Noblesse Oblige
+set in your party you can also equip
+Kujou Sara with this one.
+2.
+Recommended Endgame Build Stats for Kujou Sara
+Build recommendations assume a "decently built" level of artifact rolls alongside 
+Kujou Sara's best weapon. Using other weapons may increase or decrease certain stats relative to these recommendations.
+ATK:
+1400 - 1600
+CRIT Rate:
+60 - 70%
+CRIT DMG:
+130 -150%
+ER:
+200 - 220%
+Kujou Sara requires a lot of ER. If she is the solo
+Electro
+unit in your team, you will have to aim for +300%. We don't recommand you play her as a solo Electro. 
+With two Electro characters, the requirement already lowers more around +200%. If you have 
+3 or more Electro units in your team, you can go for only 130%.
+3.
+Kujou Sara Combos and How to Play
+The goal with Kujou Sara is to be able to Burst and use her skill at least once every rotation
+in order to get the buffs up for your team. Her gameplay changes slightly depending on 
+if you have her at C0 or C2+.
+At C0 she is a bit clunky to play. Every time you do her Elemental Skill, you have to 
+follow up with a Charged Attack. This leaves her extremely vulnerable to interruption, 
+and if you get interrupted you get no buff.
+Once you get her C2, the ATK buff basically pops up automatically when you use her Elemental Skill.
+This allows you to skip the Charged Attack.
+Once you have that in mind, her rotation mostly revolves around quickly swapping her in, 
+to her Burst when available, her Skill each rotation, follow up with a Charged Attack 
+if she's C0, otherwise swap back to your Main DPS and use the buff.
+4.
+Kujou Sara's Best Team Comps
+Kujou Sara is a support character specializing in creating buffs for your
+active DPS to fight with. As for teams, we aim to match her up with high DPS
+Electro
+partners to amplify her usefulness.
+4.1.
+Raiden Hypercarry Teams
+Raiden
+Support
+Support
+Support
+Raiden Shogun
+Kujou Sara
+Kaedehara Kazuha
+Bennett
+Raiden Shogun
+Kujou Sara
+Chevreuse
+Bennett
+Raiden
+Support
+Support
+Sub DPS
+Raiden Shogun
+Kujou Sara
+Bennett
+Yae Miko
+Raiden Shogun
+Kujou Sara
+Bennett
+Beidou
+Raiden
+Support
+Sub DPS
+Sub DPS
+Raiden Shogun
+Kujou Sara
+Fischl
+Yae Miko
+Kujou Sara is one of the best support for
+Raiden Shogun
+as
+her buff synergises perfectly with Raiden's Burst. Raiden can also function as a battery for Sara 
+to help with Energy Recharge. You can team them up with units like
+Bennett
+or
+Kaedehara Kazuha
+for additional buffs for Raiden, or you can go for a full
+Electro
+team.
+4.2.
+Kujou Sara Taser Teams
+Main DPS
+Sub DPS
+Sub DPS
+Support
+Kamisato Ayato
+Kujou Sara
+Fischl
+Bennett
+Kamisato Ayato
+Kujou Sara
+Fischl
+Kaedehara Kazuha
+Tartaglia
+Kujou Sara
+Fischl
+Bennett
+Taser teams like this consist in using both
+Electro
+and
+Hydro
+to trigger Electro-charged reactions.
+Kamisato Ayato
+or
+Tartaglia
+are perfect Main DPS for this. They benefit highly from Kujou Sara's Buff.
+Note that it is better to have a C2 Kujou Sara for this kind of teams, as you need to be able to swap her 
+in and out fast, which is not possible with a C0.
+4.3.
+Kujou Sara Aggravate Team
+Support
+Main DPS
+Sub DPS
+Sub DPS
+Kujou Sara
+Keqing
+Nahida
+Kaedehara Kazuha
+Kujou Sara can also be used in an Aggravate team. You will need both
+Electro
+and
+Dendro
+units in the team.
+Nahida
+is one of the best choices as she provides high Dendro 
+application, allowing
+Keqing
+to trigger reactions. 
+Keqing will take advantage of the ATK buff, 
+and an Anemo unit will allow you to spread to all to surrounding enemies.
+5.
+Kujou Sara's Ascensions, Talents, and Constellations
+Kujou Sara Ascensions
+Kujou Sara Talents
+Kujou Sara Constellations
+5.1.
+Kujou Sara Ascension Passives and Materials
+Unlock
+Ascension Passive
+Explanation
+With Character
+Land Survey
+When dispatched on an expedition in Inazuma, time consumed is reduced by 25%.
+1st Ascension
+Immovable Will
+While in the Crowfeather Cover state provided by
+Tengu Stormcall
+, Aimed Shot charge times are decreased by 60%.
+4th Ascension
+Decorum
+When Tengu Juurai: Ambush hits opponents, Kujou Sara will restore 1.2 Energy to all party members for every 100% Energy Recharge she has. This effect can be triggered once every 3s.
+Kujou Sara requires a range of materials to ascend to the 6th ascension.
+Starting from the second ascension he gains additional Bonus ATK % as she levels,
+giving a total of 24.0% Bonus ATK % at the final ascension.
+The total cost to upgrade all ascensions is:
+Source
+Quantity
+Mora
+420,000 Mora
+Boss Material
+46x
+Storm Beads
+Ascension Material
+1x
+Vajrada Amethyst Sliver
+9x
+Vajrada Amethyst Fragment
+9x
+Vajrada Amethyst Chunk
+6x
+Vajrada Amethyst Gemstone
+Local Specialty
+168x
+Dendrobium
+Enhancement Material
+18x
+Damaged Mask
+30x
+Stained Mask
+36x
+Ominous Mask
+5.2.
+Kujou Sara's Talents
+Listed below is each talent and a brief explanation of how they work.
+Type
+Talent Name
+Brief Explanation
+Normal
+Tengu Bowmanship
+Standard normal attack dealing 5 rapid strikes with a bow. Charged attack is
+an aimed shot, when fully charged it will deal
+Electro
+. Plunging attacks strike the ground below with an AoE Damage circle.
+Elemental Skill
+Tengu Stormcall
+Steps back from battle and gains the Crowfeather Cover buff for 18s. If she fires an Aimed Shot with this buff, she will consume the buff and create a Crowfeather. Whoever picks up this feather will trigger a blast of Electro DMG and grants the active character within the AoE an ATK buff.
+Elemental Burst
+Subjugation: Koukou Sendou
+Deals AoE Electro DMG in a radius, offering the active character within the AoE an ATK buff while they remain inside the AoE radius. This cannot stack with other buffs from Kujou Sara and the buff will be overwritten if her other skill is used.
+To upgrade a single talent to level 10, it costs:
+Source
+Quantity
+Mora
+1,625,500 Mora
+Special Material
+1x
+Crown of Insight
+Boss Material
+6x
+Ashen Heart
+Domain Material
+3x
+Teachings of Elegance
+21x
+Guide to Elegance
+38x
+Philosophies of Elegance
+Enhancement Material
+6x
+Damaged Mask
+22x
+Stained Mask
+31x
+Ominous Mask
+5.3.
+Kujou Sara's Constellations
+Kujou Sara is one of those characters that needs her constellations to really unleash her 
+full potential. Her C2 allows you to skip the Charged Attack after using her skill as it will 
+activate her ATK buff automatically. Her C6 is also extremely useful, turning her into 
+a powerful
+Electro
+DMG support with a +60% CRIT DMG buff to 
+Electro attacks.
+#
+Name
+Explanation
+C1
+Crow's Eye
+When Tengu Juurai grant characters ATK Bonuses or hits opponents, the CD of
+Tengu Stormcall
+is decreased by 1s.
+This effect can be triggered once every 3s.
+C2
+Dark Wings
+Unleashing
+Tengu Stormcall
+will leave a weaker Crowfeather at Kujou Sara's original position that will deal 30% of its original DMG
+C3
+The War Within
+Increases the Level of
+Subjugation: Koukou Sendou
+by 3.
+Maximum upgrade level is 15.
+C4
+Conclusive Proof
+The number of Tengu Juurai: Stormcluster released by Subjugation: Koukou Sendou is increased to 6.
+C5
+Spellsinger
+Increases the Level of
+Tengu Stormcall
+by 3.
+Maximum upgrade level is 15.
+C6
+Sin of Pride
+The Electro DMG of characters who have had their ATK increased by Tengu Juurai has its Crit DMG increased by 60%.
+Changelog
+20 Oct. 2025:
+Updated for Luna II.
+30 Jul. 2025:
+Updated for 5.8.
+17 Jun. 2025:
+Updated for 5.7.
+20 May 2025:
+Guide updated for 5.6.
+11 Sep. 2024:
+Guide added.
+Show more
+Show less
+Need any help? Check out our
+General Discussion Forum
+!
+1 comment
+In The Same Category
+Flins Best Builds Guide
+Razor Best Builds Guide
+Ineffa Profile & Talents
+Keqing Best Builds Guide
+Raiden Shogun Team Guide
+Flins Team Guide
+Iansan Team Guide
+Clorinde Best Builds Guide
+Ineffa Team Guide
+Ororon Best Builds Guide
+Cyno Profile & Talents
+Iansan Best Builds Guide
+ABOUT THE AUTHOR
+GxG Noir has been traversing the world of Teyvat since patch 1.1. 
+        He has a passion for doing calculations and theorycrafting, especially on 
+        some of the more underrated characters. You can find him on
+YouTube
+as well as
+Discord
+.
+SUPPORT OUR WRITERS

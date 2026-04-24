@@ -1,0 +1,701 @@
+Genshin Impact Clorinde Best Team Guide
+Last updated April 24, 2026. Looking for the best Clorinde teams in
+        Genshin Impact? Start with the top team summary below, then pick the
+        lineup that fits your roster.
+This page provides the best team information for Clorinde, primarily a DPS. Top teams include Aggravate, Electro-Charged, and Overload compositions. Team positions can be adjusted based on your roster and build.
+View Clorinde's character page
+Clorinde Team Summary
+#1
+Team Rating:SS
+Clorinde Aggravate Hyperbloom SS Team
+#2
+Team Rating:SS
+Clorinde Electro SS Team with Fischl, Xilonen & Chiori
+C6
+C1
+#3
+Team Rating:S
+Clorinde Aggravate Team
+C6
+C6
+#4
+Team Rating:S
+Clorinde Electro Overload + Geo Shield
+C6
+#5
+Team Rating:S
+Clorinde Overload Team #1
+C6
+#6
+Team Rating:S
+Clorinde Electro-Charged Furina Yelan Team
+C6
+#7
+Team Rating:SS
+Clorinde Electro-Charged SS Team 2
+#8
+Team Rating:SS
+Clorinde Overload SS Tier Team 2
+#1 Clorinde Aggravate Hyperbloom SS Team
+Tier SS
+Clorinde drives the team as an Electro Main DPS, maximizing Electro damage through Aggravate and Hyperbloom. Furina supplies consistent off-field Hydro and teamwide DMG buffing, Nahida enables strong Dendro application for reactions, and Baizhu provides healing and shielding to keep the team stable while further supporting Aggravate damage through his Max HP scaling passive.
+Clorinde
+Main DPS
+Electro
+Clorinde is the on-field driver and main source of Electro damage. Her Elemental Skill converts her Normal Attacks into Electro pistol attacks for sustained damage, while her Bond of Life mechanic enhances her lunge attack when sufficiently charged.
+Artifacts
+Fragment of Harmonic Whimsy
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Absolution
+The Black Sword
+Furina
+Sub DPS
+Hydro
+Furina provides continuous off-field Hydro application to enable Bloom-related reactions, while her Burst grants a strong DMG buff based on HP changes in the team. She synergizes well with healing support to maintain her buff uptime.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Favonius Sword
+Nahida
+Sub DPS
+Dendro
+Nahida supplies excellent off-field Dendro application through her Elemental Skill, enabling frequent reactions across multiple enemies. Her Burst further enhances her Skill based on the party's elements.
+Artifacts
+Deepwood Memories
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / ATK% / Energy Recharge
+Weapons
+A Thousand Floating Dreams
+Wandering Evenstar
+Baizhu
+Support
+Dendro
+Baizhu provides shielding and healing to keep the team safe and to help maintain Furina's HP fluctuation requirements. His passive also increases Aggravate damage based on his Max HP.
+Artifacts
+Ocean-Hued Clam
+Main Stats
+Sands
+Energy Recharge
+Goblet
+HP%
+Circlet
+HP%
+Substats
+Energy Recharge / HP% / HP% / CRIT DMG / CRIT Rate
+Weapons
+Jadefall's Splendor
+Prototype Amber
+#2 Clorinde Electro SS Team with Fischl, Xilonen & Chiori
+Tier SS
+An
+Electro Aggravate/Quicken-style
+team built around
+Clorinde
+as the on-field DPS, with
+Fischl C6
+providing consistent off-field Electro application and strong personal damage.
+Xilonen
+supplies RES shred and healing, while
+Chiori C1
+adds high off-field Geo damage and extra team pressure.
+Clorinde
+Main DPS
+Electro
+Uses Elemental Skill to convert Normal Attacks into Electro pistol attacks for extended on-field damage. Her Bond of Life mechanic lets her ramp up damage and perform stronger lunge attacks when managed well.
+Artifacts
+Fragment of Harmonic Whimsy
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Absolution
+Fischl
+Sub DPS
+Electro
+Constellation 6+
+C6 greatly improves the team. Oz provides continuous off-field Electro application, helping trigger Aggravate consistently while contributing strong single-target damage.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Aqua Simulacra
+The Stringless
+Xilonen
+Support
+Geo
+Provides team utility through Samplers, reducing enemy Elemental RES when active. Also offers healing to improve survivability and comfort.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Peak Patrol Song
+Favonius Sword
+Chiori
+Sub DPS
+Geo
+Constellation 1+
+Deals significant off-field Geo damage, especially with support from team buffs and Geo Construct interactions that maximize her Elemental Skill and Burst damage.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+DEF%
+Goblet
+Geo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / DEF% / ATK%
+Weapons
+Uraku Misugiri
+Wolf-Fang
+#3 Clorinde Aggravate Team
+Tier S
+Aggravate-focused Clorinde team
+with Fischl and Nahida enabling consistent Quicken/Aggravate uptime. Kazuha provides grouping, team buffing, and Electro RES shred via Viridescent Venerer. C6 Clorinde gains strong self-sustain and damage without needing a dedicated shield or healer.
+Clorinde
+Main DPS
+Electro
+Constellation 6+
+On-field DPS. Her Elemental Skill converts Normal Attacks into Electro pistol shots for sustained damage. At C6, she gains built-in damage reduction and damage boost, reducing the need for defensive support.
+Artifacts
+Fragment of Harmonic Whimsy
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Absolution
+The Black Sword
+Fischl
+Sub DPS
+Electro
+Constellation 6+
+Off-field Electro application through Oz, enabling consistent Aggravate triggers. C6 significantly improves her contribution to the team.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Aqua Simulacra
+The Stringless
+Nahida
+Sub DPS
+Dendro
+Provides strong off-field Dendro application to maintain Quicken and enable Aggravate. Her Skill links enemies and deals frequent Dendro damage; Burst further buffs her Skill based on teammates' elements.
+Artifacts
+Deepwood Memories
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / ATK% / Energy Recharge
+Weapons
+A Thousand Floating Dreams
+Wandering Evenstar
+Kaedehara Kazuha
+Support
+Anemo
+Groups enemies, provides crowd control and team damage buffs, and lowers enemy Elemental RES with Viridescent Venerer. Best used to amplify Electro damage and improve AoE consistency.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Freedom-Sworn
+Xiphos' Moonlight
+#4 Clorinde Electro Overload + Geo Shield
+Tier S
+Clorinde Hypercarry team with
+Fischl C6
+for strong off-field Electro damage,
+Yun Jin
+to buff Clorinde's Normal Attacks, and
+Zhongli
+for shielding plus Tenacity ATK buff.
+Clorinde
+Main DPS
+Electro
+On-field carry. Uses Elemental Skill to convert Normal Attacks into Electro DMG pistol attacks and maintain Bond of Life for enhanced damage.
+Artifacts
+Fragment of Harmonic Whimsy
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Absolution
+The Black Sword
+Fischl
+Sub DPS
+Electro
+Constellation 6+
+Provides continuous off-field Electro application and strong personal damage. C6 is a major upgrade for the team.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Aqua Simulacra
+Alley Hunter
+Yun Jin
+Support
+Geo
+Buffs Clorinde's Normal Attacks and Normal ATK SPD at C6.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+DEF%
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+DEF% / DEF / CRIT DMG / CRIT Rate / Energy Recharge
+Weapons
+Engulfing Lightning
+Favonius Lance
+Zhongli
+Support
+Geo
+Provides a very safe shield and activates the 4pc Tenacity ATK buff for the team.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP / Energy Recharge
+Weapons
+Staff of Homa
+Favonius Lance
+#5 Clorinde Overload Team #1
+Tier S
+Clorinde Overload Team
+Clorinde is the main on-field DPS, with Overload reactions enabled by Chevreuse and off-field Electro/Pyro application. Fischl and Xiangling provide strong off-field damage, while Chevreuse offers healing, ATK buffs, and Pyro/Electro RES shred.
+Clorinde
+Main DPS
+Electro
+On-field Electro DPS. Her Elemental Skill converts Normal Attacks into Electro DMG pistol attacks and manages Bond of Life for stronger lunge attacks when needed.
+Artifacts
+Fragment of Harmonic Whimsy
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Absolution
+The Black Sword
+Fischl
+Sub DPS
+Electro
+Constellation 6+
+Off-field Electro applicator with strong continuous damage. C6 is a significant upgrade for the team, improving Electro application and overall damage.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Aqua Simulacra
+The Stringless
+Chevreuse
+Support
+Pyro
+Healer/support. Her passive reduces enemy Pyro RES and Electro RES after Overload, and her skill grants an ATK buff to Pyro and Electro characters based on Max HP. C6 further increases teammates' Pyro and Electro DMG.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / Energy Recharge
+Weapons
+Staff of Homa
+Favonius Lance
+Xiangling
+Sub DPS
+Pyro
+Burst-focused off-field Pyro damage dealer. Her Elemental Burst deals strong continuous Pyro DMG and enables frequent Overload reactions.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+ATK% / Energy Recharge
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Engulfing Lightning
+Favonius Lance
+#6 Clorinde Electro-Charged Furina Yelan Team
+Tier S
+Clorinde is the main on-field DPS, with Hydro off-field supports amplifying Electro-Charged damage and Jean providing healing plus
+Viridescent Venerer
+RES shred. The guide text mentions Yelan, but the detailed team breakdown provided here includes
+Furina
+,
+Fischl
+, and
+Jean
+.
+Clorinde
+Main DPS
+Electro
+On-field driver and main damage dealer. Her Elemental Skill converts Normal Attacks into Electro pistol attacks and enhances her lunge attack when Bond of Life is high.
+Artifacts
+Fragment of Harmonic Whimsy
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Absolution
+The Black Sword
+Fischl
+Sub DPS
+Electro
+Constellation 6+
+Backline Electro application and strong off-field damage. C6 is a significant upgrade for the team.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Aqua Simulacra
+The Stringless
+Furina
+Sub DPS
+Hydro
+Provides continuous Hydro application for Electro-Charged while her Burst grants a powerful team damage buff based on HP changes. Her Skill drains ally HP and Jean helps restore it.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Favonius Sword
+Jean
+Support
+Anemo
+Healer and utility support. She keeps the team healthy for Furina and can trigger
+Viridescent Venerer
+to reduce enemy resistance.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+#7 Clorinde Electro-Charged SS Team 2
+Tier SS
+Electro-Charged team built around
+Clorinde
+as the on-field Main DPS, with
+Furina
+providing strong off-field Hydro application and damage amplification.
+Ororon
+and
+Xilonen
+add powerful support utility, including extra off-field damage, energy/ATK support, healing, and RES reduction via
+Scroll of the Hero of Cinder City
+.
+Clorinde
+Main DPS
+Electro
+On-field driver and main source of damage. Her Elemental Skill converts Normal Attacks into Electro pistol attacks and can enhance her lunge attack when Bond of Life is high.
+Artifacts
+Fragment of Harmonic Whimsy
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Absolution
+Wolf-Fang
+Furina
+Sub DPS
+Hydro
+Provides continuous off-field Hydro application and a powerful DMG buff from her Elemental Burst based on HP changes in the team. Synergizes well with healing.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Favonius Sword
+Ororon
+Support
+Electro
+Deals additional off-field damage when allies trigger Electro-Charged or Nightsoul-aligned damage, and can help restore teammates' energy through his Skill. Also benefits from and enables
+Scroll of the Hero of Cinder City
+.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Elegy for the End
+Favonius Warbow
+Xilonen
+Support
+Geo
+Provides healing and elemental RES reduction through her Samplers, while also enabling
+Scroll of the Hero of Cinder City
+support utility.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Peak Patrol Song
+Favonius Sword
+#8 Clorinde Overload SS Tier Team 2
+Tier SS
+Overload team centered around
+Clorinde
+as the on-field Electro Main DPS, with
+Mavuika
+providing off-field Pyro damage,
+Ororon
+supplying Electro support and energy utility, and
+Chevreuse
+enabling Pyro/Electro RES shred, ATK buffs, and healing. Strong synergy for sustained Overload damage.
+Clorinde
+Main DPS
+Electro
+On-field Electro pistol DPS. Her Elemental Skill converts Normal Attacks into Electro damage attacks for 7.5s. When Bond of Life is below 100%, Normal Attacks can pierce enemies and increase Bond of Life capacity; when Bond of Life is at or above 100%, recasting Skill enhances her lunge attack's area and damage.
+Artifacts
+Fragment of Harmonic Whimsy
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Absolution
+The Black Sword
+Mavuika
+Sub DPS
+Pyro
+Off-field Pyro Sub DPS. Her Skill summons a Ring of Searing Radiance that follows the active character and periodically attacks nearby enemies, dealing Nightsoul-aligned Pyro damage.
+Artifacts
+Obsidian Codex
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+A Thousand Blazing Suns
+Serpent Spine
+Ororon
+Support
+Electro
+Electro support with off-field damage and utility. Triggers additional damage when teammates deal Electro-Charged or Nightsoul-aligned damage, and can activate the Scroll of the Hero of Cinder City effect. His Skill restores teammates' energy when Normal, Charged, or Plunge Attacks hit enemies, and at C6 he further boosts teammates' ATK.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Elegy for the End
+Favonius Warbow
+Chevreuse
+Support
+Pyro
+Pyro/Electro enabler and team buffer. Her passive reduces enemy Pyro RES and Electro RES when Overload is triggered, maximizing team damage. Her Skill grants Pyro and Electro characters an ATK buff based on her Max HP, heals allies, and at C6 increases teammates' Pyro and Electro DMG.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / Energy Recharge
+Weapons
+Staff of Homa
+Favonius Lance
+Clorinde Teams FAQ
+What is the best Clorinde team in Genshin Impact?
+Clorinde Aggravate Hyperbloom SS Team is one of the strongest Clorinde teams right now. Use the team summary and build cards on this page to pick the best version for your account.
+What are good Clorinde teams without premium weapons?
+You can run strong Clorinde teams without signature weapons by prioritizing reaction synergy, energy consistency, and artifact main stats shown in each build card.
+Which teammates are best with Clorinde?
+Common high-performing partners include teams such as Clorinde Aggravate Hyperbloom SS Team, Clorinde Electro SS Team with Fischl, Xilonen & Chiori, Clorinde Aggravate Team. Check each lineup section for role breakdowns and gear priorities.

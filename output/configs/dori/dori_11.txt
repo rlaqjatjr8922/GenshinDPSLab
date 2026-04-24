@@ -1,0 +1,56 @@
+options iteration=1000 duration=10.5 swap_delay=6 workers=4;
+options hitlag=true defhalt=false ignore_burst_energy=true;
+
+target lvl=100 resist=0.1 pos=1,0 radius=3 freeze_resist=0;
+
+active dori;
+
+# =========================
+# 캐릭터 1 (dori)
+# =========================
+dori char lvl=90/90 cons=0 talent=9,9,9;
+dori add weapon="favoniusgreatsword" refine=1 lvl=90/90;
+dori add set="noblesseoblige" count=4;
+
+# =========================
+# 캐릭터 2 (fischl)
+# =========================
+fischl char lvl=90/90 cons=0 talent=9,9,9;
+fischl add weapon="alleyhunter" refine=1 lvl=90/90;
+fischl add set="goldentroupe" count=4;
+
+# =========================
+# 캐릭터 3 (kazuha)
+# =========================
+kazuha char lvl=90/90 cons=0 talent=9,9,9;
+kazuha add weapon="freedomsworn" refine=1 lvl=90/90;
+kazuha add set="viridescentvenerer" count=4;
+
+# =========================
+# 캐릭터 4 (raiden)
+# =========================
+raiden char lvl=90/90 cons=0 talent=9,9,9;
+raiden add weapon="thecatch" refine=1 lvl=90/90;
+raiden add set="emblemofseveredfate" count=4;
+
+
+# =========================
+# Entry Order
+# =========================
+# fischl -> raiden -> dori -> kazuha
+
+# =========================
+# Rotation
+# =========================
+fischl skill;
+fischl burst;
+fischl attack;
+raiden skill;
+raiden burst;
+raiden attack;
+dori skill;
+dori burst;
+dori attack;
+kazuha skill;
+kazuha burst;
+kazuha attack;
