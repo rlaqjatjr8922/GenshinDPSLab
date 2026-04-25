@@ -1,0 +1,238 @@
+Genshin Impact
+is an
+adventure
+RPG
+released by
+miHoyo
+in 2020. In a short period, the game has become one of the most successful adventures RPG titles ever to have been released. This guide will be looking into one of the most popular characters in Genshin Impact,
+Xiangling,
+and the best weapons, artifacts, and materials required for her ascension.
+How to get Xiangling
+Xiangling
+can be obtained from both
+Event and Standard Banners
+. Each 20 days
+Event and Weapon Banner
+will change. Sometimes Xiangling will be a rate-up character. Since she is a
+4-star character
+, she is available in all the banners, including Weapon Banner.
+Xiangling: Playstyle and skillset of the character
+Xiangling
+The character
+Xiangling
+is a 4-star
+Pyro polearm
+user. She may not be Genshin Impact’s most powerful character, but she does have a few characteristics that make her very suitable for the party. Xiangling can be used as DPS, sub-DPS, and also as Burst Support, her constellation is
+Condensed Pyronado.
+The following are her talents, skills, and attacks:
+NAME / DESCRIPTION
+TYPE
+Dough-Fu
+Normal Attack
+Xiangling can perform up to 5 consecutive strikes with her polearm
+Dough-Fu
+Charge Attack
+It consumes a certain amount of stamina to lunge forward, dealing damage to enemies along the way.
+Dough-Fu
+Plunging Attack
+Plunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG and there are Low/High Plunge DMG to perform.
+Guoba Attack
+Elemental Skill
+Summons Guoba the Panda. Guoba continuously breathes fire, dealing AoE
+Pyro
+DMG.
+Pyronado
+Elemental Burst
+Displaying her mastery over both fire and polearms, Xiangling sends a
+Pyronado
+whirling around her. The
+Pyronado
+will move with your character for so long as the ability persists, dealing
+Pyro
+DMG to all enemies in its path.
+Xiangling’s constellation
+Level
+Name
+Effects
+1
+Crispy Outside, Tender Inside
+Opponents hit by Guoba’s attack have their
+Pyro Res
+reduced by 15% for 6s.
+2
+Oil Meets Fire
+The last attack in a normal Attack sequence applies the implode status onto the opponent for 2s. An explosion will occur once this duration ends, dealing 75% of Xiangling’s ATK as
+AoE Pyro DMG.
+3
+Deep-fry
+Increases the Level of Pyronado by 3.
+The maximum upgrade level is 15.
+4
+Slowbake
+Pyronado’s duration is increased by 40%.
+5
+Guoba Mad
+Increases the Level of Guoba Attack by 3.
+The maximum upgrade level is 15.
+6
+Condensed Pyronado
+For the duration of Pyronado, all party members receive a 15%
+Pyro DMG Bonus.
+Xiangling’s Passive
+Crossfire
+: It increases the flame range of Guoba by 20%
+Beware, It’s Super Hot!
+: When Guoba Attack’s effects end, Guoba leaves a chili pepper on the spot where it disappeared. Picking up a chili pepper increases ATK by 10% for 10s.
+Chef de Cuisine
+: When Xiangling cooks an ATK boosting dish perfectly, she has a 12% chance to receive double the product.
+Special Dish
+Each character in the Genshin Impact game will have a special Dish. Xiangling’s specialty dish is
+Wanmin
+Restaurant’s Boiled Fish
+. This is the signature dish of the Wanmin Restaurant, combining Xiangling’s heartfelt passion for cuisine. Anyone who tastes it will gain a pure appreciation for gourmet food amid the hearty and addictive blend of flavors.
+Wanmin Restaurant’s Boiled Fish
+Sets to farm for Xiangling in Genshin Impact
+Xiangling has many roles to play so there are many artifact sets according to her role. There are four artifacts are used now and they are
+Noblesse Oblige, Crimson Witch of Flames, Gladiator’s Finale,
+and
+Emblem of Severed Fate.
+Stats to look on artifacts
+Artifact
+Main stat
+Sub Stat
+Flower
+HP
+ATK%
+Crit Rate
+Crit Damage
+Energy Recharge
+Plume
+Attack
+ATK%
+Crit Rate
+Crit Damage
+Energy Recharge
+Sands
+ATK%/Energy Recharge
+ATK%
+Crit Rate
+Crit Damage
+Energy Recharge
+Goblet
+Pyro Damage%
+ATK%
+Crit Rate
+Crit Damage
+Energy Recharge
+Circlet
+Crit Rate/Crit Damage
+ATK%
+Crit Rate
+Crit Damage
+Energy Recharge
+Materials required for ascension of Xiangling
+The materials needed to ascend Xiangling from
+Level 1
+to
+Level 90
+are as follows:
+Materials required for the ascension of Xiangling
+1x
+Agnidus Agate Sliver
+9x
+Agnidus Agate Fragment
+9x
+Agnidus Agate Chunk
+6x
+Agnidus Agate Gemstone
+46x
+Everflame Seed
+168x
+Jueyun Chili
+18x
+Slime Condensate
+30x
+Slime Secretions
+36x
+Slime Concentrate
+420,000
+Mora
+Experience
+414 Hero’s wit, 13 Adventurer’s XP, 22 Wanderers advice, and 1,672,000 Mora
+Talent Upgrade Materials for Xiangling
+3X
+Teachings of Diligence
+21X
+Guide to Diligence
+38X
+Philosophies of Diligence
+6X
+Slime Condensate
+22X
+Slime Secretions
+31X
+Slime Concentrate
+6X
+Dvalin’s Claw
+1X
+Crown of Insight
+1,652,500
+Mora
+Best Weapons for Xiangling in Genshin Impact
+As Xiangling is
+support and sub
+-DPS character, weapons with high base Attack, Energy recharge would be a great addition to her ability.
+Engulfing Lightning(5*)
+Skyward Spine(5*)
+Primordial Jade Winged spear(5*)
+The Catch(4*)
+Favonius Lance(4*)
+Dragon’s Bane(4*)
+Engulfing Lightning
+Best builds for the character
+Xiangling is one of the most flexible characters. Xiangling can act as DPS, Sub-DPS, and an excellent Support. She is very flexible and easy to build. Mostly Xiangling is used as Burst Support.
+Main DPS Build
+Weapon
+Artifact Set
+Skyward Spine
+4-Piece Set Crimson Witch of Flames
+Weapon
+Artifact Set
+Engulfing Lightning
+4-Piece Set Emblem of Severed Fate
+Sub-DPS
+Weapon
+Artifact Set
+Skyward Spine
+4-Piece Set Noblesse Oblige
+Best Team Comp
+Xiangling is an excellent DPS, SUB-DPS, and also as Burst support. But there is some team comp where Xiangling plays a major role. Her elemental Burst
+Pyronado
+does not have any internal cool Down so she can continuously do vaporization or Melt Reaction. The best team to run Xiangling is with
+Tartaglia(child), Ganyu, Xingqiu,
+and
+Venti
+.
+Related – Genshin Impact: Where to find Sakura Bloom
+Did you like our guide on
+Xiangling
+in Genshin Impact? Let us know in the
+comments
+below.
+For more Mobile Gaming news and updates, join our
+WhatsApp group
+,
+Telegram Group
+,
+or
+Discord server
+. Also, follow us on
+Google News
+,
+Instagram
+, and
+Twitter
+for quick updates.
+Tags
+Gacha Games
+Genshin Impact

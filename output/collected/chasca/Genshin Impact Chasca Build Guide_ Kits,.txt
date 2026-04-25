@@ -1,0 +1,230 @@
+Story Highlights
+Break-down of Chasca's complicated kit!
+List of best weapons and artifact sets to use on Chasca!
+Check out the ideal Chasca team comps!
+Chasca
+is an upcoming 5-star
+Anemo
+Bow
+character in
+Genshin Impact
+, set to be released in
+Version 5.2
+, first phase banner. Chasca is an Anemo DPS whose kit focuses on aiming and firing bullets, having different types of
+Elemental party
+members in the team. In this guide, we will break down Chasca in detail, talk about her kit, find out her best artifacts and build, and more about Genshin Impact.
+Let us dive into her character details, kits, best team, and weapons so we can understand how she works.
+#GenshinImpact
+#Chasca
+"…We have come to a full and thorough understanding of the folly and recklessness of our recent actions, and agree to set aside our differences and move forward as one… This statement has been drafted entirely of our own free will, with no objections…
+pic.twitter.com/KqXYoKmVL7
+— Genshin Impact (@GenshinImpact)
+October 7, 2024
+Table Of Contents
+Genshin Impact Chasca Guide: Kit Explained
+Chasca’s Passives
+Genshin Impact Chasca Build Guide: Constellations
+Genshin Impact Chasca Guide: Best in-slot weapon
+Genshin Impact Chasca Build Guide: Artifacts to use
+Best Team Comps for Chasca in Genshin Impact
+Final Thoughts
+Genshin Impact Chasca Guide: Kit Explained
+Chasca
+’s gameplay centers around her
+Elemental Skill
+, which features the
+Nightsoul
+mechanic, a signature trait shared by other characters from
+Natlan
+. This mechanic allows her to fly mid-air while also additional buffs to herself.
+Genshin Impact Chasca (Image via HoYoverse)
+Normal Attack: Phantom Feather Flurry
+Deals physical normal attack dmg and plunging attack dmg. Charged shots deal Anemo dmg.
+Elemental Skill: Spirit Reins, Shadow Hunt
+Chasca uses a special skill that gives her a powerful weapon and lets her fight while floating in the air. This skill is fueled by “Nightsoul points,” which act like energy. Once her energy runs out or you deactivate the skill, she’ll stop floating.
+Activating the Skill
+Chasca creates a big burst of wind (Anemo DMG) and gains
+80 Nightsoul points.
+She enters
+Nightsoul’s Blessing
+mode, which has special effects:
+Faster Movement Speed
+and high resistance to attacks can float in the air as long as she has Nightsoul points, sprinting or flying higher uses more energy (Nightsoul points).
+Attacks in Nightsoul’s Blessing Mode
+While floating, she can attack in two ways: In
+Tap mode
+, she shoots a simple burst of wind at enemies in front. In
+Hold mode
+, she aims and charges up to 6 powerful shots (Shadowhunt Shells) at specific targets.
+Shadowhunt Shells have a total of 6 bullets.
+The first 3 shots deal normal Anemo damage. The last 3 shots can gain extra power based on your team’s elements (Pyro/Hydro/Cryo/Electro). These deal special damage that matches your teammates’ elements.
+If you hold the skill button, Chasca can do a powerful dive attack from the air. If she hits the ground, her floating mode ends.
+Elemental Burst: Soul Reaper’s Fatal Round
+Chasca shoots a powerful
+Galesplitting Soulseeker Shell
+that causes a big explosive AoE Anemo dmg. After the explosion, the shell splits into
+6 smaller Soulseeker Shells
+that target nearby enemies. If your team has
+Pyro, Hydro, Cryo, or Electro characters
+,
+2 of the Soulseeker Shells
+will get an Elemental boost. These boosted shells deal with
+Elemental DMG
+based on your team’s elements (randomly chosen).
+Chasca’s Passives
+Chasca in Genshin Impact (Image via HoYoverse)
+Bullet Trick
+This improves her
+Elemental Skill (Multitarget Fire)
+while charging. Based on how many different elements (Pyro/Hydro/Cryo/Electro) are in your team: 1 Element:
+33.3% chance
+to convert the
+3rd Shadowhunt Shell
+into a boosted (Shining) Shell, 2 Elements:
+66.7% chance
+and 3 Elements:
+100% chance
+. For every Element Type in your team, Chasca gains
+Spirit of the Radiant Shadow
+stacks. This boost lasts until the current Multitarget Fire ends.
+Intent to Cover
+When a teammate triggers a
+Nightsoul Burst
+, Chasca fires a
+Burning Shadowhunt Shot
+at an enemy, dealing
+a percentage of her Shadowhunt Shell DMG
+from her Elemental Skill. If there are Pyro, Hydro, Cryo, or Electro teammates, the Burning Shadowhunt Shot will deal with
+Elemental DMG
+based on their elements. This DMG is treated as a
+Charged Attack DMG
+.
+Night Realm’s Gift: Everburning Heart
+When Nightsoul Points Run Out,
+Chasca uses a special energy called
+Phlogiston
+to stay airborne. If you’re in a special area in Natlan (
+Phlogiston Mechanic zone
+), When switching to Chasca while another character is in the air, she gains:
+32 Nightsoul points
+and automatically
+Genshin Impact Chasca Build Guide: Constellations
+In this section, we will break down the constellations for Chasca in Genshin Impact.
+C1
+Converts the
+2nd Shell into a Shining Shadowhunt Shell
+, improving the number of enhanced shots you can fire per rotation. C1 is a strong utility boost that makes her more consistent and efficient, but it lacks the raw damage upgrades and combat-altering effects of higher constellations.
+C2
+Each Shining Shadowhunt Shell triggers an AoE explosion for an additional
+400% ATK as Elemental DMG.
+This makes her crowd control and multi-enemy fights incredibly efficient. Automatically grants 1 stack of Spirit of the Radiant Shadow (15%-65% DMG boost), ensuring better Shining Shell damage from the start. This constellation significantly boosts her versatility and Elemental damage output, making it a close contender for best.
+C3
+Elemental skill increased by 3 levels.
+C4
+Restoring
+1.5 Energy per Radiant Soulseeker Shell
+hit helps her recharge quickly, making her Elemental Burst more consistent. Like C2, it adds another layer of massive damage with AoE explosions, further amplifying her potential in fights with multiple enemies. This constellation is excellent for sustaining her Elemental Burst uptime and improving her overall damage, but it doesn’t have the same game-altering impact as C6 or the sheer AoE power of C2.
+C5
+Elemental burst increased by 3 levels.
+C6
+Multitarget Fire’s charge time is removed after triggering Spiritbinding Conversion, making it effortless to fire off fully loaded shots without delay. 1
+20% CRIT DMG Boost
+massively increases the damage output of both regular and Shining Shadowhunt Shells. The short cooldown makes this upgrade reliable and spammable in combat as well. C6 transforms Chasca into an absolute DPS monster, letting you maximize her damage potential with less effort and higher speed.
+As far as Constellations go, Chasca’s constellations are pretty average at best. The only game-change worthy is undeniably her C6. In order of best to least best constellation:
+C6>C2>C1>C3>C4=C5
+Genshin Impact Chasca Guide: Best in-slot weapon
+The best weapon for Chasca will be the
+Astral Vulture’s Crimson Plumage
+, a 5-star weapon that will be released with her. It has a
+CRIT DMG main stat
+and is a
+DPS-based weapon
+. Here are other alternative 5-star weapons included, from best to least best in slot for Chasca:
+The First Great Magic
+Aqua Simulacra
+Thundering Pulse
+Skyward Harp
+Polar Star
+Astral Vulture’s Crimson Plumage in Genshin Impact (Image via HoYoverse)
+For
+F2P players
+, her best in the slot is the
+Song of Stillness
+, a craft-able 4* weapon in Fontaine. Although, it is not the
+best 4* option
+by a long shot. In terms of 4*, it would be the new
+Flower-Wreathed Feathers
+weapon, a
+gacha only weapon
+that will be released with the Phase 1 weapon banner in Version 5.2.
+As this is an
+Event-Wish exclusive weapon
+, you cannot get the
+Flower-Wreathed Feathers
+in other ways. Here are other alternative 4-star weapons included, from best to least best in the slot for Chasca:
+Song of Stillness Weapon in Genshin Impact (Image via HoYoverse)
+Scion of the Blazing Sun
+Chain Breaker
+Hamayumi
+Genshin Impact Chasca Build Guide: Artifacts to use
+Obsidian Codex (BiS)
+2-Pieces:
+While the equipping character is in Nightsoul’s Blessing and is on the field, their DMG dealt is increased by 15%.
+4-Pieces:
+After the equipping character consumes 1 Nightsoul point while on the field, the CRIT Rate increases by 40% for 6s. This effect can trigger once every second.
+Marechaussee Hunter
+2-Pieces:
+Normal and Charged Attack DMG +15%
+4-Pieces:
+When current HP increases or decreases, the CRIT Rate will be increased by 12% for 5s. Max 3 stacks.
+Ideally, since Obsidian Codex is the BiS set you should aim for
+ATK/ATK/Crit
+as Chasca’s kit allows her to dish out more damage with an Attack goblet than an Anemo DMG goblet. Unless you’re using Marechaussee Hunter she would then need an Anemo goblet. For substats focus on ATK and Crit.
+Best Team Comps for Chasca in Genshin Impact
+Ideally, Chasca’s kit revolves around using
+Pyro/Hydro/Electro/Cryo units
+to maximize her bullet damage. As such you will notice that in her best teams, it is important to have
+Furina
+and
+Bennett i
+n them for the highest damage potential. The 4th slot is situational. Here are some potential ideal team comps for Chasca:
+Chasca
+Furina
+Bennett
+Ororon
+(Best character to take place in the 4th slot due to his support capabilities of using the Cinder City Artifact set)
+Chasca
+Furina
+Bennett
+Xiangling
+(As good as Ororon for 4th team member but still not ideal)
+Chasca
+Furina
+Bennett
+Layla
+(For Shield and cryo application)
+Final Thoughts
+Chasca seems to be a great Anemo DPS to have dishing out high amounts of damage but there are some issues with her gameplay and kit and the overall state of characters being released in Natlan. Chasca’s gameplay is limited and situational, which causes problems in her overall play style. Although her fun game mechanics may make up for it if you want to try something different and unique.
+Read more of our Genshin Impact content here:
+Genshin Impact Version 5.2 “Tapestry of Spirit and Flame” details
+Genshin Impact Chasca Pre-Farm Guide
+Genshin Impact Version 5.2 Phase 1: Should you go for Chasca or Lyney
+What are your thoughts on our Genshin Impact Chasca Build Guide? Let us know in the comments below.
+For more Mobile Gaming news and updates, join our
+WhatsApp group
+,
+Telegram Group
+,
+or
+Discord server
+. Also, follow us on
+Google News
+,
+Instagram
+, and
+Twitter
+for quick updates.
+Tags
+Gacha Games
+Genshin Impact
+HoYoverse

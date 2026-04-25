@@ -1,0 +1,70 @@
+Faruzan is an eccentric researcher from the Sumeru Akademiya's Haravatat Darshan, which focuses on studying linguistics and runes. Despite this, she has a penchant for technology, often aiding desperate Kshahrewar students with remedial lessons.
+Recommended Videos
+Faruzan is a four-star Anemo bow user who's expected to drop in Version 3.3. While leakers have been able to get ahold of her kit from the 3.3 beta files, keep in mind that
+this information has not been confirmed and may change at any time
+.
+Additionally, since the text below was
+directly translated by the leaker
+, the wording can be confusing and may not be accurate to the source material
+.
+Faruzan – Skills, Constellations, & more in Genshin Impact
+Faruzan Skills
+Auto Attack: Turnaround Shooter
+Normal Attack
+: Performs up to four consecutive shots with a bow.
+Charged Attack
+: Performs a more precise Aimed Shot with increased Damage. While aiming, mighty winds will accumulate on the arrowhead. A fully charged wind arrow will deal Anemo Damage.
+Plunge Attack
+: Fires off a shower of arrows in mid-air before falling and striking the ground, hitting opponents along the path, and dealing AoE Damage upon impact.
+Elemental Skill - Wind Realm of Nasamjnin
+Faruzan deploys a polyhedron that deals AoE Anemo Damage to nearby opponents. She will also enter the Manifest Gale state. While in the Manifest Gale state, Faruzan's next fully charged shot will consume this state, turning into a Hurricane Arrow that contains high-pressure currents. This arrow deals Anemo Damage based on the Damage of a fully charged Aimed Shot from Normal Attack: Turnaround Shooter.
+Pressurized Collapse
+: The Hurricane Arrow will apply a Pressurized Collapse effect to the opponent or character hit. If the Hurricane Arrow does not hit any opponent or character, it will create a Pressurized Collapse effect at its point of impact.
+This effect will be removed after a short delay, creating a vortex that deals AoE Anemo Damage and pulls nearby objects and opponents in. The vortex DMG is considered Elemental Skill Damage.
+Cooldown
+: 600 seconds (
+highly unlikely - please take this with a grain of salt
+)
+Manifest Gale Duration
+: 18 seconds
+Elemental Burst - The Wind's Secret Ways
+Faruzan deploys a Dazzling Polyhedron that deals AoE Anemo Damage and releases a Whirlwind Pulse. While the Dazzling Polyhedron persists, it will continuously move along a triangular path. Once it reaches each corner of that triangular path, it will unleash one more Whirlwind Pulse.
+Whirlwind Pulse
+: When the Whirlwind Pulse hits opponents, it will apply Perfidious Wind's Ruin to them, decreasing their Anemo Resistance. The Whirlwind Pulse will also apply Prayerful Wind's Gift to all party members when it is unleashed, granting them Anemo Damage Bonus.
+Cooldown
+: 12 seconds
+Energy cost
+: 20
+Prayerful Wind's Gift and Perfidious Wind's Ruin Duration
+: four seconds
+Related:
+Genshin Impact Wanderer farming guide
+Faruzan Passives
+Passive 1 (Tomes Light the Path)
+: When Faruzan is in the Manifest Gale state created by Wind Realm of Nasamjnin, the amount of time taken to charge a shot is decreased by 60 percent, and she can apply The Wind's Secret Ways' Perfidious Wind's Ruin to opponents who the vortex created by Pressurized Collapse hits.
+Passive 2
+(Impetuous Flow)
+: When characters affected by The Wind's Secret Ways' Prayerful Wind's Gift deal Anemo Damage to opponents, this Damage will be increased based on 57.4 percent of Faruzan's own Attack. This Damage Bonus will be cleared 0.1 seconds after dealing Anemo DMG to opponents and can be triggered once every second.
+Passive 3 (Utility - Lost Wisdom of the Seven Caverns)
+: Gains 25 percent more rewards when dispatched on a Sumeru Expedition for 20 hours.
+Related:
+Genshin Impact 3.3 – leaks, banners, events, new characters, and everything we know so far
+Faruzan Constellations
+C1 (Truth by Any Means)
+: Faruzan can fire off a maximum of two Hurricane Arrows using fully charged Aimed Shots while under a single Wind Realm of Nasaminin effect.
+C2 (Overzealous Intellect)
+: The duration of the Dazzling Polyhedron created by The Wind's Secret Ways increased by six seconds.
+C3 (Sprint-Orchard Stroll)
+: Increases Elemental Skill Level by three. Maximum upgrade level is 15.
+C4 (Divine Comprehension)
+: The vortex created by Wind Realm of Nasamjnin will restore Energy to Faruzan based on the number of opponents hit.
+If it hits one opponent, it will restore two Energy for Faruzan.
+Each additional opponent hit will restore 0.5 more Energy for Faruzan. A maximum of four Energy can be restored to her per vortex.
+C5 (Wonderland of Rumination)
+: Increases Elemental Burst Level by three. The maximum upgrade level is 15.
+C6 (The Wondrous Path of Truth)
+: Characters affected by The Wind's Secret Ways Prayerful Wind's Gift have 40 percent increased Crit Damage when they deal Anemo Damage. When your own active character deals Damage while affected by Prayerful Wind's Gift, they will fire another Hurricane Arrow at opponents. This effect can be triggered once every three seconds.
+Check out our
+Genshin Impact Wanderer kit – All Skills, Constellations, Passives & more!
+to learn more about Faruzan's alleged banner buddy.
+More Posts from PGG

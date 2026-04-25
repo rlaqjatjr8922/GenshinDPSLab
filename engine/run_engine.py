@@ -1,6 +1,6 @@
 import json
 
-from config.config import DATA_DIR, OUTPUT_DIR
+from config.config import DATA_DIR, OUTPUT_DIR, ENGINE_SETTINGS, BEST_ORDERS_JSON
 from engine.rotation_order import save_all_orders
 
 
@@ -18,6 +18,23 @@ def norm(s: str) -> str:
 def load_json(path):
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
+
+
+def load_best_orders():
+    if BEST_ORDERS_JSON.exists():
+        try:
+            with open(BEST_ORDERS_JSON, "r", encoding="utf-8") as f:
+                data = json.load(f)
+
+            if isinstance(data, dict):
+                return data
+
+            return {}
+
+        except Exception:
+            return {}
+
+    return {}
 
 
 def save_failed_csv(failed_set):
@@ -90,6 +107,9 @@ def run(app_state, progress_callback=None, log_callback=None):
 
     log("[engine] 3단계 시작")
 
+    max_workers = ENGINE_SETTINGS.get("MAX_WORKERS", 1)
+    log(f"[engine] MAX_WORKERS={max_workers}")
+
     if not TEAMS_JSON.exists():
         raise FileNotFoundError(f"teams.json 없음: {TEAMS_JSON}")
 
@@ -98,6 +118,7 @@ def run(app_state, progress_callback=None, log_callback=None):
 
     teams_map = load_json(TEAMS_JSON)
     gear_map = load_json(GEAR_JSON)
+    best_orders_map = load_best_orders()
 
     items = list(teams_map.items())
     total_chars = len(items)
@@ -128,6 +149,20 @@ def run(app_state, progress_callback=None, log_callback=None):
             f"{main_name} 시뮬레이션: 0 / 24",
         )
 
+        if main_name in best_orders_map:
+            log(f"[skip] {main_name} 이미 완료됨")
+
+            set_ui_progress(
+                0,
+                (i / total_chars) * 100.0,
+                f"캐릭터 진행도: {i} / {total_chars} (skip)",
+            )
+
+            if progress_callback:
+                progress_callback((i / total_chars) * 100.0)
+
+            continue
+
         if main_name in failed_set:
             log(f"[스킵] {main_name} (이미 실패)")
             continue
@@ -155,9 +190,12 @@ def run(app_state, progress_callback=None, log_callback=None):
                 base_code=base_code,
                 party_members=members,
                 progress_callback=sim_progress_callback,
+                max_workers=max_workers,
             )
 
             results.append(result)
+            best_orders_map[main_name] = result.get("best_order", [])
+
             log(f"[{i}/{total_chars}] {main_name} 완료")
 
         except Exception as e:
@@ -185,6 +223,7 @@ def run(app_state, progress_callback=None, log_callback=None):
         "failed_count": len(failed_set),
         "failed_csv_path": str(FAILED_CSV_PATH) if failed_set else "",
         "failed_json_path": str(FAILED_JSON_PATH) if failed_set else "",
+        "max_workers": max_workers,
     }
 
     set_ui_progress(0, 100, f"캐릭터 진행도: {total_chars} / {total_chars}")

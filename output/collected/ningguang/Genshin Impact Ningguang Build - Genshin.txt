@@ -1,0 +1,194 @@
+Genshin Impact Ningguang Build
+Geo
+Catalyst
+Main DPS
+Ningguang Upgrade Materials
+Prosperity
+Spirit Locket of Boreas
+Prithiva Topaz Sliver
+Basalt Pillar
+Glaze Lily
+Recruit's Insignia
+Ningguang Best Weapons
+1
+Lost Prayer to the Sacred Winds
+2
+Kagura's Verity
+3
+Skyward Atlas
+4
+Memory of Dust
+5
+Solar Pearl
+Ningguang Best Artifacts
+1
+Archaic Petra
+2
+Emblem of Severed Fate
+2
+2
+Archaic Petra
+2
+Noblesse Oblige
+2
+3
+Archaic Petra
+2
+Shimenawa's Reminiscence
+2
+4
+Archaic Petra
+4
+5
+Emblem of Severed Fate
+4
+Ningguang Best Stats
+Sands:
+ATK%
+Goblet:
+Geo DMG
+Circlet:
+CRIT Rate / CRIT DMG
+Substats:
+CRIT Rate / CRIT DMG > ATK% > Energy Recharge
+Character Builds by Genshin Impact Helper →
+Showcase
+Teams
+Talents
+Passives
+Constellations
+Ascension
+Ningguang Showcase
+Ningguang video guide by
+Zy0x
+.
+Check out his content!
+Best Ningguang Teams
+Ningguang Geo
+Ningguang Standard
+Ningguang Talents
+Normal Attack
+Sparkling Scatter
+Normal Attack Shoots gems that deal
+Geo
+DMG. Upon hit, this grants Ningguang 1 Star Jade. Charged Attack Consumes a certain amount of Stamina to fire off a giant gem that deals
+Geo
+DMG. If Ningguang has any Star Jades, unleashing a Charged Attack will cause the Star Jades to be fired at the enemy as well, dealing additional DMG. Plunging Attack Gathering the might of Geo, Ningguang plunges towards the ground from mid-air, damaging all enemies in her path. Deals AoE
+Geo
+DMG upon impact with the ground.
+Elemental Skill
+Jade Screen
+Ningguang creates a Jade Screen out of gold, obsidian and her great opulence, dealing AoE
+Geo
+DMG. Jade Screen Blocks enemy projectiles. Endurance scales based on Ningguang's Max HP. Jade Screen is considered a
+Geo
+Construct and can be used to block certain attacks, but cannot be climbed. Only one Jade Screen may exist at any one time.
+Elemental Burst
+Starshatter
+Gathering a great number of gems, Ningguang scatters them all at once, sending homing projectiles at her enemies that deal massive
+Geo
+DMG. If Starshatter is cast when a Jade Screen is nearby, the Jade Screen will fire additional gem projectiles at the same time.
+Ningguang Passives
+Ascension 1
+Backup Plan
+When Ningguang is in possession of Star Jades, her Charged Attack does not consume Stamina.
+Ascension 4
+Strategic Reserve
+A character that passes through the Jade Screen will gain a 12%
+Geo
+DMG Bonus for 10s.
+Passive
+Trove of Marvelous Treasures
+Displays the location of nearby ore veins (Iron Ore, White Iron Ore, Crystal Ore, and Magical Crystal Ore) on the mini-map.
+Ningguang Constellations
+Constellation 1
+Piercing Fragments
+When a Normal Attack hits, it deals AoE DMG.
+Constellation 2
+Shock Effect
+When Jade Screen is shattered, its CD will reset. Can occur once every 6s.
+Constellation 3
+Majesty be the Array of Stars
+Increases the Level of Starshatter by 3. Maximum upgrade level is 15.
+Constellation 4
+Exquisite be the Jade, Outshining All Beneath
+Jade Screen increases nearby characters' Elemental RES by 10%.
+Constellation 5
+Invincible be the Jade Screen
+Increase the Level of Jade Screen by 3. Maximum upgrade level is 15.
+Constellation 6
+Grandeur be the Seven Stars
+When Starshatter is used, Ningguang gains 7 Star Jades.
+Ningguang Ascension Costs
+Rank
+Lvl
+Cost
+Material
+Material
+Material
+Material
+1
+20
+20000
+1
+Prithiva Topaz Sliver
+3
+Glaze Lily
+3
+Recruit's Insignia
+2
+40
+40000
+3
+Prithiva Topaz Fragment
+2
+Basalt Pillar
+10
+Glaze Lily
+15
+Recruit's Insignia
+3
+50
+60000
+6
+Prithiva Topaz Fragment
+4
+Basalt Pillar
+20
+Glaze Lily
+12
+Sergeant's Insignia
+4
+60
+80000
+3
+Prithiva Topaz Chunk
+8
+Basalt Pillar
+30
+Glaze Lily
+18
+Sergeant's Insignia
+5
+70
+100000
+6
+Prithiva Topaz Chunk
+12
+Basalt Pillar
+45
+Glaze Lily
+12
+Lieutenant's Insignia
+6
+80
+120000
+6
+Prithiva Topaz Gemstone
+20
+Basalt Pillar
+60
+Glaze Lily
+24
+Lieutenant's Insignia
+Loading...

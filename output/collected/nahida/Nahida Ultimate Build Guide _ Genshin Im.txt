@@ -1,0 +1,94 @@
+The recent addition of the Sumeru region in Genshin Impact brought forth not just a new map to explore and enemies to fight head first, but also a bunch of new faces that travelers are going to meet along the way throughout their arduous journey in Teyvat.
+Among them is the Dendro archon herself, released as a playable character in the first half of Version 3.2,
+Nahida
+. Similar to the previous archons that came out of the game, Nahida is most certainly at her prime and offers the best experience yet for Dendro-focused elemental teams.
+Talents
+To start off, Nahida’s kit and her role as a Support or Sub DPS scales off Elemental Mastery. Talent priorities should be her Elemental Skill, then her Elemental Burst as they are equally important and where most of her DMG comes from. Nahida’s an extremely flexible and fun to play unit that brings out the best in her team, so you’re never going to feel like you’ve wasted too much resources on her!
+Nahida’s elemental skill, All Schemes to Know, allows her to send forth karmic bonds of wood and tree from her side – marking up to 8 opponents and dealing AoE Dendro DMG with the Seed of Skandha.
+To further elaborate, All Schemes to Know work as a [TAP] and [HOLD] skill. When Seed of Skandha marks up opponents, they will be linked to one another until a certain distance.
+Elemental Reactions that are triggered on these opponents or when they take DMG from Dendro Cores, the Tri-Karma Purification will be unleashed on all opponents connected by the Seed of Skandha, and they will be receiving Dendro DMG based on Nahida’s ATK and Elemental Mastery.
+Simply as a [TAP], Seed of Skandha will only mark nearby opponents along Nahida’s path, but when you choose to [HOLD], it will enter an Aiming Mode that allows Nahida to select up to 8 opponents within a limited area that works like a “seeing through the lens of a camera” mechanic.
+Lasting up to 5 seconds, Nahida’s resistance to interruption will be increased. Once you release, the Aiming Mode will deal Dendro DMG on the affected opponents as they are marked with the Seed of Skandha for a period of time.
+Nahida’s elemental burst, Illusory Heart, manifests the Court of Dreams and expands the Shrine of Maya.
+A court so huge that lasts for 15 seconds, the Shrine of Maya is a field that once unleashed, party members with different elemental types will receive the following effects:
+Pyro – while Nahida remains within the Shrine of Maya, the DMG dealt by Tri-Karma Purification from her elemental skill is increased.
+Electro – when Nahida remains within the Shrine of Maya, the interval between each Tri-Karma Purification from her elemental skill is decreased.
+Hydro – the Shrine of Maya’s duration is increased.
+With these effects in mind, Nahida is even more generous because if there are at least 2 party members who are Pyro, Electro, and Hydro Vision holders, the aforementioned effects are increased further. This makes it so that even while Nahida is not on-field, as long as her party members are within the Shrine of Maya, such effects are still going to work no matter what.
+Nahida’s passive talent, Compassion Illuminated, allows the on-field character within the Shrine of Maya to gain an Elemental Mastery increase based on the party member with the highest Elemental Mastery by 25%. In this way, a maximum of 250 Elemental Mastery can be gained.
+This makes it so that in a scenario where Nahida has over 1000 Elemental Mastery, the on-field character (presumably your DPS) gains 250 Elemental Mastery for a period of time.
+Nahida’s passive talent, Awakening Elucidated, makes the most out of her Elemental Mastery by granting 0.01% DMG Bonus and 0.03% CRIT Rate to Tri-Karma Purification from her elemental skill, as long as her Elemental Mastery goes beyond 200.
+This makes it so that in a scenario where Nahida has over 1000 Elemental Mastery, a maximum of 80% DMG Bonus and 24% CRIT Rate can be obtained in this way.
+Nahida’s passive talent, On All Things Meditated, allows her All Schemes to Know’s Aiming Mode to interact with various harvestable items from a certain distance – collecting such items easily and straight to the inventory. This makes farming for ascension materials so much easier especially if they can be found at a particular height.
+Additionally, On All Things Meditated allows Nahida to read through the innermost thoughts of NPCs around her. A totally fun and unique elemental skill, for sure!
+Weapons
+The best pick for Nahida’s weapon can be found in a variety of choices, as this character appears to be F2P friendly. That said, Elemental Mastery or CRIT Rate/CRIT DMG should be the main stat of the weapon you’re going for. Still, the final verdict all boils down whether you would want her to be an on-field or off-field party member.
+As she’s meant to be a Support and Sub DPS that’s mainly there to apply Dendro, trigger Dendro-related reactions, and deal massive amounts of Dendro DMG herself – you might want to use her Elemental Skill and Elemental Burst as often as possible.
+Elemental Mastery Option
+A Thousand Floating Dreams is Nahida’s signature weapon, so needless to say, this is her best-in-slot. If you managed to obtain it via the weapon banner, you’re already in good hands.
+This provides a ton for Nahida because at Level 90, it offers a whopping 265 Elemental Mastery. Since it’s usually advisable to have her EM reach 1000 in order to utilize the most out of her Support capabilities, with A Thousand Floating Dreams, it’s never out of the way.
+Moreover, its passive stat, A Thousand Nights’ Dawnsong, encourages you to try and match different team comps featuring Nahida because she’s absolutely the most flexible.
+Both Nahida and her party members benefit from A Thousand Nights’ Dawnsong because depending on their Elemental Type, there will be various effects whether they are the same as Nahida being Dendro, or have been granted different Visions.
+To further elaborate, if other party members are also Dendro, Nahida’s Elemental Mastery will be increased by 32, and since this effect can stack up to 3 times, her EM should go up by 96 maximum.
+However, if she doesn’t have any party members being Dendro, then each of them will grant her 10% Elemental DMG Bonus, so she’s going to receive a total of 30% DMG increase. Absolutely cracked, if you ask me.
+Additionally, Nahida’s party members will have their Elemental Mastery increased by 40.
+Sacrificial Fragments may be your go-to 4-star catalyst when you want to utilize Nahida’s Support capabilities with a full Elemental Mastery build.
+At Level 90 and at R5, Sacrificial Fragments gives the wielder 221 Elemental Mastery, and its passive stat allows them to use their Elemental Skill with an 80% chance to end its own cooldown as long as it does DMG to the opponent. This can only occur once every 16 seconds.
+Wandering Evenstar is fairly new and is only obtainable via the weapon banner, but it’s still worth mentioning as this 4-star catalyst is a good option for a full EM Support Nahida.
+At Level 90 and at R5, Wandering Evenstar gives the wielder 165 Elemental Mastery which is not the best, but its passive stat mainly compensates for it.
+CRIT Rate/CRIT DMG Option
+Kagura’s Verity is Yae Miko’s signature 5-star weapon, but this is also Nahida’s other best, especially if she’s going to play the role of a Main DPS, or have her as an on-field unit.
+At Level 90, Kagura’s Verity has a high Base ATK of 608 and the main stat being 66.2% CRIT DMG. An insane choice to boost Nahida’s DPS potential and her overall personal DMG at that.
+Moreover, its passive stat, Kagura Dance of the Sacred Sakura, grants the wielder’s Elemental Skill DMG a 12% increase for 16 seconds after gaining the Kagura Dance effect.
+The Widsith is still undoubtedly the best 4-star catalyst there is to date, and if you want to feel Nahida’s DMG but have no 5-star weapons to back her up, this is your choice especially at R5.
+At Level 90, The Widsith offers 55.1% CRIT DMG which is already a huge thing, but this weapon’s passive is what makes this ten times better.
+Whenever the wielder takes the field, they will gain a random song buff for 10 seconds, and this can occur once every 30 seconds:
+Recitative: ATK is increased by 120%
+Aria: Increases all Elemental DMG by 96%
+Interlude: Elemental Mastery is increased by 480
+With all those song buffs in mind, and whenever you switch to Nahida, one of these will be taking effect immediately. They all greatly benefit Nahida’s overall DMG no matter which!
+The other alternative options that can be viable if you don’t have the aforementioned weapons or if it so happens that other catalyst users from your roster have them equipped, Lost Prayer to the Sacred Winds and Solar Pearl might come in handy.
+Both of these weapons provide CRIT Rate as the main stat, but while Lost Prayer to the Sacred Winds allows you to gain 8% Elemental DMG Bonus that’s stackable up to 4, Solar Pearl increases the DMG of your Normal Attack, Elemental Skill, and Elemental Burst by 20% as long as they hit opponents.
+Artifacts
+Nahida continues to prove herself as the pillar of Dendro-reactions focused teams, and the brand new artifact sets that came along Sumeru’s release, namely Deepwood Memories and Gilded Dreams, happen to be tailored around her kit.
+Let it be known that other options for Nahida’s artifacts aren’t entirely feasible, so it’s highly recommended to farm for Deepwood Memories and Gilded Dreams as they belong in the same domain, and that these are worth your resin (trust!).
+Deepwood Memories
+Deepwood Memories takes the cake as Nahida’s best artifact set – with the 2-piece that offers an additional 15% to her Dendro DMG, and the 4-piece set which decreases the opponents’ Dendro RES by 30% for 8 seconds upon the use of an elemental skill or burst.
+Since Nahida mainly works well as a Dendro Support or Sub DPS with high Dendro application, and that she deals massive off-field DMG herself, the Deepwood Memories set just further boosts her overall performance. Really, it’s just insanely good on her.
+What makes the 4-piece great on Nahida from a team rotation perspective, is because its effect can be triggered even when she is not on field, most especially convenient for quick swap teams that require her to be off-field but still deal DMG from the sides.
+That said, one of Nahida’s strengths is her long Elemental Skill duration with a pretty fast cooldown, so spamming All Schemes to Know would seem like the one you’re doing the most.
+Though you have to bear in mind that it’s highly advisable there should only be one equipper of this artifact set to avoid redundancy. Fortunately, it’s effective and can be used by a Dendro DPS, Sub DPS, and Support.
+Gilded Dreams
+An alternative artifact set that’s only second best for Nahida, and only advisable if there’s already a Deepwood Memories equipper in your team (like Tighnari and Collei), then this might be your shot.
+Like the Wanderer’s Troupe, the 2-piece offers an additional 80 to her Elemental Mastery; while the 4-piece set is sort of reliant to her teammates being all kinds of Vision holders. When an elemental reaction is triggered and this happens, each party member will give Nahida another 50 to her Elemental Mastery, amounting to 230 EM just by equipping this 4-piece alone.
+But when Nahida is met with another Dendro user in the same party, she will be granted an additional 14% DMG Bonus to her ATK. Both conditions sound absolutely great for Nahida, since the Tri-Karma Purification DMG from her Elemental Skill happens to split scale both from her Elemental Mastery and ATK. Either of which effect appears to be equally beneficial for her.
+Constellations
+Nahida’s first constellation allows the Shrine of Maya summoned by her Elemental Burst to add 1 number of Pyro, Electro, and Hydro characters and activate their effects immediately.
+Keep in mind that this doesn’t just apply if you have the following elements present in your team, but in the scenario of a Nilou Bloom team for example, you’ll still get the effects from 1 Pyro and 1 Electro characters even though Hydro and Dendro units are the only ones making up this particular team comp.
+Nahida’s second constellation grants an overall DMG boost to Dendro reactions by having the opponents marked by Seed of Skandha to receive the following effects:
+The reaction DMG done by Burning, Bloom, Hyperbloom, and Burgeon on marked opponents can score CRIT hits, and can go up to a fixed 20% CRIT Rate and 100% CRIT DMG.
+Marked opponents within 8 seconds of being affected by Quicken, Aggravate, and Spread statuses, their DEF is decreased by 30%.
+Nahida’s third constellation gives an increase to her elemental skill, All Schemes to Know, talent level by 3.
+Nahida’s fourth constellation gives an increase to her Elemental Mastery by 100/120/140/160 accordingly if the nearby opponents marked by her All Schemes to Know’s Seed of Skandha are 1/2/3/4 (or more).
+Nahida’s third constellation gives an increase to her elemental burst, Illusory Heart, talent level by 3.
+Nahida’s sixth constellation allows her to use Tri-Karma Purification: Karmic Oblivion whenever she hits an opponent affected by All Schemes to Know’s Seed of Skandha with Normal or Charged Attacks, as long as Illusory Heart is unleashed.
+When she does, this particular opponent and all the connected opponents to it, will receive Dendro DMG based on 200% of Nahida’s ATK and 400% of her Elemental Mastery as done by Tri-Karma Purification: Karmic Oblivion.
+Hence, the DMG dealt by Tri-Karma Purification: Karmic Oblivion is considered an Elemental Skill DMG and can be triggered once over 0.2 seconds. That said, this effect can last up to 10 seconds and will be removed after Nahida’s able to unleash 6 instances of Tri-Karma Purification: Karmic Oblivion.
+Team Composition
+Nahida has quickly established herself as the core for Dendro-focused elemental teams, and being the Dendro Archon herself, she can fit in quite a lot of team comps that it’s only just a matter of preference to go for the ones you’re having the most fun with.
+Nevertheless, you’re bound to have a good run with Nahida’s flexibility and that she’s an easy to use unit, making team rotations for you as comfortable as it gets in no time.
+Furthermore, here are a few examples of an ideal Nahida team:
+This Hyperbloom team right here is a personal favorite of mine due to how fun they turned out to be from my experience, and you really should give them a try, too!
+Hydro units like Xingqiu and Yelan who can apply Hydro very rapidly as well as having impressive DMG to single-targeted enemies themselves deserve a slot in this team, and when paired with Nahida's Dendro application, they will create Dendro Cores like it’s nothing.
+Kazuha is there not to Swirl as it can’t react with Dendro, but he can still do his job very well by buffing the Elemental DMG of his party members by a mile. It’s also worth noting that his crowd control capabilities can group the Dendro Cores’ placement altogether so you won’t have to worry that much whenever its Bloom Explosion pummels you.
+Finally, Yae Miko is my personal pick for the Electro slot because since her initial release, there hasn’t been a team where you can feel like she’s worth investing on (especially not when Raiden Shogun exists).
+However, the addition of the Dendro element in the game really brought out the best in her as she works insanely well in Hyperbloom teams, and as far as meta goes, she’s now considered at the top of her game. A breakthrough for Yae Miko mains (including myself)!
+If you managed to pull for Nilou on her release, it’s pretty evident that for her to excel, she’d want to be paired up with a really good Dendro unit that can provide high Dendro application such as Nahida. Thankfully, the latter’s release is very timely and Nilou has found herself a team where she would truly shine as a Main DPS.
+As Nilou requires a fixed team comp of Hydro and Dendro, having Nahida who she synergizes incredibly well with, is already a given. It’s usually advisable to have two more Hydro characters like Yelan and Kokomi for continuous Hydro application and creation of Bountiful Cores while Nahida is on-field, but also for additional DMG from Yelan, and survivability from Kokomi.
+The recently released Cyno is an Electro DPS who will act as the hypercarry in this Quicken team, with Nahida to play the part of a Sub DPS.
+Then again, whenever the Quicken status is met with continuous Dendro and Electro application, they will become Spread and Aggravate which further increases Cyno’s overall DMG especially, even more so with the help of Kazuha’s Support capabilities.
+In a Burgeon team, Nahida and Xingqiu or Yelan will be the ones to generate the Dendro Cores, and a Pyro applicator like Thoma or Xiangling must be there to trigger the Burgeon reaction – which would then cause AoE Pyro DMG against opponents within. Naturally, Kazuha’s inclusion has always been meant to buff the Elemental DMG of his party members, and effectively so.
+Summary
+To sum it all up, Nahida really lives up to being the breakthrough unit of the Dendro element and the core of Dendro teams. She really does belong to the Archons roster along with Venti, Zhongli, and Raiden Shogun who are all considered some of the best Support characters of the game, and now with Nahida’s arrival, the trend continues.
+There are many strengths to Nahida’s playstyle and her kit overall – as she’s an extremely flexible unit that can fit in a lot of teams, with the best artifacts for her being both accessible in just one domain, and there are a ton of viable weapons that’s already available to her.
+That said, the Dendro Archon is here and she’s worth the pull if you have her. She’s made Dendro-reactions focused team comps twice the fun to run, with her Support capabilities providing buffs that never felt clanky to use, as well as her impressive personal off-field DMG – Nahida greatly excels at what she does, and will continue to do so for a long time.

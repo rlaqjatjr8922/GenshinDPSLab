@@ -1,0 +1,273 @@
+Birthday
+August 10th
+Title
+Gliding Champion
+Affiliation
+Knights of Favonius
+Vision
+Pyro
+Constellation
+Lepus
+Weapon
+Bow
+Amber Splash Art
+Always energetic and full of life, Amber’s the best – albeit only – Outrider of the Knights of Favonius.
+Amber Build – Charged Attack Focused DPS
+Amber DPS will be focused on maximizing Charged Shot damage on enemy weak spots as Amber’s Ascension 4 Talent increases ATK by 15% for 10s after hitting a weak spot. Crit is also guaranteed when you land your shot on a weak spot so we aim to maximize Crit DMG with little to no dependance on Crit Rate, this could change after [C4].
+Precise Shot Passive Talent
+via Genshin Impact Helper Team’s Character Builds.
+Weapons
+Amos Bow
+Thundering Pulse
+Skyward Harp
+Prototype Crescent
+Sharpshooters Oath
+(R5)
+Blackcliff Warbow
+Artifacts
+4
+Wanderers Troupe
+(2)
+Increases Elemental Mastery by 80.
+(4)
+Increases Charged Attack DMG by 35% if the character uses a
+Catalyst
+or
+Bow
+.
+OR
+4
+Shimenawa’s Reminiscence
+(2)
+ATK +18%.
+(4)
+When casting an Elemental Skill, if the character has 15 or more Energy, they lose 15 Energy and Normal/Charged/Plunging Attack DMG is increased by 50% for 10s.
+OR
+4
+Crimson Witch of Flames
+(2)
+Pyro DMG Bonus +15%.
+(4)
+Increases Overloaded and Burning DMG by 40%. Increases Vaporize and Melt DMG by 15%. Using an Elemental Skill increases the 2-Piece Set Bonus by 50% of its starting value for 10s. Max 3 stacks.
+OR
++
+2
+Crimson Witch
++ 2
+Gladiator
+(2)
+Pyro DMG Bonus +15%.
+(2)
+ATK +18%.
+OR
++
+2
+Crimson Witch
++ 2
+Shimenawa
+(2)
+Pyro DMG Bonus +15%.
+(2)
+ATK +18%.
+Additional Notes
+Talent Priority
+Normal Attack > Elemental Burst > Elemental Skill
+Artifact Main Stats & Substats
+Sand
+Goblet
+Circlet
+ATK%
+Pyro DMG Bonus%
+CRIT DMG%
+Substats
+CRIT DMG% > ATK% > Elemental Mastery > Energy Recharge%
+Amber Build – Support Build
+Support Amber mainly only used for quick pyro application since her elemental burst only cost 40 energy.
+Fiery Rain Skill Attributes
+Weapons
+Elegy For The End
+Favonius Warbow
+Sacrificial Bow
+–
+Artifacts
+4
+Noblesse Oblige
+(2)
+Elemental Burst DMG +20%.
+(4)
+Using an Elemental Burst increases all party members’ ATK by 20% for 12s. This effect cannot stack.
+Additional Notes
+Talent Priority
+Elemental Burst > Elemental Skill > Normal Attack
+Artifact Main Stats & Substats
+Sand
+Goblet
+Circlet
+ATK%/Energy Recharge%
+Pyro DMG Bonus%
+CRIT DMG%/CRIT Rate%
+Substats
+Energy Recharge% > Crit Rate%/CRIT DMG% > ATK% > Elemental Mastery
+Amber Namecard: Bunny
+Ascension and Talent Level Up Materials
+Ascension Materials
+Level
+Mora
+Material
+Boss Material
+Specialty
+Common
+20 to 20+
+20.000
+x1
+–
+x3
+x3
+40 to 40+
+40.000
+x3
+x2
+x10
+x15
+50 to 50+
+60.000
+x6
+x4
+x20
+x12
+60 to 60+
+80.000
+x3
+x8
+x30
+x18
+70 to 70+
+100.000
+x6
+x12
+x45
+x12
+80 to 80+
+120.000
+x6
+x20
+x60
+x24
+Talent Level Up Materials
+Level
+Mora
+Talent Books
+Common
+Boss Material
+Crown
+2
+12.500
+x3
+x6
+–
+–
+3
+17.500
+x2
+x3
+–
+–
+4
+25.000
+x4
+x4
+–
+–
+5
+30.000
+x6
+x6
+–
+–
+6
+37.500
+x9
+x9
+–
+–
+7
+120.000
+x4
+x4
+x1
+–
+8
+260.000
+x6
+x6
+x1
+–
+9
+450.000
+x12
+x9
+x2
+10
+700.000
+x16
+x12
+x2
+x1
+Talents and Constellations
+For skill and talents, we are covering Amber combat talents, passive talents, and all 6 constellations.
+Combat Talents
+Talent
+Description
+Sharpshooter (Normal Attack)
+–
+Normal Attack
+: Perform up to 5 consecutive shots with a bow.
+–
+Charged Attack
+: Perform a more precise Aimed Shot with increased DMG. While aiming, flames will accumulate on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.
+–
+Plunging Attack
+: Fires off a shower of arrows in mid-air before falling an striking the ground, dealing AoE DMG upon impact.
+Explosive Puppet (Elemental Skill)
+The ever-reliable Baron Bunny takes the stage.
+Baron Bunny
+– Continuously taunts the enemy, drawing their fire.
+– Baron Bunny’s HP scales with Amber’s Max HP.
+– When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG.
+– Generate 4 elemental particles when it hit at least 1 target.
+Hold
+Adjusts the throwing direction of Baron Bunny. The longer the button is held, the further the throw.
+Fiery Rain (Elemental Burst)
+Fires off a shower of arrows, dealing continuous AoE Pyro DMG.
+Passive Talents
+Talent
+Description
+Every Arrow Finds Its Target
+Increases the CRIT Rate of Fiery Rain by 10% and widens its AoE by 30%.
+Precise Shot
+Aimed Shot hits on weak spots increase ATK by 15% for 10s.
+Gliding Champion
+Decreases gliding Stamina consumption for your own party members by 20%. Not stackable with Passive Talents that provide the exact same effects.
+Constellations
+Level
+Constellation
+Description
+1
+One Arrow To Rule Them All
+Fires 2 arrows per Aimed Shot. The second arrow deals 20% of the first arrow’s DMG. The second arrow is fired 10 degrees vertically below actual aiming, has separate critical, and also makes the primary shot travel further before it starts dropping down.
+2
+Bunny Triggered
+Baron Bunny, new and improved! Hitting Baron Bunny’s foot with a fully-charged Aimed Shot manually detonates it.
+Explosion via manual detonation deals 200% additional DMG.
+3
+It Burns!
+Increases the level of Fiery Rain by 3. Maximum upgrade level is 15.
+4
+It’s Not Just Any Doll…
+Decreases Explosive Puppet’s CD by 20%. Adds 1 additional charge.
+5
+It’s Baron Bunny!
+Increases the level of Explosive Puppet by 3. Maximum upgrade level is 15.
+6
+Wildfire
+Fiery Rain increases the entire party’s Movement SPD by 15% and ATK by 15% for 10s.

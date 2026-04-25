@@ -1,0 +1,382 @@
+Birthday
+October 16th
+Title
+Blazing Riff
+Affiliation
+Liyue Harbor
+Vision
+Pyro
+Constellation
+Fila Ignium
+Weapon
+Claymore
+Xinyan Splash Art
+Liyue’s sole rock ‘n’ roll musician. She rebels against ossified prejudices using her music and passionate singing.
+Xinyan Physical DPS Build
+Weapons
+Skyward Pride
+The Unforged
+Wolfs Gravestone
+Song of Broken Pines
+Serpent Spine
+Snow Tombed Starsilver
+Prototype Archaic
+Lithic Blade
+Artifacts
+You can change option 2 Gladiator’s Finale with 2
+Shimenawa Reminiscence
+since both artifact same 2 bonus set (+18% ATK).
++
+2
+Pale Flame
++ 2
+Bloodstained Chivalry
+(2)
+Physical DMG is increased by 25%.
+(2)
+Physical DMG +25%.
+OR
+4
+Retracing Bolide
+(2)
+Increases Shield Strength by 35%.
+(4)
+While protected by a shield, gain an additional 40% Normal and Charged Attack DMG.
+OR
++
+2
+Pale Flame
++ 2
+Gladiator’s Finale
+(2)
+Physical DMG is increased by 25%.
+(2)
+ATK +18%.
+OR
++
+2
+Bloodstained Chivalry
++ 2
+Gladiator
+(2)
+Physical DMG +25%.
+(2)
+ATK +18%.
+OR
+4
+Gladiator’s Finale
+(2)
+ATK +18%.
+(4)
+If the wielder of this artifact set uses a
+Sword
+,
+Claymore
+or
+Polearm
+, increases their Normal Attack DMG by 35%.
+OR
+4 Bloodstained Chivalry
+(2)
+Physical DMG +25%.
+(4)
+After defeating an opponent, increases Charged Attack DMG by 50%, and reduces its Stamina cost to 0 for 10s.
+OR
+Additional Notes
+Talent Priority
+Normal Attack > Elemental Burst > Elemental Skill
+Artifact Main Stats & Substats
+Sand
+Goblet
+Circlet
+ATK%
+Physical DMG Bonus%
+CRIT Rate%/CRIT DMG%
+Substats
+CRIT Rate%/CRIT DMG% > Energy Recharge% > ATK%
+Xinyan Sub DPS Build
+Weapons
+Sacrificial Greatsword
+Luxurious Sea Lord
+Prototype Archaic
+Whiteblind
+Skyward Pride
+Favonius Greatsword
+Artifacts
+You can change option 2 Gladiator’s Finale with 2
+Shimenawa Reminiscence
+since both artifact same 2 bonus set (+18% ATK).
+4
+Noblesse Oblige
+(2)
+Elemental Burst DMG +20%.
+(4)
+Using an Elemental Burst increases all party members’ ATK by 20% for 12s. This effect cannot stack.
+OR
++
+2
+Pale Flame
++ 2
+Bloodstained Chivalry
+(2)
+Physical DMG is increased by 25%.
+(2)
+Physical DMG +25%.
+OR
++
+2
+Pale Flame
++ 2
+Noblesse Oblige
+(2)
+Physical DMG is increased by 25%.
+(2)
+Elemental Burst DMG +20%.
+OR
++
+2
+Bloodstained Chivalry
++ 2
+Noblesse Oblige
+(2)
+Physical DMG +25%.
+(2)
+Elemental Burst DMG +20%.
+OR
++
+2
+Pale Flame
++ 2
+Gladiator’s Finale
+(2)
+Physical DMG is increased by 25%.
+(2)
+ATK +18%.
+OR
++
+2
+Bloodstained Chivalry
++ 2
+Gladiator
+(2)
+Physical DMG +25%.
+(2)
+ATK +18%.
+Additional Notes
+Talent Priority
+Elemental Skill > Elemental Burst > Normal Attack
+Artifact Main Stats & Substats
+Sand
+Goblet
+Circlet
+DEF%/ATK%/Energy Recharge%
+DEF%/Physical DMG Bonus%
+DEF%/CRIT Rate%/CRIT DMG%
+Substats
+DEF% > ATK% > Energy Recharge%
+Xinyan Shield Support Build
+Weapons
+Sacrificial Greatsword
+Luxurious Sea Lord
+Prototype Archaic
+Whiteblind
+Skyward Pride
+Favonius Greatsword
+Artifacts
+4
+Tenacity of The Millelith
+(2)
+HP Increased by 20%.
+(4)
+When an Elemental Skill hits an opponent, the ATK of all nearby party members is increased by 20% and their Shield Strength is increased by 30% for 3s. This effect can be triggered once every 0.5s. This effect can still be triggered even when the character who is using this artifact set is not on the field
+OR
++
+2
+Husk of Opulent
++ 2
+Defenders Will
+(2)
+DEF +30%.
+(2)
+DEF +30%.
+OR
++
+2
+Husk of Opulent
++ 2
+Noblesse Oblige
+(2)
+DEF +30%.
+(2)
+Elemental Burst DMG +20%.
+Additional Notes
+Talent Priority
+Elemental Skill > Elemental Burst > Normal Attack
+Artifact Main Stats & Substats
+Sand
+Goblet
+Circlet
+DEF%/ATK%/Energy Recharge%
+DEF%/Physical DMG Bonus%
+DEF%/CRIT Rate%/CRIT DMG%
+Substats
+DEF% > Energy Recharge% > ATK%
+Xinyan Namecard: Songs End
+Ascension and Talent Level Up Materials
+Ascension Materials
+Level
+Mora
+Gems
+Boss Material
+Specialty
+Common
+20 to 20+
+20.000
+x1
+–
+x3
+x3
+40 to 40+
+40.000
+x3
+x2
+x10
+x15
+50 to 50+
+60.000
+x6
+x4
+x20
+x12
+60 to 60+
+80.000
+x3
+x8
+x30
+x18
+70 to 70+
+100.000
+x6
+x12
+x45
+x12
+80 to 80+
+120.000
+x6
+x20
+x60
+x24
+Talent Level Up Materials
+Level
+Mora
+Talent Books
+Common
+Boss Material
+Crown
+2
+12.500
+x3
+x6
+–
+–
+3
+17.500
+x2
+x3
+–
+–
+4
+25.000
+x4
+x4
+–
+–
+5
+30.000
+x6
+x6
+–
+–
+6
+37.500
+x9
+x9
+–
+–
+7
+120.000
+x4
+x4
+x1
+–
+8
+260.000
+x6
+x6
+x1
+–
+9
+450.000
+x12
+x9
+x2
+10
+700.000
+x16
+x12
+x2
+x1
+Talents and Constellations
+For skill and talents, we are covering Xinyan combat talents, passive talents, and all constellations.
+Combat Talents
+Talent
+Description
+Dance on Fire (Normal Attack)
+– Normal Attack: Performs up to 4 consecutive strikes.
+– Charged Attack: Drains Stamina over time to perform continuous spinning attacks against all nearby opponents. At end of the sequence, perform a more powerful slash.
+– Plunging Attack: Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Sweeping Fervor (Elemental Skill)
+Xinyan brandishes her instrument, dealing Pyro DMG on nearby opponents, forming a shield made out of her audience’s passion.
+– Hitting 0-1 opponents grants Shield Level 1: Ad Lib.
+– Hitting 2 opponents grants Shield Level 2: Lead-In.
+– Hitting 3 or more opponents grants Shield Level 3: Rave, which will also deal intermittent Pyro DMG to nearby opponents.
+The shield has the following special properties:
+– When unleashed, it infuses Xinyan with Pyro.
+– It has 250% DMG Absorption effectiveness against Pyro DMG.
+Generate 4 elemental particles when it hit at least 1 target.
+Riff Revolution (Elemental Burst)
+Strumming rapidly, Xinyan launches nearby opponents and deals Physical DMG to them, hyping up the crowd. The sheer intensity of the atmosphere will cause explosions that deal Pyro DMG to nearby opponents.
+The shield’s DMG Absorption scales based on Xinyan’s DEF and on the number of opponents hit.
+Passive Talents
+Talent
+Description
+“The Show Goes On, Even Without An Audience…”
+Decreases the number of opponents Sweeping Fervor must hit to trigger each level of shielding.
+– Shield Level 2: Lead-In requirement reduced to 1 opponent hit.
+– Shield Level 3: Rave requirement reduced to 2 opponents hit or more.
+“…Now That’s Rock ‘N’ Roll!”
+Characters shielded by Sweeping Fervor deal 15% increased Physical DMG.
+A Rad Recipe
+When a Perfect Cooking is achieved on a DEF-boosting dish, Xinyan has a 12% chance to obtain double the product.
+Constellations
+Level
+Constellation
+Description
+1
+Fatal Acceleration
+Upon scoring a CRIT hit, increases ATK SPD of Xinyan’s Normal and Charged Attacks by 12% for 5s. Can only occur once every 5s.
+2
+Impromptu Opening
+Riff Revolution Physical DMG has its Crit rate increased by 100%, and will form a shield at Shield Level 3: Rave when cast.
+3
+Double-Stop
+Increases the Level of Sweeping Fervor by 3. Maximum upgrade level is 15.
+4
+Wildfire Rhythm
+Sweeping Fervor’s swing DMG decrease opponent’s Physical RES by 15% for 12s.
+5
+Screamin’ for an Encore
+Increases the Level of Riff Revolution by 3. Maximum upgrade level is 15.
+6
+Rockin’ in a Flaming World
+Decrease the Stamina Consumption of Xinyan Charged Attacks by 30%. Additionally, Xinyan’s Charged Attacks gain an ATK bonus equal to 50% of her DEF

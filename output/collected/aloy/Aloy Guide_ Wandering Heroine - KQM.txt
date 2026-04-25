@@ -1,0 +1,670 @@
+Updated for Patch 2.4
+> Guide cover art by wokes#4659!
+> Art credits go to
+Doopliss
+.
+YouTube @Doopliss
+, Genshin UID 625524633 (NA).
+This is the in-depth Aloy guide, courtesy of Aloy Mains and KQM. In this guide, we’ll cover Aloy’s Talents and builds, as well as the best artifact sets and weapon rankings for both a Quickswap/Burst-DPS and a support playstyle.
+‘An agile hunter from the Nora Tribe. With bow in hand, she is always ready to protect the innocent.’
+Table of Contents
+Glossary
+Introduction
+TLDR
+Aloy’s Pros and Cons
+Aloy FAQ
+Aloy’s Talents
+Mechanics
+About Coil Stacks and DPS
+How to Consistently Get Coil Stacks
+Builds
+Burst/Quickswap DPS
+Support
+Permafreeze (on-field)
+Team Comps And Synergies
+Character Synergies
+Burst-DPS
+Support
+Permafreeze (On-Field)
+Quickswap Melt DPS
+Conclusion
+Appendix
+Ascension and talent materials
+Crystal Marrow Farming Route
+Specter Farming Route
+Stat Scalings
+Talent Scalings
+References/External Links
+Credits
+Glossary
+Explanation of the terms used (only applicable to this guide)
+Term
+Meaning
+Main DPS
+The main damage dealer of a party, and generally also the character taking up the most field time. Typically, the rest of the team is chosen to complement the main DPS and provide additional damage, reactions, healing or other utilities for the main DPS. For example, Hu Tao, Razor and Xiao are all main DPS units.
+Sub-DPS
+A character who provides additional damage via their abilities, typically while off-field. For example, Xingqiu, Fischl, Albedo and Beidou are common sub-DPS units.
+Burst-DPS
+A character whose damage primarily comes from their Elemental Burst. Burst-DPS units typically only come on field to cast their Skill and Burst before promptly swapping off. For example, Ningguang and Mona are common burst-DPS units. There might be some overlap between this term and the term above. Burst-DPS typically have their Elemental Burst deal damage on-field or in one shot.
+When Aloy is referred to as a Burst-DPS, it refers to her being played in a way where she may only be on-field to cast her skill or burst before swapping off.
+Quickswap DPS
+In many cases, the terms Burst-DPS and Quickswap DPS are used interchangeably. In Aloy’s case, however, it refers to her being played in a way where she stays on field for a short period of time to use her Skill, Normal Attack and Burst, whereas her Burst-DPS play style only uses her Skill and Burst.
+Support
+A character that provides utility via healing, buffs, cleansing, shielding or elemental resistance shred. For example, Zhongli, Bennett, Kujou Sara, Diona and Qiqi are common support units.
+WT
+Wanderer’s Troupe
+NO
+Noblesse Oblige
+BS
+Blizzard Strayer
+SR
+Shimenawara’s Reminiscence
+ER
+Short for Energy Recharge
+DPS
+Short for damage per second
+EM
+Short for Elemental Mastery
+MC
+Main Character, or the Traveller (Lumine/Aether)
+Q
+Elemental Burst
+E
+Elemental Skill
+NA
+Normal Attacks
+AOE
+Area of effect
+TToDS
+Thrilling Tales of Dragon Slayers
+ICD
+Internal Cooldown
+Introduction
+Aloy is a free event 5-star Cryo bow character who utilizes her Skill to infuse her Normal Attacks with Cryo, and deals quick AoE damage with her Burst. The low CD and energy requirement on her Burst make her a great quickswap unit, while the particle generation on her Skill can allow her to battery other Cryo units.
+However, Aloy does not have any available Constellations, which means her performance can only be increased through levels, artifacts, weapons, and Talents. In addition, the long CD on her Skill gives poor uptime on Cryo infusion, and can result in energy problems unless an additional source of particles is provided.
+POV: You now own Aloy.
+TLDR
+Quickswap Melt DPS/Burst-DPS:
+Freeze DPS:
+Support:
+4 set Noblesse (general set)/4 set Instructor (for certain Melt/Vaporize teams)
+ER%/Cryo/Crit, substat focus: ER% > ATK > CRIT%
+Weapons: Sacrificial Bow > Favonius Warbow > Elegy for The End.
+Note: If running Favonius Warbow, using CRIT Rate circlet is recommended.
+Aloy’s Pros and Cons
+Pros
+Able to utilize Freeze and Melt.
+Burst has solid scaling and a low Energy cost.
+Her playstyle and team-wide ATK% buff allow her to easily slot into many teams.
+Can efficiently run 4 set Noblesse Oblige to buff the entire party even more.
+Skill can battery other Cryo teammates such as Ganyu and Ayaka.
+Has many F2P-friendly weapon options.
+Cons
+No Constellations to boost her damage, utility, or Talents.
+Needs drops from one of the most annoying enemies in the game, Specters, for Ascension and Talents.
+Reliance on other characters and general difficulty in attaining the necessary amount of Coil stacks makes her inconsistent as a Main DPS.
+‘The world always seems quieter when it snows’
+^ Art credits go to
+JVC Artz.
+[Twitter @jvc_artz]
+,
+[Instagram @jvc_artz]
+[Original Post]
+Aloy FAQ
+Is Aloy a good unit?
+Aloy is a flexible unit that can fit into many teams. Her damage is decent, especially when played as a Burst-DPS. However, she is rarely the best choice for a team.
+What is Aloy’s best role?
+Aloy’s best role is as a quickswap Burst-DPS who swaps in, casts her skills and attacks to do damage briefly, and swaps out. She can also serve well as a support.
+Is Aloy a good main DPS?
+Not really. While she can work as a main DPS, her lackluster Normal Attack multipliers and difficulty obtaining Coil stacks on her own makes her unable to match up to other units in the same role. She’s better played as a Quickswap DPS, where she uses her skills and Normal Attacks to quickly do damage before swapping off.
+Is Aloy a bad unit?
+For an entirely free character, Aloy is not a bad unit. She has multiple uses, and while she is generally not the best option for them, her performance is not necessarily poor either.
+Isn’t Aloy just a Cryo Yoimiya/bow Ayaka/budget Ganyu?
+Incorrect. While all three of Aloy, Yoimiya, and Ayaka have a mechanic within their kit that allows them to infuse their Normal Attacks, each of their playstyles are fundamentally different:
+Aloy better slots into teams as a support, providing various utility to teams while adding damage through her Burst.
+Yoimiya’s focus is on her infused Normal Attacks.
+Ayaka prefers to have teams built around maximizing her massive Burst damage.
+Ganyu’s playstyle differences means she shares nothing in common with Aloy besides Element and weapon type.
+Does Aloy need high investment?
+Partially, yes. A main DPS or Burst-DPS Aloy will generally need a lot of investment to see good results due to a number of factors (no Constellations, fairly average scalings, etc.), although the same can be said for the majority of existing characters. However, a support Aloy is relatively cheap and easy to build, especially since her damage in that role is not important.
+‘This world has a past full of secrets, just like my world. I’ll uncover it all, if I have enough time.’
+Art credits go
+to
+u/junebuart
+. [
+Original Post
+]
+Aloy’s Talents
+Normal Attack
+Elemental Skill
+Elemental Burst
+Ascension Passive 1
+Ascension Passive 4
+Utility Passive
+Normal Attack
+Normal Attack: Rapid Fire
+Aloy’s Normal and Charged Attacks are standard for those of a bow character. She has a 4-hit Normal Attack string, with the first hit being a multi-hit and the rest single. Her Charged Attack will deal Cryo damage when fully charged.
+Her Normal and Charged Attacks all have fairly average scalings. This Talent will generally only be used as a main DPS.
+Aloy’s Normal Attack string. Footage by Raven#9205.
+Aloy’s Charged Attack. Footage by Raven#9205.
+Elemental Skill
+Elemental Skill: Frozen Wilds
+Aloy throws a Freeze Bomb in the targeted direction that explodes on impact and then splits into 6 Chillwater Bomblets that either explode on contact with an enemy or after a short delay. All explosions deal Cryo damage.
+When the Freeze Bomb or Bomblets hit opponents, they will deal Cryo damage, reduce the enemy’s Attack, and give Aloy one Coil stack. Aloy can gain one Coil stack every
+0.1 seconds
+. These stacks last for
+30 seconds
+after Aloy leaves the field. Aloy can also receive stacks while not on the field. Every Coil stack increases Aloy’s Normal Attack damage. When Aloy has
+4
+Coil stacks, all stacks are cleared and she will enter the Rushing Ice state. This state, denoted by a white mist around the active character, further increases Aloy’s Normal Attack damage and converts it to Cryo damage for
+10 seconds.
+Even if another character has the white mist effect, their damage is not buffed or altered, the particle effect is only there to make the player aware that Rushing Ice is active for Aloy. While in this state, Aloy cannot receive additional Coil stacks. This skill has a cooldown of
+20 seconds.
+Rushing Ice state does not end when you swap off Aloy within its duration.
+Frozen Wilds generates
+5 Cryo particles
+.
+Aloy and Sucrose after Aloy enters the Rushing Ice state, denoted by the icy sparkles around the character. Images by hen#5989.
+Aloy casts her Elemental Skill. Footage by Raven#9205.
+Elemental Burst
+Elemental Burst: Prophecies Of Dawn
+Aloy throws a power cell filled with Cryo at the nearest enemy, then detonates it with an arrow, dealing
+AOE Cryo damage
+. This Burst is similar to Childe’s bow Burst in targeting, but it has a slightly larger AOE. Aloy’s Burst costs
+40
+energy and has a cooldown of
+12 seconds.
+This is the bread and butter of Aloy’s kit, and it’s what makes her a decent Burst-DPS.
+Aloy’s Elemental Burst animation. Footage by Raven#9205.
+Ascension Passive 1
+Ascension 1 Passive: Combat Override
+When Aloy receives the Coil effect from Frozen Wilds, her ATK is increased by 16%, while nearby party members’ ATK is increased by 8%. This effect lasts 10 seconds.
+It’s a nice, straightforward buff to Aloy and her teammates that helps them hit a bit harder.
+Ascension Passive 4
+Ascension 4 Passive: Strong Strike
+When Aloy is in the
+Rushing Ice
+state conferred by Frozen Wilds, her Cryo DMG Bonus increases by
+3.5%
+every second. A maximum Cryo DMG bonus of
+35%
+can be gained in this way.
+With this Talent, Quickswap DPS Aloy should burst after a few seconds of the Rushing Ice state duration, to make full use of the Cryo DMG Bonus%. As for Burst-DPS Aloy, although she does not reliably trigger Rushing Ice, it may occasionally happen while she is off-field, in which case she would benefit from this Passive.
+Utility Passive
+Utility Passive: Easy Does It
+When Aloy is in the party, animals who drop Fowl, Raw Meat or Chilled Meat will not be startled when approached.
+An excellent Talent for hunting—however, once you kill one animal or get too close, the others will still run.
+Aloy’s hunting passive in action. Footage by Raven#9205.
+‘Let’s get going. There are people who need our help.’
+^ Art credits go to
+Twitter @saewokhirsz
+. [
+Original Post
+]
+Mechanics
+About Coil Stacks and DPS
+Coil stacks are an integral part of Aloy’s kit as a main DPS; she needs them to get her Cryo infusion. Unfortunately, various factors in how they work make it a nuisance to accumulate the necessary number of stacks. For example, enemies may be too spread out or move out of range of the bomblets. This makes it necessary to use Anemo units to pull her bomblets into colliding with enemies for consistent infusion, but even this method can face issues because of the ICD on gaining Coil stacks. Add in the 20 second Skill cooldown and Aloy can really suffer in trying to get Coil stacks. There are ways to remedy this that we’ll go into in the next section, but generally, this Talent is a big reason why Aloy is better off as a Burst-DPS or a Quickswap DPS. Pray that one of her Constellations makes it easier to attain stacks, if she ever gets them.
+How to Consistently Get Coil Stacks
+Aloy as a main DPS requires an Anemo unit to consistently get sufficient Coil stacks. The following skills in particular can help:
+Kazuha’s Hold Skill, Sucrose’s Skill, Jean’s Hold Skill and Anemo MC’s Burst and Skill.
+Venti and Viridescent Hunt’s passive do not suck or move bombs.
+See Prévisible’s
+video
+about common ways to get 4 stacks for guidance.
+Incorrect way to get stacks
+The best way to get stacks more consistently is with the help of an Anemo unit, as stated above. However, many people recommend using Sacrificial Bow to cancel her skill cooldown, allowing her to recast her Skill for the chance to gain more stacks.
+This method is reliant on further layers of probability, making it even more inconsistent. Furthermore, Sacrificial Bow is a poor option for Aloy’s damage as a damage dealer, and is therefore not recommended to be used on Aloy when she isn’t a support.
+Aloy’s Skill cooldown gets cancelled by Sacrificial Bow. Footage by Raven#9205.
+‘Aloy here. I don’t know this world, but my arrows are sharp and my bow’s ready. If your party needs help, I’ll do what I can.’
+^ Art credits go to Tezuka
+[Instagram @mei.tezuka]
+,
+[u/korratezuka]
+,
+[Deviant Art @hayaotezuka]
+[Original Post]
+Builds
+Burst/Quickswap DPS
+Aloy’s Burst/Quickswap build focuses on maximizing her skills’ damage. Aloy will require 140–165 ER% to use her Burst off cooldown.
+Burst/Quickswap
+Artifact Stats
+Main stats: ATK% or EM (Melt) or ER%/Cryo/CRIT Substats: CRIT, ATK%, ER, EM
+Talent Priority
+Q > E (NA can be ignored)
+Weapon Calculation Assumptions (applicable to this playstyle only)
+Aloy Lvl. 90/90; T9/9/9; EM or ER / Cryo / CR or CD; 2 BS 2 NO
+Full uptime on Bennett 981 Flat ATK, 4 NO, 4 VV
+1 Skill (Melt), 4 Bomblets (2 Melt), N4 (N1 first hit, N3 Melt), 1 Burst (Melt)
+For other assumptions like passive uptime and stacks, please visit the
+sheet
+by kol#1593.
+Weapons
+Weapon
+vs. Rust R1
+Weapon stats (Lvl. 90)
+Notes/Additional Info
+Polar Star R1 (5*)
+129.7%
+Base Attack: 608
+CRIT Rate: 33.1%
+Aloy can easily attain 2 stacks on this bow during the first rotation, or even 3 stacks if you can get in the recommended Aimed Shot.
+Elegy for the End (5*) (passive active)
+124.9%
+Base Attack: 608
+Energy Recharge: 55.1%
+Allows Aloy to provide a fairly decent buff to the team, and gives her enough Energy Recharge to serve as a Burst-DPS.
+Obtaining every stack, however, can be long and painful, which will cause it to fall behind other options most of the time.
+Skyward Harp R1 (5*)
+124.1%
+Base Attack: 674
+CRIT Rate: 22.1%
+This bow provides hefty Base ATK, CRIT Rate, and CRIT DMG, which are all valuable stats for Aloy.
+Thundering Pulse R1 (5*)
+122.6%
+Base Attack: 608
+CRIT DMG: 66.2%
+Aloy can only get 2 stacks on this bow as a Burst-DPS (from casting her Skill and Normal Attacking), but it is still fantastic on her.
+Stringless R5 (4*)
+119.6%
+Base Attack: 510
+Elemental Mastery: 165
+Provides an increase to her Skill and Burst damage, making it ideal for this build.
+Viridescent Hunt R5 (4*)
+115.9%
+Base Attack: 510
+CRIT Rate: 27.6%
+The passive does not move Aloy’s bombs at all. It is used solely for the stats. However, refinements do boost the passive’s damage.
+Prototype Crescent R5 (passive active) (4*)
+115.4%
+Base Attack: 510
+ATK: 41.3%
+Aloy can easily get a quick headshot before Bursting, allowing her to gain the attack buff. However, some enemies do not have weak points.
+Elegy for the End R1 (5*) (passive inactive)
+114.1%
+Base Attack: 608
+Energy Recharge: 55.1%
+Without the passive active, Elegy falls hard, even behind some R5 4 stars. The passive will not be active unless extremely lucky when playing Aloy.
+Windblume Ode R5 (4*)
+110.3%
+Base Attack: 510
+Elemental Mastery: 165
+Essentially a F2P Stringless, with a worse passive. A great option if your Prototype Crescent is on someone else.
+Viridescent Hunt R1 (4*)
+110.3%
+Base Attack: 510
+CRIT Rate: 27.6%
+The passive does not move Aloy’s bombs at all. It is used solely for the stats. Just as good as Windblume Ode.
+Stringless R1 (4*)
+110.1%
+Base Attack: 510
+Elemental Mastery: 165
+Even at R1, the increase to her Skill and Burst damage makes it a strong contender for this build.
+Mounn’s Moon R5 (4*) (240 party burst cost)
+108.8%
+Base Attack: 565
+ATK: 27.6%
+High Base Attack for a 4 star is nice for Aloy. Sadly, Aloy’s burst cost is 40, making her a sub-par user of this bow. Additionally, it is hard to get, let alone max refine. All things considered, not the best option on Aloy.
+Amos’ Bow R1 (5*)
+108.4%
+Base Attack: 608
+ATK: 49.6%
+The passive doesn’t do much if you don’t attack a lot. It’s a great statstick though.
+Prototype Crescent R1 (passive active) (4*)
+106.1%
+Base Attack: 510
+ATK: 41.3%
+Similar to R5.
+Sacrificial Bow (4*)
+102.4%
+Base Attack: 565
+Energy Recharge: 30.6%
+High Base Attack for a 4 star, a decent amount of ER, and a passive that may help her get stacks when all else fails makes it pretty nice for a comfy playstyle.
+Rust R5 (4*)
+103.2%
+Base Attack: 510
+ATK: 41.3%
+Refines on the passive are useless for Burst-DPS Aloy. Quickswap Aloy will use it a bit.
+Mouun’s Moon R1 (4*) (240 party burst cost)
+102.8%
+Base Attack: 565
+ATK: 27.6%
+High Base ATK for a 4 star is nice for Aloy. Sadly, Aloy’s burst cost is 40, making her a sub-par user of this bow. Additionally, it is hard to get. All things considered, not a great option on Aloy.
+Slingshot R5 (3*)
+101.6%
+Base Attack: 354
+CRIT Rate: 31.2%
+The best 3-star option. Passive doesn’t do much for Burst-DPS Aloy. For quickswap, it’s possible to have 100% passive uptime. Provides a good amount of CRIT Rate while being cheap to max too.
+Blackcliff Warbow (passive inactive) (4*)
+101.6%
+Base Attack: 565
+CRIT DMG: 36.8%
+So close to Slingshot and behind F2P options like Windblume Ode and Prototype Crescent despite having both a high Base Attack and a CRIT stat. A waste of your Starglitter for sure.
+Hamayumi R5 (4*)
+101.3%
+Base Attack: 454
+ATK: 55.1%
+Refines don’t do much for Burst-DPS Aloy. For Quickswap, it’s possible to have full passive uptime in a proper rotation.
+Predator R1 (4*)
+100.8%
+Base Attack: 510
+ATK: 41.3%
+Same stats as Crescent, but a far worse passive. Cannot be refined.
+Playstation player locked.
+Raven Bow R5 (3*)
+100.7%
+Base Attack: 448
+Elemental Mastery: 94
+If Windblume is a worse Stringless, this is a worse Windblume. It is cheap to level though.
+Rust R1 (4*)
+100%
+Base Attack: 510
+ATK: 41.3
+Refines on the passive are useless for Burst-DPS Aloy. Quickswap Aloy will use it a bit.
+Favonius Warbow (4*)
+98.9%
+Base Attack: 454
+Energy Recharge: 61.3%
+Covers all her ER needs with its stat and passive. Otherwise, doesn’t do much else for Aloy.
+Hamayumi R1 (4*)
+98.8%
+Base Attack: 454
+ATK: 55.1%
+The passive doesn’t do much for Burst-DPS Aloy. For Quickswap, it’s possible to have full passive uptime in a proper rotation.
+Alley Hunter (4*)
+(passive inactive)
+96.8%
+Base Attack: 565
+ATK: 27.6%
+Seriously, why are you using it on Aloy? Give it to Fischl instead and make Oz stronk.
+Sharpshooter’s Oath (3*)
+94.7%
+Base Attack: 401
+CRIT DMG: 46.9%
+Aloy won’t ever make use of the passive. It’s just a stat stick.
+Messenger (3*)
+92.4%
+Base Attack: 354
+CRIT Rate: 31.2%
+Just like the option above, it’s just a stat stick.
+Artifacts
+Artifact Ranking—Melt (vs 2 set Blizzard Strayer – 2 set Noblesse Oblige)
+4 set: Emblem of Severed Fate (104%)
+Unquestionably the best set for Melt Aloy, providing Elemental Burst DMG Bonus% along with Energy Recharge, which are both valuable on Aloy.
+Also a highly resin-efficient and universal set.
+2 set: Wanderer’s Troupe – Blizzard Strayer (102%)
+Currently the highest damage 2 set option for Melt Aloy.
+2 set: Wanderer’s Troupe – Noblesse Oblige (101%)
+High damage option, slightly behind 2 WT/BS. Can be better with good substats.
+2 set: Blizzard Strayer – Noblesse Oblige (100%)
+As good as the option shown above. Can be better with good substats.
+2 set: Shimenawa’s Reminiscence/Gladiator’s Finale – WT / BS / NO
+Close to the options shown above. The advantage is that farming SR is resin-efficient.
+4 set: Noblesse Oblige (98%)
+Similar to the option shown above, while providing a considerable buff to the team.
+Support
+Support Aloy revolves around batterying Cryo teammates such as Ayaka while buffing them. Her personal damage is merely a bonus, and should not be prioritized over maximizing utility.
+Artifact Stats
+Main stats: ER%/Cryo/CRIT Substats: ER%, CRIT, ATK%
+Note: If running Favonius Warbow, using CRIT Rate circlet is recommended.
+Talent Priority
+Q > E (NA can be ignored)
+Weapons
+Weapon
+Weapon stats (Lvl. 90)
+Notes/Additional info
+Sacrificial Bow (4*)
+Base Attack: 565
+Energy Recharge: 30.6%
+Resets Aloy’s Skill cooldown, allowing her to recast it and produce more Cryo particles. Refinements aren’t needed on this bow, but R2 is convenient to have, as it is when the passive cooldown begins to line up with Aloy’s Skill cooldown.
+Favonius Warbow (4*)
+Base Attack: 454
+Energy Recharge: 61.3%
+The F2P option. Make sure you have enough CRIT Rate to make use of this bow.
+Elegy for the End (5*)
+Base Attack: 608
+Energy Recharge: 55.1%
+Allows Aloy to provide a fairly decent buff to the team, and gives her enough Energy Recharge to use her Burst off-cooldown.
+Obtaining every stack however, can be long and painful; thus, this weapon is ranked lower than the other 2 options.
+Artifacts
+4 set: Noblesse Oblige
+Provides a considerable buff to the team while being decent for Aloy’s personal damage. Ensure that Aloy has enough Energy Recharge to Burst as necessary if using 4 set NO.
+4 set: Instructor
+An option if the team’s damage primarily comes from Melt or Vaporize reactions. It provides a sizable amount of EM but sacrifices Aloy’s personal damage.
+Permafreeze (on-field)
+On-field permafreeze Aloy utilizes her Coil stacks to infuse her Normal Attacks with Cryo. 4 set Blizzard Strayer and Cryo Resonance allow her to stack large amounts of ATK and CRIT DMG.
+Permafreeze
+Artifact Stats
+Main stats: ATK%/Cryo/CRIT DMG Substats: CRIT DMG, ATK%, ER%
+Talent Priority
+AA > Q = E
+Weapon Calculation Assumptions (applicable to this playstyle only)
+Aloy Lvl. 80/90; T9/9/9; ATK% / Cryo / CR or CD; 4BS
+Rotation: 1 Skill, 4 Bomblets, 7 N3RR, 1 Burst, for Prototype Crescent and Polar Star, 1 CA 1 Skill, 4 Bomblets, 7 N3RR, 1 Burst
+Enemy RES to all elements and physical is 10%, no DEF shred.
+For other assumptions like passive uptime, specific stats and stacks, please visit the
+sheet
+by Greyhound#7836.
+Weapons
+Weapon
+vs. Rust R1
+Weapon stats (Lvl. 90)
+Notes/Additional info
+Thundering Pulse R1 (5*)
+127.18%
+Base Attack: 608
+CRIT DMG: 66.2%
+BiS. CRIT DMG is valuable for Freeze.
+Polar Star R1 (5*) (4 stacks)
+120.83%
+Base Attack: 608
+CRIT Rate: 33.1%
+May overcap on CRIT Rate. Aloy can easily attain 2 stacks on this bow during the first rotation, or even 3 stacks if you can get in the recommended Aimed Shot.
+Skyward Harp R1 (5*)
+115.58%
+Base Attack: 674
+CRIT Rate: 22.1%
+May overcap on CRIT Rate. The passive is nothing special but its stats are good.
+Prototype Crescent R5 (passive active) (4*)
+114.79%
+Base Attack: 510
+ATK: 41.3%
+Aloy can easily get a quick headshot before attacking, allowing her to gain the Attack buff. However, some enemies do not have weak points.
+Amos’ Bow R1 (5*)
+112.35%
+Base Attack: 608
+ATK: 49.6%
+The passive is useful here.
+Rust R5 (4*)
+109.18%
+Base Attack: 510
+ATK: 41.3%
+The passive is useful here.
+Prototype Crescent R1 (passive active) (4*)
+102.24%
+Base Attack: 510
+ATK: 41.3%
+Aloy can easily get a quick headshot before bursting, allowing her to gain the attack buff. However, some enemies do not have weak points.
+Rust R1 (4*)
+100%
+Base Attack: 510
+ATK: 41.3%
+The passive is useful here.
+Predator R1 (4*)
+98.70%
+Base Attack: 510
+ATK: 41.3%
+Same stats as Crescent, but a worse passive.
+Playstation player locked.
+Hamayumi R5 (4*)
+96.97%
+Base Attack: 454
+ATK: 55.1%
+Refines on Hamayumi are less valuable to Aloy than to other characters.
+Viridescent Hunt R1 (passive active) (4*)
+95.64%
+Base Attack: 510
+CRIT Rate: 27.6%
+May overcap on CRIT Rate. The passive does not move Aloy’s bombs at all.
+Hamayumi R1 (4*)
+93.34%
+Base Attack: 454
+ATK: 55.1%
+Crescent is a better F2P option.
+Slingshot R5 (3*)
+86.94%
+Base Attack: 354
+CRIT Rate: 31.2%
+May overcap on CRIT Rate.
+Artifacts
+Artifacts ranking—Permafreeze
+4 set: Blizzard Strayer
+Undoubtedly best in slot. This set and Cryo resonance together provide a massive amount of CRIT Rate for Aloy. Using anything else should be considered illegal.
+‘Everything I do is in the service of life, not death. That’s why I’m here with you’ – Aloy
+^ Art credits go to
+@Zerucheese on Twitter.
+[
+Original Post
+]
+Team Comps And Synergies
+Team images generated using
+this tool
+.
+Character Synergies
+Cryo Units
+Diona
+– Provides shields and healing for the team, and can hold 4 set Noblesse Oblige. C6 provides 200 EM to the team while standing in the Elemental Burst with over 50% HP, which can be handy for Melt teams. Can also help funnel particles to Aloy.
+Kaeya
+– Provides off-field damage. His A4 talent makes him uniquely suited to Freeze teams, making him the best Cryo battery in the game. However, his Burst requires you to play in shotgun range. In Melt comps, it’s relatively easy to Melt his Burst and Skills for more damage. Can also help funnel particles to Aloy.
+Rosaria
+– Provides off-field, easily Meltable damage, as well as CRIT Rate share. Can also help funnel particles to Aloy.
+Shenhe
+– Best suited for Freeze teams. She can buff all sources of Aloy’s damage output via her Skill and Passives. Additionally, she shreds Cryo resistance with her Burst. Can make running Freeze teams without Anemo units for VV shred viable. Shenhe is fantastic with a lot of Cryo damage dealers, and Aloy is no exception.
+Ganyu
+– Provides off-field damage as well as buffs. Generally better as the sole main DPS in another team. If added in the team as a support for Aloy Freeze DPS rather than a main DPS playstyle, she can provide a 20% Cryo DMG Bonus to anyone standing in her burst AOE via her A4 passive.
+Ayaka
+– Provides damage. As with Ganyu, better off in her own team.
+Hydro Units
+Xingqiu
+– Provides significant personal damage, as well as consistent Hydro application. Prefers to be used with melee characters such as Ayaka, Kaeya and Rosaria.
+Mona
+– Provides a massive DMG% buff via her Omen, which can be extended through Freeze, as well as some amount of Hydro application. She can also hold TToDS for an ATK% buff, or Prototype Amber for healing.
+Kokomi/Barbara
+– Both Kokomi and Barbara provide healing, TToDS buff and Hydro application. However, Kokomi’s Hydro application is significantly better and does not force you to play in shotgun range. Additionally, Kokomi can use 4 set Tenacity of the Millelith.
+Anemo Units
+Kazuha
+– Provides Elemental DMG Bonus, crowd control via his Skill, and personal damage. Also helps Aloy get Coil stacks.
+Furthermore, his Burst can also provide a fairly decent Elemental application, although it can be relatively hard to master.
+Venti
+– Provides personal damage and powerful crowd control, as well as Energy refund. He does not help Aloy get Coil stacks.
+Sucrose
+– Elemental Skill and Burst provide crowd control and helps Aloy get Coil stacks, and at C6 also grants an Elemental DMG Bonus. Offers a nice attack boost via TToDS (note that TToDS cannot stack multiple times on a single character). However, her ER requirements are significant if you wish to use her Burst often, and controlling what element it absorbs is significantly more difficult than with other Anemo units. Furthermore, her EM share is wasted in Freeze teams.
+Jean
+– Provides healing and minor crowd control via her hold skill. Also helps Aloy get Coil stacks.
+Anemo MC
+– Provides crowd control and more resistance shred via their C6. Also helps Aloy to get Coil stacks. However, they have poor AOE due to targeting issues with their Burst. The Burst can also blow enemies out of Aloy’s range, which can be disruptive, especially for Melt teams.
+Note
+: All Anemo units should run 4 set Viridescent Venerer for the Resistance shred.
+Pyro Units
+Bennett
+–
+Provides healing, a massive ATK buff, 4 set Noblesse Oblige or other buffs, as well as much-needed Pyro particles to support Xiangling’s high Energy requirements.
+Xiangling
+– Provides the off-field Pyro application necessary for the Cryo DPS to Melt, along with non-negligible personal damage.
+Geo Units
+Yunjin
+–
+An interesting support. Not much theorycrafting has been done regarding Aloy + Yunjin. She can be slotted into the flex slot of Aloy’s teams to help buff Aloy slightly. However, only put her in teams if there aren’t any better options.
+Zhongli
+– Zhongli’s Universal Resistance shred is highly valuable. If you’re having trouble surviving, a strong shielder like Zhongli can help.
+Burst-DPS
+A Burst-DPS Aloy can generally fit in most teams as a quick fill in the flex slot. However, her relatively long Elemental Skill cooldown makes her suboptimal for some teams, such as Superconduct teams and certain Melt teams (for example Hu Tao and Bennett teams where they are Melting). If run in a Superconduct team, ensure there is a second Cryo unit such as Rosaria or Kaeya so they can cover with their Cryo application when Aloy’s Skill is down. Refer to your DPS character’s guide for more synergies.
+Burst-DPS Aloy can replace Diona in Freeze teams as a more damaging option, at the cost of the increased comfort that Diona’s shielding, healing, and stamina reduction provide.
+Support
+This team has Ganyu or Ayaka as a Cryo main DPS (see character synergies for more info), along with a Hydro and Anemo unit. Support Aloy batteries her Cryo teammate while buffing them with 4 set Noblesse Oblige. Aloy also forms the second half of Cryo resonance, which is essential to this team thanks to its Freeze playstyle enabling 4 set Blizzard Strayer’s CRIT Rate increase.
+For Eula teams, Aloy is subpar despite being a good battery for Cryo carries, because she only provides particles and 4 set Noblesse. Meanwhile, Diona can additionally heal and shield Eula during her Burst’s duration, and Rosaria can buff Eula by providing CRIT Rate for the team. As such, Aloy isn’t recommended as a Eula battery.
+Permafreeze (On-Field)
+Cryo Resonance is a must in this team for the free CRIT Rate. An Anemo unit must also be in the team to shred enemy resistances with 4 set Viridescent Venerer and pull in Aloy’s bombs so she can more easily obtain Coil stacks. Be wise with who you give TToDS buff to if you’re running Mona, Kokomi, Barbara or Sucrose. If running Xingqiu or Mona as the Hydro unit, make sure they have sufficient ER for consistent Burst uptime. Use your Cryo battery or Charged Attack on Aloy to have a Cryo aura to Swirl for the 4 set VV effect before using Aloy for damage. When Skills are down, focus on getting them back. Use your Cryo battery to funnel particles to Aloy.
+Example rotation (assuming a team of Aloy, Diona, Xingqiu and Sucrose): Diona Hold E (to apply Cryo and shield) > Diona Q (optional for healing) > Sucrose Q (for Cryo VV and grouping) > Xingqiu E > Xingqiu Q > Aloy E > Sucrose E (Cryo VV and grouping bombs) > Aloy N4 > Aloy Q
+Quickswap Melt DPS
+The flex slot can be a healer, Anemo support, more off-field damage such as Kaeya to boost team damage, or a shielder. Make sure to thoroughly buff Xiangling using Bennett, TToDS, VV resistance shred or other buffs before casting her Burst for increased damage. During Burst downtime, cast Skills and battery units as necessary to regain everyone’s Bursts. Xiangling should be batteried with the help of Bennett’s Tap Skill. Please be careful if using a Hydro unit since it can mess up Aloy Melts.
+Example rotation (with flex slot as Sucrose): Bennett Q > Sucrose 1 E + Q (for Xiangling Pyro VV) > Xiangling Q > Aloy E > Sucrose E (to group bombs and VV) > Aloy N4 (to stack some Cryo damage bonus from Aloy’s A4) > Aloy Q
+Conclusion
+I hope this guide was of use! If you have feedback to give, or questions to ask, contact me on Discord (Raven#9205). This guide will be updated regularly to keep it up to date.
+‘I’ll do whatever it takes to finish this with you. I won’t hesitate. I won’t falter.’
+^ Art by therese#4040 from Aloy Mains
+[Original Comic]
+Appendix
+Ascension and talent materials
+Image credits go to
+@celestia.guides
+on Instagram. [
+Original Post
+]
+Crystal Marrow Farming Route
+Image credit goes to
+Genshin Lab
+.
+Video guide:
+https://youtu.be/6A5v1iYMsDM
+by TakaGG.
+Specter Farming Route
+Image credit goes to
+u/TheGamerJC
+(Kingsef Games). [
+Original Post
+]
+Video Guide:
+https://youtu.be/qhPFIiClxF4
+by Kingsef Games
+Stat Scalings
+Credits go to the
+Genshin Impact Wiki
+.
+Talent Scalings
+Basic Attack:
+Elemental Skill:
+Elemental Burst:
+Credits go to the
+Genshin Impact Wiki
+.
+References/External Links
+Links used to make this guide:
+Weapon Calculations (Freeze) by Greyhound#7836:
+Aloy Weapon Calcs
+Weapon calculations (Reverse Melt Burst) by kol#1593:
+(RM- Burst) Aloy Weapon Comparison
+Talents, stats, weapon stats, and talent scaling:
+Aloy | Genshin Impact Wiki | Fandom
+Team portrait images:
+Muakasan’s Genshin Team Portrait Generator
+Splash art and character lines:
+Honey Hunter
+Character description:
+Official Genshin Impact Website
+External Links:
+[Aloy Mains Invite Link]
+[Aloy Mains Subreddit]
+[Keqing Mains Invite Link]
+[Keqing Mains Website]
+Credits
+Credits go to the following people from Aloy Mains and KeqingMains for their contributions to the guide. This guide wouldn’t be here without them! – Raven
+Writing/Editing:
+Raven#9205
+Prévisible#7440
+EggsD#9603
+Calculations:
+Weapon Calcs: Greyhound#7836 and kol#1593
+Artifact Calcs: Sir_pick_the_prick#2209
+Feedback:
+naivety | pkach#6934
+ziekfried#7518
+jamberry#7142
+CQLQRS#7853
+kol#1593
+ZSK#5300
+renroser#6467
+AOnomad#0232
+…and everyone in KeqingMains and Aloy Mains who provided their support!
+Art
+All art in this guide has been added with the explicit permission of the artists. Please check the links underneath the art for credits. If you like their art, show them some love!
+Guide cover art by wokes#4659!

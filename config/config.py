@@ -146,7 +146,10 @@ COLLECT_SETTINGS = {
         "dps",
         "best build",
     ],
+    
 }
+PREPROCESS_SETTINGS = { "MAX_WORKERS": 4 }
+ENGINE_SETTINGS = {"MAX_WORKERS": 4}
 # =========================================
 # 초기 폴더 생성 함수
 # =========================================

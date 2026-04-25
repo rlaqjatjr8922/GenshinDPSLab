@@ -1,4 +1,3 @@
-import time
 import requests
 from bs4 import BeautifulSoup
 from ddgs import DDGS
@@ -13,7 +12,7 @@ def search_web(query: str, max_results: int = 10) -> list[dict]:
             query,
             region="kr-kr",
             safesearch="off",
-            max_results=max_results
+            max_results=max_results,
         )
 
         for item in items:
@@ -108,6 +107,28 @@ def get_article_text(url: str) -> str:
     return extract_general_text(url, headers)
 
 
+def should_skip_item(
+    item: dict,
+    ignore_keywords: list[str],
+    block_sites: list[str],
+) -> bool:
+    title = (item.get("title") or "").lower()
+    url = (item.get("url") or "").lower()
+    snippet = (item.get("snippet") or "").lower()
+
+    joined = f"{title} {url} {snippet}"
+
+    for site in block_sites:
+        if str(site).lower() in url:
+            return True
+
+    for keyword in ignore_keywords:
+        if str(keyword).lower() in joined:
+            return True
+
+    return False
+
+
 def fetch_content(item: dict):
     title = item["title"]
     url = item["url"]
@@ -127,52 +148,91 @@ def fetch_content(item: dict):
     }
 
 
+def build_query_list(
+    name: str,
+    search_keywords: list[str],
+    search_suffixes: list[str],
+) -> list[str]:
+    queries = []
+
+    if search_keywords and search_suffixes:
+        for keyword in search_keywords:
+            for suffix in search_suffixes:
+                queries.append(f"{name} {keyword} {suffix}")
+
+    elif search_keywords:
+        for keyword in search_keywords:
+            queries.append(f"{name} {keyword}")
+
+    else:
+        queries = [
+            f"{name} best team",
+            f"{name} recommended team",
+            f"{name} team build",
+            f"{name} team composition",
+            f"{name} comps",
+        ]
+
+    return queries
+
+
 def crawl_genshin_best_party(
     name: str,
-    max_workers: int = 5,
-    max_docs: int = 10,
-    request_delay: float = 1.0,
-    min_content_length: int = 30,
+    max_workers: int = 4,
+    max_docs: int = 8,
+    min_content_length: int = 300,
+    search_result_limit: int = 10,
+    ignore_keywords: list[str] | None = None,
+    block_sites: list[str] | None = None,
+    search_keywords: list[str] | None = None,
+    search_suffixes: list[str] | None = None,
     progress_callback=None,
 ) -> list[dict]:
 
-    query_list = [
-        f"{name} best team",
-        f"{name} recommended team",
-        f"{name} team build",
-        f"{name} team composition",
-        f"{name} comps"
-    ]
+    ignore_keywords = ignore_keywords or []
+    block_sites = block_sites or []
+    search_keywords = search_keywords or []
+    search_suffixes = search_suffixes or []
+
+    query_list = build_query_list(
+        name=name,
+        search_keywords=search_keywords,
+        search_suffixes=search_suffixes,
+    )
 
     docs = []
     seen_urls = set()
-    attempt = 0
 
     if progress_callback:
         progress_callback(0, max_docs)
 
-    while len(docs) < max_docs:
-        query = query_list[attempt % len(query_list)]
-        attempt += 1
+    for attempt, query in enumerate(query_list, start=1):
+        if len(docs) >= max_docs:
+            break
 
         print(f"[검색 시도 {attempt}] {query} / {len(docs)}/{max_docs}")
 
         try:
-            search_results = search_web(query, max_results=max_docs * 5)
+            search_results = search_web(
+                query,
+                max_results=search_result_limit,
+            )
         except Exception as e:
             print(f"[검색 실패] {e}")
-            time.sleep(request_delay)
             continue
 
         valid_items = []
 
         for item in search_results:
-            url = item["url"]
+            url = item.get("url", "")
 
             if not url:
                 continue
 
             if url in seen_urls:
+                continue
+
+            if should_skip_item(item, ignore_keywords, block_sites):
                 continue
 
             seen_urls.add(url)
@@ -201,15 +261,14 @@ def crawl_genshin_best_party(
                 docs.append({
                     "index": len(docs) + 1,
                     "query": query,
-                    **result
+                    **result,
                 })
+
                 added_this_round += 1
 
                 if progress_callback:
                     progress_callback(len(docs), max_docs)
 
         print(f"[추가됨] {added_this_round}개 / 총 {len(docs)}개")
-
-        time.sleep(request_delay)
 
     return docs

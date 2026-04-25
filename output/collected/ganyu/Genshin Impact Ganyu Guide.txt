@@ -1,0 +1,343 @@
+Genshin Impact Ganyu Guide
+X
+Search
+Account
+Discord
+Wiki Home
+Guides
+See all guides
+Common Guides
+Artifacts
+Banner
+Beginner Guide
+Elemental Sigils Item
+Enemies and Bosses
+Events
+List Of All Available Pets
+Maps
+Mondstadt
+Quests
+Talent Leveling Guide
+Tips and Tricks
+Weapon
+Weapons
+Heroes
+See all Heroes
+Albedo
+Alhaitham
+Aloy
+Amber
+Arlecchino
+Ayaka
+Ayato
+Baizhu
+Barbara
+Beidou
+Bennett
+Candace
+Charlotte
+Chasca
+Chevreuse
+Chiori
+Chongyun
+Citlali
+Clorinde
+Collei
+Diluc
+Diona
+Dori
+Emilie
+Eula
+Faruzan
+Fischl
+Freminet
+Furina
+Gaming
+Ganyu
+Gorou
+Heizou
+Itto
+Jean
+Kachina
+Kaveh
+Kazuha
+Site Home
+Wiki's
+Blog
+Support
+Home
+Wiki's
+Blog
+Support
+Account
+Guides
+Common Guides
+Artifacts
+Banner
+Beginner Guide
+Elemental Sigils Item
+Enemies and Bosses
+Events
+List Of All Available Pets
+Maps
+Mondstadt
+Quests
+Talent Leveling Guide
+Tips and Tricks
+Weapon
+Weapons
+Heroes
+Albedo
+Alhaitham
+Aloy
+Amber
+Arlecchino
+Ayaka
+Ayato
+Baizhu
+Barbara
+Beidou
+Bennett
+Candace
+Charlotte
+Chasca
+Chevreuse
+Chiori
+Chongyun
+Citlali
+Clorinde
+Collei
+Diluc
+Diona
+Dori
+Emilie
+Eula
+Faruzan
+Fischl
+Freminet
+Furina
+Gaming
+Ganyu
+Gorou
+Heizou
+Itto
+Jean
+Kachina
+Kaveh
+Kazuha
+Genshin Impact Ganyu Guide
+Table of Contents
+Jane H
+February 27, 2025
+Genshin Impact Ganyu Guide: Introduction
+Genshin Impact
+Ganyu is a beloved and powerful Cryo character, known for her calm demeanor and deep connection to the world of Liyue. A half-qilin Adeptus, she serves as the general secretary of the Liyue Qixing, a role that has placed her in the heart of Liyue’s political affairs. Despite her esteemed position, Genshin Impact Ganyu often struggles with her place in the human world, torn between her adeptal heritage and her obligations to the mortals she serves. This inner conflict makes her a unique character, blending the ethereal with the practical in her everyday life.
+As a Cryo bow unit, Genshin Impact Ganyu shines as a main DPS character, specializing in charged attacks that can deal immense damage over time. Players who choose her will find that she is often on the field for long periods, capable of taking down enemies with precision and grace. Her charged shots can be aimed for maximum effect, though for those who struggle with accuracy, even aiming at the ground can lead to successful results. Genshin Impact Ganyu’s elemental skill, Trail of the Qilin, and her elemental burst, Celestial Shower, provide excellent crowd control and sustained damage, making her a vital asset in any team composition.
+In terms of talent priorities, Genshin Impact Ganyu’s normal attack should be prioritized first to maximize her damage output. Her elemental burst is also important, while her elemental skill can be raised as a last priority or for those looking to fully optimize her abilities. To ascend Ganyu, players will need materials such as Shivada Jade and Hoarfrost Core, as well as Whopperflower Nectar and Qingxin. These materials reflect her Cryo affinity and her connection to the snowy peaks of Liyue. With her combination of versatility and power, Ganyu is a standout character for players who enjoy precision-based combat.
+Genshin Impact Ganyu Guide: How to Obtain Ganyu
+Genshin Impact Ganyu, the esteemed Cryo bow-wielding Adeptus from Liyue, has been featured in several limited-time banners in Genshin Impact. Notably, she was available as a rate-up character in the “Adrift in the Harbor” Event Wish, which ran from January 12 to February 2, 2021.
+Subsequent reruns have showcased Genshin Impact Ganyu alongside other characters. In the “Adrift in the Harbor” Event Wish from January 25 to February 15, 2022, she was featured alongside Xiangling, Xingqiu, and Noelle. Another rerun occurred from September 9 to September 27, 2022, during the same event, featuring Ganyu alongside Dori, Sucrose, and Xingqiu. Most recently, Ganyu was featured in the “Adrift in the Harbor” Event Wish from May 2 to May 23, 2023, alongside Kaveh, Candace, and Fischl.
+Additionally, Genshin Impact Ganyu was included in the “Remembrance of Jade and Stone” Chronicled Wish, which ran from January 21 to February 11, 2025. This event featured a selection of 5-star and 4-star characters, including Ganyu, as well as various 5-star and 4-star weapons. These limited-time banners provide players with opportunities to obtain Ganyu and other featured characters, often with increased drop rates during the event periods.
+Genshin Impact Ganyu Guide: Talents
+Genshin Impact Ganyu’s talents in Genshin Impact consist of normal attacks, elemental skills, elemental bursts, and passive talents. When leveling up Genshin Impact Ganyu’s talents, the priority should be her normal attacks first, followed by her elemental burst. Her elemental skill can be left alone or raised last, depending on playstyle and team composition.
+Normal Attack: Liutian Archery
+Genshin Impact Ganyu’s normal attack consists of up to six consecutive shots with her bow. Her charged attack allows for a more precise aimed shot that deals increased damage, with an icy aura accumulating on the arrowhead before it is fired. At Charge Level 1, she fires an icy arrow that deals Cryo DMG. At Charge Level 2, she fires a Frostflake Arrow that deals Cryo DMG.
+The Frostflake Arrow blooms after hitting its target, dealing AoE Cryo DMG. Additionally, after firing a Frostflake Arrow, the CRIT Rate of subsequent Frostflake Arrows and their resulting bloom effects is increased by 20% for 5 seconds, thanks to her passive talent, Undivided Heart. Ganyu’s Plunging Attack involves firing a shower of arrows while in mid-air before falling and striking the ground, dealing AoE DMG upon impact.
+Elemental Skill: Trail of the Qilin
+Genshin Impact Ganyu dashes backward, dealing AoE Cryo DMG while leaving an Ice Lotus behind. This skill allows her to maintain distance from enemies. The Ice Lotus continuously taunts surrounding enemies, drawing their attention and causing them to attack it. Its endurance scales based on Ganyu’s Max HP, and it blooms upon being destroyed or when its duration ends, dealing AoE Cryo DMG.
+Elemental Burst: Celestial Shower
+Ganyu summons a Sacred Cryo Pearl that continuously rains down shards of ice, dealing Cryo DMG to opponents within the AoE. This ability provides constant Cryo damage over time. Her talent Harmony between Heaven and Earth increases the Cryo DMG bonus of characters within the AoE, boosting the overall damage output of your team while the Sacred Cryo Pearl is active.
+Ascension Passives
+Her 1st Ascension Passive: Undivided Heart grants a 20% CRIT Rate increase for subsequent Frostflake Arrows and their resulting bloom effects for 5 seconds after firing a Frostflake Arrow. 4th Ascension Passive: Harmony between Heaven and Earth grants a 20% Cryo DMG Bonus to active party members within the AoE of Celestial Shower. Her Utility Passive: Preserved for the Hunt refunds 15% of the ores used when crafting Bow-type weapons.
+Here’s the table for Genshin Impact Ganyu’s Talent Ascension Materials:
+Material
+Quantity
+Mora
+1,652,500
+Whopperflower Nectar
+6
+Shimmering Nectar
+22
+Energy Nectar
+31
+Teachings of Diligence
+3
+Guide to Diligence
+21
+Philosophies of Diligence
+38
+Shadow of the Warrior
+6
+Crown of Insight
+1
+This table outlines the materials required to level up one of Ganyu’s talents from level 1 to level 10.
+Genshin Impact Ganyu Guide: Weapons
+Genshin Impact Ganyu is one of the most powerful Cryo bow users, excelling as a main DPS character with her ability to deal massive AoE Cryo damage. As a half-qilin Adeptus, she possesses an affinity for the bow and excels at using her charged shots to melt through enemies. To maximize her potential in battle, choosing the right weapon is crucial. While Amos’ Bow stands out as her signature weapon, there are also a variety of other great options—ranging from 5-star to F2P weapons—that can help boost her damage output. Each weapon brings unique advantages, whether enhancing her Charged Attack DMG, Crit Rate, or providing additional elemental bonuses.
+Amos’ Bow
+is considered Ganyu’s signature weapon. It increases Normal Attack and Charged Attack DMG by 12%. Additionally, after a Normal or Charged Attack is fired, the DMG dealt increases by 8% every 0.1 seconds the arrow is in the air, up to 5 times.
+Hunter’s Path
+increases Elemental DMG Bonus and Charged Attack DMG, with a scaling based on Elemental Mastery.
+Aqua Simulacra
+boosts DMG when opponents are nearby and has a high Crit DMG sub-stat.
+Polar Star
+offers a high Crit Rate sub-stat, meaning building Crit DMG in artifacts becomes less necessary. It also increases Skill and Elemental Burst DMG while further enhancing ATK after every attack.
+Skyward Harp
+provides high Crit Rate and increases Crit DMG.
+Prototype Crescent
+is a solid option, as Charged Attack hits on weak points increase Movement SPD by 10% and ATK by 36% for 10 seconds. Its ATK sub-stat boosts overall damage, but hitting enemy weak spots is required for the buffs.
+Hamayumi
+increases Normal Attack DMG by 16% and Charged Attack DMG by 12%. Additionally, when the character’s Energy reaches 100%, these effects are doubled.
+The ideal weapon for Genshin Impact Ganyu is one that increases Crit Rate, as it allows the focus to be on building Crit DMG in artifacts.
+Genshin Impact Ganyu Guide: Constellation
+Genshin Impact Ganyu’s Constellations enhance her abilities and combat effectiveness. Each Constellation unlocks as Ganyu’s Stella Fortuna increases, granting her powerful boosts in various areas of gameplay.
+C1: Dew-Drinker
+When Ganyu’s Charge Level 2 Frostflake Arrow or its resulting bloom hits an opponent, it decreases the target’s Cryo RES by 15% for 6 seconds. Additionally, this hit regenerates 2 Energy for Ganyu, with this effect occurring only once per Charge Level 2 Frostflake Arrow, regardless of whether the arrow or its bloom hits the target. This Constellation significantly boosts Ganyu’s damage output by applying Cryo RES Shred to enemies.
+C2: The Auspicious
+This Constellation grants Ganyu an additional charge for her Elemental Skill, Trail of the Qilin, allowing for greater mobility and more frequent application of Cryo damage.
+C3: Cloud-Strider
+Increases the level of Ganyu’s Elemental Burst, Celestial Shower, by 3, up to a maximum level of 15. This enhancement boosts the damage and effectiveness of her Elemental Burst.
+C4: Westward Sojourn
+Opponents standing within the AoE of Celestial Shower take increased damage. This effect starts at 5% and increases by 5% every 3 seconds, up to a maximum of 25%. The effect lingers for 3 seconds after the opponent leaves the AoE. This Constellation enhances Ganyu’s ability to deal sustained damage to enemies within her Elemental Burst’s area.
+C5: The Merciful
+Increases the level of Trail of the Qilin by 3, up to a maximum level of 15. This enhancement improves the damage and utility of her Elemental Skill.
+C6: The Clement
+Using Trail of the Qilin causes the next Frostflake Arrow shot within 30 seconds to not require charging. This Constellation allows Ganyu to fire a powerful Frostflake Arrow instantly, providing a significant damage boost and increased flexibility in combat.
+Each of Ganyu’s Constellations offers unique enhancements that can significantly improve her performance in various combat scenarios. While her C1 and C6 Constellations provide substantial damage boosts, her C2, C4, and C5 Constellations offer utility and support enhancements that can be valuable depending on playstyle and team composition.
+Genshin Impact Ganyu Guide: Arifacts
+Genshin Impact Ganyu’s best artifact sets depend on her playstyle and team composition. While Wanderer’s Troupe is the general recommendation, there are several other sets that can be mixed and matched to suit different strategies. Ganyu benefits from sets that enhance her Cryo damage, Crit Rate, and Charged Attack DMG, while sub-stats should focus on Crit Rate, Crit DMG, ATK%, and Elemental Mastery, depending on the build.
+For main stats, you should prioritize ATK% or Elemental Mastery Sands, Cryo DMG% Goblet, and either Crit Rate or Crit DMG Circlet, depending on your Crit rate needs.
+Artifact Sets for Ganyu:
+Wanderer’s Troupe
+: The 2-piece effect increases Elemental Mastery by 80, and the 4-piece effect increases Charged Attack DMG by 35% for characters using a Catalyst or Bow. This set is highly recommended if you’re focusing on Melt reactions or need a boost to Charged Attack DMG.
+Blizzard Strayer
+: The 2-piece effect increases Cryo DMG Bonus by 15%, and the 4-piece effect increases CRIT Rate by 20% when attacking opponents affected by Cryo. If the opponent is Frozen, CRIT Rate increases by an additional 20%. This set is ideal for a Freeze comp or maximizing Ganyu’s Cryo damage potential.
+Gladiator’s Finale
+: The 2-piece effect increases ATK by 18%, and the 4-piece effect increases Normal Attack DMG by 35% if the character uses a Sword, Claymore, or Polearm. While not typically optimal for Ganyu, this set can be useful if you are working with a more ATK-focused build.
+Shimenawa’s Reminiscence
+: The 2-piece effect increases ATK by 18%, and the 4-piece effect increases Normal/Charged/Plunging Attack DMG by 50% for 10 seconds when casting an Elemental Skill if the character has 15 or more Energy. This set is perfect for a Melt reaction comp, as Ganyu will use her Elemental Burst less frequently in this setup, minimizing the energy loss.
+Martial Artist
+: The 2-piece effect increases Normal Attack and Charged Attack DMG by 15%, and the 4-piece effect increases Normal Attack and Charged Attack DMG by 25% for 8 seconds after using Elemental Skill. This is a solid entry-level set for newer Ganyu players, especially if you’re focusing on Charged Attacks.
+Resolution of Sojourner
+: The 2-piece effect increases ATK by 18%, and the 4-piece effect increases Charged Attack CRIT Rate by 30%. This is an accessible, early-game option for Ganyu that helps improve her Charged Attack CRIT Rate.
+Genshin Impact Ganyu Guide: Team
+Genshin Impact Ganyu is a versatile character who can fit into various team compositions, depending on the desired playstyle and synergy. The best team for Ganyu often revolves around maximizing her Charged Attack potential and elemental reactions, such as Freeze or Melt. By equipping the right artifacts and supporting Genshin Impact Ganyu with characters who complement her strengths, you can greatly enhance her performance in both sub-DPS and main DPS roles.
+Team Compositions for Ganyu:
+Mona
+Ganyu
+Venti
+Diona
+Morgana Comp
+: This team consists of Mona, Ganyu, Venti, and Qiqi/Diona. The focus here is on the Freeze reaction, and Ganyu should equip the Blizzard Strayer artifact set to maximize Cryo DMG. The rotation involves Mona using her skill or burst to apply Hydro status, followed by Venti’s burst and elemental skill to group enemies together, and then Ganyu uses her charged attacks. Qiqi or Diona help to maintain the Freeze status, allowing Ganyu to deal continuous Cryo DMG.
+Ganyu
+Xiangling
+Bennett
+Zhongli
+Premium Team (Melt Comp)
+: A strong team setup includes Ganyu, Xiangling, Bennett, and Zhongli. Xiangling and Ganyu will trigger Melt reactions using Xiangling’s Elemental Burst, with Bennett and Xiangling providing additional damage through Pyro Resonance. Zhongli’s shield ensures Ganyu can continuously use Charged Attacks without interruptions, making her an even more formidable DPS in this setup.
+Ganyu
+Barbara
+Lynette
+Diona
+F2P-Friendly Party (Freeze Comp)
+: For a free-to-play team, Ganyu can be paired with Barbara, Lynette, and Diona. Lynette and Barbara will maintain Hydro application, ensuring Ganyu can trigger Freeze reactions. This team setup works well if you’re looking for a reliable Freeze comp without relying on 5-star characters, while Ganyu remains the main damage dealer.
+Genshin Impact Ganyu Guide: Ascension Materials
+To fully ascend Genshin Impact Ganyu in Genshin Impact, players need to gather a variety of materials that are required for each of her ascension phases. These materials include Mora, local specialties like Qingxin, and various drops from bosses and enemies, such as Hoarfrost Cores and Whopperflower Nectar. Understanding what materials are needed at each stage of Ganyu’s ascension will help streamline the leveling process and ensure you have everything ready for her full potential. Below is a detailed breakdown of the materials required to ascend Ganyu from level 1 to 90.
+Ascension Phase
+Mora
+Hoarfrost Core
+Shivada Jade
+Qingxin
+Whopperflower Nectar
+Shimmering Nectar
+Energy Nectar
+Total Cost (0✦ → 6✦)
+420,000
+46
+1 Sliver, 9 Fragment, 9 Chunk, 6 Gemstone
+168
+18
+30
+36
+To Level 80
+130,000
+26
+1 Sliver, 9 Fragment, 9 Chunk
+108
+18
+30
+12
+To Level 90
+290,000
+46
+1 Sliver, 9 Fragment, 9 Chunk, 6 Gemstone
+168
+18
+30
+36
+Material Details:
+Qingxin: A local specialty that can be found in the Liyue region. It can be farmed using specific routes to optimize gathering.
+Whopperflower Nectar, Shimmering Nectar, and Energy Nectar: Dropped by Whopperflowers, which can be found throughout Mondstadt and other regions.
+Hoarfrost Core: A drop from the elite boss, Cryo Regisvine, or the Perpetual Mechanical Array.
+This breakdown shows the specific materials needed to fully ascend Ganyu from level 1 to 90.
+Genshin Impact Ganyu Guide: Conclusion
+In Genshin Impact, Ganyu stands out as a powerful Cryo bow user, known for her impressive DPS potential, especially through her charged attacks. She excels as a main DPS character, where her playstyle revolves around maintaining distance from enemies, using precise and strong charged shots to deal massive damage. While Ganyu requires some aiming skill to use effectively, her ability to shoot arrows at the ground adds flexibility to her combat. She thrives on the battlefield by being able to stay at range and utilize her elemental skill to avoid close encounters, making her both a powerful and evasive character.
+When it comes to her talents, Genshin Impact Ganyu’s normal attack, Liutian Archery, should be prioritized first for leveling, followed by her Celestial Shower burst for optimal damage output. Her elemental skill, Trail of the Qilin, is essential for her mobility and AoE Cryo damage. These abilities, especially when upgraded, enable Ganyu to dish out sustained damage while remaining out of harm’s way. At higher constellations, Ganyu’s power increases significantly, with her C1, Dew-Drinker, enhancing her Cryo RES shred and energy regeneration, making her even more formidable in combat.
+Genshin Impact Ganyu’s weapon and artifact choices further complement her high DPS role. Amos’ Bow is her signature weapon, offering increased charged attack damage, but there are also viable F2P options like Prototype Crescent and Hamayumi. For artifacts, Wanderer’s Troupe is a go-to choice, particularly if using Melt reactions, though other sets like Blizzard Strayer and Gladiator’s Finale can be effective depending on the team composition. Ganyu’s ability to fit into various team compositions, such as the Morgana freeze team or a melt-focused setup with Xiangling and Bennett, makes her a versatile and valuable character for many playstyles.
+With the right build and team support, Ganyu can consistently deal top-tier Cryo damage and shine as a powerful main DPS character in Genshin Impact.
+Prev
+Previous
+Genshin Impact Gaming Guide
+Next
+Genshin Impact Gorou Guide
+Next
+About the Author
+Jane H
+Jane has been a passionate writer and designer since she was 12. She loves crafting stories, creating visuals, and immersing herself in PlayStation games like Detroit: Become Human, which inspire her creativity even more! She also enjoys visiting historical places, finding inspiration in their rich stories and architecture. Through her work, she hopes to share her creativity and passion with others.
+0
+0
+votes
+Rating
+Login
+Please login to comment
+0
+Comments
+Inline Feedbacks
+View all comments
+Theria Games
+Youtube
+Reddit
+Useful Links
+Home
+Wiki's
+Blog
+Support
+Account
+Sustainability
+About Us
+Language
+Terms of Service
+Acceptable Use Policy
+Privacy Policy
+© 2025 Theria Games Ltd
+Theria authors select and review products independently. This page may include affiliate links from which we may earn commissions, helping us to continue our work.
+All in-game images, characters, logos, and other related assets featured on this website are the property of their respective game developers and publishers. Theria does not claim ownership of any such content and uses these materials solely for informational and educational purposes. All trademarks and copyrights belong to their rightful owners.
+Theria Games
+Youtube
+Reddit
+Useful Links
+Home
+Wiki's
+Blog
+Support
+Account
+Sustainability
+About Us
+Language
+© 2025 Theria Games Ltd
+Terms of Service
+Acceptable Use Policy
+Privacy Policy
+Theria authors select and review products independently. This page may include affiliate links from which we may earn commissions, helping us to continue our work.
+All in-game images, characters, logos, and other related assets featured on this website are the property of their respective game developers and publishers. Theria does not claim ownership of any such content and uses these materials solely for informational and educational purposes. All trademarks and copyrights belong to their rightful owners.
+wpDiscuz
+Insert

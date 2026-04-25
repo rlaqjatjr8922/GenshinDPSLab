@@ -1,0 +1,186 @@
+Home
+Guides
+Genshin Impact
+The best Genshin Impact Sucrose build
+Learn how to put together the best possible Sucrose build
+Guide
+by
+Amelia Zollner
+Contributor
+Additional contributions by
+Rebecca Jones
+Updated on
+Sept. 14, 2022
+1 comment
+Follow Genshin Impact
+Want to learn how to create the best Sucrose build in Genshin Impact?
+Anemo Catalyst user Sucrose is a bio-alchemist and the shy assistant of Albedo. Despite her timid personality, Anemo Catalyst user Sucrose is definitely not afraid to use her alchemical abilities in battle and serves as a 4-star substitute for 5-star Anemo characters like
+Venti
+and
+Kazuha
+— essentially, she’s a sub-DPS great at crowd control and applying the Swirl reaction.
+This guide will show you how to create the best Sucrose build in
+Genshin Impact
+. Below we'll cover everything you need to know about Sucrose, including wishing, weapons, artifacts, ascension materials, talents, abilities, and constellations.
+Version 2.2 "Into the Perilous Labyrinth of Fog" Trailer | Genshin Impact
+Watch on YouTube
+Best Genshin Impact Sucrose build for sub-DPS
+Best weapon: Skyward Atlas
+Alternatives:
+Mappa Mare, Thrilling Tales of the Dragon Slayers
+Sucrose is especially strong with the
+Skyward Atlas
+, which increases Elemental DMG Bonus by 12%. However, if you’re using the 4-star Sucrose, chances are you might not have 5-star weapons in your inventory. In this case,
+Mappa Mare
+is your best friend — this nifty Catalyst will grant you an 8% Elemental DMG bonus upon triggering an
+elemental reaction
+, which you’ll be doing constantly with Sucrose. Finally, despite its 3-star rarity,
+Thrilling Tales of Dragon Slayers
+is another great option for Sucrose. It increases the ATK of its user when they switch back out into the field, and since she’s a sub-DPS, you’ll be switching Sucrose back in often.
+Best artifacts: Viridescent Venerer
+Alternatives:
+Wanderer’s Troupe, Instructor
+All of Sucrose’s attacks deal Anemo DMG, meaning anything that can boost her Anemo abilities will be your best friend. Luckily, there’s an artifact set that’s perfect for this:
+Viridescent Venerer
+. When used as a 4-piece set, these artifacts will give you a 15% Anemo DMG bonus and increase Swirl DMG by 60% while decreasing the opponent’s resistance to the element infused in the Swirl by 40%.
+Not feeling up for the Viridescent Venerer set? The
+Wanderer’s Troupe
+set is also a nice option for Sucrose that will increase her Elemental Mastery and Charged Attack DMG. Finally, the
+Instructor
+kit is a much more attainable set that provides the same Elemental Mastery buff, though we’d recommend using the Viridescent Venerer set whenever possible.
+When selecting stats for Sucrose’s artifacts, you’ll want to have a variety of Elemental Mastery, Energy Recharge, Anemo DMG Bonus, and ATK%. Sucrose’s kit will be improved greatly with the addition of any of these. Ideally, her artifact stats and substats should look something like this:
+Circlet of Logos:
+Elemental Mastery or CRITs
+Sands of Eon:
+Elemental Mastery or ATK
+Goblet of Eonothem:
+Anemo DMG Bonus
+Substats:
+Energy Recharge and ATK
+Talent priority: Astable Anemohypostasis Creation - 6308 (Elemental Skill)
+All of Sucrose’s talents deal Anemo DMG and apply the Swirl reaction, meaning you don’t need to prioritize a certain one of her talents. Instead,
+try keeping the levels of Sucrose's talents even
+. If you only have the resources to invest in one of her talents, invest in the one that you use the most, which will likely be her
+Elemental Skill
+first if you're using her as a sub-DPS. Here's everything Sucrose can do in battle:
+Wind Spirit Creation (Normal Attack):
+Normal Attack
+- Performs up to 4 attacks using Wind Spirits, dealing Anemo DMG.
+Charged Attack
+- Consumes a certain amount of Stamina and deals AoE Anemo DMG after a short casting time.
+Plunging Attack
+- Calling upon the power of her Wind Spirits, Sucrose plunges towards the ground from mid-air, damaging all opponents in her path. Deals AoE Anemo DMG upon impact with the ground.
+Astable Anemohypostasis Creation - 6308 (Elemental Skill):
+Creates a small Wind Spirit that pulls opponents and objects towards its location, launches opponents within its AoE, and deals Anemo DMG.
+Forbidden Creation - Isomer 75 / Type II (Elemental Burst):
+Sucrose hurls an unstable concoction that creates a Large Wind Spirit. While it persists, the Large Wind Spirit will continuously pull and launch nearby opponents, and deal Anemo DMG. Elemental Absorption: If the Wind Spirit comes into contact with Hydro/Pyro/Cryo/Electro elements, it will deal additional elemental DMG of that type. Elemental Absorption may only occur once per use.
+Catalyst Conversion (1st Ascension Passive):
+When Sucrose triggers a Swirl effect, all characters in the party with the matching element (excluding Sucrose) have their Elemental Mastery increased by 50 for 8s.
+Mollis Favonius (4th Ascension Passive):
+When Astable Anemohypostasis Creation - 6308 or Forbidden Creation - Isomer 75 / Type II hits an opponent, increases all party members' (excluding Sucrose) Elemental Mastery based on 20% of Sucrose's Elemental Mastery for 8s.
+Astable Invention (Utility Passive):
+When Sucrose crafts Character and Weapon Enhancement Materials, she has a 10% chance to obtain double the product.
+Party composition
+DPS:
+Yanfei
+Sub-DPS/support:
+Sucrose
+Sub-DPS/support:
+Xingqiu
+Healer:
+Bennett
+5-star alternative:
+Diluc replacing Yanfei as DPS
+Undoubtedly, Sucrose's strongest combat move is her ability to inflict Swirl; which, in addition to sweeping up enemies for easier group attacks, is capable of spreading her teammates' Hydro/Pyro/Cryo/Electro damage across the entire afflicted crowd as well. Therefore, Sucrose makes an excellent sub-DPS/support character for basically any DPS in possession of those elements. I've opted for
+Diluc
+in this example, with
+Yanfei
+as the 4-star alternative, to create a high-damage Pyro-led team; but you can absolutely feel free to sub in your best DPS (5-stars encouraged if you have any) whose element spreads in the Swirl. Sucrose is one of our favourite support characters in the game for this very reason, as she fits into almost any non-Geo-focussed team.
+Xingqiu
+, like Sucrose, is one of the game's absolute best 4-star sub-DPS/support characters. Furthermore, as a Hydro character, his element will react in the Swirl, which can be absolutely devastating alongside a DPS with Pyro/Cryo/Electro as their element. With Sucrose, Xingqiu, and a Pyro DPS on the team, you can frequently just drop all three of their elemental skills and then stand back and watch groups of enemies expire without even touching your normal weapons.
+Round this team out with
+Bennett
+as your healer. Not only is he one of the best healers in the game and surprisingly easy to obtain at a 4-star rarity, but his Pyro resonance with the main DPS will increase the whole party's attack powers by 25%, as well as reducing their susceptibility to incoming Cryo by 40%. Or, if you've opted for a different element in the DPS seat, his Pyro element will be invaluable for utility purposes and to throw into the Swirl.
+To see this content please enable targeting cookies.
+Manage cookie settings
+To see this content please enable targeting cookies.
+Manage cookie settings
+How to level up Sucrose in Genshin Impact
+Ascension Materials
+To fully ascend Sucrose, you’ll need:
+Ascension Level
+Materials
+1
+1 Vayuda Turquoise Sliver, 3 Windwheel Asters, 3 Whopperflower Nectars, and 20,000 Mora
+2
+3 Vayuda Turquoise Fragments, 2 Hurricane Seeds, 10 Windwheel Asters, 15 Whopperflower Nectars, and 40,000 Mora
+3
+6 Vayuda Turquoise Fragments, 4 Hurricane Seeds, 20 Windwheel Asters, 12 Shimmering Nectars, and 60,000 Mora
+4
+3 Vayuda Turquoise Chunks, 8 Hurricane Seeds, 30 Windwheel Asters, 18 Shimmering Nectars, and 80,000 Mora
+5
+6 Vayuda Turquoise Chunks, 12 Hurricane Seeds, 45 Windwheel Asters, 12 Energy Nectars, and 100,000 Mora
+6
+6 Vayuda Turquoise Gemstones, 20 Hurricane Seeds, 60 Windwheel Asters, 24 Energy Nectars, and 120,000 Mora
+Total
+1 Vayuda Turquoise Sliver, 9 Vayuda Turquoise Fragments, 9 Vayuda Turquoise Chunks, 6 Vayuda Turquoise Gemstones, 46 Hurricane Seeds, 168 Windwheel Asters, 18 Whopperflower Nectar, 30 Shimmering Nectar, 36 Energy Nectar, and 420,000 Mora
+Ascending Sucrose will require you to fight the Anemo Hypostasis, which will net you Vayuda Turquoise and Hurricane Seeds. You’ll also need to fight Whopperflowers around Teyvat for their Nectar. As for Windwheel Asters, head to the Statue of the Seven near Windrise to find plenty.
+Talents
+To fully level all three of Sucrose’s talents, you’ll need 9 Teachings of Freedom, 63 Guides to Freedom, 114 Philosophies of Freedom, 18 Whopperflower Nectar, 66 Shimmering Nectar, 93 Energy Nectar, 18 Spirit Lockets of Boreas, 3 Crowns of Insight, and 4,957,500 Mora. Per every one talent, that comes out to the following:
+Talent Level (+ required Ascension Level)
+Materials
+2 (2)
+6 Whopperflower Nectars, 3 Teachings of Freedom, and 12,500 Mora
+3 (3)
+3 Shimmering Nectars, 2 Guides to Freedom, and 17,500 Mora
+4 (3)
+4 Shimmering Nectars, 4 Guides to Freedom, and 25,000 Mora
+5 (4)
+6 Shimmering Nectars, 6 Guides to Freedom, and 30,000 Mora
+6 (4)
+9 Shimmering Nectars, 9 Guides to Freedom, and 37,500 Mora
+7 (5)
+4 Energy Nectars, 4 Philosophies of Freedom, 1 Spirit Locket of Boreas, and 120,000 Mora
+8 (5)
+6 Energy Nectars, 6 Philosophies of Freedom, 1 Spirit Locket of Boreas, and 260,000 Mora
+9 (6)
+9 Energy Nectars, 12 Philosophies of Freedom, 2 Spirit Lockets of Boreas, and 450,000 Mora
+10 (6)
+12 Energy Nectars, 16 Philosophies of Freedom, 2 Spirit Lockets of Boreas, 1 Crown of Insight, and 700,000 Mora
+Total
+6 Whopperflower Nectars, 22 Shimmering Nectars, 31 Energy Nectars, 3 Teachings of Freedom, 21 Guides to Freedom, 38 Philosophies of Freedom, 6 Spirit Lockets of Boreas, 1 Crown of Insight, and 1,652,500 Mora
+As always, Nectar can be obtained by fighting Whopperflowers. Sucrose’s Freedom books can be earned by completing the Forsaken Rift domain on Mondays, Thursdays, and Sundays, while Spirit Lockets of Boreas are dropped by Andrius during the Wolf of the North Challenge. Finally, Crowns of Insight can be obtained through limited-time events or by making offerings to the Frostbearing Tree and the Sacred Sakura.
+Constellations
+Unlike many of Genshin’s stronger characters, Sucrose requires some Constellations to reach her full potential.
+Constellation 1
+and
+Constellation 6
+both add vital aspects to her build. Unlocking
+Constellation 4
+(which you’ll get anyway if you’re on your way to Constellation 6) is also a great move, as it drastically decreases her Elemental Skill’s cooldown period, giving her potential to deal massive amounts of damage. Long story short, if you’re planning on adding Sucrose to your team and want her to be at her best, be prepared to do some wishing. Here’s everything the alchemist's Constellations have in store:
+Constellation Lv. 1: Clustered Vacuum Field
+- Astable Anemohypostasis Creation - 6308 gains 1 additional charge.
+Constellation Lv. 2: Beth: Unbound Form
+- The duration of Forbidden Creation - Isomer 75 / Type II is increased by 2s.
+Constellation Lv. 3: Flawless Alchemistress
+- Increases the Level of Astable Anemohypostasis Creation - 6308 by 3. Maximum upgrade level is 15.
+Constellation Lv. 4: Alchemania
+- Every 7 Normal and Charged Attacks, Sucrose will reduce the CD of Astable Anemohypostasis Creation - 6308 by 1-7s.
+Constellation Lv. 5: Caution: Standard Flask
+- Increases the Level of Forbidden Creation - Isomer 75 / Type II by 3. Maximum upgrade level is 15.
+Constellation Lv. 6: Chaotic Entropy
+- If Forbidden Creation - Isomer 75 / Type II triggers an Elemental Absorption, all party members gain a 20% Elemental DMG Bonus for the corresponding absorbed element during its duration.
+How to get Sucrose in Genshin Impact
+Sucrose is a 4-star character, meaning she can potentially be added to your team at any time. While she can be earned by wishing on any
+banner
+, your chances will be raised the next time she’s featured on a 5-star character’s banner with a boosted drop rate.
+If you're planning on wishing for Sucrose, check out our guide on
+getting characters
+to learn the best ways to prep, or our
+codes list
+to get some free
+Primogems
+!
+That’s all the info we’ve got on Sucrose! Why not check out our
+character tier list
+to see which other characters are good to wish for?

@@ -1,0 +1,147 @@
+Contents
+show
+1
+Hu Tao Rating and Info
+1.1
+Stats Lvl 80
+2
+Best Hu Tao Builds
+2.1
+Best Hu Tao Weapons
+2.2
+Best Hu Tao Artifacts
+3
+Best Hu Tao Team Comps
+4
+Hu Tao Skills Talents
+4.1
+Secret Spear of Wangsheng: Normal Attack
+4.2
+Guide to Afterlife: Elemental Skill
+4.3
+Spirit Soother: Elemental Burst
+5
+Hu Tao Passive Talents
+5.1
+Flutter By: First Ascension Passive
+5.2
+Sanguine Rouge: Fourth Ascension Passive
+5.3
+The More the Merrier: Passive Talent
+6
+Hu Tao Constellations
+6.1
+Level 1: Crimson Bouquet
+6.2
+Level 2: Ominous Rainfall
+6.3
+Level 3: Lingering Carmine
+6.4
+Level 4: Garden of Eternal Rest
+6.5
+Level 5: Floral Incense
+6.6
+Level 6: Butterfly’s Embrace
+7
+Hu Tao Ascension Costs
+Hu Tao Rating and Info
+Rarity:
+★★★★★
+Specialties:
+Main DPS
+Element:
+Pyro
+Weapon:
+Polearm
+Release Date:
+March 02, 2021
+Tier List Rating
+: SS
+Stats Lvl 80
+HP: 14459
+ATK: 99
+DEF: 815
+CRIT DMG 88.4%
+Best Hu Tao Builds
+Hu Tao is one of the strongest main DPS characters in Genshin Impact. There are a lot of different builds and roles for Hu Tao, but most players are using main DPS builds. Her skills are able to deal an insane amount of damage, and she has a lot of survivability. When you compare her to other characters, you will notice that she performs really well. Hu Tao is the SS-tier character in Genshin Impact.
+Best Hu Tao Weapons
+Staff of Homa
+HP increased by 20/25/30/35/40%. Additionally, provides an ATK Bonus based on 0.8/1/1.2/1.4/1.6% of the wielder’s Max HP. When the wielder’s HP is less than 50%, this ATK bonus is increased by an additional 1/1.2/1.4/1.6/1.8% of Max HP.
+Deathmatch
+HP increased by 20/25/30/35/40%. Additionally, provides an ATK Bonus based on 0.8/1/1.2/1.4/1.6% of the wielder’s Max HP. When the wielder’s HP is less than 50%, this ATK bonus is increased by an additional 1/1.2/1.4/1.6/1.8% of Max HP.
+Best Hu Tao Artifacts
+Crimson Witch of Flames
+(2) Pyro DMG Bonus +15%
+(4) Increases Overloaded and Burning DMG by 40%. Increases Vaporize and Melt DMG by 15%. Using an Elemental Skill increases 2-Piece Set effects by 50% for 10s. Max 3 stacks.
+Shimenawa’s Reminiscence
+(2) ATK +18%
+(4) When casting an Elemental Skill, if the character has 15 or more Energy, they lose 15 Energy and Normal/Charged/Plunging Attack DMG is increased by 50% for 10s.
+Best Hu Tao Team Comps
+Character 1
+Character 2
+Character 3
+Character 4
+Hu Tao
+Xingqiu
+Yelan
+Zhongli
+Hu Tao
+Xingqiu
+Kazuha
+Thoma
+Hu Tao
+Xingqiu
+Sucrose
+Diona
+There are a lot of team comps that you can make in Genshin Impact with Hu Tao. We recommend team comps that we think are best for Hu Tao. There are a lot of different characters, and there is a high chance that you do not have some of them. So you should create your team comps, test them out, and see what is best for you and your playstyle. With that, you will become better at the game, and you will know how your team works.
+Hu Tao Skills Talents
+Secret Spear of Wangsheng: Normal Attack
+Normal Attack
+Performs up to six consecutive spear strikes.
+Charged Attack
+Consumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.
+Plunging Attack
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Guide to Afterlife: Elemental Skill
+Only an unwavering flame can cleanse the impurities of this world. Hu Tao consumes a set portion of her HP to knock the surrounding enemies back and enter the Paramita Papilio state.
+Paramita Papilio
+Causes nearby Geo energy to explode, causing the following effects:
+Increases Hu Tao’s ATK based on her Max HP at the time of entering this state. ATK Bonus gained this way cannot exceed 400% of Hu Tao’s Base ATK.
+Converts attack DMG to Pyro DMG, which cannot be overridden by any other elemental infusion.
+Charged Attacks apply the Blood Blossom effect to the enemies hit.
+Increases Hu Tao’s resistance to interruption.
+Blood Blossom
+Enemies affected by Blood Blossom will take Pyro DMG every 4s. This DMG is considered Elemental Skill DMG. Each enemy can be affected by only one Blood Blossom effect at a time, and its duration may only be refreshed by Hu Tao herself.
+Paramita Papilio ends when its duration is over, or Hu Tao has left the battlefield or fallen.
+Spirit Soother: Elemental Burst
+Commands a blazing spirit to attack, dealing Pyro DMG in a large AoE. Upon striking the enemy, regenerates a percentage of Hu Tao’s Max HP. This effect can be triggered up to 5 times, based on the number of enemies hit. If Hu Tao’s HP is below or equal to 50% when the enemy is hit, both the DMG and HP Regeneration are increased.
+Hu Tao Passive Talents
+Flutter By: First Ascension Passive
+When a Paramita Papilio state activated by Guide to Afterlife ends, all allies in the party (excluding Hu Tao herself) will have their CRIT Rate increased by 12% for 8s.
+Sanguine Rouge: Fourth Ascension Passive
+When Hu Tao’s HP is equal to or less than 50%, her Pyro DMG Bonus is increased by 33%.
+The More the Merrier: Passive Talent
+When Hu Tao cooks a dish perfectly, she has a 18% chance to receive an additional “Suspicious” dish of the same type.
+Hu Tao Constellations
+Level 1: Crimson Bouquet
+While in a Paramita Papilio state activated by Guide to Afterlife, Hu Tao’s Charge Attacks [sic] do not consume Stamina.
+Level 2: Ominous Rainfall
+Increases the Blood Blossom DMG by an amount equal to 10% of Hu Tao’s Max HP at the time the effect is applied. Additionally, Spirit Soother will also apply the Blood Blossom effect.
+Level 3: Lingering Carmine
+Increases the Level of Guide to Afterlife by 3. Maximum upgrade level is 15.
+Level 4: Garden of Eternal Rest
+Upon defeating an enemy affected by a Blood Blossom that Hu Tao applied herself, all nearby allies in the party (excluding Hu Tao herself) will have their CRIT Rate increased by 12% for 15s.
+Level 5: Floral Incense
+Increases the Level of Spirit Soother by 3. Maximum upgrade level is 15.
+Level 6: Butterfly’s Embrace
+Triggers when Hu Tao’s HP drops below 25%, or when she suffers a lethal strike: Hu Tao will not fall as a result of the DMG sustained. Additionally, for the next 10s, all of her Elemental and Physical RES is increased by 200%, her CRIT Rate is increased by 100%, and her resistance to interruption is greatly increased. This effect triggers automatically when Hu Tao has 1 HP left. Can only occur once every 60s.
+Hu Tao Ascension Costs
+Whopperflower Nectar x 18
+Shimmering Nectar x 30
+Energy Nectar x 36
+Silk Flower x 168
+Juvenile Jade x 46
+Agnidus Agate Sliver x 1
+Agnidus Agate Fragment x 9
+Agnidus Agate Chunk x 9
+Agnidus Agate Gemstone x 6

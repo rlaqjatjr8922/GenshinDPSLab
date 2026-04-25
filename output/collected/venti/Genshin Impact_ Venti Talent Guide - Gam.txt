@@ -1,0 +1,98 @@
+Table of Contents
+[Hide]
+[Show]
+Combat Talents
++
+−
+Divine Marksmanship – Normal Attack
+Skyward Sonnet – Elemental Skill
+Wind’s Grand Ode – Elemental Burst
+Passive Talents
++
+−
+Embrace of Winds – 1st Ascension
+Stormeye – 4th Ascension
+Windrider – Utility Passive
+Combat Talent Materials
+As the first Archon introduced in
+Genshin Impact
+and the second limited time character banner, Venti returns for his fourth reroll. Yes, you read that correctly. This is Venti’s FOURTH banner!
+Compared to Ganyu, Eula, and Tighnari, Venti may seem like a downgrade in 5 Star Bow characters. However, Venti was not made to be a Main DPS – in fact, very few Anemo characters can be used as Main DPS units. Instead, you’ll use Venti’s Elemental Skill and Burst to create Swirl reactions and enhance the Elemental Reactions of your other party members.
+Genshin Impact Considers Making Limited-Time Events Replayable
+|
+How to Unlock the Sumeru Weapons in Genshin Impact
+|
+Genshin Impact’s Cyno Debut Leads To Record Breaking Sales
+Focus on upgrading Venti’s Elemental Burst first. His Burst deals the most damage and will help you group multiple enemies into a small area. It’s very easy and straightforward to use, just point and shoot. Venti’s Elemental Skill can take a few tries to get down – it depends on your playstyle whether you find pressing or holding the Skill more effective. Finally, it’s almost not worth bothering with Venti’s Normal Attack since you will barely use it. If you need the materials for another character, use them on the other character.
+Combat Talents
+Divine Marksmanship – Normal Attack
+Venti’s Normal Attack should be the lowest on your Talent priority list. It doesn’t add any 5 Star flare, like Ganyu’s bloom effect or Tighnari’s homing arrows. Overall, Venti has the same Normal Attacks as a 4 Star Bow character. He can perform up to 6 consecutive shots, a Charged Attack will deal Anemo DMG, and his Plunging Attack will deal AoE DMG upon impact. And that’s it! Seriously, don’t bother upgrading this unless you’re dead set on triple crowning Venti.
+Skyward Sonnet – Elemental Skill
+Venti plays a little song and gets a cute animation where he summons a Wind Domain. Pressing his Skill will summon the Wind Domain at the enemy’s location, deal AoE Anemo DMG, and launch affected enemies into the air.
+When you hold Venti’s Skill, Venti will summon a larger Wind Domain with himself at the center. Holding the Skill does the same thing as pressing the Skill, but also pushes Venti into the air.
+Most players use the hold version for exploration, but you can use it in combat. However, you do run the risk of being interrupted.
+Wind’s Grand Ode – Elemental Burst
+Venti shoots an arrow that creates a Stormeye. The Stormeye sucks in nearby enemies and deals continuous Anemo DMG. If the Stormeye comes into contact with Hydro, Pyro, Cryo, or Electro, it will deal additional Elemental DMG of that type – this is Elemental Absorption. Only one Elemental Absorption can occur per Stormeye.
+Stormeye can deal two types of Elemental DMG – Anemo and whatever else gets sucked into the vortex. Generally, it’s best to apply the other Element to enemies before using Wind’s Grand Ode. This helps guarantee that Stormeye will absorb another Elemental and deal that damage.
+Passive Talents
+Embrace of Winds – 1st Ascension
+This Talent activates as soon as Venti ascends for the first time. Holding Skyward Sonnet creates an upcurrent that lasts for 20 seconds. Most players use this for exploration purposes. However, it can also be used for frequent plunging attacks if you have a character like Xiao on your team. Like the wind currents found throughout Teyvat, the upcurrent itself does not deal or inflict Anemo on enemies.
+Stormeye – 4th Ascension
+Once Venti reaches his fourth Ascension, this Talent will be activated. Venti regenerates 15 Energy after the effects of Wind’s Grand Ode end. If an Elemental Absorption occurred, then 15 Energy will also be restored to all characters of the corresponding element.
+Essentially, this Passive turns Venti into a battery – a character that recharges your party’s Elemental Bursts. This allows you to primarily keep Venti’s Burst charged and ready to go at any time.
+Windrider – Utility Passive
+Your party’s gliding Stamina consumption decreases by 20%. This cannot stack with a similar Utility Passive. For example, Venti’s Utility Passive will not stack with Amber’s because both decrease gliding Stamina consumption. The Stamina consumption bonus will remain 20%, it won’t double to 40%.
+However, you can still use other Stamina consumption Utility Passives with Venti’s. For example, if you have both Venti and Beidou on your team, your party’s Stamina consumption for gliding and swimming will both decrease by 20%.
+Combat Talent Materials
+Remember, each Combat Talent can go up to Level 10. To triple crown a character, multiply all materials by three.
+Talent Level 1-2
+6 Slime Condensate
+3 Teachings of Ballad
+12,500 Mora
+Talent Level 2-3
+3 Slime Secretions
+2 Guides to Ballad
+17,500 Mora
+Talent Level 3-4
+4 Slime Secretions
+4 Guides to Ballad
+25,000 Mora
+Talent Level 4-5
+6 Slime Secretions
+6 Guides to Ballad
+30,000 Mora
+Talent Level 5-6
+9 Slime Secretions
+9 Guides to Ballad
+37,500 Mora
+Talent Ascension 6-7
+4 Slime Concentrate
+4 Philosophies of Ballad
+1 Tail of Boreas
+120,000 Mora
+Talent Ascension 7-8
+6 Slime Concentrate
+6 Philosophies of Ballad
+1 Tail of Boreas
+260,000 Mora
+Talent Ascension 8-9
+9 Slime Concentrate
+12 Philosophies of Ballad
+2 Tail of Boreas
+450,000 Mora
+Talent Ascension 9-10
+12 Slime Concentrate
+16 Philosophies of Ballad
+2 Tail of Boreas
+1 Crown of Insight
+700,000 Mora
+Total Talent Materials
+6 Slime Condensate
+22 Slime Secretions
+31 Slime Concentrate
+3 Teachings of Ballad
+21 Guide to Ballad
+38 Philosophies of Ballad
+6 Tail of Boreas
+1 Crown of Insight
+1,652,500 Mora

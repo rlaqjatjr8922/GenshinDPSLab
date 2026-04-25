@@ -1,6 +1,4 @@
-from config.settings import SETTINGS
-
-config = SETTINGS["collect"]
+from config.config import COLLECT_SETTINGS
 
 
 def _normalize_alias(text: str) -> str:
@@ -54,13 +52,31 @@ def _build_alias_map(data: dict):
     return result
 
 
+def build_collect_config():
+    return {
+        "max_workers": COLLECT_SETTINGS.get("MAX_WORKERS", 4),
+        "search_result_limit": COLLECT_SETTINGS.get("SEARCH_RESULT_LIMIT", 10),
+        "max_docs": COLLECT_SETTINGS.get("MAX_DOCS_PER_CHARACTER", 8),
+        "min_content_length": COLLECT_SETTINGS.get("MIN_TEXT_LENGTH", 300),
+        "save_raw_text": COLLECT_SETTINGS.get("SAVE_RAW_TEXT", True),
+        "ignore_keywords": COLLECT_SETTINGS.get("IGNORE_KEYWORDS", []),
+        "block_sites": COLLECT_SETTINGS.get("BLOCK_SITES", []),
+        "search_keywords": COLLECT_SETTINGS.get("SEARCH_KEYWORDS", []),
+        "search_suffixes": COLLECT_SETTINGS.get("SEARCH_SUFFIXES", []),
+    }
+
+
+# 기존 코드 호환용
+config = build_collect_config()
+
+
 def build_collect_context(app_state):
     characters_data = app_state.characters or {}
     weapons_data = app_state.weapons or {}
     sets_data = app_state.sets or {}
 
     return {
-        "config": config,
+        "config": build_collect_config(),
 
         "character_names": _build_names(characters_data),
         "weapon_names": _build_names(weapons_data),

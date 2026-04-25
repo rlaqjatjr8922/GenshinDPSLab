@@ -1,0 +1,538 @@
+Home
+/
+Genshin Impact
+/
+Character List
+/
+Xianyun Build
+Xianyun (Cloud Retainer) Guide and Best Builds
+Xianyun (Cloud Retainer) is a 5-star Anemo Catalyst character in Genshin
+Impact who buffs your teams Plunge Attacks and enables other characters to
+now Plunge. Read our Xianyun build guide will focus on her Best Artifacts,
+Team Comps, Ascension Materials and More.
+Last updated
+on
+Sep 27, 2025
+at
+09:00
+by
+Shikhu
+1 comment
+S
+Rank
+Anemo
+Element
+Catalyst
+Weapon
+★
+★
+★
+★
+★
+Rarity
+Stephanie Panisello
+EN Voice Actor
+Nakatomi Mana
+JP Voice Actor
+Xianyun's Strengths & Weaknesses
+Strengths
+Unlocks a new Plunge playstyle for many characters by increasing jump height and buffing Plunge DMG.
+Strong healing allowing them to fit many roles Jean can play while also being on a guaranteed banner.
+Weaknesses
+High Energy Requirements when played without other Anemo characters.
+C1 and C2 provide incredibly significant upgrades to her core functionality.
+1.
+Xianyun (Cloud Retainer) Build Guide, Best Artifacts, Weapons and Talent Priority
+Xianyun is built as both a healer and also as a support who
+enables other characters to deal increased DMG through Plunge Attacks with
+Xianyun's
+Starwicker
+effect from their Elemental Burst.
+BiS Weapon
+Crane's Echoing Call
+Alternative Weapons
+Memory of Dust
+Skyward Atlas
+Cashflow Supervision
+Flowing Purity
+Oathsworn Eye
+Favonius Codex
+Best Artifacts
+Viridescent Venerer
+Noblesse Oblige
+Song of Days Past
+2-Piece +18% ATK Set +18% ATk Set
+Main Stats
+Sand Stats
+: ATK % / Energy Recharge
+Goblet Stats
+: ATK %
+Circlet Stats
+: ATK %
+Substat Priority
+Energy Recharge to requirements
+ATK %
+ATK
+CRIT Rate with
+Favonius Codex
+Talent Priority
+Elemental Burst
+Elemental Skill
+Normal Attack
+Xianyun has many good weapon options in her build. Xianyun's signature weapon
+Crane's Echoing Call
+being her best option providing high ATK,
+reducing Energy requirements and buffing the teams Plunge Attack DMG. Other good
+options in this build include high ATK % weapons such as
+Memory of Dust
+and
+Skyward Atlas
+.
+Build Xianyun's with
+Viridescent Venerer
+much
+like many other
+Anemo
+characters because of the RES Shred.
+However,
+Noblesse Oblige
+and
+Song of Days Past
+are both really good options when you
+cannot swirl elements or when a character is already using Viridescent
+such as
+Xiao
+teams with
+Faruzan
+. You
+may also consider changing Faruzan's build to
+Tenacity of the Millelith
+instead.
+As mentioned, Xianyun wants ATK % and Energy Recharge for her
+artifact build. This is because both her healing from
+Stars Gather at Dusk
+and DMG buffs from
+Consider, the Adeptus in Her Realm
+scale off of ATK.
+4,500 ATK
+is required to hit the cap.
+2.
+Recommended Endgame Build Stats for Xianyun
+Build recommendations assume a "decently built" level of artifact rolls alongside 
+Xianyun's best weapon. Using other weapons may increase or decrease certain stats relative to these recommendations.
+HP:
+16,000 - 18,000
+ATK:
+3500 - 4000
+Energy Recharge:
+See Below
+While 4,500 ATK is Xianyun's cap, it is not easily attainable without 
+specific considerations such as 2-Piece ATK % artifacts, C2, team-wide buffs, 
+Pyro RES or even Bennett's ATK buff (which does not snapshot).
+2.1.
+Xianyun Energy Recharge Requirements
+Xianyun's Energy Recharge depends on if you are playing in a team with
+other
+Anemo
+characters, how many uses of
+White Clouds at Dawn
+are used and any ER gained from builds.
+For example, if anyone is holding a Favonius Weapon.
+No Favonius Weapon
+Favonius Weapon
+Xianyun Using Favonius
+Xianyun Using Crane Echoing
+Solo Anemo | 1 Skill
+230 - 250%
+185 - 230%
+180 - 230%
+150 - 200%
+Solo Anemo | 2 Skills
+170 - 210%
+155 - 190%
+140 - 180%
+110 - 150%
+With Xiao | 1 Skill
+135 - 150%
+125 - 135%
+120 - 130%
+100%
+With Xiao |  2 Skills
+100%
+100%
+100%
+100%
+3.
+Combos and How to Play Xianyun
+Xianyun generally has quite low field-time only really requiring you
+to use your Elemental Skill for Energy and then your Elemental Burst
+afterwards so that your DPS can start dealing high amounts of Plunge DMG.
+White Clouds at Dawn
+is Xianyun's Elemental Skill.
+When triggered, it uses the first instance of
+Skyladder
+and from there you can use 2 more times to gain additional height during
+exploration, deal bigger Driftcloud Wave DMG, and also generate more Energy
+on the plunge of the third use. Energy is only generated on the plunge not
+on use of the skill.
+Xianyun's Elemental Burst
+Stars Gather at Dusk
+is both
+her healing as well as the primary way in which she supports the team. This
+skill summons a
+Starwicker
+allowing you to
+Plunge 8 times on any character to deal massive DMG.
+4.
+Xianyun's Best Team Comps
+Xianyun brings an entirely new playstyle to many characters allowing DPS
+characters to instead focus on Plunging instead of their main method of DPS.
+This can be an overall DPS increase to the following types of characters:
+Characters who already focus on Plunging such as
+Varesa
+,
+Xiao
+and
+Gaming
+;
+Characters with high Plunge Attack scaling such as
+Diluc
+and
+Razor
+;
+Characters who have or provide
+Elemental Infusion
+to themselves or the party.
+For example
+Bennett
+,
+Hu Tao
+,
+Chongyun
+and
+Furina
+(C6) to name a few.
+Additionally, Catalyst characters who have an AoE plunge such as
+Yae Miko
+.
+The
+Elemental Infusion
+aspect is incredibly important because
+Plunge Attacks have no
+Internal Cooldown
+as a result of
+having longer animations meaning every
+Plunge Attack infused with an element will deal Elemental DMG and always
+react with any Elements already on an enemy.
+4.1.
+Xianyun in Plunge DPS Teams
+Main DPS
+Support
+Support
+Support
+Xiao
+Furina
+Bennett
+Faruzan
+Xianyun
+Gaming
+Citlali
+Bennett
+Xianyun
+Varesa
+Xilonen
+Furina
+Iansan
+Xianyun
+Plunge DPS are the characters who naturally benefit the most from Xianyun. Those 
+characters being
+Varesa
+,
+Xiao
+and
+Gaming
+. In Xiao teams, both Xianyun and
+Faruzan
+do not need to both be using
+Viridescent Venerer
+as the effect 
+will be wasted.
+4.2.
+Xianyun in Claymore Character Teams
+Main DPS
+Support
+Support
+Support
+Diluc
+Furina
+Bennett
+Xianyun
+Chongyun
+Furina
+Shenhe
+Xianyun
+Razor
+Mika
+Rosaria
+Xianyun
+Many non-plunge focused Claymore characters can greatly benefit from Xianyun's Plunge Attack
+buff. The main option being
+Diluc
+, 
+who can be supported by both
+Bennett
+and
+Furina
+. Other examples include the
+Chongyun
+and
+Razor
+teams listed where Chongyun's infusion can be
+buffed by
+Shenhe
+and Razor wants to generate
+Superconduct
+to deal increased Physical DMG.
+4.3.
+Xianyun & Hu Tao Plunge
+Main DPS
+Sub DPS
+Support
+Support
+Hu Tao
+Yelan
+Furina
+Xianyun
+With the addition of Xianyun, Plunge
+Hu Tao
+is a powerful
+team especially when paired with
+Furina
+. This changes up her
+classic Charged Attack style gameplay drastically while still focusing on
+Vaporize
+reactions with
+Hydro
+SubDPS such as
+Yelan
+.
+5.
+Xianyun's Ascensions, Talents and Constellations
+Xianyun's Ascensions
+Xianyun's Talents
+Xianyun's Constellations
+5.1.
+Xianyun's Ascension Passives and Materials
+Unlock
+Ascension Passive
+Explanation
+With Character
+Crane Form
+Increases gliding SPD for your own party members by 15%.
+1st Ascension
+Galefeather Pursuit
+Each opponent hit by Driftcloud Waves from
+White Clouds at Dawn
+will grant all nearby party members 1
+      stack of Storm Pinion for 20s. Max 4 stacks. These will cause the
+      characters' Plunging Attack CRIT Rate to increase by 4%/6%/8%/10%
+      respectively.
+Each Storm Pinion created by hitting an opponent has an independent
+      duration.
+4th Ascension
+Consider, the Adeptus in Her Realm
+When the
+Starwicker
+created by
+Stars Gather at Dusk
+has Adeptal Assistance stacks, nearby
+    active characters' Plunging Attack shockwave DMG will be increased by 200%
+    of Xianyun's ATK. The maximum DMG increase that can be achieved this way
+    is 9,000.
+Each Plunging Attack shockwave DMG instance can only apply this
+    increased DMG effect to a single opponent. Each character can trigger
+    this effect once every 0.4s.
+Xianyun requires a range of materials to ascend to the 6th ascension.
+Starting from the second ascension she gains ATK % as she levels,
+giving a total of 28.8% Bonus ATK % at the final ascension.
+The total cost to upgrade all ascensions is:
+Source
+Quantity
+Mora
+420,000 Mora
+Boss Material
+46x
+Cloudseam Scale
+Ascension Material
+1x
+Vayuda Turquoise Sliver
+9x
+Vayuda Turquoise Fragment
+9x
+Vayuda Turquoise Chunk
+6x
+Vayuda Turquoise Gemstone
+Local Specialty
+168x
+Clearwater Jade
+Enhancement Material
+18x
+Divining Scroll
+30x
+Sealed Scroll
+36x
+Forbidden Curse Scroll
+5.2.
+Xianyun's Talents
+Listed below is each talent and a simplified explanation of how they work.
+Type
+Talent Name
+Brief Explanation
+Normal
+Word of Wind and Flower
+Standard catalyst Normal Attack with
+Anemo
+application on hit.
+    Charged Attacks launch a line AoE while Plunging Attacks are normal.
+    Normal Attacks are very rarely used.
+Elemental Skill
+White Clouds at Dawn
+Enters Cloud Transmogrification and immediately uses
+Skyladder
+. Skyladder can then be used up to 2 more
+      times before dealing a Plunging Attack.
+Each use of Skyladder increases AoE DMG of the Plunging Attack and
+      also generates more Energy on the final attack.
+Elemental Burst
+Stars Gather at Dusk
+Summons a
+Starwicker
+allowing you 8 stacks of
+    Adeptal Assistance with 1 stack used per Plunging Attack. Adeptal
+    Assistance increases jump height and deals AoE
+Anemo
+DMG
+    when a stack is used. With
+Consider, the Adeptus in Her Realm
+,
+    Plunging Attack DMG is increased drastically for your on-field character.
+To upgrade a single talent to level 10, it costs:
+Source
+Quantity
+Mora
+1,625,500 Mora
+Special Material
+1x
+Crown of Insight
+Boss Material
+6x
+Lightless Eye of the Maelstrom
+Domain Material
+3x
+Teachings of Gold
+21x
+Guide to Gold
+38x
+Philosophies of Gold
+Enhancement Material
+6x
+Divining Scroll
+22x
+Sealed Scroll
+31x
+Forbidden Curse Scroll
+5.3.
+Xianyun's Constellations
+Aloof From the World
+(C2) is an incredibly powerful
+constellation for Xianyun increasing Healing and Plunge Attack DMG and is
+a great stopping point for many players.
+They Call Her Cloud Retainer
+(C6)
+allows Xianyun to play the role of an on-field DPS, changing up her
+playstyle drastically.
+#
+Name
+Explanation
+C1
+Purifying Wind
+White Clouds at Dawn
+gains 1 additional charge.
+C2
+Aloof From the World
+Increases ATK by 20% after using
+Skyladder
+and buffs
+Consider, the Adeptus in Her Realm
+in the following ways:
+Plunging attack shockwave DMG is increased by 400% of Xianyun's ATK now.
+DMG increase cap has been increased to 18,000.
+Effect triger cooldown is unchanged at 0.4s.
+C3
+Creations of Star and Moon
+Increases the Level of
+Stars Gather at Dusk
+by 3.
+Maximum upgrade level is 15.
+C4
+Mystery Millet Gourmet
+After using
+Skyladder
+and dealing a
+    Plunging Attack (Driftcloud Wave). Heals party by 50/80/150% of
+    Xianyun's ATK depending on Skyladder stacks.
+C5
+Astride Rose-Colored Clouds
+Increases the Level of
+White Clouds at Dawn
+by 3.
+Maximum upgrade level is 15.
+C6
+They Call Her Cloud Retainer
+Increases CRIT DMG of Drifcloud Wave by 15/35/70% depending on
+Skyladder
+uses.
+After Xianyun uses
+Stars Gather at Dusk
+,
+White Clouds at Dawn
+will not enter CD.
+Changelog
+27 Sep. 2025:
+Updated for 6.0.
+05 Jul. 2025:
+Reviewed for 5.7.
+12 Feb. 2025:
+Reviewed for 5.4.
+16 Jan. 2025:
+Updated for 5.3.
+03 Jun. 2024:
+Reviewed for 4.7.
+30 Jan. 2024:
+Guide added.
+Show more
+Show less
+Need any help? Check out our
+General Discussion Forum
+!
+1 comment
+In The Same Category
+Prune Best Builds Guide
+Varka Profile & Talents
+Prune Profile & Talents
+Lan Yan Best Builds Guide
+Jean Best Builds Guide
+Prune Team Guide
+Wanderer Profile & Talents
+Varka Team Guide
+Faruzan Best Builds Guide
+Jahoda Team Guide
+Sucrose Best Builds Guide
+Venti Best Builds Guide
+ABOUT THE AUTHOR
+This guide has been written by Shikhu (Discord - Shikhu), an avid Genshin Impact player who has
+          been exploring Teyvat since the game has launched. He has experienced
+          all the game has to offer from building his favorite characters,
+          exploring the world to clearing Spiral Abyss each rotation. His
+          favorite character being his C6 Furina.
+SUPPORT OUR WRITERS

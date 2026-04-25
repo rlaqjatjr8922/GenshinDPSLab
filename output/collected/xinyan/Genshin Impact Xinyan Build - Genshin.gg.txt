@@ -1,0 +1,184 @@
+Genshin Impact Xinyan Build
+Pyro
+Claymore
+Support
+Xinyan Upgrade Materials
+Gold
+Tusk of Monoceros Caeli
+Agnidus Agate Sliver
+Everflame Seed
+Violetgrass
+Treasure Hoarder Insignia
+Xinyan Best Weapons
+1
+Redhorn Stonethresher
+2
+Skyward Pride
+3
+Serpent Spine
+4
+The Unforged
+5
+Song of Broken Pines
+Xinyan Best Artifacts
+1
+Bloodstained Chivalry
+2
+Pale Flame
+2
+2
+Pale Flame
+4
+3
+Emblem of Severed Fate
+2
+Pale Flame
+2
+4
+Pale Flame
+2
+Shimenawa's Reminiscence
+2
+5
+Noblesse Oblige
+2
+Pale Flame
+2
+Xinyan Best Stats
+Sands:
+ATK% / Energy Recharge
+Goblet:
+Physical DMG
+Circlet:
+CRIT Rate / CRIT DMG
+Substats:
+CRIT Rate / CRIT DMG > ATK% > Energy Recharge
+Character Builds by Genshin Impact Helper →
+Teams
+Talents
+Passives
+Constellations
+Ascension
+Best Xinyan Teams
+Xinyan Superconduct
+Xinyan Mono Pyro
+Xinyan Talents
+Normal Attack
+Dance on Fire
+Normal Attack Performs up to 4 consecutive strikes. Charged Attack Drains Stamina over time to perform continuous spinning attacks against all nearby enemies. At the end of the sequence, perform a more powerful slash. Plunging Attack Plunges from mid-air to strike the ground, damaging enemies along the path and dealing AoE DMG upon impact.
+Elemental Skill
+Sweeping Fervor
+Xinyan brandishes her instrument, dealing
+Pyro
+DMG on nearby enemies, forming a shield made out of her audience's passion. The shield's DMG Absorption scales based on Xinyan's DEF and on the number of enemies hit. Hitting 0-1 enemies grants Shield Level 1: Ad Lib. Hitting 2 enemies grants Shield Level 2: Lead-In. Hitting 3 or more enemies grants Shield Level 3: Rave, which will also deal intermittent
+Pyro
+DMG to nearby enemies. The shield has the following special properties: When unleashed, it infuses Xinyan with Pyro. It has 250% DMG Absorption effectiveness against
+Pyro
+DMG.
+Elemental Burst
+Riff Revolution
+Strumming rapidly, Xinyan launches nearby enemies and deals Physical DMG to them, hyping up the crowd. The sheer intensity of the atmosphere will cause explosions that deal
+Pyro
+DMG to nearby enemies.
+Xinyan Passives
+Ascension 1
+"The Show Goes On, Even Without an Audience..."
+Decreases the number of enemies Sweeping Fervor must hit to trigger each level of shielding. Shield Level 2: Lead-In requirement reduced to 1 enemy hit. Shield Level 3: Rave requirement reduced to 2 enemies hit or more.
+Ascension 4
+"...Now That's Rock 'N' Roll!"
+Characters shielded by Sweeping Fervor deal 15% increased Physical DMG.
+Passive
+A Rad Recipe
+When a Perfect Cooking is achieved on an DEF-boosting dish, Xinyan has a 12% chance to obtain double the product.
+Xinyan Constellations
+Constellation 1
+Fatal Acceleration
+Upon scoring a CRIT hit, increases ATK SPD of Xinyan's Normal and Charged Attacks by 12% for 5s. Can only occur once every 5s.
+Constellation 2
+Impromptu Opening
+Riff Revolution Physical DMG has its Crit rate increased by 100%, and will form a shield at Shield Level 3: Rave when cast.
+Constellation 3
+Double-Stop
+Increases the Level of Sweeping Fervor by 3. Maximum upgrade level is 15.
+Constellation 4
+Wildfire Rhythm
+Sweeping Fervor's swing DMG decrease opponents Physical RES by 15% for 12s.
+Constellation 5
+Screamin' for an Encore
+Increases the Level of Riff Revolution by 3. Maximum upgrade level is 15.
+Constellation 6
+Rockin' in a Flaming World
+Decrease the stamina consumption of Xinyan Charged Attacks by 30%. Additionally, Xinyan Charged Attack gain an ATK bonus equal to 50% of her DEF.
+Xinyan Ascension Costs
+Rank
+Lvl
+Cost
+Material
+Material
+Material
+Material
+1
+20
+20000
+1
+Agnidus Agate Sliver
+3
+Violetgrass
+3
+Treasure Hoarder Insignia
+2
+40
+40000
+3
+Agnidus Agate Fragment
+2
+Everflame Seed
+10
+Violetgrass
+15
+Treasure Hoarder Insignia
+3
+50
+60000
+6
+Agnidus Agate Fragment
+4
+Everflame Seed
+20
+Violetgrass
+12
+Silver Raven Insignia
+4
+60
+80000
+3
+Agnidus Agate Chunk
+8
+Everflame Seed
+30
+Violetgrass
+18
+Silver Raven Insignia
+5
+70
+100000
+6
+Agnidus Agate Chunk
+12
+Everflame Seed
+45
+Violetgrass
+12
+Golden Raven Insignia
+6
+80
+120000
+6
+Agnidus Agate Gemstone
+20
+Everflame Seed
+60
+Violetgrass
+24
+Golden Raven Insignia
+Loading...

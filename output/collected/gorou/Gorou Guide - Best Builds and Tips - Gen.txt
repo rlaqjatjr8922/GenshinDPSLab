@@ -1,0 +1,177 @@
+Task Search
+Checklists
+Guides
+Markers
+Videos
+Sort and Filter
+No Results
+Checklists
+New Checklist
+All Lists
+My Checklists
+All
+All Lists
+My Checklists
+How creative can you get with your first free checklist?
+Create a free account
+All Interactive Maps and Locations
+Gorou Guide - Best Builds and Tips
+By
+Cedric Pabriga
+,
+Jen Rothery
+,
+Triforce
+,
++30 more
+Updated
+:
+Jan 18, 2022 7:35am UTC
+This page is part of IGN's Genshin Impact Wiki guide and details everything you need to know about Gorou, which includes a full character overview, how to obtain Gorou, combat details, talents, and skill upgrade priorities, a recommended character build, and much more.
+The General of the Watatsumi Army is here to lend his powers to your party! He provides buffs, heals with the proper constellations, and an adorable elemental burst!
+Gorou Character Overview
+How to Get Gorou
+Combat Details
+Gorou's Talents and Skill Priorities
+Gorou's Constellations
+Best Gorou Character Builds
+Best Gorou for Albedo
+Best Artifacts for Gorou
+Want to see how Albedo compares to other characters in Genshin Impact? Check out our complete
+Genshin Impact Tier List
+that ranks every character from Best to Worst.
+Gorou Character Overview
+Gorou is the General of the Watatsumi Army who's led the fight against the vision decree in Inazuma. Together with Kokomi, they both led the army from seemingly impossible to win situations and emerge victoriously.
+How to Get Gorou
+Gorou is a 4-star character available in various character banners. The best time to roll for Gorou would be whenever he's featured as a 4-star rate up in that certain banner. This will increase your chances of getting him.
+Combat Details
+Gorou is a Geo character specializing in buffing his team. As a general, he leads the charge and boosts the morale of the team behind him. His kit is seen as very niche as it heavily benefits Geo characters more than anything else. This is why one of the most common team that features Gorou would be a 3-Geo team, namely: Arataki Itto, Gorou, Albedo, and a battery in the form of Raiden Shogun.
+Gorou's Talents and Skill Priorities
+The main reason Gorou is considered a niche character is that his kit mostly just benefits Geo characters. His elemental skill's effect is dependent on how many geo characters are in the team. You mostly want to max that out, especially if you're running a Geo Main DPS.
+For talent priorities, go for:
+Elemental Skill
+Elemental Burst
+Type
+Name
+Effect
+Normal Attack
+Ripping Fang Fletching
+Normal Attack
+Perform up to 4 consecutive shots with a bow.
+Charged Attack
+Perform a more precise Aimed Shot with increased DMG.
+While aiming, stone crystals will accumulate on the arrowhead. A fully charged crystalline arrow will deal Geo DMG.
+Plunging Attack
+Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.
+Elemental Skill
+Inuzaka All-Round Defense
+Deals AoE Geo DMG and sets up a General's War Banner.
+General's War Banner
+Provides up to 3 buffs to active characters within the skill's AoE based on the number of Geo characters in the party at the time of casting:
+1 Geo character: Adds "Standing Firm" - DEF Bonus.
+2 Geo characters: Adds "Impregnable" - Increased resistance to interruption.
+3 Geo characters: Adds "Crunch" -
+Geo DMG Bonus.
+Gorou can deploy only 1 General's War Banner on the field at any one time.
+Characters can only benefit from 1 General's War Banner at a time. When a party member leaves the field, the active buff will last for 2s.
+Hold
+Adjust the location of the skill.
+Elemental Burst
+Juuga: Forward Unto Victory
+Displaying his valor as a general, Gorou deals AoE Geo DMG and creates a field known as General's Glory to embolden his comrades.
+General's Glory
+This field has the following properties:
+Like the General's War Banner created by Inazuka All-Round Defense, provides buffs to active characters within the skill's AoE based on the number of
+Geo
+characters in the party. Also moves together with your active character.
+Generates 1 Crystal Collapse every 1.5s that deals AoE Geo DMG to 1 opponent within the skill's AoE.
+Pulls 1 elemental shard in the skill's AoE to your active character's position every 1.5s (elemental shards are created by Crystallize reactions).
+If a General's War banner created by Gorou currently exists on the field when his ability is used, it will be destroyed. In addition, for the duration of General's Glory, Gorou's Elemental Skill "Inazuka All-Round Defense" will not create the General's War Banner.
+If Gorou falls, the effects of General's Glory will be cleared.
+First Ascension Passive
+Heedless of the Wind and Weather
+After using Juuga: Forward Unto Victory, all nearby party members' DEF is increased by 25% for 12s.
+Fourth Ascension Passive
+A Favor Repaid
+Gorou receives the following DMG Bonuses to his attacks based on his DEF:
+Inuzaka All-Round Defense: Skill DMG increased by 156% of DEF
+Juuga: Forward Unto Victory: Skill DMG and Crystal Collapse DMG increased by 15.6% of DEF
+Passive Talent
+Seeker of Shinies
+Displays the location of nearby resources unique to Inazuma on the mini-map.
+Gorou's Constellations
+Gorou is a perfectly fine character without his constellations but C4 is where things can really get spicy for Gorou. C4 makes Gorou a really good healer if you stacked DEF for his stat. C6 will make him a powerhouse in Geo teams.
+Constellation Name
+In-Game Description
+Rushing Hound: Swift as the Wind (C1)
+When characters (other than Gorou) within the AoE of Gorou's General's War Banner or General's Glory deal Geo DMG to opponents, the CD of Gorou's Inuzaka All-Round Defense is decreased by 2s. This effect can occur once every 10s.
+Sitting Hound: Steady as a Clock (C2)
+While General's Glory is in effect, its duration is extended by 1s when a nearby active character obtains an Elemental Shard from a Crystallize reaction. This effect can occur once every 0.1s. Max extension is 3s.
+Mauling Hound: Fierce as Fire (C3)
+Increases the level of Inuzaka All-Round Defense by 3.
+Maximum upgrade level is 15.
+Lapping Hound: Warm as Water (C4)
+When General's Glory is in the "Impregnable" or "Crunch" states, it will also heal active characters within its AoE by 50% of Gorou's own DEF every 1.5s.
+Striking Hound: Thunderous Force (C5)
+Increases the level of Juuga: Forward Unto Victory by 3.
+Maximum upgrade level is 15.
+Valiant Hound: Mountainous Fealty (C6)
+For 12s after using Inuzaka All-Round Defense or Juuga: Forward Unto Victory, increases the CRIT DMG of all nearby party members' Geo DMG based on the buff level of the skill's field at the time of use:
+"Standing Firm": +10%
+"Impregnable": +20%
+"Crunch": +40%
+This effect cannot stack and will take reference from the last instance of the effect that is triggered.
+Best Gorou Character Builds
+Gorou heavily benefits from energy recharge. His elemental burst needs 80 energy to activate, making him one of the characters that are on the higher edge of the spectrum. Aside from that, he also benefits a lot from DEF as some of his skills use this as modifier.
+Best Weapons for Gorou
+As mentioned earlier, Gorou benefits from having energy recharge as substat. These bows work great for Gorou.
+Weapon Name
+In-Game Description
+Favonious Warbow
+CRIT hits have a 60% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 12s.
+Elegy for the End
+A part of the "Millennial Movement" that wanders amidst the winds.
+Increases Elemental Mastery by 60.
+When the Elemental Skills or Elemental Bursts of the character wielding this weapon hit opponents, that character gains a Sigil of Remembrance.
+This effect can be triggered once every 0.2s and can be triggered even if said character is not on the field. When you possess 4 Sigils of Remembrance, all of them will be consumed and all nearby party members will obtain the "Millennial Movement: Farewell Song" effect for 12s. "Millennial Movement: Farewell Song" increases Elemental Mastery by 100 and increases ATK by
+20
+%. Once this effect is triggered, you will not gain Sigils of Remembrance for 20s. Of the many effects of the "Millennial Movement," buffs of the same type will not stack.
+Best Artifacts for Gorou
+Since Gorou benefits from both DEF and Energy Recharge, the best combination for him would be a 2 piece Husk of Opulent Dreams and 2 piece Emblem of Severed Fate.
+For substats, go for Energy Recharge sands, DEF%/Geo Damage Goblet, and a DEF Circlet.
+Artifact Name
+In-Game Description
+Husk of Opulent Dreams
+2-piece effect: DEF +30%
+4-piece effect: A character equipped with this Artifact set will obtain the Curiosity effect in the following conditions: When on the field, the character gains 1 stack after hitting an opponent with a Geo attack, triggering a maximum of once every 0.3s. When off the field, the character gains 1 stack every 3s. Curiosity can stack up to 4 times, each providing 6% DEF and a 6% Geo DMG Bonus. When 6 seconds pass without gaining a Curiosity stack, 1 stack is lost.
+Emblem of Severed Fate
+2-piece effect: Energy Recharge +20%
+4-piece effect: Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.
+Don't forget to check out our
+Characters
+page, where you'll find a full list of
+every character in Genshin Impact
+, along with details regarding their combat
+stats
+, recommended builds, and even more.
+Up Next:
+Genshin Impact Hu Tao Build Guide - Best Builds and Tips
+Previous
+Ganyu Build Guide, Best Weapon, Artifacts, and Team
+Next
+Genshin Impact Hu Tao Build Guide - Best Builds and Tips
+Top Guide Sections
+Genshin Impact Luna VI Details and Patch Notes
+Genshin Impact Luna IV Release Time and Details
+Genshin Impact Luna III Details and Patch Notes
+Genshin Impact Luna II Release Date and Details
+Was this guide helpful?
+Leave feedback
+In This Guide
+Genshin Impact
+HoYoverse
+Initial Release:
+Sep 27, 2020
++2
+Learn more
+Go to comments

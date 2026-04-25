@@ -1,0 +1,313 @@
+Home
+»
+Genshin Impact
+»
+Guides
+»
+Genshin Impact Furina Build Guide | Furina Best Weapons, Artifacts and Teams
+Genshin Impact Furina Build Guide | Furina Best Weapons, Artifacts and Teams
+Learn how to make the best Furina build in Genshin Impact with this easy guide that looks at the Hydro Archon's whole kit and explains what her best weapons are, what artifacts you should be using and what F2P or premium teams she belongs in. Furina is our fifth Archon and, as the God of Hydro, she embodies the dual-sided nature of the element perfectly.
+Jack Carson
+2023-11-08
+All content for:
+Genshin Impact
+The next Archon has finally become playable in
+Genshin Impact
+with the addition of Furina, the Hydro Archon, in version 4.2. As the God of Justice and warden to the land of Fontaine, Furina and the people she rules are very different to any other nation in Teyvat: they revel in crime and punishment, treating the world and its atrocities like theatre, as oncoming tragedy inches ever closer. Furina is strange, aloof and quite human when compared to her Archon counterparts. In gameplay, whether it be Zhongli’s ultimate defence or the Raiden Shogun’s unparalleled ability to regen energy, Archons exemplify the strengths of their element and Furina is no different, marrying the two opposing sides of Hydro to make a summon-focused kit capable of incredible damage and healing all at once
+Here’s how to make the best Furina build in
+Genshin Impact
+. This will include a deep dive into Focalors’ whole kit and suite of abilities, what order you prioritise levelling her Talents in, what her best 5-star and 4-star weapons are, what artifact sets you should put on her and what premium and F2P team compositions Furina fits into.
+Want more
+Genshin Impact
+content? You can check out more character-build guides and more here on KeenGamer:
+Genshin Impact
+Neuvillette Build Guide | Neuvillette Best Weapon, Artifacts and Teams
+Genshin Impact
+Lynette Build Guide | Lynette Best Weapon, Artifacts and Teams
+Genshin Impact
+Wriothesley Build Guide | Wriothesley Best Weapon, Artifacts and Teams
+Genshin Impact
+Spiral Abyss Guide (Version 4.1)
+Genshin Impact
+: Ayamiya (Yoimiya + Ayaka) Genius Invokation TCG Deck Guide
+Table of Contents
+hide
+Furina Ascension Materials
+Furina Kit Overview in Genshin Impact
+Soloist’s Solicitation (Normal Attack)
+Salon Solitaire (Elemental Skill)
+Let the People Rejoice (Elemental Burst)
+Furina’s Passive Talents
+Furina Talent Priority Order in Genshin Impact
+All Furina Constellations in Genshin Impact
+Furina’s Best Weapons in Genshin Impact
+Furina’s Best in Slot Weapon: Splendor of Tranquil Waters
+Recommended Replacement Weapons for Furina
+Furina’s Best Artifact Sets
+Most Important Furina Main Stats and Substats in Genshin Impact
+Best Teams for Furina in Genshin Impact
+Premium Furina Permafreeze Team
+Premium Furina Bloom Team
+F2P Furina Team
+Furina Ascension Materials
+Starting off, let’s go over the Ascension Materials Furina needs to reach the maximum level in
+Genshin Impact
+. To hit level 90, you’ll need to collect plenty of the following materials for the Hydro Archon:
+Lakelight Lily
+(Fontaine Local Speciality)
+Varunada Lazurite Sliver / Varunada Lazurite Fragment / Varunda Lazurite Chunk / Varunada Lazurite Gemstone
+(Hydro Elemental Gemstones)
+Whopperflower Nectar / Shimmering Nectar / Energy Nectar
+(Enemy Drop Materials)
+Water That Failed To Transcend
+(World Boss Material)
+The first material Furina needs is one of Fontaine’s many local specialities. To be more specific, she needs the Lakelight Lily, a new Fontaine-exclusive flower that you can find primarily in the Erinnyes Forest. These flowers are strange bulbs of blue, looking more like droplets of water than any actual plant. In total,
+you’ll need to collect 168 Lakelight Lillies to reach level 90 with Furina
+. If you need some help finding them, you can either use Lyney’s Passive Talent to highlight nearby Fontaine materials on the mini-map or
+check out the Lakelight Lilly’s exact locations on the Teyvat Interactive Map
+once 4.2 releases.
+Speaking of flowers, Furina demands more of them if you’re to fully ascend her, meaning that you’ll need to chase down one of
+Genshin’s
+earliest enemy types: Whopperflowers. These sneaky buggers hide in the ground disguised as real plants, attacking any unlucky enough to try and pluck them. Whopperflowers can be found all over Teyvat, meaning that you can use the Adventurer’s Handbook to easily track down all the nectar you need. To hit max ascension level,
+Furina needs 18 Whopperflower Nectar, 30 Shimmering Nectar and 32 Energy Nectar
+.
+A Quick Stop for Tea
+Alongside Furina herself, Version 4.2 added a new World Boss to Fontaine in the form of the Hydro Tulpas, a massive hulking abomination made of water. During your fight with the Tulpas, several smaller Half-Tulpas creatures will constantly spawn and attack you, with the main Tulpas being capable of absorbing these mini-monsters to grow stronger. If you beat the Tulpas and spend 40 Resin, you’ll be able to get your hands on the Water That Failed To Transcend,
+a new World Boss Materials which Furina needs 46 of to hit max level
+.
+The final set of materials Furina needs to collect are the Hydro Elemental Gemstones. Every
+Genshin
+character needs to amass Elemental Gems correlating to the element of their Vision and even Archons aren’t exempt from the collection process. To pick up Hydro variants of the Gems, you can either battle Hydro-aligned World Bosses such as the Hydro Hypostasis, get them through completing Daily Commissions or upcycle and exchange Gemstones at the Alchemy Table. In total,
+Furina asks for 1 Lazurite Sliver, 9 Lazurite Fragments, 9 Lazurite Chunks and 6 Lazurite Gemstones
+.
+To tie it all together, you’ll also need to acquire a good deal of EXP Books and Mora to get Furina all the way up to the max level. Overall, you’ll need to get the equivalent of 420k Mora and 416 Hero’s Wit EXP Books to hit that peak of level 90.
+The Hydro Archon of Justice
+Furina Kit Overview in Genshin Impact
+Soloist’s Solicitation (Normal Attack)
+Beginning the breakdown of Furina’s core kit in
+Genshin Impact
+, we have
+Soloist’s Solicitation
+, her Normal Attack Talent. As expected of an Archon, Furina’s normal attack string of four consecutive strikes is flashy and stylish, dealing damage to opponents based on her ATK stat.
+The most important part of Furina’s Normal Attack is actually her Charged Attack. When used, it consumes a certain amount of Furina’s stamina to unleash a solo dance that deals Physical DMG to nearby opponents and changes her Arkhe alignment: unlike most Fontaine characters, Furina has access to both Pneuma and Ousia and she can switch between them on the fly using her Charged Attack. This also means that her Arkhe ability, Seats Sacred and Secular, can deal either Spiritbreath Thorn or Surging Blade DMG on Normal Attack hits depending on which alignment she is currently in.
+When compared to the rest of Furina’s kit,
+Soloist’s Solicitation
+becomes a very vital part of her playstyle despite low overall damage. Multiple parts of her kit revolve around switching between Ousia and Pneuma Arkhe alignment and knowing when you should use her CA to switch is something Furina mains will have to learn if they want to pull use her most efficiently. Additionally, the ability to change Arkhe on the fly makes her an excellent fit for Fontaine exploration.
+Normal Attacks
+Salon Solitaire (Elemental Skill)
+Next up is perhaps Furina’s most important ability, her Elemental Skill
+Salon Solitaire
+. This one ability is the crux of her entire playstyle and, depending on how you use it, can shape Furina into everything from a main DPS to a sub-DPS or even a support. When cast, Furina summons the guests of the Salon Solitaire to come forth and abet her performance, with the summoned creatures changing based on her Akhe alignment. If you reuse her Charged Attack while the summons is present on the field, their lineup will switch in response.
+When in the Ousia alignment, Furina will deal Hydro AoE DMG based on her max HP to summon the Salon Members
+, a trio of summonable creatures with just as much flair and style as Furina herself. There’s the Ball Octopus-shaped Gentilhomme Usher, the Bubbly Seahorse-shaped Surintendante Chevalmarin and the Armored Crab-shaped Mademoiselle Crabaletta and they will each attack nearby opponents, priotising the target of the active character. It is important to mention that, if you have members in your party who are above 50% current HP, the Salon Members will consume a portion of their health to increase their own damage output: in fact, the guests can drain the HP of all 4 party members, drastically boost their DMG.
+Alternatively,
+if Furina is in the Pneuma alignment, she will instead summon the Singer of Many Waters
+. This summon is a lot more straightforward, with the Singer healing any active character based on Furina’s Max HP at set intervals. Lastly, while just a cute cosmetic feature, Furina is capable of walking on the surface of the water while the Salon Members or Singer of Many Waters are on the field, similar to Kokomi.
+These summons are easily the most important part of Furina’s kit in
+Genshin Impact
+. In the Ousia alignment, Furina takes Fontaine’s health-draining obsession to its zenith by consuming the health of her fellow party members for a massive boost to her off-field damage output, transforming her into a high-risk, high-reward sub-DPS. Meanwhile, the ability to instantly switch all that damage to a potent heal allows her to become a supportive healer at the press of a button. Furina is one of the most versatile Hydro units in all of
+Genshin Impact
+, personifying the high damage and supportive capabilities of the element perfectly.
+Attack Summons
+Healing Summon
+Let the People Rejoice (Elemental Burst)
+The final one of Furina’s core abilities is her Elemental Burst
+Let the People Rejoice
+which mainly serves as a companion ability for her Skill. When cast, Furina rouses the impulse to revel, creating a stage of foam that will deal AoE Hydro DMG based on Furina’s Max HP and cause nearby party members to enter the Universal Revelry state. During this time, whenever a party member’s HP increases or decreases, 1 Fanfare Point will be generated for Furina, with the exact total of points being governed by the amount of health earned or lost.
+While in possession of Fanfare Points, Furina’s DMG and the Incoming Healing Bonus of all nearby party members will be increased based on the amount of Fanfare she has accrued. When the 18s duration of
+Let the People Rejoice
+ends, Furina’s Fanfare points will dissipate.
+This entire Burst centres on your ability to track and maintain constant fluctuations in your party’s health pool, whether that be through consumption or healing. As such, Furina’s Skill is the best pairing for it as, depending on your Alignment, you’ll either be constantly losing health to fuel the Salon Members or regaining said health via the Singer. Additionally, this Burst also pairs very well with other health reduction characters such as Hu Tao or anyone from Fontaine, giving Furina a wide selection of potential team members to choose from. This Burst simply allows Furina to do her job more efficiently, whether that’s as a sub-DPS or as a healer.
+Elemental Burst
+Furina’s Passive Talents
+Of course, alongside her core abilities and Talents, Furina has three more Passive Talents that she can utilise, with each unlocking at a different Ascension Level. Furina’s first passive,
+The Sea Is My Stage,
+is active from level 1 and it decreases the CD (cooldown) of Xenochromatic Fontemer Abberant abilities by 30%. Fontemer Abberants are strange creatures that you’ll find throughout Fontaine’s waters and their abilities are often crucial to solving various puzzles in the open world. While not very useful outside of Fontaine, this Passive, paired with Furina’s Arkhe switching abilities, makes her a must-pick unit when exploring the Land of Justice.
+Next is Furina’s Character Ascension 2 Talent,
+Endless Waltz.
+When an active character in your party receives healing from a source other than Furina herself and that healing overflows (the health exceeds the active character’s max HP), Furina will heal a nearby party member for 2% of their Max HP once every 2s within the next 4s. This Passive, as well as some of Furina’s other quirks, makes it clear that Furina should probably be run alongside another healer, despite her own healing abilities with the Singer. With that in mind,
+Endless Waltz
+allows you to play into Furina’s risky summon playstyle more confidently, as you know that Furina will be on the backline keeping the rest of your party alive while your active is slaying out.
+Lastly,
+Unheard Confession
+is her Ascension 4 Passive Talent and it buffs the different Arkhe-aligned effects of her Skill for every 1000 points of Max HP she has. For the Salon Members, their damage dealt will increase by 0.7%, up to a maximum of 28%, for every 1000 HP Furina has. Meanwhile, for the Singer of Many Waters, each 1000 HP Furina possesses will decrease the active character’s healing interval by 0.4%, up to a maximum of 16%, allowing them to be healed more often. HP was already Furina’s most important stat for both healing and damage and this Passive Talent just adds another factor to work towards.
+Overall,
+Furina’s Passive Talents are mainly a way for her to double down on her already existing strengths rather than as a way to fix any of her weaknesses
+. Her A2 Talent makes her healing abilities more reliable while pushing her more into compositions with another healer, whereas her A4 simply gives her another incentive to stack as much HP as possible. What they do highlight, though, is how versatile Furina is: Archons always embody the best parts of their element and Furina’s way of personifying Hydro seems to be by embracing both the offensive-oriented side we see with Childe or Ayato and the support-focused side we see in Barbara, Kokomi or Xingqiu.
+It’s Showtime!
+Furina Talent Priority Order in Genshin Impact
+Salon Solitaire
+(Elemental Skill)
+Let the People Rejoice
+(Elemental Burst)
+Soloist’s Solicitation
+(Normal Attacks)
+From everything we’ve already discussed regarding Furina’s intended playstyle and build,
+it should be obvious that her Skill is the number one priority when it comes to levelling Talents
+. Not only is her Skill the main way Furina will be contributing to the team in terms of damage, Reactions and healing, but it is also the basis of most of her other abilities, including her Arkhe alignment changes or Passive Talents. Too much of Furina is focused on her Skill to ignore it, meaning that, no matter if you’re running a sub-DPS Furina build or a support Furina build, her Skill should be at the top of the list.
+Following on from that is her Ultimate,
+Let the People Rejoice
+. While it doesn’t deal any damage and serves mainly as an amplifier for her Skill, that’s all it really needs to do to have value: with a Skill as strong and as versatile as Furina’s, the ability to make it stronger and better with a Burst is excellent. The fact that it can be contributed to by other healers or health consumers on the team adds additional stability and consistency, too. Of course, because it is so reliant on Furina’s Skill, you shouldn’t rush levelling this instead of
+Salon Solitaire
+but do keep it in mind when levelling.
+Then, in last place, we have Furina’s Normal Attacks,
+Soloist’s Solicitation
+. Simply put, in most Furina builds and team comps, she isn’t the one who’s going to be the on-field DPS whacking things with her Sword: instead, she’s going to be hopping on and off the field, summoning her little guys before disappearing to watch the show unfold, only coming back if the active character needs healing. Furina’s playstyle is very much that of an off-field sub-DPS or support and her Normal Attacks just don’t mesh with that playstyle. With that said, her NAs have some fantastic animations and, with some support, it is possible to make Furina the main carry. Just don’t focus on investing in it at the detriment or neglect of your other abilities.
+Endless Sea of Solitude
+All Furina Constellations in Genshin Impact
+Next up, let’s go over all six of Furina’s Constellations in
+Genshin Impact
+. If you manage to pull a duplicate copy of a character you’ve already received, you’ll instead receive that character’s Stella Fortuna, an item you can then use to awaken their Constellations. As a limited 5-Star character, you can only get Furina’s Stella Fortuna by getting lucky while her Limited Character Wish, Chanson of Many Waters, is still ongoing. Once Furina’s banner ends, you’ll need to wait until it reruns to get another shot at her Cons.
+Love Is a Rebellious Bird That None Can Tame
+: When using Let the People Rejoice, Furina will gain 150 Fanfare. Additionally, Furina’s Fanfare limit is increased by 100, going from a maximum of 300 stacks to 400 stacks.
+A Woman Adapts Like Duckweed in Water
+: While Let the People Rejoice lasts, Furina’s Fanfare gain from increases or decreases in nearby characters’ HP is increased by 250%. Each point of Fanfare above the limit will increase Furina’s Max HP by 0.35%. Her maximum Max HP increase is 140%.
+My Secret Is Hidden Within Me, No One Will Know My Name
+: Elemental Burst Lv. + 3.
+They Know Not Life, Who Dwelt in the Netherworld Not!
+: When the Salon Members from Salon Solitaire hit an opponent, or the Singer of Many Waters restores HP to the active character, Furina will restore 4 Energy. This effect triggers once every 5s.
+His Name I Now Know, It Is…!
+: Elemental Skill Lv. +3.
+Hear Me – Let Us Raise the Chalice of Love!
+: When using Salon Solitaire, Furina gains the Centre of Attention buff for 10s which makes Furina’s Normal Attacks, Charged Attacks, and Plunging Attacks convert into Hydro DMG which cannot be overridden. This also increases the damage of said attacks by 18% of Furina’s max HP. Additionally, depending on Furina’s Arkhe alignment, Furina’s attacks will cause different effects to occur: in the Ousia alignment, all characters will be healed by 4% of Furina’s max HP every 1s whereas, in the Pneuma alignment, Furina will consume 1% of all ally’s HP each attack to increase ground impact damage by 25% of her max HP.
+As for which Furina Constellations are the best,
+her C1 and C2 are both excellent at getting more out of her Burst
+, allowing you to ramp up damage and healing at a much faster pace. Meanwhile, her C6 is a really interesting Constellation which will allow Furina to more comfortably step into the role of a main on-field DPS, especially because of the Hydro infusion and damage boost her NAs receive.
+Applause and an Encore
+Furina’s Best Weapons in Genshin Impact
+Furina’s Best in Slot Weapon: Splendor of Tranquil Waters
+An Archon deserves the best in terms of weaponry and,
+for Furina, her best in-slot weapon in
+Genshin Impact
+is easily the Splendor of Tranquil Waters
+. This 5-Star Sword is Furina’s signature weapon that launched alongside her, meaning that it will be available on the Weapon Wish Banner while Chanson of Many Waters (Furina’s Banner) is still ongoing. As for why it’s so good on her, Splendor is another opportunity for Furina to double down on her damage and healing capabilities, drastically increasing both in the process.
+At the maximum level, Splendor of Tranquil Waters will provide the wielder 542 ATK and an incredible 88.2% CRIT DMG, making it one of the highest CRIT DMG weapons in all of
+Genshin
+. The wielder will also gain access to the Dawn and Dusk by the Lake weapon skill which has two different effects based on health fluctuations. When the equipping character’s current HP increases or decreases, Elemental Skill DMG increases by 8% for 6s, which stacks up to 3 times for a 24% boost. Meanwhile, when other party member’s current HP increases or decreases, the equipping character’s Max HP will be increased by 14%, instead, which can stack up to 2 times. Both effects can still trigger even when the wielder is off the field.
+Thanks to how Furina’s Skill works and her reliance on it, this weapon complements her perfectly. By simply casting the Skill in either Arkhe alignment, you’ll start draining both Furina’s HP and her ally’s HP, instantly earning you max stacks of both effects. Additionally, the increase in Furina’s Max HP is another thinly veiled way of boosting her damage output, as the damage of her attendants is based on her Max HP. As such,
+no matter what kind of stacks you’ll be receiving from Dawn and Dusk by the Lake, Furina will greatly benefit across her entire kit
+, especially when it comes to damage.
+Pair that with the absurd CRIT DMG increase and you have a killer weapon befitting the Archon of Justice. If you can spare the Primogems and are looking to boost the output of your Furina, consider pulling for the Splendor of Tranquil Waters in
+Genshin Impact
+.
+Splendor of Tranquil Waters, Furina’s Best in Slot
+Recommended Replacement Weapons for Furina
+Alas, not everyone will be so lucky to get the Splendor. Whether you’re broke from pulling on Furina herself or are simply saving for a future character, many Travelers are going to need some replacement Swords for their Hydro Archon. Fortunately, there are several great options, especially several new Swords introduced with Fontaine itself.
+Before we discuss our recommendations, it is worth mentioning that all of them are going to be 4-star in rarity. While it is undoubtedly true that 5-star Swords such as the Aquilla Favonia, Key of Khaj-Nisut or Primordial Jade Cutter are definitely going to be stronger, they’re also much harder to obtain than the various 4-star options the game has. However, if you’re lucky enough to have any of the aforementioned weapons, give them a spin on Furina before committing to a lesser option.
+With that said,
+the best 4-star weapons for Furina in
+Genshin Impact
+are the Festering Desire, Wolf-Fang and Fleuve Cendre Ferryman
+.
+Festering Desire
+Beginning with the most difficult Sword on the list to obtain, we have the Festering Desire. Only veteran
+Genshin
+players will have this weapon, which was the main event reward from version 1.2’s The Chalk Prince and the Dragon, making it a very rare and elusive weapon. At level 80, Festering Desire gives the wielder 509 ATK alongside a 45.94% CRIT Rate boost. Additionally, Undying Admiration will increase Elemental Skill DMG by 16% (up to 32% at R5) and Elemental Skill CRIT Rate by 6% (up to 12% at R5). This weapon is sweet, simple and straightforward,
+massively boosting Furina’s main source of damage without needing to juggle buffs or health fluctuations
+. If you are lucky enough to have this weapon, definitely consider putting it on her.
+After the Festering Desire, we have one of the newest Swords in
+Genshin Impact
+, the Wolf-Fang. This weapon is one of the ten choices available once you hit level 30 on the Battle Pass. At level 80, it gives 510 ATK with a 27.6% CRIT Rate boost and access to the Northwind Wolf ability. This increases DMG dealt by the wielder’s Elemental Skill and Burst by 16% and increases the CRIT Rate of each ability by 2% whenever they hit an opponent, stacking up to 4 times with a 10s duration. The Elemental Burst portion of the weapon skill doesn’t apply to Furina, but the Skill DMG and CRIT Rate increase essentially turn this into a new-players substitute for Festering Desire.
+Finally, we have the Fleuve Cendre Ferryman, a very funny-looking Sword that you can acquire as a reward from Fontaine’s Fishing Association. Despite the blunt appearance of this metal pipe, it can put in a lot of work, providing the wielder with 510 ATK and 45.9% Energy Recharge at level 80. The Ironbone affix increases the Elemental Skill CRIT Rate by 8% while also increasing Energy Recharge by 16% for 5s after using an Elemental Skill. Like the other Swords in this list, any improvement to Furina’s Elemental Skill is superb, with the CRIT Rate boost making it an excellent option for consistency. Also, the boatloads of Energy Recharge from this weapon will make it easy to get Furina’s Burst back quickly.
+Fleuve Cendre Ferryman
+Furina’s Best Artifact Sets
+Aside from weapon and team choice, choosing an artifact set for your character is possibly the most impactful part of choosing a build in
+Genshin Impact
+. For Furina, her focus on Elemental Skill DMG alongside a need for as much HP as possible opens the door for several different artifact combinations. With that in mind, there are two primary paths you should consider taking when it comes to deciding on Furina’s artifact build.
+The first choice for Furina is a full artifact set, allowing you to benefit from the set’s powerful 4-piece bonus as well as the 2-piece one to make her Elemental Skill hit like a truck. For this Furina build,
+you’ll want to run full 4-piece Golden Troupe
+. This new artifact set was introduced in Fontaine and focuses entirely on Elemental Skill damage output. With the full set equipped, Furina will get 20% Elemental Skill DMG from the 2-piece and another 25% Elemental Skill DMG from the 4-piece, with the ability to get an additional 20% Skill DMG when that character is off the field.
+As you can tell, this set goes all in on Furina’s Skill, improving its damage output by up to 65% when she isn’t on the field. In most circumstances, Furina will play best as an off-field DPS, meaning that you will be constantly under that 65% boost, improving her Skill damage significantly. This artifact perfectly ties into Furina’s preferred playstyle without including any obtuse or confusing mechanics or buffs that need to be juggled: like the Festering Desire, it’s simple, straightforward and ridiculously effective. Of the two sets we’re about to recommend, full-piece Golden Troupe is definitely the way to go for most Furina builds in
+Genshin
+.
+Full Golden Troupe Set
+However, there is another option for those determined to make Furina work as either an on-field DPS or more of a support unit. In that circumstance,
+you should run 2-piece Golden Troupe alongside 2-piece Vourukasha’s Glow (or Tenacity of the Mililleth) for your Furina build
+, instead. This will still allow her to benefit from the 20% Elemental Skill DMG from Golden Troupe while also gaining 20% HP from Vourukasha’s set bonus.
+While it is true that more HP will indeed increase Furina’s DMG output, the extra HP in this circumstance will also allow her to heal more with Singer of Many Waters. Additionally, without the pressure of needing to keep Furina off-field for that extra 20% DMG bonus, her playstyle becomes a lot more freeing and you even have the potential to run her as a main DPS. Of course, we still recommend going for that full Golden Troupe in most scenarios but 2-piece Troupe and 2-piece Vourukasha’s certainly have a place in certain compositions and situations.
+Hybrid Golden Troupe and Vourukasha’s Glow
+Most Important Furina Main Stats and Substats in Genshin Impact
+Artifact set bonuses are only one side of the artifact coin, with the other being the main and substats which roll on the artifacts themselves. Because of her reliance on HP to facilitate both high damage and healing, Furina is fortunately very easy to build for in terms of main and sub-stats. With that in mind, here are the main stats you should be looking for on Furina’s Hourglass, Goblet and Circlet pieces:
+Hourglass (Sands):
+HP%
+Goblet:
+Hydro DMG Bonus / HP%
+Circlet:
+CRIT DMG
+While main stats are the most impactful, sub-stats are just as important for rounding out your build. As such, here are the substats you need to be on the lookout for when farming Furina’s artifacts as well as their priority order so you can know which stats to prioritise:
+HP%
+CRIT DMG
+Elemental Mastery
+Energy Recharge
+Furina’s Attendants
+Best Teams for Furina in Genshin Impact
+Premium Furina Permafreeze Team
+As one of the most versatile Hydro units in the game, Furina has a lot of different team compositions that she can fit into, with the best ones allowing her to fulfil her primary role as off-field DPS and support most effectively. It’s also important to think of team members who can work alongside Furina’s abilities, such as her A2 Passive, or those who can more consistently contribute to her Burst such as healers or health consumers.
+We’ll be recommending three different teams today, all built around a different Hydro Reaction, and the first one is a Furina-focused permafreeze team.
+Furina’s best premium freeze team in
+Genshin Impact
+includes Wriothesley, Shenhe and Jean
+.
+Let’s start with our other healer, Jean. Furina’s A2 Passive pushes you to include another healer in your team comps and Jean is one of the best characters to fulfil that requirement. As a healer, her Burst is one of
+Genshin’s
+best healing methods, instantly generating a ton of health for your entire team when cast and then healing over time for several seconds. Additionally, her Anemo Vision will allow Jean to Swirl either Hydro or Cryo to make a lot of Energy for her team. Finally, a lot of Jean’s Constellations will aid in the team’s survival (such as her C6) or damage output (such as her C2) for those lucky, or unlucky, enough to have them. Jean is simply a very well-put-together unit and a perfect companion to Furina who doesn’t get in her way.
+Grand Knight Jean
+After Jean is the team’s main on-field DPS, Wriothesley. The Duke of Fontaine is a Normal Attack-focused Cryo Catalyst, allowing his ordinary hits to inflict enemies with Cryo.
+Pair this with Furina’s Skill and you’ll be able to lock down most enemies with Freeze with super high uptime
+, letting Wriothesley go wild with his attacks without concern. What’s even better is that Wriothesley is a Fontaine character, meaning that he lowers and regens his own health when in the Chilling Penalty state. This can help contribute to Furina’s Burst, improving her own damage off-field while Wriothesley makes a mess of any enemies unlucky enough to be Frozen on the battlefield.
+Lastly, the final member of this permafreeze team is Shenhe, arguably Wriothesley’s best support. Shenhe is definitely here to facilitate Wrio more than anyone else but that doesn’t mean that her absurd levels of Cryo application won’t benefit Jean or Furina. With her Skill, Shenhe will massively increase Normal and Charged Attack DMG, only further improving Wriothesley’s already crazy damage output. Then, with her Burst, she’ll boost Cryo and Physical DMG significantly for
+more
+damage. That isn’t even mentioning the Cryo Resonance that you’ll have from activating 2 Cryo party members, which boosts CRIT Rate against Frozen or Cryo-afflicted targets, which will also benefit Furina’s off-field damage for more consistent critical hits.
+Best Furina Permafreeze Team Comp
+Premium Furina Bloom Team
+If Freeze teams aren’t your style and you’re more of a Dendro fan, Furina has you covered there, too. In a Bloom team, Furina’s ability to generate high Hydro DMG while off-field is superb at forming a mountain of Dendro Cores, especially when paired with her Archon-ally, Nahida. Compared to the Freeze team, this Bloom team is a bit more tense and active as you won’t have the lockdown support of Freeze, but that may make it more attractive to some players.
+Furina’s best Bloom team in
+Genshin Impact
+consists of Neuvillette, Nahida and Baizhu.
+Neuvillette is Furina’s right hand in the Opera House so it only makes sense that he’s one of her best pairings in terms of main DPS units. If you’ve been active in the
+Genshin
+community since the start of 4.1, you’ve likely seen the pure chaotic destruction that the Iudex leaves in his wake, with his Charged Attack being one of the best sources of single-target damage, group damage and Elemental Reactions in the entire game. By running him with Furina, you have another health consumer to aid with her Burst and another Hydro character for the Resonance which adds 20% HP, greatly benefitting both of them.
+Master of the Ocean. Neuvillette
+On the Dendro side of the team, the Archon of Wisdom has come to help her Justice-inclined friend. Nahida is
+Genshin Impact’s
+best Dendro support and it isn’t even close. Her Skill allows her to link together a massive group of opponents, inflicting them with a near-permanent Dendro status which can be exploited for conjoined Elemental Reactions that affect every single connected entity. In this comp, in particular, Nahida will facilitate the constant spawning of Dendro Cores from both Furina and Neuvillette from off-field, ensuring that you always have at least a Cores lying around to blow up any enemies Neuvillette hasn’t already decimated.
+Lastly, Baizhu is here as another source of Dendro and Bloom but also as an additional healer. With his Skill, Baizhu can both deal Dendro DMG to multiple targets but also heal all party members based on his HP, while his Burst will create a hardy shield that will surely help as Neuvillette’s health seesaws back and forth. He and Nahida will also let you benefit from the Dendro Resonance, improving Elemental Mastery for more Reaction DMG.
+Best Furina Bloom Team Comp
+F2P Furina Team
+Finally, let’s go over a F2P team for a Furina build and comp focused on the Vaporize Reaction. Vaporize is one of the strongest Hydro Reactions in
+Genshin Impact
+, with it usually being the culprit behind the insane damage numbers people get on their character showcases. So, as the Hydro Archon, Furina is able to facilitate some crazy compositions with Pyro characters, even those who are available for free.
+The best free-to-play team for Furina in
+Genshin Impact
+features Bennett, Xiangling and Xingqiu
+.
+Big Buffer Bennett
+Xingqiu is our Hydro healer and, honestly, he can be substituted with Barbra, another F2P Hydro character, depending on your preferences: they both heal a lot, and they both let the team benefit from 20% more HP thanks to the Hydro Resonance and they’re both going to be mainly off-field, so the choice is yours. Of the two, Xingqiu is a lot more offence-oriented while Barbara is more of a supportive safety net, so use that as your guiding point when it comes to choosing your unit. Furina will be stepping into more of an on-field role in this team and Xinqiu’s Burst will allow her to deal additional damage and heal herself to fuel her Burst.
+Aside from Xingqiu, we have the two Pyro characters who seem to show up in any Vaporize or Melt team: Bennett and Xiangling. That’s simply because they’re so good and so strong, despite being 4-star F2P characters. With Bennett, while he is capable of healing with his Burst, you’ll mainly be using it for the ATK buff it provides. Furina’s on-field role will mean more Normal Attacks, which scale off her ATK rather than HP, and the extra ATK will also benefit Xiangling. Speaking of the little chef, her own Burst is possibly one of the best sources of constant Pyro in the game and will give your active character a big boost for their Vaporize Reactions.
+Best F2P Furina Team Comp
+And that was how to make the best Furina build in
+Genshin Impact
+.
+Best Guides for Genshin Impact
+Mavuika Build Guide | Mavuika Best Weapons, Artifacts, Teams
+5 Ways to Fix the Genshin Impact “Connection Timed Out” Error on Windows PCs
+Yumemizuki Mizuki Drip Marketing Released for Genshin Impact 5.4
+Voices We May Not Hear During Lantern Rite
+After Over 600 Days, Shenhe is Finally Getting a Rerun in Genshin Impact 5.3
+Top 10 Genshin Impact OST That Will Enrich Your Playlist
+Lan Yan Drip Marketing Released for Genshin Impact 5.3
+Mavuika (Pyro Archon) and Citlali Drip Marketing Released for Genshin Impact 5.3
+7 Ways You Can Fix Genshin Impact Not Launching on a Windows PC
+Jack Carson
+Jack is a UK-based English Creative Writing graduate with a passion for writing about games. He’s been writing creatively for many years and has been doing game journalism professionally for well over a year. The games he primarily writes about include Destiny 2, Genshin Impact, Honkai: Star Rail and Xenoblade Chronicles but he is especially keen on RPGs, looters and action games and specialises in writing guides. KeenGamer is the third publication he has written for.
+Leave a Reply
+Cancel Reply
+Sign in with:
+Your email address will not be published. Required fields are marked
+*
+Comment *
+You may use these
+HTML
+tags and attributes:
+<a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <s> <strike> <strong>
+Notify me of followup comments via e-mail.

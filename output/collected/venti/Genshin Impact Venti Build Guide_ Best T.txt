@@ -1,0 +1,114 @@
+Genshin Impact Venti Build Guide: Best Talents, Gears, And Team Comps (3.3)
+Muhammad Kumar
+-
+Jan 06, 2023
+|
+Mobile Games
+Venti, the Anemo archon, is one of the best support characters in Genshin Impact. Check this post for a completed guide for version 3.3.
+Top 10 Best Teammates For Yoimiya In Genshin Impact 2023
+Klee Is The Next Character To Have A New Skin In Genshin Impact 3.4?
+Across The Wilderness Genshin Impact Event Schedule, Rules & Rewards
+Venti is a 5-star Anemo Bow user who revolves around providing strong crowd control and off-field enabling of his teammates. His kit encourages quick rotation to take advantage of his CC and deal damage to multiple enemies at once. Being the first Archon to be released, Venti has been power creeped quite a bit, however, he can still be very useful with Faruzan's support.
+In this article, Gurugamer is going to showcase a complete guide for Venti in 2023, including talents, builds, and team comps.
+Genshin Impact Venti
+1. Venti Talents & Combo
+Talent priority
+Wind’s Grand Ode (Q) ≥ Skyward Sonnet (E) > NA
+Normal Attack
+Venti should only use this to animation cancel or while waiting for the swap cooldown.
+Elemental Skill
+Venti’s Elemental Skill has two versions: a Tap (Press) and a Hold version. The Tap version is a single instance of Anemo AoE damage, centered on a target, that launches smaller enemies into the air. Heavy enemies are not launched. The Hold version deals greater damage in a larger AoE centered on Venti himself. It is best to just use the tap version as the hold version is too slow.
+Elemental Burst
+The Stormeye deals 20 Anemo damage ticks and 16 ticks of the absorbed Element. It can also trigger Swirl up to 7 times. It should be noted that Venti’s Burst snapshots – that is, all buffs present on Venti during its cast will persist throughout the entire duration.
+Passive 1
+Using Venti’s Hold Skill will produce an upcurrent for 20s. As Venti has a weak plunge attack, this is not useful in combat.
+Passive 2
+Energy refund for Venti and the character with element he swirled.
+The most common combo for Venti is Skill -> Burst. The animation of Venti’s Skill can be canceled early, shortening the duration required to cast it by more than 66%. By using E before Q, you save frames on Venti’s E ending animation with your next attack. You may need to stay on Venti for a little bit of extra time for Venti to be on field when absorbing the Particles from E alone.
+Venti's Burst
+Alternatively, players can also use skill then NA into other characters.
+Best Constellations for Venti
+Venti's constellations are rather mediocre - they don't really increase his power that much. His C1 is the worst, as Venti rarely uses his Charged attacks.
+C2 and C3 are decently useful, as they moderately increase Venti's personal damage. C4 and C6 are great power spikes, but players rarely get to that tier.
+2. Venti Best Artifacts & Substat
+Venti has 2 effective builds - you can either stack Elemental Mastery or CRIT. The former is harder to farm, but easier to get high damage, while the latter is the opposite.
+Venerer is the go-to set for most Anemo character
+Artifact set
+4 Viridescent Venerer
+(4VV) is the best set for Venti. It boosts teammates’ damage nicely and is also the highest damage option for Venti alone, since it buffs Swirl damage greatly through both the RES shred and the +60% Swirl damage. No other option comes close to what 4VV can offer for Venti.
+You can use other sets like Gilded Dreams or Emblem of Severed Fate if there is already a Venerer holder in the lineup.
+Substat
+Until you can Burst off cooldown, Energy Recharge has high priority, but it also depends on the rest of your team and your rotation.
+Elemental Mastery build: ER (until sufficient) > EM > ATK% = CR > CD/Flat ATK
+Crit build: ER (until sufficient) > CR = CD > ATK% > EM/Flat ATK
+3. Best Weapons for Venti
+The Polar Star is the best DPS weapon for Venti
+EM build
+Elegy for the End
+: If this weapon is available, it is generally always Venti’s best choice, as it is usually better for overall team damage. While the 20s cooldown on Elegy’s buff is awkward with Venti’s 15s cooldown on his Burst, it makes building Venti easy, since it provides enough ER on its own to meet most ER requirements.
+Alternative choices: The Stringless, Mouun’s Moon, Alley Hunter, Windblume Ode R5, Raven Bow
+CRIT build
+Polar Star
+: While Polar Star at full stacks theoretically produces the highest damage, you need to incorporate an NA and Aimed Shot in your rotation before using Venti’s Skill and Burst. Venti’s Burst will also not snapshot the buff from its own stack onto itself. In the case of the 4 stacks, the first Burst will actually only get a maximum of 3 stacks. The 4 stacks will apply for the next Burst in a perfect rotation.
+Alternative choices: The Stringless, Aqua Simulacra, Skyward Harp, Elegy for the End, Hunter’s Path, Mouun’s Moon, Alley Hunter, Blackcliff Warbow, Thundering Pulse.
+4. Venti Team Compositions
+Venti is very flexible and there are many teams that can utilize him well, but he is best used in combination with characters with quadratic scaling (the ability to deal more damage to groups).
+Venti Freeze Teams
+Venti + Ganyu + Cryo + Hydro
+While Venti is a strong option for almost all Freeze teams, he truly shines when paired with Ganyu to fully utilize the strength of her quadratic scaling. The setup is fairly straightforward—Venti provides VV, grouping, and Energy refund, while Ganyu is the main source of team damage.
+The last two slots are generally flexible, with a Cryo unit used for Cryo resonance and to generate Particles for Ganyu. The last unit applies Hydro for Freeze.
+Wanderer/Anemo Hypercarry
+Venti + Wanderer/Xiao + Faruzan + Bennett
+If players already have a Wanderer team buildup with Faruzan and Bennett, Venti can be a great last slot, as he benefits from Faruzan greatly. Firstly, he contributes significant personal damage as he is able to make full use of Faruzan’s buffs — while he can also snapshot Bennett’s buffs onto his Burst, giving Wanderer more field time.
+Electro-Charged
+Venti + Hydro + Electro + Flex
+Venti can take advantage of reaction priorities to Swirl Electro but absorb Hydro in his Burst. He will then apply Electro onto the enemies inside his Burst, allowing Venti to Swirl Electro instead of Hydro, but still do EC damage. Because Venti applies both elements, the EC damage is based on Venti’s EM instead of a unit with less EM, which means this team is perfect for EM build.
+>>> Read more:
+Genshin Impact Lisa Build Guide: Best Talents, Gears, And Team Comps (2023)
+Tags
+#Genshin Impact
+#Genshin Impact Characters
+#Genshin Impact Guide
+Comments
+Sort by
+Newest
+|
+Popular
+Please
+sign in
+to send your comment.
+Send
+View more comments
+Next story
+MOST POPULAR
+127468 views
+Mobile Games
+-
+Jun 05, 2025
+10 Hottest Mobile Games to Play in 2025 - They Are Super Addictive!
+110050 views
+Mobile Games
+-
+Jan 06, 2026
+How Popular is Free Fire in India in 2026?
+108071 views
+Mobile Games
+-
+Aug 16, 2021
+Azur Lane Equipment Tier List Complete Guide 2025 Updated
+97757 views
+Mobile Games
+-
+Dec 31, 2025
+Best Mobile Games Offline In 2026 You Should Give A Try
+95541 views
+Mobile Games
+-
+Sep 29, 2025
+Free Fire Headshot Hack: Everything About Headshot Hack In Free Fire (Updated 2025)
+FEATURED STORIES
+Free Fire MAX Redeem Codes March 31, 2026: Get Free Diamonds with 100% Working Codes
+Honkai Star Rail Sparxie 4.0 Hypercarry Guide
+Genshin Impact 6.3 Columbina Ultimate Build Guide
+BGMI Firearm Combat Power Leaderboards: Full Guide to Free Mythic Titles
+How To Boost Free Fire Honor Score Complete Guide 2025

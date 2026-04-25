@@ -1,0 +1,109 @@
+This post is up to date with Version 3.4 Phase 1
+Ningguang
+is a 4-Star Geo Catalyst character from Liyue. In addition to the gacha, she can be obtained with Masterless Starglitter in “Paimon’s Bargains” during the months of March and September. Primarily, Ningguang serves as an On Field DPS for her team.
+Base Kit
+In lieu of a sequential attack string, Ningguang only has one 2-Hit Normal Attack that she can perform (though it does have two slightly different animations). However, each Normal Attack grants her a
+Star Jade
+when it hits an enemy. Pre-C6, Ningguang can hold up to three of these gems at a time. If she has at least one Star Jade, she can release them alongside her Charged Attack for extra DMG. With her A1 passive, this will not cost her any Stamina. While certainly atypical, once you get in the rhythm of casting 1-3 Normal Attacks followed by a Charged Attack, you’ll find that Ningguang doesn’t play too differently from most other carries in
+Genshin
+. Optimal play does involve canceling each and every one of her Normal Attacks, particularly movement canceling if you’re on PC, and that does come with a learning curve. However, I would advise that you don’t fret over that too much as it is more work on your part and Ningguang is by no means clunky to play without it.
+When Ningguang uses her Elemental Skill,
+Jade Screen
+, she summons the eponymous Geo Construct onto the field, dealing Geo DMG upon impact with an enemy. Once on the field, the Jade Screen will block any enemy projectiles for 30 seconds. While technically more of a defensive skill, the Jade Screen can surprisingly hit pretty hard thanks to a generously high multiplier (322.56% at Lv. 6). With Ningguang’s A4 passive, the construct gains further utility by providing a 12% Geo DMG Bonus when your active character passess through it. You do have to take a few seconds to pull this off but it’s worth considering given the potency of the buff.
+With her Elemental Burst,
+Starshatter
+, Ningguang fires six gems that hone in on any enemies and deal Geo DMG onto them. If Jade Screen is on the field, the construct will deactivate to double the number of gems fired to twelve. Obviously, it sounds better to cast the ult with the Jade Screen but regardless, the numbers do speak for themselves. At Lv. 6, one gem possesses a multiplier of 121.74%. With twelve gems, that totals to a staggering 1460.88%. Another thing to note about the ult is the fact that it only costs 40 Energy. The Jade Screen generates 3 Geo Particles when it hits at least one enemy so Energy should pose little to no issue for Ningguang.
+Constellations
+C1
+– Adds an AoE to her Normal Attacks. Most of Ningguang’s DPS is concentrated in her Charged Attack and Elemental Burst but being able to hit multiple enemies at once while spamming Normal Attacks is nevertheless a nice perk, especially in group encounters.
+C2
+– Resets Ningguang’s Elemental Skill cooldown when the Jade Screen shatters (usually via hitbox clipping or her Elemental Burst). With this, Ningguang can potentially deal extra DMG and double her Energy gains. However, this Constellation is on a 6 second cooldown so it can be inconsistent.
+C3
+– Adds three Levels to Ningguang’s Elemental Burst.
+C4
+– Gives 10% Elemental RES buff to characters near the Jade Screen. While taking less DMG is always nice, this Constellation generally feels pointless if you have very potent healing and/or shielding on your team.
+C5
+– Adds three Levels to Ningguang’s Elemental Skill.
+C6
+– Grants Ningguang 7 Star Jades after she uses her Elemental Burst. With 4 extra Jades, Ningguang’s Charged Attack hits even harder and it makes for a great follow-up to her ult.
+As always, 4-Star Constellations are a complete gamble so pull at your own discretion. Bear in mind also that Ningguang’s Constellations can be obtained over time via Paimon’s Bargains. Besides C0 and C6, some solid stopping points for Ningguang are C1 and C2.
+Weapons
+The following list of weapons is largely organized by descending rarity and alphabetical order. Stats provided in the parentheses are assuming the respective weapon is at Lv. 90.
+Skyward Atlas (5-Star | 674 ATK | 33.1% ATK)
+– In addition to the large amount of ATK, Skyward also provides Ningguang with Elemental DMG Bonus. Being an On Field DPS, Ningguang will usually get the weapon’s cloud to spawn. It’s not particularly strong in Ningguang’s hands as it deals Physical DMG but more DMG is still better than no DMG at all.
+Dodoco Tales (4-Star | 454 ATK | 55.1% ATK)
+– Version 1.6’s Event Weapon. The passive increases Charged Attack DMG for 6 seconds after the user lands a hit with their Normal Attacks. Landing a hit with a Charged Attack will increase the user’s ATK for 6 seconds. Because of Ningguang’s basic attack combo, she has a very easy time gaining both buffs.
+Solar Pearl (4-Star | 510 ATK | 27.6% CRIT Rate)
+– Requires the purchase of the Battle Pass. When the wielder hits with their Normal Attacks, their Elemental Skill and Elemental Burst DMG increases for 6 seconds. Likewise, hitting with their Skill or Burst increases Normal Attack DMG for the same amount of time. While this passive does squat for Ningguang’s Charged Attacks, it does buff the rest of her kit. The fact that Solar Pearl is a 4-Star weapon with CRIT Rate is also something to consider.
+Artifacts
+Set(s):
+Archaic Petra (2)/ATK Set (2)
+– ATK and Geo DMG Bonus combo. Unfortunately, there isn’t really a full set that tailors to Ningguang’s kit so you will have to make do with 2-Piece bonuses that are the most relevant to her. For the ATK set, Shimenawa’s Reminiscence is the best one to farm due it being paired alongside the highly desirable Emblem of Severed Fate set.
+Stat:
+Sands:
+ATK%
+Goblet:
+Geo DMG Bonus
+Circlet:
+CRIT Rate or CRIT DMG
+Sub-Stats:
+ATK%, CRIT Rate, CRIT DMG, Energy Recharge
+Ningguang’s Energy needs range from low to none at all so if you are going to have Energy Recharge on her, just settle with sub-stats. Avoid Elemental Mastery as best you can. All it does for Geo characters is improve the DMG Absorption of Crystallized shields (which you almost never bank on).
+Synergy
+Since Crystallize
+is a piece of shit
+deals no DMG, Ningguang has to bank on raw numbers for her DPS. So while this usually goes without saying, you want supports who can raise her ceiling as much as possible.
+Essential to Geo DPS is the Element’s respective Resonance effect. Geo Resonance provides 15% Shield Strength and while your active character is protected by a shield, they deal 15% more DMG and their attacks debuff enemy Geo RES by 20% for 15 seconds. This is the most common source of Geo RES debuff so it is highly recommended that you team Ningguang with a second Geo character. Other Elemental Resonances that benefit Ningguang are Electro (extra particle generation) and Pyro (25% ATK).
+As a disclaimer, the following lists of recommended teammates and example teams is not necessarily a comprehensive one. Also, the example teams may include characters that are not included in the recommendations as they arguably synergize more with someone else on the team and less so with Ningguang.
+Recommended Teammates:
+Bennett (4-Star | Pyro)
+– Unsurprisingly a great support for Ningguang; provides an ATK buff, Energy, and healing.
+Diona (4-Star | Cryo)
+– Recommended if you don’t have Zhongli; also provides healing with her Elemental Burst.
+Fischl (4-Star | Electro)
+– Like with many Off Field DPS, Fischl would rather be used for reactions. Nevertheless, her solid off field DPS and consistent particle generation makes her a good teammate for Ningguang. It is also worth noting that Crystallize does count in triggering Fischl’s A4 passive so Fischl’s personal DMG isn’t necessarily worse when Ningguang is the driver.
+Layla (4-Star | Cryo)
+– Recommended if you don’t have Zhongli. In my opinion, Layla is the second best shielder in the game.
+Thoma (4-Star | Pyro)
+– Recommended if you don’t have Zhongli. Since Ningguang has to perform her Normal Attacks for her Charged Attack, she can trigger Thoma’s refresh mechanic.
+Yun Jin (4-Star | Geo)
+– Since Ningguang has to perform her Normal Attacks for her Charged Attack and each one hits twice, she can make decent use of Yun Jin’s Normal Attack DMG buff. Ningguang also alleviates Yun Jin’s high Energy needs thanks to her particle generation.
+Zhongli (5-Star | Geo)
+– If you’re wondering why I kept mentioning Zhongli throughout this list, it’s because he is more or less essential for Ningguang. Zhongli’s Jade Shield is the strongest shield in the entire game and it has 100% uptime. Not only does it allow Ningguang to fight uninterrupted, it also gives her full uptime with Geo Resonance. Additionally, casting Zhongli’s shield will debuff nearby enemies’ RES for all attributes, including Geo. Simply put, Zhongli is Ningguang’s best teammate.
+Example Teams:
+Ningguang
+Yun Jin
+Fischl
+Diona
+Ningguang
+Yun Jin
+Thoma
+Bennett
+Ningguang
+Zhongli
+Xiangling
+Bennett
+Closing Words
+Ningguang was one of the most respectable carries in the 1.0 era, a lot of that owing to a self-sufficient kit, generously high scaling, and (let’s face it) a lack of competition. As time goes on however, Ningguang has started to fall off in the meta. Part of that is the fact that she is a 4-Star character. Even with a ton of work put in, she isn’t likely to hold a candle against many of the game’s premier carries and she may not be strong enough for the Spiral Abyss. Another factor is the lack of catering to her as a unit. While Geo DPS is in a good state with the addition of Gorou and the Husk of Opulent Dreams, neither of these are that amazing for Ningguang due to her lack of DEF scaling. Things may of course change in the future but right now, Ningguang has a questionable place in the meta. If you’re new and you’re in need of a Geo DPS, I recommend Noelle instead.
+This post was originally published on February 6, 2022
+Read my
+Genshin Impact
+posts
+Share this:
+Email a link to a friend (Opens in new window)
+Email
+Share on Bluesky (Opens in new window)
+Bluesky
+Share on X (Opens in new window)
+X
+Share on Facebook (Opens in new window)
+Facebook
+Share on Reddit (Opens in new window)
+Reddit
+Share on Pinterest (Opens in new window)
+Pinterest
+Share on Tumblr (Opens in new window)
+Tumblr
+Like
+Loading...
+Related

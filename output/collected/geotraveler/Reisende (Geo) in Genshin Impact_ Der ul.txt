@@ -1,0 +1,446 @@
+Genshin Impact Reisende (Geo) Build
+Einhänder
+Geo
+——
+0/0
+Viatrix
+Villa Taishan
+Eine Reisende weit entfernt von der Heimat auf der Suche nach den Sieben, um ihren Bruder wiederzufinden.
+Beste Reisende (Geo) Builds
+GEO DPS Build
+Waffen
+1
+Uraku Misugiri
+KSCH
+2
+Moosgrüner Fels
+KT
+3
+Widerschein des Nebelsplitters
+KSCH
+4
+Haran Geppaku Futsu
+KT
+5
+Absolution
+KSCH
+6
+Licht der schneidenden Blätter
+KSCH
+7
+Pracht des stillen Wassers
+KSCH
+8
+Gipfelbrecher
+ANG%
+9
+Wolfszahn
+KT
+10
+Finale in der Tiefe
+ANG%
+11
+Schwert der Verderbnis
+R
+5
+Aufladerate
+12
+Amenoma Kageuchi
+R
+5
+ANG%
+13
+Himmelsklinge
+Aufladerate
+14
+Schiffer des Fleuve Cendré
+R
+5
+Aufladerate
+15
+Lied der Gipfelpatrouille
+VTD%
+16
+Blasser Schwur der Freiheit
+Elementarkunde
+17
+Favonius-Schwert
+Aufladerate
+Artefakte
+1
+Nächtliches Geflüster in den widerhallenden Wäldern
+4
+2
+Goldtruppe
+4
+Wähle zwei
+Archaischer Fels
+2
+Altes Hofritual
+2
+ATK +18% set
+2
+Wappen des getrennten Schicksals
+2
+Goldtruppe
+2
+4
+Wappen des getrennten Schicksals
+4
+5
+Archaischer Fels
+4
+6
+Altes Hofritual
+4
+7
+Schriftrolle des Recken der aschenen Stadt
+4
+Priorität der fortgeschrittenen Attribute
+1
+KT
+2
+KSCH
+3
+ANG%
+4
+Aufladerate
+Priorität der Talente
+1
+E
+Elementarfähigkeit
+2
+Q
+Spezialfähigkeit
+3
+NA
+Standardangriff
+Empfohlene Basisattribute
+Sand
+ANG%
+Kelch
+Geo-SCH-Bonus
+Reif
+KT / KSCH
+Am häufigsten verwendetes Build der Community
+Dieses Build basiert auf den am häufigsten verwendeten Artefakten und Waffen der Community. Wenn du zu diesen Daten beitragen möchtest, kannst du dies tun, indem du deine UID hier einreichst.
+Waffen
+1
+Steinschneider-Prototyp
+Physischer SCH-Bonus
+2
+Favonius-Schwert
+Aufladerate
+3
+Opferschwert
+Aufladerate
+4
+Schwert der Dämmerung
+KSCH
+5
+Eisenstich
+Elementarkunde
+Artefakte
+1
+Erinnerungen des tiefen Waldes
+4
+2
+Verbeugung des Gladiators
+4
+3
+Schriftrolle des Recken der aschenen Stadt
+4
+4
+Obsidiankodex
+4
+5
+Wappen des getrennten Schicksals
+4
+Beste Reisende (Geo)-Teams
+Open the full Reisende (Geo) team guide
+Reisende (Geo)-Fähigkeiten
+Steinerne Klinge aus der Fremde
+Standardangriff
+Führt bis zu 5 Schwerthiebe hintereinander aus.
+Heftiger Schlag
+Verbraucht eine gewisse Menge Ausdauer und schwingt das Schwert zweimal schnell nach vorn.
+Angriff aus dem Fall
+Schlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.
+Level
+1
+SCH Phase 1
+44.5%
+SCH Phase 2
+43.4%
+SCH Phase 3
+53%
+SCH Phase 4
+58.3%
+SCH Phase 5
+70.8%
+SCH heftiger Schläge
+55.9% + 72.2%
+Ausdauerverbrauch heftiger Schläge
+20 Punkte
+SCH beim Fallen
+63.9%
+SCH beim Fallen aus niedriger/großer Höhe
+127.8% / 159.7%
+Sternschnuppenschwert
+Du hast mit Paimon darüber gesprochen, wo Sternschnuppen wohl landen.
+Ein Brocken bricht aus der Erde heraus, explodiert und verursacht
+Geo-Flächenschaden
+.
+Der gefallene Stern gilt als
+Geo-Objekt
+, blockiert Angriffe und kann erklommen werden.
+Gedrückt halten
+Wirkungsbereich der Fähigkeit kann angepasst werden.
+Level
+1
+Fähigkeits-SCH
+248%
+Wirkungsdauer des gefallenen Sterns
+30 s
+Abklingzeit
+8 s
+Aufgetürmter Steinwall
+Du hast mit Paimon die Bewegungen der Erdplatten studiert.
+Aktiviert die Geo-Kräfte tief in der Erde und verursacht eine Schockwelle.
+Stößt Gegner in der Umgebung zurück und verursacht
+Geo-Flächenschaden
+.
+Erschafft danach einen Steinwall am Rand der Druckwelle.
+Der Steinwall gilt als
+Geo-Objekt
+und blockiert Angriffe.
+Level
+1
+SCH pro Druckwelle
+148%
+Wirkungsdauer des Steinwalls
+15 s
+Abklingzeit
+15 s
+Elementarenergie
+60
+Passives Talent
+Zerspringende Felsen
+Aufstiegsphase 1
+Verkürzt die Abklingzeit von
+Sternschnuppenschwert
+um 2 s.
+Rasanter Erdrutsch
+Aufstiegsphase 4
+Verursacht beim letzten Schlag des Standardangriffs einen Zusammenbruch und fügt Gegnern im Wirkungsbereich
+Geo-Schaden
+in Höhe von 60 % ANG zu.
+Sternenbilder
+Hoher Steinwall
+Sternenbild St. 1
+Erhöht die KT, wenn eine Figur in der Truppe vom Steinwall von
+Aufgetürmter Steinwall
+umringt ist, um 10 % und erhöht den Unterbrechungs-WDS.
+Instabiler Kern
+Sternenbild St. 2
+Der gefallene Stern von
+Sternschnuppenschwert
+explodiert, sobald er zerstört wird, und fügt Gegnern in der Umgebung zusätzlichen
+Geo-Flächenschaden
+in Höhe des Schadens von Sternschnuppenschwert zu.
+Felsen ringsumher
+Sternenbild St. 3
+Erhöht die Stufe der Fähigkeit
+Aufgetürmter Steinwall
+um 3.
+Höchststufe 15.
+Schroffer Felsen
+Sternenbild St. 4
+Stellt für jeden von der Druckwelle von
+Aufgetürmter Steinwall
+getroffenen Gegner 5 Punkte Elementarenergie wieder her.
+Insgesamt können auf diese Weise bis zu 25 Punkte Elementarenergie pro Anwendung wiederhergestellt werden.
+Meteoriteneinschlag
+Sternenbild St. 5
+Erhöht die Stufe der Fähigkeit
+Sternschnuppenschwert
+um 3.
+Höchststufe 15.
+Unvergänglicher Felsbrocken
+Sternenbild St. 6
+Verlängert die Wirkungsdauer des Steinwalls von
+Aufgetürmter Steinwall
+um 5 s.
+Verlängert die Wirkungsdauer des gefallenen Sterns von
+Sternschnuppenschwert
+um 10 s.
+Outfits
+Wiederherstellung von Himmel und Erde
+Die Kleidung {F#der Reisenden}{M#des Reisenden}. Die Kleidung, die die beiden „Sterne“ auf ihren Reisen durch unzählige Welten begleitet hat. Sie hat bereits unzählige Welten gesehen, versteht aber immer noch nicht, was der wahre Zweck des Universums ist. Doch wer nachdenkt, wird stets diese „letzte Antwort“ finden.
+Quelle
+:
+Beim Abschluss des Archontenauftrags „Der wahre Mond“ zu erhalten
+Aufgehender Stern
+Standard
+Die Kleidung {F#der Reisenden}{M#des Reisenden}. Ein praktisches Set an Kleidung, das sie auf ihrer langen Reise begleitet.
+Attribute
+St.
+1
+St.
+20
+St.
+40
+St.
+50
+St.
+60
+St.
+70
+St.
+80
+St.
+90
+Vor Aufstieg
+Nach Aufstieg
+Aufstieg
+-
+1
+Basis-LP
+-
+912
+Basis-ANG
+-
+18
+Basis-VTD
+-
+57
+ANG%
+-
+0.0%
+Aufstiegsmaterialien
+View ascension details
+Gesamt
+420000
+1
+9
+9
+6
+168
+18
+30
+36
+Talentmaterialien
+LV.
+1
+→
+2
+12500
+Mora
+3
+Lehren des „Wohlstands“
+6
+Stabile Bolzenspitze
+LV.
+2
+→
+3
+17500
+Mora
+2
+Anleitung zum „Fleiß“
+3
+Scharfe Bolzenspitze
+LV.
+3
+→
+4
+25000
+Mora
+4
+Anleitung zum „Gold“
+4
+Scharfe Bolzenspitze
+LV.
+4
+→
+5
+30000
+Mora
+6
+Anleitung zum „Wohlstand“
+6
+Scharfe Bolzenspitze
+LV.
+5
+→
+6
+37500
+Mora
+9
+Anleitung zum „Fleiß“
+9
+Scharfe Bolzenspitze
+LV.
+6
+→
+7
+120000
+Mora
+4
+Philosophie des „Golds“
+4
+Abgenutzte Bolzenspitze
+1
+Schwanz des Nordwinds
+LV.
+7
+→
+8
+260000
+Mora
+6
+Philosophie des „Wohlstands“
+6
+Abgenutzte Bolzenspitze
+1
+Schwanz des Nordwinds
+LV.
+8
+→
+9
+450000
+Mora
+12
+Philosophie des „Fleißes“
+9
+Abgenutzte Bolzenspitze
+2
+Schwanz des Nordwinds
+LV.
+9
+→
+10
+700000
+Mora
+16
+Philosophie des „Golds“
+12
+Abgenutzte Bolzenspitze
+2
+Schwanz des Nordwinds
+1
+Krone der Weisheit
+Gesamt
+1652500
+3
+11
+6
+4
+20
+12
+6
+6
+22
+31
+6
+1

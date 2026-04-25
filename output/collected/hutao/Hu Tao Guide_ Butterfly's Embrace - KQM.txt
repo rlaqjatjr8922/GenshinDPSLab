@@ -1,0 +1,1129 @@
+By miannes, rare possum and cuzimori
+Version: 4.0
+Art by
+呱々唄七つ
+“It’s not the end of the world if you catch a glimpse behind the curtain.”
+Table of Contents
+Introduction
+Why Play Hu Tao?
+Glossary
+FAQ
+Talents
+Level & Talent Priority
+Talent Overview
+Combos
+N1C
+N2C
+Uncancelled Combos
+Skill State Extension
+Combo Comparison
+Constellations
+Artifacts
+Artifact Stats
+Artifact Sets
+Weapons
+Synergies
+Hydro Units
+Shielders
+Anemo Units
+Flex Units
+Team Compositions
+Double Hydro
+VV Vape
+Solo Hydro
+Mono Pyro
+Credits
+References
+Introduction
+Hu Tao is a powerful Pyro Polearm user in Genshin Impact who relies on Vaping her Charged Attacks to deal high on-field single-target damage. This Guide will walk you through Hu Tao’s Talent priority, best weapons, best artifacts, preferred substats, combos, teambuilding, and more!
+TL;DR
+Design: icedsquid
+Content: snowwwwww.
+Why Play Hu Tao?
+Pros
+Cutest character in the game.
+High single-target damage.
+Doesn’t rely on Bennett or any other specific units aside from Xingqiu/Yelan.
+Rewards players who invest time into practicing her combos.
+Strong speedrunning unit at all investment levels.
+Cons
+Mechanically difficult and has either notable positioning issues or a severe drop in DPS without proper Charged Attack cancels.
+Limited AoE damage outside of Burst nuke setups.
+Runs into Stamina, survivability, and some playability issues at C0.
+Extremely reliant on Xingqiu and/or Yelan, who are both highly in-demand units.
+Art by
+なのら
+“Everyone who enters this mortal realm will be a client of mine.”
+Glossary
+Click to view/hide
+Term
+Explanation
+C#
+Constellation Level #
+CA
+Charged Attack
+DPS
+Damage per second
+Homa
+Staff of Homa
+ICD
+Internal Cooldown. Detailed information on the ICD of Elemental application can be found in
+KQM’s Theorycrafting Library
+entry.
+i-frames
+Invincibility frames provided during dashes or Burst animations.
+NA
+Normal Attack
+Proc
+Effects triggered by a fulfilled condition (e.g. proccing Xingqiu’s Burst means triggering a wave of his sword rain attacks)
+R#
+Weapon Refinement
+Vape
+Vaporize
+VV
+Viridescent Venerer
+Weave
+To utilize Normal Attacks in between abilities in order to trigger Xingqiu’s and Yelan’s Bursts.
+Combo Notation
+Term
+Explanation
+N#
+Number of Normal Attacks performed.
+#N1C / #N2C
+Number of N1C or N2C combos performed. This means doing one or two Normal Attacks followed by a Charge Attack, repeated # of times.
+C
+Charged Attack
+E
+Elemental Skill
+Q
+Burst
+D
+Dash cancel
+J
+Jump cancel
+tE
+Tap Skill
+tEP
+Tap Skill Plunge (on Kazuha)
+hE
+Hold Skill
+hEP
+Hold Skill Plunge (on Kazuha)
+FAQ
+Should I go for Staff of Homa or C1?
+C0 with R1 Homa has a similar damage ceiling to C1 with R5 Dragon’s Bane or R5 Deathmatch. C1 with R5 Ballad of the Fjords is slightly better damage on average than C0 with R1 Homa. It’s up to you which option you prefer.
+If you specifically want to play Hu Tao, C1 is generally the better option as it makes her more comfortable to play. C1 combos average up about a 20% damage increase over C0 combos of equivalent difficulty. Conversely, upgrading from R1 Dragon’s Bane, R1 Deathmatch or R1 Ballad of the Fjords to R1 Homa can be around a 20-25% damage increase, though the upgrade is smaller if you start from higher-refined or better weapons.
+It can take around 210 wishes to obtain a 5* banner weapon, as opposed to the approximate 160 wishes it can take to obtain C1. This makes C1 more cost-effective, especially since even F2P players can eventually obtain a high-refined Dragon’s Bane.
+However, Homa is more versatile for players that will use the weapon on other characters. It is also a guaranteed increase to Hu Tao’s damage floor even if a player is not mechanically skilled enough to use C1’s potential. If you aren’t sure whether you’ll commit to mastering Hu Tao’s combos, Homa can be a safer investment.
+See
+here
+for calcs.
+Is Hu Tao bad without C1?
+Hu Tao is a good unit at C0. However, C1 improves not only her overall DPS potential but also her ease of use by making her cancels more fluid, giving her more i-frames by letting her dash cancel, and increasing the total number of Charged Attacks you can execute. Her damage at C0 is still more than enough for most content, but the step up to C1 is noticeable.
+Is Xingqiu or Yelan better for Hu Tao?
+Xingqiu and Yelan are best when paired together, but Xingqiu is better if you can only bring one. Commonly referred to as Double Hydro, the two greatly complement one another, activate Hydro Resonance to buff Hu Tao and Yelan’s damage, and give Hu Tao extremely consistent Vapes. Xingqiu provides Hu Tao with defensive utility, while Yelan provides a strong ramping DMG% buff.
+Pre-C2 Yelan as the sole Hydro unit usually does not apply enough Hydro for Hu Tao to
+reliably
+Vape without either precise inputs or external help to maintain the Hydro aura. The latter can come in the form of Fischl or a Hydro-absorbed Kazuha Burst. Note that highly skilled players are capable of vaping all of Hu Tao’s CAs with Yelan to varying degrees of consistency, but reliability of Hydro application is why Xingqiu is generally the more preferred pairing for Hu Tao as a solo Hydro unit.
+However, with Constellations, Yelan has a much higher personal damage ceiling compared to Xingqiu and can provide an HP% buff for Hu Tao via her C4. Additionally, Yelan allows for 18s rotations compared to Xingqiu’s 21-22s rotations. In most Hu Tao teams, the other two teammates also typically have cooldowns shorter than 21s. All else being equal, shortening rotations from 21s to 18s represents a 16.7% DPS increase.
+Can I still play Hu Tao if I don’t want to learn her Charged Attack cancels?
+Yes, Hu Tao can still perform well with uncancelled Charged Attacks, although well-performed cancels are necessary if you want to reach Hu Tao’s damage ceiling.
+Playing C0 Hu Tao without cancels and just spamming her CAs allows you to reach close to the same level of damage as playing her with well-performed jump cancels. Uncancelled N1Cs are about 90% as effective as good N1CJs, while uncancelled N2Cs are around 95% as effective as good N2CJs.
+However, uncancelled CAs have a tendency to make Hu Tao dash far past enemies not large enough to block her. This can cause her to miss subsequent NAs and CAs against such enemies, and makes it harder to focus on one specific enemy in multi-target scenarios. On the other hand, depending on the content you’re facing, it can also help by increasing the amount of opponents hit.
+Additionally, uncancelled Charged Attacks can cause Yelan’s Burst waves to miss, which significantly decreases her damage output. Thus, doing uncancelled CAs is suboptimal if using Yelan.
+As shown in the chart in the
+Combo Comparison
+section, going from 6N2C to 8N2C can yield a 26% increase in damage. This is on par with the approximate 28% increase you get upgrading from R5 Missive Windspear to R1 Homa, and demonstrates the significant damage increase you can get from improving your mechanical skill on Hu Tao.
+Finally, Hu Tao’s C1 is essentially useless if you do not perform dash cancels (aside from the comfort that comes with its Stamina reduction). Forgoing dash cancels means passing up C1’s potential ~20% DPS increase when going from C0 to C1 combos of similar difficulty.
+In short, Hu Tao can absolutely be played with low mechanical skill, but her best teams (Double Hydro) and optimal combos (especially at C1) yield
+massive
+DPS increases with proper cancels.
+Art by
+八月葉
+“Curiosity can be perilous, you know. Don’t forget my warning: the less you know, the better.”
+Talents
+Level and Talent Priority
+≥
+>
+Normal Attack ≥ Elemental Skill > Elemental Burst
+While you should prioritize Hu Tao’s Normal Attack Talent, her Elemental Skill and her Burst Talents shouldn’t be neglected. Her Skill Talent is nearly as valuable as her Normal Attack Talent to her overall damage output, and her Elemental Burst can deal significant burst damage that allows her to easily breeze through multi-wave content or even one-shot chambers at high investment.
+Talent levels should be prioritized first. For illustration, going from Talent Levels 6/6/6 to 9/9/9 can yield an approximate 33% increase in damage.
+However, Hu Tao does get relatively more value out of character levels than purely ATK-scaling units due to her HP scaling from Skill. You should raise her character level once you are done leveling her Talents. For illustration, leveling her from 80/90 to 90/90 can yield about 7-8% increase in damage. (See calcs
+here
+for more details.)
+Talent Overview
+Normal Attack
+Elemental Skill
+Elemental Burst
+Ascension 1 Passive
+Ascension 4 Passive
+Utility Passive
+Normal Attack
+Normal Attack
+|
+Secret Spear of Wangsheng
+Talent Description
+Normal Attack
+Performs up to six consecutive spear strikes.
+Charged Attack
+Consumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.
+Plunging Attack
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+This Talent is the primary source of Hu Tao’s damage when in her Skill state. Her Charged Attack—which has no ICD, allowing it to Vape every hit—gains the most damage from this Talent. While her Normal Attacks are less significant and are somewhat limited by their ICD, the speed at which she can execute her N1 and N2 allows her to squeeze out more damage during her DPS window.
+Elemental Skill
+Elemental Skill |
+Guide to Afterlife
+Talent Description
+Only an unwavering flame can cleanse the impurities of this world.
+Hu Tao consumes a set portion of her HP to knock the surrounding enemies back and enter the Paramita Papilio state.
+Paramita Papilio
+Increases Hu Tao’s ATK based on her Max HP at the time of entering this state. ATK Bonus gained this way cannot exceed 400% of Hu Tao’s Base ATK.
+Converts attack DMG to Pyro DMG, which cannot be overridden by any other elemental infusion.
+Charged Attacks apply the Blood Blossom effect to the enemies hit.
+Increases Hu Tao’s resistance to interruption.
+Blood Blossom
+Enemies affected by Blood Blossom will take Pyro DMG every 4s. This DMG is considered Elemental Skill DMG.
+Each enemy can be affected by only one Blood Blossom effect at a time, and its duration may only be refreshed by Hu Tao herself.
+Paramita Papilio
+ends when its duration is over, or Hu Tao has left the battlefield or fallen.
+Hu Tao’s Skill is the cornerstone of her kit. It dictates her stat priorities, playstyle and DPS window uptime. When activated, it consumes 30% of Hu Tao’s current HP, converts her Normal and Charged Attacks to Pyro, and gives her a huge ATK boost based on her Max HP. It also provides Interruption Resistance, makes it possible to cancel her CAs earlier, and applies Blood Blossom on enemies.
+It’s important to note that Blood Blossoms are generally more of a curse than a blessing; they have low damage and apply extra Pyro that can mess with Hu Tao’s Vape consistency. C2 improves their damage, and they do have some use in highly niche VV setups — but they’re generally just there to look cute.
+Note that it can be relatively easy to hit the cap on HP to ATK conversion with certain low Base ATK weapons, which can affect buff and build priorities.
+Elemental Burst
+Elemental Burst |
+Spirit Soother
+Talent Description
+Commands a blazing spirit to attack, dealing Pyro DMG in a large AoE.
+Upon striking the enemy, regenerates a percentage of Hu Tao’s Max HP. This effect can be triggered up to 5 times, based on the number of enemies hit.
+If Hu Tao’s HP is below or equal to 50% when the enemy is hit, both the DMG and HP Regeneration are increased.
+Hu Tao struggles to generate the Energy required to cast her Burst every rotation (especially if using 4pc Shimenawa’s Reminiscence), and her Charged Attacks tend to draw much more focus.
+However, Hu Tao’s Burst does significant damage because it benefits from the boosts offered by her Skill and A4 Passive. Its fast animation helps Hu Tao frontload damage, and its large AoE can help offset her otherwise lackluster multi-target performance. Furthermore, it provides valuable quality of life improvements in the form of healing and i-frames, which help make up for her Skill’s otherwise punishing HP cut.
+Note that Hu Tao generally should not use her Burst every rotation, as she prefers to run low Energy Recharge and wants to avoid healing above 50% HP. Hitting multiple enemies with Burst also regenerates more HP, which can easily heal Hu Tao above that threshold.
+Ascension 1 Passive
+Ascension 1 Passive |
+Flutter By
+Talent Description
+When a Paramita Papilio state activated by Guide to Afterlife ends, all allies in the party (excluding Hu Tao herself) will have their CRIT Rate increased by 12% for 8s.
+Hu Tao’s A1 Passive is hard to utilize due to its short duration, especially when considering that her best teammate, Xingqiu, cannot snapshot the buff. However, it’s far from useless: it increases the consistency with which Favonius weapons can be triggered, and some of Hu Tao’s other teammates can snapshot the buff.
+Ascension 4 Passive
+Ascension 4 Passive |
+Sanguine Rouge
+Talent Description
+When Hu Tao’s HP is equal to or less than 50%, her Pyro DMG Bonus is increased by 33%.
+This Ascension Passive synergizes with her HP drain mechanic and the passive of her signature weapon, Staff of Homa, to significantly boost Hu Tao’s damage when she is under 50% HP. From full HP, Hu Tao needs to use her Skill twice to get under 50% HP, which means this Passive won’t be active for the first rotation when starting from full HP unless players intentionally take damage.
+This Passive, along with Homa’s passive, is the reason that shielders are preferred when adding defensive utility to her teams, as she generally wants to avoid healing.
+Utility Passive
+Utility Passive |
+The More the Merrier
+Talent Description
+When Hu Tao cooks a dish perfectly, she has a 18% chance to receive an additional “Suspicious” dish of the same type.
+This is technically the most efficient cooking Passive if players are seeking to maximize healing or revival effects received. However, it does not stack with perfect dishes in the NRE, making it much more of a hassle to properly use.
+Art by
+AL光
+“Only once you know and respect death can you truly understand the value of life.”
+Combos
+See the
+Glossary
+section for combat notation definitions.
+At C0, Hu Tao should either use jump cancels or do uncancelled combos to conserve Stamina. The DPS gain from doing jump cancels (as opposed to uncancelled Charged Attacks) is fairly minimal even when done well. It can even be a DPS loss if executed poorly. However, jump cancels greatly improve Hu Tao’s positioning, as uncancelled Charged Attacks make Hu Tao fly past most enemies and miss her subsequent attacks.
+At C1, Hu Tao should use dash cancels since her CAs won’t consume any Stamina. Dashes are faster than jumps and provide i-frames throughout her attack string.
+It is worth noting in some AoE situations it can be worth intentionally canceling her Charge Attack late in order to hit more enemies; that said, players should still generally aim to cancel them to ensure proper targeting.
+The following video is aimed at mobile players, but provides a comprehensive explanation of how to do Hu Tao’s combos and cancels in general:
+Hu Tao combos for mobile guide by BowTae#0141.
+N1C
+N1C combos are easier to execute than N2C combos. Simply hold down the Normal Attack button until the Charged Attack comes out.
+If performed quickly, N1CD combos can run into the issue of dash cooldown, which prevents a character from dashing more than 2 times in quick succession. If this becomes an issue, players should use N1CJ after every 2 N1CD to avoid being locked out by dash cooldown.
+Video by miannes of 12N1C with alternating dash and jump cancels.
+N2C
+N2Cs allow for potentially higher damage combos than N1Cs while also consuming less Stamina. However, they are harder to perform. Do two short clicks and then hold down on the third click.
+N2Cs also apply more Pyro than N1Cs, which can cause issues in teams with weaker Hydro application. N2CJ is almost always guaranteed to apply Pyro at least once from Normal Attacks due to them being subject to the 2.5s ICD reset. With well-executed N2CDs, every third N2CD does not apply any Pyro from Normal Attacks.
+Note that it is also possible to run into dash cooldown with N2CDs if you are doing them extremely well.
+N2Cs are the preferred combos with Yun Jin to maximize the buff from her Burst.
+Video of 10N2CJ by BowTae#0141
+Video of 12N2CD by BowTae#0141
+Uncancelled Combos
+Playing C0 Hu Tao without cancels and just spamming her CAs allows you to reach close to the same level of damage as playing her with good jump cancels. Assuming all Normal Attacks hit, uncancelled N1Cs are about 90% as effective as good N1CJs, while uncancelled N2Cs are around 95% as effective as good N2CJs.
+This means that uncancelled combos can perform fairly similarly in terms of damage while significantly easing the mechanical difficulty involved. However, they have other significant drawbacks.
+The true benefit of jump cancels is positioning. Jump cancels allow Hu Tao to remain relatively stationary rather than fly past enemies, which frequently causes Hu Tao and her teammates to miss their subsequent attacks. Hu Tao can miss her subsequent Normal Attacks due to being too far away. Additionally, Yelan’s Burst can miss after performing an uncancelled Hu Tao Charged Attack; it’s generally best to avoid uncancelled combos when using Hu Tao with Yelan.
+However, uncancelled combos perform perfectly fine in terms of DPS as long as positioning and targeting isn’t an issue. For most players, uncancelled combos likely yield better damage than suboptimally-performed jump cancels.
+It is possible to perform 9N1C and 8N2C without any cancels.
+Video of uncancelled N1Cs by Peekays#2722
+Video of uncancelled N2Cs by Peekays#2722
+Skill State Extension
+Hu Tao’s Skill state, Paramita Papilio, will not expire during a Charged Attack as long as said CA is initiated while the state is still active. This mechanic is often referred to as “PP Slide”.
+If Hu Tao casts her Burst during the ending frames of a CA for which Paramita Papilio is active, the Burst will likewise snapshot buffs from the extended Paramita Papilio state. This allows Hu Tao to reliably cap off her combos with Burst without losing any Skill state uptime. In other words, if you buffer a Burst during your last CA during Paramita Papilio, you will always be able to add a Burst to the end of your combo.
+Hitlag Extension
+As with many other effects in Genshin, Hu Tao’s Paramita Papilio state is subject to hitlag extension. Hitlag extension is the phenomenon whereby the duration of some effects (such as buffs and auras) can be extended by hitting enemies with attacks that have a certain type of hitlag. Basically, Paramita Papilio lasts longer if Hu Tao hits a Ruin Guard than if she attacks a Hilichurl or thin air.
+In theory, the amount of time spent in hitlag gets added to the total duration of the effect in question. However, due to the particular way that the game calculates this additional time, hitlag extension usually meaningfully prolongs the duration of Paramita Papilio to allow certain combos to become possible only with hitlag.
+Hu Tao’s hitlag extension is also somewhat inconsistent, which affects the reliability of her ceiling combos. Frame rate can also affect the duration of her Skill state, making certain combos feasible at 30 FPS but not possible at 60 FPS.
+Although the nuances of these mechanics are irrelevant for the vast majority of players, they can be useful for those pushing Hu Tao’s mechanical ceiling.
+Combo Comparison
+How to read table:
+The first column represents the number of N2C or N1C combos performed. For example, the fifth row under “N2C Combos” shows that 8x N2C is 126% of the damage of 6N2C, has 73 frame leeway if using jump cancels, and is a consistent C0 N2C combo to aim for.
+“Frame leeway” means the amount of frames available as a cushion between performing the combo perfectly and being unable to perform it (i.e. the difference between frame-perfect execution and the duration of her Skill state). Frame leeway is based on
+gcsim
+/
+KQM TCL
+frames, counted at 60 frames per second (FPS) with hitlag extension taken into account. It doesn’t reflect the possibly inconsistent hitlag extension results you may get in practice.
+D = dash cancel; J = jump cancel. Check the
+Glossary
+to see combat notation definitions.
+Number of combos
+% Damage (6N2CJ)
+Cancel
+Frame Leeway (at 60 FPS)
+Notes
+N2C Combos
+12
+172%
+D
+-54
+Legendary C1 combo; inconsistently possible when frame shenanigans are on your side at 30FPS only. Needs dash Stamina reduction effect.
+11
+160%
+D
+10
+Possible with perfect execution.
+10
+147%
+D
+59
+Consistent C1 N2C goal combo.
+J
+-64
+Legendary C0 combo; inconsistently possible with frame shenanigans at 30FPS only. Requires Stamina reduction effect at C0.
+9
+134%
+D
+108
+J
+12
+Possible with perfect execution.
+8
+126%
+D
+157
+Average difficulty combo for N2CDs.
+J
+73
+Consistent C0 N2C goal combo.
+None
+31
+7
+113%
+D
+206
+J
+134
+None
+98
+6
+100%
+J
+195
+Average or slightly below average difficulty combo for N2CJs.
+N1C Combos
+12
+149%
+D & J
+18
+Requires jump cancel every 3rd CA due to dash cooldown.
+11
+139%
+D & J
+59
+Requires jump cancel every 3rd CA. Consistent C1 peak combo for N1C, but not recommended due to difficulty of muscle memory.
+10
+129%
+D
+73
+J
+28
+Requires Stamina reduction effect at C0.
+9
+117%
+D
+121
+Average difficulty combo for N1CDs.
+J
+81
+Consistent C0 N1C goal combo.
+None
+9
+8
+107%
+D
+169
+J
+134
+None
+71
+Consistent uncancelled N1C goal combo.
+7
+98%
+J
+187
+Average or slightly below average difficulty combo for N1CJs.
+Mixed Combo
+9N2C 2N1C
+156%
+D
+23
+Slightly easier to perform than 11N2CD while yielding comparable DPS.
+NA Spam
+N1C 2N6 N4
+73%
+None
+16
+Uses N1C at the start to apply Blood Blossom, followed by NA spam.
+3 N6
+61%
+None
+9
+No CAs, no cancels—pure NA spam.
+Art by
+カムイ
+“Hu as in ‘Who put me in this coffin?’ and Tao as in ‘I can’t geT OUt!’ Hehe… No, not funny?”
+Constellations
+Constellation 1
+Constellation 2
+Constellation 3
+Constellation 4
+Constellation 5
+Constellation 6
+Constellation 1
+Constellation 1 |
+Crimson Bouquet
+While in a Paramita Papilio state activated by Guide to Afterlife, Hu Tao’s Charge Attacks do not consume Stamina.
+Hu Tao’s C1 is her most powerful Constellation. It is arguably the best C1 in the game, and competes with some of the better C2s. It allows her to dash cancel her Charged Attacks without worrying about Stamina, which not only allows her to fit more CAs into her DPS window, but also makes her feel much better to play.
+Note that if you are executing dash cancels quickly, you can encounter the dash cooldown after two dashes. Be prepared to jump cancel if this happens.
+C1 is the recommended stopping point for low-spenders or F2Ps.
+Note that C1 is only a DPS increase if you are taking advantage of the Stamina reduction effect to dash cancel and execute higher-damage combos. Otherwise, the only benefit C1 will provide is more Stamina left over at the end of a combo.
+Estimated DMG increase from C0: ~
+20% (Assuming 2 extra CA combos)
+Constellation 2
+Constellation 2 |
+Ominous Rainfall
+Increases the Blood Blossom DMG by an amount equal to 10% of Hu Tao’s Max HP at the time the effect is applied.
+Additionally, Spirit Soother will also apply the Blood Blossom effect.
+Hu Tao’s C2 makes her Blood Blossoms considerably less burdensome by greatly improving their damage. Nice to have, but rather unnecessary.
+Estimated DMG increase from C1:
+7%
+Cumulative DMG increase over C0:
+28%
+Constellation 3
+Constellation 3 |
+Lingering Carmine
+Increases the Level of Guide to Afterlife by 3.
+Maximum upgrade level is 15.
+A fairly standard Talent upgrade.
+Estimated DMG increase from C2:
+9%
+Cumulative DMG increase over C0:
+36%
+Constellation 4
+Constellation 4 |
+Garden of Eternal Rest
+Upon defeating an enemy affected by a Blood Blossom that Hu Tao applied herself, all nearby allies in the party (excluding Hu Tao herself) will have their CRIT Rate increased by 12% for 15s.
+Functions similarly to her A1 Passive; however, it isn’t particularly useful in single-target fights, as the trigger condition is tied to defeating enemies.
+Estimated DMG increase from C3:
+0% (does not take team DPS increase into account)
+Cumulative DMG increase over C0:
+36%
+Constellation 5
+Constellation 5 |
+Floral Incense
+Increases the Level of Spirit Soother by 3.
+Maximum upgrade level is 15.
+While levels to Hu Tao’s Burst are generally inconsequential, it does notably benefit nuke/Damage per Screenshot setups, both of which place a high emphasis on her Burst’s damage.
+Estimated DMG increase from C4:
+1%
+Cumulative DMG increase from C0:
+37%
+Constellation 6
+Constellation 6 |
+Butterfly’s Embrace
+Triggers when Hu Tao’s HP drops below 25%, or when she suffers a lethal strike:
+Hu Tao will not fall as a result of the DMG sustained. Additionally, for the next 10s, all of her Elemental and Physical RES is increased by 200%, her CRIT Rate is increased by 100%, and her resistance to interruption is greatly increased.
+This effect triggers automatically when Hu Tao has 1 HP left.
+Can only occur once every 60s.
+While Hu Tao gets a huge buff from her C6, it isn’t always easy to activate in regular gameplay. Hu Tao needs to intentionally take damage or cast her Skill 4 times to activate this buff, and the 60s cooldown makes it difficult to use. That said, the buff it provides is so significant that it can be worth building around, particularly considering that it is highly likely owners of a C6 Hu Tao also have significant investment poured into their characters; building around her C6 can allow them to reliably one rotate Abyss floors, hugely speeding up their clears.
+Estimated DMG increase from C5:
+14% (damage over 2 rotations)
+28% (damage
+over
+one rotation; no CRIT fish build
+)
+97% (damage
+over
+one rotation; stats optimized for C6)
+Cumulative DMG increase from C0:
+56-170%
+Art by
+@xiao00417
+“A bright moon aloft amid the vast, clear skies… Moments like these are just perfect for writing poetry.”
+Artifacts
+Artifact Stats
+Sands
+Goblet
+Circlet
+EM or HP%
+Pyro DMG%
+CRIT Rate or CRIT DMG
+HP vs EM Sands
+Assuming equal substats, EM Sands usually yields very slightly higher damage potential than HP% Sands with most weapons (aside from EM substat weapons like Dragon’s Bane). Conversely, HP% Sands typically provides slightly less damage potential but gives more HP and thus more survivability.
+Stat Priorities
+EM to ~100-150 > CRIT > EM to 200-300 > HP% > ATK% > Flat HP = Flat ATK > ER%
+If using 4CW, the first EM breakpoint is 100 EM; if using other sets, the breakpoint is closer to 150 EM. The EM breakpoints consider total EM, including EM buffs. For reference, Sucrose provides around 150 EM on average, 4pc Instructor gives 120 EM and R1 Elegy for the End gives 100 EM. As always, you should aim for a 1:2 CRIT ratio as much as possible.
+Use the
+Genshin Optimizer
+to compare your actual artifacts. You can use this Optimizer
+configuration generator
+by Poiyo#3488 to create your custom multi-hit optimization target.
+HP to ATK Conversion Cap
+The ATK bonus granted by Hu Tao’s Skill based on her Max HP cannot exceed 400% of her Base ATK. It is not rare to hit the cap on this ATK bonus with certain low Base ATK weapons if using an HP Sands and gaining HP% buffs and a few HP% substat rolls. When optimizing your build, pay attention to whether you are capping out your HP to ATK conversion, as it means that you should shift investment priority away from HP stats.
+You can use the HP conversion cap calculator
+here
+.
+Energy Recharge
+Hu Tao does not typically need any Energy Recharge, as she doesn’t need to Burst every rotation, especially if saving her Burst as an emergency panic button. When maximizing damage, it is optimal to play around the expectation that Hu Tao will be Bursting every other rotation with non-Shimenawa’s sets and every fourth rotation with Shimenawa’s.
+With that said, Hu Tao appreciates up to 10% ER on non-Shimenawa’s sets to consistently Burst every other rotation even in low-Energy scenarios. Furthermore, ER rolls on any set should not be considered wasted as the ability to Burst more often in high-Energy scenarios can be helpful for both damage and survivability.
+Artifact Sets
+Artifact Set/s
+Notes
+4pc Crimson Witch of Flames (CW)
+Very strong on Hu Tao, even though she is unable to obtain more than one stack of its 4pc effect. She benefits from all of its effects. Furthermore, it scales well with EM buffs, and can be farmed directly and/or strongboxed for, making it a good all-rounder set.
+4pc Shimenawa’s Reminiscence (SR)
+Provides higher damage on Hu Tao’s Normal and Charged Attacks than 4CW, but significantly reduces the frequency with which she can Burst due to its Energy drain mechanic. Restricted Burst usage can pose issues for survivability; it is generally recommended that you run 4SR Hu Tao with a defensive unit.
+4SR also prevents you from Bursting immediately after casting Skill. This reduces the flexibility of Hu Tao’s gameplay in scenarios where you want to Burst upfront to take advantage of buffs for nuking.
+4pc Gilded Dreams (GD)
+4pc Gilded Dreams generally performs a little worse than 4CW; however, it is close enough that substats will usually be the deciding factor. This is especially the case when the 4pc effect’s conditions are met to maximize the EM buff, such as in Double Hydro teams.
+4GD does lose some of its value compared to 4CW in teams with significant EM buffs, such as when Sucrose or C2 Kazuha is used.
+2pc Mixed Sets
+2pc artifact combos are not far behind dedicated 4pc sets for Hu Tao. As such, if your 2pc sets have good enough substats, they can be better than a full 4CW or 4SR set.
+It is best to make your 2pc combo out of pieces from Tenacity of the Millelith, Crimson Witch of Flames, and one of the EM sets. 2pc Marechaussee Hunter is also usable.
+Click the dropdowns below to view/hide its contents.
+Artifact Comparison Table (R1 Dragon’s Bane)
+Assumptions
+R1 Dragon’s Bane; HP/Pyro/CRIT; 8N1C Q 2BB Vaped; unbuffed; KQMS.
+Artifact Set
+% of 4 Crimson Witch
+4pc Shimenawa’s Reminiscence
+101%
+4pc Crimson Witch of Flames (1 Stack)
+100%
+4pc Gilded Dreams (3 Stack EM)
+97%
+2pc Crimson Witch of Flames + 2pc 80 EM
+94%
+2pc Crimson Witch of Flames + 2pc Tenacity of the Millelith
+94%
+2pc Tenacity of the Millelith + 2pc 80 EM
+93%
+2pc 80 EM + 2pc 80 EM
+93%
+2pc Crimson Witch of Flames + 2pc 18% ATK
+91%
+2pc 80 EM + 2pc 18% ATK
+91%
+2pc Tenacity of the Millelith + 2pc 18% ATK
+91%
+2pc 18% ATK + 2pc 18% ATK
+88%
+Artifact Comparison Table (R1 Deathmatch)
+Assumptions
+R1 Deathmatch; HP/Pyro/CRIT; 8N1C Q 2BB Vaped; unbuffed; KQMS.
+Artifact Set
+% of 4 Crimson Witch
+4pc Shimenawa’s Reminiscence
+100%
+4pc Crimson Witch of Flames (1 Stack)
+100%
+4pc Gilded Dreams (3 Stack EM)
+100%
+2pc 80 EM + 2pc 80 EM
+95%
+2pc Crimson Witch of Flames + 2pc 80 EM
+95%
+2pc Tenacity of the Millelith + 2pc 80 EM
+93%
+2pc Crimson Witch of Flames + 2pc Tenacity of the Millelith
+93%
+2pc 80 EM + 2pc 18% ATK
+90%
+2pc Crimson Witch of Flames + 2pc 18% ATK
+90%
+2pc Tenacity of the Millelith + 2pc 18% ATK
+88%
+2pc 18% ATK + 2pc 18% ATK
+86%
+See the
+mastersheet
+for more detailed artifact comparisons in other scenarios.
+Art by
+晓盆友
+“Wangsheng Funeral Parlor is special, in that it carries a dual responsibility, to those both of this realm, and the next.”
+Weapons
+Weapon
+Notes
+Staff of Homa
+Hu Tao’s uncontested BiS. The weapon tends to be strong even on characters that cannot fully use the passive; Hu Tao maximizes the value it provides as she makes use of the weapon’s HP% passive and possesses innate HP drain in her kit.
+Staff of the Scarlet Sands
+While Hu Tao cannot fully stack Staff of the Scarlet Sands in single-target, the EM to ATK conversion and high CRIT Rate it provides make it potent, particularly on high EM builds.
+4GD becomes a more attractive artifact set option if you are using this weapon, as the gap between 4SR and 4GD narrows. See
+here
+for calcs.
+Ballad of the Fjords
+This Battle Pass weapon is very competitive at R1, and is among Hu Tao’s best weapons at R5 when the passive is up. Since the passive only needs a team with 3 different elements to activate, it works in most of Hu Tao’s preferred teams.
+Dragon’s Bane
+Dragon’s Bane has a strong passive and provides a healthy dose of EM, making it a very strong option. It scales very well with refinements, and at R5 is highly competitive with Hu Tao’s other 5-star weapon options. However, it loses value with further EM buffs. It also performs slightly worse relative to other weapons in the context of Yelan’s A4 Passive buff, which diminishes the value of the weapon’s DMG Bonus.
+Deathmatch
+While Hu Tao cannot make optimal use of the ATK% passive, Deathmatch is nonetheless a strong and reliable weapon, due to its sizable CRIT Rate stat.
+Primordial Jade Winged-Spear
+Since Hu Tao does not benefit fully from its ATK% passive and stacks this weapon relatively slowly, it performs on par with equivalent refines of Dragon’s Bane and Deathmatch. Its performance at lower refines falls short of high-refine Dragon’s Bane and Deathmatch. PJWS only reaches maximum stacks on the fourth N2C, fifth N1CJ, or sixth N1CD.
+Lithic Spear
+At high refines with four Liyue characters in the team, this weapon is very strong. Given that Hu Tao’s best teammates (Xingqiu, Yelan and Zhongli) are all from Liyue, teambuilding to activate maximum stacks on this weapon comes naturally, though you should not force it. However, it is not recommended to roll specifically for weapon banner exclusive 4-stars.
+Missive Windspear (R5)
+This event weapon is Hu Tao’s best non-gacha option, with an easily triggered passive.
+White Tassel (R5)
+Obtained from chests in Liyue, including the Chasm. This Polearm is the best F2P option if you do not have Missive Windspear from its event. White Tassel performs better with N2C combos.
+Blackcliff Pole
+It is not recommended to use Starglitter to buy this weapon. However, if you already have one and lack any alternative, it is usable until you pull one of the weapons recommended above.
+Click the dropdowns below to view/hide its contents.
+Weapon Comparison Table (With HP Sands)
+Assumptions
+KQMS; 4CW; HP/Pyro DMG/CRIT; 7N2C Burst 2BB Vaped; 100% ER requirement; unbuffed.
+Weapon
+% of
+Blackcliff Pole
+Staff of Homa R5 (<50% HP)
+166%
+Staff of Homa R1 (<50% HP)
+136%
+Staff of the Scarlet Sands R5 (Dynamic Buff)
+127%
+Ballad of the Fjords R5 (Passive Up)
+127%
+Lithic Spear R5 (4 Stacks)
+122%
+Primordial Jade Winged-Spear R5 (Dynamic Buff)
+121%
+Staff of the Scarlet Sands R1 (Dynamic Buff)
+121%
+Dragon’s Bane R5 (Passive Up)
+120%
+Deathmatch R5 (1 Opponent)
+116%
+Dragon’s Bane R3 (Passive Up)
+116%
+Ballad of the Fjords R1 (Passive Up)
+115%
+Lithic Spear R3 (4 Stacks)
+114%
+Deathmatch R3 (1 Opponent)
+114%
+Deathmatch R5 (2 Opponents)
+113%
+Primordial Jade Winged-Spear R1 (Dynamic Buff)
+112%
+Dragon’s Bane R1 (Passive Up)
+112%
+Deathmatch R1 (1 Opponent)
+111%
+Deathmatch R3 (2 Opponents)
+111%
+Deathmatch R1 (2 Opponents)
+109%
+Missive Windspear R5 (Passive Up)
+106%
+Lithic Spear R5 (2 Stacks)
+106%
+Lithic Spear R1 (4 Stacks)
+106%
+Vortex Vanquisher R1 (Dynamic Buff, Shielded)
+106%
+Lithic Spear R3 (2 Stacks)
+102%
+Ballad of the Fjords (No Passive)
+102%
+Vortex Vanquisher R1 (Dynamic Buff, Shieldless)
+102%
+Calamity Queller R1 (Passive Up)
+101%
+White Tassel R5
+101%
+Blackcliff Pole (No Stacks)
+100%
+Lithic Spear R1 (2 Stacks)
+98%
+Kitain Cross Spear R5
+97%
+Moonpiercer (No Passive)
+96%
+Wavebreaker’s Fin R5 (280 Energy)
+96%
+Wavebreaker’s Fin R1 (280 Energy)
+93%
+Black Tassel R5 (No Passive)
+92%
+Weapon Comparison Table (With EM Sands)
+Assumptions
+KQMS; 4CW; EM/Pyro DMG/CRIT; 7N2C Burst 2BB Vaped; 100% ER requirement; unbuffed.
+Weapon
+% of
+Blackcliff Pole
+Staff of Homa R5 (<50% HP)
+166%
+Staff of the Scarlet Sands R5 (Dynamic Buff)
+137%
+Staff of Homa R1 (<50% HP)
+136%
+Lithic Spear R5 (4 Stacks)
+127%
+Staff of the Scarlet Sands R1 (Dynamic Buff)
+126%
+Primordial Jade Winged-Spear R5 (Dynamic Buff)
+124%
+Ballad of the Fjords R5 (Passive Up)
+121%
+Deathmatch R5 (1 Opponent)
+118%
+Lithic Spear R3 (4 Stacks)
+118%
+Deathmatch R3 (1 Opponent)
+115%
+Dragon’s Bane R5 (Passive Up)
+114%
+Deathmatch R5 (2 Opponents)
+114%
+Primordial Jade Winged-Spear R1 (Dynamic Buff)
+114%
+Ballad of the Fjords R1 (Passive Up)
+113%
+Deathmatch R1 (1 Opponent)
+112%
+Deathmatch R3 (2 Opponents)
+112%
+Vortex Vanquisher R1 (Dynamic Buff, Shielded)
+111%
+Dragon’s Bane R3 (Passive Up)
+111%
+Deathmatch R1 (2 Opponents)
+110%
+Lithic Spear R1 (4 Stacks)
+109%
+Lithic Spear R5 (2 Stacks)
+109%
+Dragon’s Bane R1 (Passive Up)
+107%
+Missive Windspear R5 (Passive Up)
+107%
+Vortex Vanquisher R1 (Dynamic Buff, Shieldless)
+106%
+Lithic Spear R3 (2 Stacks)
+105%
+Calamity Queller R1 (Passive Up)
+104%
+Lithic Spear R1 (2 Stacks)
+101%
+White Tassel R5
+101%
+Ballad of the Fjords (No Passive)
+101%
+Blackcliff Pole (No Stacks)
+100%
+Wavebreaker’s Fin R5 (280 Energy)
+96%
+Wavebreaker’s Fin R1 (280 Energy)
+95%
+Kitain Cross Spear R5
+95%
+Moonpiercer (No Passive)
+95%
+Black Tassel R5 (No Passive)
+94%
+See the
+mastersheet
+for more detailed weapon comparisons in other scenarios.
+Art by
+@kurattes
+“Ugh, how can you call me a weirdo? I mean, wouldn’t you say it’s more… charmingly naive? Or… disarmingly different?”
+Synergies
+Although Hu Tao’s team archetypes are limited, her choice of teammates is fairly flexible. Beyond wanting a Hydro enabler to Vape her damage, she is usually free to balance between damage, buffs, survivability, and utility in her teammates to tailor to content. Furthermore, she also has viable Mono Pyro compositions that give even more variety in her team building than most hypercarries.
+The following list of characters is not exhaustive, but generally covers Hu Tao’s most notable unit synergies.
+Hydro Units
+Hydro units are essential for providing Hydro application to boost Hu Tao’s damage via Vaporize. Hu Tao also benefits from Hydro Resonance when drafted in teams with two or more Hydro units.
+Character
+Notes
+Xingqiu
+Hu Tao’s best friend, in and out of combat. Xingqiu is the most reliable Hydro applier for Hu Tao, deals high personal damage, and also provides much-appreciated utility with his Interruption Resistance, micro-healing, and DMG Reduction. All of his defensive buffs help offset Hu Tao’s self-damage without the risk of losing her A4 Passive’s Pyro DMG Bonus.
+Furthermore, he generates a massive amount of particles, allowing him to be mostly self-sufficient with Energy. Finally, his particles and C2 Hydro RES Shred help Yelan tremendously when they are paired together.
+Even at C0, Xingqiu generally applies more Hydro than pre-C2 Yelan due to his Rain Sword orbitals alongside his Burst waves. This is especially true if you’re canceling CAs to stay near the enemy, as his orbitals are more likely to apply Hydro more frequently.
+However, pre-C6 Xingqiu may struggle to re-establish Hydro aura in situations where there is notable interference, such as when both Zhongli’s pillar and Albedo’s flower are hitting enemies. At C6, it’s very difficult to lose Hydro aura since Xingqiu’s Burst will apply Hydro twice every third attack, which “resets” the aura if it’s ever lost.
+Yelan
+Prior to C2, Yelan by herself usually does not apply enough Hydro for Hu Tao to consistently trigger Vape for most players, especially if there are other party members like Zhongli or Albedo consuming the Hydro aura. As such, it is recommended to pair Yelan with another Hydro applier—like Xingqiu or Kazuha—or use an Electro unit like Fischl to “protect” the Hydro aura. Xingqiu is particularly notable, as Xingqiu and Yelan’s ability to battery each other results in strong synergy. Hu Tao is one of the best characters to take advantage of this as she benefits from Hydro Resonance and can use their high Hydro application to increase her damage.
+Highly skilled players are capable of vaping all of Hu Tao’s CAs with Yelan to varying degrees of consistency, but the amount you vape can vary widely. When using solo Yelan, it can be helpful for Hu Tao to switch to N1C combos due to their lower rate of Pyro application.
+Yelan can also provide a large ramping DMG% buff to Hu Tao via her A4 Passive. You can better capitalize on this effect if you align the end of Hu Tao’s Skill window with the end of Yelan’s Burst when her A4 Passive buff is at its highest, especially if Hu Tao is able to Burst.
+Yelan’s ER requirements in Solo Hydro teams are typically very high and you will often require both Favonius Warbow and ER Sands to offset them. However, some teams can sneak in two uses of Yelan’s Skill per rotation, significantly alleviating her Energy struggles and allowing for more offensive builds.
+Mona
+Mona can be run as a niche pick in Double Hydro with Xingqiu or Yelan. The DMG Bonus from Mona’s Burst can provide significant buffs for Hu Tao’s Burst, and generally frontload her damage in a shorter window if needed. Mona’s C1 and C4 can also provide additional buffs. Mona will generally either use Thrilling Tales of Dragon Slayers or Prototype Amber to condense additional utility into her slot.
+However, Mona generally isn’t a fantastic option, as Hu Tao quickly pops Mona’s Illusory Bubble, resulting in poor buff uptime.
+Candace
+Once she is C6, Candace becomes an unusual pick who can work decently with Hu Tao, under specific conditions. Candace’s C6 allows her to apply Hydro when the active character performs Normal Attacks. Although this Hydro application is slow, it is enough for Hu Tao to reliably Vape with Yelan, freeing Xingqiu for another team.
+Pairing Candace with Yelan also activates Hydro Resonance, which is a large buff for both Hu Tao’s and Yelan’s damage. Candace also provides a moderate buff to Hu Tao’s Normal Attacks, which Hu Tao can take greater advantage of by doing N2C combos.
+How to Gear Xingqiu / Yelan
+Xingqiu and Yelan generally prefer 4pc Emblem of Severed Fate to increase their personal damage.
+In Double Hydro teams, using 4pc Noblesse Oblige is generally not recommended on either of them as ATK% buffs don’t benefit Hu Tao very much and don’t benefit Yelan at all. However, Xingqiu could viably carry 4pc Noblesse in teams with another ATK-scaling DPS unit.
+In Solo Hydro, Xingqiu’s preferred weapons are Favonius Sword for shorter rotation time, or R3+ Sacrificial Sword. Yelan can hold Favonius Warbow for extra Energy, or Elegy for the End for the team buff.
+In Double Hydro, either Yelan or Xingqiu has the freedom to equip a more damage-oriented weapon since they reduce each other’s ER requirements. In rotations where Yelan can use two Skills, it is generally better to put a DPS weapon on Xingqiu and Favonius Warbow on Yelan since she will be on-field to proc Favonius twice. However, if you have a well-invested Yelan with Aqua Simulacra, you may prefer to put Favonius/Sacrificial Sword on Xingqiu instead. At sufficiently low ER requirements, such as when Yelan is using two Skills and the final teammate carries a Favonius weapon, both Xingqiu and Yelan can run non-ER offensive weapons.
+For more information on these units, refer to the
+Xingqiu Quick Guide
+.
+Shielders
+Hu Tao strongly benefits from running a shielder in her teams. Because of her HP drain and desire to stay under 50% HP for increased damage, shielders synergize better with Hu Tao than healers.
+Additionally, Hu Tao’s damage output increases significantly when she can perform her optimal combos. Her ability to do so is hampered when she needs to dodge to avoid enemy hits or gets interrupted. Shielders alleviate this issue, especially for C0 Hu Tao, who does not have the benefit of dash i-frames for added survivability.
+Character
+Notes
+Zhongli
+Zhongli has the strongest and longest-lasting shield in the game, and also provides Universal RES Shred. He is generally the best defensive option for Hu Tao teams. This is especially true in Double Hydro teams, where Swirling Pyro for VV Shred is impractical. As such, the Pyro and Hydro RES Shred Zhongli provides is very welcome.
+However, Zhongli’s periodic Geo application from his pillar(s) may interfere with Hu Tao’s Vape consistency in teams with weaker Hydro application, such as solo Hydro Yelan. This is especially problematic when Zhongli is paired with Albedo. As such, it can be worthwhile to generate Zhongli’s pillar away from enemies.
+How to Gear Zhongli
+Zhongli can choose to hold 4pc Instructor to buff Hu Tao’s EM for Vapes, 4pc Tenacity of the Millelith to buff Xingqiu or other ATK-scaling teammates, or 4pc Archaic Petra to provide DMG Bonus for an Element. His best set in Double Hydro is 4pc Archaic Petra to buff the Hydro units, though he has to pick up the Hydro shard to activate the buff — this is not always reasonable, consequently lowering the set’s value. If Hu Tao has significantly higher investment than Xingqiu and Yelan, you may get higher team damage with 4pc Instructor on Zhongli. To maximize 4pc Instructor uptime, you should Crystallize with Zhongli’s Hold E right before switching to Hu Tao.
+4pc Tenacity of the Millelith is a distant third option which provides a stronger shield but suffers from uptime issues due to the inconsistency of Zhongli’s pillar (full pillar uptime is unlikely in rotations shorter than 30s unless the pillar gets destroyed, since Hold E doesn’t reposition an existing pillar). The ATK% buff also does not benefit Hu Tao much.
+While the buffs from these artifact passives are valuable, farming these sets can be very inconvenient, and Zhongli performs fine with rainbow sets.
+Thoma
+Thoma generates a strong shield that stacks when performing Normal Attacks, provides Hu Tao with Interruption Resistance, and also gives her Normal and Charged Attack DMG Bonus at C6. He can also apply Pyro for VV Vape setups.
+The Pyro application from Thoma’s Burst hits can steal Vapes from Hu Tao, especially with a pre-C6 Xingqiu. Using N1Cs increases Vape consistency with units such as Sucrose and Heizou, who can’t consistently apply Hydro via Absorption in their Bursts like Kazuha. With Kazuha’s Hydro-absorbed Burst, Hu Tao can use N2Cs without much risk of Thoma stealing Vapes.
+Thoma can hold 4pc Instructor or 4pc Noblesse Oblige for team buffs.
+Layla
+Layla has the second strongest on-cast shield in the game, but it only lasts a mere 12 seconds.
+By herself, Layla only provides a small Flat DMG increase with her C4 — which is nothing to write home about — but as a Cryo character, she can enable Vapemelt, which provides a small boost in damage.
+Layla can also hold a variety of support gear. Both 4pc Noblesse and 4pc Tenacity provide additional ATK%, and 4pc Instructor is also an option for additional EM at the cost of her shield strength. She can also reliably trigger Freedom-Sworn’s passive, as she will always be the Freeze trigger.
+Diona
+Diona’s shield from her Hold Skill is weaker in effective HP than the above units, but it does not risk interfering with any auras. Diona’s Burst can be skipped to avoid healing Hu Tao above 50% HP, though at C6 the additional 200 EM buff from Diona’s Burst partly mitigates the damage loss from the lack of Hu Tao’s A4 Passive. However, Diona has low 12s shield uptime, like Layla.
+C4 Yanfei
+At C4+, Yanfei can provide a decently strong shield which does not interfere with Vape consistency. She can also apply Pyro for VV Vape setups.
+However, Yanfei has significant ER requirements when Bursting every rotation in order to generate her shield. This necessitates the use of either Favonius Codex, which weakens her shield, or Prototype Amber, which heals and prevents Hu Tao from activating her A4 Passive for several rotations.
+Anemo Units
+Anemo units are primarily included to supply 4VV RES Shred, grouping, and buffs—which are found in many of their kits. Even when Swirling Pyro is impractical, such as in Double Hydro teams, some offer their buffs in a team-wide manner (such as EM sharing from Sucrose’s A4 Passive), and/or are able to boost other damage dealers.
+Character
+Notes
+Kazuha
+Kazuha provides a DMG% Bonus through his A4 Passive and contributes good personal damage, particularly in multi-target situations. In Solo Hydro teams, you can absorb Hydro in his Burst to increase Vape consistency.
+Kazuha can pose some issues in VV Vape setups, since Swirling with his Skill typically puts him in range of enemies. This may cause Xingqiu’s Rain Sword orbitals to apply Hydro and make it difficult to establish Pyro aura for Pyro VV.
+If used in Double Hydro teams, Kazuha generally can only shred Hydro RES. Although it’s possible to Swirl Pyro in Double Hydro teams by utilizing the Pyro application from Blood Blossoms in subsequent rotations, this technique is
+WAYTOODANK
+incredibly difficult and inconsistent.
+Sucrose
+Sucrose provides an EM buff, which Hu Tao appreciates. It is generally easier to perform VV Vape setups with Sucrose compared to Kazuha as her faster animations — combined with more ways to Swirl — reduce the chance of something going wrong.
+In addition, Sucrose has lower field time, allowing for delays and simplifying the rotation. However, her grouping is weaker compared to Kazuha. Further, Sucrose’s buffs only buff Hu Tao, whereas Kazuha’s A4 Passive can be set up to boost multiple teammates.
+Heizou
+Similar to Sucrose, but trades a smaller EM buff for higher personal damage. Heizou is typically less useful than Sucrose because he generally lacks ATK buffs in typical Hu Tao teams, which neuters his damage potential. Furthermore, the fact Hu Tao’s damage scales so significantly off of EM means Sucrose is the better option.
+Flex Units
+Flex units typically either provide buffs, personal damage, or come with some other additional utility such as enabling VV setups or ensuring Vape consistency. This makes them generally important on Hu Tao teams; however, most of them are relegated to specific archetypes that use their abilities best.
+Character
+Notes
+Bennett
+Bennett’s buff is large enough to make up for the decrease in Hu Tao’s Pyro DMG Bonus from being above 50% HP — especially when he is C6. This means that Bennett, at least on paper, is one of the best Pyro supports for Hu Tao. Furthermore, his strong Pyro application allows for some creative VV setups.
+However, many other teams may value Bennett more. In addition, with Hu Tao’s constant mobility due to her Charged Attacks and cancels, it may be difficult to stay within Bennett’s Burst.
+Xiangling
+Without Bennett to support her, Xiangling’s damage is greatly reduced, albeit still significant. Further, her C1 Pyro RES Shred and C6 Pyro DMG Bonus make her a valuable party member for Hu Tao.
+Due to Xiangling’s high off-field Pyro application, she and Hu Tao can easily overwhelm most off-field Hydro appliers on their own. It is necessary to run both Xingqiu and Yelan to allow both Pyro units to Vape consistently. Xiangling’s Energy requirements in these teams are obscene, requiring Favonius weapons on both herself and her teammates to bring them down to reasonable levels.
+She can also be used alongside Bennett in Mono Pyro Hu Tao teams, forgoing Vape altogether while still maintaining decent damage—particularly in AoE.
+Amber
+Amber’s primary advantage is her extremely high rate of Pyro application with her Burst, which allows her to override any existing Hydro aura and reapply a Pyro aura for VV.
+She can hold Elegy for the End to provide Hu Tao and/or the entire team with more buffs, or Favonius Warbow for more team Energy. At C6, she also provides a small ATK% and Movement Speed buff.
+Additionally, her low damage contribution and Energy Cost make equipping a 4pc Instructor set on her for a bigger EM buff completely worth it, even with minimal substats.
+If you obtained Dehya, she can slot nicely into some Hu Tao teams. Her E provides a signficant amount of interruption resistance for Hu Tao, making her more comfortable to play, especially if paired with Yelan but not Xingqiu. Dehya also makes VV Double Swirl Setups extremely easy while also redirecting damage from Hu Tao, further increasing her survivability. She can further hold ToTM to slightly buff the team’s damage.
+Yun Jin
+Hu Tao should perform N2C combos to maximize Yun Jin’s Base DMG bonus to Normal Attacks. Although the buff from Yun Jin’s Burst doesn’t affect Charged Attacks, the Normal Attack buff to N2C combos is enough to make Yun Jin on par with Albedo in a Hu Tao Double Geo team. Additionally, Yun Jin doesn’t confine the player to a limited AoE unlike Albedo’s flower and doesn’t interfere with Hydro uptime.
+Yun Jin should be paired with Zhongli to provide Geo Resonance, which gives Hu Tao 15% DMG Bonus and strengthens Zhongli’s shield. His Geo particle generation helps alleviate Yun Jin’s ER requirements provided that his pillar is able to hit enemies consistently.
+Albedo
+Albedo can be run with Zhongli (in a Double Geo team) to provide off-field damage and Geo Resonance, as well as additional EM buffs via his Burst. However, he has some drawbacks, such as that his flower can be easily destroyed by Bosses, and requires enemies — and therefore Hu Tao — to stay within range of the flower to trigger his Blossoms.
+Furthermore, his Geo application can interfere with Vape consistency, particularly if used with other units that also react with the Hydro aura such as Zhongli. To mitigate the last problem, Zhongli’s pillar should be cast right on top of Albedo’s flower in order to make sure the pillar does not form.
+Nahida
+Nahida provides a massive long-lasting EM buff for Hu Tao with her Burst, while also enabling Burgeons for extra damage. While Burgeon provides Hu Tao with a bit more AoE in her damage profile, such teams suffer from some anti-synergy due to reduced Vape consistency, and they are difficult to play.
+As Nahida’s Dendro will completely consume any existing Hydro aura, Nahida should only be played in Double Hydro. In multi-target scenarios, the second Hydro unit may be Kokomi or Mona to apply Hydro in AoE for more Burgeons.
+As Burgeon ignores DEF and Xingqiu’s DMG Reduction, self-damage is an important consideration and can be potentially lethal. This is especially true for players using 4pc Shimenawa’s Reminiscence and/or C0 Hu Tao, who already have penalties placed on their survivability. If running Nahida in a team with Xingqiu and Yelan, Nahida can hold Prototype Amber to provide some minor healing.
+Fischl
+Fischl’s Electro application can benefit teams that struggle with Vape consistency by removing Pyro aura through Overloaded. Additionally, Hydro and Electro can co-exist via an Electro-Charged aura, which can be Vaporized.
+However, Overloaded staggers lighter enemies, requiring more Stamina to chase them down. As such, Fischl works best against enemies that cannot be staggered, such as Bosses and Automatons (e.g. Ruin enemies).
+Kaeya/Rosaria
+Kaeya and Rosaria serve as options for Hu Tao teams, contributing their own personal damage and enabling Hu Tao to occasionally Melt. While Vapemelt teams tend to deal lower damage than other Hu Tao teams and do not work against Bosses (because Freeze triggered on Bosses removes the aura completely), such teams provide quality of life against enemies that can be immobilized by Freeze and are more F2P-accessible.
+Rosaria’s CRIT Rate share and longer Burst duration with C2 generally make her the preferable choice, but Kaeya’s faster Cryo application, mobile Burst, dash Stamina reduction and personal damage at C6 can make him come out ahead. Either way, both are generally comparable in most situations.
+It is recommended to pair them with each other or with Layla/Diona for Cryo particles and occasional benefit from Cryo Resonance.
+Ganyu
+Due to the nature of Ganyu’s Burst targeting, her Cryo application is fairly unreliable without grouping. Thus, in most cases Kaeya/Rosaria fulfill Ganyu’s role with more consistency and less opportunity cost; her main advantage over them is her ability to hold Elegy for the End. However, this is a niche use case, as Vapemelt Hu Tao is primarily used as a comfortable budget option. Players who own both Elegy and Ganyu likely have better team options.
+Ayaka
+Ayaka typically has minimal synergy with Hu Tao, due to her short Cryo application uptime and enormous ER requirements, making her difficult to use in standard Hu Tao teams. However, her unmatched off-field Cryo application during her Burst’s short duration allows Hu Tao to Melt all her Charged Attacks in its uptime, making her a perfect pick for speedruns for those with the investment to manage them.
+Art by
+ふか
+“Come on then, my able assistants! Let’s get down to Liyue Harbor and do some business!”
+Team Compositions
+See the
+Glossary
+section for combat notation definitions.
+IMPORTANT NOTE: If no NA weaves are specified in a given rotation with Xingqiu/Yelan, you should weave NAs. If NAs are specified, it means the specific weave sequence is important to the setup and should be followed.
+Double Hydro
+Arguably Hu Tao’s most reliable team archetype. Xingqiu and Yelan strongly complement one another and provide Hu Tao with abundant Hydro application, Hydro Resonance, and Yelan’s ramping A4 Passive DMG Bonus. They also deal significant off-field damage, especially when paired together, as Xingqiu’s C2 provides Hydro RES Shred and they reduce each other’s ER requirements.
+There are many options for the last unit in this team. Players can choose from shielders like Zhongli and Thoma, groupers/buffers like Kazuha and Sucrose, off-field DPS units like Fischl, Kaeya and Xiangling, or any buffer for more damage. However, players should avoid using a healer (other than Bennett, though he has his own restrictions) in this slot, as being above 50% HP will significantly decrease Hu Tao’s damage output.
+While using 2 Skills on C0 Yelan where possible tends to be a DPS increase, this can oftentimes range from difficult to outright impossible to execute in some teams for what is usually only a minor DPS increase. Typically, the choice between doing one Skill or two Skills on C0 Yelan will come down to teams, personal preference and the player’s builds; notable exceptions are covered below.
+Zhongli Variant
+Kazuha Variant
+Generally Hu Tao’s best team in terms of comfort with almost no trade off in performance. Zhongli provides reliable RES Shred for both Pyro and Hydro, which is important given that Anemo characters can’t reliably 4VV Pyro in this team.
+Yelan 1E sample rotations:
+→ Xingqiu QE (catch particles) > Yelan EQ > Zhongli hE > Hu Tao combo (
+Setup video
+)
+→ Xingqiu QE (catch particles) > Zhongli hE > Yelan QE (catch particles) > Hu Tao combo (
+Setup video
+)
+Casting Zhongli’s Hold Skill right before Hu Tao’s combo provides the highest 4pc Instructor uptime for Hu Tao.
+Yelan 2E sample rotation:
+→ Xingqiu EQ > Zhongli hE > Yelan QE > Hu Tao combo > Yelan E
+Casting Yelan’s Skill right before and again right after Hu Tao’s field time allows you to fit two Yelan Skills in a rotation, which lowers both her and Xingqiu’s ER requirements. Additionally, this rotation allows you to line up Hu Tao’s DPS window with the end of Yelan’s Burst duration. This maximizes Yelan’s A4 Passive buff on Hu Tao, allowing for a notable DPS increase.
+This team exchanges Zhongli’s Universal RES Shred for Kazuha’s stronger, but more focused RES Shred as well as grouping, which helps greatly in multi-target scenarios. However, it also loses Zhongli’s shield, which does make survival harder. That said, Hu Tao’s high Max HP combined with Xingqiu’s DMG Reduction and her Burst healing makes it doable.
+Though his buffs are bigger, using Kazuha over Zhongli does not change the team’s damage significantly. Kazuha’s primary advantages over Zhongli are that he provides valuable grouping and buffs without having to deal with 4pc Archaic Petra’s mechanics.
+It is possible, from the second rotation onwards, to have Kazuha Swirl both Pyro and Hydro by using the Pyro application from Hu Tao’s Blood Blossom. However, the method is quite unreliable, and outside of speedruns, the setup doesn’t yield a significant boost in damage.
+Yelan 1E Rotation
+→
+Xingqiu Q E > Yelan Q E > Kazuha Q tEP > Hu Tao combo > Kazuha tEP (
+Setup video
+)
+Yelan 2E Rotation
+→
+Xingqiu Q E > Yelan Q > Kazuha Q tEP > Yelan E > Hu Tao combo > Yelan E > Kazuha tEP
+VV Vape
+VV Vape teams transfer more buffs onto Hu Tao by including an Anemo character to Swirl Pyro and buff Hu Tao, typically Kazuha or Sucrose. They will also require an additional Pyro character to provide a Pyro aura to swirl. Some choices include Thoma (for a shield), Amber (for easier setup and potentially Elegy for the End) and Bennett (for a big ATK buff).
+As usual, Xingqiu or Yelan will have to be present to enable Vape. At C0, solo Yelan is usually not enough to reliably Vape Hu Tao; the Anemo character should absorb Hydro to supplement her application. The Anemo character can usually Swirl Hydro too, allowing Xingqiu/Yelan to be buffed as well.
+Compared to Double Hydro and other Solo Hydro teams, VV Vape teams are harder to play because of their complex setups, but provide some grouping and a potentially higher ceiling for Hu Tao’s personal damage.
+Note that Yelan VV setups are significantly more difficult and more restricted than the Xingqiu variants due to Yelan’s shorter Burst uptime and lower Hydro application pre-C2, though they can also have higher damage ceilings than the Xingqiu versions. The lack of Xingqiu’s Interruption Resistance, DMG Reduction and micro-heals also makes them harder to play.
+The general rotation structure for VV Vape teams is shown below:
+With Xingqiu
+→ Xingqiu EQ N1 or Q N1 E N2 > VV Setup > Hutao Combo > Extra batterying if needed
+With Yelan
+→ Yelan EQ > VV setup > Hu Tao combo > Extra batterying if needed
+VV Vape Setups
+Specific VV setups are shown below. The setups listed can require precise inputs, and therefore have tight windows in which they are consistent.
+Note that Sucrose’s Elemental Absorption and application can be quite unreliable and her Burst is generally not worth using every rotation. Thus, Sucrose may not allow Hu Tao to reliably Vape with pre-C2 Yelan.
+Thoma-Sucrose
+Thoma-Kazuha
+Thoma-Heizou
+Bennett-Sucrose
+Bennett-Kazuha
+Amber-Sucrose
+Amber-Kazuha
+Yanfei Sucrose
+Yanfei-Kazuha
+Xiangling-Sucrose
+Klee-Kazuha
+Thoma-Sucrose
+Because of the considerable downtime in this rotation with Xingqiu, you can open with Xingqiu Q N1 E N2 to take advantage of his C4 while also letting him catch his own particles. You can weave throughout the rotation to fill time. Doing an N1 before Hu Tao E can help establish Hydro aura to ensure that her first CA Vapes when using N1C combos.
+With Xingqiu
+→ Xingqiu Q N1 E N2 > Thoma N1 E N1 Q > Sucrose N1 E > Hu Tao N1 E combo (
+Setup video
+)
+With C2 Yelan
+→ Yelan EQ N1 > Thoma EQ > Sucrose N3 E > Hu Tao combo
+Thoma-Kazuha
+Double VV setups with Thoma, Kazuha and Xingqiu are difficult to pull off and relatively inconsistent, as you can easily fail the setup with slight changes in timing.
+The key to Swirling Pyro with this setup is to do a very fast N1 or an N0 (which means canceling your NA before it actually hits) in order to trigger Thoma’s Burst to apply Pyro, which you immediately Swirl with Kazuha’s Tap Skill. This works because Thoma’s Burst hits the enemy before Xingqiu’s sword rain attacks. However, the window in which you have to perform Kazuha’s Skill after NA to Swirl Pyro is short, which makes the setup tricky to pull off.
+Additionally, this setup can be inconsistent due to the timing of Xingqiu’s Rain Sword orbitals, which apply Hydro every 2.25s and can mess up the aura by applying Hydro at the wrong time, making Thoma Vape instead of applying Pyro.
+In multi-target, use the setup with Kazuha’s Skill before his Burst, as you can’t Swirl Pyro otherwise.
+With Xingqiu
+→ Xingqiu EQ (N1) > Thoma E (N1) Q > Kazuha N0 tEP N1 Q > Hu Tao combo > Kazuha tEP
+(
+Setup video
+)
+→ Xingqiu EQ (N1) > Thoma E (N1) Q > Kazuha Q N0 tEP > Hu Tao combo > Kazuha tEP  (
+Setup video
+)
+With Yelan
+→ Thoma Q > Yelan E N1 Q > Thoma E > Kazuha tEP N1 Q N1 > Hu Tao combo
+(
+Setup video
+)
+Thoma-Heizou
+Heizou’s VV setup follows a similar pattern to Sucrose, but is a bit more inconsistent. The issue stems from the melee range on his N1, which makes it more likely for Rain Sword orbitals to apply Hydro before Pyro can be Swirled.
+With Xingqiu
+→ Xingqiu EQ N1 > Thoma E N1 Q > Heizou combo > Hu Tao combo > Heizou combo (
+Setup video
+)
+With C2 Yelan
+→ Yelan EQ N1 > Thoma EQ > Heizou combo > Hu Tao combo > Heizou combo
+Bennett-Sucrose
+With Xingqiu, you need to dash away after using Bennett’s Skill to avoid applying Hydro with Rain Sword orbitals before casting Bennett’s Burst to apply Pyro. Sucrose then needs to trigger Xingqiu’s Burst twice to apply Hydro and Swirl it with her Skill.
+With Xingqiu
+→ Xingqiu Q N1 E N2 > Bennett N1 E (dash away) Q > Sucrose N3 E > Hu Tao combo > Bennett E (
+Setup video
+)
+It is likely not worth Swirling Hydro in this team when using Yelan, as it either needlessly extends the rotation or loses uptime on Yelan’s Burst. This team also strongly prefers C2 Yelan for sufficient Hydro application, as trying to do Sucrose Hydro-absorbed Bursts every rotation runs into significant Energy and consistency issues.
+With Yelan
+→ Yelan E (catch particles) > Bennett EQ > Sucrose E > Yelan Q > Hu Tao combo > Bennett E
+Bennett-Kazuha
+This VV setup with Xingqiu only works in single-target and is very delicate to perform, as unlucky timing can mean that Kazuha’s Burst or Xingqiu’s Rain Sword orbitals apply Hydro before Kazuha’s Plunge can apply and Swirl Pyro.
+With Xingqiu
+→  Xingqiu Q N1 E N2 > Kazuha Q > Bennett N1 E (dash away) Q > Kazuha hEP > Hu Tao combo (
+Setup video
+)
+With Yelan
+→ Yelan E > Kazuha Q > Yelan Q > Bennett N1 Q E > Kazuha tEp > Hu Tao combo > Kazuha tEP (
+Setup video
+)
+Amber-Sucrose
+With Xingqiu
+→ Xingqiu EQ N1 > Amber QE > Sucrose N3 E > Hu Tao N1 E combo
+(
+Setup video
+)
+W
+ith Yelan
+→ Yelan EQ N1 > Amber Q > Sucrose N3 E > Hu Tao N1 E Combo (
+Setup video
+)
+Amber-Kazuha
+With Xingqiu
+→   Xingqiu EQ N1 > Kazuha Q N1 > Amber Q > Kazuha tEP N1 > Hu Tao combo
+(
+Setup video
+)
+→ Xingqiu EQ N1 > Amber E N1 Q > Kazuha tEP N1 Q N1 > Hu Tao combo
+With C0 Yelan, you need to trigger two Burst waves to establish Hydro in order to Swirl it with Kazuha’s Burst. With C2 Yelan, one Burst wave is enough to clear Pyro and establish Hydro.
+Note that these setups provide the best Yelan Burst uptime on Hu Tao, but Yelan has to run incredibly high amounts of ER since she does not catch particles from her own Skill(s).
+With Yelan
+→ C0 Yelan version: Yelan E > Amber Q > Yelan Q > Kazuha tEP N1 Q N1 > Hu Tao combo
+(
+Setup video
+)
+→ C2 Yelan version: Yelan EE > Amber Q > Yelan Q > Kazuha tEP N1 Q N1 > Hu Tao combo
+Yanfei Sucrose
+Yanfei’s specific combo does not matter much, as long as you avoid applying Hydro in between. It may be safest to use Yanfei CA E Q in case you accidentally trigger N1 before casting CA.
+With Xingqiu
+→ Xingqiu EQ N1 > Yanfei CA E Q > Sucrose N3 E > Hu Tao N1 E combo (
+Setup video
+)
+With Yelan
+→ Yelan EQ N1 > Yanfei CA E Q > Sucrose N3 E > Hu Tao N1 E combo (
+Setup video
+)
+Yanfei-Kazuha
+With Xingqiu
+→ Xingqiu EQ > Yanfei CA E Q > Kazuha tEP N1 Q N1 > Hu Tao combo (
+Setup video
+)
+Xiangling-Sucrose
+This team utilizes the Guoba Swirl technique for reliable double VV. This technique takes advantage of the fact that Sucrose can time her Skill to Swirl off Guoba’s Pyro self-aura when he has the exclamation mark above his head.
+With Xingqiu
+→ Xingqiu Q N1 E > Xiangling N1 E > Sucrose N1 E > Hu Tao N1 E combo (
+Setup video
+)
+With Yelan
+→ Yelan EQ > Xiangling N1 E > Sucrose N1 E > Hu Tao N1 E combo
+Klee-Kazuha
+If you have C2 Klee, she is a decent option for the second Pyro unit. The setup below makes use of the fact that Klee’s N1 and Skill share ICD.
+With Yelan
+→  Klee N1 E > Yelan EQ > Kazuha tEP N1 Q N1 > Hu Tao combo (
+Setup video
+)
+Solo Hydro
+Solo Hydro encompasses all of Hu Tao’s Vape teams that don’t involve pairing Yelan and Xingqiu together or Swirling Pyro. It is a very broad category.
+Note that prior to C2, Yelan is more restrictive than Xingqiu as she has specific requirements to allow Hu Tao to Vape reliably. Highly skilled players are capable of vaping all of Hu Tao’s CAs with Yelan to varying degrees of consistency, but the amount you vape can vary widely unless you supplement her Hydro application. She can either be supplemented with additional Hydro application (such as Hydro-absorbed Burst from Kazuha or another Hydro unit—in which case refer to the above Double Hydro section) or paired with an Electro character who can “protect” the Hydro aura with their rapid Electro application (notably, Fischl).
+Below are several examples of Solo Hydro Vape teams.
+Shield Flex
+Overvape
+Vapemelt
+Double Geo
+C6 Candace
+Shield Flex
+The core of Hu Tao plus Xingqiu (or Yelan if she is C2 or aided by the flex unit to maintain good Hydro uptime), paired with a shielder, is all you really need for comfortable Hu Tao gameplay.
+Overvape
+Overvape—a portmanteau of Overloaded and Vaporize—as its name implies, causes Hu Tao to both Overload and Vaporize. Electro has the additional benefit of reducing the amount of Hydro Hu Tao consumes, allowing a weaker Hydro applier, like pre-C2 Yelan, to sufficiently supply the Hydro Hu Tao needs. Note that this team does not perform well against light enemies as Overloaded will send them flying, forcing Hu Tao to waste precious Paramita Papilio time and Stamina chasing them.
+Overvape requires a rather fast Electro applier. Fischl is the best option, as her A4 Passive has no ICD and with Hu Tao as the trigger for Overloaded, it will reliably proc, maintaining high Electro uptime. Other Electro characters, like Yae, will also work, but they may need to have their Electro application supplemented by an Anemo or another Electro character for Yelan to be usable.
+The flex slot here can be almost anyone. Pick your favorite shielder or an Anemo unit to further supplement Elemental application and Double VV Electro and Hydro. Any common off-field DPS who does not interfere with the aura — meaning they are Electro or Hydro, or have a low rate of application, like Zhongli — is acceptable.
+Overvape teams can also use Thundering Fury on Hu Tao, where she ends her Skill state early to refresh Fischl before casting a second Skill. This is extremely hard to execute and not at all recommended, but is, if done correctly, a very strong option and super cool.
+Hu Tao – Xingqiu – Fischl – Zhongli
+Sample Rotation
+→ Zhongli hE > Xingqiu Q > Fischl E/Q > Xingqiu E (catch particles) > Hu Tao combo
+Hu Tao – Yelan – Fischl – Kazuha
+Sample Rotation
+→ Yelan EQ N1 > Fischl E/Q > Kazuha N1 tEP N1 Q > Hu Tao combo
+Vapemelt
+Vapemelt is a more budget team that helps deal with lighter enemies and can compensate for a lack of shielding by Freezing enemies instead. Hu Tao’s damage is further boosted by being able to occasionally Melt her abilities instead of Vaping them, which results in a 33% damage increase on that hit. To concentrate this damage increase onto her Charged Attacks, it is recommended for Hu Tao to do N1C combos in these teams.
+However, this does come with some trade-offs. No matter how much Cryo you apply, it will not be possible to consistently Melt all of Hu Tao’s hits. Additionally, as Pyro is the strong side onto Cryo, if there is insufficient Cryo, this may result in a brief Pyro aura. Furthermore, the buffing options for Hu Tao in such teams are quite limited since she doesn’t benefit greatly from 4pc Noblesse Oblige or 4pc Tenacity of the Millelith on the Cryo units. That said, Vapemelt is still a good team for players who lack the 5-stars needed to form Hu Tao’s other teams or would like a bit of extra comfort.
+The premier choices for the Cryo unit are Rosaria, Kaeya, Ganyu and Layla, each with their own advantages. Rosaria’s Burst generally lasts longer with C2, has better AoE, and offers a CRIT Rate buff; Kaeya is her F2P counterpart whose Burst is mobile and offers a quicker rate of Cryo application. Ganyu can hold Elegy for the End, and Layla has a shield as well as a small Flat DMG buff via her C4.
+Note that Bosses can’t be Frozen, and attempting to do so will remove both the Hydro and Cryo aura, preventing Hu Tao from reliably Vaping or Melting her CAs. Therefore, this team should not be considered against Bosses.
+Hu Tao – Xingqiu – Kaeya – Layla
+Sample Rotation
+→ Xingqiu EQ > Layla EQ > Kaeya EQ > Hu Tao combo
+(
+Setup video
+)
+Hu Tao – Xingqiu – Rosaria – Diona
+Sample Rotation
+→ Xingqiu EQ > Diona hE(Q) > Rosaria EQ > Hu Tao combo > Rosaria E
+Double Geo
+Hu Tao – Xingqiu (or C2 Yelan) – Albedo – Zhongli
+An oldie but a goodie. This team first came to prominence around the time Hu Tao first released. Back then, Geo Resonance was one of the few ways to significantly buff Hu Tao, and the team conveniently provided a beefy shield as well as easy gameplay.
+While Double Geo is no longer one of Hu Tao’s best teams, it is still a very simple and safe team, while still dealing more than enough damage to clear whatever is thrown at it.
+However, it is much less reliable in regard to Vape consistency because of the additional Geo application from Albedo’s Skill. This means it may be unreliable for pre-C6 Xingqiu to maintain consistent Hydro uptime. Yelan is only usable in this team at C2, as her Hydro application is too weak otherwise. If you are not using C6 Xingqiu, Hu Tao N1C combos are recommended to minimize Pyro application.
+Zhongli’s pillar can be cast on top of Albedo’s flower in order to make sure the pillar doesn’t spawn and interfere with the aura.
+Sample Rotation
+→ Albedo E > Zhongli hE [break pillar on Albedo flower if non-C6 Xingqiu] > Xingqiu Q N1 E N2 > Albedo N1 Q N1 > Hu Tao combo
+Hu Tao – Xingqiu/Yelan – Yun Jin – Zhongli
+Yun Jin provides more mobility for Hu Tao compared to Albedo, since Hu Tao is no longer chained within the radius of his Skill. This team also has more Vape consistency, since Yun Jin doesn’t interfere with auras.
+N2C combos should be used to better utilize Yun Jin’s buff.
+Sample Rotation
+→ Zhongli hE > Xingqiu Q N1 E N2 > Yun Jin N1 E N1 Q N1 > Hu Tao E combo > Yun Jin E
+C6 Candace
+Technically a Double Hydro team, but not the kind you’d normally think of. The primary advantage of this team is freeing up Xingqiu without losing any Vapes on Hu Tao.
+This team does require C6 Candace, as prior to that her Hydro application is
+dreadful
+, but she becomes a decent option once her Constellations have been obtained.
+Candace will activate Hydro Resonance which greatly benefits all 3 characters. In addition, she provides additional Normal Attack DMG Bonus. While the buff does not benefit Charged Attacks, it is still nice to have, and does make N2C combos preferable. As Candace’s Burst lasts shorter than Yelan’s, she should be used after Yelan and just before Hu Tao to maximize uptime.
+The final slot can be any flex slot. Most off-field DPS units and supports work, so long as they do not consume too much Hydro aura like Xiangling.
+Example Rotation with Zhongli
+→ Zhongli hE > Yelan EQ N1 > Candace E N1 Q N1 > Hu Tao N2C combo > Candace E N2
+Mono Pyro
+Mono Pyro teams are incredibly straightforward to play and very consistent, since they don’t require maintaining Hydro aura or doing any difficult setups. They function by stacking various buffs on Hu Tao and her Pyro teammates to make up for the loss of reactions. While their damage ceilings are lower than Hu Tao’s Vape teams, they are much less finicky with their setups and remain competitive against difficult content, making them worth consideration.
+Example Teams
+Bennett – Kazuha – Xiangling
+Bennett – Kazuha – Zhongli
+Xiangling – Kazuha – Thoma
+Bennett – Kazuha – Xiangling
+This team has the highest damage potential for Mono Pyro Hu Tao. Bennett provides ATK buffs to both Hu Tao and Xiangling, and Pyro DMG Bonus at C6. Xiangling provides considerable off-field damage while also buffing Hu Tao with her Pyro RES Shred at C1 and Pyro DMG Bonus at C6.
+Sample Rotation
+→ Bennett E > Kazuha tEP Q > Bennett QE > Xiangling QE > Kazuha tEP > Hu Tao combo
+Bennett – Kazuha – Zhongli
+This team focuses on maximizing Hu Tao’s damage with buffs from Bennett, Kazuha and 4pc Archaic Petra Zhongli. While it has an even lower ceiling than her other Pure Pyro teams, it is a much more comfortable option which scales very well with investment into Hu Tao due to her comprising an overwhelming portion of the team’s damage.
+Sample Rotation
+→ Bennett E > Kazuha tEP Q > Zhongli hE > Bennett QE > Kazuha tEP > Hu Tao combo
+Xiangling – Kazuha – Thoma
+Thoma provides Normal Attack DMG Bonus at C6 and helpful Interruption Resistance. While Bennett is certainly helpful, there are other teams that may need him more. Thoma is a useful alternative in these cases. While teams without Bennett tend to be weaker than those with him, he is not necessary, which frees him for the other side of the Abyss.
+Sample Rotation
+→ Thoma EQ > Kazuha tEP Q > Xiangling QE > Kazuha tEP > Hu Tao combo
+Art by
+水染moon
+“If we’re content to settle for just seeing people off, how can we give them a sense of really having ‘gained’ something?”
+Credits
+Authors
+: mian#8650, Rare Possum#0511 and Cuzimori#1535
+Calcs
+: Vladone ツ#9281, Logan#7125, Reens#9389, mian#8650 and clrE#6290
+Editors
+: Vladone ツ#9281, idkanonymized#4166, fourmana#0477, Leah, Sew#2409, Raf#7220, an odd medium#6288, in.wonderland#4138, Prévisible#7440 and Nikatosaurus#5639
+TC Contributions
+: ItzSomebody#0029, Peekays#2722, BowTae#0141, Kyle#0900, Kolibri#7675, Jdha#2508, Aluminum#5462, TWICE#9958, Athena#2444, Charliex3000#9403 and Prévisible#7440
+Art permissions
+: kol#1593
+Team images generated using the
+KQM Team Portrait Generator
+.
+Art by
+@lemontea_star
+References
+Hu Tao mastersheet calcs by Vladone ツ#9281, Logan#7125, Reens#9389 and mian#8650
+Constellation comparison calcs by clrE#6290
+Combo comparison calcs by mian#8650, with thanks to ItzSomebody#0029
+Talent and Level comparison calcs by mian#8650
+Specific weapon comparison situations by mian#8650
+Genshin Optimizer configuration generator by Poiyo#3488

@@ -1,0 +1,177 @@
+Genshin Impact Gaming Build
+Pyro
+Claymore
+Main DPS
+Gaming Upgrade Materials
+Prosperity
+Agnidus Agate Sliver
+Starconch
+Slime Condensate
+Emperor's Resolution
+Lightless Mass
+Gaming Best Weapons
+1
+Gest of the Mighty Wolf
+2
+Serpent Spine
+3
+Redhorn Stonethresher
+4
+Verdict
+5
+Beacon of the Reed Sea
+Gaming Best Artifacts
+1
+Crimson Witch of Flames
+4
+2
+Marechaussee Hunter
+4
+3
+Gilded Dreams
+4
+4
+Crimson Witch of Flames
+2
+Emblem of Severed Fate
+2
+5
+Crimson Witch of Flames
+2
+Gilded Dreams
+2
+Gaming Best Stats
+Sands:
+Elemental Mastery
+Goblet:
+Pyro DMG
+Circlet:
+CRIT Rate / CRIT DMG
+Substats:
+Energy Recharge > CRIT Rate / CRIT DMG > Elemental Mastery
+Character Builds by Genshin Impact Helper →
+Teams
+Talents
+Passives
+Constellations
+Ascension
+Best Gaming Teams
+Gaming Vaporize
+Gaming Talents
+Normal Attack
+Stellar Rend
+Normal Attack Performs up to 4 consecutive strikes. Charged Attack Drains Stamina over time to perform continuous spinning attacks against all nearby opponents. At the end of the sequence, performs a more powerful slash. Plunging Attack Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Elemental Skill
+Bestial Ascent
+Pounces forward using the Wushou arts, leaping high into the air after coming into contact with a target or surface. After Gaming has used Bestial Ascent to rise into the air, he will use the especially powerful Plunging Attack: Charmed Cloudstrider when performing a Plunging Attack. Plunging Attack: Charmed Cloudstrider The DMG from Plunging Attacks caused by Bestial Ascent is converted to
+Pyro
+DMG that cannot be overridden by other elemental infusions. Upon landing, Gaming will consume a fixed amount of HP. Gaming's HP cannot be reduced below 10% by this method. Charmed Cloudstrider DMG is considered Plunging Attack DMG.
+Elemental Burst
+Suanni's Gilded Dance
+Gaming enters Wushou Stance, briefly applying
+Pyro
+to him, recovering a fixed amount of HP, and summons his companion, the Suanni Man Chai, to smash into his target, dealing AoE
+Pyro
+DMG. After bashing its target, Man Chai will roll to a nearby location before moving towards Gaming. When it links up with Gaming, Man Chai will leave the field and reset the CD for Gaming's Elemental Skill, Bestial Ascent. While Wushou Stance is active, his resistance to interruption is increased, and when Gaming lands with Charmed Cloudstrider attack or completes the forward pounce attack from Bestial Ascent with over 50% HP, he will summon Man Chai again. Each Gaming can only have 1 Man Chai on the field simultaneously. This effect will be canceled once Gaming leaves the field.
+Gaming Passives
+Ascension 1
+Dance of Amity
+After Bestial Ascent's Plunging Attack: Charmed Cloudstrider hits an opponent, Gaming will regain 1.5% of his Max HP once every 0.2s for 0.8s.
+Ascension 4
+Air of Prosperity
+When Gaming has less than 50% HP, he will receive a 20% Incoming Healing Bonus. When Gaming has 50% HP or more, Plunging Attack: Charmed Cloudstrider will deal 20% more DMG.
+Passive
+The Striding Beast
+Increases the Movement SPD of your own party members by 10% during the day (6:00 – 18:00). Does not take effect in Domains, Trounce Domains, or Spiral Abyss. Not stackable with Passive Talents that provide the exact same effects.
+Gaming Constellations
+Constellation 1
+Bringer of Blessing
+When the Suanni Man Chai from Suanni's Gilded Dance meets back up with Gaming, it will heal 15% of Gaming's HP.
+Constellation 2
+Plum Blossoms Underfoot
+When Gaming receives healing and this instance of healing overflows, his ATK will be increased by 20% for 5s.
+Constellation 3
+Awakening Spirit
+Increases the Level of Bestial Ascent by 3. Maximum upgrade level is 15.
+Constellation 4
+Soar Across Mountains
+When Bestial Ascent's Plunging Attack: Charmed Cloudstrider hits an opponent, it will restore 2 Energy to Gaming. This effect can be triggered once every 0.2s.
+Constellation 5
+Evil-Daunting Roar
+Increases the Level of Suanni's Gilded Dance by 3. Maximum upgrade level is 15.
+Constellation 6
+To Tame All Beasts
+Bestial Ascent's Plunging Attack: Charmed Cloudstrider CRIT Rate increased by 20% and CRIT DMG increased by 40%, and its attack radius will be increased.
+Gaming Ascension Costs
+Rank
+Lvl
+Cost
+Material
+Material
+Material
+Material
+1
+20
+20000
+1
+Agnidus Agate Sliver
+3
+Starconch
+3
+Slime Condensate
+2
+40
+40000
+2
+Emperor's Resolution
+3
+Agnidus Agate Fragment
+10
+Starconch
+15
+Slime Condensate
+3
+50
+60000
+4
+Emperor's Resolution
+6
+Agnidus Agate Fragment
+20
+Starconch
+12
+Slime Secretions
+4
+60
+80000
+8
+Emperor's Resolution
+3
+Agnidus Agate Chunk
+30
+Starconch
+18
+Slime Secretions
+5
+70
+100000
+12
+Emperor's Resolution
+6
+Agnidus Agate Chunk
+45
+Starconch
+12
+Slime Concentrate
+6
+80
+120000
+20
+Emperor's Resolution
+6
+Agnidus Agate Gemstone
+60
+Starconch
+24
+Slime Concentrate
+Loading...

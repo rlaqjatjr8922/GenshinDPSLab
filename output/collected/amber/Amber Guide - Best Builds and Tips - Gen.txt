@@ -1,0 +1,171 @@
+Task Search
+Checklists
+Guides
+Markers
+Videos
+Sort and Filter
+No Results
+Checklists
+New Checklist
+All Lists
+My Checklists
+All
+All Lists
+My Checklists
+How creative can you get with your first free checklist?
+Create a free account
+All Interactive Maps and Locations
+Amber Guide - Best Builds and Tips
+By
+Cedric Pabriga
+,
+Jen Rothery
+,
+Triforce
+,
++30 more
+Updated
+:
+Oct 29, 2021 2:38am UTC
+This page is part of IGN's Genshin Impact Wiki guide and details everything you need to know about Amber, which includes a full character overview, how to obtain Amber, combat details, talents, and skill upgrade priorities, a recommended character build, and much more.
+The ever-energetic and bubbly Outrider, Amber is such a blast of sunshine right after what happened at the start of the game. She's going to be your first guide in the world of Teyvat and will teach you stuff that's important for exploration.
+Although a blast to play early in the game thanks to her sniper-like Aimed Shot, Amber struggles to make her mark in even early
+F2P team compositions
+. She can find a niche with enough Constellation unlocks, but she isn't worth leveling up before that happens.
+Want to skip to a specific section? Click on one of these links!
+Amber Character Overview
+How to Get Amber
+Combat Details
+Amber's Talents and Skill Priorities
+Amber's Constellations
+Best Amber Character Builds
+Best Weapons for Amber
+Best Artifacts for Amber
+Want to see how Amber compares to other characters in Genshin Impact? Check out our complete
+Genshin Impact Tier List
+that ranks every character from Best to Worst.
+Amber Character Overview
+Amber is the first non-edible character you come across on your adventure around Teyvat. Though she's the only Outrider left within the ranks of Mondstadt's Knights of Favonius, she's happy to put in the work, keeping the Good Hunter's signboard filled with important notices, missing persons appeals, and Wanted posters as she runs around the land looking for suspicious individuals.
+How to Get Amber
+Amber is a free character and you'll be able to use her without rolling from the
+banners
+. However, if you're interested in getting her constellations, you're going to have to roll on the standard banner.
+Combat Details
+When it comes to battle, Amber struggles to make her mark. She's a great way to get to grips with hitting weak spots on enemies with her Bow, and can make good use of distant explosive barrels and, with enough duplicates from Wishes or potentially upcoming events, can turn her puppet into a readily-available bait bomb.
+But her lackluster damage and barely noticeable abilities make her not only the first character to join your team, but the first to get sidelined too. She's necessary to figure out a few puzzles, but that's about the extend of her usefulness on your team.
+Amber's Talents and Skill Priorities
+Amber's talents are focused on dealing damage from afar, just like a bow user should be. Her vision is also pyro, meaning her attacks inflict the pyro status to opponents and has the possibility for some nasty elemental reactions.
+Type
+Name
+Effect
+Normal Attack
+Sharpshooter
+Normal Attack
+Performs up to 5 consecutive shots with a bow.
+Charged Attack
+Perform a more precise Aimed Shot with increased DMG.
+While aiming, flames accumulate on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.
+Plunging Attack
+Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.
+Elemental Skill
+Explosive Puppet
+Baron Bunny
+Continuously taunts the enemy, drawing their fire.
+Baron Bunny's HP scales with Amber's Max HP.
+When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG.
+Hold
+Adjusts the throwing direction of Baron Bunny.
+The longer the button is held, the further the throw.
+Elemental Burst
+Fiery Rain
+Fires of a shower of arrows, dealing continuous AoE Pyro DMG.
+First Ascension Passive
+Every Arrow Finds Its Target
+Increases the CRIT Rate of Fiery Rain by 10% and widens its AoE by 30%.
+Fourth Ascension Passive
+Precise Shot
+Aimed Shot hits on weak spots increase Base ATK by 15% for 10s.
+Passive Talent
+Gliding Champion
+Decreases all party members' gliding Stamina Consumption by 20%.
+The greatest effect out of all Talents of the same type prevails.
+This is the recommended skill priorities from Amber as a quick swap sub dps:
+Elemental Burst
+Elemental Skill
+Normal Attack
+Amber's Constellations
+Amber, even though a 4-star character, only exists in one banner which is the permanent banner. Not just that, she doesn't get rate-ups at all. So getting her constellations are kind of difficult. However, if you're still planning on getting her constellations, the ones to look out for are C2, C4, and C6.
+Constellation Name
+In-Game Description
+One Arrow to Rule Them All (C1)
+Fires 2 arrows per Aimed Shot. The second arrow deals 20% of the first arrow's DMG
+Bunny Triggered (C2)
+Hitting Baron Bunny's foot with a fully-charged Aimed Shot manually detonates it.
+If detonated this way, it deals 200% additional DMG
+It Burns! (C3)
+Increases the Level of Fiery Rain by 3.
+It's Not Just Any Doll... (C4)
+Decreases Explosive Puppet's CD by 20% and adds 1 additional charge to the ability.
+It's Baron Bunny (C5)
+Increases the Level of Explosive Puppet by 3. Maximum upgrade level is 15.
+Wildfire (C6)
+Fiery Rain increases the entire party's Movement SPD by 15% and Base ATK by 15% for 10s
+Best Amber Character Builds
+Amber, just as mentioned above, isn't that great of a unit. Unless she's reworked or her skills get massive buffs, she's not going to get up there in the
+Tier List
+. However, if you're still dedicated to building Amber, here are some of the recommended weapons and artifacts for her.
+Best Weapons for Amber
+Skyward Harp and The Stringless lie on top of the mountain for her. Both of them doing a fantastic job for the type of Amber you want to build. If you're leaning more on the Physical DPS side, Skyward Harp would be your pick. If you're more into the sub dps part, The Stringless fits the bill.
+Weapon Name
+In-Game Description
+Skyward Harp
+Increases CRIT DMG by 20%. Hits have a 60% chance to inflict a small AoE attack, dealing 125% Physical ATK DMG. Can only occur once every 4s.
+The Stringless
+Increases Elemental Skill and Elemental Burst DMG by 24%.
+Best Artifacts for Amber
+Amber's artifacts will depend on the build you pick for her. A full physical build Amber would wear 2 piece Bloodstained Chivalry, and 2 piece Pale Flame. While a sub dps Amber would go for a full set Noblesse Oblige or 2 piece Noblesse Oblige and 2 piece Crimson Witch of Flames.
+For main
+stats
+, it's best to go with ATK Sands, Pyro DMG%/Physical DMG% Goblet, Crit Rate/Crit Damage Circlet. Depending on your crit rate.
+Artifact Name
+In-Game Description
+Bloodstained Chivalry
+2-piece effect: Physical DMG +25%
+4-piece effect: After defeating an opponent, increases Charged Attack DMG by 50%, and reduces its Stamina cost to 0 for 10s. Also triggers with wild animals such as boars, squirrels, and frogs.
+Pale Flame
+2-piece effect: Physical DMG +25%
+4-piece effect: When an Elemental Skill hits an opponent, ATK is increased by 9% for 7s. This effect stacks up to 2 times and can be triggered once every 0.3s. Once 2 stacks are reached, the 2-set effect is increased by 100%.
+Noblesse Oblige
+2-piece effect: Elemental Burst DMG +20%
+4-piece effect: Using an Elemental Burst increase all party members' ATK by 20% for 12s. This effect cannot stack.
+Crimson Witch of Flames
+2-piece effect: Pyro DMG Bonus +15%
+4-piece effect: Increases Overloaded and Burning DMG by 40%. Increases Vaporize and Melt DMG by 15%. Using an Elemental Skill increases the 2-Piece Set Bonus by 50% of its starting value for 10s. Max 3 stacks.
+Don't forget to check out our
+Characters
+page, where you'll find a full list of
+every character in Genshin Impact
+, along with details regarding their combat
+stats
+, recommended builds, and even more.
+Up Next:
+Genshin Arataki Itto Build and Tips
+Previous
+Aloy Guide - Best Builds and Tips
+Next
+Genshin Arataki Itto Build and Tips
+Top Guide Sections
+Genshin Impact Luna VI Details and Patch Notes
+Genshin Impact Luna IV Release Time and Details
+Genshin Impact Luna III Details and Patch Notes
+Genshin Impact Luna II Release Date and Details
+Was this guide helpful?
+Leave feedback
+In This Guide
+Genshin Impact
+HoYoverse
+Initial Release:
+Sep 27, 2020
++2
+Learn more
+Go to comments

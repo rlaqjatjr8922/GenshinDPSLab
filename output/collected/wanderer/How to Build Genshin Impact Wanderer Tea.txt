@@ -1,0 +1,95 @@
+Wanderer is a 5-star
+Anemo
+character in Genshin Impact that was released in December 2022. He is also referred to as Tribulations Uncounted, Trials Unknowable. The name of the banner associated with Wanderer’s release is From Ashes Reborn. You can pull him only when this event wish is active. In this post, you will learn how to build the Genshin Impact Wanderer team from the characters that you own. In addition, you will see the most popular builds for Wanderer.
+Before we start note that this post is not a build guide for Wanderer and doesn’t contain all information about him. You can expect only Wanderer team comps focus. That will help you understand how to make a good team for Genshin Impact Wanderer even with the characters that you have. Of course, we include Genshin free-to-play comps for Wanderer as well. If you need more information you can read the guide by the link below.
+Genshin Impact Wanderer Build and Best Team Comp
+Also, we have other useful guides about all Genshin Impact characters that you might find interesting and useful. You can see the link below.
+Genshin Impact All Characters List
+Genshin Impact Characters Tier List
+Wanderer Talents
+What is most important when you make a team comp in Genshin Impact is to remember that your characters must work together. Their talents need to assist each other and only via reactions. Some characters have talents that will change the whole impression about them when you see their talents.
+Like any other character, Wanderer has two types of talents – active and passive. The whole description of Wanderer’s skills (talents)
+you can read via the link
+. In this post, we focus on the basic strategies and will explain what Wanderer talents are worth paying attention to. Let’s start with talent priority for Wanderer.
+Talent Priority for Wanderer
+Yuuban Meigen
+>
+Hanega: Song of the Wind >
+Kyougen: Five Ceremonial Plays
+Yuuban Meigen
+is Wanderer’s
+Normal Attack
+. The vast majority of Wanderer’s damage comes from his Normal Attacks, which shoot blade-like Anemo projectiles at enemies from a long range. The attacks have fairly strong tracking, which helps against agile flying enemies like the Golden Wolflord.
+Hanega: Song of the Wind
+is
+Wanderer
+‘s Elemental
+Skill
+. Allows Wanderer to fly and hover in midair after casting, and grants him the Windfavored state that buffs his Normal and Charged Attacks. The buff ends when he leaves the Windfavored state. In the Windfavored state, Wanderer gains “Kuugoryoku Points,” which show how long Wanderer can maintain this state.
+Wanderer’s Kuugoryoku Points are shown as a unique Stamina bar that depletes over time. He consumes additional points when dashing, increasing flight speed, or raising altitude.
+The Talent level scaling on Wanderer’s Skill is poor but still valuable. At C2, levelling his Burst becomes more important.
+Kyougen: Five Ceremonial Plays
+is
+Wanderer
+‘s
+Elemental
+Burst
+. Five rapid hits of respectable Anemo DMG. Due to Wanderer’s high ER requirements, it is better to Burst every other rotation before C2.
+Depending on Wanderer’s gear and Constellations, you can use his Burst before his Skill, at the very end of his Skill duration, or sometimes even in the middle of a rotation to clear a wave of enemies. Timing is more relevant at C2, which makes Bursting at the end of his Skill duration much more valuable.
+Wanderer Ascension Passives
+The other important thing is to know how exactly character ascension enhances them and what advantages you can get out of it for your team-building strategy. We what to attract your attention to the following Wanderer Ascension Passives.
+Jade-Claimed Flower
+1st Ascension Passive
+Offers Wanderer up to two buffs based on the Elemental auras present within his Skill’s AoE during the initial cast, including Wanderer’s self-aura. If more than two auras are present, the buff absorption priority is as follows (in order from first to last; not sorted by usefulness:
+Pyro (30% ATK)
+Hydro (20 additional Kuugoryoku Points)
+Electro (0.8 Energy generated on attack inputs)
+Cryo (20% CRIT Rate)
+Controlling the buffs that Wanderer receives is difficult. It’s best to avoid building teams around the buffs, since enemies and the environment can easily interfere with lower-priority Elements. However, there are a few easy ways to guarantee a specific buff, such as Bennett’s Burst and Diona’s Cryo shield (with adept timing).
+Gales of Reverie
+4th Ascension Passive
+During Wanderer’s Windfavored state, Normal and Charged Attacks have a small but increasing chance to trigger this Passive. While active, Wanderer’s next midair dodge will not consume Kuugoryoku Points and will unleash a flurry of homing Anemo attacks at nearby opponents.
+CAUTION: dashing before you have triggered this buff severely hurts Wanderer’s DPS
+because of the Kuugoryoku Points lost by normal dodges. A premature dodge loses a full N3 combo. To avoid this, pay attention to the audiovisual cues that occur when you trigger the Passive. Wanderer will visibly light up and a “ping” sound will play, prompting you to dash to deal some extra damage. Rings will also appear around Wanderer’s wrists if the Passive is ready to be used.
+Depending on what we have written above we will continue with character combinations that will suit Genshin Impact Wanderer team the most.
+As for the constellations
+. Wanderer C6 is mostly effective. As normal Attacks now fire additional arcs of Anemo energy that deal 40% of Wanderer’s regular Normal Attack DMG. This also extends the Windfavored state, which can increase DPS uptime at the cost of prolonging the rotation.
+Genshin Impact Wanderer Team Comp Options
+There are several roles that all characters obtain in Genshin Impact. Your perfect team would consist of the Main DPS, 2 SUB-DPS characters and one Support. Main DPS is occupied by a character that can deal a decent amount of damage from all sources, auto attacks, elemental reactions and elemental bursts. Sub DPSs are needed to activate reactions that boost the main DPS’ damage or deal some extra damage while the main DPS is sticking their elemental burst. Support can vary typically it is a healer/shielder, but in some cases, it can be a battery (the character that stacks elemental burst for the team) or a spreader (the character that can spread reactions activated by all the characters).
+Wanderer is a good DPS, especially at C6. Below you can see some options for different Genshin Impact Wanderer team comps that we find decent. But let’s start with the Genshin Impact free-to-play Wanderer team comp.
+Genshin Impact FREE TO PLAY Wanderer
+Cyno will be the main DPS in this team. Xiangling can provide additional off-field DPS that complements well with Wanderer’s Normal Attacks. Like Nahida, Dendro Traveler provides EM-sharing for the active character and consistent Dendro application through their Burst. Barbara will apply Hydro for reactions and healing. But Xingqiu is better, use him if you have the character. Bennett and Faruzan are good options too, better than free-to-play characters, consider having them if you want to play Wanderer.
+The BEST Wanderer team
+Wanderer is the Main DPS in the team. By using Wanderer’s Elemental Skill, he can attack at Hovering State. When Wanderer’s Elemental Skill contacts with the Pyro element from Bennett and the Hydro element from Yelan, he is buffed by increasing his Kuugoryoku Point cap by 20 and increasing his ATK by 30%. Yelan is an off-field DPS that can provide an additional buff to Wanderer for Hydro Swirl. Faruzan can apply Anemo RES decrease at enemies and DMG Bonus to Wanderer by using her Elemental Burst. While at C6, Faruzan’s Elemental Burst can provide an additional CRIT DMG Bonus to Wanderer. Bennett’s Elemental Burst provides a huge ATK buff and healing to other members. When the Pyro Element from Bennett is contacted by Wanderer’s Elemental Skill, Wanderer’s ATK is increased by 30%.
+All 5-stars Wanderer team
+If you want it to be all five stars take Raiden. But it is better to take Fischl or Bennett instead.
+This team deals good damage in both single-target and multi-target scenarios, although it should be noted that some Bosses can wipe out Geo Constructs through their attacks. Wanderer can take up most of the field time because Fischl, Albedo, and Zhongli all have low field-time requirements. Geo Constructs continue to resonate and generate particles, even when Wanderer gets hit. Oz provides good off-field damage.
+This team’s greatest strength is that it doesn’t rely on any Burst besides Fischl’s. The team’s ER requirements are low even in single-target scenarios, which allows you to concentrate on offensive stats. Fischl can also be substituted with Bennett.
+It is recommended to align Albedo’s Skill with Zhongli’s pillar rather than vice versa because Zhongli’s Hold Skill CD is longer than Albedo’s and his pillar is harder to properly place.
+Other Characters that go well in teams with Tighnari
+These characters can change some you are missing. Not a team though. But great synergies.
+Top Genshin Impact Characters to Play with Wanderer
+How to make a personal Genshin Impact Wanderer team?
+If none of the listed above you don’t like or you don’t have some characters mentioned in Wanderer teams you can really on the following tips.
+Try to get C6 Wanderer.
+Get C6 Faruzan as she is a must for the best teamcomps. Unless you run a Triple Anemo team, Wanderer needs consistent and frequent Energy funneling from Faruzan and other teammates to Burst every rotation.
+Bennett takes up little field time, gives a considerable Flat ATK boost, heals, applies Pyro for Wanderer’s A1 Pyro buff, and can hold 4pc Noblesse Oblige. Bennett’s main drawback is his high demand in many other non-Dendro teams.
+Crowd control characters can minimize these issues, maximize the DPS from Wanderer’s mild AoE, and provide good personal damage. Son consider adding Venti, Kazuha or Sucrose.
+Keeping these tips in mind you will definitely find your way to play Wanderer . And don’t forget to share it with us!
+Mariia R.
+Since early childhood, I was fond of gaming. I played Doom 2, Red Alert 2 and, of course, The Sims. I grew up but my passion didn’t go away. So now I am writing about the stuff I love the most: video games!
+Follow my
+YouTube
+and
+Twitch
+of course
+Post Views:
+6,826
+Please share it with your friends
+Tags:
+Genshin Impact
+Post navigation
+Previous
+Honkai: Star Rail Relics Details and Sets List
+Next
+Kayle League of Legends – All Skins

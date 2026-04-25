@@ -1,0 +1,195 @@
+Genshin Impact Xianyun Build
+Anemo
+Catalyst
+Support
+Xianyun Upgrade Materials
+Gold
+Vayuda Turquoise Sliver
+Clearwater Jade
+Cloudseam Scale
+Divining Scroll
+Lightless Eye of the Maelstrom
+Xianyun Best Weapons
+1
+Crane's Echoing Call
+2
+Oathsworn Eye
+R5
+3
+Thrilling Tales of Dragon Slayers
+R5
+4
+Favonius Codex
+5
+Skyward Atlas
+Xianyun Best Artifacts
+1
+Viridescent Venerer
+4
+2
+Noblesse Oblige
+4
+3
+Song of Days Past
+4
+4
+Ocean-Hued Clam
+4
+5
+Emblem of Severed Fate
+2
+Shimenawa's Reminiscence
+2
+Xianyun Best Stats
+Sands:
+Energy Recharge / ATK%
+Goblet:
+ATK%
+Circlet:
+Healing Bonus / ATK%
+Substats:
+Energy Recharge > ATK% > CRIT Rate
+Character Builds by Genshin Impact Helper →
+Showcase
+Teams
+Talents
+Passives
+Constellations
+Ascension
+Xianyun Showcase
+Xianyun video guide by
+Zy0x
+.
+Check out his content!
+Best Xianyun Teams
+Xiao Standard
+Diluc Vaporize
+Hu Tao Vaporize
+Xianyun Talents
+Normal Attack
+Word of Wind and Flower
+Normal Attack Summons swirling winds to perform up to 4 attacks, dealing
+Anemo
+DMG. Charged Attack Consumes a certain amount of Stamina and launches a Breeze Bolt in a straight line that deals
+Anemo
+DMG to opponents along its path. Plunging Attack Gathers the power of
+Anemo
+and plunges towards the ground from mid-air, damaging all opponents in her path. Deals AoE
+Anemo
+DMG upon impact with the ground.
+Elemental Skill
+White Clouds at Dawn
+Xianyun enters the Cloud Transmogrification state, in which she will not take Fall DMG, and uses Skyladder once. In this state, her Plunging Attack will be converted into Driftcloud Wave instead, which deals AoE
+Anemo
+DMG and ends the Cloud Transmogrification state. This DMG is considered Plunging Attack DMG. Each use of Skyladder while in this state increases the DMG and AoE of the next Driftcloud Wave used. Skyladder Can be used while in mid-air. Xianyun leaps forward, dealing
+Anemo
+DMG to targets along her path. During each Cloud Transmogrification state Xianyun enters, Skyladder may be used up to 3 times and only 1 instance of Skyladder DMG can be dealt to any one opponent. If Skyladder is not used again in a short period, the Cloud Transmogrification state will be canceled. If Xianyun does not use Driftcloud Wave while in this state, the next CD of White Clouds at Dawn will be decreased by 3s.
+Elemental Burst
+Stars Gather at Dusk
+Brings forth a sacred breeze that deals AoE
+Anemo
+DMG and heals all nearby characters based on Xianyun's ATK. It will also summon the "Starwicker" mechanism. Starwicker Continuously follows the active character and periodically heals all nearby party members based on Xianyun's ATK. Starts with 8 stacks of Adeptal Assistance. While Adeptal Assistance is active, nearby active characters in the party will have their jump height increased. When the active character completes a Plunging Attack, Starwicker will consume 1 stack of Adeptal Assistance and deal AoE
+Anemo
+DMG. Only 1 Starwicker can exist simultaneously.
+Xianyun Passives
+Ascension 1
+Galefeather Pursuit
+Each opponent hit by Driftcloud Waves from White Clouds at Dawn will grant all nearby party members 1 stack of Storm Pinion for 20s. Max 4 stacks. These will cause the characters' Plunging Attack CRIT Rate to increase by 4%/6%/8%/10% respectively. Each Storm Pinion created by hitting an opponent has an independent duration.
+Ascension 4
+Consider, the Adeptus in Her Realm
+When the Starwicker created by Stars Gather at Dusk has Adeptal Assistance stacks, nearby active characters' Plunging Attack shockwave DMG will be increased by 200% of Xianyun's ATK. The maximum DMG increase that can be achieved this way is 9,000. Each Plunging Attack shockwave DMG instance can only apply this increased DMG effect to a single opponent. Each character can trigger this effect once every 0.4s.
+Passive
+Crane Form
+Increases gliding SPD for your own party members by 15%. Not stackable with Passive Talents that provide the exact same effects.
+Xianyun Constellations
+Constellation 1
+Purifying Wind
+White Clouds at Dawn gains 1 additional charge.
+Constellation 2
+Aloof From the World
+After using a Skyladder from White Clouds at Dawn, Xianyun's ATK will be increased by 20% for 15s. Additionally, the effects of the Passive Talent "Consider, the Adeptus in Her Realm" will be enhanced: When the Starwicker created by Stars Gather at Dusk has Adeptal Assistance stacks, nearby active characters' Plunging Attack shockwave DMG will be increased by 400% of Xianyun's ATK. The maximum DMG increase that can be achieved this way is 18,000. Each Plunging Attack shockwave DMG instance can only apply this increased DMG effect to a single opponent. Each character can trigger this effect once every 0.4s. You must first unlock the Passive Talent "Consider, the Adeptus in Her Realm."
+Constellation 3
+Creations of Star and Moon
+Increases the Level of Stars Gather at Dusk by 3. Maximum upgrade level is 15.
+Constellation 4
+Mystery Millet Gourmet
+After using Skyladder 1/2/3 times during one White Clouds at Dawn Cloud Transmogrification state, when a Driftcloud Wave unleashed during that instance hits an opponent, it will heal all nearby party members for 50%/80%/150% of Xianyun's ATK. This effect can be triggered once every 5s.
+Constellation 5
+Astride Rose-Colored Clouds
+Increases the Level of White Clouds at Dawn by 3. Maximum upgrade level is 15.
+Constellation 6
+They Call Her Cloud Retainer
+After Xianyun uses 1/2/3 Skyladders within one Cloud Transmogrification caused by White Clouds at Dawn, the CRIT DMG of a Driftcloud Wave created in this instance of Cloud Transmogrification will be increased by 15%/35%/70%. Within 16s after Xianyun has used Stars Gather at Dusk, White Clouds at Dawn will not enter CD. This effect will be canceled once she has used White Clouds at Dawn 8 times.
+Xianyun Ascension Costs
+Rank
+Lvl
+Cost
+Material
+Material
+Material
+Material
+1
+20
+20000
+1
+Vayuda Turquoise Sliver
+3
+Clearwater Jade
+3
+Divining Scroll
+2
+40
+40000
+2
+Cloudseam Scale
+3
+Vayuda Turquoise Fragment
+10
+Clearwater Jade
+15
+Divining Scroll
+3
+50
+60000
+4
+Cloudseam Scale
+6
+Vayuda Turquoise Sliver
+20
+Clearwater Jade
+12
+Sealed Scroll
+4
+60
+80000
+8
+Cloudseam Scale
+3
+Vayuda Turquoise Chunk
+30
+Clearwater Jade
+18
+Sealed Scroll
+5
+70
+100000
+12
+Cloudseam Scale
+6
+Vayuda Turquoise Chunk
+45
+Clearwater Jade
+12
+Forbidden Curse Scroll
+6
+80
+120000
+20
+Cloudseam Scale
+6
+Vayuda Turquoise Gemstone
+60
+Clearwater Jade
+24
+Forbidden Curse Scroll
+Loading...

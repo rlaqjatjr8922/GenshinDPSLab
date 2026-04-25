@@ -1,0 +1,112 @@
+Contents
+Quick Look: Varesa Build Guide
+Varesa’s Talents
+Passive Talents
+Varesa Best Builds
+Best Weapons
+Best Artifacts
+Varesa Best Teams
+Key Playstyle Notes
+Want to make your Varesa unstopabble in the Genshin Impact Meta? Then follow this guide to maximize her potential!
+So we are finally getting the long awaited cow girl/wrestler from
+Hoyoverse
+in Genshin Impact as Varesa has just joined the cast. She is a powerful Electro Catalyst character in focused on plunge attacks and built to function as an on-field Electro DPS. Here’s a detailed breakdown of her optimal builds, teams, and abilities:
+Quick Look: Varesa Build Guide
+Focus On
+Attribute
+Weapons
+Vivid Notions, Lost Prayer to the Sacred Winds, Widsith
+Artifacts
+4-piece Long Night’s Oath
+Talent Priority
+Elemental Skill > Elemental Burst > Normal Attack
+Team Role
+Plunge DPS, Quick Burst Focused
+Yumemizuki Mizuki Build Guide
+Read More:
+Upcoming Characters in Genshin Impact 5.5 to 5.6 – Everything You Need to Know!
+Varesa’s Talents
+Normal Attack
+:
+By the Horns
+Varesa unleashes 3 strikes that deal Electro DMG.
+Charged Attack
+Consumes stamina to headbutt opponents and deals Nightsoul-aligned Electro DMG, with momentum allowing her to leap into the air.
+Plunge Attack
+Deals AoE Electro DMG as she plunges to the ground. Striking opponents grants her Nightsoul points, helping her enter the Fiery Passion state when she reaches max points.
+Elemental Skill
+:
+Riding the Night-Rainbow
+Varesa rushes forward and deals Electro DMG, entering the Nightsoul’s Blessing state. She gains 20 Nightsoul points and can trigger a Follow-Up Strike effect, boosting her attack speed and adding convenience to her Plunging Attacks.
+Elemental Burst
+:
+Guardian Vent!
+A powerful flying kick that deals AoE Electro DMG, followed by the restoration of Nightsoul points. Increases her interruption resistance and allows her to perform enhanced Plunge Attacks in the Fiery Passion state.
+Passive Talents
+Tag-Team Triple Jump!
+: Boosts ground impact DMG from Plunge Attacks.
+The Hero Twice-Returned!
+: Provides an ATK buff when a Nightsoul Burst is triggered.
+Night Realm’s Gift
+: Allows Varesa to interact with Phlogiston and enter Sudden Onrush mode, useful for terrain traversal.
+Blazing Heart, Singular Advance!
+: Boosts sprint speed and restores Phlogiston when consuming food in specific areas.
+So, as you can see, utilizing her elemental skill to build up her secondary burst is where her main source of damage lies. You should focus on building that up while gradually going to your actual elemental burst.
+Varesa Best Builds
+Electro Plunge CRIT DPS
+Focus:
+Your Varesa Build should prioritize CRIT Rate, CRIT DMG, and ATK for maximum damage output. Optionally, consider Elemental Mastery and Energy Recharge for synergy with Electro Hypercarry, Dendro team,s and Burst usage.
+Playstyle:
+As a Plunge DPS, her damage comes mainly from her Plunge Attacks, which scale significantly with her stats.
+Best Weapons
+Vivid Notions
+– The ideal weapon for Varesa, as it likely synergizes with her Plunge DPS playstyle.
+Lost Prayer to the Sacred Winds
+– A solid alternative for CRIT Rate and Elemental DMG.
+The Widsith
+– Offers CRIT DMG and a random buff, making it a versatile choice.
+Other Options:
+Kagura’s Verity, Cashflow Supervision, Skyward Atlas.
+Best Artifacts
+Long Night’s Oath (4-piece)
+– The best set for boosting Plunge Attack DMG. The set increases damage by up to 100% when five stacks of “Radiance Everlasting” are triggered.
+Obsidian Codex (4-piece)
+– A good alternative if you focus more on boosting CRIT DMG or ATK rather than CRIT Rate.
+Artifact Main Stats:
+ATK% (Sands), Electro DMG Bonus (Goblet), CRIT Rate/CRIT DMG (Circlet).
+Artifact Substats:
+Prioritize CRIT Rate, CRIT DMG, ATK%, Energy Recharge, and Elemental Mastery.
+Varesa Best Teams
+Hypercarry Team
+Main DPS:
+Varesa
+Sub-DPS/Support:
+Furina, Iansan, Xianyun
+Playstyle:
+Varesa is a solo carry, with support from characters like Xianyun who boost her damage output.
+Aggravate Team
+Main DPS:
+Varesa
+Sub-DPS/Support:
+Nahida, Baizhu, Iansan
+Playstyle:
+Varesa benefits from Dendro reactions (Aggravate), enhancing her Plunge damage with the additional Dendro-related boosts.
+Overload Team
+Main DPS:
+Varesa
+Sub-DPS/Support:
+Mavuika, Iansan, Chevreuse
+Playstyle:
+Focuses on Overload reactions, where her Electro Plunges trigger AoE Pyro damage for even higher damage output.
+Electro-Charged Team
+Main DPS:
+Varesa
+Sub-DPS/Support:
+Xingqiu, Furina, Xianyun
+Playstyle:
+Varesa can trigger Electro-Charged reactions, making her ideal for multi-target encounters.
+Key Playstyle Notes
+Fiery Passion State:
+Entered via Plunging Attacks or her Elemental Burst, boosting all of Varesa’s attack types (Normal, Charged, and Plunge). Her Elemental Burst also enables an enhanced Plunging Attack.
+Mobility and Interrupt Resistance:
+Her Elemental Skill boosts mobility and reduces interruption, which is crucial for her on-field DPS role.

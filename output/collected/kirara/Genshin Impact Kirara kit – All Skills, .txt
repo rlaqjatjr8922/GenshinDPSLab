@@ -1,0 +1,59 @@
+Kirara is the well-loved Gold Level Courier of the Komaniya Express, an Inazuman shipping company that works around the clock to ensure that people receive their packages safely and on time. Despite being a youkai with two tails, Kirara has adapted well to human society and is known for her excellent customer service. She's expected to be a four-star Dendro sword user
+coming in Version 3.7
+.
+Recommended Videos
+If you're interested in knowing more about Kirara, read on to find out everything about her kit
+based on leaks
+. Keep in mind that
+the information below has not been confirmed by HoYoverse and should be taken with a grain of salt
+. As the beta is still running, changes to her kit are inevitable upon release.
+Genshin Impact Kirara Skills
+Auto Attack - Boxcutter
+Normal Attack
+: Performs up to four rapid strikes.
+Charged Attack
+: Consumes a certain amount of Stamina to unleash three rapid claw strikes.
+Plunging Attack
+: Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE damage upon impact.
+Elemental Skill - Meow-teor Kick
+Press
+Leaps into the air with all the agility of a cat passing through the bushes, and thwacks her foes with a flying kick that deals Dendro Damage while creating a Shield of Safe Transport. This will also briefly apply Dendro to Kirara. The shield will absorb Dendro Damage with 250 percent effectiveness. The shield's DMG absorption will be based on Kirara's Max HP and will not exceed a certain percentage of that Max HP. The remaining damage absorption on a Shield of Safe Transport will stack on a new one when it is created, and its duration will be reset.
+Hold
+Kirara deploys another Shield of Safe Transport identical to the one created by the other mode out of her desire to "deliver within half a day." She will also curl up into a special express delivery box, entering the Urgent Neko Parcel state in order to move and fight more swiftly.
+Urgent Neko Parcel
+Deals Dendro DMG to opponents she crashes into. This effect can be triggered once on each opponent per 0.5 seconds.
+When in this state, Kirara's movement speed, climbing speed, and jumping power are all increased, but her Stamina Consumption from climbing is also increased.
+When the duration ends or the skill is used again, a Flipclaw Strike more powerful than the attack in the Press Mode will be unleashed, dealing AoE Dendro Damage.
+The Urgent Neko Parcel state lasts a maximum of 10 seconds. When the state ends, the skill will enter cooldown. The longer Kirara spends in this state, the longer the cooldown. Sprinting or actively canceling climbing will end this state early.
+Elemental Burst - Secret Art: Surprise Dispatch
+Sends a Special Delivery Package on an express course to thieves who need to be punished, dealing AoE Dendro Damage. After the Special Delivery Package explodes, it will split up into many Cat Grass Cardamoms that will explode either upon contact with opponents or after a period of time, dealing AoE Dendro Damage.
+Related:
+How to solve Burgeoning Spirit Puzzles in Genshin Impact
+Genshin Impact Kirara Passives
+Passive one (Cat's Creeping Carriage)
+: When Kirara is in the party, animals who produce Fowl, Raw Meat, or Chilled Meat will not be startled when party members approach them.
+Passive two (Bewitching, Betwitching Tails)
+:
+When Kirara is in the Urgent Neko Parcel state of Meow-teor Kick, each impact against an opponent will grant a stack of Reinforced Packaging. This effect can be triggered once on each opponent every 0.5 seconds. Max three stacks.
+When the Urgent Neko Parcel state ends, each stack of Reinforced Packaging will create one Shield of Safe Transport for Kirara. The shields that are created this way will have 20 percent of the damage absorption that the Shield of Safe Transport produced by Meow-teor Kick would have. If Kirara is already protected by a Shield of Safe Transport created by Meow-teor Strike, its damage absorption will stack with the shields and its duration will reset.
+Passive three (Timely Bedazzlement)
+: Every 1,000 Max HP Kirara possesses will increase the damage dealt by Meow-teor Kick by 0.4 percent and the DMG dealt by Secret Art: Surprise Dispatch by 0.3 percent.
+Related:
+How to make Sunyata Flowers bloom in Genshin Impact
+Genshin Impact Kirara Constellations
+C1 (Material Circulation)
+: Every 8,000 Max HP Kirara possesses will cause her to create one extra Cat Grass Cardamom when she uses Secret Art: Surprise Dispatch. A maximum of four extra can be created.
+C2 (Perfectly Packaged)
+: When Kirara is in the Urgent Neko Parcel state of Meow-teor Kick, she will grant other party members she crashes into Critical Transport Shields. The DMG absorption of Critical Transport Shield is 40 percent of the maximum absorption Meow-teor Kick's normal Shields of Safe Transportation are capable of and will absorb Dendro Damage with 250 percent effectiveness. Critical Transport Shields last 12 seconds and can be triggered once on each character every 10 seconds.
+C3 (Universal Recognition)
+: Increases the Level of Meow-teor Kick by three. Maximum upgrade level is 15.
+C4 (Steed of Skanda)
+: After active character(s) protected by Shields of Safe Transport or Critical Transport Shields hit opponents with Normal, Charged, or Plunging Attacks, Kirara will perform a coordinated attack with them using Small Cat Grass Cardamoms, dealing 200 percent of her Attack as Dendro Damage. Damage dealt this way is considered Elemental Burst Damage. This effect can trigger once every 3.8 seconds.
+C5 (A Thousand Miles in a Day)
+: Increases the Level of Secret Art: Surprise Dispatch by three. Maximum upgrade level is 15.
+C6 (Countless Sights to See)
+: All nearby party members will gain 12 percent All Elemental Damage Bonus within 15 seconds after Kirara uses her Elemental Skill or Burst.
+If you're interested in pulling for Kirara, check out our
+Genshin Impact Kirara farming guide
+here on Pro Game Guides to start collecting materials for her.
+More Posts from PGG

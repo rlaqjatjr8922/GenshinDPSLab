@@ -1,0 +1,95 @@
+Jun 25, 2025
+Genshin Impact's roster continues to expand with powerful characters, and Mavuika stands out as one of the most versatile Pyro units in the game. As the Pyro Archon of Natlan introduced in 2025, she brings a unique playstyle that allows her to function effectively as both a main DPS and sub-DPS. If you're looking to maximize her potential, this comprehensive build guide will walk you through everything you need to know about Mavuika's abilities, optimal gear, and team compositions.
+Mavuika Character Profile​
+Mavuika is a 5-star Pyro claymore user who embodies the essence of conflict as the Archon of Natlan. Her unique energy mechanic revolves around Nightsoul points and Fighting Spirit rather than traditional Energy Recharge, setting her apart from most characters in Genshin Impact.
+Her base stats at level 90 include: - HP: 12,552 - ATK: 359 - DEF: 792 - CRIT DMG: 88.40% (ascension stat)
+What makes Mavuika particularly valuable is her flexibility in team compositions. She can be built either as an on-field main DPS, an off-field Pyro applicator, or even both simultaneously. Her kit allows for consistent Pyro application, which is relatively rare among current Pyro characters, making her an excellent choice for various reaction-based teams.
+For those who enjoy exploration, Mavuika offers exceptional utility with her motorbike form, which combines the strengths of most Natlan tribes' exploration abilities in a single character. This makes her an SS-tier choice for world exploration alongside her combat prowess.
+If you're looking to
+purchase Genshin Genesis Crystals
+to help build Mavuika, Lootbar.gg offers competitive prices and reliable service for all your gaming needs.
+Mavuika Talent Priority​
+When building Mavuika, prioritizing her talents correctly is crucial to maximizing her damage output. The optimal talent priority differs slightly depending on how you plan to use her:
+For Main DPS Mavuika:​
+Elemental Burst (Hour of Burning Skies)
+Elemental Skill (The Named Moment)
+Normal Attack (Flames Weave Life)
+Her Elemental Burst makes up the bulk of her damage during her empowered bike mode with Fighting Spirit, making it the most important talent to level up. The Elemental Skill comes second as her bike attacks scale with both her Skill and Burst.
+For Sub-DPS/Off-field Mavuika:​
+Elemental Skill (The Named Moment)
+Elemental Burst (Hour of Burning Skies)
+Normal Attack (Flames Weave Life)
+When used as an off-field or quick-swap character, both the Elemental Skill and Burst take almost equal priority to maximize her personal damage contribution.
+Interestingly, you don't need to level up her Normal Attack talent for either build path, as her bike attacks scale with her Elemental Skill and Burst instead. This allows you to save resources that would otherwise be spent on her normal attack talent.
+Mavuika Weapons​
+Selecting the right weapon for Mavuika is essential to unlock her full potential. Her signature 5-star claymore, A Thousand Blazing Suns, is undoubtedly her best-in-slot weapon, providing significant ATK and CRIT stats along with a powerful passive effect.
+Best Weapons for Mavuika:​
+A Thousand Blazing Suns (5★) - Her signature weapon and best-in-slot for both main DPS and sub-DPS roles.
+Tidal Shadow (5★) - A strong alternative with excellent CRIT stats.
+Serpent Spine (4★) - Battle Pass weapon that provides CRIT Rate and a stacking damage bonus.
+Mailed Flower (4★) - Good for reaction-focused builds due to its Elemental Mastery substat.
+Rainslasher (4★) - Can be effective in reaction teams, especially with its passive against enemies affected by Hydro or Electro.
+As a traditional DPS unit, Mavuika values weapons that increase her personal damage, making claymores with high ATK and CRIT stats ideal. If you're building her for reaction teams like Melt or Vaporize, weapons with Elemental Mastery can also be effective.
+Since Mavuika doesn't rely on traditional Energy Recharge mechanics, avoid weapons with ER substats as they provide little benefit to her unique energy system.
+When shopping for gaming resources at Lootbar.gg, you can find competitive prices on various in-game items to help complete your Mavuika build efficiently.
+Mavuika Artifacts​
+The right artifact set can significantly enhance Mavuika's performance. Depending on how you plan to use her, different sets may be preferable:
+Best Artifact Sets:​
+4-piece Obsidian Codex - Best for main DPS Mavuika, significantly boosting her personal damage.
+4-piece Scroll of the Hero of Cinder City - Excellent for sub-DPS if no one else in your party is using this set.
+2-piece Pyro DMG + 2-piece ATK - A solid alternative while farming for the above sets.
+Main Stats to Prioritize:​
+Sands: ATK% or Elemental Mastery (EM for reaction teams)
+Goblet: Pyro DMG Bonus
+Circlet: CRIT Rate or CRIT DMG (balance to maintain a 1:2 ratio)
+Substat Priority:​
+CRIT Rate/CRIT DMG
+ATK%
+Elemental Mastery
+Flat ATK
+While farming for optimal artifacts, a combination of 2-piece sets that provide Pyro DMG and ATK bonuses can serve as a good interim solution until you obtain a full 4-piece set of either Obsidian Codex or Scroll of the Hero of Cinder City.
+On paper, due to her Elemental Burst mechanics, Mavuika cannot consume Nightsoul Points while under her Elemental Burst. However, this isn't a significant issue in practice since she can activate effects before using her burst, and they linger for 6 seconds, covering most of her burst duration.
+Mavuika Teams​
+Due to her special energy mechanic, Mavuika typically benefits from having another Natlan character in your party to charge up her Fighting Spirit through the consumption of Nightsoul points. Characters like Xilonen and Citlali are considered optimal teammates, especially for her on-field role.
+Melt Team:​
+Mavuika (Main DPS)
+Citlali (Sub-DPS/Cryo application)
+Xilonen (Support/Nightsoul generation)
+Bennett (Support/Healing/ATK buff)
+Citlali is Mavuika's best partner for Melt reactions. Alternatively, you can use other off-field Cryo characters like Rosaria or Ganyu, provided you have another Natlan character in your party.
+Vaporize Team:​
+Mavuika (Main DPS)
+Furina (Sub-DPS/Hydro application)
+Xilonen (Support/Nightsoul generation)
+Bennett (Support/Healing/ATK buff)
+When building a Vaporize team, an off-field Hydro character who can apply Hydro for both her Normal and Charged Attacks, like Furina, is your best option. Characters like Yelan or Xingqiu work well with Normal Attacks but may not synergize as effectively with Mavuika's Charged Attacks while on her motorbike.
+Overloaded Team:​
+Mavuika (Main DPS)
+Ororon (Sub-DPS/Electro application)
+Chevreuse (Support/Buffer for Overloaded reactions)
+Bennett (Support/Healing/ATK buff)
+For Overloaded compositions, Chevreuse is a staple buffer who can significantly enhance the reaction damage. Pairing Mavuika with strong off-field Electro applicators like Ororon creates a powerful combination.
+Finding the right team composition is crucial for maximizing Mavuika's potential. If you're looking to enhance your Genshin Impact account with resources to build these teams, Lootbar.gg provides reliable services with competitive pricing.
+Conclusion​
+Mavuika stands as one of the most versatile and powerful Pyro characters in Genshin Impact's current meta. Her unique dual functionality as both a main DPS and sub-DPS allows her to fit into various team compositions, making her an excellent investment for your account.
+To summarize the key points of this mavuika build guide: - Prioritize her Elemental Burst and Skill talents - Equip her with a high CRIT/ATK weapon, with her signature weapon being ideal - Use 4-piece Obsidian Codex for main DPS or 4-piece Scroll of the Hero of Cinder City for sub-DPS - Team her with at least one Natlan character for optimal Fighting Spirit generation - Build her with the standard DPS stat distribution: ATK%/Pyro DMG/CRIT
+Whether you're a new player looking to enhance your roster or a veteran seeking to optimize your teams, Mavuika offers tremendous value with her powerful kit and flexible playstyle. Her position as the Pyro Archon is well-deserved, and with the right build, she can easily become one of your account's strongest assets.
+Remember that while building Mavuika requires significant resources, the investment is worthwhile for the power she brings to your teams. For players looking to expedite their character building process,
+Lootbar.gg
+offers competitive prices on Genshin Impact resources with reliable delivery.
+Happy adventuring, Travelers!
+Reply
+Reactions:
+wajiha
+Click to expand...
+Written by
+Alex Wright
+Editorial Team
+Alex is an occasional YouTuber, commentator and streamer, with a passion for gaming. He's an active games journalist, hockey player and fan.
+Editorial Team
+Messages
+2,188
+Reaction score
+111
+Points
+63

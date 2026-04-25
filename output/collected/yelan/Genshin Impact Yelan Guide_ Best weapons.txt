@@ -1,0 +1,297 @@
+Yelan
+is an upcoming five-star
+Hydro character
+in
+Genshin Impact
+and will have her first appearance in the
+2.7 updates
+. Yelan is a very mysterious character and claims to be working for the Ministry of Civil Affairs, but not much is known about her. Aside from being a popular character, her playstyle and kit are very unique and powerful, so here is a complete Genshin Impact Yelan guide with all the information you need from building her with the best weapons and artifacts.
+Yelan: Playstyle and skillset of the character
+Image via miHoYo
+Name/ Description
+Type
+Perform up to 4 consecutive shots with a bow.
+Normal Attack
+Perform a more precise Aimed Shot with increased DMG. While aiming, flowing water will accumulate on the arrowhead. A fully charged torrential arrow will deal with Hydro DMG. Additionally, Yelan will enter a
+Breakthrough
+state after spending 5s off-field, which will cause her next Charged Aimed Shot to have 80% decreased charge time, and once charged, she can fire a
+Breakthrough Barb
+that will deal with AoE Hydro DMG based on Yelan’s Max HP.
+Charged Attack
+Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.
+Plunging Attack
+Lingering Lifeline
+Elemental Skill
+Fires off a Lifeline that tractors her in rapidly, entangling and marking opponents along its path. When her rapid movement ends, the Lifeline will explode, dealing Hydro DMG to the marked opponents based on Yelan’s Max HP.   Press   Moves a certain distance forward rapidly.   Hold   Moves forward rapidly and continuously. During this time, Yelan can control her sprint direction and can end her rapid movement by using the Skill again. Additionally, each opponent marked by the Lifeline when it explodes grants Yellen a 34% chance to obtain a Breakthrough.
+Depth-Clarion Dice
+Elemental Burst
+Deals AoE Hydro DMG and creates an
+Exquisite Throw
+which aids her in battle.   Exquisite Throw   Follows the character around and will initiate a coordinated attack under the following circumstances, dealing Hydro DMG based on Yelan’s Max HP: This can occur once every second when your active character uses a Normal Attack. Will occur each time Yelan’s Lifeline explodes and hits opponents.
+Yelan’s constellations
+Constellation Level
+Constellation Name
+Effect
+C1
+Enter the Plotters
+Lingering Lifeline gains 1 additional charge.
+C2
+Taking All Corners
+When Exquisite Throw conducts a coordinated attack, it will fire an additional water arrow that will deal 14% of Yelan’s Max HP as Hydro DMG. The effect can trigger once every 1.8s.
+C3
+Beware the Trickster’s Dice
+Increases the Level of Depth-Clarion Dice by 3. The maximum upgrade level is 15.
+C4
+Bait-and-Switch
+increases all party members’ Max HP by 10% for 25s for every opponent marked by Lifeline when the Lifeline explodes. A maximum increase of 40% Max HP can be attained in this manner.
+C5
+Dealer’s Sleight
+Increases the Level of Lingering Lifeline by 3. The maximum upgrade level is 15.
+C6
+Winner Takes All
+After using Depth-Clarion Dice, Yelan will enter the Mastermind state. In this state, all of Yelan’s Normal Attacks will be special Breakthrough Barbs. These Breakthrough Barbs will have similar abilities to normal ones and the DMG dealt will be considered Charged Attack DMG, dealing 156% of a normal Breakthrough Barb’s DMG.   The Mastermind state lasts the 20s and will be cleared after Yelan fires 5 arrows.
+Special Dish
+Name
+: Dew-Dipped Shrimp
+In-game Description
+: Yelan’s specialty
+Food Effect
+: Increases all party members’ Shield Strength by 20–30% for 300s.
+Dew-Dipped Shrimp (Image via Genshin Impact Fandom)
+Amongst the ingredients here is the new tea, Dipped Dew, delivered from Qiaoying Village right to the Teahouse, which was then quickly fried together with freshly-caught river shrimp. The look is slight, the scent of distant tea, and the taste both tender and springy… Wait a moment. Why’s she coming over with that plate of chili?
+Talents leveling priority for Yelan in Genshin Impact
+Main DPS Build
+: Elemental Burst = Elemental Skill = Normal Attacks
+Sub DPS Build
+: Elemental Burst > Elemental Skill = Normal Attacks
+Yelan’s Passive Talents
+Turn Control
+: When the party has 1/2/3/4 Elemental Types, Yelan’s Max HP is increased by
+6%/12%/18%/30%.
+Adapt With Ease
+: So long as an
+Exquisite Throw
+is in play, your own active character deals 1% more DMG. Ther increases by a further
+3.5% DMG
+every second. The maximum increase to DMG dealt is 50%.
+Lengthy Consideration
+: Gains 25% more rewards when dispatched on a Liyue Expedition for 20 hours.
+Best Artifacts Build for Yelan in Genshin Impact
+In the Genshin Impact Yelan guide, we will provide details for all the artifact build sets for Shenhe in the game.
+Sub DPS Build
+Yelan is a very powerful character that can mostly be played as a Sub-DPS as her kit revolves around that role and is even considered as an upgrade to a non-C6
+Xingqiu
+, due to her frequent Hydro applications and higher damage. Yelan’s damage scale is on her HP% instead of the standard ATK%, so it is recommended to use HP% Sands. Other than HP% Sands she will use the usual Hydro DMG Bonus Goblet and a Crit Rate / Damage Circlet.
+Yelan can be equipped with a myriad of powerful artifact sets that can boost her damage massively. Ideally, her Best-in-Slot artifact should be the Emblem of Severed Fate which can boost her Burst Damage by a huge margin and is the main source of her damage. Yelan can also be equipped with the composition of various 2-pc artifact sets.
+Emblem of Severed Fate
+Set Bonuses
+2-Piece Bonus
+Energy Recharge +20%
+4-Piece Bonus
+Increases Elemental Burst DMG by
+25% of Energy Recharge
+. A maximum of
+75% bonus DMG
+can be obtained in this way.
+Emblem of Severed Fate
+Emblem of Severed Fate is a powerful artifact set that can boost a character’s Elemental Burst DMG to a huge extent. The only restriction the artifact has is the ER% requirement to be viable on many characters, as of now their artifact is the best possible option for Yelan until a dedicated artifact set is released. In order to use the artifact to its max potential try to reach the threshold of at least
+170% – 200% ER
+.
+Noblesse Oblige
+Set Bonuses
+2-Piece Bonus
+Elemental Burst DMG +20%
+4-Piece Bonus
+Using an Elemental Burst increases all party members’ ATK by 20% for 12s. The effect cannot stack.
+Noblesse Oblige
+The Noblesse Oblige 4-piece bonus is not really beneficial for Yelan but the 2-piece bonus gives increased Elemental Burst DMG, which can be utilized for forming Hybrid artifact sets. Most likely 2-piece Emblem of Severed Fate and 2-piece Noblesse Oblige, 2-piece Noblesse Oblige, and 2-piece Tenacity of the Millelith among others.
+Heart of Depth
+Set Bonuses
+2-Piece Bonus: Hydro DMG Bonus +15%
+4-Piece Bonus: After using an Elemental Skill, increases Normal Attack and Charged Attack DMG by 30% for 15s.
+Heart of Depth
+Tenacity of the Millelith
+Set Bonuses
+2-Piece Bonus
+HP +20%
+4-Piece Bonus
+Tenacity of the Millelith
+When an Elemental Skill hits an opponent, the ATK of all nearby party members is increased by 20% and their Shield Strength is increased by 30% for 3s. This effect can be triggered once every 0.5s. This effect can still be triggered even when the character who is using this artifact set is not on the field.
+Hybrid Artifact Sets
+Aside from the 4pc artifact set, you can also try for hybrid sets of 2pc as they are much easier to farm and usually have better substats than that of 4pc sets. For Yelan there are simply a lot of options, the main ones being
+2pc Emblem of Severed Fate + 2pc Noblesse Oblige
+and
+2pc Noblesse Oblige + 2pc Tenacity of the Millelith
+. These Hybrid sets are not very far behind the main 4pc set and if you can manage to get godly 2pc sets then use those, but do test your artifacts in the game on Yelan.
+Artifact Damage Potential Ranking
+With a very invested min-maxing, Yelan’s artifacts can be ranked in ther order:
+4 pc Emblem of Severed Fate  > 2pc Emblem of Severed Fate + 2pc Noblesse Oblige = 2pc Noblesse Oblige + 2pc Tenacity of the Millelith > 2pc Noblesse Oblige +  2pc Heart of Depth
+Artifact Stats Priority: Sub DPS
+In order to bring the damage potential to the maximum for any character, min-maxing will always have the utmost importance. Yelan mainly uses her Elemental Burst to deal damage which simplifies what sub-stat should be prioritized. Aside from the general DPS stat, you should aim to clear the ER% threshold first, because in optimal rotations her burst is quite important.
+Once ER% is not an issue then focus on boosting CR/CD/HP% as required. Yelan has high base stats but since she scales with HP% try to get some more from artifacts sub stats. Flower and Plume are always easier to farm so aim to procure those that have godly crit ratios.
+Desired Substats
+:
+CR% AND CD% >HP% = ER%
+Artifact Type
+Main Stat
+Sub Stat Priority
+Flower
+HP
+CR%/CD% >HP%=ER%
+Plume
+ATK
+CR%/CD% >HP%=ER%
+Sands
+HP%
+CR%/CD% >HP%=ER%
+Goblet
+Hydro DMG Bonus%
+CR%/CD% >HP%=ER%
+Circlet
+CR / CD%
+CR%/CD% >HP%=ER%
+ER% requirement for Yelan
+Yelan’s Main source of damage comes from her
+Elemental Burst
+, which allows her to perform multiple Hydro applications along with high damage. The ER% threshold for her Elemental Burst depends on what team comp Yelan is used in but to be on the safe side of things, try to aim for at least
+150% – 200%
+. Yelan’s Best in slot weapons won’t have Energy Recharge as a sub-stat so all the ER% has to be acquired from artifacts substat, so farm and level up artifacts accordingly.
+Materials Requirement for Ascension of Yelan
+In this Genshin Impact Yelan Guide, we will look at the materials required for the Ascension of Yelan from
+level 1 to level 90.
+Ascension Level
+Ascension Materials
+Level: 0-20
+1x Varunada Lazurite Sliver, 3x Recruit’s Insignia, 3x Starconch, 20k Mora
+Level: 20-40
+3x Varunada Lazurite Fragment, 2x Runic Fang, 15x Recruit’s Insignia, 10x Starconch, 40k Mora
+Level: 40-50
+6x Varunada Lazurite Fragment, 4x Runic Fang, 12x Sergeant’s Insignia, 20x Starconch, 60k Mora
+Level: 50-60
+3x Varunada Lazurite Chunk, 8x Runic Fang, 18x Sergeant’s Insignia, 30x Starconch, 80k Mora
+Level: 60-70
+6x Varunada Lazurite Chunk, 12x Runic Fang, 12x Lieutenant’s Insignia, 45x Starconch, 100k Mora
+Level: 70-80+
+6x Varunada Lazurite Gemstone, 20x Runic Fang, 24x Lieutenant’s Insignia, 60x Starconch, 120k Mora
+Talent Upgrade Materials required for Yelan
+In this Genshin Impact Yelan Guide, the following materials are required to level up 1 talent up to level 10.
+Level Target
+Materials Required
+Level 1
+–
+Level 2
+3x Teachings of Prosperity, 6x Recruit’s Insignia, x12500 Mora
+Level 3
+2x Guide to Prosperity, 3x Sergeant’s Insignia,  x17500 Mora
+Level 4
+4x Guide to Prosperity, 4x Sergeant’s Insignia,  x25000 Mora
+Level 5
+6x Guide to Prosperity, 6x Sergeant’s Insignia,  x30000 Mora
+Level 6
+9x Guide to Prosperity, 9x Sergeant’s Insignia,  x37500 Mora
+Level 7
+4x Philosophies of Prosperity, 4x Lieutenant’s Insignia, 1x Gilded Scale, x120000 Mora
+Level 8
+6x Philosophies of Prosperity, 6x Lieutenant’s Insignia, 1x Gilded Scale, x260000 Mora
+Level 9
+12x Philosophies of Prosperity, 9x Lieutenant’s Insignia, 2x Gilded Scale, x450000 Mora
+Level 10
+16x Philosophies of Prosperity, 12x Lieutenant’s Insignia, 2x Gilded Scale, 1x Crown of Insight, x700000 Mora
+Best Weapons for Yelan in Genshin Impact
+Aqua Simulacra
+is the signature weapon for Yelan and is one of the best weapons for her due to the weapon passive that is perfect for her. Most of the weapons require good substats from various artifacts as Yelan depends on more attributes than the average character. Polar Star is another great option for her but the passive is not that helpful. Among four-star weapons, Mouun’s Moon and Stringless are very powerful among the other weapons of that rarity and are much easier to obtain than five-star weapons. Therefore in this guide, we will provide the details for the best weapons for Yelan in Genshin Impact.
+Weapon Ranking for Yelan
+Aqua Simulacra > Polar Star = Mouun’s Moon (R5)  > Stringless (R5) = Thundering Pulse = Skyward Harp
+Aqua Simulacra
+Base ATK
+: 542 (Level – 90)
+Substat
+: 88.2% Crit Rate
+Weapon Passive
+: The Cleansing Foam
+Aqua Simulacra
+HP
+increased by 16%. When there are opponents nearby, the DMG dealt by the wielder of this weapon is increased by 20%. This will take effect whether the character is on-field or not.
+Polar Star
+Base ATK
+: 608 (Level – 90)
+Substat
+: 33.1% Crit Rate
+Weapon Passive:
+Daylight’s Augury
+Polar Star
+Elemental Skill
+and
+Elemental Burst DMG
+increased by 12%. After a Normal Attack, Charged Attack, Elemental Skill or Elemental Burst hits an opponent, 1 stack of Ashen Nightstar will be gained for 12s. When 1/2/3/4 stacks of Ashen Nightstar are present, ATK is increased by
+10/20/30/48%.
+The stack of Ashen Nightstar created by the Normal Attack, Charged Attack, Elemental Skill or Elemental Burst will be counted independently of the others.
+Mouun’s Moon
+Base ATK
+: 565 (Level – 90)
+Substat
+: 27.6% ATK
+Weapon Passive:
+Watatsumi Wavewalker
+Mouun’s Moon
+For every point of the entire party’s combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by
+0.12%.
+A maximum of
+40% increased Elemental Burst
+DMG can be achieved this way.
+The Stringless
+Base ATK
+: 510 (Level – 90)
+Substat
+:165 Elemental Mastery
+Weapon Passive
+:  Arrowless Song
+The Stringless
+Increases Elemental Skill and Elemental
+Burst DMG by 24%
+.
+Thundering Pulse
+Base ATK
+: 608  (Level – 90)
+Substat
+: 66.2% Crit Damage
+Weapon Passive: Rule by Thunder
+Thundering Pulse
+Increases ATK by 20% and grants the might of the
+Thunder Emblem
+. At stack levels 1/2/3, the Thunder Emblem increases Normal Attack DMG by
+12/24/40%
+. The character will obtain 1 stack of Thunder Emblem in each of the following scenarios: Normal Attack deals DMG (stack lasts 5s), casting Elemental Skill (stack lasts 10s); Energy is less than 100% (stack disappears when Energy is full). Each stack’s duration is calculated independently.
+Skyward Harp
+Base ATK
+: 674   (Level – 90)
+Substat
+: 22.1% Crit Rate
+Weapon Passive
+: Echoing Ballad
+Skyward Harp
+Increases CRIT DMG by 20%. Hits have a 60% chance to inflict a small AoE attack, dealing 125% Physical ATK DMG. Can only occur once every 4s.
+Weapon rankings should only be taken as reference as damage numbers can skew depending on multiple factors, team comps, characters, artifacts, and rotations so, test your own characters to see what’s the best weapon for them. The current rankings were made by making estimations among various factors.
+Related – Genshin Impact Aloy Guide: Best weapons, artifacts, and materials required for ascension
+That’s all for today’s Genshin Impact Yelan Guide. Did you like our guide on
+Yelan
+in Genshin Impact? Let us know in the
+comments
+below!
+For more Mobile Gaming news and updates, join our
+WhatsApp group
+,
+Telegram Group
+,
+or
+Discord server
+. Also, follow us on
+Google News
+,
+Instagram
+, and
+Twitter
+for quick updates.
+Tags
+Gacha Games
+Genshin Impact

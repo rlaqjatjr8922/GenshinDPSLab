@@ -1,0 +1,535 @@
+In
+HSR
+, The Dahlia is a legendary heroine of the Path of Nihility with the Fire element. Before the events of
+Penacony
+, being the "daughter" of Duke Ifrit, was part of
+The Annihilation Gang
+criminal organization. However, she was forced to flee with the other participants after their leader was defeated.
+Constance is one of the best supports in break teams: not only does she inflict negative statuses and buff allies, but she also deals additional damage as a secondary damage dealer. Her main mechanic is an improved variation of
+super break
+. The girl causes this type of damage even if the enemy's toughness is not depleted, which should allow break teams to become more competitive and effective in the meta.
+Rating:
+S-position in
+tier lists
+Rarity:
+⭐⭐⭐⭐⭐
+Damage type:
+Fire
+Path
+:
+Nihility
+Appeared in-game:
+December 17, 2025 (version 3.8)
+How to get the character:
+Event Warp: Dance in Flame
+Gender:
+Female
+Place of Birth:
+Unknown
+Role in the game:
+Member of
+The Annihilation Gang
+Role in the team:
+Support (debuffer) and secondary damage dealer
+Real name:
+Constance
+Optimal Eidolon:
+E1
+Signature
+light cone
+:
+Never Forget Her Flame
+Voice actresses:
+English voice acting — Cristina Vee
+Chinese voice acting by Ruan Congqing
+Japanese voice acting — Sasaki Mikoi
+Korean voice acting — Kim Do-hee
+How do you rate The Dahlia?
+S+ position in the tier list
+65.17%
+S-position in the tier-list
+23.91%
+A-position in the tier-list
+6.46%
+B-position in the tier-list
+1.24%
+C-position in the tier-list
+3.08%
+Voted:
+4353
+Content
+[ Show ]
+How to Get the Character
+Constance can be knocked out in the first half
+the patch 4.2
+The girl's "event jump" will start
+April 22, 2026
+and end
+May 13, 2026
+inclusive.
+If you don't want to miss the re-run of The Dahlia in the next versions, we recommend following the
+banner schedule
+.
+Strengths and Weaknesses
+The Demoness occupies a place of honor in any group focused on reducing toughness. All of her mechanics are designed to enhance break units, but this makes her a niche character and not suitable for all damage dealers.
+Strengths
+Weaknesses
+One of the best heroes for teams that deal break damage: she increases the relevant stats and also reduces enemy defense, thereby boosting damage.
+She's largely limited to break teams, outside of which she performs worse. She synergizes best with the characters who reduce enemy toughness.
+Allows you to trigger super break even if the opponent's stamina bar is not depleted, making the team less dependent on the situation on the field.
+To maintain the HP increase, a shielder or healer is required in the party. Otherwise, the buff will only last for one turn at the start of the battle and cannot be refreshed.
+Easy to build: for comfortable play you only need the break effect and speed.
+The attack bonus is triggered on random enemies, so in battles against multiple enemies, damage may be distributed among unwanted targets.
+Has a special synergy with
+Firefly (Destruction: Fire)
+because of the trace, which, when applied to a weakness, gives SAM additional energy and allows it to deal toughness damage.
+Restores skill points with a bonus attack. This doesn't require frequent use of the main skill, which can give allies a boost in skill points.
+Best The Dahlia Builds in Honkai: Star Rail
+The heroine inflicts negative statuses, buffs, and deals fire damage to enemies. However, her primary mechanics revolve around break, so critical hits aren't worth considering: they won't affect her damage in any way. Based on these characteristics, The Dahlia's HSR build revolves around the following stats:
+Speed
+- the more often a character takes turns, the more damage they deal and the faster their ultimate charges. This will allow them to consistently activate the bonus attack, which refreshes after each action, generating even more skill points.
+Break effect
+(BE) is the second most important characteristic, influencing both the % buff for the team from the trace and the personal damage of super break;
+If necessary, defensive parameters are increased to protect the unit from deadly attacks. Furthermore, if problems arise with filling the bar of the ultimate, energy restoration sets are considered as additional equipment.
+Recommended Stats
+Key stats in relics:
+Head
+HP (fixed)
+Hands
+Attack Power (fixed)
+Body
+HP/Defense or Chance to Hit Effects (for activating some cones)
+Boots
+Speed
+Planar Sphere
+HP or defense
+Link Rope
+Break effect (
+priority
+) or energy restoration
+Secondary stats:
+Speed ​​- Break Effect - HP/Defense/Effect Resistance
+The final stat values ​​recommended to have at max level before entering combat are:
+Break effect - 150-250% and more;
+speed - 142 and more;
+HP - 3 and more;
+defense - 1 and more;
+EHR - 39% with the "Lies Dance on the Breeze" weapon or 67% with "Long Road Leads Home", "Resolution Shines As Pearls of Sweat", "Holiday Thermae Escapade".
+Light Cone Rating
+As for weapons, we recommend those the one boost primary stats and/or provide useful bonuses for the team. The best choice is The Dahlia's Signature Cone. If you don't have the Legendary, there are other good options among Nihility "cards":
+Light cone
+The effect
+Recommendation
+Never Forget Her Flame
+⭐⭐⭐⭐⭐
+HP
+53-1164
+ATK
+24-529
+DEF
+21-463
+Increases Break Effect by
+60-120%
+At the beginning of the battle, break damage of the owner and the character who started the battle is increased by
+32-72%
+If none of the team members started combat, this effect is applied to the ally with the highest BE value. Bonuses of the same type do not stack. When the owner applies vulnerability to an enemy, 1 skill point is restored. This effect only occurs once and is reset after using the ultimate.
+Everything you need is included: break effect, as well as a damage boost for both the character and the main damage dealer. Another nice perk is that you gain one skill point when activating the ultimate.
+Long Road Leads Home
+⭐⭐⭐⭐⭐
+HP
+43-953
+ATK
+21-476
+DEF
+30-661
+Increases Break Effect by
+60-100%
+When depleting an enemy's vulnerability, there is a 100% base chance to apply the Burning debuff, increasing the target's pierce damage taken by
+18-30%
+The buff lasts for 2 turns and can be stacked up to 2 times.
+An optimal cone for teams that use toughness reduction. It benefits all party members by increasing break damage and the stat itself.
+Lies Dance on the Breeze
+⭐⭐⭐⭐⭐
+HP
+43-953
+ATK
+26-582
+DEF
+24-529
+Increases speed by
+18-30%
+When the owner attacks, there is a base 120% chance to inflict the "Bamboozle" status on the target, which reduces defense by
+16-24%
+for 2 turns. If the owner's speed is above 170, there is a 120% base chance to inflict the "Theft" status on all enemies, which also reduces their defense by
+8-12%
+for 2 turns.
+When statuses are applied repeatedly, only the last one remains active.
+A support weapon: it grants speed and the ability to chip away at defenses beyond what her ultimate provides. The only caveat is that the passive requires a lot of speed, but the demoness boosts it quite well in combat.
+Resolution Shines As Pearls of Sweat
+⭐⭐⭐⭐
+HP
+43-952
+ATK
+21-476
+DEF
+15-330
+When the owner hits an enemy without the "Ensnare" status, they have a basic chance of
+60-100%
+to impose this status on them. The target's defense is reduced by
+12-16%
+for 1 turn.
+A versatile budget option that allows allies to deal even more damage by reducing enemy defense.
+Before the Tutorial Mission Starts
+⭐⭐⭐⭐
+HP
+43-952
+ATK
+21-476
+DEF
+15-330
+The chance of effects hitting increases by
+20-40%
+When the owner hits an enemy with reduced defense, he recovers
+4-8
+energy.
+A free "card" that allows you to use your ultimate more often thanks to a steady supply of energy. An affordable solution for ultimate issues.
+Adventures in the Bathhouse
+⭐⭐⭐⭐
+HP
+48-1058
+ATK
+24-529
+DEF
+15-330
+Damage dealt is increased by
+16-32%
+The wearer has a base 100% chance to apply Weakness to the attacked target, increasing damage taken by
+10-16%
+for 2 turns. Statuses of this type do not stack.
+If you purchase the Battle Pass, you can use this weapon with a DPS boost for your team and the unit itself.
+Alternative cones:
+Solitary Healing
+(legendary) and
+"Fermata"
+(Epic). They'll help you get the required amount of Break effect, but the second part of the passive isn't useful, so they're equipped as a temporary option or at the beginning of the game.
+What relics and ornaments to use
+Equippable artifact sets should match the heroine's mechanics and offer boosts for effective stamina reduction.
+Cavern relics
+Set and its effects
+Recommendation
+Iron Cavalry Against the Scourge
+2 parts
+: break effect +16%.
+4 parts
+: If your Break Effect value is 150% or higher, 10% of your defense is ignored when your stamina bar is completely depleted. When your BE exceeds 250%, super break damage ignores an additional 15% of enemy defense.
+The best choice for increasing Constance's personal combat power. To fully utilize the passive, you'll need to gain a decent percentage of BE.
+Thief of Shooting Meteor
+2 parts
+: break effect +16%.
+4 parts
+: Increases BE by 16%. When the enemy's toughness decreases, the owner restores 3 energy.
+A comfortable set with a bonus to your key stat without any strings attached. It also provides energy when breaking enemy armor, which is easily achieved thanks to the "Dance Partner" status.
+Iron Cavalry Against the Scourge
+2 parts
+: break effect +16%.
+Paired with one of the sets:
+Thief of Shooting Meteor
+/
+Watchmaker, Master of Dream Machinations
+(2 parts) -
+break effect +16%.
+Messenger Traversing Hackerspace
+(2 parts) -
+speed +6%.
+If full sets are not yet obtained, good parts of different sets can be combined with each other depending on the lack of one or another parameter.
+For faster rotation, you can use
+Eagle of Twilight Line
+(but the overall damage will be reduced). The demoness will use her abilities more actively, simultaneously reducing the opponents' toughness. This will also allow her to gain energy earlier for her ultimate.
+Planar ornaments
+Set and its effects
+Recommendation
+Forge of the Kalpagni Lantern
+2 parts
+: Speed ​​+6%. When an attack hits a target with fire vulnerability, BE increases by 40% for 1 turn.
+A strong build, perfect for Constance if she's playing with Firefly. Furthermore, the heroine herself can make enemies weak to fire with her skill.
+Talia: Kingdom of Banditry
+2 parts
+: BE +16%. If speed is 145 or more, BE is additionally increased by 20%.
+An alternative option with increased BE, the implementation of which requires third-party investments in speed.
+Lushaka, the Sunken Seas
+2 parts
+: Energy regeneration speed +5%. If the owner is not the first unit in a team, the attack power of the first unit increases by 12%.
+If you want to focus on boosting your primary damage dealer, we recommend this set, which extends the ATK bonus (it'll also be useful for Firefly, as her break scales with attack power). The set will also speed up the regeneration of her ultimate.
+Other possible ornament sets:
+Sprightly Vonwacq
+— Similar to Lushaka, restores energy but doesn't provide any buffs to allies. Instead, it advances action at the start of combat, which can be beneficial in endgame cycles.
+Fleet of the Ageless
+is a support set for the beginning of the game that increases the ATK of team members. It also makes the wearer slightly more dense by increasing their HP, which will boost survivability in difficult battles.
+The Dahlia's Team Guide in HSR
+The Dahlia plays a support/secondary damage dealer role in the team. She thrives in synergy with those who rely on stamina drain: she increases her effectiveness and break, reduces enemy defense, and imposes elemental vulnerabilities on her "Dance Partners" (the status is applied to the ally who entered combat or the one with the highest Break effect).
+It's also worth noting the very first trace, which increases Break effect. For the buff to persist throughout the fight, Constance must be receiving healing or shields. Given the unit's specific nature, the buff will be relevant, so it's important to ensure a good sustainer (
+legendary Lingsha
+or
+epic Gallagher
+are the best choices).
+Which characters are suitable?
+Allies who benefit the most from an alliance with the heroine:
+Firefly (Destruction: Fire)
+The Stellaron Hunter becomes significantly more powerful when teamed up with Constance. She initially focuses on super break, one of the Annihilation Gang member's core mechanics, and gains additional bonuses from her element and the ability to exploit weaknesses to that element.
+Boothill (Hunt: Physical)
+In addition to the standard bonuses to the effect and break efficiency, he'll also take advantage of the speed boost from the girl's first trace, as he himself inflicts physical vulnerability on the enemy with his superpower. He'll want to be fast, and the 30% bonus will make it easier to achieve a high value even without any additional investments.
+Rappa (Erudition: Imaginary)
+She has no built-in abilities that make enemies weak to her element. Constance will eliminate this disadvantage with the "Dance Partner" status when using her ultimate. Ultimately, the ability to fight vulnerable opponents and utilize the Super Break mechanic will make Rappa a strong and competitive fighter.
+Himeko (Erudition: Fire)
+While she's not a character focused solely on break damage, she benefits from constantly draining her enemies' stamina. Specifically, by executing this mechanic, her talent allows her to build up charges for a bonus attack. The Dahlia will significantly simplify and speed up this process, making her a stronger damage dealer.
+Xueyi (Destruction: Quantum)
+The Xianzhou Judge primarily plays in a break build, maximizing her DPS, including from the "Clairvoyant Loom" trace. Furthermore, like Himeko, she relies on reducing her opponents' toughness to build up Karma stacks for her bonus strike.
+Fugue (Nihility: Fire)
+On the one hand, the heroines partially compete with each other, as their skill sets are quite similar: increasing HP, reducing defense, and inflicting vulnerabilities. On the other hand, it's much better to consider them as partners, working together to support the main damage dealer.
+MC (Harmony: Imaginary)
+Considered a free alternative to Fugue or Ruan Mei, she offers super-breaking damage, making her especially good in synergy with Firefly. She can be used as a free-to-play support in any group, as long as she doesn't follow a different Path and no other support characters are available.
+Ruan Mei (Harmony: Ice)
+Offers numerous buffs designed to make break teams stronger. One of these is an increase to break efficiency, which, as with the demoness, remains fixed.
+Lingsha (Abundance: Fire)
+One of the best healer choices when considering classic teams featuring Constance. In addition to dealing personal damage, sustained healing, and removing debuffs from teammates, she applies a debuff to enemies that increases their breaking damage.
+Gallagher (Abundance: Fire)
+An excellent healer, similar in many ways to Lingsha: increased damage breaking, removing allies' debuffs (E2-consta), health restoration, and a bit of DPS. If the legendary heroine is unavailable, the bartender can be comfortably added to the team.
+Anaxa (Erudition: Wind)
+is worth to be mentioned separately. The Chrysos Heir is not a break unit and already has optimal packs either as a hypercarry or as a sub-DD for
+The Herta (Erudition: Ice)
+. At the same time, the fact that he inflicts vulnerabilities while receiving a 30% speed boost makes an alliance with the heroine a good option, especially in the
+"Apocalyptic Shadow"
+mode, where the demoness's other buffs will also come in handy.
+Who is better: Constance, Fugue or Ruan Mei
+Let's compare the heroines using the table, looking at the key buffs they offer:
+Constance
+Fugue
+Ruan Mei
+Break effect: 24% of her Break effect + 50% (trace #1). For example, at 250%, the team's bonus will be 110%.
+Break effect: +30% to all units ("Phecda Primordia") and +30% to one ally (skill level 10).
+Break effect: +20% ("Inert Respiration").
+Break efficiency: +50% (skill of any level).
+Break efficiency: none.
+Break efficiency: +50% (skill of any level).
+Super Break: included into the technique, skill, and talent. Her special ability allows it to activate even if the enemy's toughness isn't destroyed (the skill's zone must be active).
+Super Break: included into the talent. Requires the character to be on the battlefield for it to activate.
+Super break: none.
+Other bonuses:
+Reduces defense and imposes vulnerabilities to the elements of "Dance Partners" (ult);
+skill point recovery from bonus hits (trace #2);
+Increases speed if an ally makes an enemy weak to their element, and for fire characters, provides additional stamina damage and energy regeneration.
+Other bonuses:
+gives the ability to deplete the stamina of enemies regardless of the elements, reduces def (skill);
+The enemy's action is delayed if they are broken by a team member (trace #1).
+Other bonuses:
+Increased damage dealt by each partner (skill and trace "Candle Lights on Still Waters");
+increases break effect for all types of resistance, prolongs the state of destroyed resistance and delays the actions of opponents (ult);
+speed increase (talent).
+Conclusion
+: Constance aka The Dahlia outperforms other characters, providing the party with an impressive list of powerful and useful buffs. Moreover, she has no cap on her BE gain, and her main feature is dealing super-breaking damage to enemies with full stamina. This significantly sets her apart from the rest. Fugue remains an excellent alternative support, while Ruan Mei, while inferior, can be a worthy budget alternative in any situation.
+Best team samples
+Her talent implies that
+the main damage dealer starts the battle
+and is in the first slot of the team. This action inflicts the "Dance Partner" status on an ally, allowing them to deal damage with super break and make enemies vulnerable to their element.
+The following teams can be formed for Constance:
+Character 1
+Character 2
+Character 3
+Character 4
+Features
+Firefly
+The Dahlia
+Fugue
+MC (Harmony)
+Lingsha
+One of Firefly's strongest premium teams, featuring the best break supports. Multiple defense reductions from Constance and Fugue/MC, increased break and damage, and the ability to deal more damage with Super Break—all of this allows the Stellaron Hunter to maximize her damage output.
+Rappa
+Boothill
+The Dahlia
+Fugue
+Ruan Mei
+Lingsha
+Rappa and Boothill benefit greatly from teaming up with a member of the Annihilation Gang. While she doesn't grant them the energy from the trace due to different elements, the boost to the effect and the effectiveness of break/speed, along with the defense reduction, will significantly increase their overall DPS. Fugue/Ruan Mei also complements their existing bonuses nicely.
+Himeko
+The Dahlia
+Ruan Mei
+Gallagher
+A semi-budget group featuring Himeko. She synergizes quite well with supports that help her drain her stamina bar faster, allowing her to build up charges for her bonus attack. If Ruan Mei is unavailable, you can use the Imagianry Trailblazer (Fugue is also perfect).
+Xueyi
+The Dahlia
+MC (Harmony)
+March 7
+Gallagher
+A free team with Xueyi. The ability to deal damage with Super Break will further unlock the heroine's potential, especially with the Trailblazer (Harmony: Imaginary), which has similar mechanics. March 7 (The Hunt) isn't as effective, but it's a good alternative.
+Anaxa
+The Dahlia
+Tribbie
+Ruan Mei
+Permansor Terrae
+An alternative hypercarry Anaxa composition with an emphasis on toughness destruction and multiple speed boosts thanks to Constance's Trace and Ruan Mei's talent (if she's used instead of Tribbie). While this variation may be inferior to classic Chrysos Heir compositions, it performs well in modes with large enemies (such as Apocalyptic Shadow).
+Leveling
+List of materials for upgrading The Dahlia:
+Total amount of resources:
+Credits (
+×3,888,000
+);
+Traveler's Guide (
+× 290
+);
+Tatters of Thought (
+× 56
+), Fragments of Impression (
+× 71
+), Shards of Desires (
+× 73
+) - dropped by Memory Zone Memes;
+Fiery Spirit (
+× 18
+), Starfire Essence (
+× 69
+), Heaven Incinerator (
+× 139
+) - obtained in the Calyx of Alchemy Commission;
+Radiant Prominence (
+× 65
+) - can be obtained in "Stagnant Shadow: Shape of Ashes";
+Vanquished Flow's Reticence (
+× 12
+) - reward for completing
+Echo of War: Rusted Crypt of the Iron Carcass
+;
+Tracks of Destiny
+(
+× 8
+).
+How the skills work
+Constance is a character of the Nihility and performs several functions at once: weakens enemies by reducing defense and inflicting vulnerabilities, provides buffs to increase efficiency and break effect/speed, and also deals damage, including bonus attacks.
+One of her key features is the ability to deal damage with super break, even with a full stamina bar, which also extends to team members. This creates a powerful synergy with break units, significantly strengthening the entire group.
+Active skills
+Abilities used in combat are aimed at helping teammates, inflicting negative status, and also causing damage.
+The technique
+The Heart Makes the Finest Tomb
+https://wotpack.ru/wp-content/uploads/2025/12/tehnika-georginy.mp4
+Creates an area for 20 seconds where enemies cannot attack heroes. Attacking a target within the created area immediately creates a skill-based area at the start of combat. Additionally, the stamina damage from this attack is converted into
+60%
+of super-break damage if the enemy's vulnerability is destroyed. Only one area of ​​effect from a technique can exist on the battlefield.
+Basic attack
+Fiddle... Fissured Memory
+https://wotpack.ru/wp-content/uploads/2025/12/bazovaya-ataka-georginy.mp4
+Deals fire damage equal to
+50-100%
+of ATK to one target.
+Skill
+Lick... Enkindled Betrayal
+https://wotpack.ru/wp-content/uploads/2025/12/navyk-georginy.mp4
+Creates a zone that lasts for 3 turns. Then deals fire damage equal to
+80-160%
+of attack power, to one enemy and nearby mobs. While the zone is active, break efficiency of allies is increased by
+50%
+, and the decrease in toughness of unbroken enemies is converted into super-break damage.
+Ultimate
+Wallow... Entombed Ash
+https://wotpack.ru/wp-content/uploads/2025/12/sverhsposobnost-georginy.mp4
+Applies the Wilt status to enemies for 4 turns. Afterwards, deals Fire damage equal to
+180-300%
+of attack power, distributed among all targets. Reduces the targets' defense by
+8-18%
+and makes Dance Partners vulnerable to the elements.
+Passive skills
+The talent is a powerful boost to super break, as well as the ability to use bonus hits as an additional source of DPS.
+Talent
+Who's Afraid of Constance?
+https://wotpack.ru/wp-content/uploads/2025/12/talant-georginy.mp4
+At the beginning of the battle, the heroine restores
+35
+Energy, and also applies the "Dance Partner" status to herself and the ally who initiated the battle. If there's no partner with this status, it's applied to the hero with the highest Break effect value.
+When a Partner attacks a broken enemy, the stamina damage of that attack is converted into
+30-60%
+of Super Break Damage. If the target is attacked by other Dance Partners, the heroine performs a bonus attack that deals fire damage equal to
+15-30%
+of attack power (5 times to a random target).
+In this case, each hit on an enemy with completely reduced toughness is converted into
+100-200%
+of Super Break damage once. Can only trigger once per turn. If the enemy dies before the bonus attack, it triggers based on a different random target.
+Leveling Order
+Talent > Ult > Skill > Basic Attack
+Both the
+talent
+and
+ult
+are the most important skills, which significantly boost allies and the heroine herself. Then you can level the
+skill
+and
+basic attack
+, however, you shouldn't spend too many resources on them, since increasing the level will only affect damage (although the percentages are low in any case, and the scaling depends on attack power).
+Traces
+Character talent tree:
+Yet Another Funeral
+(A2)
+— At the start of combat, increases allies' Break effect by 1% of her own Break effect + 24% for 50 turn. The bonus is triggered again on turns 3 when Constance receives healing or a shield from her allies, but does not reactivate for 1 turn.
+Lament, Lost Soul
+(A4)
+— When performing a bonus attack, 1 skill point is restored. Activates only once for every two bonus attacks.
+Outgrow the Old, Espouse the New
+(A6)
+— When an ally inflicts vulnerability on an enemy, their speed is increased by 30% for 2 turns. If the ally has the fire element, they also deal 20 fire damage and restore energy equal to 10% of their maximum energy (maximum 50%).
+Stat bonuses after unlocking all the paths:
+Break effect
++ 37,3 %
+Effect RES
++ 18 %
+Speed
++5
+.
+Eidolons
+The best eidolon of The Dahlia is
+Е1
+. Once unlocked, the Super Break multiplier will apply to every ally, and Dance Partner will receive a boost. Additionally, enemy toughness will decrease even more rapidly, which is especially beneficial in endgame modes against bosses.
+Е2
+is a good option with an additional debuff and automatic application of Wilt from the ult.
+Е4
+: the bonus attack now triggers 10 times and at the same time increases the damage taken by enemies (max. by 120%).
+Е6
+, as usual, turns out to be the strongest - it's a huge increase in Break effect and promotion of the "Dance Partners" action.
+All eidolons of the representative of Nihility
+E1:
+When a Bud Readies to Bloom
+The talent's Super Break damage multiplier applies to all allies. The Dance Partner also receives an additional 40% bonus. After the Dance Partner lands a hit, deals a flat amount of stamina damage equal to 25% of the enemy's max stamina (min. 10 and max. 300). This only applies once per target, but the counter resets upon the target's death.
+E2:
+Fresh, Ethereal, and Beloved
+While the heroine is on the battlefield, enemy resistance to all elements is reduced by 20%. When an enemy enters the battlefield, she automatically gains Wilt for 3 turns.
+E3:
+Pity Its Petals Thin as Mist
+Ultlevel +2. Max. - 15.
+Base Attack Level +1. Max - 10.
+E4:
+Pity Its Heart Gnawed by Worms
+The number of hits dealt by the talent's bonus attack is increased by 5. Each hit increases the damage taken by targets by 12% for 2 turns.
+E5:
+Fallen, Decayed, and Despised
+Skill level +2. Max. - 15.
+Talent level +2. Max. - 15.
+E6:
+And Yet, Always, Deathly Beautiful
+The Dance Partner's Break effect is increased by 150%. When performing a bonus attack, all Partners' actions are advanced by 20%.
+How to Play The Dahlia in HSR
+One of the character's "features" is the
+Dance Partner
+status, which is automatically applied to the one who started the battle (or to the ally with the highest Break effect). Constance's rotation itself is standard: alternating between skill and basic attacks until she accumulates energy for the ultimate. During this process, she also activates a bonus attack when the "Partner" hits a
+broken enemy
+, which will happen often in a team focused on reducing resilience.
+If you consider the sequence of actions in combat, then in the case of the demoness, you won't need to adhere to a strict order. Skills are used according to cooldown and as needed:
+Since the technique creates a zone, it can conflict with other similar effects. For example, if you're playing in a group with Himeko, you'll need to choose whose ability to activate, as they won't work together.
+The technique creates an area similar to the skill, allowing you to select your basic attack for the first action. To quickly transition to your ultimate and deal damage to multiple targets, we recommend activating the skill.
+When you need to save or restore skill points, use the basic attack. It's important to keep in mind that the heroine also generates skill points from the second trace, and breaking multiple enemies can be more profitable. Therefore, the skill takes priority, but it's important to pay attention to your current skill point pool.
+Usually, the ultimate activates immediately, but if there's a difficult boss fight and the damage dealer's ultimate is charged (or is clear to being ready), The Dahlia and other supports cast it first, followed by the main damage dealer. This is necessary to deal damage while under all debuffs and buffs.
+Note
+: The team's break effect buff lasts only one turn after the battle begins. It will need to be reactivated and refreshed later by applying shields or healing the heroine.
+Is The Character Worth Pulling?
+In Honkai: Star Rail, Constance "The Dahlia" is a fire demoness and of the strongest supports/debuffers for break teams. Her set offers everything needed to comfortably handle late-game content. In addition to the usual boost to the effect and effectiveness of her break, she improves the Super Break mechanics, allowing to trigger it even when the enemy stamina bar is full. This makes her team more flexible.
+In addition to the standard buffs, she can increase speed, reduce the defense of all enemies, and inflict elemental vulnerability on allies with the "Dance Partner" status. The latter also triggers a bonus attack, making her not only a powerful support but also a decent sub-DPS.
+Another unique feature is the synergy with Firefly. Thanks to her mastery of fire and ability to inflict vulnerabilities, SAM activates Constance's Last Trace, gaining energy and the ability to deal additional vulnerability damage: all in addition to the powerful buffs provided by her other skills. If you have the Stellaron Hunter on your account, The Dahlia becomes especially valuable. Otherwise, she's a great match for any character that relies on break (Rappa, Boothill, Xueyi, and, to some extent, Himeko).
+Which is better: E1 or signature?
+Both the eidolon and the weapon are considered good investments. The choice depends on your priorities:
+E1 significantly boosts not only the main damage dealer but the entire team. It's an optimal investment if you want every team member to contribute.
+The signature provides Break Effect needed by the demoness in large quantities, increases the damage of "Dance Partners" and restores skill points. It's beneficial in terms of simplifying the build and making it more accessible (the chance of getting it is higher than with the second copy of the hero due to the guarantee ratio: 75/25 vs. 50/50).

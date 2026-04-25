@@ -1,0 +1,103 @@
+Today, I’ll be instructing you on how to build
+Wanderer
+in Genshin Impact to get the most out of his gear. Without further ado, let’s get right to it. Let’s take a look at Wanderer’s talent explanation first.
+Talent Explanation
+Starting with normal attacks, most of Wanderer’s damage comes from normal attacks. He has a long attack range and has good tracking. This is very useful for flying or moving enemies. His elemental skills allow him to fly and hover in mid-air after casting the spell, and grant him
+Windfavored state
+. This increases the power of his normal and charged attacks.
+Wanderer in Windfavored state will get “
+Kuugoryoku Points
+,” which indicates how long Wanderer can stay in this state. A unique
+Stamina bar
+that drains represents wanderer’s Kuugoryoku Points.
+Talent level scaling on Wanderer’s skills is weak, but is an important part of his skills. Because it can enhance his normal attack and charged attack. After using
+Elemental Burst
+, Wanderer will deal 5 consecutive
+Anemo DMGs
+to enemies.
+Since this is a high demand for his energy, it’s best to alternate bursts. You can use
+Wanderer’s Burst
+before his ability, at the end of his ability, or even in the middle of a rotation to clear a wave of opponents.
+Wanderer’s first Ascension Passive is
+Jade-Claimed Flower
+, which grants him a buff based on his use of elemental skills. The injection priority of elements is
+Pyro, followed by Hydro, Electro and lastly Cryo
+.
+Next up is his second Ascension Passive,
+Gales of Reverie
+. When Wanderer hits the opponent with a normal attack in Windfavored state, there is a 16% chance to get Descent effect.
+If Wanderer dashes during Descent effect, it will consume no stamina. He will fire 4
+Wind Arrows
+, each Wind Arrow deals an Anemo DMG of 35% ATK. If an attack fails to produce the effect, the chance of receiving the buff increases gradually.
+Keep in mind that dashes will reduce Wanderer’s DPS before this buff is activated. To avoid this, pay attention to the audiovisual cues that appear when the passive is triggered.
+Constellation
+Next, let’s talk about his
+Constellation
+.
+His C1 increases normal attack and charged attack speed by 10%. It enables you to add up to two additional normal attacks to your rotation. In addition,
+Wind Arrow
+, launched by the fourth Ascension Passives, will deal an additional 25% of the attack power in damage.
+After spending 50
+Kuugoryoku Points
+in Windfavored state, C2 provides a 200% Burst damage bonus whenever Wanderer’s Burst is used.
+His C3 and C5 increase his burst and skill levels by 3, respectively.
+Also Read:
+Genshin Impact: C0 Kokomi Build Guide - Artifacts, Weapons & Team Comps
+His C4 adds a random buff, in addition to the two buffs Wanderer would normally get from his first
+Ascension Passive
+.
+His C6 allows him to deal bonus wind damage during normal attacks, dealing 40% of Wanderer’s normal attack damage. Also, this prolongs Windfavored state, increasing DPS while slowing down the rotation.
+Best Artifact Sets
+Wanderer’s best
+Artifact Sets
+are 4
+Desert Pavilion Chronicle
+. This set is tailor made for Wanderer. Because it increases his normal attack speed and provides a huge damage boost to his normal and charged attacks.
+However, this set is only slightly better than
+Shimenawa’s Reminiscence 4-piece set
+. If you don’t want to go through the trouble of planting 4 Desert Pavilion Chronicles, you can use it on Wanderer.
+Echoes of an Offering
+is also a viable set for him. However, Ping becomes the major factor that increases the damage output of this suit. You can also mix 2 pieces of Desert Pavilion Chronicle, Viridescent Venerer, or any set that gives 18% Attack.
+Best Weapons
+His best weapon slot is his signature weapon,
+Tulaytullah’s Remembrance
+. It boosts his normal attack and has a high base attack with a whopping 44% crit damage.
+Memory of Dust
+is his second best weapon, especially if you don’t use Bennett. It gives you more attack damage. But if you have Bennett,
+Lost Prayer
+becomes his second best slot machine weapon.
+Next we have
+R5 Widsith
+. Unfortunately, Wanderer cannot benefit from EM buffs. He can only use attack and elemental damage buffs. This caused R5 Widsith to drop in the rankings.
+We also have
+R5 Dodoco Tales
+. This weapon is powerful for Wanderer. Armed with this weapon, you can launch a spam attack. You need to use your normal attack before sending his charged attack to activate his passive. Make sure to do a basic attack every 5-6 seconds to refresh the passive.
+Next up is
+Kagura’s Verity
+. Its passive is useless against Wanderer, as it only enhances elemental skills. But it makes up for the lack of passive utility by offering high crit damage and a basic attack.
+Finally, we have
+Solar Pearl
+, a Battle Pass weapon. It’s a great pick for Wanderer, as it provides a high crit chance. Passive buffs his burst damage and basic attacks.
+Best Teams Comps
+Finally let’s chat about Wanderer’s best team.
+Faruzan and Bennett
+are Wanderer’s best teammates to maximize his damage. If you don’t have Faruzan, you can replace her with Sucrose from your
+Genshin Impact Account
+. This gives you
+Anemo Particles and Thrilling Tales buffs
+.
+The best team to maximize his damage would be
+Wanderer, Faruzan, and Bennett, with Flex
+in the last spot. For the last slot, you can also use a shield like
+Zhongli, Diona, Layla
+, or another buffer like
+Yunjin or Jean
+, or a secondary DPS like
+Yelan, Xingqiu, Fischl
+.
+Overall Info
+Overall, Wanderer is a strong
+Anemo DPS
+, and very easy to use. Because you just need to spam his normal attacks. This guide has covered everything you need to know about Wanderer. Including his best
+Weapons, Artifacts, Team Comps and Constellations
+. I hope this guide is helpful to you!

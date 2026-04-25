@@ -1,0 +1,177 @@
+Yelan Build Guide - Genshin Impact
+By
+Nahda Nabiilah
+Published
+May 31, 2022, 12:14 PM EDT
+Nahda Nabiilah is a writer and editor from Indonesia. She has always loved writing and playing games, so one day she decided to combine the two. Most of the time, writing gaming guides is a blast for her, due to it being two of Nahda's favorite things. She strives to make detailed and easy-to-follow guides.
+Sign in to your
+GameRant
+account
+Add Us On
+Jump links
+Jump Links
+Yelan's Talent Overview
+Best Artifacts For Yelan In Genshin Impact
+Best Weapons For Yelan In Genshin Impact
+follow
+Follow
+followed
+Followed
+Like
+Like
+Log in
+Here is a fact-based summary of the story contents:
+Try something different:
+Show me the facts
+Explain it like I’m 5
+Give me a lighthearted recap
+Yelan
+Hydro
+Bow
+Liyue
+Guides
+Ascension
+Builds
+Weapons
+Team Comp
+Constellation
+Player Mistakes
+Back to All Characters
+After weeks of delay, Yelan is finally here in
+Genshin Impact
+2.7. Fans who are getting tired of Kamisato Ayaka can, at last, spend their Primogems on a brand-new unit. As expected,
+Yelan is a Bow user with a Hydro Vision
+. Her origin is mostly a mystery, but she claims to work for Liyue's Ministry of Civil Affairs.
+The majority of Yelan’s mechanics would be familiar to many as she's highly similar to Xingqiu. However, of course, since they wield a different weapon, players can expect Yelan to have a different build. When it comes to
+Yelan's best build
+in
+Genshin Impact
+, here are some things worth knowing.
+RELATED:
+Genshin Impact: Best Weapons For Kamisato Ayaka
+Yelan's Talent Overview
+Like a
+typical Sub-DPS in
+Genshin Impact
+, Yelan's Normal Attack is mostly negligible. However, her Breakthrough State allows this Talent to be leveled without being a waste.
+Yelan’s Breakthrough State
+After being out of combat for five seconds, Yelan's next Charged Attack will become a
+Breakthrough Barb
+. It has 80% reduced charge time and will deal AoE damage based on Yelan's max HP.
+Note that being out of combat is not equal to being off-field
+. So keeping Yelan from the field will not cause the Breakthrough State to return. Instead, players have to utilize her Elemental Skill to reset the cooldown.
+Yelan’s Elemental Skill - Lingering Lifeline
+Yelan's Elemental Skill causes her to dash quickly, marking enemies in her path. Once her dash ends, the mark will explode, dealing damage based on Yelan’s max HP. This ability has a Tap and Hold version.
+The two are pretty much the same, but the Hold version allows players to dash around the area instead of charging in one direction only.
+For each opponent marked by this Skill, Yelan has a 34% chance to reset her Breakthrough State. However,
+don't mind this part too much, as Yelan is completely playable without her Breakthrough State
+.
+Lingering Lifeline generates around four Elemental Particles after it’s used, so Yelan isn’t a very bad
+Genshin Impact
+Battery
+in general. Unfortunately, her Elemental Burst requires 70 Energy, so she won’t be able to refill her own ultimate without some extra Energy Recharge stat.
+RELATED:
+Genshin Impact: Is Vermillion Hereafter Good On Xiao?
+Yelan’s Elemental Burst - Depth-Clarion Dice
+Yelan deals AoE Hydro damage and then summons a dice that follows the active character around.
+When the
+Genshin Impact
+character
+uses a Normal Attack, the dice will attack along with them. This effect also triggers when Yelan’s Elemental Skill explodes.
+Each time the dice attack, there will be three instances of damage
+. This makes Yelan very similar to Xingqiu, where both can easily reset the Internal Cooldown for Elemental Reactions.
+Yelan’s Ascension Passive
+First Ascension Passive (A1)
+: When the party has 1/2/3/4 Elemental Types, Yelan's Max HP is increased by 6%/12%/18%/30%.
+Fourth Ascension Passive (A4)
+: So long as her Elemental Burst is in play, the active character deals 1% more DMG. This increases by a further 3.5% DMG every second. The maximum increase to DMG dealt is 50%.
+Yelan’s A1 basically promotes her to be played in a rainbow team. Nevertheless, it’s always important to remember that this only affects Yelan’s personal damage. So when it’s the team’s DPS that’s at stake, it’s not a bad idea to focus on powerful resonances like Geo or Pyro resonance.
+Meanwhile, Yelan’s A4 is what sets her apart from
+Genshin Impact's
+Xingqiu
+. While the Guhua Disciple provides protection, Yelan offers a more offensive approach. As long as her Elemental Burst is in play, the active character’s damage will continuously increase, up to 50%.
+This can be a massive addition for powerhouses like Hu Tao. Note that Yelan’s A4 effect
+only applies to the active character
+, so off-field units won’t enjoy this buff.
+Best Artifacts For Yelan In Genshin Impact
+Artifact Sets
+4-pieces Emblem Of Severed Fate
+2-pieces Heart of Depths + 2-pieces Tenacity of the Millelith
+2-pieces Heart of Depths + 2-pieces Noblesse Obliged
+2-pieces Emblem Of Severed Fate + 2-pieces Heart of Depths
+2-pieces Emblem Of Severed Fate + 2-pieces Tenacity of the Millelith
+Yelan's damage will mostly come from her Elemental Burst, so 4-pieces Emblem Of Severed Fate is the best option for her. Other than that, players can mix 2-pieces of Heart of Depths, Tenacity of the Millelith, Noblesse Obliged, or Emblem Of Severed Fate.
+The two pieces mix perform closely to each other, so Travelers should use the one with the best sub-stats
+.
+Artifact Main Stat
+Timepiece
+: Energy Recharge (ER) or HP
+Goblet
+: Hydro DMG Bonus
+Circlet
+: Crit Rate or Crit DMG
+Travelers’ top priority with Yelan should be to make sure she has a 100% Burst uptime. For this, she may need an Energy Recharge Timepiece. The sweet spot with Yelan is around
+200% ER, with the bare minimum being 180%
+. If her ER requirements are fulfilled,
+Genshin Impact
+players can use HP Artifacts
+instead.
+Best Weapons For Yelan In Genshin Impact
+Aqua Simulacra
+Polar Star
+Skyward Harp
+Favonius Warbow
+Thundering Pulse
+Elegy For The End
+Sacrificial Bow
+Viridescent Hunt
+Recurve Bow
+Mouun's Moon
+Yelan's absolute
+best Bow in
+Genshin Impact
+is
+Aqua Simulacra
+. It performs a lot better than the rest of the options. For those who are skipping Yelan's best-in-slot weapon, they can opt for
+Polar Star
+,
+Skyward Harp
+, or
+Favonius Warbow
+. The three weapons are pretty close to each other in terms of Yelan’s personal damage, which may be shocking as Favonius Warbow is a F2P weapon.
+Genshin Impact
+is now available on Mobile, PC, PS4, and PS5. A Switch version is in development.
+Strategy Guides
+Genshin Impact
+miHoYo
+Follow
+Followed
+Like
+Share
+Facebook
+X
+WhatsApp
+Threads
+Bluesky
+LinkedIn
+Reddit
+Flipboard
+Copy link
+Email
+Close
+Poll
+POLL
+Which recently released Nintendo cozy game do you prefer?
+Pokemon Pokopia
+Pokemon Pokopia
+56.8%
+Tomodachi Life: Living the Dream
+Tomodachi Life: Living the Dream
+43.2%
+See Results
+Submit
+Trending Now
+8:15
+Black Flag Resynced: Everything Ubisoft is Getting Right
+Final Fantasy 14 Reveals Massive Gameplay Changes in Evercold
+Xbox Boss Outlines Plan to 'Fortify Game Pass' in Pivotal Shift

@@ -1,0 +1,98 @@
+Table of Contents
+[Hide]
+[Show]
+Combat Talents
++
+−
+Normal Attack – Stealthy Bowshot
+Elemental Skill – Lingering Lifeline
+Elemental Burst – Depth-Clarion Dice
+Passive Talents
++
+−
+1st Ascension – Adapt with Ease
+4th Ascension – Turn Control
+Utility Passive – Necessary Calculation
+Combat Talent Materials by Level
+Get ready to get dicey, because it’s Yelan time. As we enter the final week of
+Genshin Impact
+Version 3.4 and plan for the next banners, it’s time to decide if you need a Hydro character.
+Genshin Impact: How to Ascend Yelan
+|
+Genshin Impact: How to Ascend Hu Tao
+|
+Genshin Impact: Hu Tao Talent Guide
+Yelan is a highly flexible 5 Star Bow Character – she can fill any team position proficiently. However, she is primarily designed to act as a Sub-DPS. So when you’re using Yelan, she should be applying as much Hydro to the field as possible. Despite how fun her Elemental Skill is to use, Yelan’s Elemental Burst applies the most Hydro DMG. Prioritize leveling up her Elemental Burst first, then her Normal Attack, and finally, her Elemental Skill.
+Combat Talents
+Normal Attack – Stealthy Bowshot
+Yelan can perform up to 4 consecutive hits at a time. Like all Bow characters, her Charged Attack infuses her Aimed Shot with Hydro.
+However, Yelan’s Normal Attack comes with the Breakthrough state. This activates after Yelan spends 5 seconds out of combat. Her next Charged Aimed Shot will have a 80% decreased charge time. The shot becomes a Breakthrough Barb, which deals AoE Hydro DMG based on Yelan’s Max HP.
+Elemental Skill – Lingering Lifeline
+Yelan’s Skill has two components: the dash and the stance. Tapping the Skill propels Yelan forward a certain distance. However, most players hold the Skill for the Hydro dash.
+Holding the Skill will increase Yelan’s resistance to interruption and allow you to control her movement. It’s great for marking enemies, especially if they’re spread out. The Lifeline will pull opponents towards Yelan when it explodes, so Yelan can also perform crowd control for your team.
+Additionally, each opponent marked by the Lifeline when it explodes grants Yelan a 34% chance to reset her Breakthrough state. This is why you want to upgrade Yelan’s Normal Attack over her Elemental Skill. The Skill applies Hydro, but the Breakthrough state deals Hydro DMG. And because Breakthrough is tied to Yelan’s Normal Attack, upgrading the Normal Attack will increase Breakthrough damage.
+Elemental Burst – Depth-Clarion Dice
+Activating Yelan’s Burst deals AoE Hydro DMG and creates an Exquisite Throw. This is the most important aspect of Yelan’s Combat Talents.
+Exquisite Throw will follow the character around – Yelan does not need to be on the field – and deals Hydro DMG based on Yelan’s Max HP under certain circumstances. The attack can occur once every second when the active character uses a Normal Attack and each time Yelan’s Lifeline explodes and hits opponents.
+As long as Exquisite Throw is in play, you will constantly apply Hydro. This is perfect for triggering any Hydro reactions, especially if you want to create a Permafreeze team.
+Passive Talents
+1st Ascension – Adapt with Ease
+Yelan’s Max HP increases by a percentage depending on the Elemental Types in your party. She receives a 6% increase for each Elemental Type, up to three. So if you’re working with a Cryo-Hydro-Anemo team, your team consists of three different Elemental Types. This means Yelan’s Max HP will increase by 18%.
+At four different Elemental Types, Yelan receives a 30% HP increase. At this point, each team member represents a different Element. So if you wanted to make a Hyperbloom-Freeze (Dendro, Hydro, Electro, and Cryo) team, this buff would most likely apply.
+4th Ascension – Turn Control
+This Passive automatically activates upon ascending Yelan for the fourth time. So long as an Exquisite Throw is in play, your active character will deal 1% more DMG. This increases by 3.5% DMG every second, up to a maximum of 50%. If you use Yelan’s Burst again before the first one ends, this Passive will reset to the initial 1%.
+Utility Passive – Necessary Calculation
+When dispatched on a 20-hour long Liyue Expedition, Yelan receives 25% more rewards. This Expedition boost is still a relatively new Utility Passive and it’s so much better than the other one. Very few players would choose a faster expedition over more rewards, especially with the 20hr Expeditions. Right now, only Yelan and Shenhe have the Liyue version of this Utility Passive.
+Combat Talent Materials by Level
+Remember, if you want to Triple Crown a character, multiply all Talent Materials by three. Each Combat Talent has its own Level-Up system.
+Talent Level 2
+6 Recruit’s Insignia
+3 Teachings of Prosperity
+12,500 Mora
+Talent Level 3
+3 Sergeant’s Insignia
+2 Guides to Prosperity
+17,500 Mora
+Talent Level 4
+4 Sergeant’s Insignia
+4 Guides to Prosperity
+25,000 Mora
+Talent Level 5
+6 Sergeant’s Insignia
+6 Guides to Prosperity
+30,000 Mora
+Talent Level 6
+9 Sergeant’s Insignia
+9 Guides to Prosperity
+37,500 Mora
+Talent Level 7
+4 Lieutenant’s Insignia
+4 Philosophies of Prosperity
+1 Gilded Scale
+120,000 Mora
+Talent Level 8
+6 Lieutenant’s Insignia
+6 Philosophies of Prosperity
+1 Gilded Scale
+260,000 Mora
+Talent Level 9
+9 Lieutenant’s Insignia
+12 Philosophies of Prosperity
+2 Gilded Scale
+450,000 Mora
+Talent Level 10
+12 Lieutenant’s Insignia
+16 Philosophies of Prosperity
+2 Gilded Scale
+1 Crown of Insight
+700,000 Mora
+Total Talent Materials
+6 Divining Scroll
+22 Sealed Scroll
+31 Lieutenant’s Insignia
+3 Teachings of Prosperity
+21 Guide to Prosperity
+38 Philosophies of Prosperity
+6 Gilded Scale
+1 Crown of Insight
+1,652,500 Mora

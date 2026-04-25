@@ -1,0 +1,294 @@
+Genshin Impact Candace Guide
+X
+Search
+Account
+Discord
+Wiki Home
+Guides
+See all guides
+Common Guides
+Artifacts
+Banner
+Beginner Guide
+Elemental Sigils Item
+Enemies and Bosses
+Events
+List Of All Available Pets
+Maps
+Mondstadt
+Quests
+Talent Leveling Guide
+Tips and Tricks
+Weapon
+Weapons
+Heroes
+See all Heroes
+Albedo
+Alhaitham
+Aloy
+Amber
+Arlecchino
+Ayaka
+Ayato
+Baizhu
+Barbara
+Beidou
+Bennett
+Candace
+Charlotte
+Chasca
+Chevreuse
+Chiori
+Chongyun
+Citlali
+Clorinde
+Collei
+Diluc
+Diona
+Dori
+Emilie
+Eula
+Faruzan
+Fischl
+Freminet
+Furina
+Gaming
+Ganyu
+Gorou
+Heizou
+Itto
+Jean
+Kachina
+Kaveh
+Kazuha
+Site Home
+Wiki's
+Blog
+Support
+Home
+Wiki's
+Blog
+Support
+Account
+Guides
+Common Guides
+Artifacts
+Banner
+Beginner Guide
+Elemental Sigils Item
+Enemies and Bosses
+Events
+List Of All Available Pets
+Maps
+Mondstadt
+Quests
+Talent Leveling Guide
+Tips and Tricks
+Weapon
+Weapons
+Heroes
+Albedo
+Alhaitham
+Aloy
+Amber
+Arlecchino
+Ayaka
+Ayato
+Baizhu
+Barbara
+Beidou
+Bennett
+Candace
+Charlotte
+Chasca
+Chevreuse
+Chiori
+Chongyun
+Citlali
+Clorinde
+Collei
+Diluc
+Diona
+Dori
+Emilie
+Eula
+Faruzan
+Fischl
+Freminet
+Furina
+Gaming
+Ganyu
+Gorou
+Heizou
+Itto
+Jean
+Kachina
+Kaveh
+Kazuha
+Genshin Impact Candace Guide
+Table of Contents
+Jane H
+February 7, 2025
+Genshin Impact Candace Guide: Introduction
+Candace is a 4-star Hydro polearm character from Aaru Village in Sumeru in
+Genshin Impact
+. Known for her striking heterochromia, Candace brings a unique playstyle as the first Hydro polearm user, introducing a Hydro infusion mechanic that can enhance her team’s performance. While her primary role is support, Candace can provide valuable buffs and Hydro application, making her a versatile addition to many team compositions. She is capable of increasing the elemental damage of normal attacks and infusing melee characters with Hydro, which can help enable powerful reactions like Vaporize or Freeze. Although her kit is centered around HP scaling, she can be built for on-field DPS, though this is not her most optimal role.
+Despite not being considered a top-tier character in terms of raw damage output, Candace offers a unique gameplay experience that allows for creative team compositions. She is especially valuable in teams that benefit from her Hydro infusion and normal attack buffs. With the right investment and team synergy, Candace can be a valuable asset. Her F2P (free-to-play) friendly nature, with a wide array of weapon and artifact options, makes her an accessible and enjoyable character for players seeking a different playstyle.
+Genshin Impact Candace Guide: Candace’s Strengths and Weaknesses
+Candace is a versatile Hydro polearm character who excels in both support and, to a lesser extent, DPS roles. Her primary strength lies in her unique ability to provide Hydro infusion to melee characters, enabling them to deal Hydro damage with normal attacks. Her Elemental Burst, “Sacred Rite: Wagtail’s Tide,” increases Elemental DMG for normal attacks, with a damage bonus based on her Max HP, further enhancing team damage. Candace also provides good AoE Hydro application, and at C6, she can apply AoE Hydro damage off-field every 2.3 seconds.
+She is relatively easy to build due to her HP scaling, making her F2P-friendly with many artifact and weapon options. Her Elemental Skill provides a form of shielding by blocking attacks, though it isn’t technically classified as a shield.
+However, Candace has notable weaknesses. She has high energy recharge requirements due to the centrality of her Elemental Burst in her support role, and her Elemental Skill generates only 2-3 particles, making it difficult to maintain her Burst uptime. Her personal damage output is low compared to dedicated DPS characters, and her scaling is split between ATK for normal attacks and HP for her skills and Burst, making it challenging to optimize her as a DPS.
+She also relies heavily on her constellations, particularly C1 and C6, to reach her full potential. Before C6, her Hydro application is limited to when characters swap. Additionally, her Hydro infusion can restrict team compositions with existing elemental infusions, and her buffs may not be as potent as those of other buffer characters like Yun Jin. Overall, Candace is a unique support character whose effectiveness depends on team composition and the investment in her constellations.
+Genshin Impact Candace Guide: Talents
+Candace’s talents center around her support capabilities and unique Hydro infusion mechanic, with a mix of Hydro application, damage buffs, and utility. Her Normal Attack: Gleaming Spear – Guardian Stance consists of up to 4 consecutive spear strikes, with a charged attack that consumes stamina and a plunging attack that deals AoE damage. Her normal attack scales with ATK, but it is not prioritized unless building her as an on-field DPS. The best combo for normal attacks is N3D (normal attack 3 times, then dash).
+Her Elemental Skill: Sacred Rite: Heron’s Sanctum has two versions. The Tap version allows Candace to rush forward, dealing Hydro damage, generating two Hydro particles, and having a 6-second cooldown. The Hold version creates a shield that absorbs damage based on Candace’s Max HP and unleashes Hydro damage upon release. It generates three Hydro orbs and has a 9-second cooldown. The shield is not a true shield and does not activate shield-related effects. Generally, the Tap version is preferred for its shorter cast time.
+Candace’s Elemental Burst: Sacred Rite: Wagtail’s Tide raises her weapon to deal AoE Hydro damage based on her Max HP, activating the Prayer of the Crimson Crown on the active character. This provides a 20% Elemental damage bonus for normal attacks, Hydro infusion for melee characters, and unleashes Hydro damage waves upon character swap (up to three waves). An additional damage bonus is based on Candace’s Max HP, converting 0.5% damage per 1000 HP, with no upper limit. The burst has a 9-second duration at C0 and a 12-second duration at C1, with a 15-second cooldown and an energy cost of 60.
+Candace’s Ascension 1 Passive: Aegis of Crossed Arrows allows her skill to finish charging instantly if she is hit during the hold duration. Her Ascension 4 Passive: Celestial Dome of Sand increases the Elemental damage dealt by characters affected by Prayer of the Crimson Crown by 0.5% for every 1,000 points of Candace’s Max HP. Her Utility Passive: To Dawn’s First Light reduces climbing stamina consumption by 20%, which is shared with Xiao and is not stackable with similar passives.
+In summary, Candace’s talents revolve around boosting team damage and providing Hydro infusion for melee characters. Her Elemental Skill and Elemental Burst are the key components of her kit, making her primarily a support character. The priority for leveling talents is Burst > Skill > Normal Attack for off-field support, and Normal Attack > Burst = Skill for a conditional DPS build.
+Genshin Impact Candace Guide: Playstyles
+Candace’s versatile kit allows her to fit into multiple roles, primarily as a support character, but she can also function as a conditional DPS or a Bloom DPS. The way players build her and prioritize her talents, weapons, and artifacts heavily influences her playstyle.
+In the Off-Field Support role, Candace focuses on maximizing her Elemental Burst, which provides Hydro infusion and a normal attack damage bonus to the team. Her Elemental Skill is used to apply Hydro and generate energy for her team, while her normal attacks are not prioritized. This playstyle benefits from her A4 passive, which increases damage based on her max HP. Key aspects include prioritizing Energy Recharge (ER) to maintain burst uptime, stacking HP to boost her buffs, and utilizing her Elemental Skill for particle generation. This style works well in quick-swap teams where characters are frequently rotated, as well as in teams with a normal attack-focused driver.
+As an On-Field DPS, Candace can use her high multipliers for normal attacks, but this playstyle is less optimal due to her split scaling—her normal attacks scale with ATK while her other abilities scale with HP. This build sacrifices some of her HP-based abilities and is less effective in time-gated events like the Abyss. The key to this playstyle is prioritizing her normal attack talent, balancing attack stats with crit rate and crit damage, and using a Hydro DMG goblet. A 4-piece Heart of Depth artifact set is recommended to boost her normal and charged attacks. However, it’s important to note that Candace cannot proc her C6 while staying on-field.
+Candace can also be used in a Bloom DPS playstyle, particularly in compositions like Fridge or Nilou Bloom. In this style, the goal is to maximize Elemental Mastery (EM) while ensuring enough Energy Recharge to maintain burst uptime. Her Hydro infusion enables the generation of Dendro Cores with Dendro teammates, enhancing her effectiveness in Bloom-based teams.
+Candace’s flexibility allows her to fit both quick-swap teams and teams with on-field drivers. Her performance is greatly influenced by her constellation level, with C1 and C6 providing significant improvements to her abilities. While her Hydro infusion mechanic is versatile, it can also limit team compositions, so it’s important to pair her with characters who can make full use of her buffs and Hydro infusion.
+In summary, Candace excels as an off-field support character, using her Hydro infusion and normal attack damage buff to benefit the team. The on-field DPS role is viable but less efficient, and the Bloom DPS playstyle leverages her EM scaling. The ideal playstyle depends on the team composition, available characters, and player preferences.
+Genshin Impact Candace Guide: Constellations
+Candace’s constellations enhance her abilities, with some offering substantial improvements to her support role, particularly C1 and C6. These constellations make her a more effective Hydro enabler, improving her overall utility and damage output.
+C1: Returning Heiress of the Scarlet Sands
+C2: Moon-Piercing Brilliance
+C3: Hunter’s Supplication
+C4: Sentinel Oath
+C5: Heterochromatic Gaze
+C6: The Overflow
+At C1: Returning Heiress of the Scarlet Sands, the duration of the Prayer of the Crimson Crown effect triggered by her Elemental Burst is increased by 3 seconds, extending it from 9 to 12 seconds. This significantly improves her burst uptime, allowing for longer Hydro infusion and damage buffs. This makes her rotations more flexible and increases team damage output, making C1 highly valuable for general use.
+C2: Moon-Piercing Brilliance grants Candace a 20% increase to her Max HP for 15 seconds when her Elemental Skill hits opponents. This boost to her HP scaling enhances both her burst’s damage and her ability to tank hits with her shield. C2 is beneficial for increasing her personal damage and overall HP, making it a useful constellation, especially for improving her survivability and support in team compositions.
+C3: Hunter’s Supplication increases the level of Candace’s Elemental Burst by 3, providing a small increase in her burst’s damage. However, this is less impactful compared to C1 or C6, offering only a minor improvement.
+At C4: Sentinel Oath, Candace’s Elemental Skill hold cooldown is reduced to 6 seconds, matching her tap cooldown. This quality-of-life improvement allows her to use two hold Elemental Skills per burst rotation, generating more Hydro orbs and offering greater flexibility in her rotations. This makes it easier to execute her combos and guarantees that more Hydro particles are generated.
+C5: Heterochromatic Gaze increases the level of her Elemental Skill by 3, similar to C3. This provides a minor damage increase but is less significant compared to other constellations like C1 and C6.
+C6: The Overflow is Candace’s most impactful constellation. It triggers an AoE Hydro damage effect equal to 15% of her Max HP whenever characters affected by her burst deal Elemental DMG through Normal Attacks. This effect can trigger once every 2.3 seconds and applies Hydro beyond the usual three-wave cap of her burst. C6 significantly increases her Hydro application and burst damage, making her a more powerful off-field support character. This constellation also allows Candace to apply AoE Hydro off-field, making her essential for teams needing consistent Hydro application.
+Genshin Impact Candace Guide: Weapons
+Candace’s weapon choices are determined by her role in the team, either as an off-field support or an on-field DPS. For support builds, weapons that enhance HP or Energy Recharge (ER) are prioritized, while DPS builds benefit more from weapons that provide ATK, Crit Rate, or Crit DMG. Several 5-star weapons can be useful for Candace, but they are not always necessary and may be better suited to other characters.
+For support builds, the primary goal is to ensure Candace can use her Elemental Burst as frequently as possible and maximize the buff she provides to teammates. Favonius Lance is considered one of her best options, offering a high ER substat and a passive that generates energy particles for the team. To activate its passive reliably, some Crit Rate is needed. Black Tassel is an excellent F2P choice for a pure HP build, as its high HP substat directly boosts Candace’s buff, though its passive is not particularly useful for her.
+Engulfing Lightning, a 5-star weapon, is also a strong option due to its high ER substat. Skyward Spine provides ER and serves as a solid stat stick, although its passive is not beneficial for Candace. Prototype Starglitter is another F2P option with ER substats, and “The Catch” is a good F2P weapon for burst damage and ER, though it is generally better used on other characters. Rightful Reward, another F2P option, boosts both HP and ER, but its passive relies on having a healer in the team to be effective.
+Kitain Cross Spear is another viable F2P weapon that reduces Candace’s ER needs, especially when paired with a 4-piece Exile set to lower ER demands for the rest of the team. Moonpiercer is useful in Dendro-related teams, providing a damage boost to teammates. Overall, weapons that offer ER or HP are ideal for her support role.
+For DPS builds, weapons that focus on ATK, Crit Rate, and Crit DMG are more beneficial. Staff of Homa is one of the best options for a DPS build, providing a significant boost to Crit DMG and increasing HP. Staff of the Scarlet Sands is another excellent 5-star weapon, offering high Crit Rate and good synergy with Candace’s abilities. Primordial Jade Winged-Spear balances ATK, Crit Rate, and DMG, making it a solid DPS option. Deathmatch, a 4-star weapon, has a high Crit Rate substat, making it useful for boosting Candace’s Crit Rate.
+Blackcliff Pole is another 4-star weapon that increases Crit DMG, fitting well into a DPS build. White Tassel, a 3-star weapon, is a decent F2P option that boosts Crit Rate and Normal Attack DMG, suitable for F2P players focusing on her DPS potential.
+In general, when selecting a weapon for Candace, it is important to consider the weapon’s substats, passive effects, and base ATK, which directly influences her normal attacks. For support builds, reaching her ER needs is essential to ensure she can consistently use her burst. While 5-star weapons can be powerful, they are not always necessary and might be better utilized by other characters. Refining 4-star weapons can be beneficial, but it should not be prioritized if other characters would benefit more from those refinements.
+In summary, Candace’s best weapon depends on her role in the team. For support builds, Favonius Lance is the top choice for energy generation and team support, while Black Tassel is a good F2P option for maximizing HP. For DPS builds, weapons like Staff of Homa and Staff of the Scarlet Sands, which balance Crit Rate, Crit DMG, and HP, are ideal. It’s important to balance these weapons’ stats with her ER requirements to ensure she can consistently use her burst.
+Genshin Impact Candace Guide: Artifacts
+Admonition
+Tears of the Calamitous God
+Varunada Lazurite Sliver
+Light Guiding Tetrahedron
+Redcrest
+Faded Red Satin
+Candace’s artifact choices depend heavily on her role within the team, whether she is functioning as an off-field support or an on-field DPS. For support builds, the primary focus is to maximize her HP and Energy Recharge (ER), while DPS builds will prioritize ATK, Hydro DMG Bonus, and Crit stats.
+For support builds, the main goal is to enhance her Elemental Burst uptime and increase the buffs she provides to her team, which scale with her HP. The 4-Piece Emblem of Severed Fate (4EoSF) is considered one of her best options due to its 2-piece bonus of 20% ER and the 4-piece bonus, which boosts burst damage based on ER.
+This set ensures her burst is available on cooldown while also providing a significant boost to her personal burst damage. 4-Piece Noblesse Oblige is another strong option for teams that benefit from an ATK% buff, providing a team-wide ATK bonus after using her burst, making it ideal for teams where the main DPS scales with ATK.
+Combining 2-piece Tenacity of the Millelith (+20% HP) and 2-piece Emblem of Severed Fate (+20% ER) is a flexible combination, providing both HP and ER. Other combinations include 2-piece Heart of Depth (+15% Hydro DMG), 2-piece Noblesse Oblige (+20% Burst DMG), or any other 2-piece sets that increase her HP, ER, or Hydro DMG. 4-Piece Instructor is a great choice for reaction-focused teams, as it boosts Elemental Mastery (EM), enhancing reactions like Vaporize, Bloom, Hyperbloom, and Burgeon.
+4-Piece The Exile helps with energy generation and can reduce the ER needs of other teammates, while 4-Piece Deepwood Memories is useful if the team requires Dendro RES shred. For substats, focusing on ER, HP, and Crit Rate (if using Favonius Lance) is ideal for support builds.
+For DPS builds, the goal is to maximize her personal damage output with a focus on Normal and Charged attacks, as well as Hydro damage. The 4-Piece Heart of Depth (4HoD) is the most recommended set for DPS builds, as its 2-piece bonus increases Hydro DMG by 15%, and the 4-piece set provides a 30% bonus to Normal and Charged attack damage after using her Elemental Skill.
+4-Piece Nymph’s Dream is another great option, boosting Hydro DMG after attacking, and is considered her best-in-slot option if ER needs are met. 4-Piece Gladiator’s Finale is also a competitive alternative, offering a slight damage loss compared to Nymph’s Dream and Heart of Depth.
+A 2-Piece Heart of Depth combined with 2-Piece Tenacity of the Millelith is another effective combination for DPS builds. 4-Piece Marechaussee Hunter works well when paired with Furina or any character that can manipulate HP. Main stats for DPS builds should prioritize ATK% for Sands, Hydro DMG Bonus for Goblet, and either Crit Rate or Crit DMG for Circlet. Substats should focus on Crit Rate, Crit DMG, ATK%, and ER.
+For artifact stats, Sands should prioritize ER% for support builds if ER requirements are not met, or HP% if ER needs are already covered. ATK% is preferred for DPS builds. For the Goblet, HP% is ideal for support builds to boost her buff strength, while Hydro DMG Bonus is the best choice for DPS builds to maximize her damage. The Circlet should prioritize HP% for support builds, and Crit Rate or Crit DMG for DPS builds, aiming for a 1:2 ratio.
+Crit Rate is also useful if using Favonius Lance. For substats, ER% is prioritized for support builds (until the requirement is met), followed by HP%, and Crit Rate (if using Favonius Lance). For DPS builds, ER% (until the requirement is met), Crit Rate, Crit DMG, ATK%, and HP% are the preferred substats.
+In summary, Candace’s optimal artifact set and main stats depend on her role. For support builds, Emblem of Severed Fate or Noblesse Oblige are ideal, with a focus on HP% and ER. For DPS, Heart of Depth, Nymph’s Dream, or Gladiator’s Finale are the best choices, with an emphasis on ATK%, Hydro DMG, and Crit stats. Regardless of her role, meeting her ER requirements is crucial to ensure consistency in using her Elemental Burst.
+Genshin Impact Candace Guide: Team Compositions
+Candace is a versatile character who can fit into various team compositions, primarily excelling in support roles but also having the potential to be built as a main DPS with the right team setup. Her key abilities include buffing Normal Attacks, providing Hydro infusion for melee characters, and applying Hydro status, making her valuable for a range of team types. It’s important to note that characters with pre-existing Elemental Infusions may not benefit from Candace’s Hydro infusion unless specified.
+In Reverse Vaporize teams, Candace excels by enabling Pyro characters to trigger Vaporize reactions with her Hydro application. Teams like Candace, Xiangling, Xingqiu, Bennett allow Bennett and Xingqiu to stay on-field while benefiting from Candace’s infusion for Vaporize triggers. Candace also synergizes well with Yoimiya, Yelan, Bennett as she buffs Yoimiya’s Normal Attacks and provides Hydro Resonance and particles for Yelan.
+In a team with Diluc and a Hydro character, Candace enables Diluc to reverse Vaporize his skill procs. Hu Tao teams can also benefit from Candace’s Normal Attack buff and Hydro application, acting similarly to Yelan in this setup. An Anemo character with Viridescent Venerer (VV) can further enhance these teams by debuffing enemies, boosting the overall damage. While additional Pyro characters provide Pyro Resonance and can act as batteries, too many Pyro characters can be inefficient.
+For Freeze teams, Candace works as a reliable Hydro applicator, consistently applying Hydro to keep enemies Frozen when paired with Cryo characters. An example of such a team could be Candace, Rosaria, Kazuha, Shenhe, where characters swap in and out while utilizing their Skills and Bursts alongside Normal Attacks. A Cryo unit and an Anemo unit are often included in these teams to ensure quick application and the benefits of Hydro, Cryo, and Anemo Resonance.
+In Electro-Charged teams, Candace can be used to drive Electro-Charged reactions. A team like Candace, Beidou, Kazuha, Fischl utilizes Candace’s Hydro infusion to trigger discharges with Beidou’s 12 Stormbreaker discharges and enables Kazuha to swirl Electro for enhanced Electro-Charged reactions.
+Candace is also effective in Dendro-related teams, particularly Bloom, Hyperbloom, and Burgeon teams. In a Bloom team, Candace can provide Hydro infusion for characters like Nilou, Nahida, or Dendro MC, allowing them to drive Hydro Normal Attacks and create Dendro cores. In Hyperbloom teams, Candace can apply Hydro while Nahida, Baizhu, and Kuki Shinobu trigger Hyperbloom reactions. Similarly, in Burgeon teams, Candace can enhance Normal Attack damage and contribute Hydro to trigger reactions with characters like Collei and Kazuha. These teams rely on the combination of Hydro, Electro, and Dendro elements to drive Dendro reactions effectively.
+In Mono Hydro teams, Candace pairs well with other Hydro characters to maximize Hydro Resonance. Team compositions like Candace, Xingqiu, Yelan, Kazuha provide both Hydro synergy and the added benefit of Kazuha’s damage buffs, Viridescent Venerer, and grouping. Other potential teams include Candace, Xingqiu, Yelan, Zhongli or Candace, Xingqiu, Yelan, Jean, with Zhongli providing shields and RES shred or Jean swirling Hydro with her skill.
+Certain character synergies also benefit from Candace’s buffs. For example, in an Arlecchino Vaporize team, Candace’s infusion and Normal Attack buff can allow Arlecchino to trigger Vaporize efficiently. In Navia teams, Candace’s infusion can support Crystallize reactions, though it’s not the best option for maximizing Navia’s skill damage. Wanderer, Alhaitham, Clorinde, and Mualani also benefit from Candace’s Normal Attack buff, enhancing their respective damage output through her infusion.
+When built as an on-field DPS, Candace’s teams need to be optimized for her Normal Attack damage. Examples include teams like Candace, Furina, Yelan/Xingqiu, which maximize her potential with other Hydro characters. Candace, Bennett, Xiangling, Xingqiu enables reverse Vaporize reactions, while Candace, Shenhe, Bennett, Xingqiu enables plunging attacks for added DPS. However, these teams typically require a higher investment in specific weapons and artifacts.
+Candace also has some niche teams. A Physical Candace build can focus solely on Normal Attack damage, using the Crescent Pike to bypass her burst abilities. In a Shatterbloom team, Candace can contribute by weaving Normal Attacks between skills with other characters.
+In general, Candace’s best team compositions leverage her Normal Attack buff and Hydro infusion to benefit various team types, including Reverse Vaporize, Bloom, Hyperbloom, Burgeon, Freeze, and Mono Hydro teams. While she is a highly flexible character, her C6 is often highly recommended to maximize her potential in many of these team setups. Though Candace can fit into a variety of compositions, she may not always be the best option, with other Hydro characters like Yelan or Xingqiu potentially offering stronger synergies in certain teams.
+Genshin Impact Candace Guide: How to Play
+Candace is a versatile character whose kit offers multiple playstyles, with a focus on support abilities, though she can also serve as a main DPS in certain team compositions. Her abilities, particularly her Elemental Skill and Elemental Burst, offer utility through Hydro application, damage absorption, and Normal Attack buffs, making her a valuable asset in various team setups.
+Understanding Candace’s Abilities
+Elemental Skill: Sacred Rite: Heron’s Sanctum
+:
+Elemental Burst: Sacred Rite: Wagtail’s Tide
+:
+Candace’s Elemental Skill, Sacred Rite: Heron’s Sanctum, has two versions. In the Tap Version, she rushes forward, dealing Hydro damage and generating two Hydro particles with a short cooldown. In the Hold Version, Candace charges her shield, blocking incoming attacks and generating a barrier based on her Max HP. Upon release or when the barrier is broken, she performs a leaping strike, dealing Hydro damage and generating three Hydro particles. However, the Hold Version takes longer to cast. It’s important to note that this skill does not count as a traditional shield, meaning it does not activate shield-based effects.
+Upon activation of Candace’s Elemental Burst, Sacred Rite: Wagtail’s Tide, she deals AoE Hydro damage and grants the “Prayer of the Crimson Crown” buff to the active character. This buff includes a 20% increase in Normal Attack Elemental damage, which scales with Candace’s Max HP through her A4 passive, a Rippling Wave of Water that unleashes Hydro damage when a character enters the field (capped at three waves), and a Hydro infusion for Sword, Claymore, and Polearm-wielding characters, allowing their Normal Attacks to deal Hydro damage.
+At C1, the duration of the “Prayer of the Crimson Crown” buff is extended by 3 seconds, and at C6, Candace unleashes AoE Hydro damage every 2.3 seconds, based on 15% of her Max HP.
+Candace can be played in two main playstyles: off-field support or on-field DPS. As an off-field support, which is her most common role, Candace focuses on providing Normal Attack buffs, Hydro infusion, and Hydro application. The talent priority in this playstyle is Burst > Skill > Normal Attack, with the Normal Attack talent being deprioritized. The rotation involves using Candace’s Elemental Skill to generate energy and apply Hydro damage, followed by her Elemental Burst to apply buffs and Hydro infusion, then swapping to the main DPS to benefit from the buffs.
+The Tap version of her Elemental Skill is preferred due to its shorter cast time compared to the Hold version. In the on-field DPS role, Candace acts as the main damage dealer, utilizing Hydro-infused Normal Attacks and her Elemental Skill. The talent priority shifts to Normal Attack > Skill > Burst, and the rotation involves using her Elemental Skill to deal damage and generate energy, activating her Elemental Burst for buffs and Hydro infusion, then focusing on using Normal Attacks and Charged Attacks. However, it is important to note that Candace cannot trigger her own C6 damage when played as an on-field DPS.
+In terms of build considerations, Energy Recharge (ER) is crucial for Candace as her Elemental Burst is central to her kit. Aim for 160-180% ER to maintain consistent Burst uptime. HP is also important, as many of her abilities scale with HP, enhancing her shield strength and Elemental Burst damage. If using her as a DPS, a 1:2 Crit Rate to Crit DMG ratio is ideal. For off-field support, focus on HP% or ER% Sands, HP% Goblet, and HP% or Crit Rate/Crit DMG Circlet, with an ER% Sands if needed to meet ER requirements. With C6, a Hydro DMG% Goblet and Crit Rate/Crit DMG Circlet are preferred.
+For on-field DPS, prioritize ATK% or ER% Sands, Hydro DMG% Goblet, and Crit Rate/Crit DMG Circlet. Artifact substats should focus on ER%, followed by Crit Rate/DMG and HP%. The best artifact sets for Candace include Emblem of Severed Fate (4-piece) for off-field support, Tenacity of the Millelith (2-piece) + Emblem of Severed Fate (2-piece) for a balance of HP and ER, Noblesse Oblige (4-piece) for buffing ATK-scaling teammates, Heart of Depth (4-piece) for DPS, and Instructor (4-piece) for elemental reaction teams.
+For weapons, Favonius Lance is an excellent choice for support, offering ER and particle generation. Staff of Homa is a great option for DPS or off-field builds, providing high Crit Damage and HP%. Engulfing Lightning or Skyward Spine are also solid choices for ER. The Catch is a good F2P option, boosting ER and Burst damage, while Black Tassel is a budget-friendly F2P option for support builds due to its HP% substat.
+Candace excels in teams that rely on Hydro infusion and Normal Attack buffs. Her value is especially high in teams that trigger elemental reactions like Vaporize, Freeze, Electro-Charged, Bloom, and Hyperbloom. Characters such as Yoimiya, Ayato, and Alhaitham are ideal teammates who can make effective use of Candace’s buffs. In conclusion, Candace is a flexible character who can serve as either a support or DPS, with her Elemental Skill providing Hydro application and damage absorption, and her Elemental Burst offering Normal Attack buffs and Hydro infusion.
+Her builds should prioritize Energy Recharge and HP, tailored to her role as either off-field or on-field. While Candace may not be a top-tier character in either role, she can be highly effective when built thoughtfully and placed in the right team composition.
+Genshin Impact Candace Guide: Ascension and Talent Materials
+To maximize Candace’s potential, you’ll need to gather specific materials for her character and talent ascensions. For her character ascension, you’ll need 168 Henna Berries, which can be found throughout the Sumeru region, and various drops from Eremite enemies, including 18 Faded Red Satin, 30 Trimmed Red Silk, and 36 Rich Red Brocade.
+Additionally, 46 Light Guiding Tetrahedrons, dropped by the Algorithm of Semi-Intransient Matrix of Overseer Network boss, are required. For Hydro Ascension Gems, you’ll need 1 Varunada Lazurite Sliver, 9 Varunada Lazurite Fragments, 9 Varunada Lazurite Chunks, and 6 Varunada Lazurite Gemstones, which can be obtained from Hydro bosses like the Hydro Hypostasis and Oceanid. You will also need a total of 412,500 Mora to fully ascend Candace, and she will gain a total of 24% Bonus HP at her final ascension.
+To level up Candace’s talents, you’ll need 3 Teachings of Admonition, 21 Guide to Admonition, and 38 Philosophies of Admonition, which can be obtained from the Steeple of Ignorance domain on Mondays, Thursdays, and Sundays. In addition, the Eremite enemies will drop 6 Faded Red Satin, 22 Trimmed Red Silk, and 31 Rich Red Brocade. You’ll also need 6 Tears of the Calamitous God, obtained from the Raiden Shogun weekly boss, and 1 Crown of Insight, a rare material earned during limited-time events. A total of 1,652,500 Mora is required to upgrade a single talent to level 10.
+When prioritizing talent leveling, if you’re using Candace as an off-field support, focus on leveling her Elemental Burst first, as it is central to her support role, followed by her Elemental Skill to increase its damage and shield absorption. Her Normal Attack talent can be neglected in this build. For an on-field DPS build, prioritize her Normal Attack to maximize damage, followed by leveling her Elemental Skill and Burst to improve their damage, though these are secondary to her Normal Attacks. To fully enhance Candace’s capabilities, whether for support or DPS, ensure that you collect all the necessary materials for both character ascension and talent leveling, and have enough Mora to complete the upgrades.
+Genshin Impact Candace Guide: Should You Pull for Candace?
+Deciding whether to pull for Candace depends on your specific needs, team compositions, and playstyle preferences. Candace has several strengths that make her a valuable addition to certain teams. As the first Hydro polearm user, she provides Hydro infusion for melee characters, enabling creative team compositions and gameplay. Her Elemental Burst increases the damage of normal attacks for all characters, with additional scaling based on her Max HP, which is particularly useful for teams that focus on normal attack damage.
+Candace is versatile, able to be built as either an off-field support or an on-field DPS. She also offers good AoE Hydro application, especially with her C6 constellation, which further enhances her off-field Hydro application. As a 4-star character, she is relatively easy to obtain compared to 5-star characters and offers multiple Free-to-Play (F2P) weapon options. Her support build is also easy to optimize, requiring mainly HP and Energy Recharge, and she fits well into teams focused on reactions such as Vaporize, Hyperbloom, Freeze, and Bloom.
+However, Candace has some weaknesses to consider. She requires high Energy Recharge to maintain burst uptime, especially in solo Hydro teams, and her normal attacks scale with ATK, while her skill and burst scale with HP, which can make her challenging to build as a DPS character. Her personal damage is relatively low compared to other characters, and she can feel incomplete at C0, as her C1 and C6 significantly enhance her utility and damage.
+While she offers utility, Candace is not considered a top-tier support or DPS character, and other characters may fill these roles more effectively. Additionally, her Hydro infusion may not always be beneficial and could disrupt certain team compositions, especially if other characters already provide their own elemental infusions.
+If you like Candace’s design and playstyle, she can be a fun character to pull for, especially if you’re looking for a Hydro infusion support for melee characters. She’s also an excellent choice if you lack other Hydro supports or want to experiment with unique team compositions. If you already have C1 or C6, Candace becomes even more useful, as her C1 increases her burst uptime, and her C6 greatly improves her Hydro application and damage.
+Characters who rely on normal attack damage, like Ayato, Yoimiya, and Alhaitham, will benefit from her buffs, and she works well in reaction-based teams. However, if you have strong Hydro supports like Yelan, Xingqiu, or Furina, or if your team doesn’t need Hydro infusion, Candace may not be the best choice. She’s also not a top-tier option, making her less appealing if you’re looking for the most powerful support or DPS characters. If you’re a beginner or F2P, her constellation dependency and the high investment required to fully build her may not make her the most efficient choice.
+In conclusion, Candace is a niche character with a unique set of abilities. While she isn’t a must-pull character, she can be a fun and versatile addition to your roster if you enjoy her playstyle, like her design, or have the resources to fully maximize her potential. If you’re looking to experiment with Hydro infusion, buff normal attack-focused characters, or have her at C1 or C6, she can be a valuable asset. Otherwise, it may be better to save your Primogems for other, more meta-relevant characters.
+Prev
+Previous
+Genshin Impact Bennett Guide
+Next
+Genshin Impact Charlotte Guide
+Next
+About the Author
+Jane H
+Jane has been a passionate writer and designer since she was 12. She loves crafting stories, creating visuals, and immersing herself in PlayStation games like Detroit: Become Human, which inspire her creativity even more! She also enjoys visiting historical places, finding inspiration in their rich stories and architecture. Through her work, she hopes to share her creativity and passion with others.
+0
+0
+votes
+Rating
+Login
+Please login to comment
+0
+Comments
+Inline Feedbacks
+View all comments
+Theria Games
+Youtube
+Reddit
+Useful Links
+Home
+Wiki's
+Blog
+Support
+Account
+Sustainability
+About Us
+Language
+Terms of Service
+Acceptable Use Policy
+Privacy Policy
+© 2025 Theria Games Ltd
+Theria authors select and review products independently. This page may include affiliate links from which we may earn commissions, helping us to continue our work.
+All in-game images, characters, logos, and other related assets featured on this website are the property of their respective game developers and publishers. Theria does not claim ownership of any such content and uses these materials solely for informational and educational purposes. All trademarks and copyrights belong to their rightful owners.
+Theria Games
+Youtube
+Reddit
+Useful Links
+Home
+Wiki's
+Blog
+Support
+Account
+Sustainability
+About Us
+Language
+© 2025 Theria Games Ltd
+Terms of Service
+Acceptable Use Policy
+Privacy Policy
+Theria authors select and review products independently. This page may include affiliate links from which we may earn commissions, helping us to continue our work.
+All in-game images, characters, logos, and other related assets featured on this website are the property of their respective game developers and publishers. Theria does not claim ownership of any such content and uses these materials solely for informational and educational purposes. All trademarks and copyrights belong to their rightful owners.
+wpDiscuz
+Insert

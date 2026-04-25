@@ -1,0 +1,258 @@
+Traveler Pyro
+5
+★
+Sword
+Pyro
+A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven
+.
+Basic Stats
+Nv.
+90
+HP
+10875
+ATK
+212
+DEF
+683
+ATK
+24%
+Basic Stats
+Nv.
+90
+HP
+10875
+ATK
+212
+DEF
+683
+ATK
+24%
+Traveler Pyro
+Ascension Materials
+Brilliant Diamond Sliver
+Windwheel Aster
+Windwheel Aster
+Damaged Mask
+Teachings of Contention
+The Cornerstone of Stars and Flames
+Traveler Pyro
+Best Weapon
+Favonius Sword
+Level
+.
+90
+ATK
+454
+Energy Recharge
+61.3%
+Refinement
+.
+5
+CRIT Hits have a 100% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 6s.
+Other Weapons
+2
+°
+Peak Patrol Song
+DEF
+3
+°
+Key of Khaj-Nisut
+HP
+4
+°
+Sacrificial Sword
+Energy Recharge
+Traveler Pyro
+Best Artifact Set
+Scroll of the Hero of Cinder City
+2 Pc
+:
+When a nearby party member triggers a Nightsoul Burst, the equipping character regenerates 6 Elemental Energy.
+4 Pc
+:
+After the equipping character triggers a reaction related to their Elemental Type, all nearby party members gain a 12% Elemental DMG Bonus for the Elemental Types involved in the elemental reaction for 15s. If the equipping character is in the Nightsoul's Blessing state when triggering this effect, all nearby party members gain an additional 28% Elemental DMG Bonus for the Elemental Types involved in the elemental reaction for 20s. The equipping character can trigger this effect while off-field, and the DMG bonus from Artifact Sets with the same name do not stack.
+Artifacts Main Stats
+Sands
+:
+ATK % / ER %
+Goblet
+:
+Pyro Bonus
+Circlet
+:
+Crit Rate / Crit Damage
+Artifacts Substats
+Crit Rate
+Crit Damage
+ATK %
+Energy Recharge
+Other Artifacts Sets
+2
+°
+4x
+Noblesse Oblige
+3
+°
+4x
+Instructor
+Traveler Pyro
+Talent Priority
+1
+°
+Elemental Skill
+2
+°
+Elemental Burst
+Traveler Pyro
+Best Teams
+Time #
+1
+Main DPS
+Sub-DPS
+Support
+Support
+Kinich
+Emilie
+Traveler
+Bennett
+Time #
+2
+Main DPS
+Sub-DPS
+Support
+Support
+Wriothesley
+Furina
+Traveler
+Xilonen
+Traveler Pyro
+Ascension Costs
+Cost
+5
+→
+6
+120
+K
+Brilliant Diamond Gemstone
+6
+Windwheel Aster
+60
+Ominous Mask
+24
+Traveler Pyro
+Talents Costs
+Cost
+9
+→
+10
+700
+K
+Philosophies of Conflict
+16
+Saurian-Crowned Warrior's Golden Whistle
+12
+The Cornerstone of Stars and Flames
+1
+Crown of Insight
+1
+Traveler Pyro
+Talents
+Normal Attack
+Foreign Blaze
+Normal Attack
+Performs up to 5 rapid strikes.
+Charged Attack
+Consumes a certain amount of Stamina to unleash 2 rapid sword strikes.
+Plunging Attack
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Elemental Skill
+Flowfire Blade
+Wields a searing flame that can incinerate the very earth. Has different effects when Tapped or Held.
+Tap
+Call forth flames in a raging blaze. When used, the Traveler gains 42 Nightsoul points and enters the Nightsoul's Blessing state, summoning a Blazing Threshold that follows the current active character.
+When the Blazing Threshold gets close to opponents, it will deal Nightsoul-aligned
+Pyro DMG
+to nearby opponents at intervals.
+Hold
+Unleash fire in a composed manner, dealing Nightsoul-aligned
+AoE Pyro DMG
+to nearby opponents. When used, the Traveler gains 42 Nightsoul points and enters the Nightsoul's Blessing state, summoning a Scorching Threshold that follows the current active character.
+When the current active character within a Scorching Threshold deals DMG to opponents, the Threshold will launch a Coordinated Attack that deals Nightsoul-aligned
+Pyro DMG
+based on the Traveler's ATK. This effect can occur once every 3s.
+Nightsoul's Blessing: Traveler
+Continuously consumes Nightsoul points. The Traveler's Nightsoul's Blessing state lasts 12s at maximum, and when their Nightsoul points are exhausted, this state will end. If this Elemental Skill is used again while active, the Traveler's Nightsoul points will be reset to 42 points.
+Blazing and Scorching Thresholds will disappear once the Traveler's Nightsoul's Blessing state ends, and only 1 Blazing or Scorching Threshold summoned by the Traveler themselves can exist at any one time.
+Together, you and Paimon watched the shifting colors of the flowing flames.
+Elemental Burst
+Plains Scorcher
+Condense the flames into a mark, dealing Nightsoul-aligned
+AoE Pyro DMG
+to opponents up ahead. The Traveler restores 7 Nightsoul points per second for the next 4s.
+Together, you and Paimon studied the principles behind an undying flame.
+Traveler Pyro
+Passives
+Passive
+1
+True Flame of Incineration
+When the Traveler has over 20 Nightsoul points, the attack AoE of the Blazing and Scorching Thresholds from the Elemental Skill
+Flowfire Blade
+after they hit opponents is increased.
+Passive
+2
+Embers Unspent
+After the current active character inside a
+Blazing Threshold
+or
+Scorching Threshold
+triggers a
+Pyro-related reaction
+, the Traveler will regain 5 Energy. This can occur once every 12s. Additionally, when a nearby party member triggers a Nightsoul Burst, the Traveler will regain 4 Energy.
+Traveler Pyro
+Constellations
+C
+1
+Starfire's Flowing Light
+While
+Blazing Threshold
+or
+Scorching Threshold
+are active, the current active character deals 6% increased DMG. If said character is in the Nightsoul's Blessing state, they will deal an additional 9% DMG.
+C
+2
+Ever-Lit Candle
+Within 12s of using the Elemental Skill
+Flowfire Blade
+, after nearby party members trigger a
+Pyro-related reaction
+on an opponent, the Traveler will regain 14 Nightsoul points. Each use of
+Flowfire Blade
+will restore at most 28 Nightsoul points in this way.
+C
+3
+Relayed Beacon
+Increases the Level of
+Flowfire Blade
+by 3.
+Maximum upgrade level is 15.
+C
+4
+Ravaging Flame
+After using the Elemental Burst
+Plains Scorcher
+, the Traveler gains 20%
+Pyro DMG Bonus
+for 9s.
+C
+5
+The Fire Inextinguishable
+Increases the Level of
+Plains Scorcher
+by 3.
+Maximum upgrade level is 15.
+C
+6
+The Sacred Flame Imperishable
+While in the Nightsoul's Blessing state, the Traveler's Normal, Charged, and Plunging Attacks will be converted to Nightsoul-aligned
+Pyro DMG
+that cannot be overridden, and the CRIT DMG of these attacks is increased by 40%.

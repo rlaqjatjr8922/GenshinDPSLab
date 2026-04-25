@@ -1,0 +1,158 @@
+Gorou is a playable Geo 4-star in Genshin Impact and he is also the gallant leader of Watatsumi army. Despite his success and esteem, he consistently demonstrates his humility as a leader. His employees have a great deal of faith in him, and you may talk to him about your concerns without feeling guilty.
+Genshin Impact: Gorou’s Best Artifacts
+Gorou is a character that is solely meant as a support for geo characters that scale off defence. Geo-characters having their damage proportionally dependant on the Defence stat benefits greatly from Gorou’s skills. His role in a team is a support/enhancer. Only downside about him is the fact that he only fits in geo teams.
+Role:
+Support
+.
+Artifact Set:
+4-Set Husk of Opulent Dreams.
+2-Piece-
+DEF +30%.
+4-Piece
+–  A character equipped with this Artifact set will obtain the Curiosity effect in the following conditions: When on the field, the character gains 1 stack after hitting an opponent with a Geo attack, triggering a maximum of once every 0.3s. When off the field, the character gains 1 stack every 3s. Curiosity can stack up to 4 times, each providing 6% DEF and a 6% Geo DMG Bonus. When 6 seconds pass without gaining a Curiosity stack, 1 stack is lost.
+Artifact Set:
+4-Set Noblesse Oblige.
+2-Piece:
+Elemental Burst DMG +20%
+4-Piece:
+When Elemental Burst is activated, it increases all party members’ ATK by 20% for 12s. This effect cannot stack.
+Artifact Set
+: 4-Set Emblem of Severed Fate.
+2-Piece:
+Energy Recharge +20%
+4-Piece:
+Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.
+Artifact Set:
+4-The Exile
+(4* Artifact Set)
+2-Piece
+: Energy Recharge +20%
+4-Piece
+: Using an Elemental Burst regenerates 2 Energy for all party members (excluding the wearer) every 2s for 6s. This effect cannot stack..
+Recommended Artifact Stats
+:
+Flower-
+Main:
+Flat HP.
+Sub:
+DEF% / CRIT Rate / CRIT DMG / Energy Recharge/ Flat DEF.
+Plume-
+Main:
+Flat ATK.
+Sub:
+DEF% / CRIT Rate / CRIT DMG / Energy Recharge/Flat DEF.
+Sands-
+Main:
+Energy Recharge%/DEF%.
+Sub:
+CRIT DMG / CRIT Rate / Energy Recharge/DEF% / Flat DEF.
+Goblet-
+Main:
+DEF%.
+Sub:
+Energy Recharge/ CRIT Rate / CRIT DMG / Flat DEF.
+Circlet-
+Main:
+DEF%.
+Sub:
+Energy Recharge/ CRIT RATE/ CRIT DMG/ Flat DEF.
+Genshin Impact: Gorou Weapons
+Best 5* Weapons:
+Elegy For The End
+– Elemental Mastery is increased by 120.
+A Sigil of Remembrance is acquired by the character holding this weapon when their Elemental Skills or Elemental Bursts successfully strike enemies. This effect can be activated once every 0.2 seconds and even when the target character is not present on the field.
+When you have 4 Sigils of Remembrance, they are all consumed, giving the “Millennial Movement: Farewell Song” effect to everyone in the immediate area for 12 seconds.
+Elemental Mastery is increased by 200 in “Millennial Movement: Farewell Song,” while ATK is raised by 40%. When this effect starts, you won’t be able to acquire Sigils of Remembrance for 20 seconds.
+Best 4* Weapons:
+Favonius Warbow
+– CRIT Hits have a
+60%
+chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every
+12s
+.
+Sacrificial Sword
+–
+After an Elemental Skill damages an opponent, the skill has a 40% chance of ending its own CD. It only happens once every 30 years.
+Genshin Impact: Team Combinations for Gorou
+Gorou is a Geo-support and his sole role in a team is a support. His job is to buff geo damage and defence for characters whose damage scale on Def.
+Premium Team:
+Main DPS- Gorouu.
+Sub-DPS- Albedo.
+Healer- Bennett or Shield- Zhongli.
+Support/Buffer- Gorou.
+F2P Team:
+Main DPS- Noelle.
+Sub DPS- Ningguang/Geo-Traveller.
+Support- Gorou.
+Healer- Bennett.
+Genshin Impact: Gorou’s Talents and Priorities
+Normal Attacks
+Normal Attack: Perform maximum of four rapid strikes.
+Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, stone crystals will accumulate on the arrowhead. A fully charged crystalline arrow will deal Geo DMG.
+Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.
+Elemental Skill: Inuzaka All-Round Defense
+Creates a General’s War Banner and deals AoE geo DMG.
+Banner of General’s War
+Depending on the number of Geo characters present in the party at the time the talent is cast, it grants up to three boosts to active characters inside its area of effect (AoE):
+Adds “Standing Firm” – DEF Bonus with 1 Geo character.
+Adds “Impregnable” and increases resistance to interruption with 2 Geo characters.
+Adds “Crunch” – Geo DMG Bonus in 3 Geo characters.
+Gorou can only have one General’s War Banner deployed on the field at once.
+One General’s War Banner may only be used by one character at a time. The active buff lasts for 2 seconds after a party member departs the field.
+Hold
+The skill’s position can be adjusted.
+Elemental Burst: Juuga- Forward Unto Victory
+Gorou shows his bravery as a general by dealing Aoe Geo DMG and making the field General’s Glory to inspire his allies.
+Glorious General
+These are the characteristics of this field:
+All-Round Defense offers benefits to active characters within the skill’s AoE dependent on the number of Geo characters in the party, much as the General’s War Banner made by Inuzuka. Along with your active character, also moves.
+Creates one Crystal Collapse every 1.5 seconds, dealing AoE Geo DMG to one opponent inside the AoE of the talent.
+Every 1.5s, draws 1 elemental shard from the skill’s area of effect to the position of your active character (elemental shards are created by Crystallize reactions).
+When Gorou uses his ability, any General’s War banners that are already on the field will be destroyed. Additionally, Gorou’s elemental skill “Inazuka All-Round Defense” will not produce the General’s War Banner throughout the length of General’s Glory.
+Talent Priorities (Support)
+Priority 1: Elemental Skill.
+Priority 2: Elemental Burst.
+Priority 3: Normal Attack.
+Genshin Impact: Gorou Constellations and Priorities
+C1:
+Rushing Hound: Swift as the Wind
+: The CD of Gorou’s Inuzaka All-Round Defense is lowered by 2 seconds if characters (other than Gorou) inside the AoE of Gorou’s General War Banner or General’s Glory deal Geo DMG to opponents. This result can happen once every ten seconds.
+C2
+:
+Sitting Hound: Steady as a Clock
+: When a nearby active character receives an Elemental Shard from a Crystallize Reaction, General’s Glory’s duration is increased by 1s while it is active.
+One of these effects could happen every 0.1s. Three seconds is the maximum extension.
+C3
+:
+Mauling Hound: Fierce as Fire
+:
+Increases the level of
+Inuzaka All-Round Defense
+by 3.
+Maximum upgrade level is 15.
+C4
+:
+Lapping Hound: Warm as Water
+: General’s Glory will also heal active characters within its AoE by 50% of Gorou’s own DEF every 1.5 seconds when it is in the “Impregnable” or “Crunch” stages.
+C5:
+Striking Hound: Thunderous Force
+: Increases the level of
+Juuga: Forward Unto Glory
+by 3.
+Maximum upgrade level is 15.
+C6:
+Valiant Hound: Mountainous Fealty
+:
+Increases the Geo DMG of all nearby party members’ CRIT DMG for 12 seconds following the use of Inuzaka All-Round Defense or Juuga: Forward Unto Victory dependent on the buff level of the skill’s field at the time of use.
+• “Standing Firm”: +10%
+• ‘Impregnable’: +20 %
+• “Crunch”: +40%
+This effect can only reference the most recent instance of the effect that was triggered and cannot stack.
+Constellation Preference
+:
+C4 is the most important constellation as it solves the issue of having a healer in the team since it unlocks Gorou’s healing ability.
+C6 is the next important constellation. It increases Geo CRIT DMG of all Geo members in the party.
+Conclusion
+In terms of character designs, Gorou is a one-note character in Genshin Impact, but it doesn’t make him poor. Instead, he serves as a straightforward support unit that enhances Geo teams. Given that his Elemental Skill has a bonus connected to having three Geo units on the team, this should be clear.
+Also Read:
+Arataki Itto Build Guide

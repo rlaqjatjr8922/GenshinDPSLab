@@ -1,0 +1,416 @@
+Home
+/
+Genshin Impact
+/
+Character List
+/
+Ineffa Profile
+/
+Ineffa Build
+Ineffa Guide and Best Builds
+Ineffa is a 5-star Electro Polearm character in Genshin Impact.
+Our Ineffa build guide will focus on Ineffa's best weapons,
+best artifacts, skills, constellations and Ineffa's best teams.
+Last updated
+on
+Sep 29, 2025
+at
+11:09
+by
+GxG Noir
+1 comment
+S
+Rank
+Electro
+Element
+Polearm
+Weapon
+★
+★
+★
+★
+★
+Rarity
+Angelina Danielle Cama
+EN Voice Actor
+Nakajima Megumi
+JP Voice Actor
+Profile & Talents
+Build Guide
+Team Guide
+Ineffa Guide & Best Builds
+Welcome to our Ineffa build guide for Genshin Impact.
+Ineffa
+is a powerful 5-Star
+Electro
+Sub DPS Character 
+In our guide, we'll cover everything you need to  know to get the most out of 
+your Ineffa, from building the best Artifacts  and Weapons to important stat 
+priorities and rotations.
+Best Weapons for Ineffa
+Listed below are Ineffa's best weapons. While weapons are listed in a 
+priority order, what's best to build on your Ineffa can vary depending 
+on the exact team composition and level of investment you want to put 
+into Ineffa.
+Fractured Halo
+(R1)
+129%
+Purifying Crown
+Base ATK:
+608
+CRIT DMG:
+66.2%
+After an Elemental Skill or Elemental Burst is used, ATK is increased by
+24% / 30% / 36% / 42% / 48%
+for 20s. If the equipping character creates a Shield while this effect is active, they will gain the Electrifying Edict effect for 20s: All nearby party members deal
+40% / 50% / 60% / 70% / 80%
+more Lunar-Charged DMG.
+Fractured Halo is Ineffa's signature and best 
+weapon. This Polearm provides Ineffa with a great amount of CDMG % 
+and ATK, while providing a team-wide buff to Lunar-Charged DMG %. This buff makes
+it especially powerful on teams with characters like
+Flins
+and
+Columbina
+that
+also deal Lunar-Charged damage.
+Staff of the Scarlet Sands
+(R1)
+121%
+Heat Haze at Horizon's End
+Base ATK:
+542
+CRIT Rate:
+44.1%
+The equipping character gains
+52% / 65% / 78% / 91% / 104%
+of their Elemental Mastery as bonus ATK. When an Elemental Skill hits opponents, the Dream of the Scarlet Sands effect will be gained for 10s: The equipping character will gain
+28% / 35% / 42% / 49% / 56%
+of their Elemental Mastery as bonus ATK. Max 3 stacks.
+Staff of Scarlet Sands is Ineffa's next 
+strongest weapon, providing a massive 44% CRIT Rate, plus a good amount of Attack 
+from its passive.
+Calamity Queller
+(R1)
+115%
+Extinguishing Precept
+Base ATK:
+741
+ATK:
+16.5%
+Gain
+12% / 15% / 18% / 21% / 24%
+All Elemental DMG Bonus. Obtain Consummation for 20s after using an Elemental Skill, causing ATK to increase by
+3.2% / 4% / 4.8% / 5.6% / 6.4%
+per second. This ATK increase has a maximum of 6 stacks. When the character equipped with this weapon is not on the field, Consummation's ATK increase is doubled.
+Calamity Queller provides a tremendous amount of 
+Attack, making it not just one of the best weapons for Ineffa's personal damage, 
+but also fantastic for maximizing the strength of her Shield, and her Elemental Mastery buff.
+Staff of Homa
+(R1)
+113%
+Reckless Cinnabar
+Base ATK:
+608
+CRIT DMG:
+66.2%
+HP increased by
+20% / 25% / 30% / 35% / 40%
+. Additionally, provides an ATK Bonus based on
+0.8% / 1% / 1.2% / 1.4% / 1.6%
+of the wielder's Max HP. When the wielder's HP is less than 50%, this ATK Bonus is increased by an additional
+1% / 1.2% / 1.4% / 1.6% / 1.8%
+of Max HP.
+Staff of Homa is a strong general statstick 
+thanks to the CRIT DMG and Attack it provides for Ineffa.
+Bloodsoaked Ruins
+(R1)
+113%
+Mournful Tribute
+Base ATK:
+674
+CRIT Rate:
+22.1%
+For 3.5s after using an Elemental Burst, the equipping character's Lunar-Charged DMG dealt to opponents is increased by
+36% / 48% / 60% / 72% / 84%
+. Additionally, after triggering a Lunar-Charged reaction, the equipping character will gain Requiem of Ruin: CRIT DMG is increased by
+28% / 35% / 42% / 49% / 56%
+for 6s. They will also regain
+12 / 13 / 14 / 15 / 16
+Elemental Energy. Elemental Energy can be restored this way once every 14s.
+The Lunar-Charged DMG % and CRIT DMG provided
+do not have great uptime on Ineffa, but the weapon still provides good stats
+nonetheless. The Energy refund it provides can also be of good use on Ineffa.
+Sacrificer's Staff
+(R1)
+110%
+Untainted Desire
+Base ATK:
+620
+CRIT Rate:
+9.2%
+For 6s after an Elemental Skill hits an opponent, ATK is increased by
+8% / 10% / 12% / 14% / 16%
+and Energy Recharge is increased by
+6% / 7.5% / 9% / 10.5% / 12%
+. Max 3 stacks. This effect can be triggered even when the equipping character is off-field.
+The value of Sacrificer's Staff on Ineffa varies 
+depending on what refinement it is, as well as if she needs the Energy Recharge 
+it provides. But generally speaking, it's her strongest 4 star weapon even at 
+R1, and her second strongest weapon overall if R5.
+Skyward Spine
+(R1)
+107%
+Black Wing
+Base ATK:
+674
+Energy Recharge:
+36.8%
+Increases CRIT Rate by
+8% / 10% / 12% / 14% / 16%
+and increases Normal ATK SPD by
+12%
+. Additionally, Normal and Charged Attacks hits on opponents have a
+50%
+chance to trigger a vacuum blade that deals
+40% / 55% / 70% / 85% / 100%
+of ATK as DMG in a small AoE. This effect can occur no more than once every 2s.
+Skyward Spine has a high base Attack, while
+ providing enough Energy Recharge for Ineffa to Burst every rotation in most of 
+ her teams, and even providing a small amount of CRIT Rate. This makes it a 
+ viable option on Ineffa, but if you don't need the Energy Recharge, it's not 
+ recommended.
+Deathmatch
+(R1)
+103%
+Gladiator
+Base ATK:
+454
+CRIT Rate:
+36.8%
+If there are at least 2 opponents nearby, ATK is increased by
+16% / 20% / 24% / 28% / 32%
+and DEF is increased by
+16% / 20% / 24% / 28% / 32%
+. If there are fewer than 2 opponents nearby, ATK is increased by
+24% / 30% / 36% / 42% / 48%
+.
+Deathmatch is great as a 4 star weapon for 
+Ineffa, providing a high amount of CRIT Rate and some decent ATK%. If R5, 
+Deathmatch is about 10% stronger than Prospector's Shovel.
+Ballad of the Fjords
+(R1)
+101%
+Tales of the Tundra
+Base ATK:
+510
+CRIT Rate:
+27.6%
+When there are at least 3 different Elemental Types in your party, Elemental Mastery will be increased by
+120. / 150. / 180. / 210. / 240.
+Like Deathmatch, Ballad is also a good 4 star 
+option available from the Battle Pass, providing Elemental Mastery instead of 
+ATK%. However, Deathmatch will generally by slightly stronger, as Ineffa's teams 
+already have good amounts of Elemental Mastery buffs. Ballad however gains value 
+in teams where Ineffa is triggering additional reactions, such as Hyperbloom.
+Prospector's Shovel
+(R5)
+100%
+Swift and Sure
+Base ATK:
+510
+ATK:
+41.3%
+Electro-Charged DMG is increased by
+48% / 60% / 72% / 84% / 96%
+, and Lunar-Charged DMG is increased by
+12% / 15% / 18% / 21% / 24%
+. Moonsign: Ascendant Gleam: Lunar-Charged DMG is increased by an additional
+12% / 15% / 18% / 21% / 24%
+.
+Prospector's Shovel is Ineffa's best free to 
+play weapon option, being easily accessible via the blacksmith. It's close in
+damage to most of her other 4 star options, and the ATK% main stat is good for
+both her Shield and her Elemental Mastery buff.
+Best Artifacts for Ineffa
+Aubade of Morningstar and Moon
+Aubade of Morningstar and Moon
+2-Piece Set
+: Increases Elemental Mastery by 80.
+4-Piece Set
+: When the equipping character is off-field, Lunar Reaction DMG is increased by 20%. When the party's Moonsign Level is at least Ascendant Gleam, Lunar Reaction DMG will be further increased by 40%. This effect will disappear after the equipping character is active for 3s.
+This is the set to use if you want to maximize 
+Ineffa's personal damage from off-field. However, in teams where she is a 
+lower portion of the overall team damage, it can be better to use her on more 
+supportive sets instead. Most Ineffa teams will have Ascendant Gleam, but if 
+yours does not, then this set is not worth using.
+Gilded Dreams
+Gilded Dreams
+2-Piece Set
+: Increases Elemental Mastery by 80.
+4-Piece Set
+: Within 8s of triggering an Elemental Reaction, the character equipping this will obtain buffs based on the Elemental Type of the other party members. ATK is increased by 14% for each party member whose Elemental Type is the same as the equipping character, and Elemental Mastery is increased by 50 for every party member with a different Elemental Type. Each of the aforementioned buffs will count up to 3 characters. This effect can be triggered once every 8s. The character who equips this can still trigger its effects when not on the field.
+If your team doesn't have Ascended Gleam, 
+Gilded Dreams is the best set for Ineffa's personal damage.
+Silken Moon's Serenade
+Silken Moon's Serenade
+2-Piece Set
+: Energy Recharge +20%.
+4-Piece Set
+: When dealing Elemental DMG, gain the Gleaming Moon: Devotion effect for 8s: Increases all party members' Elemental Mastery by 60/120 when the party's Moonsign is Nascent Gleam/Ascendant Gleam. The equipping character can trigger this effect while off-field. All party members' Lunar Reaction DMG is increased by 10% for each different Gleaming Moon effect that party members have. Effects from Gleaming Moon cannot stack.
+This set should be included in just about any 
+team with Ascendant Gleam. Thus, if no other support is free to use this set, 
+then Ineffa should.
+Tenacity of the Millelith
+Tenacity of the Millelith
+2-Piece Set
+: HP +20%
+4-Piece Set
+: When an Elemental Skill hits an opponent, the ATK of all nearby party members is increased by 20% and their Shield Strength is increased by 30% for 3s. This effect can be triggered once every 0.5s. This effect can still be triggered even when the character who is using this artifact set is not on the field.
+Ineffa can use this set with full uptime, and it 
+will make her Shield Stronger via the ATK % and Shield Strength %. It will usually 
+be better to use Ineffa on a set for her own personal damage, but this is still 
+a viable set option on her.
+Ineffa's Stat Priority
+:
+ATK % > EM
+:
+ATK % > EM
+:
+CRIT Rate / DMG > ATK %
+Substats:
+ER to requirements > CRIT Rate / DMG > ATK % > EM
+Ineffa scales much better from ATK % than EM, so ATK % should be used over EM 
+on the Sands and Goblet, unless she is also triggering a reaction such as 
+Hyperbloom. Building ATK % on Ineffa is not only more damage than EM, but it also 
+increases the strength of her Shield, and the size of her Elemental Mastery buff.
+Ineffa does not benefit from Elemental DMG %, so a DMG % Goblet should never be 
+used. On the substats, depending on how much value your on-fielder gains from 
+Elemental Mastery, it can be worth getting ER substats to use Ineffa's Burst 
+every rotation. However, ER can also be ignored entirely and just user her Burst 
+every other rotation instead.
+Recommended Stats for Ineffa
+Build recommendations assume a "decently built" level of artifact rolls 
+alongside Ineffa's best free to play weapon,
+Prospector's Shovel
+.
+Using other weapons may increase or decrease certain stats relative to these 
+recommendations.
+ATK:
+2300-2600
+HP:
+18,000-20,000
+CRIT Rate:
+85-95%
+CRIT DMG:
+100-120%
+ER:
+140-150%
+If Ineffa is on a CRIT Damage Circlet, expect higher CRIT Damage and less 
+CRIT Rate than shown here. The amount of Energy Recharge also varies from team 
+to team, but the amount shown is sufficient for her to Burst every rotation on 
+teams with a second Electro unit.
+Ineffa's Talent Priority
+Talent Priority:
+Cleaning Mode: Carrier Frequency
+>
+Supreme Instruction: Cyclonic Exterminator
+Although most of Ineffa's damage comes from her Ascension 1 passive, 
+it is still important to level her Skill, as it increases the strength of her
+Shield. Ineffa's Burst is not a large part of her damage, so it doesn't need to
+be fully leveled, but it is still worth getting to at least Level 6. 
+Ineffa's Normal Attack talent doesn't need to be leveled at all, as it is not
+an actively used part of her kit.
+How to Play Ineffa
+Ineffa's playstyle is casting her Skill and/or Burst, and then swapping to
+the next character in the rotation. With her Skill, she will create her Shield, 
+and summon Brigitta to deal AoE Electro damage every 2 seconds on a long 20
+second duration. With Hydro on the team for the Lunar-Charged Reaction, Brigitta
+will also deal direct extremely high direct Lunar-Charged Damage, which is
+where the vast majority of her damage comes from. 
+Casting Ineffa's Burst won't create the Shield, but will summon Brigitta
+If Brigitta was already present, Ineffa's Burst will refresh its duration, 
+allowing Brigitta to last even longer than 20 seconds over a full rotation.
+Ineffa's Best Constellations
+Constellation
+% of C0
+% From Previous Constellation
+C0
+100%
+100%
+C1
+110%
+110%
+C2
+143%
+130%
+C3
+144%
+102%
+C4
+164%
+117%
+C5
+165%
+101%
+C6
+256%
+155%
+With the exception of her C1, Ineffa's Constellations are all focused on 
+improving her personal damage rather than giving her more supportive 
+capabilities. As such, in teams where she's a smaller portion of the total
+team damage, such as in a Flins team, Ineffa's Constellations are of lower
+value. But the 50 Lunar-Charged DMG% from Ineffa's C1 is a team-wide buff, 
+so on teams where Lunar-Charged is the majority of the teams damage, her C1
+is strong and a great investment. After C1, C2 is the next best stopping point
+unless you plan to go all the way to C6.
+Investment Priority:
+Weapon > Constellation 1 > Constellation 2
+Ineffa's Best Team Compositions
+To learn all about Ineffa's synergies and best team compositions, check 
+our dedicated Ineffa team page below:
+Ineffa's Team Guide
+Changelog
+02 Feb. 2026:
+Updated for 6.4
+28 Sep. 2025:
+Updated for 6.0.
+01 Jul. 2025:
+Beta build additions for Ineffa.
+29 Jun. 2025:
+Team details added.
+27 Jun. 2025:
+More build details fleshed out.
+18 Jun. 2025:
+Guide added.
+Show more
+Show less
+Profile & Talents
+Build Guide
+Team Guide
+Need any help? Check out our
+General Discussion Forum
+!
+1 comment
+In The Same Category
+Ineffa Team Guide
+Ineffa Profile & Talents
+Flins Team Guide
+Iansan Best Builds Guide
+Yae Miko Best Builds Guide
+Lisa Best Builds Guide
+Keqing Best Builds Guide
+Fischl Best Builds Guide
+Raiden Shogun Profile & Talents
+Ororon Best Builds Guide
+Beidou Best Builds Guide
+Iansan Profile & Talents
+ABOUT THE AUTHOR
+GxG Noir has been traversing the world of Teyvat since patch 1.1. 
+        He has a passion for doing calculations and theorycrafting, especially on 
+        some of the more underrated characters. You can find him on
+YouTube
+as well as
+Discord
+.
+SUPPORT OUR WRITERS

@@ -1,8 +1,8 @@
 import csv
 import json
 import re
-import time
 from urllib.parse import urljoin
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 import requests
 from bs4 import BeautifulSoup
@@ -12,6 +12,7 @@ from config.config import LEGAL_ACTIONS_JSON, FAILED_ACTIONS_CSV
 
 BASE = "https://docs.gcsim.app/reference/characters/"
 HEADERS = {"User-Agent": "Mozilla/5.0"}
+
 
 SPECIAL_SLUGS = {
     "Kamisato Ayaka": "ayaka",
@@ -27,12 +28,6 @@ SPECIAL_SLUGS = {
     "Yun Jin": "yunjin",
     "Tartaglia": "tartaglia",
     "Yumemizuki Mizuki": "mizuki",
-    "Traveler (Anemo)": "traveleranemo",
-    "Traveler (Dendro)": "travelerdendro",
-    "Traveler (Electro)": "travelerelectro",
-    "Traveler (Geo)": "travelergeo",
-    "Traveler (Hydro)": "travelerhydro",
-    "Traveler (Pyro)": "travelerpyro",
 }
 
 
@@ -80,13 +75,9 @@ def fetch_legal_actions(slug: str) -> dict:
         if len(cols) < 3:
             continue
 
-        action = cols[0].strip()
-        legal = cols[1].strip()
-        notes = cols[2].strip()
-
-        result[action] = {
-            "legal": legal,
-            "notes": notes,
+        result[cols[0]] = {
+            "legal": cols[1],
+            "notes": cols[2],
         }
 
     if not result:
@@ -95,119 +86,110 @@ def fetch_legal_actions(slug: str) -> dict:
     return result
 
 
-def load_existing_json() -> dict:
+def load_existing_json():
     if not LEGAL_ACTIONS_JSON.exists():
         return {}
 
     try:
-        with open(LEGAL_ACTIONS_JSON, "r", encoding="utf-8") as f:
-            data = json.load(f)
-
-        if isinstance(data, dict):
-            return data
-
-        return {}
-
-    except Exception:
+        return json.load(open(LEGAL_ACTIONS_JSON, encoding="utf-8"))
+    except:
         return {}
 
 
-def save_legal_actions_json(data: dict):
+def save_json(data):
     LEGAL_ACTIONS_JSON.parent.mkdir(parents=True, exist_ok=True)
-
-    with open(LEGAL_ACTIONS_JSON, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
+    json.dump(data, open(LEGAL_ACTIONS_JSON, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
 
 
-def save_failed_csv(failed_rows: list[dict]):
+def save_failed(rows):
     FAILED_ACTIONS_CSV.parent.mkdir(parents=True, exist_ok=True)
 
     with open(FAILED_ACTIONS_CSV, "w", encoding="utf-8-sig", newline="") as f:
-        writer = csv.DictWriter(
-            f,
-            fieldnames=["character", "official_name", "slug", "error"],
-        )
+        writer = csv.DictWriter(f, fieldnames=["character", "error"])
         writer.writeheader()
-        writer.writerows(failed_rows)
+        writer.writerows(rows)
 
 
-def build_legal_actions(app_state, progress_callback=None, log_callback=None):
-    def log(message: str):
+def build_legal_actions(app_state, max_workers=4, progress_callback=None, log_callback=None):
+
+    def log(msg):
         if log_callback:
-            log_callback(message)
+            log_callback(msg)
         else:
-            print(message)
+            print(msg)
 
-    def set_progress(value: float):
-        if progress_callback:
-            progress_callback(value)
-
-    characters = getattr(app_state, "characters", None)
-    if not isinstance(characters, dict) or not characters:
-        raise ValueError("app_state.characters 비어있음")
-
-    all_data = load_existing_json()
-    failed_rows = []
-
+    characters = getattr(app_state, "characters", {})
     items = list(characters.items())
     total = len(items)
 
-    log(f"[prepare] 기존 저장 데이터: {len(all_data)}개")
+    all_data = load_existing_json()
+    failed = []
 
-    for idx, (char_key_raw, aliases) in enumerate(items, start=1):
+    done = 0
+
+    # =========================================
+    # 1. 처음 검사 (핵심)
+    # =========================================
+    existing = set(all_data.keys())
+
+    remaining = [
+        item for item in items
+        if norm(item[0]) not in existing
+    ]
+
+    done += len(existing)
+
+    if progress_callback:
+        progress_callback(done, total)
+
+    log(f"[skip] {len(existing)}개 이미 존재")
+
+    # =========================================
+    # 2. 병렬 실행
+    # =========================================
+    def worker(item):
+        char_key_raw, aliases = item
         char_key = norm(char_key_raw)
-        official_name = ""
-        slug = ""
 
         try:
             if isinstance(aliases, list) and len(aliases) >= 2:
-                official_name = str(aliases[1]).strip()
-            elif isinstance(aliases, str):
-                official_name = aliases.strip()
+                name = aliases[1]
             else:
-                official_name = char_key_raw
+                name = char_key_raw
 
-            slug = name_to_slug(official_name)
-
-            log(f"[prepare] ({idx}/{total}) {char_key} → {slug}")
-
+            slug = name_to_slug(name)
             data = fetch_legal_actions(slug)
 
-            all_data[char_key] = data
-
-            # 핵심: 캐릭터 하나 성공할 때마다 바로 저장
-            save_legal_actions_json(all_data)
-
-            log(f"[prepare][성공/저장] {char_key}")
+            return char_key, data, None
 
         except Exception as e:
-            failed_rows.append({
-                "character": char_key,
-                "official_name": official_name,
-                "slug": slug,
-                "error": str(e),
-            })
+            return char_key, None, str(e)
 
-            # 실패도 바로 CSV 저장
-            save_failed_csv(failed_rows)
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        futures = [executor.submit(worker, item) for item in remaining]
 
-            log(f"[prepare][실패/저장] {char_key} → {e}")
+        for future in as_completed(futures):
+            char_key, data, err = future.result()
+            done += 1
 
-        set_progress((idx / total) * 100)
-        time.sleep(0.15)
+            if err:
+                failed.append({"character": char_key, "error": err})
+                log(f"[실패] {char_key}")
+            else:
+                all_data[char_key] = data
+                log(f"[성공] {char_key}")
 
-    if failed_rows:
-        save_failed_csv(failed_rows)
+            save_json(all_data)
 
-    result = {
+            if failed:
+                save_failed(failed)
+
+            if progress_callback:
+                progress_callback(done, total)
+
+    return {
         "success_count": len(all_data),
-        "failed_count": len(failed_rows),
+        "failed_count": len(failed),
         "json_path": LEGAL_ACTIONS_JSON,
-        "csv_path": FAILED_ACTIONS_CSV if failed_rows else "",
+        "csv_path": FAILED_ACTIONS_CSV if failed else "",
     }
-
-    log(f"[prepare] JSON 저장 완료: {LEGAL_ACTIONS_JSON}")
-    if failed_rows:
-        log(f"[prepare] CSV 저장 완료: {FAILED_ACTIONS_CSV}")
-
-    return result

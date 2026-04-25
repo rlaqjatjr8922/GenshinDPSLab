@@ -1,0 +1,397 @@
+Home
+/
+Genshin Impact
+/
+Character List
+/
+Citlali Profile
+/
+Citlali Build
+Citlali Guide and Best Builds
+Citlali is a 5-Star
+Cryo
+character who
+is a shielder as well as providing RES shred for both Frozen and Melt reactions.
+Read on to learn more about Citlali's kit, Citlali's Build and also her Ascension and Talent Materials.
+Last updated
+on
+Sep 27, 2025
+at
+08:33
+by
+GachaHub
+1 comment
+S
+Rank
+Cryo
+Element
+Catalyst
+Weapon
+★
+★
+★
+★
+★
+Rarity
+Skyler Davenport
+EN Voice Actor
+Tano Asami
+JP Voice Actor
+Profile & Talents
+Build Guide
+Team Guide
+Citlali Guide & Best Builds
+Welcome to our Citlali build guide for Genshin Impact.
+Citlali
+is a 5-Star
+Cryo
+dedicated support character who
+focuses on
+Melt
+and
+Freeze
+reactions. In this guide, we'll cover everything you need to
+know to get the most out of Citlali, from the best artifacts and weapons
+to important stat priorities and rotations.
+Best Weapons for Citlali
+Listed below are Citlali's best weapon options. As a support character,
+Citlali focuses primarily on providing shielding,
+Cryo
+application, and team
+buffs rather than personal damage. Because of this, weapons that provide
+Elemental Mastery, Energy Recharge, or team-wide buffs tend to perform the
+best for her overall utility.
+Starcaller's Watch
+Offering Unto Wind and Sun
+Base ATK:
+542
+Elemental Mastery:
+265
+Increases Elemental Mastery by
+100 / 125 / 150 / 175 / 200
+. Gain the "Mirror of Night" effect within 15s after the equipping character creates a shield: The current active party member deals
+28% / 35% / 42% / 49% / 56%
+increased DMG to nearby opponents. You can gain the "Mirror of Night" effect once every 14s.
+Starcaller's Watch
+is Citlali's signature weapon and her best-in-slot option.
+It provides a massive amount of Elemental Mastery, which strengthens her shield,
+while also granting the active character up to 28% additional damage when they
+are protected by Citlali's shield. This makes it an extremely strong option for
+buffing your main DPS while also allowing Citlali to focus on Energy Recharge
+through her artifacts.
+Thrilling Tales of Dragon Slayers
+Heritage
+Base ATK:
+401
+HP:
+35.2%
+When switching characters, the new character taking the field has their ATK increased by
+24% / 30% / 36% / 42% / 48%
+for 10s. This effect can only occur once every 20s.
+Thrilling Tales of Dragon Slayers
+is the best F2P option for Citlali. It grants
+a massive 48% ATK buff to the next character you swap into after Citlali,
+making it an excellent choice when paired with ATK-scaling DPS characters such
+as
+Mavuika
+or
+Arlecchino
+. While the buff does not have full uptime every
+rotation, it remains one of the strongest support catalysts available.
+Etherlight Spindlelute
+Last Singer
+Base ATK:
+510
+Energy Recharge:
+45.9%
+For 20s after using an Elemental Skill, the equipping character's Elemental Mastery is increased by
+100 / 125 / 150 / 175 / 200
+.
+Etherlight Spindlelute
+is another great option for Citlali, providing Energy
+Recharge through its main stat and Elemental Mastery through its passive.
+This combination allows Citlali to easily burst every rotation while also
+strengthening her shield, making it a very comfortable and consistent option.
+Wandering Evenstar
+Wildling Nightstar
+Base ATK:
+510
+Elemental Mastery:
+165
+The following effect will trigger every 10s: The equipping character will gain
+24% / 30% / 36% / 42% / 48%
+of their Elemental Mastery as bonus ATK for 12s, with nearby party members gaining 30% of this buff for the same duration. Multiple instances of this weapon can allow this buff to stack. This effect will still trigger even if the character is not on the field.
+Wandering Evenstar
+is a strong supportive option, especially at higher
+refinements. It provides Elemental Mastery for Citlali, which increases her
+shield strength, while also granting an ATK buff to nearby teammates based on
+her Elemental Mastery. This makes it a great hybrid option when you want both
+shield strength and additional team buffs.
+A Thousand Floating Dreams
+A Thousand Nights' Dawnsong
+Base ATK:
+542
+Elemental Mastery:
+265
+Party members other than the equipping character will provide the equipping character with buffs based on whether their Elemental Type is the same as the latter or not. If their Elemental Types are the same, increase Elemental Mastery by
+32 / 40 / 48 / 56 / 64
+. If not, increase the equipping character's DMG Bonus from their Elemental Type by
+10% / 14% / 18% / 22% / 26%
+. Each of the aforementioned effects can have up to 3 stacks. Additionally, all nearby party members other than the equipping character will have their Elemental Mastery increased by
+40 / 42 / 44 / 46 / 48
+. Multiple such effects from multiple such weapons can stack.
+A Thousand Floating Dreams
+is also a solid option mainly due to the large
+amount of Elemental Mastery it provides. The passive does not benefit Citlali
+as much as it benefits reaction-based characters, but the raw Elemental Mastery
+still helps increase the strength of her shield.
+Favonius Codex
+Windfall
+Base ATK:
+510
+Energy Recharge:
+45.9%
+CRIT Hits have a
+60% / 70% / 80% / 90% / 100%
+chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every
+12s / 10.5s / 9s / 7.5s / 6s
+.
+Favonius Codex
+can become one of Citlali's best options when Energy Recharge is
+needed. It provides Energy particles for both Citlali and the rest of the team,
+which can be extremely valuable in endgame content where consistent Burst
+uptime is required.
+Sacrificial Fragments
+Composed
+Base ATK:
+454
+Elemental Mastery:
+221
+After damaging an opponent with an Elemental Skill, the skill has a
+40% / 50% / 60% / 70% / 80%
+chance to end its own CD. Can only occur once every
+30s / 26s / 22s / 19s / 16s
+.
+Sacrificial Fragments
+is another good option that provides Elemental Mastery
+while also giving a chance to reset Citlali's Elemental Skill cooldown. This
+can allow her to use her shield twice in quick succession, helping maintain
+better uptime while also generating additional energy for her Burst.
+Best Artifacts for Citlali
+Scroll of the Hero of Cinder City
+Scroll of the Hero of Cinder City
+2-Piece Set
+: When a nearby party member triggers a Nightsoul Burst, the equipping character regenerates 6 Elemental Energy.
+4-Piece Set
+: After the equipping character triggers a reaction related to their Elemental Type, all nearby party members gain a 12% Elemental DMG Bonus for the Elemental Types involved in the elemental reaction for 15s. If the equipping character is in the Nightsoul's Blessing state when triggering this effect, all nearby party members gain an additional 28% Elemental DMG Bonus for the Elemental Types involved in the elemental reaction for 20s. The equipping character can trigger this effect while off-field, and the DMG bonus from Artifact Sets with the same name do not stack.
+Scroll of the Hero of Cinder City
+is Citlali's best-in-slot artifact set. It
+generates additional Energy and provides up to a 40% damage bonus to the team
+based on the reactions triggered by Citlali. This makes it the go-to option
+when playing her alongside DPS characters that benefit heavily from damage
+bonus buffs.
+Tenacity of the Millelith
+Tenacity of the Millelith
+2-Piece Set
+: HP +20%
+4-Piece Set
+: When an Elemental Skill hits an opponent, the ATK of all nearby party members is increased by 20% and their Shield Strength is increased by 30% for 3s. This effect can be triggered once every 0.5s. This effect can still be triggered even when the character who is using this artifact set is not on the field.
+Tenacity of the Millelith
+is another strong option for Citlali, especially if
+another character in the team is already using Scroll of the Hero of Cinder
+City. It provides a 20% ATK buff to the team whenever Citlali's Elemental Skill
+hits an enemy. To maintain consistent uptime on this buff, you generally want
+to burst every rotation so her Skill continues applying damage reliably.
+Noblesse Oblige
+Noblesse Oblige
+2-Piece Set
+: Elemental Burst DMG +20%
+4-Piece Set
+: Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.
+Noblesse Oblige
+is another solid support option. It provides a 20% ATK buff to
+the entire team after Citlali uses her Elemental Burst. If other teammates are
+already using Scroll of the Hero of Cinder City or Tenacity of the Millelith,
+this set can be a strong alternative. To fully benefit from this set, Citlali
+should aim to use her Burst every rotation.
+Instructor
+Instructor
+2-Piece Set
+: Increases Elemental Mastery by 80.
+4-Piece Set
+: Upon triggering an Elemental Reaction, increases all party members' Elemental Mastery by 120 for 8s.
+Instructor
+can also be used when you cannot run any of the above sets,
+especially in
+Melt
+teams. This set provides Elemental Mastery to the team,
+which can significantly increase reaction damage. Because Instructor is a
+4-star set with lower base stats, it is recommended to run an Energy Recharge
+Sands to ensure Citlali can still burst consistently each rotation.
+Citlali's Stat Priority
+:
+ER / EM
+:
+EM
+:
+EM
+Substats:
+Energy Recharge > Elemental Mastery
+Citlali’s most important stats are Energy Recharge and Elemental Mastery.
+She is a dedicated support who wants to use her Burst every rotation to
+activate all of her utility. Elemental Mastery also increases the strength
+of her shield, making it a very valuable stat to stack.
+If Citlali is using
+Favonius Codex
+, a CRIT Rate Circlet can be a
+better choice for reliably triggering the weapon passive and generating
+additional Energy particles for the team.
+Recommended Stats for Citlali
+Build recommendations assume decent artifact rolls alongside Citlali's
+best free-to-play weapon,
+Thrilling Tales of Dragon Slayers
+.
+Using other weapons may increase or decrease certain stats relative to
+these recommendations.
+HP:
+16,000 – 20,000
+ATK:
+900 – 1100
+CRIT Rate:
+45 – 55%
+CRIT DMG:
+120 – 140%
+ER:
+190 – 210%
+EM:
+600 – 700
+Citlali's Talent Priority
+Talent Priority:
+Dawnfrost Darkstar
+>
+Edict of Entwined Splendor
+>>>
+Shadow-Stealing Spirit Vessel
+Citlali's most important talent to level is her Elemental Skill, followed by
+her Elemental Burst. Her Normal Attacks can largely be ignored since they are
+rarely used in her support playstyle.
+How to Play Citlali
+Citlali is a dedicated support mainly used with
+Pyro
+and
+Hydro
+DPS characters.
+She provides
+Pyro
+RES Shred when
+Melt
+reactions are triggered and
+Hydro
+RES
+Shred when
+Freeze
+reactions are triggered, making her especially strong in
+Melt and Freeze team compositions.
+Her rotation is extremely simple. Start by using her Elemental Skill to
+generate her shield and summon Itzpapa, then use her Elemental Burst and
+immediately swap into your main DPS. Ideally Citlali should be used right
+before your DPS so that all of her buffs remain active for the full duration
+of the damage window.
+When using
+Thrilling Tales of Dragon Slayers
+, make sure you swap
+directly into your main DPS after Citlali to ensure the ATK buff applies to
+the correct character. Citlali provides reliable off-field
+Cryo
+application
+for
+Melt
+teams and can also act as a defensive shielder while holding several
+support artifact sets to provide additional team buffs.
+Citlali's Best Constellations
+Constellation
+% of C0
+% From Previous Constellation
+C0
+100%
+100%
+C1
+103%
+103%
+C2
+150.7%
+146.3%
+C3
+153.7%
+102%
+C4
+159.9%
+104%
+C5
+164.7%
+103%
+C6
+177.9%
+108%
+Note: These calculations are based on total team damage in a typical
+Mavuika
+/
+Citlali
+/
+Xilonen
+/
+Bennett
+composition.
+Investment Priority:
+Weapon > Constellation 1 > Constellation 2
+Citlali's Best Team Compositions
+To learn all about Citlali's synergies and best team compositions, check
+our dedicated Citlali team page below:
+Citlali's Best Teams
+Changelog
+14 Mar. 2026:
+Updated for 6.4.
+27 Sep. 2025:
+Updated for 6.0.
+13 Jul. 2025:
+Updated for 5.7.
+28 Dec. 2024:
+Full build added.
+10 Dec. 2024:
+Beta Update.
+02 Dec. 2024:
+Beta Update.
+26 Nov. 2024:
+Beta Update.
+20 Nov. 2024:
+Page added.
+Show more
+Show less
+Profile & Talents
+Build Guide
+Team Guide
+Need any help? Check out our
+General Discussion Forum
+!
+1 comment
+In The Same Category
+Citlali Team Guide
+Citlali Profile & Talents
+Wriothesley Best Builds Guide
+Eula Best Builds Guide
+Rosaria Best Builds Guide
+Escoffier Profile & Talents
+Lohen Profile & Talents
+Kamisato Ayaka Best Builds Guide
+Chongyun Best Builds Guide
+Freminet Best Builds Guide
+Skirk Profile & Talents
+Skirk Team Guide
+ABOUT THE AUTHOR
+Asher is a Genshin Impact and Wuthering Waves creator and theorycrafter 
+        with over three years of experience in Teyvat and one year in Solaris-3. 
+        He has been producing guides and analysis content consistently for the past 
+        six months, building a growing YouTube community of more than 8,000 subscribers. 
+        He focuses on creating simple, clear, and beginner-friendly guides designed 
+        to help new players understand characters, builds, and meta strategies with ease.
+SUPPORT OUR WRITERS

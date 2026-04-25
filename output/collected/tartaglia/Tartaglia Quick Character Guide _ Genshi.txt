@@ -1,0 +1,246 @@
+Meet Tartaglia — the cunning Snezhnayan whose unpredictable personality keeps people guessing his every move.
+Don't be under any illusion as to what he might be thinking or what his intentions are. Just remember this: Behind that innocent, childlike exterior lies a finely honed instrument of war.
+This guide is based on the
+Community Character Builds
+by the Genshin Helper Team.
+Skills Overview
+Normal Attack: Cutting Torrent
+Normal Attack
+Performs up to 6 consecutive shots with a bow.
+Charged Attack
+Performs a more precise Aimed Shot with increased DMG.
+While aiming, the power of Hydro will accumulate on the arrowhead. An arrow fully charged with the torrent will deal
+Hydro DMG
+and apply the Riptide status.
+Plunging Attack
+Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.
+When Tartaglia is in Foul Legacy: Raging Tide's Melee Stance, he cannot perform a plunging attack.
+Riptide
+Opponents affected by Riptide will suffer from AoE Hydro DMG effects when attacked by Tartaglia in various ways. DMG dealt in this way is considered Normal Attack DMG.
+Riptide Flash
+: A fully-charged Aimed Shot that hits an opponent affected by Riptide deals consecutive bouts of AoE DMG. Can occur once every 0.7s.
+Riptide Burst
+: Defeating an opponent affected by Riptide creates a Hydro burst that inflicts the Riptide status on nearby opponents hit.
+Elemental Skill: Foul Legacy: Raging Tide
+Unleashes a set of weaponry made of pure water, dealing
+Hydro DMG
+to surrounding opponents and entering Melee Stance.
+In this Stance, Tartaglia's Normal and Charged Attacks are converted to
+Hydro DMG
+that cannot be overridden by any other elemental infusion and change as follows:
+Normal Attack
+Performs up to 6 consecutive
+Hydro
+strikes.
+Charged Attack
+Consumes a certain amount of Stamina to unleash a cross slash, dealing
+Hydro DMG
+.
+Skill Combo:
+- 2 NA + 1 CA (Optimal)
+- 3 NA + 1 CA (Recommended)
+- 5 NA + 1 CA (Recommended combo if using Rust or Thundering Pulse)
+*NA = Normal Attack, CA = Charged Attack
+Riptide Slash
+Hitting an opponent affected by Riptide with a melee attack unleashes a Riptide Slash that deals
+AoE Hydro DMG
+. DMG dealt in this way is considered Elemental Skill DMG, and can only occur once every 1.5s.
+After 30s, or when the ability is unleashed again, this skill will end. Tartaglia will return to his Ranged Stance and this ability will enter CD.
+The longer Tartaglia stays in his Melee Stance, the longer the CD.
+If the return to a ranged stance occurs automatically after 30s, the CD is even longer.
+Maximum Duration
+: 30 seconds
+Preemptive Cooldown
+: 6-36 seconds
+Max Cooldown
+: 45 seconds
+Optimal skill duration for [C0]
+:
+7s, 9s or 12s.
+Optimal skill duration for [C1]
+:
+9s, 11s or 14s.
+Elemental Burst: Havoc: Obliteration
+Performs different attacks based on what stance Tartaglia is in when casting.
+Ranged Stance: Flash of Havoc
+Swiftly fires a Hydro-imbued magic arrow, dealing
+AoE Hydro DMG
+and applying the Riptide status.
+Returns a portion of its Energy Cost after use.
+Melee Stance: Light of Obliteration
+Performs a slash with a large AoE, dealing massive
+Hydro DMG
+to all surrounding opponents, which triggers Riptide Blast.
+Cooldown
+: 15 seconds
+Energy Cost
+: 60
+Melee Stance Burst
+:
+Only to be used in situations where you need only 1 rotation to clear as the ER requirement to maintain burst uptime is quite high
+(170-190%)
+, you'll always want to start your rotations with Ranged Burst since it refunds energy to maintain your rotation well.
+Riptide Blast
+When the obliterating waters hit an opponent affected by Riptide, it clears their Riptide status and triggers a Hydro Explosion that deals
+AoE Hydro DMG
+.
+DMG dealt in this way is considered Elemental Burst DMG.
+Ascension 1: Never Ending
+Extends Riptide duration by 8s.
+Ascension 4: Sword of Torrents
+When Tartaglia is in Foul Legacy: Raging Tide's Melee stance, on dealing a CRIT hit, Normal and Charged Attacks apply the Riptide status effects to opponents.
+Passive Talent: Master of Weaponry
+Increases your own party members' Normal Attack Level by 1.
+Talent Priorities
+Skill > Burst > Normal Attack
+If Childe is the main DPS in the team (as he should be), Normal Attack is an unnecessary upgrade because his main DPS comes from Elemental Skill and Burst. It will be very rare for you to even use his Normal Attack.
+Constellations
+Best Constellations:
+C1 & C3
+C1: Foul Legacy: Tide Withholder
+(Good!)
+Decreases the CD of Foul Legacy: Raging Tide by 20%
+C2: Foul Legacy: Understream
+When opponents affected by Riptide are defeated, Tartaglia regenerates 4 Elemental Energy.
+C3: Abyssal Mayhem: Vortex of Turmoil
+(Great!)
+Increases the Level of Foul Legacy: Raging Tide by 3.
+Maximum upgrade level is 15.
+C4: Abyssal Mayhem: Hydrospout
+If Tartaglia is in Foul Legacy: Raging Tide's Melee Stance, triggers Riptide Slash against opponents on the field affected by Riptide every 4s, otherwise, triggers Riptide Flash.
+Riptide Slashes and Riptide Flashes triggered by this Constellation effect are not subject to the time intervals that would typically apply to these two Riptide effects, nor do they have any effect on those time intervals.
+C5: Havoc: Formless Blade
+Increases the Level of Havoc: Obliteration by 3.
+Maximum upgrade level is 15.
+C6: Havoc: Annihilation
+When Havoc: Obliteration is cast in Melee Stance, the CD of Foul Legacy: Raging Tide is reset.
+This effect will only take place once Tartaglia returns to his Ranged Stance.
+Recommended Weapons
+Polar Star (5✩)*
+Thundering Pulse (5✩)*
+~= Hunter's Path (5✩)
+~= Aqua Simulacra (5✩)
+Skyward Harp (5✩)
+Amos' Bow (5✩)
+The Viridescent Hunt (4✩)*
+Blackcliff Warbow (4✩)*
+Mouun's Moon (4✩)
+~= Prototype Crescent (4✩)*
+Rust (4✩)
+~= King's Squire (4✩)
+~= Hamayumi (4✩)
+~= The Stringless (4✩)*
+Slingshot (3✩)
+The Weapon Rankings here are under the assumption that Childe is used with Bennett and Vaporizes his Burst, as well as using the optimal attack combos listed in the Skills Overview above.
+1)
+Polar Star
+(ATK: 608 • Crit Rate: 33.1%)
+[Refinement 1] Elemental Skill and Elemental Burst DMG increased by 12%. After a Normal Attack, Charged Attack, Elemental Skill or Elemental Burst hits an opponent, 1 stack of Ashen Nightstar will be gained for 12s. When 1/2/3/4 stacks of Ashen Nightstar are present, ATK is increased by 10/20/30/48%. The stack of Ashen Nightstar created by the Normal Attack, Charged Attack, Elemental Skill or Elemental Burst will be counted independently of the others.
+Has varied performance depending on how many passive stacks you get. Getting 2-3 stacks at the start of your rotation can perform better than
+Thundering Pulse
+while getting no stacks can perform worse than
+Skyward Harp
+.
+This only applies if you are Vaporizing Childe Burst together with Bennett. In teams without Bennett, Polar Star will always perform better than the other options.
+3 stacks can be achieved by doing Skill + 1 Normal + 1 Charged Attack before setting up your Vaporize Burst. If your Skill is still on cooldown, a fully Charged Aimed shot against a Riptide affected target, OR a Ranged Normal + quick Aimed shot gives 2 stacks (which can be followed by Skill for the 3rd stack).
+2)
+Thundering Pulse
+(ATK: 608 • Crit DMG: 66.2%)
+[Refinement 1] Increases ATK by 20% and grants the might of the Thunder Emblem. At stack levels 1/2/3, the Thunder Emblem increases Normal Attack DMG by 12/24/40%. The character will obtain 1 stack of Thunder Emblem in each of the following scenarios: Normal Attack deals DMG (stack lasts 5s), casting Elemental Skill (stack lasts 10s); Energy is less than 100% (stack disappears when Energy is full). Each stack's duration is calculated independently.
+Slightly better than Skyward Harp depending on rotations - the more time you spend doing Normal Attacks, the more it pulls ahead over Skyward Harp, but it's not recommended to extend your Childe's melee rotation for this.
+3)
+Skyward Harp
+(ATK: 674 • Crit Rate: 22.1%)
+[Refinement 1] Increases CRIT DMG by 20%. Hits have a 60% chance to inflict a small AoE attack, dealing 125% Physical ATK DMG. Can only occur once every 4s.
+4)
+Amos' Bow
+(ATK: 608 • ATK: 49.6%)
+[Refinement 1] Increases Normal Attack and Charged Attack DMG by 12%. After a Normal or Charged Attack is fired, DMG dealt increases by a further 8% every 0.1 seconds the arrow is in the air for up to 5 times.
+5)
+The Viridescent Hunt
+(ATK: 510 • Crit Rate: 27.6%)
+[Refinement 1] Upon hit, Normal and Aimed Shot Attacks have a 50% chance to generate a Cyclone, which will continuously attract surrounding opponents, dealing 40% of ATK as DMG to these opponents every 0.5s for 4s. This effect can only occur once every 14s.
+Offers a valuable passive that helps a lot in grouping enemies, which can offer a ton of damage from Riptide.
+6)
+Blackcliff Warbow
+(ATK: 565 • Crit DMG: 36.8%)
+[Refinement 5] After defeating an opponent, ATK is increased by 24% for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others.
+Due to the inconsistency of gaining stacks, falls off compared to other weapons at higher refinements.
+7)
+Mouun's Moon
+(ATK: 565 • ATK: 27.6%)
+[Refinement 1] For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by 0.12%. A maximum of 40% increased Elemental Burst DMG can be achieved this way.
+8)
+Rust
+(ATK: 510 • ATK: 41.3%)
+[Refinement 5] Increases Normal Attack DMG by 80% but decreases Charged Attack DMG by 10%.
+9)
+Slingshot
+(ATK: 354 • Crit Rate: 31.2%)
+[Refinement 5] If a Normal or Charged Attack hits a target within 0.3s of being fired, increases DMG by 60%. Otherwise, decreases DMG by 10%.
+Recommended Artifacts
+Nymph's Dream (4)
+Heart of Depth (4)
++15% Hydro DMG set (2) +18% ATK set (2)*
+Noblesse Oblige (2) / +15% Hydro DMG set (2) / +18% ATK set (2) [Choose Two]
+Shimenawa's Reminiscence (4)*
+1)
+4-Pc Nymph's Dream
+2-Piece Bonus
+: Hydro DMG Bonus +15%
+4-Piece Bonus
+: After Normal, Charged, and Plunging Attacks, Elemental Skills, and Elemental Bursts hit opponents. 1 stack of Mirrored Nymph will triggered, lasting 8s. When under the effect of 1, 2, or 3 or more Mirrored Nymph stacks, ATK will be increased by 7%/16%/25%, and Hydro DMG will be increased by 4%/9%/15% Mirrored Nymph created by Normal, Charged, and Plunging Attacks, Elemental Skills, and Elemental Bursts exist independently.
+2)
+4-Pc Heart of Depth
+2-Piece Bonus
+: Hydro DMG Bonus +15%
+4-Piece Bonus
+: After using an Elemental Skill, increases Normal Attack and Charged Attack DMG by 30% for 15s.
+3)
+2-Pc +15% Hydro DMG +18% ATK
+Nymph's Dream/Heart of Depth
+: Hydro DMG Bonus +15%
+Gladiator's Finale/Shimenawa's Reminiscence
+: ATK +18%.
+This set is only about 1-2 sub-stats behind Heart of Depth (4), you can opt out for this set instead if you already have decent pieces.
+4)
+2-Pc Noblesse Oblige / +15% Hydro DMG set / +18% ATK
+[Choose 2]
+Noblesse Oblige
+: Elemental Burst DMG +20%
+Nymph's Dream/Heart of Depth
+: Hydro DMG Bonus +15%
+Gladiator's Finale/Shimenawa's Reminiscence
+: ATK +18%.
+5)
+4-Pc Shimenawa's Reminiscence
+2-Piece Bonus
+: ATK +18%
+4-Piece Bonus
+: When casting an Elemental Skill, if the character has 15 or more Energy, they lose 15 Energy and Normal/Charged/Plunging Attack DMG is increased by 50% for 10s. This effect will not trigger again during that duration.
+Due to this set requiring Childe to have around 150% Energy Recharge to reliably burst every rotation, it falls behind the other options. However, it outperforms Heart of Depth (4) if used in a single rotation setting (ignoring ER).
+Artifact Main Stats
+Artifact Sub Stats
+Sands
+- ATK%
+Goblet
+- Hydro DMG
+Circlet
+- Crit Rate / DMG
+Crit Rate / DMG
+ATK%
+Elemental Mastery
+Energy Recharge
+Flat ATK
+Team Compositions
+Reverse Vape
+Reverse-Vape is a Pyro on Hydro reaction applying a x1.5 damage multiplier for the Pyro hit. Kazuha is a flex character and can be replaced with other characters like Sucrose, Venti, Jean, Zhongli, and many more.
+Electro-Charged
+Believe it or not, Beidou is the core character in this team comp (alongside Tartaglia) because of her huge Elemental Burst damage. However, you need to pair her with another Electro character to generate enough Energy.
+One-Shot Gameplay
+This team comp is more suitable for speedrun than Spiral Abyss run because Abyss content simply isn’t well suited for one-shots. This team is mainly for players who want to showcase their highest possible numbers.
+Rotation
+(Credit to
+In-Depth Tartaglia Guide
+):
+Stance Change > Bennett Q (reduces Hydro Aura) > Kazuha Q (Hydro VV) (Pyro Infuse Kazuha’s Q) > Mona Q (Clear Pyro) > Wait for Kazuha’s Q to apply Pyro aura > Childe Melee Burst

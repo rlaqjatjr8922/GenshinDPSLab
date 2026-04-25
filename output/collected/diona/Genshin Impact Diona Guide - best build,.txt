@@ -1,0 +1,218 @@
+Walkthroughs
+Genshin Impact Diona Guide - best build, strengths and weaknesses
+All you need to know about Diona - Updated to Genshin Impact 2.0
+By
+Bryan Taylor
+|
+Jul 26, 2021
+iOS
++
+Android
+|
+Genshin Impact
+Prefer Pocket Gamer on Google
+X
+Facebook
+Reddit
+Welcome to Pocket Gamer's detailed
+Genshin Impact Diona guide
+! Diona is a bartender at Cat’s Tail in Mondstadt, and it’s no wonder why, as she is a catgirl herself. While it would be assumed that she is in favour of the alcoholic beverages she serves, it couldn’t be any further from the truth: she despises them.
+Having witnessed her dad’s change in demeanor, she desperately wants to overthrow the industry of which she is a part, but currently only holds a weak rebellion by serving terrible drinks. Unfortunately for her, a spring fairy blessed her, making all the drinks taste delicious as a result, completely nullifying her efforts.
+In the guide below you will find the following features:
+General Info & how to get Diona
+Strengths & Weaknesses
+Best Build (Artifacts & Weapons
+)
+Best Party Members for Diona
+Talents / Skills / Passive
+Talent Leveling Materials
+Constellations
+Ascensions costs
+Diona Wishes / Availability
+Character Appearance
+Diona Element / Tier / Rarity / Weapon
+Cryo / S Tier / 4* Rarity / Bow
+In Genshin Impact, Diona is a Cryo bow user and her abilities can be paired with other elements to really help her do her best. When using her Burst ability, you’ll get strong AoE healing that can help keep your heavy hitters in the fight.
+How to get Diona?
+You can obtain Diona in the permanent banner, Wanderlust Invocation.
+Genshin Impact Diona Combat Info (Strengths and Weaknesses)
+Strengths
+Diona's shield ability is great and she can help recover other members’ HP
+Her Burst ability heals and provides a great setup for Cryo elemental reactions
+Her Passive Talent helps make additional healing food
+Weaknesses
+Diona has a low base health and defense numbers
+Here are
+some Genshin Impact codes
+as a thank you for reading this!
+Best Build for Diona in Genshin Impact
+Since Diona’s shields help out the rest of your party, it’s wise to go with the Sacrificial Bow weapon to boost your Cryo DMG and have your shield scale with your HP. Additionally, using the Noblesse Oblige artifact set will boost your Elemental Burst and the rest of the party’s ATK, so you can deliver heavy blows while still in cover.
+Diona Guide - Best Artifacts and Weapons
+Noblesse Oblige
+Energy Recharge / HP% / Healing Bonus
+Set Bonuses:
+(2) Elemental Burst DMG + 20%
+(4) Using an Elemental Burst increase all party members' ATK by 20% for 12s. This effect cannot stack
+How to Obtain:
+Clear Pool & Mountain Cavern Domain reward
+Sacrificial Bow
+Base Attack:
+44
+Rating:
+4*
+Bonus Effect:
+Energy Recharge 6.7%
+Skill: Composed
+After damaging an opponent with an Elemental Skill, the skill has a 40% chance to end its own CD. Can only occur once every 30s
+How to Obtain:
+Gacha
+Best Party Members to match Diona with in Genshin Impact
+Premium (Gacha) Team
+In Genshin Impact, Diona is great as your team’s Support, with her ability to add Cryo with her Skill and using her shield to deflect damage. Venti is a great addition for Support to group enemies and combine his Anemo with Diona’s Cryo to create Swirl reactions.
+Diluc can be used for DPS, use him after Diona’s Skill to create Melt reactions. Yanfei is a great sub-DPS who allows you to distance yourself from your foes and boosts the Pyro in your team for additional resonance.
+F2P Team
+Diona is great to throw into any team as her shield, healing, and reactions offer much needed boost to any team members you pair her with. Xiangling can be used for your DPS as she offers great physical attacks and Pyro.
+When combined with
+Amber
+, Xiangling and her offer Pyro resonance and Amber’s Skill gives great crowd control with groups of enemies. Lisa is perfect for some additional support, as she can help boost Elemental Reactions and her Burst will do some Electro damage for as long as it’s on the field.
+Genshin Impact Diona Talents / Skills / Passive
+Katzlein Style - Normal Attack
+Normal Attack:
+Perform up to 5 consecutive shots with a bow.
+Charged Attack:
+Perform a more precise Aimed Shot with increased DMG. While aiming, biting frost will accumulate on the arrowhead. A fully charged frost arrow will deal Cryo DMG.
+Plunging Attack:
+Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.
+Skill Attributes:
+1-Hit DMG 36.1%
+2-Hit DMG 33.5%
+3-Hit DMG 45.6%
+4-Hit DMG 43.0%
+5-Hit DMG 53.8%
+Aimed Shot
+- 43.9%
+Fully-Charged Aimed Shot
+- 124%
+Plunge DMG
+- 56.8%
+Low/High Plunge DMG
+- 114% / 142%
+Icy Paws - Elemental Skill
+Fires an Icy Paw that deals Cryo DMG to opponents and forms a shield on hit. The shield's DMG absorption scales are based on Diona's Max HP, and its duration scales off the number of Icy Paws that hit their target.
+Press
+Rapidly fires off 2 Icy Paws.
+Hold
+Dashes back quickly before firing five Icy Paws. The shield created by a Hold attack will gain a 75% DMG absorption Bonus.
+The shield has a 250% Cryo DMG Absorption Bonus and will cause your active character to become affected by Cryo at the point of formation for a short duration.
+Icy Paw DMG
+- 41.9% per paw
+Base Shield DMG Absorption
+- 7.2% max HP + 693
+Duration
+- 1.8s per paw
+Press CD
+-6.0s
+Hold CD
+15s
+Signature Mix - Elemental Burst
+Tosses out a special cold brew that deals AoE Cryo DMG and creates a Drunken Mist in an AoE.
+Every 2 seconds, for 12 seconds, Drunken Mist:
+Deals Cryo DMG to opponents within the field.
+Regenerates the HP of characters within the field.
+Skill Attributes
+Skill DMG
+80%
+Continuous Field DMG
+52.6%
+HP Regen Over Time
+- 5.34% max HP + 513
+Duration
+12.0s
+CD
+- 20s
+Energy Cost
+- 80
+Cat Tail Secret Menu - 1st Ascension Passive
+Characters shielded by Icy Paws have their Movement SPD increased by 10% and their Stamina Consumption decreased by 10%.
+Drunkards' Farce - 4th Ascension Passive
+Opponents who enter the AoE of Signature Mix have a 10% decreased ATK for 15s.
+Complimentary Bar Food - Unlocked Automatically
+When Perfect Cooking is achieved on a dish with restorative effects, there is a 12% chance to obtain double the product.
+Talent Leveling Materials
+Gained from Enemy Drops (Ranged Hilichurls):
+Firm Arrowhead
+Sharp Arrowhead
+Weathered Arrowhead
+Acquired from Domains (Tuesday/Friday/Sunday):
+Teachings of Freedom
+Guide to Freedom
+Philosophies of Freedom
+Obtained after defeating Bosses (Childe Challenge):
+Shard of Foul Legacy
+Constellations
+A Lingering Flavor
+Regenerates 15 Energy for Diona after the effects of Signature Mix end.
+Shaken, Not Purred
+Increases Icy Paws' DMG by 15%, and increases its shield's DMG Absorption by 15%. Additionally, when paws hit their targets, creates a shield for other nearby characters on the field with 50% of the Icy Paws shield's DMG Absorption for 5s.
+A-Another Round?
+Increases the Level of Signature Mix by 3. Maximum upgrade level is 15.
+Wine Industry Slayer
+Within the radius of Signature Mix, Diona's charge time for aimed shots is reduced by 60%.
+Double Shot, On The Rocks
+Increases the Level of Icy Paws by 3. Maximum upgrade level is 15.
+Cat's Tail Closing Time
+Characters within Signature Mix's radius will gain the following effects based on their HP amounts:
+Increases Incoming Healing Bonus by 30% when HP falls below or is equal to 50%.
+Elemental Mastery increased by 200 when HP is above 50%.
+Genshin Impact Diona Ascensions costs
+Phase 1
+Lv.20→Lv.40
+Mora Cost: 20,000
+Calla Lily ×3
+Shivada Jade Sliver ×1
+Firm Arrowhead ×3
+Phase 2
+Lv.40→Lv.50
+Calla Lily ×10
+Shivada Jade Fragment ×3
+Firm Arrowhead ×15
+Hoarfrost Core ×2
+Phase 3
+Lv.50→Lv.60
+Mora Cost: 60,000
+Calla Lily ×20
+Shivada Jade Fragment ×6
+Sharp Arrowhead ×12
+Hoarfrost Core ×4
+Phase 4
+Lv.60→Lv.70
+Mora Cost: 80,000
+Calla Lily ×20
+Shivada Jade Chunk ×3
+Sharp Arrowhead ×18
+Hoarfrost Core ×8
+Phase 5
+Lv.70→Lv.80
+Mora Cost: 100,000
+Calla Lily ×45
+Shivada Jade Chunk ×6
+Weathered Arrowhead ×12
+Hoarfrost Core ×12
+Phase 6 (MAX)
+Lv.80→Lv.90
+Mora Cost: 120,000
+Calla Lily ×60
+Shivada Jade Gemstone ×6
+Weathered Arrowhead ×24
+Hoarfrost Core ×20
+Base Stats
+At Level 1, Diona starts with 802 HP, 18 ATK, and 50 DEF.
+Wishes / Availability
+Diona can be received at the regular rate in the Wanderlust Invocation Standard Wish, which is always available. With this, we're closing off the Genshin Impact's Diona guide!
+You know, we also have a
+Genshin Impact tier list
+if you want to check how well Diona performs in comparison to other characters! Also, stay aware, soon enough we plan to make a Genshin Impact characters hub with all of the available characters and their detailed guides!
+Bryan Taylor
+Bryan has a passion for writing and has been gaming since the 80s. His favourite games include Super Metroid, Chrono Trigger, and Rez, and he joins us bringing his vast knowledge of games to the team.
+Next Up :
+Dicero beginner's guide - 5 tips for mastering the dice

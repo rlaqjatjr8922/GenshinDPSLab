@@ -1,0 +1,273 @@
+Task Search
+Checklists
+Guides
+Markers
+Videos
+Sort and Filter
+No Results
+Checklists
+New Checklist
+All Lists
+My Checklists
+All
+All Lists
+My Checklists
+How creative can you get with your first free checklist?
+Create a free account
+All Interactive Maps and Locations
+Genshin Impact Diluc Build Guide - Best Weapons, Artifacts, and Teams
+By
+Cedric Pabriga
+,
+Jen Rothery
+,
+Triforce
+,
++30 more
+Updated
+:
+Apr 25, 2024 2:08am UTC
+Diluc Ragnvinder is the owner of Mondstadt’s Dawn Winery by day and a dark-clad vigilante by night.  While Diluc has been available in the game since launch, Diluc had fallen by the wayside in terms of combat viability over the years. However, with the release of Fontaine, new characters have been released that significantly improve Diluc’s potential. This guide to the best Genshin Impact Diluc build will explain the best weapons, artifact sets, constellations, and team compositions for Diluc.
+Diluc
+Rarity:
+★★★★★
+Element:
+Pyro
+Weapon:
+Claymore
+Table of Contents:
+How to Get Diluc
+Diluc Gameplay Overview
+Diluc Talents and Attack Combos
+Diluc Constellation Analysis
+Diluc's Best Weapons
+Diluc's Best Artifacts
+Diluc's Best Teams
+How to Get Diluc in Genshin Impact
+Diluc is a standard banner character, meaning the only way you can acquire him is through sheer luck on any banner or Chronicled Wish when Diluc is in rotation.
+Diluc is an on-field Pyro DPS that deals his damage through alternating between his Normal Attacks and the three separate instances of his Skill that are available before entering cooldown. He is also notable for utilizing the “Dragon Strike” technique, in which Diluc uses movement speed boosts to leap at enemies in order to get enough altitude to hit enemies with powerful Plunge Attacks. While Dragon Striking has been considered a niche strategy only for the most technical players to exploit, characters have been released that allow Diluc to use regular Plunge Attacks and amplify his damage. More on this in the teambuilding section.
+The main strategy for Diluc players is by utilizing Vaporize reactions, in which an off-field character constantly applies Hydro aura to enemies in order to allow Diluc to trigger Vaporize  reactions with his Skill (or even Normal Attacks, if using with a C6 Bennett).
+For more information on elemental reactions, check out the comprehensive guide
+here
+.
+Diluc’s build will mostly focus on ATK%, Elemental Mastery, and CRIT stats. Energy Recharge needs are minimal, and the Burst is not a major component of his kit. At most, you’ll probably only need substats from artifacts to be able to Burst consistently. 120% or more is plenty.
+In the beginning of the game, Diluc was the chase character to use at launch, but unfortunately, newer Pyro DPS’s that take the field have outclassed him in performance. Thankfully, Diluc maintains his niche as a Pyro Plunge Attacker if you have the characters to enable him. Notably, Diluc teams, even outdated ones, can still clear Spiral Abyss.
+Diluc is the best option for a Hydro unit in many of the best teams in the game, and your account will undeniably be better with a C6 Diluc. Nearly every Pyro on-field DPS benefits from his support and damage. He is a high-priority, highly flexible unit that you should acquire and max out as soon as possible.
+Stats Worth Consideration
+Elemental Mastery
+: Aim for around 200 Elemental Mastery for reaction damage.
+ATK%
+: You’ll probably have plenty of this, but it adds raw power. Note that this investment diminishes while using Bennet in your team, which is fairly common.
+Pyro DMG%:
+For maximizing damage.
+CRIT Rate or CRIT DMG:
+For maximizing damage.
+For any character devoted to building damage, it is important to prioritize a 1-to-2 ratio between CRIT Rate and CRIT DMG. 1-3 ratios, while they may give dopamine through bigger Crit numbers, is actually less damage overall. Aim for 75;150 in most cases!
+Genshin Diluc Talents and Attack Combos
+Normal Attack:
+Tempered Sword
+Diluc’s Normal Attack talent is a boring part of his kit, but they are important for dealing damage. Never use his Charged Attacks, as they are not effective. You also probably won’t be using a full Normal Attack string, since later hits are significantly delayed compared to the first two, so don’t button-mash with Diluc if you want to reach his full potential.
+Elemental Skill:
+Searing Onslaught
+Diluc’s Skill can be used three consecutive times before cooldown, with each attack having a different animation and increasing multiplier the further you go into the combo. You don’t have to Skill, Skill, Skill in order to maximize his damage. Instead, you have a small window to fit some quick Normal Attacks in between Skill uses.
+This will make more sense when we get to the teambuilding section, as Normal Attacks will trigger synchronized attacks from valuable off-field Hydro DPS units to guarantee Vaporize reactions..
+Elemental Burst:
+Dawn
+Now, let’s talk about Diluc's Burst. It is a bit unfortunate how the Burst is designed. Diluc swings his sword creating a large phoenix made of fire in a huge area of effect that pushes enemies away while continuing to hit them.
+The main problem with this Burst is that Diluc is a Cllaymore-wielding melee character, so it’s counter to his strategy of being up close with enemies. It’s still a valuable portion of his damage, since it gives Diluc a Pyro infusion on his Normal Attacks, but I would take my time in investing in this talent. Focus on leveling Normal Attack and Skill talents equally first.
+Diluc
+Passives
+Next, come his passives.
+His first ascension passive reduces the Stamina cost of Charged Attacks by 50% and increases its duration by 3s. You are nearly never using Charged Attacks, so this passive is sadly not helpful.
+Diluc's fourth ascension passive grants 20% Hydro DMG to himself unconditionally.
+Finally, his exploration passive allows a 25% chance to refund materials when crafting talent books.
+Diluc’s field time should be executed as such: in generic circumstances, you should Burst first in order to grant Diluc his Pyro infusion, then you should use his first two quick Normal Attacks before each of his three Skill taps. If you already have a Pyro infusion from C6 Bennett, use the Burst last to avoid pushing enemies away from you.
+For Dragon Striking, if you have a character that enhances your movement speed, instead hop directly at enemies in hopes of getting just barely enough air to trigger Plunging Attacks, but don’t forget to use his Burst first in order to get that Pyro infusion! The infusion is essential for maximizing reaction damage from Vaporize or Melt.
+Genshin Diluc Constellation Analysis
+Diluc is a fully functional character at C0 and his constellations are not worth the primogem investment, even up to C6. Only grab constellations if you really like the character.
+Constellation Name
+Abbreviated In-Game Description
+Notes
+C1. Conviction
+Diluc deals 15% more damage to enemies who have more than half health.
+A conditional damage boost, which is decent if you manage to grab the constellation, but it’s certainly nothing to aim for.
+C2. Searing Ember
+Up to three times, once per 1.5s, Diluc getting hit will increase his ATK by 10% and ATK SPD by 5% for 10s
+Another lackluster conditional damage boost. Instead of aiming for this constellation, you should farm for better artifacts
+C3. Fire and Steel
+Increase Skill talent level by 3.
+The Skill talent level is the most important part of Diluc’s kit, but C3 and C5 of kits are rarely exceptional. For Diluc, C3 is much more useful than C5.
+C4. Flowing Flame
+Spacing Skill hits 2s apart increases those hits’ damage by 40% for 2s.
+Actually bad constellation. Do not delay your Skill uses. Even with the buff, you’re losing damage by playing around this. Truly garbage.
+C5. Phoenix, Harbinger of Dawn
+Increases Burst talent level by 3.
+Nothing special to see here.
+C6. Flaming Sword, Nemesis of the Dark
+After the first Skill use, Normal Attack SPD +30% for 6s, and the Skill won’t interrupt his Normal Attack combo, allowing you to make it to the end of his Normal Attack string.
+The best constellation, but this isn’t saying much. You actually want your Normal Attack string to reset between Skill uses, since the later attacks take so much longer to execute. This makes the second half of C6 a demerit rather than a buff. Dash right after your Skill to reset your Normal Attack string each time.
+Genshin Diluc's Best Weapons
+Diluc’s weapon needs are somewhat unsurprising. He wants CRIT weapons the most, followed by ATK% or Elemental Mastery. Diluc has solid weapon choices at every budget level, so you won’t need to worry too much about pulling 5-star weapons just so he’s playable.
+Weapon Name
+Abbreviated In-Game Description
+Notes
+5-Star CRIT Weapons
+CRIT Stats
+Variable effects.
+Best-in-Slot
+At time of writing, there are two CRIT weapons worth mentioning: Beacon of the Reed Sea and Redhorn Stonethresher. Diluc does not make much use of either passive, but the CRIT stats are enough to outpace even his signature weapon, Wolf’s Gravestone. Verdict is also a CRIT option, but it does not give as much CRIT Rate as Beacon of the Reed Sea, and Diluc does not need more ATK, since he gets it from a variety of sources.
+Wolf’s Gravestone
+49.6% ATK
+ATK +20%. On hit, attacks against opponents with less than 30% HP increase all party members' ATK by 40% for 12s, once every 30s.
+Signature Weapon
+Diluc’s signature weapon and comparable with the limited weapon The Unforged, but the Unforged benefits Diluc mainly when he’s shielded. Being on the standard banner makes it accessible no matter what banner you roll on. Because so much ATK is on this weapon, huge buffs to ATK like Bennett as a support heavily kneecap this weapon’s potential.
+Serpent Spine (R5)
+27.6% CRIT Rate
+Every 4s a character is on the field, they will deal 10% more DMG and take 2% more DMG. This effect has a maximum of 5 stacks and will not be reset if the character leaves the field, but will be reduced by 1 stack when the character takes DMG
+Battle Pass Option
+It’s important to pair a character equipping Serpent Spine with a shielder to avoid losing stacks, but Serpent Spine continually shows up in the top tiers of weapon charts for Claymore-wielders. It is also the best overall Battle Pass weapon.
+Rainslasher (R5)
+165 Elemental Mastery
+Increases damage against opponents affected by Hydro or Electro by 20-36% (R1-R5)
+Best Standard 4-Star
+Diluc benefits quite a bit from Elemental Mastery, since Vaporize is the main way he increases his own damage. Enemies, provided you have a good enough Hydro applicator, should always be affected by Hydro by the time your Pyro attacks trigger reactions, so this is free bonus damage. Any Elemental Mastery weapons from events or otherwise with similar ATK and EM statlines will also work.
+Blackcliff Slasher
+55.1% CRIT DMG
+Kills on opponents increase ATK by 12-24% (R1-R5) for 30s. Max 3 stacks.
+Starglitter Option
+I don’t like factoring the passive into calculations, since it’s entirely irrelevant in situations like boss battles, where Diluc excels. It’s worthwhile and better than craftables solely because it offers CRIT.
+Prototype Archaic
+55.1% ATK
+On hit, Normal or Charged Attacks have a 50% chance to deal an additional 240-480% (R1-R5) ATK DMG to opponents within a small AoE. Can only occur once every 15s.
+Craftable Option
+Don’t waste resources refining this. It’s not worth it. You get one of these for free during regular gameplay, so this is the barebones option. Upgrade out of this as soon as possible.
+Genshin Diluc's Best Artifacts
+Sands
+– EM or ATK% (Aim for 200 total EM)
+Goblet
+– Pyro DMG Bonus
+Circlet
+– CRIT Rate/DMG
+Diluc’s has only one truly good choice for a 4pc set to improve his damage, and that’s the 4pc Crimson Witch of Flames set. 4pc Gilded Dreams is similarly good, but Crimson Witch was probably designed specifically with Diluc in mind.
+Artifact Set Name
+Abbreviated In-Game Description
+Notes
+4pc Crimson Witch of Flames
+2pc: 15% Pyro DMG.
+4pc: Increases Overloaded, Burning, and Burgeon DMG by 40%. Increases Vaporize and Melt DMG by 15%. Using Elemental Skill increases the 2-Piece Set Bonus by 50% of its starting value for 10s. Max 3 stacks.
+Best for Reliably Triggering Reactions
+The 4pc Crimson Witch set is a staple on many Pyro DPS characters and is accessible from the beginning of the game. Make sure you pair Diluc with Xingqiu, Yelan, or Rosaria to maximize efficiency of this set.
+4pc Gilded Dreams
+2pc: +80 Elemental Mastery.
+4pc: Within 8s of triggering an Elemental Reaction, ATK +14% for each party member whose Elemental Type is the same as the equipping character and +50 for every party member with a different Elemental Type. This effect can be triggered once every 8s. The character who equips this can still trigger its effects when not on the field.
+Strong Generic Secondary Option
+Diluc usually wants to create reactions anyways, and this is only slightly behind the other option in terms of damage. A solid choice if you happen to have a set laying around.
+Genshin Diluc's Best Teams
+Diluc is a DPS who prefers a strong buffer, a Viridescent Venerer-holder, and a character who provides a meaningful reaction for Diluc. Your best bets are Vaporize teams, but there are other options available if you want to try Melt or Overload.
+For a full list of notable teammates, please scroll to the bottom of this guide.
+Standard Diluc Team
+Your team will include an off-field Hydro character with great elemental application and an Anemo character with 4pc Viridescent Venerer in pretty much every case. Cryo can replace Hydro, but it is overall less consistent.
+Diluc’s newest team utilizes the incredible buffing and healing from Bennett, the Hydro application and universal DMG% buff from Furina, and the Plunge support Anemo character Xianyun, who also heals and enables Diluc to make the most of his Plunging Attacks without having to rely on the Dragon Strike technique. Diluc is also a great beneficiary of the Double Hydro combination with Yelan and Xingqiu.
+Guide Character
+Hydro/Cryo
+Anemo
+Bennett/Flex
+Specific Teammate Choices
+Teammate Choices
+Character Name
+Notes
+Character Name
+Notes
+Bennett
+Support / Healer
+C1+ Recommended
+Huge Teamwide Flat ATK Buff
+Rapid Healing Within AoE
+Great Pyro energy supplier
+Short Cooldowns on Skill/Burst
+Accessible via Paimon's Bargains
+Zhongli
+Geo Shielder
+Strongest, longest-lasting shield in the game
+Universal RES shred as long as shield is active
+Often wields a Favonius weapon.
+Can sometimes replace a healer entirely.
+Xingqiu
+Off-Field Hydro DPS
+Consistent Hydro application to ensure reactions.
+Interruption resistance
+Minor healing
+Excellent single-target damage output.
+Yelan
+Off-Field Hydro DPS
+Consistent Hydro application to ensure reactions.
+Pairs extremely well with Xingqiu.
+Sizeable buff to active character – up to 50% DMG bonus.
+Excellent single-target damage output.
+Furina
+On-Field DPS
+The Hydro Archon demands a dedicated healer
+Massive universal damage-buffer for team
+Impressive damage on top of her support capabilities
+Dehya
+Off-Field Defensive Support
+Skill grants active character infinite poise for 9s (total interruption immunity)
+Absorbs damage meant for active character
+Self-heals to continue her bodyguard duties for your team.
+Kaeya
+Off-Field Cryo DPS
+Respectable damage output
+Consistent application for reactions
+Orbiting icicles make melee-based reactions more reliable.
+Rosaria
+Off-Field Cryo DPS
+Impressive AoE damage output
+Grants CRIT Rate bonus to the team
+Low cooldowns means she generates lots of energy
+Viable in a variety of roles and builds
+Xianyun
+Anemo (De+)Buffer
+Exceptional synergy with Diluc
+Healing for party
+Buffs to team’s Plunging Attacks
+Debuffs with Viridescent Venerer
+Layla
+Cryo Shielder/Support
+Can apply Cryo with her Burst
+Usually wields a Favonius weapon
+Tough, durable shield to prevent interruption
+Kazuha
+Anemo (De+)Buffer
+Universally loved Anemo support
+Excellent crowd control with held Skill
+Usually wields Favonius or Xiphos’ Moonlight for team energy needs
+Massive buffs to elements based on Kazuha’s Elemental Mastery stat
+Debuffs elemental resistances with Viridescent Venerer
+Sucrose
+Anemo (De+)Buffer
+Strongest 4-star Anemo support
+Decent enemy grouping with Skill
+Generates lots of energy through her Skill and potential weapons
+Shares 25% of her Elemental Mastery with the team to improve reactions
+Available since the start of the game
+Up Next:
+Diona Guide - Best Builds and Tips
+Previous
+Genshin Impact Dehya Build Guide: Best Weapons, Artifacts, and Teams
+Next
+Diona Guide - Best Builds and Tips
+Top Guide Sections
+Genshin Impact Luna VI Details and Patch Notes
+Genshin Impact Luna IV Release Time and Details
+Genshin Impact Luna III Details and Patch Notes
+Genshin Impact Luna II Release Date and Details
+Was this guide helpful?
+Leave feedback
+In This Guide
+Genshin Impact
+HoYoverse
+Initial Release:
+Sep 27, 2020
++2
+Learn more
+Go to comments

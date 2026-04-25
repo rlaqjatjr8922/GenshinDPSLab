@@ -1,0 +1,156 @@
+Kaveh is a playable Dendro character in Genshin Impact. He is one of the most powerful and thus popular characters for playing as Main DPS. We decided to write this guide to help you learn more about Kaveh. In our Genshin Impact Kaveh Build and Best Team Comp post you will learn about Kaveh’s talents, how they work and how to upgrade them. Also, you will read about his Constellations that will help you make Kaveh even more powerful. After that, we have written Genshin Impact Kaveh Build where you’ll see the weapon and artifact set. And at last, we have mentioned the best team comps for Kaveh as the Main DPS hero.
+Genshin Impact All Characters List
+The whole information is presented in tables. You can use the navigation bar above to move quickly to the information block that you are most interested in.
+Talents
+Constellations
+Build
+Team
+Kaveh Build
+Below you can see the best weapon option for playing Kaveh in Genshin Impact. Accompanied by the best Kaveh artifact set and its stat priorities.
+Main DPS Build
+If you play this champion as a Main DPS in your comp you should take the weapon and artifacts from the list below. They are believed to be the most effective ones in almost all situations.
+Weapon
+Mailed Flower
+Weapon Substitutes:
+Skyward Pride
+,
+Makhaira Aquamarine
+,
+Rainslasher
+,
+Favonius Greatsword
+,
+Forest Regalia
+.
+Artifact Set
+Flower of Paradise Lost
+(4-Piece)
+Artifact Main Stats Priority:
+Elemental Mastery / Energy Recharge
+Dendro DMG Bonus / Elemental Mastery
+Elemental Mastery
+Sub Stats Priority: Elemental Mastery > Energy Recharge > CRIT Rate / CRIT DMG / ATK%
+Talent Priority
+Painted Dome > Artistic Ingenuity > Schematic Setup
+Best Team Compositions for Kaveh
+When you play Genshin Impact everything depends not only on your main character but also on the composition. You should learn how elements complement each other and build the best team for your main. Below you can see the best team composition for Kaveh with two Sub DPS and Support characters. Also, we have included alternative characters for each role that go well with Kaveh too.
+Kaveh is the main DPS for this team allowing Bloom reactions to be done. Nilou and Sangonomiya Kokomi provide Hydro elements for triggering Bloom in this team. Nilou also generates Bountiful Cores, that burst quicker than normal ones and deals larger AoE DMG. Nahida can boost Elemental Mastery and spread Dendro further increasing the bloom DMG. With aid of 2 Hydro characters, Blooming can be triggered frequently to produce cores and duration of Tri-Karma Purification increases.
+Good characters for this comp:
+Collei, Dendro Traveler, Mona, Yelan, Xingqiu, Sucrose, Layla, Baizhu, Yaoyao, Diona, Barbara.
+If you want to know more about every teammate for Kaveh you can click on the link below and find them in the list of all Genshin Impact characters that we have described.
+Genshin Impact All Characters List
+In case you are still not sure what champion you want to pick as main we have
+Genshin Impact characters tier list
+with explanations on how to build your best team.
+Kaveh Talents
+Below you can see the list of talents that Kaveh uses during the fight. Each of them we have described with the main characteristics.
+Schematic Setup
+Normal Attack
+Normal Attack:
+Uses Mehrak to perform up to 4 consecutive attacks.
+Charged Attack:
+Drains Stamina over time to perform continuous slashes.
+At the end of the sequence, performs a more powerful slash.
+Plunging Attack:
+Plunges from mid-air to strike the ground, damaging opponents along the path and dealing AoE DMG upon impact.
+Artistic Ingenuity
+Elemental Skill
+Uses Mehrak’s mapping ability for offensive purposes, initiating a radial scan that deals AoE Dendro DMG. It will also scan all Dendro Cores in its AoE and cause them to immediately burst.
+Painted Dome
+Elemental Burst
+Completely unleashes Mehrak’s energy and creates a cubic scanned space, dealing AoE Dendro DMG to all opponents within it, causing all Dendro Cores in its AoE to immediately burst, and granting Kaveh the following enhanced combat abilities for a specific duration:
+Increases Kaveh’s Normal, Charged, and Plunging Attack AoE, and converts his attack DMG to Dendro DMG that cannot be overridden.
+All Dendro Cores created by all your own party members through Bloom reactions will deal additional DMG when they burst.
+Increases Kaveh’s resistance to interruption
+These effects will be canceled once Kaveh leaves the field.
+An Architect’s Undertaking
+1st Ascension Passive
+When DMG dealt by a Dendro Core (including DMG from Burgeon and Hyperbloom) hits Kaveh, Kaveh will regain HP equal to 300% of his Elemental Mastery. This effect can be triggered once every 0.5s.
+A Craftsman’s Curious Conceptions
+4th Ascension Passive
+During Painted Dome, after Kaveh’s Normal, Charged, or Plunging Attacks hit opponents, his Elemental Mastery will increase by 25. This effect can be triggered once every 0.1s. Max 4 stacks.
+This effect will be canceled when Painted Dome’s effects end.
+The Art of Budgeting
+Utility Passive
+When Kaveh crafts Landscape, Building, and Courtyard-type Furnishings, he has a 100% chance to refund a portion of the materials used.
+Every talent can be upgraded up to level 15. But to do so you will need to gather materials on particular days. The list of the needed materials for leveling Kaveh’s talents is mentioned in the next block.
+Talent Leveling Materials
+So here you can see all materials that you will need in order to level up Kaveh’s talents.
+Talent Level-Up Materials
+Ingenuity Books:
+Teachings of Ingenuity
+,
+Guide to Ingenuity
+,
+Philosophies of Ingenuity
+.
+Common Ascension Materials
+Fungal Spores
+,
+Luminescent Pollen
+,
+Crystalline Cyst Dust
+.
+Weekly Boss Material
+Primordial Greenbloom
+Genshin Impact Enhancement Progression Calculator
+Some of them are required at the beginning for low levels and others are more advanced. We just wanted to focus your attention on material types in general.
+Kaveh Constellations
+In Genshin Impact characters have a specific upgrade system called constellation. You will need to get a specific item called Stella Fortuna to increase the level of constellation. Each character has their own version of Stella Fortuna, which you get by obtaining a duplicate of the character from Wishes.
+Level 1
+Sublime Salutations
+Within 3s after using Artistic Ingenuity, Kaveh’s Dendro RES and Incoming Healing Bonus will be increased by 50% and 25% respectively.
+Level 2
+Grace of Royal Roads
+Kaveh’s Normal Attack SPD increases by 15% during Painted Dome.
+Level 3
+Profferings of Dur Untash
+Increases the Level of Painted Dome by 3.
+Maximum upgrade level is 15.
+Level 4
+Feast of Apadana
+Dendro Cores created from Bloom reactions Kaveh triggers will deal 60% more DMG when they burst.
+Level 5
+Treasures of Bonkhanak
+Increases the Level of Artistic Ingenuity by 3.
+Maximum upgrade level is 15.
+Level 6
+Pairidaeza’s Dreams
+When Kaveh’s Normal, Charged, or Plunging Attacks hit opponents during Painted Dome, they will unleash Pairidaeza’s Light upon the opponent’s position, dealing 61.8% of Kaveh’s ATK as AoE Dendro DMG and causing all Dendro Cores within that AoE to burst. This effect can be triggered once every 3s.
+Every Genshin Impact character has own set of constellations above you can see Kaveh constellations list with descriptions.
+Ascension Materials
+In addition, there are ascension phases that increase the level cap for your character. After Kaveh reaches the 20th level he can be ascended to the next ascension phase, up to phase 6, which allow getting 90th level.
+Character Ascension Materials
+Nagadus Emerald:
+Nagadus Emerald Sliver
+,
+Nagadus Emerald Fragment
+,
+Nagadus Emerald Chunk
+,
+Nagadus Emerald Gemstone
+.
+Quelled Creeper
+Common Ascension Materials
+Fungal Spores
+,
+Luminescent Pollen
+,
+Crystalline Cyst Dust
+.
+Local Specialty
+Mourning Flower
+Genshin Impact Enhancement Progression Calculator
+In order to level up ascension phases you’ll need materials. So the list of those required for Kaveh is listed above.
+Artem R.
+I have been an avid gamer since childhood. My favorite genres are RPGs, Action, and MMOs. Some of my all-time favorite games include the Diablo and Path of Exile ARPG series, the Dark Souls series, and JRPGs like Xenoblade, Atelier, and the Final Fantasy. I am also a big fan of the PSP and PS Vita, and I currently enjoy gaming on my Nintendo Switch.
+Post Views:
+3,580
+Please share it with your friends
+Tags:
+Genshin Impact
+Post navigation
+Previous
+Genshin Impact Baizhu Build and Best Team Comp
+Next
+Diablo 2: Resurrected Ladder Season 4 Coming Soon

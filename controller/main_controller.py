@@ -9,14 +9,14 @@ from config.config import BASE_DIR, DATA_DIR, OUTPUT_DIR, GCSIM_EXE
 
 class MainController:
     STAGE_BAR_COUNTS = {
-        0: 2,
+        0: 1,
         1: 1,
         2: 2,
         3: 3,
     }
 
     STAGE_PROGRESS_LABELS = {
-        0: ["전체 파일: 0 / 0", "수집 파일: 0 / 0", ""],
+        0: ["전체 파일: 0 / 0", "", ""],
         1: ["파일 처리: 0 / 0", "", ""],
         2: ["파일 처리: 0 / 0", "시뮬레이션: 0 / 24", ""],
         3: ["파일 처리: 0 / 0", "T: 0 / 0", "G: 0 / 0"],

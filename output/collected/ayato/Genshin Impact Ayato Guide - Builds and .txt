@@ -1,0 +1,211 @@
+Guide
+Genshin Impact
+Genshin Impact Ayato Guide - Builds and Best Uses
+Written by
+Paul Lombardo
+Published: March 30, 2022 8:24 AM
+Share:
+Facebook
+X
+Reddit
+Email
+In
+Genshin Impact
+, Ayato is the big brother to everyone's favorite Inazuman Cryo queen, Ayaka Kamisato. Ayato is the Yashiro Commissioner and the head of the Kamisato Clan who uses swords and wields a Hydro vision.
+Ayato keeps himself busy by leading the Kamisato Clan, the Yashiro Commission, and the secret Shuumatsuban ninja organization - but that doesn't mean he isn't fit for a battle, as he is adept at using the Kamisato clan combat arts. Read ahead to learn how to build this powerful leader in TechRaptor's Official Ayato Build Guide.
+Genshin Impact Ayato Build Guide - Team Role
+Ayato's Vision being Hydro makes him flexible for both DPS and Support roles, largely because Hydro can easily combo with other Elements to cause greatly damaging Elemental Reactions.
+Ayato's Elemental Skills and Elemental Bursts are both DPS and Support oriented as well. For example: his Skill allows him to stack Wave Flash stacks, which increase his DPS, but his Burst increases ally Normal Attack DMG. Basically, build Ayato how you want, as he'll serve purposes in both roles.
+Genshin Impact Ayato Build Guide - Talents
+Ayato Normal Attack:
+Kamisato Art - Korobi
+Ayato Normal Attack:
+Ayato performs up to 5 rapid strikes.
+Ayato Charged Attack:
+Ayato consumes a certain amount of Stamina to dash forward and perform an iai.
+Ayato Plunging Attack:
+Ayato plunges towards the ground from mid-air, dealing AoE DMG upon impact.
+Ayato Elemental Skill - Kamisato Art – Kyouka
+Ayato shifts position and enters the Takimeguri Kanka state.
+Ayato leaves a watery illusion from his original location. The illusion taunts enemies and explodes, dealing AoE Hydro DMG.
+Takimeguri Kanka:
+Ayato uses Shunsuiken to convert Normal Attacks into AoE Hydro DMG. These attacks scale off of Ayato's Max HP. The scaling increases with each Namisen effect, which can be gained every attack.
+Ayato Elemental Burst - Kamisato Art – Suiyuu
+Ayato unveils a garden of purity that silences the cacophony within.
+Bloomwater Blades
+will constantly rain down and attack opponents within its AoE, dealing Hydro DMG and increasing the Normal Attack DMG of characters within.
+Genshin Impact Ayato Build Guide - Artifacts
+Echoes of an Offering
+A new Artifact set that can be found in the Chasm.
+The two-piece bonus
+for this set grants an 18% ATK bonus.
+The four-piece bonus
+for this set grants a 36% chance to trigger Valley Rite when Normal Attacks hit opponents. Valley Rite increases Normal Attack DMG by 70% of the character's ATK. The effect disappears after a Normal Attack deals DMG. If Normal Attacks fail to trigger Valley Rite, it can be triggered again with an increased chance of 56%.
+Echoes of An Offering is Ayato's slot-in set and perfect for his build, which focuses on dealing Normal Attack DMG (while completely avoiding Charged Attacks).
+Heart of Depths
+The Heart of Depths set is commonly used on Hydro characters.
+The two-piece
+bonus for this set grants a 15% boost to Hydro DMG.
+The four-piece
+bonus for this set grants a 30% boost to Normal and Charged ATK DMG after using an Elemental Skill for 30 seconds.
+Heart of Depths is a solid set for Ayato, and although it pales in comparison to Echoes of An Offering, it works well for any Support-oriented Ayato builds.
+Genshin Impact Ayato Build Guide - Weapons
+Haran Geppaku Futsu
+A 5-star Sword available in the weapon banner.
+Obtain 12% All Elemental DMG Bonus. When other nearby party members use Elemental Skills, the character equipping this weapon will gain 1 Wavespike stack. Max 2 stacks. This effect can be triggered once every 0.3s. When the character equipping this weapon uses an Elemental Skill, all stacks of Wavespike will be consumed to gain Rippling Upheaval: each stack of Wavespike consumed will increase Normal Attack DMG by 20% for 8s.
+Secondary stat increases CRIT Rate by a maximum of 33.1%
+Haran Geppaku Futsu is Ayato's slot-in weapon and is extremely powerful for Ayato as it plays into both his Support and DPS rolls. The Elemental Skill bonuses from allies grant the Wavespike Stacks, which can be consumed to increase Normal Attack DMG. This is immense for Ayato.
+The Black Sword
+A 4-Star Sword available in the Battle Pass.
+Increases DMG dealt by Normal and Charged Attacks by 20%. Additionally, regenerates 60% of ATK as HP when Normal and Charged Attacks score a CRIT Hit. This effect can occur once every 5s.
+Secondary stat that increases CRIT Rate by a maximum of 33.1%.
+The Black Sword isn't completely free-to-play but it's fairly accessible through a premium Battle Pass and does a lot of what Ayato's slot-in weapon does.
+Genshin Impact Ayato Build Guide - Team Composition
+A team centered around Ayato should be benefitting from his Hydro Element and increases to Normal Attack DMG.
+A team for Ayato could look like this:
+Ayaka
+(Cryo Main DPS)
+Ayato
+(Hydro Sub DPS/Support)
+Kazuha
+(Anemo Sub DPS/Swirl)
+Diona
+(Cryo Support/Shield)
+The Kamisato Twins rule this team. Ayaka is the Main DPS and will be spending most of her time on the field, but Ayato will be buffing her Normal Attack up and allowing her to freeze enemies with his Hydro Element. Kazuha's purpose is to Swirl additional Hydro and Cryo DMG while also providing crowd control to enemies. Diona will heal, apply Cryo, and keep shields up for everyone.
+Ayato's reluctance to show his face in public doesn't keep words from getting around about his kindness and benevolence. While he prefers to do his work behind the scenes, Ayato's inspiration to a select few in Inazuma, like Thoma and Kamisato Ayaka, knows no bounds. Foes may underestimate him for his shyness, but Ayato's skills with the Kamisato arts are as unpredictable as he is.
+For more
+Genshin Impact
+guides, stay tuned to TechRaptor.
+More
+Genshin Impact
+Guides
+Genshin Impact
+Guides Hub
+General Guides
+Genshin Impact New Player Starter Guide
+What is Genshin Impact? An Explanation
+Genshin Impact Beginner Guide
+Every Character You Can Get Right Now in Genshin Impact
+Genshin Impact Co-op Guide
+Feature Guides
+Genshin Impact Battle Pass Guide
+Genshin Impact Spiral Abyss Guide
+Genshin Impact Currency Guide
+Genshin Impact Artifact Guide
+Gameplay Guides
+Genshin Impact Elements Guide: Types and Combos
+Genshin Impact Cooking Guide
+Genshin Impact Ruin Guard Battle Guide
+Quest Guides
+Genshin Impact Secret Island and "Time and the Wind" Quest Guide
+Genshin Impact Qingce Village Secret Riddles Guide
+Genshin Impact Luhua Landscape Quest Guide
+Genshin Impact Nine Pillars of Peace Guide
+Genshin Impact Tianqui Treasure Trail
+Genshin Impact 2.0 - Inazuma
+Genshin Impact Sacred Sakura Cleansing Ritual Questline
+Genshin Impact A Strange Story in Konda Quest Puzzle Guide
+Genshin Impact Sacrificial Offering Guide
+Genshin Impact Cleansing Defilement Guide
+Genshin Impact Yougou Cleansing Boss Guide
+Genshin Impact Lasting Promise Guide
+Genshin Impact Oroboshi's Legacy Questline Guide
+Genshin Impact Dreams of Sword Art Guide
+Genshin Impact Secret Under Serpent's Head Guide
+Genshin Impact 2.1
+Genshin Impact Solitary Sea-Beast Guide
+Genshin Impact The Moon-Bathed Deep Guide
+Genshin Impact Seiraimaru Shipwreck Puzzle Guide
+Genshin Impact Seirai Stormchasers Guide
+Genshin Impact 2.3
+Genshin Impact Golden Wolflord Guide
+Genshin Impact 2.5
+Raiden Shogun Boss Fight Guide
+Genshin Impact 2.6
+Ruin Serpent Boss Fight Guide
+Genshin Impact 3.0
+How to Get to Sumeru
+Aranyaka World Quest: Part 1
+The Children of Vimara Village
+Into the Woods
+The Lost Child
+Genshin Impact Static Views Quest Guide
+Genshin Impact Silent Seeker of Knowledge Puzzle Guide
+Kalpalata Lotus Guide | Best Farms, and Uses
+Nilotpala Lotus Material Guide | Best Farms, and Uses
+Rukkhashava Mushroom Material Guide | Best Farms and Uses
+Genshin Impact 3.1
+The Exile: Sprouting and A Gifted Rose Hidden World Quests Guide
+An Introduction to Indoor Archaeology Guide
+Afratu's Dilemma World Quest Guide
+Altar of Mirages Domain Unlock Guide
+Paul Lombardo
+| Former Staff Writer
+Paul is a student at the University of Florida seeking a Bachelor of Science in Journalism. Being a gamer for as long as he could remember, Paul made it a…
+More about Paul
+Recent articles
+Dungeons & Dragons Unearthed Arcana Villainous Options 2 Introduces More Sinister Subclasses
+04-24-26
+Read article
+Resident Evil Requiem Sales Have Now Passed 7m
+04-24-26
+Read article
+Disgaea Mayhem Release Date Brings the Chaos in July
+04-24-26
+Read article
+Clair Obscur: Expedition 33 Sales Hit 8m on First Anniversary
+04-24-26
+Read article
+Dark and Darker Season 9 Revamps Rogues, Rangers, and More
+04-24-26
+Read article
+Zenless Zone Zero Version 2.8 Lands in May, Steam Release Coming Soon
+04-24-26
+Read article
+More Info About This Game
+Learn More About Genshin Impact
+Game Page
+Genshin Impact
+Developer
+miHoYo
+Publisher
+miHoYo
+Platforms
+Nintendo Switch
+,
+PC
+,
+IOS
+,
+Android
+,
+PlayStation 4
+Release Date
+September 28, 2020 (
+Calendar
+)
+Genre
+Action
+Purchase (Some links may be affiliated)
+Playstation Store
+Google Play
+Apple Store
+More  articles
+Genshin Impact Version Luna VI Brings More Mondstadt in April
+03-27-26
+Read article
+Genshin Impact Version Luna V Release Date Unveiled for Later This Month
+02-13-26
+Read article
+Genshin Impact Version Luna IV Arrives Later This Month
+01-02-26
+Read article
+Genshin Impact Version Luna III Scheduled for December Release
+11-21-25
+Read article
+Genshin Impact Version Luna II Update Brings UGC and More Later This Month
+10-10-25
+Read article
+From Genshin Impact to Honkai: Nexus Anima - Can Hoyo Fans Keep Up?
+09-24-25
+Read article

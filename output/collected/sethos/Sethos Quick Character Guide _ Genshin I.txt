@@ -1,0 +1,223 @@
+Sethos is a DMG dealer who can utilize Elemental Energy to perform enhanced Aimed Shots.
+Sethos is able to fire off powerful arrows that can pierece enemies after charging his Aimed Shots to Charge Level 2. He can also consume Elemental Energy to increase the charging speed and shorten the charging speed and shorten the charging process significantly.
+His Elemental Skill deals AoE Electro DMG and can help Sethos regain Elemental Energy afterward based on triggered reactions to facilitate the usage of his Aimed Shots and Elemental Burst.
+His Elemental Burst can convert his Normal Attacks into firing off enemy-piercing arrow shots for a set period of time to attack enemies in a more flexible and frequent manner. DMG dealt by said arrow shots is considered Charged Attack DMG.
+This guide is based on the
+Community Character Builds
+by the Genshin Helper Team.
+Skills Overview
+Normal Attack: Royal Reed Archery
+Normal Attack
+Performs up to 3 consecutive shots with a bow.
+Charged Attack
+Performs a more precise Aimed Shot with increased DMG.
+While aiming, the power of Electro will accumulate on the arrowhead before the arrow is fired. Has different effects based on how long the energy has been charged:
+Charge Level 1
+: Fires off an arrow carrying the power of lightning that deals Electro DMG.
+Charge Level 2
+: Fires off a Shadowpiercing Shot which can pierce enemies, dealing Electro DMG to enemies along its path. After the Shadowpiercing Shot is fully charged, Sethos cannot move around.
+Plunging Attack
+Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.
+Elemental Skill: Ancient Rite: The Thundering Sands
+Gathers the might of thunder,
+dealing AoE Electro DMG
+and quickly retreating. If this attack triggers Electro-Charged, Superconduct, Overloaded, Quicken, Aggravate, or Electro Swirl reactions, Sethos
+recovers a certain amount of Elemental Energy
+.
+Cooldown
+: 8 seconds
+Elemental Burst: Secret Rite: Twilight Shadowpiercer
+Perform a secret rite, entering the
+"Twilight Meditation" state
+, during which Sethos's
+Normal Attacks will be converted into enemy-piercing Dusk Bolts
+: Deal Electro DMG to opponents in its path, with DMG increased based on Sethos's Elemental Mastery.
+Sethos
+cannot perform Aimed Shots
+while in this state.
+DMG dealt by Dusk Bolts is
+considered Charged Attack DMG
+.
+This effect will be canceled when Sethos leaves the field.
+Twilight Meditation Duration
+: 8 seconds
+Cooldown
+: 15 seconds
+Energy Cost
+: 60
+Ascension 1: Black Kite's Enigma
+When Aiming,
+the charging time is decreased by 0.285s based on each point of
+Sethos's current Elemental Energy
+. Charging time can be reduced to a minimum of 0.3s through this method and a maximum of 20 Energy can be tallied. If a Shadowpiercing Shot is fired, consume the tallied amount of Elemental Energy; if it is a Charge Level 1 shot, then consume 50% of the tallied amount of Elemental Energy.
+Ascension 4: The Sand King's Boon
+Sethos gains the
+"Scorching Sandshade" effect
+, increasing the DMG dealt by Shadowpiercing Shots by 700% of Sethos's Elemental Mastery.
+The Scorching Sandshade effect will be canceled when any of the following conditions are met:
+• 5s after a Shadowpiercing Shot first hits an opponent.
+• After 4 Shadowpiercing Shots strike opponents.
+When a Shadowpiercing Shot affected by Scorching Sandshade first hits an opponent, Sethos will regain Scorching Sandshade after 15s.
+Passive Talent: Thoth's Revelation
+Displays the location of nearby
+resources unique to Sumeru
+on the mini-map.
+TLDR / Rotation
+His Charged ATK Level 2
+His Normal ATK (considered Charged ATK) during Burst
+Sethos' kit revolves around
+his Charged ATK
+.
+His
+CHARGED ATK LEVEL 2
+will
+fire off a 'Shadowpiercing Shot'
+that pierces enemies (if you can line enemies up properly, this piercing damage is really good since it will hit all targets). But to get to Charge Level 2 is extremely slow
+unless you have Energy
+where you can activate his Passive Talent to
+decrease the charging time
+.
+After his Aimed Shot, it's his
+ELEMENTAL BURST
+. This will make Sethos
+enter the 'Twilight Meditation'
+state, converting his Normal Attacks to Dusk Bolts which is also
+considered Charged Attack DMG
+.
+In other words,
+Sethos has 2 gameplay styles
+here:
+(1) spamming Charged Attack Lvl 2
+by consuming Energy or
+(2) spamming Normal Attack after Elemental Burst
+.
+With proper teammates (especially with second Electro in the team for battery), you can combine both gameplay into one rotation. If not, you can choose to focus on one playstyle or switch playstyle whenever you feel it's needed.
+For example
+: Support character's skill or burst >
+Sethos Burst and spam Normal Attack
+until it ends >
+Sethos Elemental Skill
+to gain energy >
+Charged Attack Lvl 2
+twice >
+Sethos Skill to gain energy
+> Repeat.
+Tips
+: When spamming Normal ATK during Burst, you can do
+animation cancelling
+to maximize his damage output;
+Normal ATK 1 > Normal ATK 2 > Dash > Repeat
+. This is because Normal ATK 3 is pretty slow.
+But remember, this would be hard to pull off if you don't have enough Energy. If you can't manage the Energy properly, just use one of the gameplay styles or rotate them whenever possible.
+Talent Priorities
+Burst* = Normal ATK > Skill
+*If you consider making him a
+Charged ATK DPS
+only, where you don't want to use his Elemental Burst to conserve Energy, you don't have to upgrade the Elemental Burst. But if you want him to be a
+Normal ATK DPS
+(where you spam Normal ATK during Burst), definitely need to upgrade his Elemental Burst.
+Constellations
+Best Constellations: C1, C2, C4 & C6
+C1: Sealed Shrine's Spiritsong ⭐
+The CRIT Rate of Shadowpiercing Shot is increased by 15%.
+C2: Papyrus Scripture of Silent Secrets ⭐
+When any of the following conditions are met, Sethos gains a 15% Electro DMG Bonus for 10s that may stack twice, with each stack duration counted independently:
+• Consuming Elemental Energy through Aimed Shots; you must first unlock the Passive Talent "Black Kite's Enigma" to trigger this condition.
+• Regaining Elemental Energy by triggering Elemental Reactions using Ancient Rite: The Thundering Sands.
+• Using Secret Rite: Twilight Shadowpiercer.
+C3: Ode to the Moonrise Sage
+Increases the Level of Normal Attack: Royal Reed Archery by 3.
+Maximum upgrade level is 15.
+C4: Beneficent Plumage ⭐
+When a Shadowpiercing Shot or Dusk Bolt strikes 2 or more opponents, all nearby party members gain 80 Elemental Mastery for 10s.
+C5: Record of the Desolate God's Burning Sands
+Increases the Level of Secret Rite: Twilight Shadowpiercer by 3.
+Maximum upgrade level is 15.
+C6: Pylon of the Sojourning Sun Temple ⭐
+After Shadowpiercing Shot strikes an opponent, the Elemental Energy consumed by the Passive Talent "Black Kite's Enigma" will be returned. This effect can be triggered up to once every 15s. You must first unlock the Passive Talent "Black Kite's Enigma."
+Recommended Weapons
+Hunter's Path (5⭐)
+Scion of the Blazing Sun (4⭐)
+Slingshot R5 (3⭐)
+Sethos' weapon choices aside from the aforementioned above are rather lackluster and should not be pulled purely for the purposes of upgrading Sethos.
+1)
+Hunter's Path
+(ATK: 542 • Crit Rate: 44.1%)
+Gain 12~24% All Elemental DMG Bonus. Obtain the Tireless Hunt effect after hitting an opponent with a Charged Attack. This effect increases Charged Attack DMG by 160~320% of Elemental Mastery. This effect will be removed after 12 Charged Attacks or 10s. Only 1 instance of Tireless Hunt can be gained every 12s.
+2)
+Scion of the Blazing Sun
+(ATK: 565 • Crit Rate: 18.4%)
+After a Charged Attack hits an opponent, a Sunfire Arrow will descend upon the opponent hit, dealing 60~120% ATK as DMG, and applying the Heartsearer effect to the opponent damaged by said Arrow for 10s. Opponents affected by Heartsearer take 28~56% more Charged Attack DMG from the wielder. A Sunfire Arrow can be triggered once every 10s.
+3)
+Slingshot
+(ATK: 354 • Crit Rate: 31.2%)
+If a Normal or Charged Attack hits a target within 0.3s of being fired, increases DMG by 36~60%. Otherwise, decreases DMG by 10%.
+Recommended Artifacts
+For Normal ATK DPS (During Burst)
+Wanderer's Troupe (4)
+~= Desert Pavilion Chronicle (4)*
+Gilded Dreams (4)
+Thundering Fury (2) / +80 EM set (2) / Emblem of Severed Fate (2)
+For Charged ATK DPS
+Wanderer's Troupe (4)
+Gilded Dreams (4)
+Thundering Fury (2) / +80 EM set (2) / Emblem of Severed Fate (2)
+Aside from Energy Recharge requirements, Sethos' builds for Normal and Charged Attack DPS are nearly identical.
+1)
+Wanderer's Troupe (4)
+2-Piece Bonus:
+Increases Elemental Mastery by 80.
+4-Piece Bonus:
+Increases Charged Attack DMG by 35% if the character uses a Catalyst or Bow.
+2)
+Desert Pavilion Chronicle (4)
+2-Piece Bonus:
+Anemo DMG Bonus +15%.
+4-Piece Bonus:
+When Charged Attacks hit opponents, the equipping character's Normal Attack SPD will increase by 10% while Normal, Charged, and Plunging Attack DMG will increase by 40% for 15s.
+Note
+: This artifact set's ATK SPD allows Sethos to use his Normal Attack more often during his Burst. Remember that this is only for Normal ATK DPS Sethos!
+3)
+Gilded Dreams (4)
+2-Piece Bonus:
+Increases Elemental Mastery by 80.
+4-Piece Bonus:
+Within 8s of triggering an Elemental Reaction, the character equipping this will obtain buffs based on the Elemental Type of the other party members. ATK is increased by 14% for each party member whose Elemental Type is the same as the equipping character, and Elemental Mastery is increased by 50 for every party member with a different Elemental Type. Each of the aforementioned buffs will count up to 3 characters. This effect can be triggered once every 8s. The character who equips this can still trigger its effects when not on the field.
+4)
+Thundering Fury (2) / +80 EM set (2) / Emblem of Severed Fate (2)
+Main & Sub Stats Priority
+Artifact Main Stats
+Artifact Sub Stats
+Sands
+- Elemental Mastery / Energy Recharge
+Goblet
+- Electro DMG
+Circlet
+- Crit Rate / DMG
+Energy Recharge
+Crit Rate / DMG
+Elemental Mastery
+ATK%
+Team Compositions
+Quicken/Aggravate Team
+Sethos
+: Main DPS
+Nahida / Dendro MC
+: Dendro off-field application
+Fischl / Yae Miko
+: Sub-DPS + Electro Resonance + Battery
+Kazuha / Sucrose
+: Grouper + VV set ||
+Zhongli / Kirara / Baizhu
+: Shielder
+Hyperbloom Team
+Sethos
+: Main DPS
+Nahida / Dendro MC
+: Dendro off-field application
+Xingqiu / Furina
+: Hydro off-field application
+Kazuha / Sucrose
+: Grouper + VV set ||
+Zhongli / Kirara / Baizhu
+: Shielder

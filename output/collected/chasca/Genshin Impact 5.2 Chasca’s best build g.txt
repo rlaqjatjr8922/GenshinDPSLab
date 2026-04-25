@@ -1,0 +1,128 @@
+Genshin Impact 5.2 Chasca’s best build guide, gear, and teammates | GosuGamers
+gosugamers
+gosuentertainment
+gosubattles
+Games
+Articles
+Tournaments
+Matches
+Rankings
+Home
+/
+All News
+Genshin Impact
+1 year ago
+Arianne "YanKu" Blanco
+Share
+{" "}
+Genshin Impact 5.2: Chasca’s best build guide, gear, and teammates
+Source: HoYoverse
+Genshin Impact Version 5.2 is here! And with this new update comes the long-awaited debut of Chasca.
+Chasca is a 5-star Anemo bow user who has come to breathe new life to the Anemo meta with her powerful and formidable kit. As a DPS, Chasca is capable of dealing massive damage with the help of Elemental Conversion.
+If you were lucky enough to get Chasca and are wondering how her kit works and how to build her, read on as we break down how to play her, and explain which gear and teammates she works best with!
+Chasca is a DPS character who focuses on dealing elemental damage based on her teammates' Swirl-able elements by converting her attacks. But besides taking advantage of the elements, Chasca is also capable of dishing out big Anemo DMG numbers.
+Chasca’s bread and butter is her skill,
+Spirit Reins, Shadow Hunt
+, which allows her to summon a massive hand cannon. Upon triggering her skill, Chasca will gain 80 Nightsoul points and enter the Nightsoul’s Blessing State.
+Chasca’s Nightsoul Blessing State will have the following effects:
+Chasca will mount her handcannon, the
+Soulsniper: Ritual Staff
+, and will gain increased movement speed and resistance to interruption. The amount of Nightsoul Points used during this state will depend if you sprint or raise yourself higher into the air, but Chasca will continuously consume Nightsoul Points to keep herself airborne.
+Chasca will be able to deploy
+Multitarget Fire
+in two ways, through tapping or holding.
+When you tap her skill, Chasca will deal Nightsoul-aligned Anemo DMG to opponents in front of her. The DMG will be considered Normal ATK DMG. When you hold her skill, Chasca will enter aiming mode, and will be able to target a certain number of opponents within a certain range. After doing so, 6
+Shadowhunt Shells
+will be loaded based on the duration of time taken when the skill was charged. After which, these Shells will be fired upon the chosen opponents in sequence.
+Chasca’s
+Shadowhunt Shells
+have unique mechanics, that being:
+The DMG dealt is considered Charged ATK DMG.
+The 4th, 5th, and 6th Shells that Casca will load will undergo Elemental Conversion based on the elemental types of her party members, mainly Pyro, Hydro, Cryo, and Electro. If these conditions have been met, one Shadowhunt Shell will be randomly converted to a
+Shining Shadowhunt Shell
+that can deal Nightsoul-aligned DMG corresponding to the Elemental Type. The Shells will come out in a “last in, first out” order.
+Chasca’s elemental burst,
+Soul Reaper’s Fatal Round
+on the other hand, will fire a single
+Galesplitting Soulseeker Shell
+that deals Nightsoul-aligned area-of-effect Anemo DMG. Afterwards, the Galesplitting Soulseeker Shell will split into 6 Soulseeker Shells that will attack nearby enemies.
+Similar to the Shadowunt Shells, the Soulseeker Shells will also undergo Elemental Conversion, with 2 of the 6 shells dealing Nightsoul-aligned Elemental DMG from a randomly selected Elemental Type within your party.
+Chasca’s 1st Ascension Passive
+Bullet Trick
+is designed to increase the damage of her skill if the party can fulfil the Elemental Conversion Type requirements (aka the party is comprised of different elements), the effects being:
+There is a chance to trigger
+Spiritbinding Conversion
+, which will cause the 3rd Shadowhunt Shell to be randomly converted into a Shining Shadowhunt Shell. Ratios for this are 33.3% for 1 variety, 66.7% for 2 varieties, and 100% for 3 varieties of Elemental Types.
+Each Elemental Type will provide Chasca with 1 stack of
+Spirit of the Radiant Shadow
+, which will increase the DMG of the Shadowhunt Shell by 15%/35%/65% and can stack a maximum of three times. This effect will last until the current Multitarget Fire ends.
+Chasca’s 4th Ascension Passive
+Intent to Cover
+will allow Chasca to fire a
+Burning Shadowhunt Shot
+whenever a party member triggers a Nightsoul Burst. The Burning Shadowhunt Shot will land on a nearby opponent, dealing Nightsoul-aligned Anemo DMG equal to 150% of a Shadowhunt Shell DMG. If the party is composed of different Elemental Types, the Burning Shadowhunt Shot will be converted. The DMG is considered as Charged ATK DMG.
+As such, your Talent levelling priority should be:
+Normal Attack, Skill,
+then
+Burst
+. Since Chasca relies on her Normal and Charged ATK multipliers, you can either upgrade her NA first, or equally upgrade her NA and Skill together. Although her burst is powerful, you can put it on the backburner as you max out her NA and Skill.
+Chasca also has the ability to restore Phlogiston to your party after defeating an enemy every 12s, thanks to her Utility Passive
+Mediation’s True Meaning
+, although this ability will have no effect in Domains, Trounce Domains, or the Spiral Abyss.
+Chasca’s best gear and teammates
+Weapons
+Chasca obviously works best with her signature 5-star bow
+Astral Vulture’s Crimson Plumage
+, which has a substat of 66.2% Crit DMG at max level, and a passive that can buff Chasca’s ATK% when triggering a Swirl reaction, along with her Charged ATK and Burst DMG when her team has 2 or more characters with a different element from her own.
+But if you’re not too keen on spending your hard-earned Primogems on this version’s weapon banners, you can instead go for bows with a Crit DMG or ATK% substat, as Chasca’s DMG will scale from those. Your options are:
+The First Great Magic (5-star Gacha) - Lyney’s BiS, has 66% Crit DMG at max lvl, and can increase Chasca’s movement speed.
+Aqua Simulacra (5-star Gacha) - Yelan’s BiS, has a whopping 88.2% Crit DMG increase at max lvl, and can buff Chasca’s DMG.
+Range Gauge (4-star Gacha) - will increase Chasca’s ATK% to 27.6% at max lvl, and provides her with an ATK% and Elemental DMG Bonus buff when she is healed.
+Hamayumi (4-star craftable) - a craftable bow from Inazuma, will provide 55.1% ATK% increase, and with max refinement can increase Charged ATK DMG substantially, but Chasca will need to have her energy full at all times.
+Chain Breaker (4-star craftable) - a craftable bow from Natlan, will provide 27.6% ATK% increase, as well as buff Chasca’s ATK% and Elemental Mastery when her team is comprised of members with differing Elemental Types.
+Artifacts
+Chasca can work well with a number of Artifacts that can focus on increasing her DPS. You can go for these options:
+Obsidian Codex - an artifact set designed for Natlan characters. The Obsidian Codex set at 2pc will increase DMG dealt by 15% while the equipping character is in the Nightsoul’s Blessing State, while the 4-pc set will increase Crit Rate by 40% for 6s when the equipping character consumes 1 nightsoul point. This effect can trigger once every second.
+Desert Pavilion Chronicle - provides a 15% Anemo DMG Bonus increase at 2pc, while the 4pc set will increase Normal Attack SPD by 10%, as well as providing a 40% DMG increase for Normal, Charded and Plunging ATK for a 15s duration.
+Wanderer’s Troupe - increases Elemental Mastery by 80 at 2pc, and at 4pc will increase Charged ATK DMG by 35% if the equipping character uses a Catalyst or Bow.
+Teammates
+Since Chasca’s kit relies on Elemental Type variety, it’s best to slot her in teams composed of support/subDPS characters that can provide off-field elemental application, buffs, and DMG. Your best options in this regard are characters like:
+Bennett - can provide a substantial ATK buff, Pyro application, and heals through his burst as a support.
+Furina - helps deal Hydro DMG through her skill, while providing massive buffs through her burst as a subDPS. This can be a little complicated for team compositions, as you will need a healer with an element that meets the Elemental Conversion requirements.
+Fischl - can provide off-field Electro application and secondary DMG as a subDPS.
+Yelan - can provide off-field Hydro application and secondary DMG as a subDPS.
+But you can experiment with a variety of elemental reaction DMG-based team compositions as well!
+Genshin Impact Version 5.2
+dropped on November 20 with
+Chasca and Lyney headlining the first half banner runs
+, as well as additional content with a new map expansion, a new boss, and an Archon Quest Interlude.
+Author
+Arianne "YanKu" Blanco
+Full time gamer, writer, and cat parent.
+Related Articles
+General
+HoYoverse unveils Snezhnaya as Genshin Impact's next major map expansion, launches in August
+General
+Lohen revealed as new playable character for Genshin Impact Version Luna VII
+General
+Genshin Impact unveils Nicole as next playable character for Version Luna VII
+General
+Genshin Impact Version Luna VI launches on 8 April–Linnea to debut with map expansion, and more
+General
+Genshin Impact reveals Linnea as next playable character
+General
+Genshin Impact Version Luna V Varka's best gear and team compositions
+Data will be updated soon
+Data will be updated soon
+Top headlines
+BetBoom Team, Aurora Gaming lead Playoff-qualified teams at PGL Wallachia Season 8
+Street Fighter 6 tweaks Alex dialogue after backlash over incest storyline
+Capcom reveals first look at new character Ingrid’s gameplay in Street Fighter 6, launching 28 May
+Crimson Desert’s newest patch adds difficulty settings, overhauls housing, and expands pets
+Assassin’s Creed Black Flag Resynced officially launches in July 2026, new trailer confirms
+MinD_ContRoL joins Indonesian Dota 2 team REKONIX as trial coach
+Top headlines
+Netflix announces original anime movie “The Ribbon Hero” for August 2026
+“The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat” returns in 2027
+"The Fragrant Flowers Bloom With Dignity" manga goes on three-week hiatus
+Romance manga “Glasses with a Chance of Delinquent” gets anime adaptation

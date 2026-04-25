@@ -1,0 +1,134 @@
+Want to see Raider King content first? Add us as a preferred source.
+Add as preferred source
+Follow on Google News
+Varesa
+Strength in Serenity
+“
+Maximum power!
+”
+Character Description
+Varesa is a 5-Star Electro Catalyst-user DPS character who specializes in Plunging Attacks.  As a member of the Collective of Plenty (on the tribe of Natlan) she has her own special exploration ability.  In her case, she can run quickly, long jump over terrain, and move across water and liquid Phlogiston.  This ability is accompanied by the rather amusing visual effect of spinning cartoon legs.
+Character Materials
+Talent Books: Conflict (9/63/114)(Wednesday/Saturday/Sunday)
+Local Specialty: Skysplit Gembloom (168)(Natlan: Atocpan)
+Monster Drops: Saurian Fangs (36/96/129)(Natlan Saurians)
+Regular Boss Drop: Sparkless Statue Core (46)(Lava Dragon Statue)
+Weekly Boss Drop: Eroded Scale-Feather (18)(Corrupted Dragon Boss)
+Character Abilities
+Normal Attack: By the Horns
+Normal Attack is a 3-hit combo, nothing special. Fiery Passion
+Charged Attack functions normally, however, after using it, Varesa will be launched into the air. This will allow her to use a Plunging Attack.
+Plunging Attack deals damage as normal but if she is in combat or if she hits an enemy with the Attack, she will gain 25 Nightsoul Points. The damage deal is Nightsoul-Aligned.
+As a catalyst-user, all of these Attacks deal Electro DMG. Her Normal, Charged, and Plunging Attacks will all increase in DMG when she’s in the Fiery Passion state (see Elemental Skill).
+Elemental Skill: Riding the Night-Rainbow
+This is a Tap or Hold Elemental Skill. It has a 9 second CD. It also has 2 Charges, and you will get an additional free use (doesn’t count as using a Charge) when Varesa enters the Fiery Passion state.
+Tap: Dash forward and deal Nightsoul-Aligned Electro DMG to enemies in her path. After using this Elemental Skill, she will gain 20 Nightsoul Points and the “Follow-Up Strike” effect. If Varesa is in the Fiery Passion state, the DMG of this Elemental Skill will be increased. The initial dash will generate 2 to 3 Particles when it hits an enemy.
+Follow-Up Strike: Varesa’s Interruption Resistance is increased and, when using a Normal Attack, she will instead unleash a Stamina-Free Charged Attack. This effect will be canceled after 5 seconds or after Varesa uses a Charged Attack.
+Hold: Enter the Nightsoul’s Blessing state and switch to Sudden Onrush mode.
+Sudden Onrush: This is her special movement ability which continuously consumes Nightsoul Points (. While in this state, she has increased Movement SPD and Interruption Resistance. She can use terrain to execute flying leaps (big, long jumps) and consume extra Nightsoul Points to run over water or liquid Phlogiston (without taking DMG).
+When Varesa is in either the Fiery Passion or Sudden Onrush state, she is considered to be in the Nightsoul’s Blessing state. When she runs out of Nightsoul Points, she will exit the Nightsoul’s Blessing state.
+Fiery Passion: When not in the Fiery Passion state, Varesa can use Plunging Attacks to gain Nightsoul Points. She will enter the Fiery Passion state when she reaches maximum Nightsoul Points (40). While in the Fiery Passion state, ALL of her abilities do more DMG and she will gain an additional Tap of her Elemental Skill. The Fiery Passion state lasts 15 seconds or until Varesa runs out of Nightsoul Points. It will also end if Varesa leaves combat for a period of time.
+Elemental Burst: Glory Vent!
+Costs 70 Energy and has a CD of 18 seconds.
+Varesa leaps into the air and unleashes a powerful flying kick, dealing Nightsoul-Aligned AoE Electro DMG to enemies hit. After using this Elemental Burst, Varesa’s Nightsoul Points will be restored to max, and she will enter the Fiery Passion state. If Varesa is already in the Fiery Passion state, the DMG dealt will be even greater. She will also activate Apex Drive after using a Plunging Attack while in the Fiery Passion state.
+Apex Drive: Increases Varesa Interruption Resistance. While affected by Apex Drive, Varesa can ignore her Elemental Burst’s CD and consume less Energy (only 30) to use a special Elemental Burst, “Guardian Vent: Volcano Kablam” which unleashes a Plunging Attack called “Thunderous Tornado Eruption”. Using this Special Elemental Burst, or using her Elemental Skill, will cause Varesa to exit Apex Drive.
+Ascension Passive 1: Tag-Team Triple Jump!
+After using her Elemental Skill, Varesa gains “Rainbow Crash” for 5 seconds. During this time, when Varesa uses a Plunging Attack, the shockwave DMG dealt when she hits the ground is increased. If she IS NOT in the Fiery Passion state, the DMG is increased by 50% of her ATK. If she IS in the Fiery Passion state, the DMG is increased by 180% of her ATK.
+This effect will be canceled once a ground impact hits an enemy or when its duration runs out.
+Ascension Passive 2: The Hero Twice-Returned!
+Varesa’s ATK is increased by 35% for 12 seconds after a nearby party member (including herself) triggers a Nightsoul Burst. This effect can stack 2 times and each stack’s duration is counted independently.
+Night Realm’s Gift: A Torch That Incinerates Evil
+Her Nightsoul’s Blessing state Talent. Lets her use Phlogiston when she’s out of Nightsoul Points. She can use Nightsoul Transmission when she is sprinting, using movement modes caused by certain Talents, or at a certain height in the air. Switching to Varesa will cause her to enter Sudden Onrush mode and obtain 20 Nightsoul Points. Also, while in areas with Phlogiston Mechanics (so all of Natlan), Varesa will not take Fall DMG when using terrain differences to make leaps.
+Utility Passive: Blazing Heart, Singular Advance!
+Varesa’s Sprint SPD is increased and, when she is not in combat, her Sprint Stamina consumption is also increased (
+that’s weird
+). Additionally, while in areas with Phlogiston Mechanics (Natlan), your party members will restore 20 Phlogiston when consuming food. This effect has a 10 second CD and doesn’t take effect in Domains, Trounce Domains, or Spiral Abyss.
+Constellations
+1: Undying Passion
+The effects of the Passive Talent “Tag-Team Triple Jump!” are enhanced.
+When “Rainbow Crash” is in effect, Varesa’s Plunging Attack impact DMG is always increased by 180% of her ATK, regardless of whether she is in the Fiery Passion state or not. And, when performing the Special Plunging Attack “Thunderous Tornado Eruption” (from her Special Elemental Burst), Varesa will also gain “Rainbow Crash” for 5 seconds. –
+Basically, just removes the limit on her Passive and makes her Special Burst do more DMG.
+Also, when in Sudden Onrush mode, Varesa consumes 30% less Nightsoul Points or Phlogiston. –
+As per usual
+.
+2: Beyond the Edge of Light
+Varesa will enter Apex Drive after using a Plunging Attack, regardless of whether she is in the Fiery Passion state or not. And, while Apex Drive is active, Varesa’s Interruption Resistance will be further increased. –
+Just chipping away at all the limits and mechanics, aren’t they?
+Additionally, Varesa will restore 11.5 Energy when her Plunging Attack ground impact hits an opponent. –
+Ok, that’s actually a little ridiculous.
+No CD on this effect?
+Seriously?!
+3: Unbowed Resolve
+Increase Elemental Burst level by 3.
+4: The Courage to Press On
+Depending on what state she is in, Varesa will gain different buffs when using her Elemental Burst.
+If NEITHER Fiery Passion or Apex Drive are active, she will gain Diligent Refinement for 15 seconds, which will increase her Plunging Attack ground impact DMG by 500% of her ATK (maximum increase of 20,000 DMG). This effect will be canceled once the ground impact hits an enemy or if its duration ends –
+So, more damage while she’s building up steam. I’m ok with that, actually.
+If EITHER Fiery Passion or Apex Drive are active, this instance of her Elemental Burst deals 100% increased DMG –
+Say hello to the new Electro nuke unit!
+5: Thoughts Floating on the Warm Breeze
+Increase Normal Attack level by 3.
+6: A Hero of Justice’s Triumph
+Varesa restores 30 Energy when she enters Apex Drive. –
+Means can use her Special Element Burst just by weaving in a Plunging Attack between uses.
+Her Plunging Attacks and Elemental Burst gain 10% CRIT Rate and 100% CRIT DMG. –
+Seriously? Like she does do enough DMG already?
+Additionally, when Varesa uses the Hold version of her Elemental Skill, or if she Taps her Elemental Skill while in the Sudden Onrush mode, she will restore Nightsoul Points up to her max.–
+So, she will never stop running. . .
+Gameplay Overview
+Ok, it’s perfectly understandable to be overwhelmed by the novel that is Varesa’s kit. Let’s see if we can break down a little bit.
+Her entire kit revolves around whether or not she is in the Fiery Passion state. When she’s NOT IN Fiery Passion, using Plunging Attacks will build Nightsoul Points. When she IS IN Fiery Passion, her abilities will all do increased DMG. Simple enough.
+So, what you want to do is, use a Charged Attack at the start of a fight. Doing so will send you into the air so you can do a Plunging Attack. That will give you 20 Nightsoul Points. Then you want to switch out, apply your other character’s buffs, and then switch back to Varesa. Now you can either use another Charged Attack into Plunging Attack combo or use your Elemental Skill. Either way, you’ll max out your Nightsoul Points and enter Fiery Passion.
+Now this is where things get weird. While in the Fiery Passion state, all your abilities do more damage, and you gain access to Varesa Special Elemental Burst. Effectively, your rotation becomes: Elemental Burst into Elemental Skill into Charged Attack into Plunging Attack. Repeat until you need to switch out to reapply buffs or the enemy is dead.
+That’s the order. Don’t deviate. Apart from that, the only thing you have to remember is that after using your Elemental Skill, all you have to do to unleash a Charged Attack is Tap the Normal Attack Button.
+Artifacts
+Best: Long Night’s Oath
+Best set for her. One could even say that it was made for her (because it was).
+Decent: Obsidian Codex
+While still an acceptable option, the difference between this set and Long Night’s is absurd. That said, this set gives CRIT Rate so it can provide more consistent CRITs, which is always a plus.
+Viable: Thundering Fury
+Not great but workable. Does about the same DMG as Obsidian but without the consistency of CRITs. Instead, it gives you more uses of her Elemental Skill so you can pump out more Stamina-Free Charged Attacks.
+Stats
+CRIT DMG:
+If you want to see her do big DMG, you need big CRIT DMG. Get a CRIT DMG Hat and as many Substats as you can.
+CRIT Rate:
+She has CRIT Rate as her Passive level up Stat. Since you won’t be using Codex, you’ll need some Substats. If you are really struggling, switch out the CRIT DMG Hat for CRIT Rate one. The quality of your CRITs will diminish but the quantity will increase.
+ATK:
+ATK Clock and some Substats if you can get them.
+Electro DMG:
+Electro DMG Cup.
+Energy Recharge:
+A few ER Substats wouldn’t be a bad thing. Unless you intend to get her to C6. If you do, then you won’t need ER.
+Weapons
+5-Star
+Best: Vivid Notions
+Best is an understatement. If you can get enough CRITs off, this weapon will clean up.
+Good: Kagura’s Verity
+Next best when you take into account how many Elemental Skills you’ll get off, even if the Plunging Attack DMG takes a bit of a hit.
+Decent: Memory of Dust
+Both with and without a Shield, this weapon does the next best DMG (assuming you reach 5 stacks of its buff, of course). If you happen to have one lying around and you don’t want to pull for Vivid Notions, you should still be good.
+Viable: Crane’s Echoing Call
+Not bad. The DMG is a little lacking but it can buff the whole party so it has some extra utility that the other options don’t.
+4-Star
+Best: Blackcliff Agate
+On paper, this does the best DMG. However, that DMG is dependent on having mooks to kill to keep the buff stacks active. Against fights with lots of adds, go for it. Against 1 on 1 bosses, pick something else.
+Good: Flowing Purity
+Good option. Requires slightly specific team build and at least 25,000 HP on Varesa to get the full effect but, if you can get it, then it will do acceptable DMG.
+Decent: Dodoco Tales
+If you want the bonus to Charged Attack, just weave in a few Normal Attacks every 6 seconds. That said, they aren’t necessary, and you can just rely on the ATK buff you get from performing Charged Attack to see you through.
+Viable: Mare Mappa
+Acceptable option but does require you to do several Elemental Reactions to first get and then maintain the buff.
+Teams
+Plunging Attack
+Pair her with Xianyun, a Natlan Support with Cinder (Iansan is probably the best), and Furina. Then smile to yourself as you smash enemies into oblivious with her butt.
+Overload
+Chevreuse/Varesa/Iansan and another Pyro or Electro Support of your choice (Mavuika or Shinobu are good options). There will, of course, be some chasing required with smaller enemies but that’s ok. Varesa is fast and Iansan encourages movement.
+Final Thoughts
+Varesa is. . . a lot to be perfectly honest. As the first 5-Star Plunging Attack DPS since Xiao, her execution of the mechanic is significantly better than his. That said, her kit can be a bit trick to wrap one’s head around, mostly because there’s just so much interaction between her various abilities.
+If you can manage to perfect her rotation, however, she does do ridiculous levels of DMG. I do find her, and by extension Iansan’s, exploration ability to be a little unimaginative. Yes, it makes sense but I kinda wish it wasn’t just SPD boosts and water running. Still, I’ll admit that while I wasn’t initially impressed with the Masters of the Night-Wind ability, I ended up using it quite often so I guess I should judge a book by its cover. All in all, Varesa is a great DPS. If you are looking for a strong Electro DPS, she’ll definitely get the job done. And, while I can understand why some might find her cartoonish animation off-putting, I rather like them. I think a lot of people will be pulling for Iansan more than her but, just know that, if you get her, you won’t be disappointed. Assuming you play her correctly, of course.
+jbdennis
+More Articles by jbdennis
+Related Posts:
+Genshin Impact: Materials Guide for Varesa
+Genshin Impact: First Day Guide to Mavuika
+Genshin Impact: First Day Guide to Citlali

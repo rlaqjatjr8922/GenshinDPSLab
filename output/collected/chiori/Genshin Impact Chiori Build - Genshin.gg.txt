@@ -1,0 +1,203 @@
+Genshin Impact Chiori Build
+Geo
+Sword
+Sub DPS
+Chiori Upgrade Materials
+Light
+Lightless Silk String
+Prithiva Topaz Sliver
+Dendrobium
+Spectral Husk
+Artificed Spare Clockwork Component — Coppelia
+Chiori Best Weapons
+1
+Uraku Misugiri
+2
+Harbinger of Dawn
+3
+Cinnabar Spindle
+R5
+4
+Wolf-Fang
+5
+Primordial Jade Cutter
+Chiori Best Artifacts
+1
+Golden Troupe
+4
+2
+Husk of Opulent Dreams
+4
+3
+Archaic Petra
+2
+Husk of Opulent Dreams
+2
+4
+Archaic Petra
+2
+Golden Troupe
+2
+5
+Noblesse Oblige
+4
+Chiori Best Stats
+Sands:
+DEF%
+Goblet:
+Geo DMG / DEF%
+Circlet:
+CRIT Rate / CRIT DMG / DEF%
+Substats:
+CRIT Rate / CRIT DMG > DEF% > ATK%
+Character Builds by Genshin Impact Helper →
+Showcase
+Teams
+Talents
+Passives
+Constellations
+Ascension
+Chiori Showcase
+Chiori video guide by
+Zy0x
+.
+Check out his content!
+Best Chiori Teams
+Itto Standard
+Navia Pyro
+Chiori Talents
+Normal Attack
+Weaving Blade
+Normal Attack Performs up to 4 rapid strikes. Charged Attack Consumes a certain amount of Stamina to unleash 2 rapid sword strikes. Plunging Attack Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Elemental Skill
+Fluttering Hasode
+Dashes nimbly forward with silken steps. Once this dash ends, Chiori will summon the automaton doll "Tamoto" beside her and sweep her blade upward, dealing AoE
+Geo
+DMG to nearby opponents based on her ATK and DEF. Holding the Skill will cause it to behave differently. Hold Enter Aiming Mode to adjust the dash direction. Tamoto Will slash at nearby opponents at intervals, dealing AoE
+Geo
+DMG based on Chiori's ATK and DEF. While active, if there are nearby
+Geo
+Construct(s) or
+Geo
+Construct(s) are created nearby, an additional Tamoto will be summoned next to your active character. Only 1 additional Tamoto can be summoned in this manner, and its duration is independently counted.
+Elemental Burst
+Hiyoku: Twin Blades
+Twin blades leave their sheaths as Chiori slices with the clean cuts of a master tailor, dealing AoE
+Geo
+DMG based on her ATK and DEF.
+Chiori Passives
+Ascension 1
+Tailor-Made
+Gain different effects depending on the next action you take within a short duration after using Fluttering Hasode's upward sweep. If you (Press/Tap) the Elemental Skill, you will trigger the Tapestry effect. If you (Press/Tap) your Normal Attack, the Tailoring effect will be triggered instead. Tapestry Switches to the next character in your roster. Grants all your party members "Seize the Moment": When your active party member's Normal Attacks, Charged Attacks, and Plunging Attacks hit a nearby opponent, "Tamoto" will execute a coordinated attack, dealing 100% of Fluttering Hasode's upward sweep DMG as AoE
+Geo
+DMG at the opponent's location. DMG dealt this way is considered Elemental Skill DMG. "Seize the Moment" lasts 8s, and 1 of "Tamoto"'s coordinated attack can be unleashed every 2s. 2 such coordinated attacks can occur per "Seize the Moment" effect duration. Tailoring Chiori gains
+Geo
+infusion for 5s. When on the field, if Chiori does not either (Press/Tap) her Elemental Skill or use a Normal Attack within a short time after using Fluttering Hasode's upward sweep, the Tailoring effect will be triggered by default.
+Ascension 4
+The Finishing Touch
+When a nearby party member creates a
+Geo
+Construct, Chiori will gain 20%
+Geo
+DMG Bonus for 20s.
+Passive
+Brocaded Collar's Beauteous Silhouette
+When any party member is wearing an outfit apart from their default outfit, or is wearing a wind glider other than the Wings of First Flight, your party members will obtain the Swift Stride effect: Movement SPD is increased by 10%. This effect does not take effect in Domains, Trounce Domains and the Spiral Abyss. Swift Stride does not stack.
+Chiori Constellations
+Constellation 1
+Six Paths of Sage Silkcraft
+The AoE of the automaton doll "Tamoto" summoned by Fluttering Hasode is increased by 50%. Additionally, if there is a
+Geo
+party member other than Chiori, Fluttering Hasode will trigger the following after the dash is completed: Summon an additional Tamoto. Only one additional Tamoto can exist at the same time, whether summoned by Chiori this way or through the presence of a
+Geo
+Construct. Triggers the Passive Talent "The Finishing Touch." This effect requires you to first unlock the Passive Talent "The Finishing Touch."
+Constellation 2
+In Five Colors Dyed
+For 10s after using Hiyoku: Twin Blades, a simplified automaton doll, "Kinu," will be summoned next to your active character every 3s. Kinu will attack nearby opponents, dealing AoE
+Geo
+DMG equivalent to 170% of Tamoto's DMG. DMG dealt this way is considered Elemental Skill DMG. Kinu will leave the field after 1 attack or after lasting 3s.
+Constellation 3
+Four Brocade Embellishments
+Increases the Level of Fluttering Hasode by 3. Maximum upgrade level is 15.
+Constellation 4
+A Tailor's Three Courtesies
+For 8s after triggering either follow-up effect of the Passive Talent "Tailor-Made," when your current active character's Normal, Charged, or Plunging Attacks hit a nearby opponent, a simplified automaton doll, "Kinu," will be summoned near this opponent. You can summon 1 Kinu every 1s in this way, and up to 3 Kinu may be summoned this way during each instance of "Tailor-Made"'s Seize the Moment or Tailoring effect. The above effect can be triggered up to once every 15s. Must unlock the Passive Talent "Tailor-Made" first.
+Constellation 5
+Two Silken Plumules
+Increases the Level of Hiyoku: Twin Blades by 3. Maximum upgrade level is 15.
+Constellation 6
+Sole Principle Pursuit
+After triggering a follow-up effect of the Passive Talent "Tailor-Made," Chiori's own Fluttering Hasode's CD is decreased by 12s. Must unlock the Passive "Tailor-Made" first. In addition, the DMG dealt by Chiori's own Normal Attacks is increased by an amount equal to 235% of her own DEF.
+Chiori Ascension Costs
+Rank
+Lvl
+Cost
+Material
+Material
+Material
+Material
+1
+20
+20000
+1
+Prithiva Topaz Sliver
+3
+Dendrobium
+3
+Spectral Husk
+2
+40
+40000
+3
+Prithiva Topaz Fragment
+2
+Artificed Spare Clockwork Component — Coppelia
+10
+Dendrobium
+15
+Spectral Husk
+3
+50
+60000
+6
+Prithiva Topaz Fragment
+4
+Artificed Spare Clockwork Component — Coppelia
+20
+Dendrobium
+12
+Spectral Heart
+4
+60
+80000
+3
+Prithiva Topaz Chunk
+8
+Artificed Spare Clockwork Component — Coppelia
+30
+Dendrobium
+18
+Spectral Heart
+5
+70
+100000
+6
+Prithiva Topaz Chunk
+12
+Artificed Spare Clockwork Component — Coppelia
+45
+Dendrobium
+12
+Spectral Nucleus
+6
+80
+120000
+6
+Prithiva Topaz Gemstone
+20
+Artificed Spare Clockwork Component — Coppelia
+60
+Dendrobium
+24
+Spectral Nucleus
+Loading...

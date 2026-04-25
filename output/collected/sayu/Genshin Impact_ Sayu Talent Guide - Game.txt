@@ -1,0 +1,97 @@
+Table of Contents
+[Hide]
+[Show]
+Combat Talents
++
+−
+Normal Attack – Shuumatsuban Ninja Blade
+Elemental Skill – Yoohoo Art: Fuuin Dash
+Elemental Burst – Yoohoo Art: Mujina Flurry
+Passive Talents
++
+−
+1st Ascension – Someone More Capable
+4th Ascension – No Work Today!
+Utility Passive – Yoohoo Art: Silencer’s Secret
+Combat Talent Materials
+Sayu returns for her sixth
+Genshin Impact
+limited event banner. As part of Version 4.0 Phase 2, Sayu has a boosted drop rate on both Zhongli and Tartaglia’s banners. She’s running with Freminet and Noelle, so you’re not guaranteed to get her.
+Genshin Impact: Sayu Ascension Guide
+|
+Genshin Impact: Sayu Constellation Guide
+|
+Genshin Impact: Tartaglia Talent Guide
+|
+Genshin Impact: Freminet Talent Guide
+Depending on how you want to use Sayu, her Talent priority switches between her Elemental Skill and Elemental Burst. For her Sub-DPS build, level up her Elemental Skill since most of her damage comes from that. For her Healer Support build, level up her Elemental Burst. For both builds, leave her Normal Attack for last.
+Combat Talents
+Normal Attack – Shuumatsuban Ninja Blade
+Sayu can perform up to 4 consecutive strikes. Her Charged Attack launches her into a spinning attack that drains stamina.
+Elemental Skill – Yoohoo Art: Fuuin Dash
+Sayu’s Elemental Skill has two modes: Press and Hold. Either way, upon activation, Sayu rolls into a ball and deals Anemo DMG to enemies. The Skill ends with a Fuufuu Whirlwind Kick.
+The Press Mode allows Sayu to enter the Fuufuu Windwheel state. She will roll forward a short distance before using the Fuufuu Whirlwind Kick.
+In Hold Mode, Sayu will roll around continuously in the Fuufuu Windwheel state. In this state, Sayu’s resistance to interruption is increased. You can control the direction of her roll and can use her Skill again to end her Windwheel state early. This will unleash a stronger version of the Fuufuu Whirlwind Kick. Hold Mode can trigger Elemental Absorption if Sayu comes into contact with Hydro, Pyro, Cryo, or Electro.
+The Skill has a maximum duration of 10 seconds and enters CD once it ends. The longer Sayu remains in her Windwheel state, the longer the CD. At most, the CD will be 11 seconds.
+Elemental Burst – Yoohoo Art: Mujina Flurry
+Sayu deals Anemo DMG to nearby enemies and heals all nearby party members based on Sayu’s ATK. She will also summon a Muji-Muji Daruma. At specific intervals, the Muji-Muji Daruma will either attack nearby opponents with Anemo DMG or heal the active character with the lowest percentage HP left. The healing will kick in if there are characters with 70% or less HP, or if there are no opponents near the Muji-Muji Daruma.
+Passive Talents
+1st Ascension – Someone More Capable
+When Sayu triggers a Swirl reaction while active, she heals all your characters and nearby allies for 300 HP. She will also heal an additional 1.2 HP for every point of Elemental Mastery she has. This can be triggered once every 2 seconds. After Sayu’s first Ascension, boosting her EM will help both her healing and her reaction damage.
+4th Ascension – No Work Today!
+This Passive adds two features to the Muji-Muji Daruma. First, the Daruma’s healing expands to characters near the character being healed. The healing is reduced to 20% of that amount of HP. Second, it increases the AoE of its attack against opponents.
+Utility Passive – Yoohoo Art: Silencer’s Secret
+When Sayu is part of your team, your characters will not startle Crystalflies and certain other animals when you get close to them. If you’re having trouble keeping up with your Condensed Resin, Sayu can help you collect Crystal Cores.
+Combat Talent Materials
+Remember, each Combat Talent can go up to Level 10. To triple crown a character, multiply all materials by three.
+Talent Level 2
+6 Whopperflower Nectar
+3 Teachings of Light
+12,500 Mora
+Talent Level 3
+3 Shimmering Nectar
+2 Guide to Light
+17,500 Mora
+Talent Level 4
+4 Shimmering Nectar
+4 Guide to Light
+25,000 Mora
+Talent Level 5
+6 Shimmering Nectar
+6 Guide to Light
+30,000 Mora
+Talent Level 6
+9 Shimmering Nectar
+9 Guide to Light
+37,500 Mora
+Talent Level 7
+4 Energy Nectar
+4 Philosophies of Light
+1 Gilded Scale
+120,000 Mora
+Talent Level 8
+6 Energy Nectar
+6 Philosophies of Light
+1 Gilded Scale
+260,000 Mora
+Talent Level 9
+9 Energy Nectar
+12 Philosophies of Light
+2 Gilded Scale
+450,000 Mora
+Talent Level 10
+12 Energy Nectar
+16 Philosophies of Light
+2 Gilded Scale
+1 Crown of Insight
+700,000 Mora
+Total Talent Materials
+6 Whopperflower Nectar
+22 Shimmering Nectar
+31 Energy Nectar
+3 Teachings of Light
+21 Guide to Light
+38 Philosophies of Light
+6 Gilded Scale
+1 Crown of Insight
+1,652,500 Mora

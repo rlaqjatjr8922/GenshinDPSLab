@@ -1,0 +1,206 @@
+Genshin Impact
+is an
+adventure
+RPG
+released by
+miHoyo
+in 2020. In a short period, the game has become one of the most successful adventures RPG titles ever to have been released.
+Venti
+is a playable Anemo Character in Genshin Impact. He is a free-spirited, wine-loving bard in Mondstadt and the current mortal vessel of Barbatos, the Anemo Archon. This guide will be looking into one of the most broken characters in Genshin Impact,
+Venti,
+and the best weapons, artifacts, and materials required for her ascension.
+Venti: Playstyle and skillset of the character
+Venti
+The character of Venti is a
+5* Anemo “Bow” wielding character
+and his constellation is “
+Carmen Dei
+”.
+NAME / DESCRIPTION
+TYPE
+Divine Marksmanship
+Normal Attack
+Perform up to 6 consecutive shots with a bow.
+Divine Marksmanship
+Charged Attack
+Perform a more precise
+Aimed Shot
+with increased DMG. While aiming, favorable winds will accumulate on the arrowhead. A fully charged wind arrow will deal with
+Anemo DMG
+.
+Divine Marksmanship
+Plunging Attack
+Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.
+Skyward Sonnet
+Elemental Skill
+O wind upon which all hymns and songs fly, bear these earth-walkers up into the sky!
+Press
+Summons a Wind Domain at the opponent’s location, dealing
+AoE Anemo DMG
+and launching opponents into the air.
+Hold
+Summons an even larger Wind Domain with Venti as the epicenter, dealing
+AoE Anemo DMG
+and launching affected opponents into the air. After unleashing the Hold version of this ability, Venti rides the wind into the air.   Opponents hit by Skyward Sonnet will fall to the ground slowly.
+Wind’s Grand Ode
+Elemental Burst
+Fires off an arrow made of countless coalesced winds, creating a huge Stormeye that sucks in opponents and deals continuous
+Anemo DMG
+.
+Elemental Absorption
+If the Stormeye comes into contact with
+Hydro
+/
+Pyro
+/
+Cryo
+/
+Electro
+, it will deal with additional elemental DMG of that type. Elemental Absorption may only occur once peruse.
+Venti’s Passive
+1
+st
+Ascension Passive – Embrace of Winds:
+Holding Skyward Sonnet creates an upcurrent that lasts for 20s.
+4
+th
+Ascension Passive – Stormeye:
+Regenerates 15 Energy for Venti after the effects of Wind’s Grand Ode end. If an Elemental Absorption occurred, this also restores 15 Energy to all characters of that corresponding element.
+Utility Passive – Windrider
+: Decreases gliding Stamina consumption for your own party members by 20%. Not stackable with Passive Talents that provide the exact same effects.
+Priority talent upgrade:EB > ES > AA
+Venti’s Constellations
+Level
+Name
+Effect
+1
+Splitting Gales
+Fires 2 additional arrows per Aimed Shot, each dealing 33% of the original arrow’s DMG.
+2
+Breeze of Reminiscence
+Skyward Sonnet decreases opponents’
+Anemo RES
+and Physical RES by 12% for 10s. Opponents launched by Skyward Sonnet suffer an additional 12%
+Anemo RES
+and Physical RES decrease while airborne.
+3
+Ode to Thousand Winds
+Increases the Level of Wind’s Grand Ode by 3. The maximum upgrade level is 15.
+4
+Hurricane of Freedom
+When Venti picks up an Elemental Orb or Particle, he receives a 25%
+Anemo DMG Bonus
+for 10s.
+5
+Concerto dal Cielo
+Increases the Level of Skyward Sonnet by 3. The maximum upgrade level is 15.
+6
+Storm of Defiance
+Targets who take DMG from Wind’s Grand Ode have their
+Anemo RES
+decreased by 20%. If an Elemental Absorption occurred, then their RES towards the corresponding Element is also decreased by 20%.
+Special Dish
+A Buoyant Breeze
+Each character in the Genshin Impact game will have a special Dish. Venti’s speciality dish is
+Barbatos Ratatouille
+. It decreases all-party members’ gliding and sprinting Stamina consumption by 25% for the 1800s. In Co-Op Mode, this effect only applies to your own character.
+Artifacts sets for Venti in Genshin Impact
+Viridescent venerer 4Pc ( Best) is the artifact to farm for Venti.
+Artifacts stats
+Artifact
+Main Stat
+Sub Stat
+Flower
+HP
+EM > CR > CD > ATK% > ER
+Plume
+ATK
+EM > CR > CD > ATK% > ER
+Sands
+EM
+EM > CR > CD > ATK% > ER
+Goblet
+Anemo DMG
+EM > CR > CD > ATK% > ER
+Circlet
+EM/CR/CD
+EM > CR > CD > ATK% > ER
+Try to keep the CR to CD ratio 1:2 for the best results possible.
+Materials required for ascension of Venti
+In this Genshin Impact Venti Guide, we will look at the materials required for the Ascension of Venti from
+level 1 to level 90.
+1x
+Vayuda turquoise Sliver
+168x
+Cecilia
+18x
+Slime Condensate
+30x
+Slime Secretions
+36x
+Slime Concentrate
+46x
+Hurricane Seed
+9x
+Vayuda turquoise Fragment
+9x
+Vayuda turquoise Chunks
+6x
+Vayuda turquoise Gemstones
+420,000
+Mora
+Experience
+414 hiso’s wit, 13 Adventurer’s XP, 22 Wanderers advice and 1,672,000 Mora
+Talent Upgrade Materials for Venti
+Material required for upgrading talents from level 1 to 10:-
+Multiply everything by 3 as we are providing materials required for 1 talent and there are a total of 3 talents.
+3x
+Teachings of Ballad
+21x
+Guide to Ballad
+38x
+Philosophies of Ballad
+6x
+Slime Condensate
+22x
+Slime Secretions
+31x
+Slime Concentrate
+6x
+Tail of Boreas
+1x
+Crown of Insight
+1,652,500
+Mora
+Best weapons for Venti in Genshin Impact
+Stringless (Better than R5 Harp)
+Windblume Ode (Better than R1 Harp)
+Elegy of the End
+Thundering Pulse
+Skyward Harp
+Alley Hunter
+Viridescent Hunt
+Blackcliff Warbow
+Related – Genshin Impact Guide: Where to find Sakura Bloom
+Did you like our guide on
+Venti
+in Genshin Impact? Let us know in the
+comments
+below.
+For more Mobile Gaming news and updates, join our
+WhatsApp group
+,
+Telegram Group
+,
+or
+Discord server
+. Also, follow us on
+Google News
+,
+Instagram
+, and
+Twitter
+for quick updates.
+Tags
+Gacha Games
+Genshin Impact

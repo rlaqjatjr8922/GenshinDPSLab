@@ -1,0 +1,123 @@
+Genshin Impact have new character today, she is courier of Komaniya Express from Inazuma: Kirara. She is rumored to be character with Geo element and bow as weapon, but later revised as cat girl with dendro element with sword as weapon.
+If you plan to build her, get ready to face Specter farming hell in Inazuma. Good luck to you, and for me too.
+Birthday
+January 22nd
+Title
+Gold Level Courier of the Komaniya Express
+Region
+Inazuma
+Vision
+Dendro
+Constellation
+Arcella
+Weapon
+Sword
+Best Kirara Build: Dedicated Shielder
+Kirara is shield support. During your run with her, most of the time you will just switch to Kirara, use her skill and burst if it’s ready, then switch back to your other character. It’s the same way when we are using Layla or Diona.
+When building Kirara, our focus will be on her Elemental Skill:
+Meow-teor Kick
+. One tap will make her leap and kick enemy in front of her and will generate dendro shield based on her max HP. Using hold will do the same but turned her into cat-box with increased speed movement and able to climb a wall, especially useful for exploration.
+Taking that into account. When raising her skill, Kirara telent priority will be like this:
+Talent Priority
+Elemental Skill > Elemental Burst > Normal Attack
+Building Kirara as dedicated shield means stacking as much HP as you can with exception of Energy Recharge stats. You can choose between using Energy Recharge Sand or Energy Recharge HP and go all the way with HP.
+Kirara Best Weapon
+Either go with Key of Khaj Nisut or any 4 star Energy Recharge sword.
+Key of Khaj Nisut: HP increased by
+20
+/
+25
+/
+30
+/
+35
+/
+40
+%. When an Elemental Skill hits opponents, you gain the Grand Hymn effect for 20s. This effect increases the equipping character’s Elemental Mastery by
+0.12
+/
+0.15
+/
+0.18
+/
+0.21
+/
+0.24
+% of their Max HP. This effect can trigger once every 0.3s. Max 3 stacks. When this effect gains 3 stacks, or when the third stack’s duration is refreshed, the Elemental Mastery of all nearby party members will be increased by
+0.2
+/
+0.25
+/
+0.3
+/
+0.35
+/
+0.4
+% of the equipping character’s max HP for 20s.
+Sapwood Blade: After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Consciousness will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character
+60
+/
+75
+/
+90
+/
+105
+/
+120
+Elemental Mastery for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field. The Leaf of Consciousness’ effect cannot stack.
+Festering Desire: Increases Elemental Skill DMG by
+16/20/24/28/32%
+, and Elemental Skill CRIT Rate by
+6/7,5/9/10,5/12%
+.
+Favonius Sword: CRIT hits have a
+60/70/80/90/100%
+chance to generate 1 Elemental Orb, which will regenerate 6 Energy for the character. Can only occur once every
+12/10.5/9/7.5/6
+s.
+Sacrificial Sword: After dealing damage to an opponent with an Elemental Skill, the skill has a
+40/50/60/70/80%
+chance to end its own CD. Can only occur once every
+30/26/22/18/14
+s.
+Kirara Best Artifact Sets
+Support character is the best paired with support type artifact. In this case,
+irvgame
+will only recommends using between 4 Deepwood Memories or 4 Noblesse Oblige. Use Deepwood if there’s no other character using the artifact. If you already have someone using 4 Deepwood, use 4 Noblesse on Kirara.
+4 Deepwood Memories
+(2)
+Dendro DMG Bonus +15%.
+(4)
+After Elemental Skills or Bursts hit opponents, the targets’ Dendro RES will be decreased by 30% for 8s. This effect can be triggered even if the equipping character is not on the field.
+OR
+4 Noblesse Oblige
+(2)
+Elemental Burst DMG +20%.
+(4)
+Using an Elemental Burst increases all party members’ ATK by 20% for 12s. This effect cannot stack.
+Recommended Stats and Substats
+HP taking priority on all stats. You can consider whether you need more Energy Recharge or not. As for CRIT Rate, recommended to get if you are using Favonius Sword which can be ER support for all party members.
+Sand
+Goblet
+Circlet
+*Energy Recharge%/HP%
+HP%
+*CRIT Rate/HP%
+Substats
+HP% > ER% > HP Flat > Crit Rate%
+Best Team for Kirara?
+Kirara is dendro shielder so Bloom and Quicken Aggravate Team will be the best for her. As for members, it’s depend on your own account.
+Bloom Team with Nilou. There’s no Bloom Team without Nilou.
+Nilou
+Xingqiu
+Kazuha
+Kirara
+Quicken Aggravate team with Keqing, or any electro DPS you want to use:
+Keqing
+Kirara
+Kazuha
+Fischl
+I personally start using her today for my
+Aggravate Keqing
+team (above). Usually, I’m using Nahida but since Kirara is new character I’m going to use her fully for exploration in the new region, Wohooo.
+Good luck!

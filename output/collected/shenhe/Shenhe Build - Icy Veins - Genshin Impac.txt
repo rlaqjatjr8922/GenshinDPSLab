@@ -1,0 +1,573 @@
+Home
+/
+Genshin Impact
+/
+Character List
+/
+Shenhe Build
+Shenhe Guide and Best Builds
+Shenhe is a 5 Star Cryo Polearm character, whose kit is mainly meant to
+purely support Cryo teams. She provides a very strong Flat DMG buff to Cryo
+Damage instances and otherwise buffs either Elemental Skill/Burst Damage or
+Normal/Charged/Plunging Attacks. She is a very strong pick to use with Cryo
+Main DPS characters, as the DMG bonus is quite substantial while also providing
+a good amount of energy to your DPS.
+Last updated
+on
+Sep 12, 2025
+at
+11:04
+by
+GxG Noir
+1 comment
+S
+Rank
+Cryo
+Element
+Polearm
+Weapon
+★
+★
+★
+★
+★
+Rarity
+Chelsea Kwoka
+EN Voice Actor
+Kawasumi Ayako
+JP Voice Actor
+Shenhe's Strengths & Weaknesses
+Strengths
+Amazing Cryo Support and Battery.
+Relative easy to build.
+Low field time requirement.
+Fixes some of the Single Target issues many Freeze comps have.
+Weaknesses
+Personal damage takes a lot of investment to scale high.
+Requires high amounts of Energy Recharge.
+Her supportive skills are less valuable at high target counts.
+Only works effectively in Cryo/Anemo teams for most part.
+1.
+Shenhe Support Build
+Shenhe's Support build is super straight forward. You want to keep uptime of
+your Burst high, so Energy Recharge is important, but other
+than that Shenhe solely focuses on building ATK %, which many characters
+usually tend to avoid. This means that picking up artifacts for Shenhe is
+easier, as she does not compete with other characters.
+BiS Weapon
+Calamity Queller
+Alternative Weapons
+Engulfing Lightning
+Vortex Vanquisher
+Skyward Spine
+Favonius Lance
+Primordial Jade Winged-Spear
+Lithic Spear
+(2 stacks minimum)
+Staff of Homa
+Wavebreaker's Fin
+Missive Windspear
+Prototype Starglitter
+Best Artifacts
+Noblesse Oblige
+Alternatively 2x 2p ATK % sets or 2p ATK % / Energy Recharge
+Main Stats
+Sand Stats
+: ATK % / Energy Recharge
+Goblet Stats
+: ATK %
+Circlet Stats
+: ATK % (CRIT Rate can contest if using
+Favonius Lance
+)
+Substat Priority
+Comfortable Energy Recharge (Team Dependent, explained below)
+ATK %
+CRIT Rate (With Favonius Lance)
+CRIT Rate/DMG
+Flat ATK
+Talent Priority
+Elemental Skill
+Elemental Burst
+Normal Attack
+Shenhe is a very simple character to gear. She wants ATK % as her Elemental Skill scales
+based on that. Energy Recharge should be prioritized to be
+able to burst and then she wants CRIT Rate /
+CRIT DMG, more so CRIT Rate if you use
+Favonius Lance
+on her. Since Shenhe is a Support, we utilize
+Noblesse Oblige
+to further boost her supportive side, especially
+since you want to get her Burst out to support your Cryo Main DPS.
+Her best weapon is
+Calamity Queller
+, which is also her signature
+weapon. It perfectly fits her playstyle and sports the highest base attack in
+the game together with
+Song of Broken Pines
+. The problem with this
+weapon is that it does not really fit any other character. Unless
+you want to really invest in Shenhe, it is better to go for a few of her other
+readily available weapons like
+Favonius Lance
+. The particles from
+this weapon are great, especially if they are used to funnel particles to other
+characters. It also helps with the your Energy Recharge requirements.
+On the topic of Energy Recharge, you want close to 190%-200% if your
+team consists of 2
+Cryo
+. A 3rd Cryo character will reduce
+the needs to about 170%. As with any Favonius weapons, they tend to reduce the
+requirement somewhere between 10% and 20%. Ultimately, these are just
+recommendations with team composition and the content you generally run
+changing this. Try different levels of Energy Recharge and see what you find
+comfortable to play with.
+2.
+Combos and How to Play Shenhe
+As a Support, the field time for Shenhe is rather short, as you would want
+to spend as much time as possible on your Main DPS. You swap in Shenhe for her
+Skill and Burst essentially, and potentially a melee attack or two in the case
+that you use
+Favonius Lance
+and have not triggered the effect after
+using your Skill/Burst.
+While Shenhe's Elemental Burst is a click and forget type of Burst, her
+Elemental Skill requires some consideration.
+Spring Spirit Summoning
+has both a Press and a Hold
+function. This changes the damage values of the second part of her
+Skill and also changes how the skill does damage. If you press the Skill, you
+dash forward, dealing damage in a line. If you Hold, then you trigger an AoE
+around you. Both methods deal Cryo DMG. Holding her Skill
+causes it to have a 5s longer duration and CD (10s vs 15s for both duration
+and CD).
+The second part is called
+Icy Quill
+which is a flat Cryo
+DMG buff based on Shenhe's Attack. This DMG buff can trigger 5 times if you
+pressed the Skill or 7 times if you held. Furthermore, her 2nd Ascension Talent
+Spirit Communion Seal
+increases your Skill and Burst DMG by
+15% for 10s when you press her Skill and increases the DMG of
+Normal/Charged/Plunging Attacks by 15% for 15s if you held her skill. These
+increases are party wide.
+The way the Flat Cryo DMG increase from
+Icy Quill
+works
+is that it applies the damage onto the base damage the Talent would do, before
+CRIT/other DMG bonuses are applied. So the order of operations would be
+Character's Total ATK times the Skill DMG % on the talent. Then the Icy Quill
+DMG bonus applies to this, which is based on Shenhe's
+total Attack times the Coefficient listed in her Elemental Skill Talent. Then
+CRIT is multiplied onto that if it iss a CRIT and finally other DMG Bonuses like
+Cryo DMG increases. Only Shenhe's Attack is used in this calculation, the
+CRIT/DMG bonus calculations are from the active character. The DMG bonus
+triggers on any source of Cryo DMG except Cryo Swirls.
+3.
+Shenhe's Best Team Comps
+Shenhe's main team compositions all surround
+Cryo
+-based
+reactions such as
+Freeze
+and
+Melt
+. With her supportive utilities increasing
+the DMG of Cryo DPS such as
+Ganyu
+and
+Ayaka
+.
+3.1.
+Shenhe Freeze Comps
+Main DPS
+Cryo Support
+Sub DPS
+Support
+Kamisato Ayaka
+Ganyu
+Kaedehara Kazuha
+Yelan
+Mona
+Sangonomiya Kokomi
+Escoffier
+This premier team uses 3 different components to deal high amounts of
+damage. We utilize
+Anemo
+to bunch up our targets and to
+potentially shred
+Cryo
+while also applying
+Hydro
+. This will trigger
+Freeze
+,
+locking your targets in place while triggering
+Blizzard Strayer
+'s
+4-piece effect. This will be used on the Main DPS. The main components are
+Shenhe and either
+Ayaka
+or
+Ganyu
+, while
+Sangonomiya Kokomi
+and
+Kazuha
+can be flexed.
+Mona
+is the typical Hydro replacement and
+Anemo can use
+Venti
+,
+Jean
+,
+Sucrose
+or
+Sayu
+.
+You can also use
+Escoffier
+and another
+Hydro
+character,
+like
+Yelan
+or
+Mona
+as shown above, since Escoffier prefers a team
+that consists of only
+Hydro
+/
+Cryo
+characters. This way,
+she provides a 55%
+Hydro
+/
+Cryo
+Res shred. She also heals,
+which subs out the need for Kokomi if you prefer to have some form of healing on the team.
+3.2.
+Shenhe Triple Cryo
+Main DPS
+Sub DPS
+Sub DPS
+Support
+Kamisato Ayaka
+Ganyu
+Kaedehara Kazuha
+Shenhe
+This team is used whenever you cannot reliably freeze your target.
+As with the first team listed,
+Kazuha
+is
+the best option to use, however loads of
+Anemo
+characters
+can be used.
+Jean
+and
+Sayu
+can both heal
+which can be a benefit. In this team,
+Ayaka
+is the Main DPS so
+Ganyu
+and Shenhe want to funnel their supportive DMG into her.
+The rotation to use here will differ slightly depending on which Anemo
+character you slot in, but you always want to start with Dashing on Ayaka to
+apply
+Cryo
+before
+swapping to Anemo to
+trigger
+Viridescent Venerer
+. Afterwards, swap to Shenhe to use her
+Burst and then press her Skill. Do the same for Ganyu before going into Ayaka
+to do a full rotation on her. After this you do a non-burst rotation,
+where you start on Anemo as Cryo should already have been applied.
+3.3.
+Double Cryo/Pyro Melt Comp
+Main DPS
+Sub DPS
+Sub DPS
+Support
+Ganyu
+Xiangling
+Bennett
+Shenhe
+This team is super simple and is a variation on other
+Ganyu
+Melt comps. Shenhe support's
+Ganyu's Charged Attacks and
+Bennett
+provides a Flat ATK
+buff to Ganyu and
+Xiangling
+while also providing particles for
+Xiangling. She in turn applies
+Pyro
+through her Elemental
+Burst, which you then trigger
+Melt
+off of with Ganyu.
+The rotation should be as follows.
+Spring Spirit Summoning
+Held
+Divine Maiden's Deliverance
+Fantastic Voyage
+Passion Overload
+Pyronado
+Guoba Attack
+Trail of the Qilin
+5x
+Charged Attack
+with Ganyu
+Trail of the Qilin
+1x
+Charged Attack
+with Ganyu
+Passion Overload
+3.4.
+Shenhe/Eula Superconduct Comp
+Main DPS
+Electro Driver
+Cryo Support
+Support
+Eula
+Raiden Shogun
+Shenhe
+Zhongli
+The star of this team is
+Eula
+, as the entire team revolves
+around buffing her burst as much as possible. This is done through Shenhe's Skill,
+Raiden Shogun
+'s Skill and the Artifact set that
+Zhongli
+usually runs,
+Tenacity of the Millelith
+. Furthermore,
+Superconduct
+reduces the DEF of the targets hits, further increasing the damage of Eula's burst.
+If you want to look more into how to play
+Eula
+, head over to her guide.
+4.
+Shenhe's Ascensions, Talents and Constellations
+Shenhe's Ascensions
+Shenhe's Talents
+Shenhe's Constellations
+4.1.
+Shenhe's Ascension Passives and Materials
+Unlock
+Ascension Passive
+Explanation
+With Character
+Precise Comings and Goings
+Gain 25% more rewards when dispatched on a Liyue Expedition
+     for 20 hours.
+1st Ascension
+Deific Embrace
+An active character within the field created by
+Divine Maiden's Deliverance
+gains a 15%
+    Cryo DMG Bonus.
+4th Ascension
+Spirit Communion Seal
+After Shenhe uses
+Spring Spirit Summoning
+, she will
+      grant all nearby party members the following effects, depending on whether
+      the skill was pressed or held.
+Pressed - Elemental Skill and Elemental Burst DMG increased by 15% for 10s.
+Held - Normal, Charged and Plunging Attack DMG increased by 15% for 15s.
+Shenhe requires a range of materials to ascend to the 6th ascension.
+Starting from the second ascension she gains additional ATK % as her
+bonus stat giving a total of 28.8 increased ATK % at the final ascension.
+The total cost to upgrade all ascensions is:
+Source
+Quantity
+Mora
+420,000 Mora
+Boss Material
+46x
+Dragonheir's False Fin
+Ascension Material
+1x
+Shivada Jade Sliver
+9x
+Shivada Jade Fragment
+9x
+Shivada Jade Chunk
+6x
+Shivada Jade Gemstone
+Local Specialty
+168x
+Qingxin
+Enhancement Material
+18x
+Whopperflower Nectar
+30x
+Shimmering Nectar
+36x
+Energy Nectar
+4.2.
+Shenhe's Talents
+Listed below is each talent and a brief explanation of how they work.
+Type
+Talent Name
+Brief Explanation
+Normal
+Dawnstar Piercer
+Regular Normal Attack setup with 5 consecutive hits. Charged Attack
+     is a lunge attack, akin to many other Polearm users.
+Elemental Skill
+Spring Spirit Summoning
+Provides nearby Party Members with
+Icy Quill
+and
+      deals Cryo DMG in two different ways, depending on
+      whether the skill was pressed or held.
+Pressed - Rush Forward dealing Cryo DMG along the path traveled.
+Held - Deals AoE Cryo DMG.
+Icy Quill
+: Characters affected by Icy Quill will
+      have their Normal, Charged and Plunging Attacks, Elemental Skills and
+      Bursts DMG increased if they deal Cryo DMG. The damage increase is a flat
+      bonus based on Shenhe's ATK.
+Icy Quill
+lasts for 10/15 seconds and can only
+      trigger 5/7 times, depending on whether the skill was pressed/held
+      (Held lasts longer and can trigger more times).
+Elemental Burst
+Divine Maiden's Deliverance
+Deals AoE
+Cryo
+DMG and creates a field that reduces
+    Cryo and
+Physical
+RES of opponents within. The field also
+    does periodic damage. Lasts for 12 seconds.
+To upgrade a single talent to level 10, it costs:
+Source
+Quantity
+Mora
+1,625,500 Mora
+Special Material
+1x
+Crown of Insight
+Boss Material
+6x
+Hellfire Butterfly
+Domain Material
+3x
+Teachings of Prosperity
+21x
+Guide to Prosperity
+38x
+Philosophies of Prosperity
+Enhancement Material
+6x
+Whopperflower Nectar
+22x
+Shimmering Nectar
+31x
+Energy Nectar
+5.
+Shenhe's Constellations
+Shenhe's constellations are pretty straight forward. They are not needed
+but they do make her supportive skills stronger.
+Centered Spirit
+(C2) is the most notable one, which makes her
+burst last much longer and also give additional Cryo CRIT DMG. This is very
+beneficial as most Cryo based teams gain a lot of free CRIT Rate.
+Mystical Abandon
+(C6) is notable too, although expensive,
+especially when used with
+Ayaka
+, as she want to use her
+Normal/Charged Attacks after her burst.
+Constellation
+Name
+Explanation
+1
+Clarity of Heart
+Spring Spirit Summoning
+gains a second charge.
+2
+Centered Spirit
+Divine Maiden's Deliverance
+lasts for 6 seconds longer.
+Active chracters within the Field created by
+Divine Maiden's Deliverance
+, deal 15% increased Cryo CRIT DMG.
+3
+Seclusion
+Increases the Level of
+Spring Spirit Summoning
+by 3.
+Maximum upgrade level is 15.
+4
+Insight
+When characters under the effect of
+Icy Quill
+triggers its damage effect, Shenhe will gain a Skyfrost Mantra
+      stack.
+Spring Spirit Summoning
+consumes these stacks,
+        increasing the damage by 5% for each stack consumed.
+Stacks last for 60 seconds and can accumulate 50 stacks total.
+5
+Divine Attainment
+Increases the Level of
+Divine Maiden's Deliverance
+by 3.
+Maximum upgrade level is 15.
+6
+Mystical Abandon
+When characters trigger
+Icy Quill
+'s effects with Normal
+    and Charged Attacks, it won't count towards the total number of triggers.
+Changelog
+31 Jul. 2025:
+Reviewed for patch 5.8, weapon rankings updated
+08 May 2025:
+Reviewed for patch 5.6
+17 Feb. 2025:
+Reviewed for patch 5.4
+05 Jan. 2025:
+Reviewed for 5.3
+09 Sep. 2024:
+Additional Team comp added.
+17 Jan. 2024:
+Guide added.
+Show more
+Show less
+Need any help? Check out our
+General Discussion Forum
+!
+1 comment
+In The Same Category
+Eula Best Builds Guide
+Escoffier Team Guide
+Lohen Profile & Talents
+Skirk Profile & Talents
+Chongyun Best Builds Guide
+Rosaria Best Builds Guide
+Aloy Best Builds Guide
+Mika Best Builds Guide
+Citlali Best Builds Guide
+Kaeya Best Builds Guide
+Wriothesley Best Builds Guide
+Charlotte Best Builds Guide
+ABOUT THE AUTHOR
+GxG Noir has been traversing the world of Teyvat since patch 1.1. 
+        He has a passion for doing calculations and theorycrafting, especially on 
+        some of the more underrated characters. You can find him on
+YouTube
+as well as
+Discord
+.
+SUPPORT OUR WRITERS

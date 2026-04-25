@@ -1,0 +1,211 @@
+Walkthroughs
+Genshin Impact Ningguang Guide - best build, strengths and weaknesses
+All you need to know about Ningguang
+By
+Bryan Taylor
+|
+Aug 31, 2021
+iOS
++
+Android
+|
+Genshin Impact
+Prefer Pocket Gamer on Google
+X
+Facebook
+Reddit
+Welcome to Pocket Gamer's detailed
+Genshin Impact Ningguang guide
+! Ningguang is the Tianguan of the Liyue Qixing and is as wealthy as she is beautiful. She resides in the floating Jade Chamber high above Liyue. Ningguang is a businesswoman and will do whatever it takes to accumulate more wealth.
+Don’t let her serious demeanour fool you, as she means well, and will go out of her way to care for the residents of Liyue. In the
+Ningguang guide
+below you will find the following features:
+General Info & how to get Ningguang
+Strengths & Weaknesses
+Best Build (Artifacts & Weapons
+)
+Best Party Members for Ningguang
+Talents / Skills / Passive
+Talent Leveling Materials
+Constellations
+Ascensions costs
+Ningguang Wishes / Availability
+Character Appearance
+Ningguang Element / Tier / Rarity / Weapon
+Geo / A Tier / 4* Rarity / Catalyst
+In Genshin Impact, Ningguang uses her Geo powers to provide a shield to help protect her in dire situations. She is good not only at ranged fighting but can use her shield to move in close and do serious Geo damage.
+How to get Ningguang
+You can obtain Ningguang in the permanent banner, Wanderlust Invocation.
+Genshin Impact Ningguang Combat Info (Strengths and Weaknesses)
+Strengths
+Can be great as a ranged fighter
+Ningguang’s shield offers protection against any ranged attacks
+Weaknesses
+A bit slower than others
+Her Normal attack isn’t good for groups of enemies
+Here are
+some
+Genshin Impact codes
+as a thank you for reading this!
+Best Build for Ningguang in Genshin Impact
+Ningguang can be a great DPS if you equip her with the right gear. Go with the Memory of Dust weapon to increase her shield strength and ATK power when she attacks, even more so when the shield is active. Pair her with the Gladiator’s Finale and Archaic Petra to boost her ATK and Geo damage even more.
+Ningguang - Best Artifacts and Weapons
+Gladiator’s Finale
+ATK% / Geo DMG / CRIT DMG
+Set Bonuses:
+(2) ATK + 18%
+How to Obtain:
+Farming Anemo, Electro, and Geo Hypostases. Also, Andrius, Dvalin, and the Pyro and Cryo Regisvines.
+Archaic Petra
+ATK% / Geo DMG / CRIT DMG
+Set Bonuses:
+(2) Gain a 15% Geo DMG Bonus
+How to Obtain:
+Guyun Domain reward
+Memory of Dust
+Base Attack:
+48
+Rating:
+5*
+Bonus Effect:
+ATK 10.8%
+Skill: Golden Majesty
+Increases Shield Strength by 20%. Scoring hits on opponents increases ATK by 4% for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%
+How to Obtain:
+Gacha
+Best Party Members to match Ningguang with in Genshin Impact
+Premium (Gacha) Team
+In Genshin Impact, Ningguang is a pretty good DPS that can bolster damage with her shield from any distance. To get the most out of her, it’s wise to focus on her charged attacks. Use Zhongli to bring another shield into the fray, and also boost Geo Resonance. Xingqiu can help back up Ningguang with his Elemental attacks, as Ningguang mostly focuses on non-elemental attacks.
+Bennett
+is a great team member to heal Ningguang and boost her damage output.
+F2P Team
+Ningguang will be the DPS here, and
+Amber
+can offer an opportunity to keep enemies at a distance with her decoy skill.
+Barbara
+is a great choice for healing here, and Noelle can not only offer more shields but can help charge up Ningguang’s abilities with her additional energy.
+Talents / Skills / Passive
+Sparkling Scatter - Normal Attack
+Normal Attack:
+Shoots gems that deal Geo DMG. Upon hit, this grants Ningguang 1 Star Jade.
+Charged Attack:
+Consumes a certain amount of Stamina to fire off a giant gem that deals Geo DMG.
+If Ningguang has any Star Jades, unleashing a Charged Attack will cause the Star Jades to be fired at the enemy as well, dealing additional DMG.
+Plunging Attack:
+Gathering the might of Geo, Ningguang plunges towards the ground from mid-air, damaging all enemies in her path. Deals AoE Geo DMG upon impact with the ground.
+Skill Attributes:
+1-Hit DMG
+28%
+Charged Attack DMG
+- 174%
+DMG per Star Jade
+- 49.6%
+Charged Attack Stamina Cost
+- 50
+Plunge DMG
+- 56.8%
+Low/High Plunge DMG
+- 114%/142%
+Jade Screen - Elemental Skill
+Ningguang creates a Jade Screen out of gold, obsidian, and her great opulence, dealing AoE Geo DMG.
+Jade Screen
+Blocks enemy projectiles
+Endurance scales based on Ningguang's Max HP
+Jade Screen is considered a Geo Construct and can be used to block certain attacks, but cannot be climbed. Only one Jade Screen may exist at any one time.
+Inherited HP
+- 50.1%
+Skill DMG
+- 230%
+CD
+12s
+Starshatter - Elemental Burst
+Gathering a great number of gems, Ningguang scatters them all at once, sending homing projectiles at her enemies that deal massive Geo DMG. If Starshatter is cast when a Jade Screen is nearby, the Jade Screen will fire additional gem projectiles at the same time.
+Skill Attributes
+DMG Per Gem
+- 87%
+CD
+- 12.0s
+Energy Cost
+- 40
+Backup Plan - 1st Ascension Passive
+When Ningguang is in possession of Star Jades, her Charged Attack does not consume Stamina.
+Strategic Reserve - 4th Ascension Passive
+A character that passes through the Jade Screen will gain a 12% Geo DMG Bonus for 10s.
+Trove of Marvelous Treasures - Unlocked Automatically
+Displays the location of nearby ore veins (Iron Ore, White Iron Ore, Crystal Ore, Magical Crystal Ore, and Starsilver) on the mini-map.
+Talent Leveling Materials
+Gained from Enemy Drops (Fatui):
+Recruit's Insignia
+Sergeant's Insignia
+Lieutenant's Insignia
+Acquired from Domains (Monday/Thursday/Sunday):
+Teachings of Prosperity
+Guide to Prosperity
+Philosophies of Prosperity
+Obtained after defeating Bosses (Lupus Boreas Challenge):
+Spirit Locket of Boreas
+Constellations
+Piercing Fragments
+When a Normal Attack hits, it deals AoE DMG.
+Shock Effect
+When Jade Screen is shattered, its CD will reset. Can occur every 6s.
+Majesty be the Array of Stars
+Increases the Level of Starshatter by 3. Maximum upgrade level is 15.
+Exquisite be the Jade, Outshining All Beneath
+Jade Screen increases nearby characters' Elemental RES by 10%.
+Invincible be the Jade Screen
+Increases the Level of Jade Screen by 3. Maximum upgrade level is 15.
+Grandeur be the Seven Stars
+When Starshatter is used, Ningguang gains 7 Star Jades.
+Genshin Impact Ningguang Ascensions costs
+Phase 1
+Lv.20→Lv.40
+Mora Cost: 20,000
+Glaze Lily ×3
+Prithiva Topaz Sliver ×1
+Recruit's Insignia ×3
+Phase 2
+Lv.40→Lv.50
+Glaze Lily ×10
+Prithiva Topaz Fragment ×3
+Recruit's Insignia ×15
+Basalt Pillar ×2
+Phase 3
+Lv.50→Lv.60
+Mora Cost: 60,000
+Glaze Lily ×20
+Prithiva Topaz Fragment ×6
+Sergeant's Insignia ×12
+Basalt Pillar ×4
+Phase 4
+Lv.60→Lv.70
+Mora Cost: 80,000
+Glaze Lily ×20
+Prithiva Topaz Chunk ×3
+Sergeant's Insignia ×18
+Basalt Pillar ×8
+Phase 5
+Lv.70→Lv.80
+Mora Cost: 100,000
+Glaze Lily ×45
+Prithiva Topaz Chunk ×6
+Lieutenant's Insignia ×12
+Basalt Pillar ×12
+Phase 6 (MAX)
+Lv.80→Lv.90
+Mora Cost: 120,000
+Glaze Lily ×60
+Prithiva Topaz Gemstone ×6
+Lieutenant's Insignia ×24
+Basalt Pillar ×20
+Base Stats
+At Level 1, Ningguang starts with 821 HP, 18 ATK, and 48 DEF.
+Wishes / Availability
+Ningguang can be received at the regular rate in the Wanderlust Invocation Standard Wish, which is always available.
+We also have a
+Genshin Impact tier list
+if you want to check how well Ningguang performs in comparison to other characters! Also, stay aware, soon enough we plan to make a Genshin Impact characters hub with all of the available characters and their detailed guides!
+Bryan Taylor
+Bryan has a passion for writing and has been gaming since the 80s. His favourite games include Super Metroid, Chrono Trigger, and Rez, and he joins us bringing his vast knowledge of games to the team.
+Next Up :
+Dicero beginner's guide - 5 tips for mastering the dice

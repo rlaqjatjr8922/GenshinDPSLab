@@ -1,0 +1,193 @@
+Genshin Impact
+is an
+adventure
+RPG
+released by
+miHoyo
+in 2020. In a short period, the game has become one of the most successful adventures RPG titles ever to have been released.
+Kaeya
+Alberich, the Cavalry Captain of the Knights of Favonius is a starter character in Genshin Impact. Even though players get him for free, he is one of the best characters and relatively easy to build. In this guide, we will tell you everything about Kaeya in Genshin Impact, discussing his talents, passive skills, best weapons, and artifacts along with the required ascension materials.
+Kaeya: Playstyle and skillset of the character
+Kaeya
+The character of Kaeya is a 4 star Cryo sword-wielding character who is held in high regard by the people of Mondstadt.
+NAME / DESCRIPTION
+TYPE
+Ceremonial Bladework
+Normal Attack
+Perform up to 5 rapid strikes.
+Ceremonial Bladework
+Charged Attack
+Consumes a certain amount of Stamina to unleash 2 rapid sword strikes.
+Ceremonial Bladework
+Plunging Attack
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Frostgnaw
+Elemental Skill
+Unleashes a frigid blast, dealing Cryo DMG to opponents in front of Kaeya.
+Glacial Waltz
+Elemental Burst
+Coalescing the frost in the air, Kaeya summons 3 icicles that revolve around him.   These icicles will follow the character around and deal Cryo DMG to opponents in their path for the ability’s duration.
+Kaeya’s Passive
+1st Ascension:
+Every hit with Frostgnaw regenerates HP for Kaeya equal to 15% of his ATK.
+4th Ascension:
+Opponents Frozen by Frostgnaw will drop additional Elemental Particles.
+Frostgnaw may only produce a maximum of 2 additional Elemental Particles peruse.
+Utility Passive:
+Decreases sprinting Stamina consumption of your characters in the party by 20%.Not stackable with passive talents that provide the exact same effects.
+Kaeya’s Constellations
+Level
+Name
+Effects
+1
+Excellent Blood
+The CRIT Rate of Kaeya’s Normal and Charge Attacks against opponents affected by Cryo is increased by 15%.
+2
+Never-Ending Performance
+Every time Glacial Waltz defeats an opponent during its duration, its duration is increased by 2.5s, up to a maximum of 15s.
+3
+Dance of Frost
+Increases the Level of Frostgnaw by 3. The maximum upgrade level is 15.
+4
+Frozen Kiss
+Triggers automatically when Kaeya’s HP falls below 20%: Creates a shield that absorbs damage equal to 30% of Kaeya’s Max HP. Lasts for the 20s. This shield absorbs Cryo DMG with 250% efficiency. Can only occur once every 60s.
+5
+Frostbiting Embrace
+Increases the Level of Glacial Waltz by 3. The maximum upgrade level is 15.
+6
+Glacial Whirlwind
+Glacial Waltz will generate 1 additional icicle and will regenerate 15 Energy when cast.
+For Kaeya the most important constellation that increases his damage potential is C2, C6. C1 is a high-value constellation for the main DPS Kaeya.
+Special dish
+chewy skewer
+Each character in the Genshin Impact game will have a special dish.
+A chewy skewer with a rich sweet aftertaste
+is Kaeya’s Speciality.
+Sets to farm for Kaeya in Genshin Impact
+For the main DPS 4 PC, Blizzard Strayer is a no-brainer. The set ensures an increase in cryo damage and up to 40% increase in crit rate which allows players to invest heavily in crit damage.
+For sub-DPS Kaeya 2 pc Noblesse paired with 2 pc, Blizzard Strayer is one of the best options while the 4 pc Emblem of severed fate and 2 pc Blizzard Strayer, 2 pc Gladiators Finale/ Shimenawa’s Reminiscence are the other two viable options.
+Artifacts stats
+Artifact
+Main stat
+Sub Stat Priority
+Flower
+HP
+Crit Damage > ATK% > Crit Rate > Energy Recharge [ Main DPS] Or Energy Recharge >Crit Rate, Crit Damage > ATK% > Elemental Mastery
+Plume
+ATK
+Crit Damage > ATK% > Crit Rate > Energy Recharge [ Main DPS] Or Energy Recharge >Crit Rate, Crit Damage > ATK% > Elemental Mastery
+Sands
+ATK%
+Crit Damage > ATK% > Crit Rate > Energy Recharge [ Main DPS] Or Energy Recharge >Crit Rate, Crit Damage > ATK% > Elemental Mastery
+Goblet
+Cryo Damage Bonus Or ATK%
+Crit Damage > ATK% > Crit Rate > Energy Recharge [ Main DPS] Or Energy Recharge >Crit Rate, Crit Damage > ATK% > Elemental Mastery
+Circlet
+Crit Damage [ Main DPS] Or Crit Rate / Crit Damage [Depending upon substats for Support build]
+Crit Damage > ATK% > Crit Rate > Energy Recharge [ Main DPS] Or Energy Recharge >Crit Rate, Crit Damage > ATK% > Elemental Mastery
+Best Builds for Kaeya
+Kaeya with his high scaling elemental skill and high burst uptime paired with his energy recharge ascension stat is suited for main DPS and sub DPS roles.
+Talent Priority
+Main DPS : Elemental Burst > Normal Attack > Elemental Skill
+Sub DPS : Elemental Burst > Elemental Skill > Normal Attack
+Materials required for ascension of Kaeya
+The materials needed to In this Genshin Impact Kaeya Guide, we will look at the materials required for the Ascension of Kaeya from
+level 1 to level 90.
+1x
+Shivada Jade Silver
+9x
+Shivada Jade Fragment
+9x
+Shivada Jade Chunk
+6x
+Shivada Jade Gemstone
+46x
+Hoarfrost Core
+168x
+Calla Lily
+18x
+Treasure Hoarder Insignia
+30x
+Silver Raven Insignia
+36x
+Golden Raven Insignia
+420,000x
+Mora
+Experience
+414 Hero’s wit, 13 Adventurer’s XP, 22 Wanderers advice
+Talent Upgrade Materials for Kaeya
+The following materials are required to level up 1 talent upto level 10.
+3x
+Teachings of Ballad
+21x
+Guide to Ballad
+38x
+Philosophies of Ballad
+6x
+Treasure Hoarder Insignia
+22x
+Silver Raven Insignia
+31x
+Golden Raven Insignia
+6x
+Spirit Locket of Boreas
+1x
+Crown of Insight
+1,652,500x
+Mora
+Best weapons for Kaeya in Genshin Impact
+For main DPS Mistsplitter Reforged,
+Summit Shaper
+is the best 5-star option and
+Blackcliff Longsword
+, The Flute are both good options but since Blackcliff Longsword provides Crit Damage as it’s secondary it can help Kaeya because the main DPS Kaeya running 4 pc Blizzard Strayer and using Cryo resonance has a very high crit rate and to consistently deal higher damage it is better to build Crit damage with Blackcliff.
+For sub-DPS Kaeya Mistsplitter Reforged, Primordial Jade Cutter is the best 5-star option. Among the 4 stars Blackcliff Longsword, Lions Roar and the flute are the best. Flute and Lion’s roar both provide attack buff and have decent passive. Lions roar out damages Flute when constant reactions are triggered.
+Best Team Comps
+Kaeya is a flexible character who performs various functions based on the requirements of the team. He can be used as a physical or a cryo DPS but he does a better job working as a Cryo DPS since most of his damage comes from his cryo-based skill and burst. To get the maximum damage output from a Cryo Kaeya it is recommended to run him in a Perma freeze team. The team comp is
+Kaeya,
+Chongyun
+/
+Rosaria
+,
+Mona
+/
+Xingqiu
+,
+and a healer preferably
+Bennet
+or
+Jean
+.
+Kaeya also serves as a sub-DPS and does well in the reverse melt or vapemelt team. An example of this is pairing him with
+Xiangling
+or
+Hu Tao
+for continuous cryo application. This role is generally donned by Rosaria but Kaeya has a higher damage potential with his burst and since the burst moves with the on-field character he can prove to be useful in more situations.
+Kaeya also slots in well in a quick swap team where when out of energy he can use his skill to dish out high damage especially when a reaction occurs and on gaining energy quickly activate his burst and tag other characters.
+How to obtain Kaeya
+Kaeya is unlocked for free in the
+Prologue, Act I: The Outlander Who Caught the Wind during the quest Crash Course
+. He is also available in the shop, Paimon’s Bargains for 34 Starglitter. Being a starter character he has never been added to the limited banner as a rate up character and is rather available in the standard banner.
+Related – Genshin Impact Aloy Guide: Best weapons, artifacts and materials required for ascension
+Did you like our guide on
+Kaeya
+in Genshin Impact? Let us know in the
+comments
+below.
+For more Mobile Gaming news and updates, join our
+WhatsApp group
+,
+Telegram Group
+,
+or
+Discord server
+. Also, follow us on
+Google News
+,
+Instagram
+, and
+Twitter
+for quick updates.
+Tags
+Gacha Games
+Genshin Impact

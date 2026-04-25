@@ -1,0 +1,196 @@
+Genshin Impact Fischl Build
+Electro
+Bow
+Sub DPS
+Fischl Upgrade Materials
+Ballad
+Spirit Locket of Boreas
+Vajrada Amethyst Sliver
+Lightning Prism
+Small Lamp Grass
+Firm Arrowhead
+Fischl Best Weapons
+1
+The Daybreak Chronicles
+2
+Polar Star
+3
+Aqua Simulacra
+4
+Thundering Pulse
+5
+Chain Breaker
+R5
+Fischl Best Artifacts
+1
+Golden Troupe
+4
+2
+A Day Carved From Rising Winds
+4
+3
+Golden Troupe
+2
+Thundering Fury
+2
+4
+Golden Troupe
+2
+Thundersoother
+2
+5
+A Day Carved From Rising Winds
+2
+Golden Troupe
+2
+Fischl Best Stats
+Sands:
+ATK%
+Goblet:
+Electro DMG
+Circlet:
+CRIT Rate / CRIT DMG
+Substats:
+Energy Recharge > CRIT Rate / CRIT DMG > ATK%
+Character Builds by Genshin Impact Helper →
+Showcase
+Teams
+Talents
+Passives
+Constellations
+Ascension
+Fischl Showcase
+Fischl video guide by
+Zy0x
+.
+Check out his content!
+Best Fischl Teams
+Eula Superconduct
+Ayato Standard
+Kokomi Electro-Charged
+Fischl Talents
+Normal Attack
+Bolts of Downfall
+Normal Attack Performs up to 5 consecutive shots with a bow. Charged Attack Perform a more precise Aimed Shot with increased DMG. While aiming, the dark lightning spirits of Immernachtreich shall heed the call of their Prinzessin and indwell the enchanted arrowhead. When fully indwelt, the Rachsuchtig Blitz shall deal immense
+Electro
+DMG. Plunging Attack Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.
+Elemental Skill
+Nightrider
+Summons Oz, the night raven forged of darkness and lightning descends upon the land, dealing
+Electro
+DMG in a small AoE. For the ability's duration, Oz will continuously attack nearby enemies with Freikugel. Hold to adjust the location Oz will be summoned to. Press again any time during the ability's duration to once again summon him to Fischl's side.
+Elemental Burst
+Midnight Phantasmagoria
+Summons Oz to spread his twin swings of twilight and defend Fischl. Has the following properties during the ability's duration: Fischl takes on Oz's form, greatly increasing her Movement Speed. Strikes nearby enemies with lightning, dealing
+Electro
+DMG to enemies she comes into contact with. Each enemy can only be struck once. Once this ability's effects end, Oz will remain on the battlefield and attack his Prinzessin's foes. If Oz is already on the field, then this will reset the duration of his presence.
+Fischl Passives
+Ascension 1
+Stellar Predator
+When Fischl hits Oz with a fully-charged Aimed Shot, Oz brings down Thundering Retribution, dealing AoE
+Electro
+DMG equal to 152.7% of the arrow's DMG.
+Ascension 4
+Undone Be Thy Sinful Hex
+If a character triggers an Electro-related Elemental Reaction when Oz is on the field, the enemy shall be stricken with Thundering Retribution, dealing
+Electro
+DMG equal to 80% of Fischl's ATK.
+Passive
+Mein Hausgarten
+When dispatched on an expedition in Mondstadt, time consumed is reduced by 25%.
+Fischl Constellations
+Constellation 1
+Gaze of the Deep
+Even when Oz is not present in combat, he can still watch over Fischl through his raven eyes. When Fischl attacks an enemy, Oz fires a joint attack, dealing 22% of ATK DMG.
+Constellation 2
+Devourer of All Sins
+When Nightrider is used, it deals an additional 200% ATK as DMG, and its AoE is increased by 50%.
+Constellation 3
+Wings of Nightmare
+Increases the Level of Nightrider by 3. Maximum upgrade level is 15.
+Constellation 4
+Her Pilgrimage of Bleak
+When Midnight Phatasmagoria is used, it deals 222% of ATK as
+Electro
+DMG to surrounding enemies. When the skill duration ends, Fischl regenerates 20% of her HP.
+Constellation 5
+Against the Fleeing Light
+Increase the Level of Midnight Phantasmagoria by 3. Maximum upgrade level is 15.
+Constellation 6
+Evernight Raven
+Increases the duration of Oz's summoning by 2s. Additionally, Oz attacks with the current character when present, dealing 30% of Fischl's ATK as
+Electro
+DMG.
+Fischl Ascension Costs
+Rank
+Lvl
+Cost
+Material
+Material
+Material
+Material
+1
+20
+20000
+1
+Vajrada Amethyst Sliver
+3
+Small Lamp Grass
+3
+Firm Arrowhead
+2
+40
+40000
+3
+Vajrada Amethyst Fragment
+2
+Lightning Prism
+10
+Small Lamp Grass
+15
+Firm Arrowhead
+3
+50
+60000
+6
+Vajrada Amethyst Fragment
+4
+Lightning Prism
+20
+Small Lamp Grass
+12
+Sharp Arrowhead
+4
+60
+80000
+3
+Vajrada Amethyst Chunk
+8
+Lightning Prism
+30
+Small Lamp Grass
+18
+Sharp Arrowhead
+5
+70
+100000
+6
+Vajrada Amethyst Chunk
+12
+Lightning Prism
+45
+Small Lamp Grass
+12
+Weathered Arrowhead
+6
+80
+120000
+6
+Vajrada Amethyst Gemstone
+20
+Lightning Prism
+60
+Small Lamp Grass
+24
+Weathered Arrowhead
+Loading...

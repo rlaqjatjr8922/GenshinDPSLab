@@ -1,0 +1,186 @@
+Skirk Build Guide and Lore in Genshin Impact 5.7
+Yooki
+-
+Jun 16, 2025
+|
+Mobile Games
+Skirk’s a killer Cryo DPS with a no-Energy playstyle, perfect for Freeze teams with Hydro and Cryo supports. Start farming her materials now to get her ready for 5.7.
+HoYoVerse Might Drop a Zenless Zone Zero Anime Before Genshin Impact
+Genshin Impact Version 5.7 Brings Skirk and Epic Traveler Showdown
+Genshin Impact vs. Wuthering Waves: Which to play in 2025?
+Skirk, a 5-star Cryo Sword character dropping in
+Genshin Impact
+5.7 (June 18, 2025), is a beast of a main DPS for Freeze teams. She’s Tartaglia’s mentor from the Abyss and a follower of Surtalogi, rocking a unique “Serpent’s Subtlety” mechanic that ditches traditional Energy for her Elemental Burst. This guide breaks down how to build her, what to farm ahead of time, and her story, blending her gameplay with her role in the game’s lore.
+Skirk Build Guide
+Talent Priority
+Elemental Skill (Serpent Stratagem)
+: This pumps out Serpent’s Subtlety stacks, letting her switch to Seven-Phase Flash mode for Cryo-powered Normal Attacks.
+Normal Attack
+: Her bread-and-butter for dealing damage, especially in Seven-Phase Flash mode.
+Elemental Burst (Havoc: Ruin / Extinction)
+: Hits hard with AoE Cryo damage based on Subtlety stacks, but it’s less critical if you’re focusing on her Normal Attacks.
+Best Weapons
+Azurelight (5-star, Signature Weapon)
+Base ATK: 674 (Lv. 90)
+Sub-stat: CRIT Rate (22.05%)
+Passive: Boosts ATK by 24–48% after her Skill; at 0 Energy, adds 24–48% ATK and 40–80% CRIT DMG. Built for Skirk’s no-Energy style.
+Haran Geppaku Futsu (5-star)
+Powers up Normal Attack and Elemental DMG.
+Mistsplitter Reforged (5-star)
+Great for Cryo DPS with Elemental DMG and CRIT boosts.
+Finale of the Deep (4-star, Craftable)
+Solid free-to-play pick from Fontaine’s blacksmith, works well for Normal Attack builds.
+Best Artifact Sets
+Finale of the Deep Galleries (4-piece)
+2-piece: +15% Cryo DMG.
+4-piece: At 0 Energy, bumps Normal Attack and Burst DMG by 60% (swaps every 6s). Matches Skirk’s no-Energy kit perfectly.
+Marechaussee Hunter (4-piece)
+Awesome with Furina for CRIT Rate boosts, but it locks you into specific team setups.
+Blizzard Strayer (2-piece) + Gladiator’s Finale (2-piece)
+Easy option for newer players in Freeze teams, boosting Cryo DMG and ATK.
+Artifact Stats
+:
+Sands
+: ATK%
+Goblet
+: Cryo DMG Bonus
+Circlet
+: CRIT Rate or CRIT DMG (shoot for a 1:2 CRIT ratio)
+Sub-stats
+: Prioritize CRIT Rate, CRIT DMG, ATK%, Flat ATK. Skip Energy Recharge and Elemental Mastery—they’re useless for her.
+Best Team Compositions
+Skirk’s at her best in Freeze teams with Hydro and Cryo supports to crank up Serpent’s Subtlety and Void Rift effects.
+Premium Freeze Team
+:
+Skirk (Main DPS)
+Furina (Hydro Sub-DPS, DMG buffer)
+Escoffier (Cryo Support, 55% Cryo RES shred, healing)
+Shenhe (Cryo Buffer, ATK boost)
+Synergy: Keeps enemies Frozen while boosting Skirk’s Cryo damage.
+F2P-Friendly Freeze Team
+:
+Skirk (Main DPS)
+Layla (Cryo Shield Support, 20% CRIT Rate at C4)
+Charlotte (Hydro Healer, Noblesse Oblige buffer)
+Furina or Xingqiu (Hydro Sub-DPS)
+Synergy: Budget team with decent Freeze uptime and some defense.
+Nuke Burst Team
+:
+Skirk (Main DPS)
+Mona (Hydro Buffer, DMG amplifier)
+Furina (Hydro Sub-DPS)
+Charlotte (Healer, Noblesse Oblige)
+Synergy: Sets up Skirk’s Burst for massive one-shot damage.
+Playstyle Tips
+Normal Attack Focus
+: Tap her Skill to enter Seven-Phase Flash, using Subtlety stacks for Cryo Normal Attacks. Mix in Charged Attacks for AoE.
+Burst Focus
+: Hold her Skill to stack Subtlety (up to 45), then drop her Burst for big AoE Cryo damage.
+Freeze Synergy
+: Pair with Hydro characters to Freeze enemies, spawning Void Rifts for extra damage via her passive.
+Rotations
+: Pop support skills first (like Furina’s Burst or Escoffier’s Skill), then swap to Skirk for Skill > Normal Attacks > Burst when Subtlety is maxed.
+Pre-Farming for Skirk
+Get a head start on Skirk’s materials to have her ready to roll in 5.7. Everything’s farmable now, but leaks could change slightly.
+Ascension Materials (Lv. 1 to 90)
+Shivada Jade
+: 1 Sliver, 9 Fragments, 9 Chunks, 6 Gemstones
+Grab from Cryo Hypostasis, Cryo Regisvine, Maguu Kenki, or Icewind Suite in Fontaine.
+Ensnaring Gaze
+: 46
+Drops from Tenebrous Papilla (Lv. 30+), found at Quahuacan Cliff, Natlan.
+Skysplit Gembloom
+: 168
+Natlan specialty in Atocpan and Ancient Sacred Mountain (74 nodes). Farm with friends or over a few days (48-hour respawn).
+Meshing Gear / Mechanical Spur Gear / Artificed Dynamic Gear
+: 18 / 30 / 36
+Dropped by Clockwork Meka in Fontaine. Also in Paimon’s Bargains (limited stock).
+Mora
+: 420,000
+Talent Materials (Per Talent to Lv. 10)
+Teachings / Guide / Philosophies of Contention
+: 9 / 63 / 114
+Farm Blazing Ruins Domain in Natlan (Monday/Thursday/Sunday).
+Meshing Gear / Mechanical Spur Gear / Artificed Dynamic Gear
+: 18 / 66 / 93
+Same as Ascension (Clockwork Meka).
+Ascended Sample: Knight
+: 18
+Weekly boss drop from The Game Before the Gate in Mondstadt (unlocked after Interlude Act 4 or Quick Challenge). Use Dream Solvents to convert other drops.
+Crown of Insight
+: 3
+Snag from events, Frostbearing Tree, or Sacred Sakura.
+Mora
+: 4,957,500 (for all three talents).
+Pre-Farming Tips
+Start Now
+: Skysplit Gemblooms and Contention books take time due to respawns and domain RNG.
+Team Up
+: Hit up co-op to farm Gemblooms faster.
+Resin Planning
+: Use Condensed Resin for Tenebrous Papilla (40 Resin) and artifact domains (Finale of the Deep Galleries, Fontaine).
+Mora & XP
+: Grind Ley Lines for ~2.1M Mora and 415 Hero’s Wit to hit Lv. 90.
+Heads-Up
+: Leaked materials might shift in 5.7 beta, but Cryo gems, Gears, and Contention books are pretty safe bets.
+Skirk’s Lore in
+Genshin Impact
+Who Is Skirk?
+Skirk’s a shadowy swordswoman from the Abyss, first seen as an NPC in Fontaine’s Archon Quest Act V,
+Masquerade of the Guilty
+(4.2, November 8, 2023). She’s the one who trained Tartaglia in the Foul Legacy technique during his three-month stint in the Abyss. This lady’s so strong she could take down Childe with one hand tied behind her back. Tied to Surtalogi, her master, Skirk’s a big deal in Teyvat’s deeper story.
+Her Cryo Vision, confirmed in 5.7, clears up old guesses about her being Hydro or some new element. Her fin-like features and non-human vibe suggest she’s not your average Teyvat resident, probably hailing from the “Darkest Corners of the Universe.” She’s super strict, too—when Childe and the Narwhal got into it, she punished herself by swinging her sword three million times. Talk about dedication.
+Role in Fontaine 4.2
+Skirk showed up in
+Masquerade of the Guilty
+, linked to the All-Devouring Narwhal, a Fontaine weekly boss. She stepped in during the Traveler and Neuvillette’s fight with the Narwhal, shutting it down since it’s her master Surtalogi’s “pet.” Childe’s bond with the Narwhal likely made her take him on as a student, tasking him with tracking it. She also dropped some hints about Descenders, tying her to Teyvat’s bigger mysteries.
+Connection to Surtalogi
+Skirk works for Surtalogi, aka “The Foul” or Rhinedottir, an alchemist chasing “perfection” who’s connected to Albedo and the Rifthounds. Surtalogi’s said to be “more powerful than God,” and Skirk’s role under him hints at her ties to the Abyss and the origins of Gnoses and Visions.
+Tags
+#Genshin Impact
+#Genshin Impact Characters
+#Genshin Impact Update
+#Genshin Impact 5.7
+Comments
+Sort by
+Newest
+|
+Popular
+Please
+sign in
+to send your comment.
+Send
+View more comments
+Next story
+MOST POPULAR
+127468 views
+Mobile Games
+-
+Jun 05, 2025
+10 Hottest Mobile Games to Play in 2025 - They Are Super Addictive!
+110050 views
+Mobile Games
+-
+Jan 06, 2026
+How Popular is Free Fire in India in 2026?
+108071 views
+Mobile Games
+-
+Aug 16, 2021
+Azur Lane Equipment Tier List Complete Guide 2025 Updated
+97757 views
+Mobile Games
+-
+Dec 31, 2025
+Best Mobile Games Offline In 2026 You Should Give A Try
+95541 views
+Mobile Games
+-
+Sep 29, 2025
+Free Fire Headshot Hack: Everything About Headshot Hack In Free Fire (Updated 2025)
+FEATURED STORIES
+Free Fire MAX Redeem Codes March 31, 2026: Get Free Diamonds with 100% Working Codes
+Honkai Star Rail Sparxie 4.0 Hypercarry Guide
+Genshin Impact 6.3 Columbina Ultimate Build Guide
+BGMI Firearm Combat Power Leaderboards: Full Guide to Free Mythic Titles
+How To Boost Free Fire Honor Score Complete Guide 2025

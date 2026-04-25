@@ -1,0 +1,380 @@
+Welcome back to another Genshin Impact Build Guide! Today, we will discuss the
+Wanderer
+, or
+Scaramouche
+, inarguably the most awaited character release in Genshin Impact.
+Contents
+The Wanderer’s Normal And Charged Attacks
+The Wanderer’s Elemental Skill
+The Wanderer’s Elemental Burst
+The Wanderer’s Passive Talents
+The Wanderer’s Constellations
+Wanderer Best Artifact Sets
+The Wanderer’s Best Stats On His Artifact Sets
+The Wanderer’s Best Weapons
+The Wanderer Best Teams
+Conclusion
+In this article, Travelers, we will discuss how to build the Wanderer, mentioning his
+Ascension/Talent
+upgrade
+Costs
+/
+Stat
+Buffs
+/
+Materials
+List
+, explaining his
+Talents
+and
+Constellations
+, and debating over his
+Talent Upgrade Priority
+. Most importantly, we will suggest his best-in-slot
+weapons
+an
+d artifacts
+. A guide on viable
+team compositions
+is also present at the end.
+The Wanderer’s Normal And Charged Attacks
+Source
+Genshin Impact Fandom
+The
+Wanderer
+‘s normal attacks,
+Yuuban Meigen
+,  allow the unit to perform a 3-strike sequence using windblades, that deal (
+drumrolls
+)
+Anemo
+DMG.
+Source
+Genshin Impact Fandom
+The
+Wanderer
+‘s charged attack conjures a pillar of wind at your enemies feet, constructed by building up high wind pressure at that spot and dealing AoE
+Anemo
+DMG.
+The Wanderer’s Elemental Skill
+The Wanderer’s Elemental Skill,
+Hanega: Song of the Wind
+,  is the most important part of his kit, and we recommend the Traveler invest most of their upgrade resources in upgrading this ability, followed by/alongside his normal attacks.
+Source
+Genshin Impact Fandom
+The
+Wanderer
+‘s Elemental Skill deals a single instance of Anemo DMG. It also allows the
+Wanderer
+to hover midair, making his normal and charged attacks do more DMG in a wider AoE .
+The skill also allows him to increase his hover height and “sprint” mid-air. The number of seconds that dictates how long the
+Wanderer
+stays mid-air depends on another perpetually depleting bar of “stamina.”
+The Wanderer’s Elemental Burst
+The unit’s Elemental Burst, Kyougen: Five Ceremonial Plays,  isn’t the
+most
+integral part of his kit, it’s still fun to have around though; the dude literally slams a black hole in your enemy’s face, do i need to say more?
+Source
+Genshin Impact Fandom
+Tapping “Q” casts the Wanderer’s Elemental Burst, compressing the atmosphere into a singular vacuum, dealing multiple instances of AoE Anemo DMG.
+Casting the ability disables the
+Wanderer
+‘s
+Windfavoured
+effect (gained after using his skill).
+The Wanderer’s Passive Talents
+Talent Name
+Talent Description
+Strum the Swirling Winds
+Mora expended when ascending Bows and Catalysts is decreased by 50%.
+Jade-Claimed Flower
+If
+The Wanderer’s
+Elemental Skill comes into contact with Hydro/Pyro/Cryo/Electro when it is unleashed, this instance of the
+Windfavored
+state will obtain buffs according to the contacted element(s):
+||
+Hydro
+:
+Kuugoryoku Point
+cap increases by 20.
+||
+Pyro
+: ATK increases by 30%.
+||
+Cryo
+: CRIT Rate increases by 20%.
+||
+Electro
+: When Normal and Charged Attacks hit an opponent, 0.8 Energy will be restored.
+->Energy can be restored this way once every 0.2s. You can have up to 2 different kinds of these buffs simultaneously.
+Gales of Reverie
+When the
+Wanderer
+‘s normal and charged attacks hit opponents from within his Elemental Skill ability, i.e., when he’s hovering, he has a 16% probability to obtain an effect.
+If this probability is not satisfied, the effect’s proc-probability increases by 12%, this addition can only occurr every 0.1s.
+The effect, called
+Descent
+, remove’s the
+Wanderer
+‘s
+Kuugoryoku Points
+cost. Furthermore, makes your unit fire off a volley of
+Anemo
+imbued arrows that deal 35% of his ATK as DMG.
+In the gif below, when the
+Wanderer
+activates his Elemental Skill, its effects (the initial
+Anemo
+burst) come into contact with both
+Cryo
+and
+Pyro
+, enabling the
+Melt
+Elemental Reaction
+, and also applying two status effects to the
+Wanderer
+. The applied effects can be distinguished by looking at the colours appearing in the
+Wanderer
+‘s halo. Light Blue for
+Cryo
+, Orange for
+Pyro
+, Blue for
+Hydro
+, and Purple for
+Electro
+.
+Source
+Genshin Impact Fandom
+The Wanderer’s Constellations
+A brief note is necessary here..  the
+Wanderer
+at C0 is an amazing unit. Please do not feel forced to roll for a character’s constellations. They are nice to have and can boost a character’s effectiveness but aren’t worth spending real-world currency on unless you have a large reserve of expendable income.
+However, if you do end up getting more constellations, congratulations! Let us get you familiar with the Wanderer’s Stella Fortuna.
+The
+Wanderer
+‘s Constellations are pretty good, but in no way necessary to enjoy playing the character, they supplement his existing abilities, but do not make them irrelevant at C0. In other words, buy if you’re a whale, otherwise please don’t :D.
+Constellation
+Explanation
+Shoban: Ostentatious Plumage
+Increases
+The Wanderer
+‘s normal attack’s ATK SPD when he’s in his
+Windfavoured
+state. Also, increasing the DMG of the wind-imbued arrows fired off by his passive talent,
+Gales of Reverie
+.
+Niban: Isle Amidst White Waves
+The Wanderer
+‘s C2 increases the DMG of his burst based off how many
+Kuugoryoku Points
+you have.
+Sanban: Moonflower Kusemai
+Matsuban: Ancient Illuminator From Abroad
+The character’s C3 and C5 upgrade the talent levels of the Wanderer’s Elemental Burst and Skill, respectively.
+Yonban: Set Adrift into Spring
+The Wanderer
+‘s 4th constellation allows for an extra buff when proccing his Jade-Claimed Flower passive.
+Shugen: The Curtains’ Melancholic Sway
+Empowers
+The Wanderer
+‘s normal attack while he is in his
+Windfavoured
+state, and also restores some
+Kuugoryoku Points
+to the character after they fall below a certain threshold.
+Building Up The Wanderer’s Constellations
+Wanderer Best Artifact Sets
+Artifact Name
+Description
+Desert Pavilion Chronicle
+2-Piece Bonus
+Anemo
+DMG + 15%
+4-Piece Bonus
+When Charged Attacks hit opponents:
+|->The equipping character’s Normal Attack SPD will increase by 10%
+|->Normal, Charged, and Plunging Attack DMG will increase by 40% for 15s.
+Gladiator’s Finale
+2-Piece Bonus
+ATK + 18%
+4-Piece Bonus
+If artifact set user wields a
+Sword
+,
+Claymore
+or
+Polearm
+->Increases their Normal Attack DMG by 35%.
+Viridescent Venerer
+2-Piece Bonus
+Anemo
+DMG + 15%
+4-Piece Bonus
+Increases
+Swirl
+DMG by 60%.
+Proccing
+Swirl
+reduced the opponent’s Elemental RES to the element infused by
+Swirl
+by 40% for 10s.
+Echoes of an Offering
+2-Piece Bonus
+ATK +18%.
+4-Piece Bonus
+When Normal Attacks hit opponents, there is a 36% chance that it will trigger
+Valley Rite
+, which will increase Normal Attack DMG by 70% of ATK.
+|->This effect will be dispelled 0.05s after a Normal Attack deals DMG.
+|->If a Normal Attack fails to trigger Valley Rite, the odds of it triggering the next time will increase by 20%.
+|->This trigger can occur once every 0.2s.
+The Wanderer’s Best Artifact Builds
+The Wanderer’s Best Stats On His Artifact Sets
+The Traveler is
+highly
+recommended to build Scaramouche as a DPS character. A CRIT DMG/Rate Circlet, an
+Anemo
+DMG bonus goblet, and an ATK sands will be an ideal stat build on the
+Wanderer
+‘s artifacts.
+We recommend the Traveler to equip CRIT Rate and CRIT DMG on your characters in such a way that their percentage ratio equals 0.5. In other words, 50% CRIT Rate and 100% CRIT DMG is plenty.
+With the right team comp, the traveler may not need much Energy Recharge (ER) on the Wanderer. 120-130% ER is enough. We suggest this because of Anemo’s tendency to “spread” elements, allowing for incredibly effective reactions. Just like Heizou, another Anemo Catalyst user, the Wanderer will be using his kit to proc on-field reactions enabled by supporting powerful off-field units like
+Xingqiu
+,
+Xiangling
+, and
+Beidou
+.
+The Wanderer’s Best Weapons
+Weapon
+Description
+Tulaytullah’s Remembrance
+At Max Level and Refinement Rank 1:
+Base ATK: 674
+Bonus CRIT DMG 44.1%
+Bygone Azure Teardrop
+|-> Normal Attack SPD is increased by 10%.
+|->After the wielder unleashes an Elemental Skill:
+|| Normal Attack DMG will increase by 4.8% every second for 14s.
+|| After this character hits an opponent with a Normal Attack during this duration, Normal Attack DMG will be increased by 9.6%.
+->This increase can be triggered once every 0.3s.
+->The maximum Normal Attack DMG increase per single duration of the overall effect is 48%.
+->The effect will be removed when the wielder leaves the field.
+->Using the Elemental Skill again will reset all DMG buffs.
+Lost Prayer to the Sacred Winds
+At Max Level and Refinement Rank 1:
+Base ATK: 608
+Bonus CRIT Rate 33.1%
+Boundless Blessing
+->Increased Movement SPD by 10%.
+->In battle, gain an 8% Elemental DMG bonus every 4s.
+–>Max 4 stacks, lasts until the character falls or leaves combat.
+Skyward Atlas
+At Max Level and Refinement Rank 1:
+Base ATK: 674
+Bonus ATK 33.1%
+Wandering Clouds
+->Increased Elemental DMG Bonus by 12%.
+-> Normal Attacks have a 50% chance to “earn the favor of the clouds”, which actively seek out nearby opponents for 15s, dealing 160% ATK DMG.
+-> Can only occur every 30s.
+Dodoco Tales
+At Max Level and Refinement Rank 5:
+Base ATK: 454
+Bonus ATK 55.1%
+Dodoventure!
+Normal Attack hits on opponents increase Charged Attack DMG by
+32
+% for 6s. Charged Attack hits on opponents increase ATK by
+16
+% for 6s.
+Solar Pearl
+At Max Level and Refinement Rank 5:
+Base ATK: 510
+Bonus CRIT Rate 27.6%
+Infusion Scroll
+Normal Attack hits increase Elemental Skill and Elemental Burst DMG by
+40
+% for 6s. Likewise, Elemental Skill or Elemental Burst hits increase Normal Attack DMG by
+40
+% for 6s.
+The Widsith
+At Max Level and Refinement Rank 1:
+Base ATK: 510
+Bonus CRIT DMG 55.1%
+Debut
+Characters gain a random bonus when taking the field for 10s:
+ATK is increased by 10%
+Elemental DMG is increased by 48%
+Elemental Mastery is increased by 240
+The Wanderer’s Best DPS Build Weapons
+Thanks to
+Zy0x
+for the Weapon rankings!
+The Wanderer Best Teams
+The
+Wanderer
+has an incredibly wide array of teams that the Traveler can choose from, partially because he is an Anemo catalyst who can enable your off-field carries like
+Beidou
+,
+Xiangling
+, and
+Xingqiu
+to do insane amounts of reaction DMG.
+It is important to acknowledge the existence of
+Scara
+‘s passive,
+Gales of Reverie
+, as it will greatly benefit the DPS output of whatever team you choose.
+A viable Electrocharged team composition could include OP off-field
+Electro
+characters like
+Fischl
+,
+Beidou
+, and the
+Raiden Shogun
+. Yae Miko (although not the ideal replacement) can work as well. Your fourth character can be
+Xingqiu
+or
+Yelan
+.
+Begin the rotation with
+Xingqiu
+, switch to
+Beidou
+and then
+Fischl
+, and use their skills.
+Wanderer, Fischl, Beidou, and Xingqiu
+Xingqiu
+can be substituted with
+Yelan
+, but the dude’s in a league of his own, so why not use him?
+Bennett
+and
+Xiangling
+need no introduction, these two four stars are two of the most powerful characters in the game.
+Wanderer, Xingqiu, Xiangling , and Bennett
+Some other viable team comps are shown below, the basic principle of each team is the same.
+Players will notice a new character,
+Faruzan
+, in these images. If we were to state in a single sentence:
+Her burst can buff your team’s Anemo DMG
+.
+This makes her useful in many scenarios, particularly in teams focusing on
+Xiao
+‘s DMG. More on her in another guide!
+The Wanderer, Faruzan, Bennett and Thoma
+Wanderer, Faruzan, Rosaria and Xingqiu
+Scaramouche, Faruzan, Xiangling, and Bennett
+Conclusion
+This was another long one. Hurrah and a pat on the back if you made it to the end! Please, tell us, how has our content been? Do you have any suggestions, improvements we can make? In the meantime, check out our take on
+Nahida
+, dig into some
+food
+while the page loads and maybe look at some leaks for the
+upcoming events in 3.3
+? Happy reading!

@@ -2,6 +2,8 @@ import json
 import itertools
 import subprocess
 import re
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from pathlib import Path
 
 from config.config import CONFIGS_DIR, BEST_ORDERS_JSON, GCSIM_EXE
 
@@ -51,26 +53,12 @@ def run_gcsim(path):
     err = (result.stderr or "").strip()
 
     if result.returncode != 0:
-        raise RuntimeError(
-            f"gcsim 실행 실패: {path}\n"
-            f"===== stdout =====\n{output}\n"
-            f"===== stderr =====\n{err}"
-        )
-
-    if not output:
-        raise RuntimeError(
-            f"출력 없음: {path}\n"
-            f"===== stderr =====\n{err}"
-        )
+        raise RuntimeError(f"gcsim 실행 실패:\n{err}")
 
     dps = extract_dps(output)
 
     if dps <= 0.0:
-        raise RuntimeError(
-            f"DPS 추출 실패: {path}\n"
-            f"===== raw output =====\n{output[:3000]}"
-            + (f"\n===== stderr =====\n{err[:3000]}" if err else "")
-        )
+        raise RuntimeError("DPS 추출 실패")
 
     return dps
 
@@ -80,7 +68,7 @@ def load_best_orders():
         try:
             with open(BEST_ORDERS_JSON, "r", encoding="utf-8") as f:
                 return json.load(f)
-        except Exception:
+        except:
             return {}
     return {}
 
@@ -96,6 +84,7 @@ def save_all_orders(
     base_code: str,
     party_members: list[str],
     progress_callback=None,
+    max_workers: int = 1,
 ):
     CONFIGS_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -107,40 +96,78 @@ def save_all_orders(
 
     best_dps = -1.0
     best_order = None
+    done = 0
 
-    for j, order in enumerate(all_orders, start=1):
-        order = list(order)
+    # =========================================
+    # 1. 시작할 때 한 번만 검사
+    # =========================================
+    existing = set()
 
-        rotation_code = make_rotation(order)
-        order_comment = " -> ".join(order)
+    for j in range(1, total_orders + 1):
+        path = char_dir / f"{main_name}_{j}.txt"
+        if path.exists():
+            existing.add(j)
 
-        final_code = (
-            base_code
-            + "\n# =========================\n# Entry Order\n# =========================\n"
-            + f"# {order_comment}\n"
-            + "\n# =========================\n# Rotation\n# =========================\n"
-            + rotation_code
-            + "\n"
-        )
+    # =========================================
+    # 2. 남은 작업만 분리
+    # =========================================
+    remaining = [
+        (j, list(order))
+        for j, order in enumerate(all_orders, start=1)
+        if j not in existing
+    ]
 
-        filename = f"{main_name}_{j}.txt"
-        path = char_dir / filename
+    # =========================================
+    # 3. 기존 것은 진행률만 처리 (실행 X)
+    # =========================================
+    done += len(existing)
 
-        with open(path, "w", encoding="utf-8") as f:
-            f.write(final_code)
+    if progress_callback:
+        progress_callback(done, total_orders)
+
+    # =========================================
+    # 4. 병렬 실행
+    # =========================================
+    def worker(j, order):
+        path = char_dir / f"{main_name}_{j}.txt"
+
+        if not path.exists():
+            rotation_code = make_rotation(order)
+
+            final_code = (
+                base_code
+                + "\n# Entry Order\n"
+                + f"# {' -> '.join(order)}\n"
+                + rotation_code
+            )
+
+            with open(path, "w", encoding="utf-8") as f:
+                f.write(final_code)
 
         dps = run_gcsim(path)
-        print(f"{main_name}_{j} → DPS: {dps}")
+        return j, order, dps
 
-        if progress_callback:
-            progress_callback(j, total_orders)
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        futures = [executor.submit(worker, j, order) for j, order in remaining]
 
-        if dps > best_dps:
-            best_dps = dps
-            best_order = order
+        for future in as_completed(futures):
+            j, order, dps = future.result()
+            done += 1
 
-    if best_order is None or best_dps <= 0.0:
-        raise RuntimeError(f"{main_name} 최고 DPS 계산 실패")
+            print(f"{main_name}_{j} → DPS: {dps}")
+
+            if dps > best_dps:
+                best_dps = dps
+                best_order = order
+
+            if progress_callback:
+                progress_callback(done, total_orders)
+
+    # =========================================
+    # 5. 결과 저장
+    # =========================================
+    if best_order is None:
+        raise RuntimeError(f"{main_name} 최고 DPS 없음")
 
     best_orders = load_best_orders()
     best_orders[main_name] = best_order

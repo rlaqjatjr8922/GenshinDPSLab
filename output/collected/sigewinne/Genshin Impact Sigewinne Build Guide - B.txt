@@ -1,0 +1,283 @@
+Task Search
+Checklists
+Guides
+Markers
+Videos
+Sort and Filter
+No Results
+Checklists
+New Checklist
+All Lists
+My Checklists
+All
+All Lists
+My Checklists
+How creative can you get with your first free checklist?
+Create a free account
+All Interactive Maps and Locations
+Genshin Impact Sigewinne Build Guide - Best Weapons, Artifacts, and Teams
+By
+Cedric Pabriga
+,
+Jen Rothery
+,
+Triforce
+,
++30 more
+Updated
+:
+Jul 1, 2024 9:46am UTC
+Sigewinne is a character from Fontaine, taking residence in the Fortress or Meropide as the head nurse. She is a 5-star dedicated healer devoted additionally to buffing her teammates or, depending on gear, dealing damage based on her healing potential. This guide to the best Genshin Impact Sigewinne build will explain the best weapons, artifact sets, constellations, and team compositions for Sigewinne.
+Sigewinne
+Rarity:
+★★★★★
+Element:
+Hydro
+Weapon:
+Bow
+Table of Contents:
+How to Get Sigewinne
+Sigewinne Gameplay Overview
+Sigewinne Talents and Attack Combos
+Sigewinne Constellation Analysis
+Sigewinne's Best Weapons
+Sigewinne's Best Artifacts
+Sigewinne's Best Teams
+How to Get Sigewinne in Genshin Impact
+Sigewinne is a limited 5-star character, meaning that you can only acquire her when she is on a limited banner. If you miss her debut, you’ll have no choice but to simply wait for a rerun banner to spend your primogems on a chance of acquiring her.
+Genshin Sigewinne Gameplay Overview
+Element:
+Hydro
+Weapon:
+Bow
+Rarity:
+5-star
+Sigewinne is a bit one-dimensional for a character. She is really good at one thing and one thing only: healing. She has additional bonuses when paired with teammates who utilize the Bond of Life mechanic, but otherwise, you should not consider her for her damage potential. Instead, you should build her entirely based on healing and team buffing.
+His field time is relatively short compared to other characters. You simply use her Skill and (optionally) Burst and she’s done with her job. You can slightly extend her field time by holding her Skill button down to potentially immobilize weaker enemies (I.E. not bosses), though this utility is situational.
+You can choose either to use Sigewinne’s Burst or neglect it altogether. Without constellations, her Burst is simply a damage multiplier, and her damage output through her talents is quite low. You can save up to 3s of field time by just ignoring it altogether and focusing on her Skill. If you use her Burst, she needs quite a lot of Energy Recharge without a teammate like Furina, which can take away from your HP stat priority to your gameplay’s detriment.
+Sigewinne mainly needs to focus on HP, and unless you plan on using her Elemental Burst, nothing else at all. She is somewhat restricted when it comes to specialized teams, really only providing benefit in Furina teams or Bloom teams.
+Stats Worth Consideration
+HP
+: Much of Sigewinne’s scaling depends on this stat.
+Energy Recharge
+: Optional. Sigewinne needs a lot of energy if Furina or other Hydro characters aren’t on your team and you intend to use her Burst. Solely focusing on her utility can help ignore this need.
+Genshin Sigewinne’s Talents
+Your talent-levelling priority should be Skill, then Burst, followed by Normal Attacks being the lowest priority.
+Normal Attack:
+Targeted Treatment
+This is the only part of Sigewinne’s kit that doesn’t scale with her HP stat. There is absolutely no reason to use this talent. You can leave it at level 1.
+Elemental Skill:
+Super Saturated Syringing
+Using Sigewinne’s Skill creates a large bubble that bounces around, damaging enemies and healing everyone on the team except for Sigewinne up to five times based on her Max HP. When the bubble pops, Sigewinne herself will be healed.
+Holding the Skill down will slightly increase the damage and healing potential of the bubble up to two tiers of potency.
+Additionally, Sigewinne will also create Sourcewater Droplets, which will grant a Bond of Life when absorbed equal to 10% of Max HP. When the Bond of Life is cleared, she can generate up to five energy for herself. Her Skill also hits enemies an additional time while aligned with Ousia, which can be used to solve puzzles or hit Fontainian enemy weaknesses.
+This is the bread-and-butter of her kit, as it is her source of healing potential, so this should be leveled as high as possible as soon as possible to maximize her healing.
+Elemental Burst:
+Last Lightfall
+The Burst absorbs up to two nearby Sourcewater Droplets and deals damage based on Max HP to enemies for up to 2.5s. There are no other effects for this talent unless you grab constellations.
+Sigewinne
+Passives
+Next, come her passives.
+His first ascension passive grants a buff of 8% Hydro DMG to Sigewinne and, up to ten times, will buff off-field teammate Skill hits with a flat additive bonus of up to 2,800 damage. The number of increased damage is based on every 1,000 Max HP above 30,000, meaning you’ll need to build around 58,000 HP for max benefits.
+Sigewinne's fourth ascension passive increases her healing by 3% for each 1,000 HP of Bond of Life across all party members, maxing out at 30% healing bonus.
+Finally, her exploration passive heals teammates while underwater when their HP falls below half at the cost of 10% universal resistance, once per 20s.
+Sigewinne
+On-Field Commands
+Sigewinne’s field time should be executed as such:
+Sigewinne Skill
+Sigewinne Burst (optional)
+Swap out to other characters.
+Genshin Sigewinne Constellation Analysis
+Sigewinne really wants Constellation 6 if you expect to get any damage out of her, but that demands an obscene amount of primogems to accomplish, and you are typically better off just using her as a healer with limited Hydro application. C1 and C2 are fine, but constellations are only recommended if you are a diehard Sigewinne fan.
+Constellation Name
+Abbreviated In-Game Description
+Notes
+C1. Can the Happiest of Spirits Understand Anxiety?
+Skill bubbles bounce three additional times, and the first three bounces do not make the bubble smaller. Her passive is additionally bumped up to a maximum of 3,500, with each 1,000 Max HP adding 100 damage instead of 80. Each bounce will add one allotted buff for teammates.
+Sigewinne’s Skill is the most important part of her kit, so giving her more healing opportunities is always good for her. The bonus additive damage plus extended buffs is also highly valuable.
+C2. Can the Most Merciful of Spirits Defeat Its Foes?
+Using Skill or Burst makes a shield based on 30% of her Max HP, and lasts only for as long as her Skill or Burst uses. When Skill or Burst hit opponents, their Hydro Resistance is decreased by 35%.
+This makes Sigewinne a great support for off-field Hydro DPS while also preventing her from being interrupted by enemy attacks while using her talents. Combined with an Anemo character equipping Viridescent Venerer, you can shred Hydro Resistance by 75%.
+C3. Can the Healthiest of Spirits Cure Fevers?
+Increase Skill talent level by 3.
+This improves her healing but… how much extra healing do you actually need?
+C4. Can the Loveliest of Spirits Keep Decay at Bay?
+Burst lasts an additional 3s
+This essentially doubles the damage potential of her Burst, which is good, but not enough to incentivize building Energy Recharge for it, since her damage profile is already so unimpressive.
+C5. Can the Most Joyful of Spirits Alleviate Agony?
+Increases Burst talent level by 3.
+Really the same issues as C4, but C6 will make these constellations better by a good amount.
+C6. Can the Most Radiant of Spirits Pray For Me?
+Whenever she heals, Sigewinne’s CRIT Rate and DMG are boosted based on her Max HP, maxing out at 20% CRIT Rate and 110% CRIT DMG.
+This makes Sigewinne a potential damage dealer, but requiring such a heavy investment of primogems makes this feel not as worthwhile as other 5-star C6s. You’lll also want to change your Circlet from HP% to CRIT Rate for this to matter, plus building Energy Recharge for her Burst.
+Genshin Sigewinne's Best Weapons
+Sigewinne has two weapon options: a luxury option in the form of her signature weapon and a 3-star weapon. While the 5-star weapon is, of course, the better option, you can get 80% of the results you want without spending a single primogem, so take that as you will.
+If you manage to go for C6, you can start focusing on CRIT 5-star Bows like Aqua Simulacra if you don’t get her signature weapon. Just don’t worry about the ATK stat of weapons. They are totally irrelevant since her scaling is based off of Max HP.
+Weapon Name
+Abbreviated In-Game Description
+Notes
+Elegy for the End
+55.1% Energy Recharge
+Increases Elemental Mastery by 60. When Skills or Bursts of the equipped character hit opponents, gain a Sigil of Remembrance, triggered once every 0.2s and can be triggered off-field. When you possess 4 Sigils, all of them will be consumed and all nearby party members increase Elemental Mastery by 100 and ATK by 20%. Once this effect is triggered, you will not gain Sigils of Remembrance for 20s.
+Best 5-Star Support Option
+Elegy is especially useful when you have characters utilizing elemental reactions. The Energy Recharge is useful if you intend to use her Burst, but you're mainly equipping this for the buffs on the team.
+Favonius Warbow
+61.3% ER
+CRIT Hits have a 60-100% (R1-R5) chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 12-6s (R1-R5).
+Tied Best Support Option
+Requires building around 30% CRIT Rate to fully utilize, but this can be built purely from substats, and you don't need many specific subs from Sigewinne anyways. Being able to reduce your entire team's energy requirements is an enormous boon to any team. Often it will be more universally applicable than Elegy, but Elegy really shines in its expected scenarios.
+Silvershower Heartstrings
+66.2% HP
+Gain up to 3 stacks, which can be obtained by using her Skill, increasing a Bond of Life, and/or performing healing. Each stack increases Max HP by 12/24/40%. When there are three stacks, +28% CRIT Rate, which ends after 4s of not having full stacks.
+Best-in-Slot...for C6
+This weapon is fantastic for Sigewinne… if you intend to get all of her constellations. If you don’t, you’ll still deal more damage, but stacking HP% on all artifact sets, plus her Ascension stat of HP%, is usually plenty for any character, so the stacks outside of the CRIT Rate aren’t needed. If you’re not a big spender, seriously consider settling for the other options.
+Recurve Bow
+46.9% HP
+Defeating enemies restore 8-16% (R1-R5) HP.
+Competitive 3-Star Option
+Outperforms other 4-star bows for damage, and is one of the only bows in the game that grants HP% as a stat. The refinement level doesn’t even really matter that much, so you can just open a chest, get the weapon, and be good. With such a low opportunity cost, it’s really hard to turn this option down.
+Genshin Sigewinne's Best Artifacts
+Sands
+– HP% (ER% if you have her signature weapon, constellations, and are using her Burst)
+Goblet
+– HP%
+Circlet
+– HP% (CRIT if you have all of her constellations OR using Favonius Warbow without good substats)
+Sigewinne has two baseline artifact sets which do similar things based on her healing abilities. For C6-havers, you can opt for a Burst-oriented set for maximum damage.
+Artifact Set Name
+Abbreviated In-Game Description
+Notes
+4pc Song of Days Past
+2pc: 15% Healing Bonus.
+4pc: Takes note of total healing done by equipped character for six seconds. After six seconds, damage by party members is increased by 8% of the damage healed (Max 15,000 healed), up to five instances or 10 seconds.
+Tied Best Healing Option
+A straightforward set: heal a bunch, buff your teammates. Since she doesn’t do much damage at C0, this is one way to indirectly squeeze damage out of her. Remember that flat damage bonuses can CRIT!
+4pc Ocean-Hued Clam
+2pc: 15% Healing Bonus.
+4pc: Takes note of total healing done by equipped character for three seconds. After that time, the artifact set will deal Physical DMG equal to 90% of the healed amount (max 30,000 HP healed).
+Tied Best Healing Option
+Since Sigewinne can heal so much, it’s pretty easy for her to hit the maximum possible damage on this set for at least one or two bubble pops per rotation. Use this if you want to pretend Sigewinne can deal damage at C0.
+4pc Emblem of Severed Fate
+2pc: 20% Energy Recharge.
+4pc: Increase Burst damage by 25% of Energy Recharge, with a max of 75% Burst DMG bonus.
+ONLY FOR C6 HAVERS
+Sigewinne with all of her constellations is a Burst DPS, so this set becomes a great choice as it also provides Energy Recharge. Do not use this unless you have several constellations.
+Genshin Sigewinne's Best Teams
+Sigewinne is in an awkward position: she buffs off-field damage dealers who specifically use their Skill, but otherwise just heals a lot. There are not many characters who deal off-field damage with their Skill, but Fischl and Furina are quite popular choices. Here, you can make your off-field DPS the true main damage-dealer of the team.
+If you don’t want to do that, you can just use her as a generic healer for any team that needs one.
+Nilou Bloom
+Nilou amplifies the Bloom reaction to high heaven as long as you use only Dendro and Hydro characters, but Bloom reactions also hurt your team if they’re close to the explosions. Kokomi has been the main healing choice in Hydro, but if you like Sigewinne more, you can use her here. Teams with Sigewinne may want lots of Hydro, so make sure the Dendro character for your team can apply lots of Dendro
+Guide Character
+Nilou
+Hydro
+Dendro
+Furina Teams / Taser Teams
+This is the most general purpose team, and Sigewinne synergizes amazingly with Furina by providing healing to fuel Furina’s buffs and buffing Furina’s already respectable off-field damage.
+Taser teams, on the other hand, utilize Electro-Charged reactions with Electro and Hydro to deal damage over time. They are often accented by an Anemo character who can reduce resistances to both elements. Luckily, the three best off-field Skill users are Hydro and Electro!
+Guide Character
+Furina
+Anyone/Electro
+Anyone/Anemo
+Specific Teammate Choices
+Teammate Choices
+Character Name
+Notes
+Character Name
+Notes
+Yae Miko
+Off-Field Electro DPS
+Comparable to C6 Fischl
+Exceptional Off-Field Skill DMG
+Long field-time duration
+Benefits from both EM and ATK%
+Nuclear-Powered Burst
+Vulnerable to interruption| style="text-align: center;"
+Yaoyao
+Dendro Healer
+Great healing for a 4-star
+Good and consistent Dendro application
+Can function well in teams with short rotations, especially Quicken teams
+Fischl
+Off-Field Electro DPS
+C6 Recommended
+Works well with basically anyone
+Exceptional Off-Field DMG
+Minimal field time required
+Consistent Application
+Excellent energy particle generation
+Accessible via Paimon's Bargains
+Nahida
+Off-Field Dendro Support
+Best Dendro Application in the game
+Long-lasting Skill duration (25s)
+Buffs the team’s Elemental Mastery
+Impressive damage on top of her support capabilities.
+Baizhu
+Off-Field Dendro Support
+Excellent healing capabilities
+Short Skill cooldown
+Applies just enough Dendro for Quicken/Aggravate teams.
+Fragile, but regenerating shields provide interruption resistance.
+Dendro MC
+Off-Field Dendro Support
+100% free and accessible from beginning of the game
+Consistent Dendro Application
+Often wields a Favonius weapon
+Buffs party Elemental Mastery
+Kazuha
+Anemo (De+)Buffer
+Universally loved Anemo support
+Excellent crowd control with held Skill
+Usually wields Favonius or Xiphos’ Moonlight for team energy needs
+Massive buffs to elements based on Kazuha’s Elemental Mastery stat
+Debuffs elemental resistances with Viridescent Venerer
+Sucrose
+Anemo (De+)Buffer
+Strongest 4-star Anemo support
+Decent enemy grouping with Skill
+Generates lots of energy through her Skill and potential weapons
+Shares 25% of her Elemental Mastery with the team to improve reactions
+Available since the start of the game
+Sayu
+Anemo (De)Buffer + Healer
+Great at closing gaps with her Skill
+Often carries a Favonius weapon
+Good healing on a 4-star character
+Jean
+Anemo (De)Buffer + Healer
+Standard Banner 5-star, making her accessible
+Well-rounded in utility and damage
+Great healing and role consolidation
+Often carries a Favonius weapon
+Synergizes with Bennett to constantly apply Pyro
+Clorinde
+On-Field Electro DPS
+Utilizes Bond of Life for damage
+Highly mobile on-fielder
+Great synergy with Dendro and Hydro characters, especially Furina
+Klee
+On-Field Pyro DPS
+Absurd amounts of Pyro application for Hydro teammates to Vaporize from
+Good on-field damage
+Prefers a shielder
+Up Next:
+Genshin Impact Sethos Build Guide - Best Weapons, Artifacts, and Teams
+Previous
+Genshin Impact Emilie Build Guide - Best Weapons, Artifacts, and Teams
+Next
+Genshin Impact Sethos Build Guide - Best Weapons, Artifacts, and Teams
+Top Guide Sections
+Genshin Impact Luna VI Details and Patch Notes
+Genshin Impact Luna IV Release Time and Details
+Genshin Impact Luna III Details and Patch Notes
+Genshin Impact Luna II Release Date and Details
+Was this guide helpful?
+Leave feedback
+In This Guide
+Genshin Impact
+HoYoverse
+Initial Release:
+Sep 27, 2020
++2
+Learn more
+Go to comments

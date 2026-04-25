@@ -1,0 +1,554 @@
+Genshin Impact Barbara Build
+Catalyst
+Hydro
+Church of Favonius
+5/7
+Crater
+Forsaken Rift
+Every citizen of Mondstadt adores Barbara. She learned the word "idol" from a magazine.
+Best builds for Barbara
+HEAL SUPPORT Build
+Weapons
+1
+Thrilling Tales of Dragon Slayers
+HP%
+2
+Everlasting Moonglow
+HP%
+3
+Prototype Amber
+HP%
+4
+Ash-Graven Drinking Horn
+HP%
+5
+Favonius Codex
+Energy Recharge
+6
+Hakushin Ring
+R
+5
+Energy Recharge
+Artifacts
+1
+Ocean-Hued Clam
+4
+2
+Scroll of the Hero of Cinder City
+4
+3
+Instructor
+4
+4
+Healing Bonus
+2
+HP +20% set
+2
+Substats Priority
+1
+HP%
+2
+HP
+Talents Priority
+1
+E
+Skill
+2
+Q
+Burst
+3
+NA
+Normal Attack
+Recommended Primary Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Barbara
+'s skill,
+Healing Burst
+, provides a pulse of healing every 5 seconds. Each pulse imbues you with a
+Hydro
+status, which can be used for status-cleansing, particularly against
+Pyro
+elements. However, other elements may require additional pulses for cleansing.
+
+When using
+Barbara
+'s skill, be aware that
+Hydro
+reacting with
+Cryo
+status will cause a
+Freeze
+reaction, immobilizing you in place. Therefore, consider the environment when utilizing her skill.
+
+To maximize
+Barbara
+'s effectiveness, consider the following:
+Use her skill in conjunction with other characters to create a well-rounded team composition.
+Take into account the elemental reactions and synergies in your team.
+Be mindful of the
+Freeze
+reaction when using
+Barbara
+'s skill in Cryo-infused environments.
+In terms of team composition,
+Barbara
+pairs well with characters who can provide elemental reactions, such as:
+Hydro
+characters like
+Xingqiu
+or
+Keqing
+for additional elemental reactions.
+Pyro
+characters like
+Keqing
+or
+Yun Jin
+for
+Pyro
+reactions.
+When farming for
+Barbara
+, consider the following locations:
+Monstadt
+Winds of the Dawn
+Keep in mind that
+Barbara
+'s skill has a 5-second cooldown, and each pulse provides a moderate amount of healing.
+BLOOM DPS Build
+Weapons
+1
+Starcaller's Watch
+Elemental Mastery
+2
+A Thousand Floating Dreams
+Elemental Mastery
+3
+Sunny Morning Sleep-In
+Elemental Mastery
+4
+Sacrificial Fragments
+Elemental Mastery
+5
+Etherlight Spindlelute
+R
+5
+Energy Recharge
+6
+Magic Guide
+Elemental Mastery
+Artifacts
+1
+Flower of Paradise Lost
+4
+2
+Gilded Dreams
+4
+3
+Elemental Mastery +80 set
+2
+Elemental Mastery +80 set
+2
+4
+Ocean-Hued Clam
+4
+Substats Priority
+1
+Elemental Mastery
+2
+Energy Recharge
+Talents Priority
+1
+E
+Skill
+2
+Q
+Burst
+3
+NA
+Normal Attack
+Recommended Primary Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Barbara
+'s main role is to provide sustain via her skill. Due to the lack of particle generation, building energy recharge to burst every rotation is not feasible.
+Barbara
+'s burst should be treated as an emergency button.
+Regarding Weapon Choices:
+Everlasting Moonglow
+: This weapon focuses on maximizing
+Barbara
+'s personal damage when played on field. However,
+Thrilling Tales of Dragon Slayers
+commonly results in the highest team damage if someone can make use of the buff.
+Hakushin Ring
+: This weapon is a strong pick for teams that make good use of its passive and let
+Barbara
+trigger
+electro
+reactions reliably.
+Regarding Artifact Sets:
+Ocean-Hued Clam (4)
+: This set is the best generalist pick as it lets
+Barbara
+deal decent damage of her own while healing.
+Scroll of the Hero of Cinder City
+and
+Instructor (4)
+: If
+Barbara
+can reliably trigger reactions, these sets can be the best option due to the buffs they can provide.
+Barbara
+can also be used as a
+BLOOM DPS
+in specific teams.
+Regarding Artifact Sets for
+BLOOM DPS
+:
+Ocean-Hued Clam (4)
+: This set can do more damage than other options in certain situations, while also increasing
+Barbara
+'s healing to deal with
+Bloom
+self-damage.
+Most-used community build
+This build is based on the community's most-used artifacts and weapons. Submit your UID to help improve this data.
+Weapons
+1
+Thrilling Tales of Dragon Slayers
+HP%
+2
+Prototype Amber
+HP%
+3
+The Widsith
+CRIT DMG
+4
+Favonius Codex
+Energy Recharge
+5
+Sacrificial Fragments
+Elemental Mastery
+Artifacts
+1
+Maiden Beloved
+4
+2
+Ocean-Hued Clam
+4
+3
+Maiden Beloved
+2
+Ocean-Hued Clam
+2
+4
+Wanderer's Troupe
+4
+5
+Heart of Depth
+4
+Best teams for Barbara
+Open the full Barbara team guide
+#
+1
+#
+2
+C6
+#
+3
+#
+4
+#
+5
+C6
+Barbara Skills
+Whisper of Water
+Normal Attack
+Performs up to 4 water splash attacks that deal
+Hydro DMG
+.
+Charged Attack
+Consumes a certain amount of Stamina to deal
+AoE Hydro DMG
+after a short casting time.
+Plunging Attack
+Gathering the might of Hydro, Barbara plunges towards the ground from mid-air, damaging all opponents in her path. Deals
+AoE Hydro DMG
+upon impact with the ground.
+Level
+1
+1-Hit DMG
+37.8%
+2-Hit DMG
+35.5%
+3-Hit DMG
+41%
+4-Hit DMG
+55.2%
+Charged Attack DMG
+166.2%
+Charged Attack Stamina Cost
+50
+Plunge DMG
+56.8%
+Low/High Plunge DMG
+113.6% / 141.9%
+Let the Show Begin♪
+Barbara's music is the magic that heals her companions.
+Summons water droplets resembling musical notes that form a Melody Loop, dealing
+Hydro DMG
+to surrounding opponents and applying the
+Wet
+status to them.
+Melody Loop
+·On hit, Barbara's Normal Attacks heal your own party members and nearby teammates for a certain amount of HP, which scales with Barbara's Max HP.
+·On hit, Barbara's Charged Attack generates 4 times the amount of healing.
+·Periodically regenerates your own active character's HP.
+·Applies the
+Wet
+status to the character and to opponents who come in contact with them.
+Level
+1
+HP Regeneration Per Hit
+0.75% Max HP + 72
+Continuous Regeneration
+4% Max HP + 385
+Droplet DMG
+58.4%
+Duration
+15s
+CD
+32s
+Shining Miracle♪
+Barbara's desire to heal strengthens her will to fight and sing.
+Heals your own party members and nearby teammates for a large amount of HP that scales with Barbara's Max HP.
+Level
+1
+Regeneration
+17.6% Max HP + 1694
+CD
+20s
+Energy Cost
+80
+Passive Talents
+Glorious Season
+Ascension Phase 1
+The Stamina Consumption of characters within
+Let the Show Begin♪
+'s Melody Loop is reduced by 12%.
+Encore
+Ascension Phase 4
+When your active character gains an Elemental Orb/Particle, the duration of the Melody Loop of
+Let the Show Begin♪
+is extended by 1s.
+The maximum extension is 5s.
+With My Whole Heart♪
+Passive
+When a Perfect Cooking is achieved on a dish with restorative effects, there is a 12% chance to obtain double the product.
+Constellations
+Gleeful Songs
+Constellation Lv. 1
+Barbara regenerates 1 Energy every 10s.
+Vitality Burst
+Constellation Lv. 2
+Decreases the CD of
+Let the Show Begin♪
+by 15%.
+During the ability's duration, your active character gains a 15%
+Hydro DMG Bonus
+.
+Star of Tomorrow
+Constellation Lv. 3
+Increases the Level of
+Shining Miracle♪
+by 3.
+Maximum upgrade level is 15.
+Attentiveness Be My Power
+Constellation Lv. 4
+Every opponent Barbara hits with her Charged Attack regenerates 1 Energy for her.
+A maximum of 5 energy can be regenerated in this manner with any one Charged Attack.
+The Purest Companionship
+Constellation Lv. 5
+Increases the Level of
+Let the Show Begin♪
+by 3.
+Maximum upgrade level is 15.
+Dedicating Everything to You
+Constellation Lv. 6
+When Barbara is in the party but not on the field, and one of your own party members falls:
+·Automatically revives the fallen character.
+·Fully restores the revived character's HP to 100%.
+This effect can only occur once every 15 mins.
+Outfits
+Summertime Sparkle
+Barbara's beach attire. This pretty skirt brims with summer vitality and carries with it a cool ocean breeze.
+Innocent Longing
+Default
+Barbara's outfit. A Deaconess's uniform from the Church of Favonius with a unique Barbara streak running through it.
+Stats
+Lv.
+1
+Lv.
+20
+Lv.
+40
+Lv.
+50
+Lv.
+60
+Lv.
+70
+Lv.
+80
+Lv.
+90
+Before Ascension
+After Ascension
+Ascend
+-
+1
+Base HP
+-
+821
+Base ATK
+-
+13
+Base DEF
+-
+56
+HP%
+-
+0.0%
+Ascension Materials
+View ascension details
+Total
+420000
+1
+9
+9
+6
+46
+168
+18
+30
+36
+Talent Materials
+LV.
+1
+→
+2
+12500
+Mora
+3
+Teachings of Freedom
+6
+Divining Scroll
+LV.
+2
+→
+3
+17500
+Mora
+2
+Guide to Freedom
+3
+Sealed Scroll
+LV.
+3
+→
+4
+25000
+Mora
+4
+Guide to Freedom
+4
+Sealed Scroll
+LV.
+4
+→
+5
+30000
+Mora
+6
+Guide to Freedom
+6
+Sealed Scroll
+LV.
+5
+→
+6
+37500
+Mora
+9
+Guide to Freedom
+9
+Sealed Scroll
+LV.
+6
+→
+7
+120000
+Mora
+4
+Philosophies of Freedom
+4
+Forbidden Curse Scroll
+1
+Ring of Boreas
+LV.
+7
+→
+8
+260000
+Mora
+6
+Philosophies of Freedom
+6
+Forbidden Curse Scroll
+1
+Ring of Boreas
+LV.
+8
+→
+9
+450000
+Mora
+12
+Philosophies of Freedom
+9
+Forbidden Curse Scroll
+2
+Ring of Boreas
+LV.
+9
+→
+10
+700000
+Mora
+16
+Philosophies of Freedom
+12
+Forbidden Curse Scroll
+2
+Ring of Boreas
+1
+Crown of Insight
+Total
+1652500
+3
+21
+38
+6
+22
+31
+6
+1

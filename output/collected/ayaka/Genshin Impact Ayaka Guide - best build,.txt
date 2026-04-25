@@ -1,0 +1,206 @@
+Walkthroughs
+Genshin Impact Ayaka Guide - best build, strengths and weaknesses
+All you need to know about Ayaka - updated for Genshin Impact 2.0
+By
+Bryan Taylor
+|
+Jul 26, 2021
+iOS
++
+Android
+|
+Genshin Impact
+Prefer Pocket Gamer on Google
+X
+Facebook
+Reddit
+Welcome to Pocket Gamer's detailed
+Genshin Impact Ayaka guide
+! Ayaka is the daughter of the Yashiro Commission’s Kamisato Clan from Inazuma. She is a noble who is kind-hearted and treats others with courtesy. While she goes out of her way to help the people of Inazuma in any way, she doesn’t have good social skills and has very few friends. Ayaka believes that any friends that she has have been brought to her by destiny.
+In the guide below you will find the following features.
+General Info & how to get Ayaka
+Strengths & Weaknesses
+Best Build (Artifacts & Weapons
+)
+Best Party Members for Albedo
+Talents / Skills / Passive
+Talent Leveling Materials
+Constellations
+Ascensions costs
+Ayaka Wishes / Availability
+Character Appearance
+Ayaka Element / Tier / Rarity / Weapon
+Cryo / S Tier / 5* Rarity / Sword
+In Genshin Impact, Ayaka is a Cryo sword user with Burst that does tons of Cryo DMG. Her special sprint allows her to dash across the water and move faster as a result. After a sprint, any of her normal attacks are infused with Cryo.
+How to get Ayaka
+You can obtain Ayaka in the featured banner, The Heron’s Court, as a limited 5-star character. However, she is not featured in the Standard Banner.
+Genshin Impact Ayaka Combat Info (Strengths and Weaknesses)
+Strengths
+Ayaka has fast sword skills and can dash around to avoid attacks
+Her base power is one of the highest in Genshin Impact
+You can use her dash to run on water
+Weaknesses
+Ayaka doesn’t have many buffs, can’t provide many reactions, and has zero support skills, so you’ll need some support on your team to keep her alive
+Here are
+some Genshin Impact codes
+as a thank you for reading this!
+Best Build for Ayaka in Genshin Impact
+Have Ayaka use the Mistsplitter Reforged weapon to provide a strong elemental DMG bonus. Pair this with the Blizzard Strayer artifact set to keep enemies feeling the chill with every attack and CRIT often.
+Ayaka guide - Best Artifacts and Weapons
+Blizzard Strayer
+ATK% / Cryo DMG / CRIT DMG
+Set Bonuses:
+(2) Cryo DMG Bonus + 15%
+(4) When a character attacks an opponent affected by Cryo, their CRIT Rate is increased by 20%. If the enemy is Frozen, the CRIT Rate is increased by an additional 20%.
+How to Obtain:
+Peak of Vindagnyr Domain reward
+Mistsplitter Reforged
+Base Attack:
+48
+Rating:
+5*
+Bonus Effect:
+CRIT DMG +
+Skill: Mistsplitter’s Edge
+Gain a 12~24% Elemental DMG Bonus for every element and receive the might of Mistsplitter's Emblem. At stack levels 1/2/3, Mistsplitter's Emblem provides an 8/16/28~16/32/56% Elemental DMG Bonus for the character's Elemental Type.
+The character will obtain one stack of Mistsplitter's Emblem in each of the following scenarios: Normal Attack deals Elemental DMG (stack lasts 5s), casting Elemental Burst (stack lasts 10s); Energy is less than 100% (stack disappears when Energy is full). Each stack's duration is calculated independently.
+How to Obtain:
+Gacha
+Best Party Members to match Ayaka with in Genshin Impact
+Premium (Gacha) Team
+In Genshin Impact, Ayaka can work well as a DPS with Xingqiu for reactions to do crazy amounts of Cryo DMG and freeze all the enemies they are fighting. Diona is great to provide additional mastery for Cryo, and can heal the party and protect them with her shields.
+Kazuha
+is able to give the party a Cryo Buff while he does extra damage with his Elemental Skill.
+F2P Team
+Ayaka can handle being the primary DPS on this team as she delivers strong Cryo attacks against foes. Kaeya can drop additional energy for Ayaka to be able to charge up and use her Burst attack. The
+Anemo version of the Traveler
+can offer a Cryo Debuff and help keep enemies at bay.
+Barbara
+is a great healer who can also use her Hydro abilities to help freeze enemies.
+Talents / Skills / Passive
+Kamisato Art Kabuki - Normal Attack
+Normal Attack:
+Perform up to 5 rapid strikes.
+Charged Attack:
+Consumes a certain amount of Stamina to unleash a flurry of sword ki.
+Plunging Attack:
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Skill Attributes:
+1-Hit DMG 45.7%
+2-Hit DMG 48.7%
+3-Hit DMG 62.6%
+4-Hit DMG 22.6% x 3
+5-Hit DMG 78%
+Charged Attack DMG
+- 55.1% x 3
+Charged Attack Stamina Cost
+- 20
+Plunge DMG
+- 64%
+Low/High Plunge DMG
+- 128% / 160%
+Kamisato Art: Hyouka - Elemental Skill
+Summons blooming ice to launch nearby opponents, dealing AOE Cryo DMG.
+Skill DMG
+-239%
+CD
+10s
+Kamisato Art: Soumetsu - Elemental Burst
+Summons frost with flawless poise, unleashing a Souken Gate that travels forwards continuously.
+Frostflake Seki no To
+A storm of whirling icy winds that slashes repeatedly at opponents it touches, dealing Cryo DMG. The snowstorm explodes once its duration ends, dealing AoE Cryo DMG.
+Skill Attributes
+Cutting DMG
+112%
+Bloom DMG
+168%
+Duration
+5.0s
+CD
+- 20s
+Energy Cost
+- 80
+Amatsumi Kunitsumi Satisfaction - 1st Ascension Passive
+After using Kamisato Art: Hyouka, Kamisato Ayaka's Normal and Charged Attacks deal increased DMG for 6s.
+Kanten Senmyou Blessing - 4th Ascension Passive
+When the Cryo application at the end of Kamisato Art: Senho hits an opponent, Kamisato Ayaka gains the following effects: Restores 10 Stamina and Gains 18% Cryo DMG Bonus for 10s.
+Fruits of Shinsa - Unlocked Automatically
+When Ayaka crafts Weapon Ascension Materials, she has a 10% chance to receive double the product.
+Talent Leveling Materials
+Gained from Enemy Drops (Nobushi):
+Old Handguard
+Kageuchi Handguard
+Famed Handguard
+Acquired from Domains (Tuesday/Friday/Sunday):
+Teachings of Elegance
+Guide to Elegance
+Philosophies of Elegance
+Obtained after defeating Bosses (Azhdaha Challenge):
+Bloodjade Branch
+Constellations
+Snowswept Sakura
+When Kamisato Ayaka's Normal or Charged Attacks deal Cryo DMG to opponents, it has a 50% chance of decreasing the CD of Kamisato Art: Hyouka by 0.3s. This effect can occur once every 0.1s.
+Blizzard Blade Seki no To
+When casting Kamisato Art: Soumetsu, unleashes 2, smaller additional Frostflake Seki no To, each dealing 20% of the original storm's DMG.
+Frostbloom Kamifubuki
+Increases the Level of Kamisato Art: Soumetsu by 3.
+Maximum upgrade level is 15.
+Ebb and Flow
+Opponents damaged by Kamisato Art: Soumetsu's, Frostflake Seki no To will have their DEF decreased by 30% for 6s.
+Blossom Cloud Irutsuki
+Increase the Level of Kamisato Art: Hyouka by 3.
+Maximum upgrade level is 15.
+Dance of Suigetsu
+Kamisato Ayaka gains Usurahi Butou every 10s, increasing her Charged Attack DMG by 298%. This buff will be cleared 0.5s after Ayaka's Charged ATK hits an opponent, after which the timer for this ability will restart.
+Genshin Impact Ayaka Ascensions costs
+Phase 1
+Lv.20→Lv.40
+Mora Cost: 20,000
+Sakura Bloom ×3
+Shivada Jade Sliver ×1
+Old Handguard ×3
+Phase 2
+Lv.40→Lv.50
+Sakura Bloom ×10
+Shivada Jade Fragment ×3
+Old Handguard ×15
+Perpetual Heart ×2
+Phase 3
+Lv.50→Lv.60
+Mora Cost: 60,000
+Sakura Bloom ×20
+Shivada Jade Fragment ×6
+Kageuchi Handguard ×12
+Perpetual Heart ×4
+Phase 4
+Lv.60→Lv.70
+Mora Cost: 80,000
+Sakura Bloom ×20
+Shivada Jade Chunk ×3
+Kageuchi Handguard ×18
+Perpetual Heart ×8
+Phase 5
+Lv.70→Lv.80
+Mora Cost: 100,000
+Sakura Bloom ×45
+Shivada Jade Chunk ×6
+Famed Handguard ×12
+Perpetual Heart ×12
+Phase 6 (MAX)
+Lv.80→Lv.90
+Mora Cost: 120,000
+Sakura Bloom ×60
+Shivada Jade Gemstone ×6
+Famed Handguard ×24
+Perpetual Heart ×20
+Base Stats
+At Level 1, Ayaka starts with 1,001 HP, 27 ATK, and 61 DEF.
+Wishes / Availability
+Ayaka is currently featured in the Event Wish Banner, The Heron’s Court, which runs from July 21st, 2021 to August 10th, 2021. She is not featured in the Standard Banner. That's the complete Genshin Impact's Ayaka guide!
+You know, we also have a
+Genshin Impact tier list
+if you want to check how well Ayaka performs in comparison to other characters! Also, stay aware, soon enough we plan to make a Genshin Impact characters hub with all of the available characters and their detailed guides!
+Bryan Taylor
+Bryan has a passion for writing and has been gaming since the 80s. His favourite games include Super Metroid, Chrono Trigger, and Rez, and he joins us bringing his vast knowledge of games to the team.
+Next Up :
+Dicero beginner's guide - 5 tips for mastering the dice

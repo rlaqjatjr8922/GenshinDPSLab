@@ -1,0 +1,82 @@
+It’s a good time for Venti wanters. Genshin 2.6 brings Venti’s 2nd rerun alongside Kamisato Ayato. If this is your first time having Venti, you’re definitely going to need a build guide for him. If you don’t know who Venti is, here’s a
+character demo
+for him. That’s what we’re going to be focusing on today to get the best possible build for him, so let’s get into it.
+Venti Build Guide- Artifacts:
+For Venti, support and Sub-Dps is the perfect role. To build those, you need a
+4-piece Viridescent Venerer.
+These are the effects of the 4-piece set:
+2-piece effect:
+15%+ Anemo DMG
+4-piece effect:
+Swirl DMG is increased by 60%. For 10 seconds, reduces the opponent’s Elemental RES to the element infused in the Swirl by 40%.
+This honestly is the best artifact set you can go for. Crit Rate, Crit Damage, and, most significantly, Energy Recharge are all necessary sub-stats. We highly recommend a
+triple Elemental Mastery
+build or an
+EM/Anemo DMG/EM
+build.
+Venti
+Build Guide
+– Best Weapon:
+In terms of weapons, here’s a list of all the weapons that would work great with Venti.
+5-star weapons:
+Elegy for the End:
+has an Energy Recharge sub-stat. Elemental Mastery has been increased by 60. When using Elemental Skill or Burst to deal damage, you will gain sigils. At 4 sigils, Elemental Mastery increased by 100% and ATK rose by 20%.
+Skyward Harp:
+has a Crit Rate sub-stat. CRIT DMG is increased by 20%. A minor AoE attack with 125 percent Physical ATK DMG is inflicted 60 percent of the time when a hit is made. It can only happen once every four seconds.
+4-star weapons:
+The Stringless:
+has an Elemental Mastery sub-stat. Elemental Skill and Elemental Burst DMG are increased by 24%.
+Favonius Warbow
+: has an Energy Recharge sub-stat. CRIT Hits have a 60% chance of generating a tiny amount of Elemental Particles, regenerating 6 Energy for the character. It can only happen once every 12 seconds.
+Venti Best Team Composition:
+Using his burst is going to make your life much easier since he can handle mobs like no other character in the game. Since the swirl can pick up other Elements, there are many characters that you can use with Venti. Using
+Mona
+and
+Ganyu
+and forming a freeze comp team will benefit you a lot. You can also use
+Klee
+or
+Yanfei
+for constant Pyro swirls.
+Venti’s Abilities and Skills:
+These are all of Ayato’s Normal Attack, Elemental Skill, and Elemental Burst.
+Normal Attack:
+Divine Marksmanship
+Normal
+: Shoots up to six arrows in a row.
+Charged
+: A precise Aimed Shot that does more damage. Anemo takes damage from a fully charged shot.
+Plunge
+: A shower of arrows is launched into the air and lands on the ground, doing AoE damage.
+Elemental Skill: Skyward Sonnet
+Press
+: The opponent summons a Wind Domain, which does AoE Anemo damage and launches enemies into the air.
+Hold
+: Summons a bigger Wind Domain with Venti at its heart, delivering AoE Anemo damage and propelling foes into the skies. Venti rides the wind current after activating this talent.
+Elemental Burst: Wind’s Grand Ode
+Summons a massive Stormeye that sucks in objects and opponents in its path, causing Anemo damage in the process. If the Stormeye comes into contact with another element, it will deal that element’s elemental damage as well. That only happens once each use.
+Venti’s Passive Talents:
+Embrace of Winds-
+Holding Skyward Sonnet for 20 seconds generates a wind current.
+Stormeye-
+After Wind’s Grand Ode ends, it regenerates 15 energy for Venti. If an Elemental Absorption occurs, all characters of the opposite element receive 15 Energy as well.
+Windrider-
+Reduces the gliding stamina consumption of your party’s characters by 20%. Talents having the same impact cannot be stacked.
+Venti’s Constellation:
+Splitting Gale-
+Per directed shot, fires two extra arrows that deal 33% of the original arrow’s damage. At close range, it’s possible to hit and harm the same target. The critical rate for each arrow is different.
+Breeze of Reminiscence-
+For 10 seconds, Skyward Sonnet reduces opponent Anemo Resistance by 12%. Anemo and Physical Resistance debuffs are increased by 12% for enemies propelled into the air.
+Ode to Thousand Winds-
+Increases Wind’s Grand Ode level by 3. The maximum level of upgrade is 15.
+Hurricane of Freedom-
+Venti obtains a 25% Anemo damage bonus for 10 seconds when choosing an Elemental Orb or Particle.
+Concerto dal Cielo-
+Increases Skyward Sonnet level by three. The maximum level of upgrade is 15.
+Storm of Defiance-
+Anemo Resistance is reduced by 20% for targets who suffer damage from Wind’s Grand Ode. When an Elemental Absorption takes place, their resistance to the relevant Element is reduced by 20%.
+Ending Note:
+A Venti rerun is something that many players have wished for and demanded for a long time. So, having him back again is an opportunity you don’t want to miss out on. We hope this Venti build guide helped you.
+May the Anemo Archon bless you, and Happy Gaming!
+Also Read:
+Genshin Impact – Ayato Build Guide- artifacts, weapons, teams

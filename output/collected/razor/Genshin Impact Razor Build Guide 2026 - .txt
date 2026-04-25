@@ -1,0 +1,149 @@
+Contents
+show
+1
+Razor Rating and Info
+1.1
+Stats Lvl 80
+2
+Best Razor Builds
+2.1
+Best Razor Weapons
+2.2
+Best Razor Artifacts
+3
+Best Razor Team Comp
+4
+Razor Skills Talents
+4.1
+Rain of Stone: Normal Attack
+4.2
+Claw and Thunder: Elemental Skill
+4.3
+Lightning Fang: Elemental Burst
+5
+Razor Passive Talents
+5.1
+Awakening: First Ascension Passive
+5.2
+Hunger: Fourth Ascension Passive
+5.3
+Wolvensprint: Passive Talent
+6
+Razor Constellations
+6.1
+Level 1: Wolf’s Instinct
+6.2
+Level 2: Suppression
+6.3
+Level 3: Soul Companion
+6.4
+Level 4: Bite
+6.5
+Level 5: Sharpened Claws
+6.6
+Level 6: Lupus Fulguris
+7
+Razor Ascension Costs Lvl 90
+Razor Rating and Info
+Rarity:
+★★★★
+Specialties:
+Main DPS
+Element:
+Electro
+Weapon:
+Claymore
+Release Date:
+September 28, 2020
+Tier List Rating
+: B
+Stats Lvl 80
+HP: 11134
+ATK: 218
+DEF: 699
+Physical DMG 30%
+Best Razor Builds
+Razor is the Main DPS character in Genshin Impact. There are a lot of different builds and roles for Razor, but most players are using Main DPS builds. He is a pretty bad character when you compear him to others. He is underperforming so we recommend you only use him if you want to test characters or have some fun. His skill will stack HP, and his shield will protect your team from receiving damage. Razor is the B-tier character in Genshin Impact.
+Best Razor
+Weapons
+Wolf’s Gravestone
+Increases ATK by 20/25/30/35/40%. On hit, attacks against enemies with less than 30% HP increase all party members’ Base ATK by 40/50/60/70/80% for 12s. Can only occur once every 30s.
+Serpent Spine
+Every 4s a character is on the field, they will deal 6/7/8/9/10% more DMG and take 3/2.7/2.4/2.1/1.8% more DMG. This effect has a maximum of 5 stacks and will not be reset if the character leaves the field, but will be cleared when the character takes DMG.
+Best Razor Artifacts
+Pale Flame
+(2) Physical DMG +25%
+(4) When an Elemental Skill hits an opponent, ATK is increased by 9% for 7s. This effect stacks up to 2 times and can be triggered once every 0.3s. Once 2 stacks are reached, the 2-set effect is increased by 100%.
+Gladiator’s Finale
+(2) ATK +18%
+(4) If the wielder of this artifact set uses a Sword, Claymore or Polearm, increases their Normal Attack DMG by 35%.
+Best Razor Team Comp
+Character 1
+Character 2
+Character 3
+Character 4
+Razor
+Fischl
+Rosaria
+Zhongli
+Razor
+Fischl
+Xingqiu
+Diona
+Razor
+Collei
+Traveler (Dendro)
+Diona
+Razor
+Fischl
+Rosaria
+Diona
+There are a lot of team comps that you can make in Genshin Impact with Razor. We recommend team comps that we think are best for Razor. There are a lot of different characters, and there is a high chance that you do not have some of them. So you should create your team comps, test them out, and see what is best for you and your playstyle. With that, you will become better at the game, and you will know how your team works.
+Razor Skills Talents
+Rain of Stone: Normal Attack
+Normal Attack
+Perform up to 4 consecutive strikes.
+Charged Attack
+Drains Stamina over time to perform continuous swirling attacks against all nearby opponents. At end of the sequence, perform a more powerful slash.
+Plunging Attack
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Claw and Thunder: Elemental Skill
+Hunts his prey using the techniques taught to him by his master and his Lupical.
+Press
+Swings the Thunder Wolf Claw, dealing Electro DMG to enemies in front of Razor. Upon striking an enemy, Razor will gain an Electro Sigil, which increases his Energy Recharge rate. Razor can have up to 3 Electro Sigils simultaneously, and gaining a new Electro Sigil refreshes their duration.
+Hold
+Gathers Electro energy to unleash a lightning storm over a small AoE, causing massive Electro DMG, and clears all of Razor’s Electro Sigils. Each Electro Sigil cleared in this manner will be converted into Energy for Razor.
+Lightning Fang: Elemental Burst
+Summons the Wolf Within which deals Electro DMG to all nearby opponents. This clears all of Razor’s Electro Sigils, which will be converted into elemental energy for him. The Wolf Within will fight alongside Razor for the skill’s duration.
+The Wolf Within
+Strikes alongside Razor’s normal attacks, dealing Electro DMG. Raises Razor’s ATK SPD and Electro RES. Causes Razor to be immune to DMG inflicted by the Electro-Charged status. Disables Razor’s Charged Attacks. Increases Razor’s resistance to interruption
+Razor Passive Talents
+Awakening: First Ascension Passive
+Decreases Claw and Thunder‘s CD by 18%. Using Lightning Fang resets the CD of Claw and Thunder.
+Hunger: Fourth Ascension Passive
+When Razor’s Energy is below 50%, increases Energy Recharge by 30%
+Wolvensprint: Passive Talent
+Decreases all party member’s sprinting Stamina Consumption by 20%.
+Razor Constellations
+Level 1: Wolf’s Instinct
+Picking up an Elemental Orb or Particle increases Razor’s DMG by 10% for 8s.
+Level 2: Suppression
+Increases CRIT Rate against enemies with less than 30% HP by 10%.
+Level 3: Soul Companion
+Increases the Level of Lightning Fang by 3. Maximum upgrade level is 15.
+Level 4: Bite
+When casting Claw and Thunder (Press), enemies hit will have their DEF decreased by 15% for 7s.
+Level 5: Sharpened Claws
+Increases the Level of Claw and Thunder by 3. Maximum upgrade level is 15.
+Level 6: Lupus Fulguris
+Every 10s, Razor’s sword charges up, causing the next Normal Attack to release lightning that deals 100% of Razor’s ATK as Electro DMG. When Razor is not using Lightning Fang, a lightning strike on an enemy will grant Razor an Electro Sigil for Claw and Thunder.
+Razor Ascension Costs Lvl 90
+Damaged Mask x 18
+Stained Mask x 30
+Ominous Mask x 36
+Wolfhook x 168
+Lightning Prism x 46
+Vajrada Amethyst Sliver x 1
+Vajrada Amethyst Fragment x 9
+Vajrada Amethyst Chunk x 9
+Vajrada Amethyst Gemstone x 6

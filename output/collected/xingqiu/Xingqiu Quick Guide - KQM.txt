@@ -1,0 +1,735 @@
+Updated for Version 5.7
+Xingqiu is a 4★ Hydro Sword character in
+Genshin Impact
+who excels in consistent Hydro application and single-target damage while off the field. Learn about Xingqiu’s best builds, best weapons, best artifacts, and best teams in this quick guide.
+Note that the information given may change if new discoveries are made.
+More extensive testing is in progress.
+The full-length guide is available
+here
+. It is currently being updated.
+Table of Contents
+New Content
+Infographics
+Character Overview
+Playstyles
+Talents
+Constellations
+Combos
+Artifacts
+ER Requirements
+Artifact Stats
+Artifact Sets
+Weapons
+Teams
+Teambuilding
+Reverse Vaporize
+Hyperbloom & Burgeon
+Pure Bloom
+Freeze
+Electro-Charged
+Other Teams
+Credits
+New Content
+Wriothesley
+On-field damage dealer who uses Xingqiu in his Freeze teams.
+Furina
+Powerful teammate who forms a good Hydro core with Xingqiu for damage and buffing. Furina can also enable 4pc MH for Xingqiu’s on-field playstyle.
+Charlotte
+,
+Sigewinne
+Good healers in Furina teams.
+Navia
+Navia appreciates Xingqiu’s abundant Hydro application for Crystallize reactions.
+Xianyun
+Great teamwide healer with 4pc VV and can enable a Plunging Attack playstyle.
+Gaming
+Xingqiu is a good Hydro applier for Vape Gaming.
+Chiori
+Good flex option everywhere for simple yet effective personal damage.
+Arlecchino
+Arlecchino drives Xingqiu well and takes advantage of his good application to Vape her Normal Attacks.
+Clorinde
+,
+Sethos
+Good on-field damage dealers who can drive Xingqiu well. However, Xingqiu is generally not a good teammate for them.
+Kinich
+Xingqiu can enable Burgeon teams for Kinich.
+Xilonen
+Excellent healer and buffer with long-lasting RES Shred and DMG% buff (from 4pc Scroll).
+Ororon
+Good choice for Electro-Charged teams for his personal damage and strong buff from 4pc Scroll.
+Citlali
+Good shielder and buffer with 4pc Scroll and Hydro / Pyro RES Shred.
+Mavuika
+Strong Pyro DPS who can use Xingqiu as a Vape enabler.
+Pyro Traveler
+Accessible support with 4pc Scroll; can use Xingqiu in their Vape DPS teams.
+Lan Yan
+,
+Ifa
+Anemo shielder / healer who can shred RES with 4pc VV and drive Xingqiu.
+Escoffier
+Excellent off-field damage dealer, healer, and RES shredder who make Freeze teams competitive for Xingqiu.
+Skirk
+Cryo on-fielder that prefers a Pure Freeze team, which Xingqiu can be a decent teammate on.
+Sword of Narzissenkreuz
+A F2P option received upon completing a World Quest. It is mostly notable for its Arkhe attack that can be used to counter certain enemies from Fontaine.
+Splendor of Tranquil Waters, Uraku Misugiri, Absolution
+Good stat stick options.
+Scroll of the Hero of Cinder City
+A viable set to give team buffs in teams where Xingqiu’s damage contribution is not high.
+Infographics
+Credits to: cote, cegewinne, auraolis, snowwwwww., and KQM Staff
+Credits to: auraolis, acerbus114, caxia5, and KQM Staff
+Character Overview
+Pros
+One of the best off-field Hydro appliers, with frequent and long-duration application
+Decent personal damage when invested
+Valuable interruption resistance, damage reduction, and small healing
+Cons
+Hydro application from Elemental Skill’s orbitals can make reaction setup difficult
+Requires Normal Attack input from the active characters to trigger his Burst
+Lacks buffs compared to his competitors, Yelan and Furina, while elongating his teams’ rotations due to his long Skill cooldown
+Energy Recharge requirements can be very high without C6 or R3+ Sacrificial Sword
+Playstyles
+Off-field DPS & Enabler
+Xingqiu’s most common playstyle that best utilizes his kit. Off-field DPS Xingqiu enables reactions through consistent Hydro application while also contributing respectable personal damage.
+On-field DPS
+On-field DPS Xingqiu is usually a playstyle chosen due to personal preference. Otherwise, teams using on-field DPS Xingqiu have a lower damage ceiling compared to teams where he is an off-field DPS.
+Talents
+Level and Talent Priority
+Off-Field DPS:
+Burst > Skill
+On-Field DPS:
+Skill = Burst > Normal Attack
+Regardless of the playstyle, Xingqiu’s Burst makes up a majority of his damage and is important to level. Xingqiu’s Skill also deals significant damage, especially for on-field DPS builds. For off-field DPS builds, Normal Attacks should not be leveled.
+Talent Overview
+Normal Attack
+Elemental Skill
+Elemental Burst
+Ascension 1 Passive
+Ascension 4 Passive
+Normal Attack
+Normal Attack |
+Guhua Style
+Talent Description
+Normal Attack
+Performs up to 5 rapid strikes.
+Charged Attack
+Consumes a certain amount of Stamina to unleash 2 rapid sword strikes.
+Plunging Attack
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Xingqiu’s Normal Attacks are rather lackluster and are rarely used apart from extra triggers of his own Burst, Favonius Sword’s passive, or on-field DPS playstyles. Xingqiu’s full attack string (N5) is best for proccing his Burst as an on-field DPS.
+Elemental Skill
+Elemental Skill |
+Guhua Sword: Fatal Rainscreen
+Talent Description
+Xingqiu performs twin strikes with his sword, dealing Hydro DMG. At the same time, this ability creates the maximum number of Rain Swords, which will orbit your active character.
+The Rain Swords have the following properties:
+When a character takes DMG, the Rain Sword will shatter, reducing the amount of DMG taken.
+Increases the character’s resistance to interruption.
+20% of Xingqiu’s Hydro DMG Bonus will be converted to additional DMG Reduction for the Rain Swords.
+The maximum amount of additional DMG Reduction that can be gained this way is 24%.
+The initial maximum number of Rain Swords is 3.
+Using this ability applies the
+Wet
+status onto the character.
+Xingqiu’s Skill hits and applies Hydro to enemies twice.
+In addition to dealing respectable damage, Xingqiu’s Skill creates three (or four, with C1) Rain Swords that orbit around the on-field character. These Rain Swords should not be overlooked as they provide additional Hydro application, interruption resistance, damage reduction, and small healing (through Xingqiu’s A1).
+Elemental Burst
+Elemental Burst |
+Guhua Sword: Raincutter
+Talent Description
+Initiate Rainbow Bladework and fight using an illusory sword rain, while creating the maximum number of Rain Swords.
+Rainbow Bladework
+Your active character’s Normal Attacks will trigger consecutive sword rain attacks, dealing
+Hydro DMG
+.
+Rain Swords will remain at the maximum number throughout the ability’s duration.
+The highlight of Xingqiu’s kit and a majority of his damage. When the on-field character does a Normal Attack, sword rain attacks will fire and deal Hydro damage to the enemy. The number of swords fired alternates between 2 and 3 in a 2-3 pattern (this pattern changes to 2-3-5 with C6). Despite being primarily single-target, Xingqiu’s Burst is what makes him the premier Hydro applier and reaction enabler.
+Additionally, the maximum number of Rain Sword orbitals (3 with C0, 4 with C1+) will last for the entire duration of Xingqiu’s Burst. These Rain Swords are the same Rain Swords from his Skill, and so the utility they provide is still relevant (interruption resistance, damage reduction, etc.). Xingqiu’s A1 healing only occurs when the Burst duration ends and the Rain Swords shatter/disappear.
+Ascension 1 Passive
+Ascension 1 Passive |
+Hydropathic
+Talent Description
+When a Rain Sword is shattered or when its duration expires, it regenerates the current character’s HP based on 6% of Xingqiu’s Max HP.
+Xingqiu’s A1 provides very minor healing. But when combined with the other utility provided by his Rain Swords, it makes Xingqiu a comfortable pick for his teams.
+Ascension 4 Passive
+Ascension 4 Passive |
+Blades Amidst Raindrops
+Talent Description
+Xingqiu gains a 20% Hydro DMG Bonus.
+A simple, useful, and completely unconditional 20% Hydro DMG bonus. Also increases the damage reduction from Xingqiu’s Rain Sword orbitals.
+Constellations
+Constellation 1
+Constellation 2
+Constellation 3
+Constellation 4
+Constellation 5
+Constellation 6
+Constellation 1
+Constellation 1 |
+The Scent Remained
+Constellation Description
+Increases the maximum number of Rain Swords by 1.
+Increasing the max number of orbital Rain Swords from 3 to 4 does not fundamentally change anything in Xingqiu’s kit. Although arguably Xingqiu’s worst Constellation, it provides some quality-of-life upgrade by allowing for more healing and damage reduction.
+Constellation 2
+Constellation 2 |
+Rainbow Upon the Azure Sky
+Constellation Description
+Extends the duration of Guhua Sword: Raincutter by 3s.
+Decreases the Hydro RES of opponents hit by sword rain attacks by 15% for 4s.
+Xingqiu’s second-best Constellation. By increasing the duration of his Burst, Xingqiu can fire more Rain Swords and apply Hydro for longer. The Hydro RES Shred is also useful for both Xingqiu himself and other Hydro teammates.
+Constellation 3
+Constellation 3 |
+Weaver of Verses
+Constellation Description
+Increases the Level of Guhua Sword: Raincutter by 3.
+Maximum upgrade level is 15.
+A simple but significant +3 Talent level increase to Xingqiu’s Burst.
+Constellation 4
+Constellation 4 |
+Evilsoother
+Constellation Description
+Throughout the duration of Guhua Sword: Raincutter, the DMG dealt by Guhua Sword: Fatal Rainscreen is increased by 50%.
+Increases the damage from Xingqiu’s Skill by 50% if used during Xingqiu’s Burst. It can be worth making use of this Constellation, but it is not important enough that it should be forced into the team rotation.
+Constellation 5
+Constellation 5 |
+Embrace of Rain
+Constellation Description
+Increases the Level of Guhua Sword: Fatal Rainscreen by 3.
+Maximum upgrade level is 15.
+Another simple +3 Talent level increase, but for Xingqiu’s Skill and therefore not as significant as C3.
+Constellation 6
+Constellation 6 |
+Hence, Call Them My Own Verses
+Constellation Description
+Activating 2 of Guhua Sword: Raincutter‘s sword rain attacks greatly enhances the third sword rain attack. On hit, the third sword rain attack also regenerates 3 Energy for Xingqiu.
+By far, Xingqiu’s best Constellation. The description is a bit misleading: On the third Rain Sword hit, Xingqiu will fire 5 Rain Swords — changing his attack pattern from 2-3-2-3 to 2-3-5 — and regenerate 3 Energy. This increases Xingqiu’s damage and Hydro application while also reducing his ER requirements.
+Combos
+Combo Notation
+N = Normal Attack
+C = Charged Attack
+A = Aimed Shot
+P = Plunging Attack
+hP = High Plunge
+lP = Low Plunge
+E = Elemental Skill
+tE = Tap Skill
+hE = Hold Skill
+Q = Elemental Burst
+D = dash (cancel)
+J = jump (cancel)
+W = walk (cancel)
+> = switch character
+( ) = these actions are optional; please refer to the notes below
+[ ] = repeat these actions the specified number of times
+Xingqiu’s Elemental Skill animation can be cancelled by a dash. This allows him to use Burst earlier and have a lower chance of missing the Skill particles.
+(ED) EDQ (N1)
+The standard Skill into Burst for pre-funneling particles. It is viable if your team does not let you switch back to Xingqiu again later in the rotation.
+The downside is that Xingqiu does not take advantage of his C4, and particles are wasted if Xingqiu is Frozen (as his Skill applies Hydro to himself while being cast).
+Xingqiu can use a Normal Attack to trigger a Burst coordinated attack before swapping out.
+Q ED (ED)
+With N1 Weaving:
+Q N1 ED N1 (ED)
+Burst into Skill gives the extra 50% Skill damage from Xingqiu’s C4, but it risks Burst uptime. If you swap to another character too quickly, Xingqiu does not catch his particles and struggles to get his Burst up in the next rotation. Staying on-field to catch the particles increases Xingqiu’s field time.
+One workaround is the “book trick” — opening the Adventurer Handbook or some other menu to “pause” the game (particles will not be “paused,” so Xingqiu can catch all of his).
+The N1 weaving version is a strong opening for many rotations. It is especially useful if Xingqiu has Favonius Sword, as it greatly increases the chance of triggering the passive.
+EDQ ED
+With N1 Weaving:
+EDQ N1 ED N1
+This is a Sacrificial Sword combo that is not recommended since it lengthens the amount of time between Skill uses and therefore extends 21s rotations.
+Artifacts
+ER Requirements
+Xingqiu’s ER requirements are highly variable depending on his C6 procs, his teammates, the enemy, etc. The following table assumes the average, but use the
+Energy Recharge Calculator
+to determine exact requirements for your team and rotation.
+Off-Field DPS
+C0–C5
+C6
+Favonius Sword
+190–220%
+150–180%
+Sacrificial Sword (R3+)
+150–180%
+130–150%
+Amenoma Kageuchi (R3)
+190–230%
+160–190%
+Other Weapons
+220–260%
+180–220%
+Other Weapons With Raiden
+180–185%
+140–145%
+On-Field DPS
+On-field DPS Xingqiu builds will generally want around 10-20% less ER than what is listed above for off-field DPS builds.
+Use the
+Energy Recharge Calculator
+to determine exact requirements for your team and rotation. For more details on how Favonius weapons will affect your team, please use
+Ac1d’s Favoniu
+s Mastersheet
+.
+Artifact Stats
+Sands
+Goblet
+Circlet
+Energy Recharge or ATK%
+Hydro DMG%
+CRIT
+Stat Priority:
+ER (until requirements) > CRIT > ATK%
+An ER Sands is usually preferred to help meet Xingqiu’s high Energy requirements, but in the case that Energy is not an issue (such as with an ER weapon), an ATK Sands can be competitive or even better.
+Besides increasing his damage, Hydro Goblets additionally improve his Elemental Skill’s damage reduction, as 20% of his Hydro DMG Bonus is converted into damage reduction.
+A CRIT Rate or CRIT DMG Circlet should be chosen based on which one brings Xingqiu closer to the ideal 1:2 ratio.
+Artifact Sets
+4pc Emblem of Severed Fate
+By far, Xingqiu’s Best-in-Slot artifact set that provides everything he needs — ER% and increased Burst damage.
+4pc Marechaussee Hunter (MH)
+Xingqiu’s preferred set when he is the on-fielder in teams with Furina.
+2pc Mixed Sets
+2pc Set Bonuses: EoSF, Scroll, Noblesse Oblige, Hydro DMG%, ATK%
+Simple and easy sets that work on Xingqiu if you don’t have a good 4pc Emblem set for him.
+Support Sets
+4pc Noblesse Oblige, 4pc Scroll of the Hero of Cinder City, 4pc Archaic Petra, 4pc Deepwood Memories
+Support sets for teams where the buffs are more important than Xingqiu’s personal damage.
+Weapons
+Although certain weapons are better on Xingqiu in terms of personal damage, Burst uptime should still be a priority. It is recommended to only choose a non-ER% weapon if Energy is not an issue on your Xingqiu. As a general rule of thumb, ER% weapons will tend to prefer an ATK% Sands. Anything else will tend to prefer an ER% Sands.
+5★ Primordial Jade Cutter
+Xingqiu’s BiS in terms of personal damage. Gives a hefty amount of CRIT Rate with a non-conditional passive.
+5★ CRIT Swords
+Mistsplitter Reforged, Haran Geppaku Futsu, Light of Foliar Incision, Splendor of Tranquil Waters, Uraku Misugiri, Azurelight, Absolution
+Good damage stat sticks that give CRIT and other buffs. However, Xingqiu cannot make full use of their passives, which causes them to fall behind Jade Cutter.
+5★
+Skyward Blade
+A very comfortable stat stick choice with high Base ATK, a good chunk of ER, and a little bit of CRIT Rate.
+4★
+Wolf-Fang
+With a CRIT Rate secondary stat and buffs to his Skill and Burst, this Battle Pass weapon is a great choice if Xingqiu’s ER requirements are met.
+4★
+Favonius Sword
+One of Xingqiu’s best 4-star weapon choices. Gives ER and, with consistent triggers of its passive, decreases ER requirements for both Xingqiu and the entire team.
+4★
+Sacrificial Sword
+At R1 and R2, Sacrificial Sword is mainly an ER% stat stick. But starting at R3, its passive can be consistently triggered every rotation — significantly lowering Xingqiu’s ER requirements and making it a good 4-star weapon choice.
+4★
+Fleuve Cendre Ferryman
+A great F2P choice that provides plenty of ER% and some CRIT Rate to Xingqiu’s Skill. It is especially strong since Xingqiu often uses his Skill into his Burst, allowing him to significantly benefit from the weapon passive’s ER increase.
+4★
+Festering Desire
+A good F2P option but from a time-limited event. If you have it, it gives both ER% and Skill DMG% — both of which are useful for Xingqiu.
+4★
+Amenoma Kageuchi
+Craftable. A solid choice if you don’t have the other options. It lowers Xingqiu’s ER requirements with its passive while also supplying ATK% with its substat. R3+ is recommended due to Xingqiu rarely gaining more than one stack.
+4★
+Finale of the Deep
+Provides an abundance of ATK and is a good F2P weapon at low ER requirements. It is especially strong if you can reliably clear the Bond of Life.
+4★ Kagotsurube Isshin
+A good F2P option for on-field or quickswap playstyles at low Energy needs. However, it is surpassed by Finale of the Deep when the latter weapon’s Bond of Life can be reliably cleared.
+Teams
+Rotation Notation
+N = Normal Attack
+C = Charged Attack
+A = Aimed Shot
+P = Plunging Attack
+E = Elemental Skill
+tE = Tap Skill
+hE = Hold Skill
+Q = Elemental Burst
+D = dash (cancel)
+J = jump (cancel)
+W = walk (cancel)
+> = switch character
+( ) = these actions are optional; please refer to the notes below
+[ ] = repeat these actions the specified number of times
+Teambuilding
+Xingqiu is a very versatile unit due to his strong Hydro application, allowing him to fit into almost any team that uses Hydro-related reactions (which is a lot of teams). Even without reactions, Xingqiu can still be a good pick due to his significant off-field damage.
+Some important notes:
+Xingqiu’s Burst procs on Normal Attacks, limiting his synergy with Aimed Shot Bow users like Ganyu, Tighnari, etc., and Xiao*
+*See the
+KQM Xiao Guide
+for more details on Xiao–Xingqiu synergy, specifically the JET combo
+Without an Anemo unit to Swirl and spread Hydro, Xingqiu’s Hydro application is primarily single-target
+Xingqiu’s Burst does not snapshot buffs such as Bennett’s Burst
+These buffs can still be useful for other teammates
+When paired with a shielder or another defensive utility (such as C1 Beidou), the damage reduction and micro-healing from Xingqiu’s Rain Swords can sometimes be enough to run without a healer
+Reverse Vaporize
+Xingqiu — Pyro DPS — Flex — Flex
+Xingqiu’s off-field Hydro application pairs very well with a Pyro DPS such as Hu Tao, Yoimiya, Diluc, Yanfei, or Xiangling. One of the flex slots is almost always reserved for a shielder / healer, whereas the other flex slot can be essentially anyone who fits in the team.
+Notable Teammates
+Pyro DPS
+Hydro
+Electro
+Buffers
+Pyro DPS
+Xingqiu’s plentiful Hydro application enables most Pyro damage dealers to consistently trigger Vaporize. His interruption resistance and damage reduction are appreciated by many units and are the main advantage of him over his competitors, Yelan and Furina.
+Xiangling
+Xiangling’s Burst can be used off-field, similar to Xingqiu’s. Due to Xiangling’s Pyronado having no ICD, she is able to Vaporize most, if not all, of her Pyronado hits thanks to Xingqiu’s fast Hydro application. Xiangling’s most notable teammate is Bennett. The Xiangling–Bennett–Xingqiu trio makes a strong baseline that can allow for many on-fielders to be in the last slot, or form a quickswap team where Bennett is frequently switched in to generate Pyro particles for Xiangling with his Skill.
+Arlecchino
+On one hand, Arlecchino is a good driver for Xingqiu’s coordinated attacks, and his application is more than enough to guarantee Arlecchino Vapes all possible hits. On the other hand, Xingqiu is usually a subpar option compared to Yelan or another team archetype due to his 21s-long Skill cooldown, whereas an Arlecchino team rotation wants to be 16–18s long for maximized DPS performance.
+Mavuika
+Despite being able to proc Xingqiu’s Burst attacks with her first Charged Attack, Mavuika prefers to use her continuous Charged Attack chains for personal damage. This significantly limits how many of Xingqiu’s coordinated attack instances can be triggered during Mavuika’s field time, thus decreasing his personal damage by a decent amount. Mavuika also wants to keep her rotation short (around 18s), so Xingqiu’s 21s Skill cooldown does not help either.
+Hu Tao
+Yoimiya
+Diluc
+Yanfei
+Pyro Traveler
+Gaming
+Klee
+Hydro
+Extra Hydro characters can be used to make Vaporize reactions more consistent for the Pyro DPS. Furina and Yelan are the most notable picks for this thanks to their good personal damage and buffing. On-field Hydro units are usable in Xiangling Vape teams.
+Furina
+Furina applies Hydro, deals good personal damage, and provides a strong DMG% buff to the whole team, increasing not only the Pyro units’ damage but Xingqiu’s as well. However, she requires a healer to stack Fanfare and offset her HP drain.
+Yelan
+Yelan plays the same role as Furina of additional Hydro damage dealer and applier. Although her buff is smaller and for the on-fielder only, she does not require a healer in the team like Furina does.
+Kokomi
+Ayato
+Childe
+Mona
+Sigewinne
+Electro
+Electro characters can enable Overvape — an archetype where Electro-Charged is present to lessen the amount of Hydro aura a Pyro character consumes in a Vaporize reaction. This allows Pyro damage dealers with stronger application such as Yanfei or Klee to Vape more reliably without having to add another Hydro character. The Pyro characters also trigger Overloaded and deal extra damage in the process.
+Fischl
+Ororon
+Yae Miko
+Raiden Shogun
+Buffers
+Bennett
+Bennett boosts Pyro damage dealers with his massive Flat ATK buff, provides Energy, and heals the on-fielder. In some Vape Xiangling teams where there is no dedicated on-field character, Xingqiu can stay on-field to drive his own Burst attack and benefit from Bennett’s buff.
+Note that Xingqiu’s Burst does not snapshot, so he does not receive Bennett’s buff when switching off after casting his Burst inside Bennett’s circle.
+Xilonen
+Xilonen shreds Elemental RES and holds 4pc Scroll, increasing Xingqiu and the Pyro unit’s damage. She also heals to keep the team alive and healthy.
+Kazuha
+Similar to Xilonen, Kazuha buffs the team with his DMG% buff and 4pc VV’s RES Shred. It can be tricky to activate such buffs for both Pyro and Hydro without careful attention to rotation and aura management.
+Sucrose
+Sucrose’s buffing capability differs from the two aforementioned supports as she gives EM, which mostly improves the Pyro DPS’s damage, but also Xingqiu’s Vape Skill for some scenarios. Additionally, in teams where the Pyro unit’s damage share is the majority of team DPS, her buff can appear better than Kazuha’s and Xilonen’s.
+C6 Chevreuse
+C6 Chevreuse still buffs the Pyro units with Pyro DMG Bonus, making her worthwhile to use even in a Vape team. She gains value in Overvape teams, where not only the Electro character is buffed by her C6, but the team also benefits from her A4’s ATK% buff.
+A C4+ Chevreuse helps with establishing Pyro aura for setups that require it (e.g. 4pc VV).
+Iansan
+Iansan is a good Flat ATK buffer with the ability to hold 4pc Scroll. She can provide further buffing with her C2 and C6. However, she requires the on-field character to move constantly to maintain her highest ATK buff. As such, she is mostly relevant for Mavuika and Gaming.
+Citlali
+Citlali is a strong buffer for Vapemelt teams with her Pyro and Hydro RES Shred, 4pc Scroll buff, and supportive weapons such as TTDS. She also offers a shield for damage tanking and interruption resistance.
+Escoffier
+Escoffier’s main value in a Vapemelt team is her personal damage and the Hydro RES she provides to the Hydro characters (including Xingqiu). However, as her buffs are little to nonexistent for the Pyro DPS, she is better off playing in her traditional Freeze / Mono Cryo teams.
+Zhongli
+Zhongli boasts one of the strongest shields in the game, allowing a comfortable on-field experience. He also gives Universal RES Shred to the team and some other buffing from his sets, for example 4pc TotM or 4pc Instructor.
+Example Teams
+This is not a comprehensive list of teams. The inclusion or exclusion of any given team does not necessarily reflect its power level.
+Xingqiu — Yoimiya — Bennett — Kazuha
+A typical Reverse Vaporize team with an on-field Pyro DPS (Yoimiya) enabled by Xingqiu’s application and Bennett’s and Kazuha’s buffs. It is recommended to do a Double Swirl VV setup to buff both Yoimiya and Xingqiu, but ignoring Hydro Swirl for an easier setup is acceptable.
+Sample Rotation (Double Swirl)
+Xingqiu EDQ N1 > Bennett EN1Q N1 > Kazuha N1 D¹ hEP N3 > Yoimiya E 3[N5D] > (Kazuha tEP) > Bennett E N4
+¹Dash backward so Xingqiu’s Rainscreen will not apply Hydro when Kazuha is plunging.
+Sample Rotation (Pyro Swirl Only)
+Xingqiu EDQ N1 > Bennett ED¹Q > Kazuha hEP N3 > Yoimiya E 3[N5D] > (Kazuha tEP) > Bennett E N4
+¹Dash backward so Xingqiu’s Rainscreen will not apply Hydro.
+Xingqiu — Hu Tao — Yelan — Zhongli
+A classic Double Hydro Hu Tao Vape team with Yelan and Zhongli. The Double Hydro core maintains reliable aura for Hu Tao while still doing solid damage on their own. Zhongli is a good defensive option with some buffing such as Universal RES Shred and supportive artifact sets such as Archaic Petra or Instructor.
+Sample Rotation
+Xingqiu EQ N1 > Zhongli hED > Yelan Q N1 E N1 > Hu Tao
+combo
+> Yelan E
+Xingqiu — Xiangling — Bennett — Sucrose
+Another classic Reverse Vape team, this time with the reliable old Xiangling. The renowned chef from Liyue excels in both single-target and multi-target scenarios. Against a single enemy, Xingqiu can take the field and wield his coordinated attacks to gain the ATK buff that Bennett grants to the on-fielder. Meanwhile, Sucrose can drive and utilize the Hydro Swirl to complement Xingqiu’s application, allowing Xiangling to Vaporize in AoE.
+Sample Rotation (Single-Target)
+Xingqiu Q N1 > Bennett Q E > Xiangling N1 E > Sucrose N2 E¹ > Xiangling Q > Xingqiu ED N3 > Bennett E > Xiangling N3 > Xingqiu N5 > Sucrose (E) N2 > Bennett E > Xiangling N3
+¹
+Guoba Swirl
+.
+Sample Rotation (Multi-Target)
+Xingqiu Q N1 > Bennett Q E > Sucrose E¹ N2 (Q) > Xiangling Q E > Xingqiu ED N3 > Bennett E > Xiangling N3 > Sucrose (E) 2[N4] > Bennett E > Xiangling N3
+¹Pyro Swirl on the primary target and Hydro Swirl on the adjacent ones.
+Xingqiu — Xiangling — Bennett — Raiden
+Raiden acts as the on-field unit in this Overvape team, providing many benefits to her teammates: Burst DMG%, teamwide Energy refund, good particle generation, Electro application for consistent Vape, and extra damage for Xiangling. She also takes advantage of Bennett’s buff to deal formidable damage. Overall, this is a high-performing team that is relatively easy to play for everyone.
+Sample Rotation
+(Raiden E)¹ > Xingqiu EDQ N1 > Bennett Q N1 E > Xiangling Q N1 ED > Raiden Q
+combo
+> Bennett E
+¹First rotation only. Raiden uses Skill again during her field time.
+Hyperbloom & Burgeon
+Xingqiu — Dendro — Hyperbloom / Burgeon Trigger — Flex
+Xingqiu is an excellent Hydro applier for Hyperbloom and Burgeon teams. His unmatched Hydro application helps generate the most Dendro Core to maximize the Hyperbloom / Burgeon damage. At the same time, he provides solid personal damage and appreciable defensive utility in the forms of interruption resistance, damage reduction, and some minor healing.
+Notable Teammates
+Dendro
+Electro
+Pyro
+Hydro
+Anemo
+Cryo
+Geo
+Dendro
+Dendro characters are required for the Bloom reactions. Fast Dendro appliers such as Nahida and Alhaitham are generally preferred, although Dendro units with healing or shielding are valued too.
+Nahida ★
+Alhaitham ★
+Baizhu ★
+Yaoyao
+Kirara
+Dendro Traveler
+Collei
+Kaveh
+Kinich
+Emilie
+Electro
+Electro units with off-field Electro application are used as Hyperbloom triggers who are built with EM to maximize their reaction damage. On-field Electro units can also trigger Hyperbloom while still dealing decent Talent damage themselves. Additionally, certain off-field Electro characters cannot reliably trigger Hyperbloom; they are often used as flex slots to deal extra damage instead.
+Kuki Shinobu ★
+Raiden Shogun ★
+Dori
+Electro Traveler
+Lisa
+Cyno ★
+Razor ★
+Keqing
+Sethos
+Clorinde
+Fischl ★
+Beidou
+Yae Miko
+Ororon
+Pyro
+Similarly, Pyro characters with long-uptime application (either on-field or off-field) are suitable for the Burgeon trigger role.
+Bennett
+While Bennett’s Flat ATK buff does not benefit Burgeon (or Hyperbloom) reaction damage, he boosts the damage dealt by ATK-scaling units, thus granting him a slot of a healer / buffer in such teams. Moreover, his self-aura application can enable certain Anemo units to deal absorbed Pyro damage and trigger Burgeon by themselves.
+Thoma ★
+Xiangling ★
+Pyro Traveler
+Dehya
+Mavuika
+Amber
+Yanfei
+Klee
+Bennett
+Xinyan
+Hydro
+Additional Hydro application can be welcomed in teams with good Dendro application (e.g. with Nahida). These Hydro characters are also useful for their personal damage and other utility such as healing or buffing.
+Furina ★
+Yelan ★
+Ayato
+Kokomi
+Sigewinne
+Anemo
+Some Anemo characters can be used as Hyperbloom or Burgeon triggers via their Electro / Pyro Swirl and Absorption damage. They can also tightly group enemies so that Xingqiu’s mainly single-target application can hit multiple targets at the same time.
+Kazuha
+Kazuha is often used as a Burgeon trigger thanks to his Pyro Absorption in Bennett’s Burst. He can also give buffs to Xingqiu and enable a powerful Forward Vaporize Xingqiu Skill nuke.
+Sucrose
+Sucrose can trigger Electro Swirl off the enemies onto nearby Dendro Cores to trigger Hyperbloom. Her Burst can also absorb Electro to continue triggering Hyperbloom during her off-field time. A fast off-field Electro applier that does not steal Hyperbloom from Sucrose (for example, Fischl) is preferred for this team.
+Lynette
+Lynette can be an on-field Hyperbloom trigger by Swirling Electro through her Burst and Anemo-infused Normal Attacks at C6. Though even without C6, her Burst can absorb Electro and serve her main purpose.
+Lan Yan
+,
+Ifa
+Other Anemo Catalysts who can trigger Electro Swirl and thus Hyperbloom from their Anemo Normal Attacks. Despite not having a grouping ability as strong as Sucrose’s, they can provide defensive utility to the team instead.
+Cryo
+Cryo application can be helpful to put out Burning aura that affects Bloom production in Burgeon teams. As for Hyperbloom teams, Cryo units can help a little with overall Bloom generation through an interaction colloquially called “
+Fridge
+.” However, it is recommended to use a strong Dendro applier to directly increase the Bloom production instead. Nevertheless, Cryo units are still viable in Hyperbloom teams thanks to the comfort of the Freeze reaction immobilizing enemies for easier targeting, as well as the healing / shielding some Cryo characters can bring.
+Kaeya
+Rosaria
+Escoffier
+Citlali
+Diona
+Layla
+Geo
+Geo characters can be slotted in without interfering much with the main reactions while still offering some damage or utility.
+Zhongli
+Xilonen
+Noelle
+Chiori
+Albedo
+Example Teams
+This is not a comprehensive list of teams. The inclusion or exclusion of any given team does not necessarily reflect its power level.
+Xingqiu — Nahida — Thoma — Fischl
+A standard Thoma Burgeon team with Fischl for extra Oz and Overloaded damage as well as Burning aura mitigation. Despite having an EM build, Thoma’s shield is usually enough to tank the self-damage dealt by Burgeon to your characters. Prototype Amber on Nahida is a good option for players who want a more reliable sustain method.
+Sample Rotation
+Nahida E Q > Xingqiu Q N2 > Fischl E N1 > Thoma EQ¹ N1 > Nahida E N3E N3D N3 > Fischl N2 Q > Thoma E N2 > Xingqiu ED N3 > Nahida 2[N3D] N3
+¹If Thoma uses Kitain Cross Spear, do Q E.
+Xingqiu — Baizhu — Xiangling — Furina
+This team deals both high Talent damage from the two Hydro units and high Burgeon damage from Xiangling. Baizhu stays on-field to generate Bloom and heals the whole team to stack Fanfare for Furina.
+Sample Rotation
+Baizhu EQ > Furina ED Q > Xingqiu Q N1 > Xiangling Q N1 ED > Xingqiu ED N2 > Baizhu N3 E 3[N3D] N2 > Xiangling N2 E > Baizhu N3D N3
+Xingqiu — Nahida — Shinobu / Raiden — Yelan
+A traditional Nahida Hyperbloom team with a Double Hydro core. While Raiden has a faster trigger rate and thus a higher damage ceiling, Shinobu’s healing is handy to have and she does not struggle to trigger reactions against shielded enemies.
+Sample Rotation (Shinobu)
+Nahida E Q > Xingqiu Q N1 > Shinobu E N1> Yelan EQ > Nahida N3 E N3D N3 > Xingqiu N1 ED N2 > Nahida E N3D N3 > Yelan E N2 > (Shinobu Q N1)¹ > Nahida N3D N3
+¹Burst when available.
+Sample Rotation (Raiden)
+Nahida E Q > Xingqiu Q N1 > Raiden E N1> Yelan EQ > Nahida N3 E N3D N3 > Xingqiu N1 ED N2 > Nahida E N3D N3 > Yelan E N4 > Nahida N3D N3
+Xingqiu — Dendro Traveler — Fischl — Sucrose
+An accessible team consisting of all 4-star units (except a free 5-star unit) where Sucrose acts as the on-field Hyperbloom trigger with her Electro Swirl.
+Sample Rotation
+Fischl E > Dendro Traveler EQ > Xingqiu EDQ N2 > Sucrose (Q) E 3[N3D] > Dendro Traveler E > Fischl N2 Q > Sucrose
+combo
+This team has a fairly flexible rotation. You use abilities off cooldown and drive with Sucrose.
+Xingqiu — Nahida — Cyno — Beidou
+Xingqiu and Beidou’s combined interruption resistance allows a comfortable on-field experience for Cyno. With Beidou’s C1 shield, plus Xingqiu’s damage reduction and small healing, Cyno can afford to play without a dedicated sustain unit. This team performs well in single-target scenarios and does not fall behind in multi-target fights either thanks to Beidou’s AoE damage.
+Sample Rotation
+Nahida E Q > Xingqiu EQ N1 > Beidou EQ > Cyno
+combo
+> Beidou E N2
+Pure Bloom
+Xingqiu — Nilou — Dendro / Nahida — Dendro / Hydro
+Nilou Bloom excels in multi-target fights, and Xingqiu is a good Hydro unit in such teams. He is often played as a Bloom trigger in a Double Dendro team. In such teams, Xingqiu can use a Bloom damage build, focusing on EM and Bloom DMG Bonus stats. His optimal gearing is with Xiphos’ Moonlight or Favonius Sword, with 4pc Flower of Paradise Lost / 4pc Gilded Dreams and Triple EM main stats. However, a standard Talent build or a hybrid build is still good to use.
+Notable Teammates
+Dendro
+Hydro
+Dendro
+Double Dendro is the most popular setup for Nilou Bloom teams in general. Pick at least one character with good application and one with sustain ability.
+Nahida ★
+Baizhu ★
+Yaoyao ★
+Kaveh ★
+Alhaitham
+Kirara
+Dendro Traveler
+Collei
+Hydro
+A Triple Hydro Bloom team is possible to enable high Bloom ownership on the only Dendro unit in the team. Use a Hydro healer if the Dendro unit cannot sustain themself from Bloom self-damage. Xingqiu uses a Burst damage build in these teams.
+Furina
+Yelan
+Sigewinne
+Kokomi
+Example Teams
+This is not a comprehensive list of teams. The inclusion or exclusion of any given team does not necessarily reflect its power level.
+Xingqiu — Nilou — Nahida — Kaveh
+A comfy team with Kaveh thanks to his own interruption resistance and self-healing upon taking Bloom damage. Nahida can hold Prototype Amber to keep the rest of the team alive when rotating through them.
+Sample Rotation
+Nahida E Q > Nilou E N2 E > Xingqiu EDQ N1 > Kaveh (E)Q
+combo
+Xingqiu — Nilou — Yaoyao — Dendro Traveler
+A more accessible team with Yaoyao and Dendro Traveler. Yaoyao uses her Skill to heal the team while off-field, and she casts her Burst during her field time to rapidly regenerate HP and apply Dendro for Xingqiu to trigger Bloom off.
+Sample Rotation
+Nilou E N2 E > Dendro Traveler EQ > Xingqiu Q N1 > Yaoyao Q 6[N1J]¹ E > Dendro Traveler E N2 > Xingqiu ED N2 > (Nilou Q)
+¹Dash and jump cancels are interchangeable.
+Freeze
+Xingqiu — Cryo — Cryo — Anemo / Flex
+Freeze is one of the more common Xingqiu teams that can run without a healer, since a shielder / healer can be unnecessary when faced with freezable enemies. An Anemo unit for grouping and 4pc VV is a more common flex slot choice. Xingqiu’s main downside is that his application is mostly single-target; he can be outperformed by other Hydro units that apply Hydro consistently within AoE.
+Notable Teammates
+Cryo DPS
+Cryo Supports
+Flex
+Cryo DPS
+Cryo damage dealer that is able to apply Cryo and keep enemies Frozen.
+Skirk
+Ayaka
+Wriothesley
+Rosaria
+Kaeya
+Escoffier ★
+Freminet
+Ganyu
+Chongyun
+Cryo Supports
+Any Cryo battery, buffer, healer, or shielder that works with the other Cryo unit to maintain Freeze uptime and provide Cryo Resonance for the extra CRIT Rate boost.
+Shenhe
+Charlotte
+Citlali
+Layla
+Diona
+Mika
+Flex Options
+The Anemo slot is relatively flexible; as long as they carry 4pc VV, your Cryo character’s damage is immensely boosted. Xingqiu prefers characters with good grouping to make up for his lack of AoE (his orbitals and Skill can help maintain Hydro application in AoE). Certain non-Anemo options such as Xilonen are viable as well.
+Kazuha ★
+Venti
+Sucrose
+Xilonen
+Example Teams
+This is not a comprehensive list of teams. The inclusion or exclusion of any given team does not necessarily reflect its power level.
+Xingqiu — Ayaka — Shenhe — Kazuha
+Despite not having any buffing for Ayaka, Xingqiu is still viable as an alternative to 5-star Hydro enablers such as Kokomi or Mona.
+Sample Rotation
+Xingqiu EDQ N1 > Shenhe tEQ N1 > Kazuha tEPQ > Ayaka D N1 EQ > Shenhe N1 tE N1 > Ayaka D N1C > Kazuha N1 tEP > Akaya N2CD ED N2C
+Xingqiu — Escoffier — Rosaria — Kaeya
+A strong quickswap team with Escoffier buffing Cryo and Hydro damage via her powerful RES Shred. Here is a rotation that lasts 21s with Xingqiu Bursting every rotation. Players can choose to follow a 15s rotation instead by only using Xingqiu’s abilities when available.
+Sample Rotation (21s)
+Xingqiu EDQ N1 > Escoffier EQ N1 > Rosaria EN1Q N1 > Kaeya EDN1Q N2 > Rosaria E N2 > Kaeya N1 E > Escoffier N3 > Rosaria N2 E
+Electro-Charged
+Xingqiu — Electro — Electro — Anemo
+Electro-Charged teams maintain an Electro-Charged state on the enemy via consistent Electro and Hydro application. An Electro-Charged state allows both the Hydro and Electro aura to coexist; as a result, the Anemo character triggers not only Swirl to buff the Hydro and Electro characters in the team, but also Electro-Charged with a full EM build for impressive damage.
+Notable Teammates
+Electro
+Anemo
+Electro
+On-field / off-field Electro DPS that can apply a good amount of Electro to take advantage of the Electro-Charged reaction.
+Fischl ★
+Ororon ★
+Beidou ★
+Yae Miko
+Raiden Shogun
+Kuki Shinobu
+Lisa
+Sara
+Anemo
+On-field / off-field Anemo support to reduce RES with 4pc VV and buff other DPS, as well as triggering Swirls and additional Electro-Charged reactions.
+Sucrose ★
+Kazuha ★
+Venti ★
+Jean
+Xianyun
+Lan Yan
+Ifa
+Heizou
+Lynette
+Sayu
+Example Teams
+This is not a comprehensive list of teams. The inclusion or exclusion of any given team does not necessarily reflect its power level.
+Xingqiu — Fischl / Ororon — Beidou — Sucrose
+Classic “Taser” team with Sucrose, Beidou, and Fischl. This team excels in high–mob count content where Beidou’s lightning discharge and Sucrose’s Double Swirl and Electro-Charged deal an enormous amount of AoE damage. Against a single target, the team still fares decently with Xingqiu and Fischl’s good damage profile. Ororon is an upgrade over Fischl in AoE-focused fights with his AoE damage and 4pc Scroll buff for Beidou and Xingqiu.
+This team can run comfortably without any dedicated sustain thanks to all the defensive utility Xingqiu and Beidou provide: 85% interruption resistance, 80%+ damage reduction, C1 Beidou’s sturdy shield (thanks to the damage reduction), and some healing from Xingqiu.
+Sample Rotation (Fischl)
+Fischl E > Sucrose EDQ > Xingqiu Q N1 ED > Beidou EN1Q N1 > Sucrose N1 E N2 ED > Fischl Q > Sucrose N2C N2 > Beidou E¹ > Xingqiu N2 > Sucrose on-field (until Oz ends)
+¹Optionally Normal Attack with Beidou to catch her own particles.
+Sample Rotation (Ororon)
+(Beidou E)¹ > Sucrose ED(Q) > Xingqiu EDQ N1 > Ororon EQ N1 > Beidou EN1Q N1 > Sucrose N1 E N2 (ED) N2C N3D N2C N3D > Beidou E N2
+¹First rotation only.
+Other Teams
+Xingqiu — Hydro / Flex — Flex — Flex
+Outside of the aforementioned archetypes, Xingqiu can still be used in a lot of other teams. He is always a decent pick for his solid personal damage, interruption resistance, damage reduction, and small healing, no matter what team you play.
+Notably, Xingqiu together with another Hydro unit (e.g. Yelan or Furina) form a powerful Double Hydro core that is flexible everywhere. He also performs well in Mono Hydro teams thanks to his formidable single-target damage and Hydro RES Shred from his C2.
+Notable Teammates
+Furina
+Furina buffs, generates Hydro particles, and deals good damage, all in one slot. She is by far the most important unit in Mono Hydro teams.
+Yelan
+Yelan also deals excellent damage when paired with other Hydro units, including Xingqiu. She can act as the on-fielder in Mono Hydro teams if there is no dedicated unit for the role.
+Kokomi
+,
+Ayato
+On-field damage dealers in Mono Hydro teams who can drive Xingqiu’s coordinated attacks well. Kokomi’s healing is useful to stack Furina’s Fanfare.
+Escoffier
+Escoffier enables Pure Freeze (2 Hydro + 2 Cryo; or 3 Hydro + 1 Cryo) to be competitive with her high RES Shred. She also deals solid damage and heals the team to stack Furina’s Fanfare.
+Skirk
+Skirk can use Xingqiu as a solid teammate in her Pure Freeze teams (often with Escoffier).
+Xilonen
+Xilonen is another great healer / buffer for Mono Hydro teams with a long-lasting RES Shred and 4pc Scroll’s DMG% buffs.
+Kazuha
+While Kazuha does not heal like Escoffier and Xilonen, he is still a strong buffer with his DMG% buff, 4pc VV’s RES Shred, and excellent on-demand grouping.
+Citlali
+Citlali shreds 20% Hydro and Pyro RES and is capable of fully activating 4pc Scroll to offer 40% DMG Bonus to the Elements she reacts with. She also provides a shield to withstand damage and interruption.
+Zhongli
+Similar to Citlali, Zhongli can shred Hydro RES and provide a strong shield for his teams. However, his artifact choice is often worse: he cannot trigger the full effect of 4pc Scroll, and picking up shards for 4pc Archaic Petra is often not a pleasant experience.
+4pc VV
+As long as they carry 4pc VV, any Anemo unit can be used for the valuable RES Shred. Anemo healers, in particular, are appreciated to help with Furina’s Fanfare stacking as well.
+Raiden
+Raiden is a synergetic on-field DPS who greatly increases Xingqiu and his teammates’ damage via her Elemental Burst DMG% buff and Energy refund.
+Fischl
+Fischl is a flex unit who can deal formidable single-target damage and generate a lot of particles. Thus, she can be easily slotted in Hydro-focused teams to complement its high single-target performance while still helping their ER requirements like a Hydro teammate would do.
+Example Teams
+This is not a comprehensive list of teams. The inclusion or exclusion of any given team does not necessarily reflect its power level.
+Xingqiu — Furina — Yelan — Escoffier / Xilonen
+Sample Rotation (Escoffier)
+Furina ED Q > Escoffier EQ > Xingqiu Q N1 > Yelan Q N1 E N4 > Xingqiu ED N2 > Yelan 2[N4] E N4
+Sample Rotation (Xilonen)
+(Furina ED)¹ > Xilonen E N2 Q> Furina (ED)² Q > Xingqiu Q N1 > Yelan Q N1 E N4 > Xilonen E N2 > Xingqiu N1 ED N2 > Yelan 2[N4] E N2
+¹First rotation only.
+²From second rotation onward.
+Xingqiu — Furina — Raiden — Jean
+Sample Rotation
+(Raiden E)¹ > Furina ED Q > Xingqiu EDQ N1 > Jean E N1 Q > Raiden N1 Q N4E 3[N4D] > Jean E
+¹First rotation only
+Xingqiu — Yelan — Kokomi — Kazuha
+Sample Rotation
+Kokomi E > Xingqiu EDQ N1 > Yelan Q N1 > Kazuha tEP/Q > Yelan N1 E > Kokomi N1 Q 8[N3D] > Yelan E (N4) > (Kazuha tEP)
+Credits
+chasing_haze, quinslay, Leah, grankrathalos, luno_, seima, jukoist, idkanonymized, aciewacie, konodiada, cinders_pear, polomo, acerbus114, pjeljr, lostguide
+Team images made with the
+KQM portrait generator
+.

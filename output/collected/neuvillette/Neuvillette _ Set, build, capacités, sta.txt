@@ -1,0 +1,159 @@
+Accueil
+>
+Guides
+>
+Neuvilette – Genshin Impact
+Neuvilette – Genshin Impact
+Publié le :
+28 septembre 2023 à 14:58
+Pas de commentaire
+Rédigé par
+Jordan
+Jordan
+28 septembre 2023 à 14:58
+0
+L’un des piliers de Fontaine est désormais jouable dans
+Genshin Impact
+, le charismatique Neuvillette. On vous dit tout ce qu’il faut savoir sur ce nouveau personnage, de son build à ses matériaux en passant par des conseils sur comment le jouer.
+Vous trouverez ici tout ce qu’il faut savoir sur Neuvillette et son build.
+Sommaire
+Toggle
+Présentation de Neuvillette
+Compétences Neuvillette
+Comment jouer Neuvillette ?
+Meilleur équipement Neuvillette
+Matériaux d’élévation et d’aptitudes Neuvillette
+Présentation de Neuvillette
+Rareté
+: ★★★★★
+Élément
+: Hydro (
+)
+Arme
+: Catalyseur
+Seiyū
+: Hiroshi Kamiya
+Anniversaire
+: 18 décembre
+Date d’arrivée bannière Neuvillette
+: Mercredi 27 septembre 2023
+Description officielle
+: «
+Le juge suprême de Fontaine, également connu comme l’iudex, est réputé pour son impartialité sans faille
+. »
+Compétences Neuvillette
+Compétences actives
+Attaque normale – Stabilité de l’eau
+: Agite légèrement sa canne, ordonnant aux marées de déclencher jusqu’à 3 attaques qui infligent des dégâts Hydro.
+Charge d’attaque chargée : Avertissement procédural : Pendant la charge, Neuvillette concentre progressivement la puissance de l’eau en un sceau d’arbitrage. Dans cet état, Neuvillette peut se déplacer, changer d’orientation et absorber les gouttes d’eau de source à portée. Chaque goutte absorbée permet d’augmenter la vitesse de formation du sceau d’arbitrage et soigne les PV de Neuvillette. À la fin de la charge, Neuvillette déclenche une attaque chargée si le sceau d’arbitrage est incomplet. Si ce dernier est complet, il déclenche une attaque chargée « Jugement équitable ».
+Attaque chargée
+: Consomme de l’endurance pour attaquer les ennemis avec un cercle d’eau qui inflige des dégâts Hydro de zone.
+Attaque chargée : Jugement équitable : Neuvillette libère un torrent déferlant qui inflige des dégâts Hydro de zone de façon continue aux ennemis en ligne droite devant lui. Le jugement équitable ne consomme pas l’endurance et dure 3 s. Lorsque ses PV sont supérieurs à 50 %, Neuvillette perd des PV de façon continue en utilisant cette attaque.
+Attaque plongeante
+: Concentre la puissance de l’élément Hydro avant de plonger depuis les airs pour frapper le sol, infligeant des dégâts aux ennemis sur la route et des dégâts Hydro de zone à l’impact.
+Ô larmes, je rembourse
+: Neuvillette invoque une cascade déchaînée qui inflige des dégâts Hydro de zone aux ennemis en face de lui selon ses PV max. Après avoir touché un ennemi, 3 gouttes d’eau de source sont générées à proximité de ce dernier.
+Arkhe : Pneuma : Régulièrement, après avoir invoqué une cascade déchaînée, une épine d’inhalation qui transperce les ennemis est libérée pour infliger des dégâts Hydro chargés d’énergie pneuma.
+Ô marées, je reviens
+: Neuvillette déchaîne une vague de rupture qui inflige des dégâts Hydro de zone selon ses PV max. Après un court délai, 2 cascades sont invoquées pour infliger des dégâts Hydro sur une petite zone et générer 6 gouttes d’eau de source en avant.
+Compétences passives
+Héritier de l’autorité de l’ancienne mer
+: Lorsqu’un personnage de l’équipe déclenche une réaction d’Évaporation, de Gel, d’Électrocution, de Fleurissement, de Dispersion Hydro ou de Cristallisation Hydro sur un ennemi, Neuvillette obtient un cumul de gloire draconique passée pendant 30 secondes : peut être cumulé 3 fois maximum, ce qui augmente les dégâts de l’attaque chargée « Jugement équitable » à une valeur équivalant à 110 %, 125 % ou 160 % des dégâts d’origine, selon le nombre de cumuls. Les cumuls de gloire draconique passée de chaque réaction élémentaire existent indépendamment les uns des autres.
+Discipline de l’arbitrage suprême
+: Pour chaque tranche de 1 % de PV actuels au-dessus de 30 % de ses PV max, Neuvillette obtient un bonus de dégâts Hydro de 0,6 %. Le bonus peut être augmenté d’un maximum de 30 % de cette manière.
+Rassemblement de la marée
+: Augmente la vitesse de sprint sous l’eau de vos personnages dans l’équipe de 15 %. Ne peut pas être cumulé avec d’autres aptitudes passives aux effets identiques.
+Constellations
+Création de l’honneur
+: Neuvillette obtient un cumul de gloire draconique passée de l’aptitude passive « Héritier de l’autorité de l’ancienne mer » lorsqu’il est déployé au combat. L’aptitude passive « Héritier de l’autorité de l’ancienne mer » doit être déjà débloquée. De plus, sa résistance à l’interruption augmente lors de la charge de l’attaque chargée « Avertissement procédural » et de l’utilisation de l’attaque chargée « Jugement équitable ».
+Exhortation de la loi
+: L’aptitude passive « Héritier de l’autorité de l’ancienne mer » est renforcée : chaque cumul de gloire draconique passée augmente les dégâts critiques de l’attaque chargée « Jugement équitable » de 14 %, les dégâts critiques pouvant être augmentés d’un maximum de 42 % de cette manière. L’aptitude passive « Héritier de l’autorité de l’ancienne mer » doit être déjà débloquée.
+Postulat de l’antan
+: Niveau d’aptitude Attaque normale : Stabilité de l’eau +3.
+Couronne de la commisération
+: Lorsque Neuvillette est déployé et reçoit des soins, 1 goutte d’eau de source est générée. Cet effet peut être déclenché une fois toutes les 4 secondes.
+Verdict de l’axiome
+: Niveau d’aptitude Ô marées, je reviens +3.
+Récompense du courroux
+: En utilisant l’attaque chargée « Jugement équitable », Neuvillette peut aspirer les gouttes d’eau de source à portée. Chaque goutte absorbée permet de prolonger la durée de l’attaque chargée « Jugement équitable » de 1 seconde. De plus, lorsque l’attaque chargée « Jugement équitable » touche un ennemi, 2 torrents supplémentaires sont libérés toutes les 2 s, chacun infligeant des dégâts Hydro pour une valeur équivalant à 10 % des PV max de Neuvillette. Les dégâts infligés de cette manière sont considérés comme des dégâts de l’attaque chargée « Jugement équitable ».
+Comment jouer Neuvillette ?
+Le gameplay de Neuvillette est assez simple à comprendre. Sur le terrain, seule son attaque chargée comptera vraiment, mais pas à utiliser n’importe comment. Etant donné que son canon est long à charger, ne l’utilisez que lorsque vous pouvez absorber des gouttes. Autrement dit, il faut d’abord relâcher sa compétence élémentaire pour créer les gouttes, puis lancer l’attaque chargée afin que celle-ci se déclenche sans chargement (elle va absorber les gouttes).
+Avec qui jouer Neuvillette ?
+On va ici privilégier des personnages aux éléments différents de Neuvillette afin de créer des réactions pour profiter de son passif. Le mieux étant des personnages de type support dont les compétences élémentaires restent longtemps sur le terrain pour enchainer les réactions. Un Géo peut aussi être utile pour apporter de la résistance à l’interruption afin que Neuvillette ne soit pas déstabilisé lorsqu’il lance l’attaque chargée.
+Voyageur
+Nahida
+Yaoyao
+Fischl
+Kuki Shinobu
+Shogun Raiden
+Yae Miko
+Bennett
+Xiangling
+Kazuha
+Sucrose
+Zhongli
+Meilleur équipement Neuvillette
+Quelle arme pour Neuvillette ?
+Tome du flux éternel
+: L’arme signature du personnage, idéal pour l’augmentation de PV
+Malice (prototype)
+: Pour l’augmentation de PV
+Jade sacrificiel
+: A utiliser en prenant bien garde à l’effet passif et votre rotation (Neuvillette doit rester hors du terrain 5 sec)
+Meilleur set pour Neuvillette
+Chasseur de la Maréchaussée (2 ou 4 pièces)
+: Booste l’attaque chargée et va jouer sur la fluctuation de PV de Neuvillette.
+Ténacité des Millelithes
+(2 pièces)
+: Le 2 pièces pour augmenter le PV.
+Âme des profondeurs (2 pièces)
+: Pour augmenter les dégâts Hydro.
+Quels main stats prioriser sur les accessoires ?
+Sablier
+: PV%
+Coupe
+: Bonus de dégâts Hydro
+Coiffe/Couronne
+: PV% ou Taux critique/Dégâts critique
+Quelles sub-statistiques en premier pour Neuvillette ?
+PV%
+Taux critique
+Dégâts critique
+Recharge d’énergie
+Maitrise élémentaire
+ATK%
+Matériaux d’élévation et d’aptitudes Neuvillette
+Matériaux d’élévation Neuvillette
+Voici tout ce qu’il faudra pour monter le niveau de Neuvillette :
+Niveau 20
+: 1 x Eclat de lazurite varunada / 3 x Sombrétoile / 3 x Perle transocéanique / 20.000 moras
+Niveau 40
+: 3 x Fragment de lazurite varunada / 2 x Corne fontemarine / 10 x Sombrétoile / 15 x Perle transocéanique / 40.000 moras
+Niveau 50
+: 6 x Fragment de lazurite varunada / 4 x Corne fontemarine / 20 x Sombrétoile / 12 x Morceau transocéanique / 60.000 moras
+Niveau 60
+: 3 x Morceau de lazurite varunada / 8 x Corne fontemarine / 30 x Sombrétoile / 18 x Morceau transocéanique / 80.000 moras
+Niveau 70
+: 6 x Fragment de lazurite varunada / 12 x Corne fontemarine / 45 x Sombrétoile / 12 x Cristal xénochromatique / 100.000 moras
+Niveau 80
+: 6 x Pierre de lazurite varunada / 20 x Corne fontemarine / 60 x Sombrétoile / 24 x Cristal xénochromatique / 120.000 moras
+Matériaux d’amélioration d’aptitude Neuvillette
+Perle transocéanique / Morceau transocéanique / Cristal xénochromatique
+Enseignement / Guide / Philosophie de l’équité
+Constambre
+Pour d’autres astuces et conseils, retrouvez notre
+soluce complète de
+Genshin Impact
+ou consulter notre
+guide complet de tous les personnages
+.
+Cet article peut contenir des liens affiliés
+Genshin Impact
+pc
+ps5
+xbox series
+ios
+android
+ps4
+Date de sortie :
+28/08/2020

@@ -1,0 +1,457 @@
+Home
+/
+Genshin Impact
+/
+Character List
+/
+Tighnari Build
+Tighnari Guide and Best Builds
+Tighnari is a 5-star
+Dendro
+Bow user from the Avidya 
+Forests in Sumeru. Released in version 3.0, Tighnari is a ranged DPS character 
+with strong Charged Attacks and Dendro abilities who excels with single target 
+damage.
+Last updated
+on
+Sep 12, 2025
+at
+12:08
+by
+Jaymo
+1 comment
+B
+Rank
+Dendro
+Element
+Bow
+Weapon
+★
+★
+★
+★
+★
+Rarity
+Zachary Gordon
+EN Voice Actor
+Kobayashi Sanae
+JP Voice Actor
+Tighnari's Strengths & Weaknesses
+Strengths
+Fantastic On-field DPS.
+Great Dendro Application.
+Amazing Elemental Trigger.
+Able To Play At Ranged.
+Weaknesses
+Does Not Support Other Characters.
+Primarily Single Target Damage.
+1.
+Tighnari Main DPS Build
+Tighnari's primary method of damage comes from his Charge attacks and his 
+Elemental Burst. He is quite sought after for
+Quicken
+and
+Aggravate
+teams with great
+Elemental Mastery scaling and the ability to apply
+Dendro
+quite consistently with his abilities. His Energy 
+Recharge requirements are quite straight forward with 150% ER for a single 
+skill per burst. Tighnari is incredibly flexible and a great choice for a 
+ranged DPS.
+BiS Weapon
+Hunter's Path
+Alternate Weapons
+Aqua Simulacra
+Polar Star
+Skyward Harp
+Scion of the Blazing Sun
+Slingshot
+Chain Breaker
+Best Artifacts
+4-piece Options
+Deepwood Memories
+Gilded Dreams
+Wanderer's Troupe
+2-piece Option #1
+Gilded Dreams
+— Elemental Mastery +80
+Deepwood Memories
+— Dendro DMG Bonus +15%
+2-piece Option #2
+Gladiator's Finale
+— ATK +18%
+Wanderer's Troupe
+— Elemental Mastery +80
+Main Stats
+Sand Stats
+: Elemental Mastery or ATK %
+Goblet Stats
+: Dendro DMG
+Circlet Stats
+: CRIT Rate or CRIT DMG
+Substat Priority
+Energy Recharge to requirement
+CRIT Rate / CRIT DMG
+Elemental Mastery
+ATK %
+Talent Priority
+Normal Attack
+Elemental Skill
+Elemental Burst
+Hunter's Path
+is a great 5-star weapon for Tighnari, providing a 
+boost to CRIT Rate and a flat Elemental DMG boost for his charged attacks 
+which can stack up to 160% of his Elemental Mastery. As for weapon 
+alternatives, both the
+Aqua Simulacra
+and
+Polar Star
+offer CRIT stats with the Simulacra is focused around CRIT DMG and Polar Star 
+around CRIT RATE as well as a damage boosting passive skills for each of them. 
+As for non 5-star alternatives, the 3-star
+Slingshot
+offers a 
+great F2P choice or the
+Scion of the Blazing Sun
+for a 4-star choice.
+Update 5.0 had added the
+Chain Breaker
+bow as new option for Tighnari to boost his ATK % 
+based on the chosen party makeup. However, Tighnari builds tend to focus on Elemental Mastery and CRIT Rate
+stacking rather than solely boosting ATK Damage. While this needs to be tested further, this 4-star weapon 
+can be farmed up to Rank 5 without the need for wishes which makes this weapon a competitive choice for him 
+with close to a 30% boost to ATK Damage.
+As for Tighnari's artifacts generally the 4-piece
+Deepwood Memories
+is going to work with him, unless you have 
+another
+Dendro
+team member using the set. In that case, use
+Gilded Dreams
+or
+Wanderer's Troupe
+as it is the next 
+best choice. This decision can play into your weapon selection somewhat as the 
+passive bonus for Wanderer's is an unconditional buff while Gilded Dreams set 
+offers a more custom buff depending on your team composition.
+2.
+Combos and How to Play Tighnari
+Tighnari is a very straight forward ranged user focused around Charged 
+Attacks with limited roles for anything other than a
+Dendro
+DPS. Similar to
+Ganyu
+'s charge attacks, Tighnari has two 
+stages of his Charged Attack. The first phase is a standard Dendro charge shot, 
+similar to any other bow user in the game. His second stage Charged Attack 
+fires normally with a Dendro strike of damage, but then transforms into 
+multiple projectiles to home in on the enemy. These additional projectiles 
+will still track to a nearby enemy even if the initial hit is missed. The 
+drawback to his second staged Charged Attack is the delay while you prepare 
+your shot. However, this is where Tighnari's abilities offer a fantastic 
+synergy with his charged attacks.
+His Elemental Skill,
+Vijnana-Phala Mine
+, creates a 
+field of
+Dendro
+energy that produces illusions to taunt the 
+enemies inside the AoE, taking the focus off of Tighnari. It also grants him 
+the Vijnana Suffusion effect which grants him a rapid charge time for three 
+of his charged attacks. This buff is represented by green orbs that float 
+around him and stay with him even after he is swapped out, helping to setup 
+some great
+Elemental Reactions
+with his teammates before having 
+to use his rapid charged attacks. This is particular effective within
+Quicken
+and
+Aggravate
+teams. 
+His Elemental Burst,
+Fashioner's Tanglevine Shaft
+is a series 
+of 6 Dendro attacks that can be focused on a single target or multiple 
+enemies, allowing for some flexibility with it's use.
+3.
+Tighnari's Best Team Comps
+Tighnari works well with quickswap teams, focusing on teammates who have 
+short on-field time with abilities that can stay on-field or buff Tighnari's 
+damage. The ideal team will be a combination of other
+Electro
+and
+Dendro
+aligned characters to support him while he fights 
+on-field. Tighnari does not synergize well with characters who require 
+extensive on-field time or require Normal attacks to trigger reactions.
+3.1.
+Double Electro Team
+Main DPS
+Sub DPS
+Sub DPS
+Buffer/Healer
+Tighnari
+Fischl
+Yae Miko
+Xilonen
+A very straight forward team with two great off-field
+Electro
+characters for Tighnari to create reactions with. Both
+Fischl
+and
+Yae Miko
+have turret like 
+abilities that can target enemies on the battlefield and dish out some decent 
+Electro damage, Fischl also helps to act as a battery for Yae.
+Xilonen
+helps to provide Tighnari with healing, a solid 
+damage buff as well as Elemental resistance shred. The only draw back to this build, is 
+the lack of interruption resistance so positioning for Tighnari will be key for him to 
+can perform his rotations smoothly.
+3.2.
+Tighnari Aggravate Swirl Team
+Main DPS
+Sub DPS
+Support
+Swirl Support
+Tighnari
+Fischl
+Kuki Shinobu
+Kaedehara Kazuha
+For this Aggravate team, Tighnari is our main DPS with the majority of his 
+time on-field using charged attacks and his Elemental Burst,
+Fashioner's Tanglevine Shaft
+, constantly hitting the enemies 
+with
+Dendro
+.
+Kuki Shinobu
+and
+Fischl
+are great off-field supports for both damage and 
+healing, applying
+Electro
+to create
+Aggravate
+,
+Kaedehara Kazuha
+can 
+add
+Swirl
+Electro on the field and buff the team's 
+damage.
+3.3.
+Tighnari Quickbloom
+Main DPS
+Sub DPS
+Sub DPS
+Support
+Tighnari
+Raiden Shogun
+Furina
+Baizhu
+This Quickbloom team has such fantastic synergy with all of its teammates.
+Furina
+'s creates an added buff for Tighnari to take advantage 
+of through her Fanfare stacks from her Elemental Burst.
+Baizhu
+helps to keep our
+Dendro
+application going on-field as well 
+as grants bonus damage towards any bloom reactions and has a nice 
+shield/off-heal mechanic to help the team with survivability. Lastly,
+Raiden Shogun
+adds powerful
+Electro
+damage with 
+great Electro Application as well as helping this team regenerate their 
+Elemental Bursts more quickly.
+4.
+Tighnari's Ascensions, Talents, and Constellations
+Tighnari's Ascensions
+Tighnari's Talents
+Tighnari's Constellations
+4.1.
+Tighnari's Ascension Passives and Materials
+Unlock
+Ascension Passive
+Explanation
+With Character
+Encyclopedic Knowledge
+Displays the location of nearby resources unique to Sumeru on the 
+	 mini-map.
+1st Ascension
+Keen Sight
+After Tighnari fires a Wreath Arrow, his Elemental Mastery is 
+	increased by 50 for 4s.
+4th Ascension
+Scholarly Blade
+For every point of Elemental Mastery Tighnari possesses, his Charged 
+	Attack and
+Fashioner's Tanglevine Shaft
+DMG are increased 
+	by 0.06%. The maximum DMG Bonus obtainable this way is 60%.
+Tighnari requires a range of materials to ascend to the 6th ascension.
+Starting from the second ascension he gains additional Bonus Dendro DMG as he 
+levels, giving a total of 28.8% Bonus Dendro DMG at the final ascension.
+The total cost to upgrade all ascensions is:
+Source
+Quantity
+Mora
+420,000 Mora
+Boss Material
+46x
+Majestic Hooked Beak
+Ascension Material
+1x
+Nagadus Emerald Sliver
+9x
+Nagadus Emerald Fragment
+9x
+Nagadus Emerald Chunk
+6x
+Nagadus Emerald Gemstone
+Local Specialty
+168x
+Nilotpala Lotus
+Enhancement Material
+18x
+Fungal Spores
+30x
+Luminescent Pollen
+36x
+Crystalline Cyst Dust
+4.2.
+Tighnari's Talents
+Listed below is each talent and a brief explanation of how they work.
+Type
+Talent Name
+Brief Explanation
+Normal
+Khanda Barrier-Buster
+Standard normal attack dealing 4 consecutive shots. Charged Attack is 
+	 a Dendro Attack with two level of charge, with level two adding additional 
+	 projectiles that follow up after the initial hit. Plunging Attacks fire 
+	 off a shower of arrows, dealing AoE DMG upon impact with the ground.
+Elemental Skill
+Vijnana-Phala Mine
+Creates a field of illusions to taunt enemies and grants Tighnari Vijnana 
+	  Suffusion Stacks which reduce the time it takes for him to reach a level 
+	  2 charge attack. This can occur up to three times before the buff is gone 
+	  and will stay with Tighnari even if he is swapped out.
+Elemental Burst
+Fashioner's Tanglevine Shaft
+Fires 6 Tanglevine Shafts that track opponents and deal Dendro DMG. 
+	After the initial strike, they will create a secondary wave of projectiles 
+	that can target nearby enemies for Dendro DMG.
+To upgrade a single talent to level 10, it costs:
+Source
+Quantity
+Mora
+1,625,500 Mora
+Special Material
+1x
+Crown of Insight
+Boss Material
+6x
+The Meaning of Aeons
+Domain Material
+3x
+Teachings of Admonition
+21x
+Guide to Admonition
+38x
+Philosophies of Admonition
+Enhancement Material
+6x
+Fungal Spores
+22x
+Luminescent Pollen
+31x
+Crystalline Cyst Dust
+4.3.
+Tighnari's Constellations
+Almost all of Tighnari's constellations are useful and push
+him to become stronger and stronger, but he functions at C0 without
+any issues. His constellations helps to increase his DPS
+significantly, focusing on damage buffs and critical stat increases.
+#
+Name
+Explanation
+C1
+Beginnings Determined at the Roots
+Tighnari's Charged Attack CRIT Rate is increased by 15%.
+C2
+Origins Known From the Stem
+When there are opponents within the Vijnana-Khanda Field created by
+Vijnana-Phala Mine
+, Tighnari gains 20% Dendro DMG Bonus. 
+	The effect will last up to 6s if the field's duration ends or if it no 
+	longer has opponents within it.
+C3
+Fortunes Read Amongst the Branches
+Increases the Level of
+Fashioner's Tanglevine Shaft
+by 3.
+Maximum upgrade level is 15.
+C4
+Withering Glimpsed in the Leaves
+When
+Fashioner's Tanglevine Shaft
+is unleashed, 
+	  all nearby party members gain 60 Elemental Mastery for 8s. If the
+Fashioner's Tanglevine Shaft
+triggers a
+Burning
+,
+Bloom
+,
+Quicken
+, or
+Spread
+reaction, their Elemental Mastery will be further increased by 60. This 
+	  latter case will also refresh the buff state's duration.
+C5
+Comprehension Amidst the Flowers
+Increases the Level of
+Vijnana-Phala Mine
+by 3.
+Maximum upgrade level is 15.
+C6
+Karma Adjudged From the Leaden Fruit
+Wreath Arrow's charging time is decreased by 0.9s, and will produce 1 
+	  additional Clusterbloom Arrow upon hit. This arrow deals 150% of 
+	  Tighnari's ATK as DMG.
+Changelog
+22 Oct. 2024:
+Build adjustment for new characters.
+29 Aug. 2024:
+Guide Review for Update 5.0
+21 Mar. 2024:
+Guide added.
+Show more
+Show less
+Need any help? Check out our
+General Discussion Forum
+!
+1 comment
+In The Same Category
+Alhaitham Profile & Talents
+Dendro Traveler Best Builds Guide
+Alhaitham Team Guide
+Nefer Team Guide
+Kirara Best Builds Guide
+Emilie Profile & Talents
+Nahida Best Builds Guide
+Baizhu Best Builds Guide
+Nefer Profile & Talents
+Alhaitham Best Builds Guide
+Emilie Best Builds Guide
+Emilie Team Guide
+ABOUT THE AUTHOR
+Written by Jaymo, a longtime gamer who spends way too many hours exploring
+        open worlds, grinding in MMOs, and pulling for his favorite gacha characters.
+        He covers news and guides for all kinds of games, and just likes helping people
+        enjoy them more. You can find him hanging out on Twitch or chatting in Discord (jaym0).
+SUPPORT OUR WRITERS

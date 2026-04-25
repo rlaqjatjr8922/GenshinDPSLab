@@ -1,0 +1,259 @@
+Chiori is a Geo sub DPS who deals a considerable amount of Geo Damage. Updated for version Luna IV.
+Table of Contents
+Table of Contents
+Should I pull Chiori?
+Base Stats
+Talent Overview
+Normal Attack
+Elemental Skill
+Multipliers
+Elemental Burst
+Ascension 1 Passive
+Ascension 4 Passive
+Talent Priority
+Constellations
+Combos
+Weapons
+Energy Recharge Requirement
+Artifacts
+Artifact Sets
+Main Stats
+Stat Priority
+Teambuilding
+Notable Teammates
+Geo
+Others
+Example Teams
+Footnotes
+Should I pull Chiori?
+Pros
+Cons
+Can eat up a lot of the previously useless DEF% pieces on your account
+Very accessible F2P weapon options
+Very effective against Geo shields
+Very high frontloaded damage
+Pretty girls pull for pretty girls
+Hard teambuilding without constellations
+Limited access to "good" reactions
+Mediocre constellations for DPS ceiling
+AOE similar to beta Nefer's
+Base Stats
+Non-crit stats that are not 0 are rounded to the nearest integer. Any stat not listed can be assumed to be 0.
+80/90
+90/90
+HP
+10634
+11438
+ATK
+300
+323
+DEF
+886
+953
+CRIT Rate
+24.2
+24.2
+CRIT DMG
+50.0
+50.0
+As a DEF-scaler, Chiori should be leveled to 90/90
+Talent Overview
+Normal Attack
+Normal Attack
+Performs up to 4 rapid strikes.
+Charged Attack
+Consumes a certain amount of Stamina to unleash 2 rapid sword strikes.
+Plunging Attack
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+This is a relatively underwhelming talent before C6. Generally, Chiori does not perform normal attacks.
+Elemental Skill
+Dashes nimbly forward with silken steps. Once this dash ends, Chiori will summon the automaton doll "Tamoto" beside her and sweep her blade upward, dealing
+AoE Geo DMG
+to nearby opponents based on her ATK and DEF.
+Holding the Skill will cause it to behave differently.
+Hold
+Enter Aiming Mode to adjust the dash direction.
+Tamoto
+Will slash at nearby opponents at intervals, dealing
+AoE Geo DMG
+based on Chiori's ATK and DEF.
+While active, if there are nearby
+Geo Construct(s)
+are created nearby, an additional Tamoto will be summoned next to your active character. Only 1 additional Tamoto can be summoned in this manner, and its duration is independently counted.
+Multipliers
+Lvl 1
+Lvl 6
+Lvl 9
+Lvl 10
+Tamoto DMG%
+82.08% ATK + 102.06% DEF
+114.91% ATK + 143.64% DEF
+139.54% ATK + 174.42% DEF
+147.74% ATK + 184.68% DEF
+This is Chiori's main source of damage before C6.
+Chiori will summon a doll upon pressing E. However, if there is at least one Geo Construct
+1
+on the field (the totems created by Lunar Crystalize count as Geo Constructs), Chiori summons a second Tamoto doll. This means that her teambuilding will generally require a teammate who can summon a Geo Construct or teammates who can enable and trigger Lunar Crystalize.
+Note that this talent scales off of both ATK and DEF, so both stats contribute to her damage. However, due to the fact that it scales slightly stronger with DEF (especially at high talent levels) and that her base DEF is triple her base ATK,
+2
+building DEF is generally preferred.
+In addition to its damage, it also provides some nice exploration bonuses.
+Elemental Burst
+Twin blades leave their sheaths as Chiori slices with the clean cuts of a master tailor, dealing
+AoE Geo DMG
+based on her ATK and DEF.
+A nice hit of damage. However, it is pretty unimportant before C2.
+Ascension 1 Passive
+Gain different effects depending on the next action you take within a short duration after using Fluttering Hasode's upward sweep. If you (‍Press‍/‍Tap‍) the Elemental Skill, you will trigger the Tapestry effect. If you (‍Press‍/‍Tap‍) your Normal Attack, the Tailoring effect will be triggered instead.
+Tapestry
+Switches to the next character in your roster.
+Grants all your party members "Seize the Moment": When your active party member's Normal Attacks, Charged Attacks, and Plunging Attacks hit a nearby opponent, "Tamoto" will execute a coordinated attack, dealing 100% of Fluttering Hasode's upward sweep DMG as
+AoE Geo DMG
+at the opponent's location. DMG dealt this way is considered Elemental Skill DMG.
+"Seize the Moment" lasts 8s, and 1 of "Tamoto"'s coordinated attack can be unleashed every 2s. 2 such coordinated attacks can occur per "Seize the Moment" effect duration.
+Tailoring
+Chiori gains
+Geo infusion
+for 5s.
+When on the field, if Chiori does not either (‍Press‍/‍Tap‍) her Elemental Skill or use a Normal Attack within a short time after using Fluttering Hasode's upward sweep, the Tailoring effect will be triggered by default.
+After pressing E, Chiori will gain bonuses depending on what you do next. If you press E, you will switch to the next character in your party
+3
+, and her Tamoto doll will unleash some coordinated strikes that do the same damage as a regular Tamoto doll. If you Normal Attack or do something else, Chiori's attacks will be infused with Geo. Generally, you should press E for the Tapestry effect
+4
+before C6, as her Normal Attacks are quite weak.
+Ascension 4 Passive
+When a nearby party member creates a Geo Construct, Chiori will gain
+20% Geo DMG
+Bonus for 20s.
+A nice passive that is essentially 20% free Geo DMG Bonus
+Talent Priority
+E > Q >> NA
+5
+Constellations
+Descriptions are condensed. Good constellations are given a ⭐.
+C1⭐
+Tamoto gains some AOE. Geo characters can now activate the extra Tamoto and her A4
+While this does not directly increase her damage, it allows for much more flexible teambuilding and access to more high-DPS teams
+C2
+Summon a new doll, Kinu, after using her burst. This doll can attack up to 3 times with coordinated attacks.
+This is a nice damage increase. However, outside of mono-Geo teams, high-particle content, or building high ER, this cannot be utilized every rotation.
+C3
+Increase E by 3 levels
+This is about as good a talent level increase for a sub DPS you can get.
+C4⭐
+After triggering her A1 and using auto-attacks, summon Kinu. You can summon up to three Kinu through this method
+This is essentially the same as C2, but it triggers on E and not Q, allowing it to be triggered more often.
+C5
+Increase Q by 3 levels
+This constellation is quite useless.
+C6⭐
+Chiori's NAs after triggering the Tailoring effect from her A1 do a lot more damage. Her skill CD is also greatly reduced
+They seriously do a lot more damage. However much damage you think they do, they do more.
+Combos
+EE
+Use E twice to gain the Tapestry effect and unleash coordinated attacks from Tamoto
+EN N4
+Use only at C6 when her NAs actually do damage.
+N2 EE
+Use this with Peak Patrol Song to activate its bonuses.
+Weapons
+Uraku Misugiri
+Uraku is Chiori's signature and best-in-slot. This weapon gives Chiori a hefty amount of CRIT DMG and DEF%. Additionally, it also gives both elemental skill DMG% and normal attack DMG% depending on whether you play her on-field or off-field
+Peak Patrol Song
+This weapon gives Chiori a lot of DEF% and some Elemental DMG% Bonus through its passive. Furthermore, it also provides the team with DMG% Bonus.
+Splendor of Tranquil Waters
+Splendor gives a hefty amount of CRIT DMG and Elemental skill DMG%. However, the DMG% bonus for elemental skills only activates with Furina on the team, so it performs much worse without Furina.
+Lightbearing Moonshard
+A good 5* statstick with lots of CRIT DMG and some DEF% through its passive.
+Cinnabar Spindle
+Chiori's best 4* weapon. However, it was only available in a limited-time event
+Harbinger of Dawn
+Harbinger of Dawn is an easily-accesibly 3* weapon for F2P players. It provides more CV than any weapon in the game. However, its passive requires staying above 90% HP. This shouldn't be a problem for Chiori (since she's off-field) unless you are using Furina or are fighting Rifthounds.
+Flute of Ezpitzal
+Flute of Ezpitzal is a free craftable weapon from Natlan. Though usually worse than Harbinger, it allows Chiori to be used with Furina.
+Energy Recharge Requirement
+Since Chiori does not burst, there is no need to build her with Energy Recharge. However, at C2 and above, building her with around ~120% ER can be useful in some contexts.
+Artifacts
+Artifact Sets
+Golden Troupe
+Golden Troupe is generally Chiori's BiS artifact set. It provides her with a huge amount of elemental skill DMG% bonus, which is her main source of damage
+Husk of Opulent Dreams
+Husk is an alternative set that gives Chiori a lot of DEF% and some Geo DMG%. However, that is not as valuable as elemental skill DMG% bonus, so Golden Troupe is generally better. The one exception is C6 Chiori, in which case Husk becomes better since it also benefits her NAs
+2pc/2pc sets are not particularly worth using since you are losing 50% elemental skill DMG% bonus from not using 4pc Golden Troupe (or 24% Geo DMG bonus and 24% DEF from 4pc Husk). Given how many rolls worth the 4pc sets give you, you should always run a 4pc set, even if it is worse.
+Main Stats
+Sands
+Goblet
+Circlet
+DEF%
+Geo DMG% > DEF%
+CRIT Rate/DMG
+Stat Priority
+CRIT > DEF% > ATK%
+Teambuilding
+Notable Teammates
+Geo
+Due to her passives requiring either a Geo construct (C0) or a Geo teammate (C1), Chiori should be paired with at least one Geo teammate. Furthermore, pairing her with at least one Geo teammate will activate Geo resonance, providing a solid DMG% buff and a Geo RES decrease.
+Zhongli
+Zhongli is able to provide a Geo Construct with his pillar. He also shreds enemy RES with his shield. However, his pillar is very vulnerable to breaking against more powerful enemies.
+Xilonen
+Xilonen can shred Geo RES and equip Scroll to buff the whole team. However, she cannot create a Geo Construct by herself. Bringing a third Geo teammate would negate most of Xilonen's buffs before C2, so Xilonen/Chiori should generally be saved for when you have constellations
+Kachina
+Kachina is a free 4* who can also equip Scroll. Even though she doesn't have RES shred like Xilonen, she does have a Geo Construct
+Zibai
+Zibai is a DPS who can enable the Lunar-Crystallize reaction, negating the need for a character who can create Geo Constructs.
+Albedo
+Albedo is a Geo sub-DPS who can create his own Geo construct. With his Hexerei buffs, his construct is much more stable than before and is less likely to be destroyed.
+Navia
+Navia is a Geo DPS who appreciates the extra sub-DPS that Chiori brings.
+Arataki Itto
+Itto is a Geo DPS who is often played in mono-Geo comps. Due to the lack of Geo-specific supports, Chiori's sub-DPS is very valuable to him.
+Ningguang
+Ningguang is a Geo DPS who can create a Geo Construct and give Chiori a 12% Geo DMG Bonus.
+Others
+Teammates of other elements can synergize reasonably well with Chiori
+Furina
+Furina is a universal support who provides a huge amount of DMG% bonus. However, using Furina with Chiori disables using HoD on Chiori
+Columbina
+Columbina can enable the Lunar-Crystallized reaction to allow Chiori to run with teammates who are not able to create their own Geo constructs at C0.
+Durin
+Durin has decent sub-DPS and RES shred baked into his kit. If Albedo is also on the team, he can activate his Hexerei resonance to further give buffs.
+Example Teams
+Zibai/Columbina/Illuga/Chiori
+Columbina EQ > Illuga EQ > Chiori EE > Zibai combo
+Zibai's lunar-crystallize team, allowing Chiori to have 2 Tamotos on the field even without a construct. Chiori is able to provide decent sub-DPS.
+Navia/Furina/Chiori/Bennett
+Navia Q > Furina EDQ > Chiori EE > Bennett EQ > Navia combo
+Chiori is able to generate lots of Crystallized shards for Navia. However, she should be C1 or higher in this team due to the lack of a Geo construct.
+Arlecchino/Bennett/Zhongli/Chiori
+Arlecchino E > Zhongli hE > Bennett tEQ > Chiori EE > Arlecchino combo
+A decent team where Chiori can contribute a non-negligible amount of sub-DPS
+Arataki Itto/Gorou/Zhongli/Chiori
+Zhongli hE > Gorou EQ > Chiori EE > Itto combo
+A mono-Geo team with Itto. Zhongli provides a Geo construct while Gorou buffs the whole team's DEF. Furthermore, this team also has strong particle generation for Chiori at higher constellations where she might want to burst every rotation.
+Noelle/Furina/Columbina/Chiori
+Furina EDQ > Columbina EQ > Chiori EE > Noelle EQ combo
+A hybrid team with both DMG% and Lunar-Crystallized. Noelle can heal to stack Furina's fanfare. Additionally, Noelle's lack of ICD allows for the turrets summoned by Lunar-Crystallized to fire off much more often.
+Xilonen/Chiori/Flex/Flex
+A powerful wheelchair
+6
+core. However, it requires Chiori C1. Additionally, Xilonen C2 is required to wheelchair Geo teammates.
+Ningguang/Bennett/Kachina/Chiori
+Bennett E > Kachina EQ > Ningguang E > Bennett EQ > Chiori EE
+7
+> Ningguang combo
+A good F2P team for Chiori. Bennett is a reliable ATK buffer and allows Kachina to activate Scroll to benefit both Ningguang and Chiori. Additionally, Ningguang provides a Geo construct and 12% Geo DMG% bonus.
+Footnotes
+At C1, the requirement is loosened to Geo Teammates or Geo Constructs
+↩︎
+This is exaggerated to make a point. When equipped with a weapon, her base ATK does catch up (her base DEF should be higher if you are using a good weapon). However, given that DEF rolls are higher than ATK rolls (7.3% vs 5.8% for a max substat roll), the point still stands.
+↩︎
+This is decided by the order of your party that can be seen in the party selection screen. This means that whoever is to the direct right of your Chiori in that screen will be the one switched to. However, if your Chiori is in the fourth slot, you will switch to the character in the first slot
+↩︎
+You can still gain this effect if Chiori is the only member in the party, if you are interested in doing pre-C6 solo Chiori runs on any content.
+↩︎
+At C6, her NAs take priority
+↩︎
+A wheelchair is when the sub DPS/support core is doing all or a significant portion of the damage and pushing the main DPS in a "wheelchair." In this case, Xilonen/Chiori would allow even weak main DPSes with no synergy with them (e.g., Cyno, Eula) to have high team DPS.
+↩︎
+Make sure to run through Ningguang's Jade Screen for the 12% Geo DMG Bonus
+↩︎

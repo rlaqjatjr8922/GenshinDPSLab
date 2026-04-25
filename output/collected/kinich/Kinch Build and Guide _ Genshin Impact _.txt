@@ -1,0 +1,452 @@
+Home
+/
+Genshin Impact
+/
+Character List
+/
+Kinich Profile
+/
+Kinich Build
+Kinich Guide and Best Builds
+Kinich is a 5-star Dendro Claymore character in Genshin Impact
+who acts as a Main DPS dealing damage through his Elemental Skill "Riding High"
+which provides a unique gameplay experience. Read our Kinich guide to learn more about
+Kinich's kit, Kinich's best Builds and also his Ascension and Talent Materials.
+Last updated
+on
+Sep 27, 2025
+at
+08:35
+by
+GachaHub
+1 comment
+S
+Rank
+Dendro
+Element
+Claymore
+Weapon
+★
+★
+★
+★
+★
+Rarity
+John Patneaude
+EN Voice Actor
+Sugiyama Noriaki
+JP Voice Actor
+Profile & Talents
+Build Guide
+Team Guide
+Kinich Guide & Best Builds
+Welcome to our Kinich build guide for Genshin Impact.
+Kinich
+is a 5-Star
+Dendro
+Main DPS Character whose kit
+revolves around gaining Nightsoul points by triggering Burning, then converting that uptime into
+high Dendro damage. In our guide, we'll cover everything you need to know to get the most out of
+your Kinich, from building the best Artifacts and Weapons to important stat priorities and
+rotations.
+Best Weapons for Kinich
+Listed below are Kinich's best weapons. While weapons are listed in a priority order,
+what's best to build on your Kinich can vary depending on the team composition and
+level of investment you want to put into Kinich.
+Fang of the Mountain King
+(R1)
+136.65%
+Turquoise Hunt
+Base ATK:
+741
+CRIT Rate:
+11.0%
+Gain 1 stack of Canopy's Favor after hitting an opponent with an Elemental Skill. This can be triggered once every 0.5s. After a nearby party member triggers a Burning or Burgeon reaction, the equipping character will gain 3 stacks. This effect can be triggered once every 2s and can be triggered even when the triggering party member is off-field. Canopy's Favor: Elemental Skill and Burst DMG is increased by
+10% / 12.5% / 15% / 17.5% / 20%
+for 6s. Max 6 stacks. Each stack is counted independently.
+This is Kinich's signature weapon and perfectly matches his playstyle providing massive damage bonus to the wielder when triggering burning.
+Serpent Spine
+(R5)
+127.17%
+Wavesplitter
+Base ATK:
+510
+CRIT Rate:
+27.6%
+Every 4s a character is on the field, they will deal
+6% / 7% / 8% / 9% / 10%
+more DMG and take
+3% / 2.7% / 2.4% / 2.2% / 2%
+more DMG. This effect has a maximum of 5 stacks and will not be reset if the character leaves the field, but will be reduced by 1 stack when the character takes DMG.
+Great option providing CRIT-stats with very supportive passive but does come with some issues such as
+you always going to run a shielder in your team to activate the passive and also the CRIT Rate might
+be a concern as you already going to get lot of his signature artifact set.
+Beacon of the Reed Sea
+(R1)
+116.24%
+Desert Watch
+Base ATK:
+608
+CRIT Rate:
+33.1%
+After the character's Elemental Skill hits an opponent, their ATK will be increased by
+20% / 25% / 30% / 35% / 40%
+for 8s. After the character takes DMG, their ATK will be increased by
+20% / 25% / 30% / 35% / 40%
+for 8s. The 2 aforementioned effects can be triggered even when the character is not on the field. Additionally, when not protected by a shield, the character's Max HP will be increased by
+32% / 40% / 48% / 56% / 64%
+.
+Beacon of the Reed Sea is a great option just because of the high CRIT value solving all CRIT related issues.
+Redhorn Stonethresher
+(R1)
+107.32%
+Gokadaiou Otogibanashi
+Base ATK:
+542
+CRIT DMG:
+88.2%
+DEF is increased by
+28% / 35% / 42% / 49% / 56%
+. Normal and Charged Attack DMG is increased by
+40% / 50% / 60% / 70% / 80%
+of DEF.
+Wolf's Gravestone
+(R1)
+105.37%
+Wolfish Tracker
+Base ATK:
+608
+ATK:
+49.6%
+Increases ATK by
+20% / 25% / 30% / 35% / 40%
+. On hit, attacks against opponents with less than 30% HP increase all party members' ATK by
+40% / 50% / 60% / 70% / 80%
+for 12s. Can only occur once every 30s.
+This is the best standard weapon with insane amount of attack and passive providing additional
+attack making it pretty good for Kinich.
+Verdict
+(R1)
+102.45%
+Many Oaths of Dawn and Dusk
+Base ATK:
+674
+CRIT Rate:
+22.1%
+Increases ATK by
+20%
+. When party members obtain Elemental Shards from Crystallize or trigger Lunar-Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by
+18%
+. The Seal lasts for 15s, and the equipper may have up to 2 Seals at once. All of the equipper's Seals will disappear 0.2s after their Elemental Skill deals DMG. Up to 1 Seal may be obtained every second through the Lunar-Crystallize reaction.
+Navia's Signature weapon another 5-star Stat providing high base attack works decently with Kinich.
+This is the closest weapon when compared to signature stats with high base attack and lower CRIT
+perfect for Kinich as he almost always going to over-cap CRIT-rate due to Obsidian Codex set.
+Blackcliff Slasher
+(R5)
+100.82%
+Press the Advantage
+Base ATK:
+510
+CRIT DMG:
+55.1%
+After defeating an
+opponent / enemy / enemy / enemy
+, ATK is increased by
+12% / 15% / 18% / 21% / 24%
+for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others.
+Very good option unlike other weapon it does provides CRIT DMG stats which does work perfectly with Kinich
+without the fear of crossing 100% CRIT Rate. the only issue it has that the passive is bit tricky and often
+does not get activated specially when you fights against overclass enemies.
+Talking Stick
+(R5)
+100.52%
+"The Silver Tongue"
+Base ATK:
+565
+CRIT Rate:
+18.4%
+ATK will be increased by
+16% / 20% / 24% / 28% / 32%
+for 15s after being affected by Pyro. This effect can be triggered once every 12s. All Elemental DMG Bonus will be increased by
+12% / 15% / 18% / 21% / 24%
+for 15s after being affected by Hydro, Cryo, Electro, or Dendro. This effect can be triggered once every 12s.
+Provides ATK and conditional Elemental DMG Bonus when affected by Pyro,
+which synergizes well in Burning teams.
+The Unforged
+(R1)
+100.49%
+Golden Majesty
+Base ATK:
+608
+ATK:
+49.6%
+Increases Shield Strength by
+20% / 25% / 30% / 35% / 40%
+. Scoring hits on opponents increases ATK by
+4% / 5% / 6% / 7% / 8%
+for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%.
+Another Decent Option just because of it's 5-star stats.
+Earth Shaker
+(R5)
+100.00%
+Oath of Qhapaq Nan
+Base ATK:
+565
+ATK:
+27.6%
+After a party member triggers a Pyro-related reaction, the equipping character's Elemental Skill DMG is increased by
+16% / 20% / 24% / 28% / 32%
+for 8s. This effect can be triggered even when the triggering party member is not on the field.
+Best Craftable weapon made for Kinich as it provides skill damage buffing Kinich damage.
+Tidal Shadow
+(R5)
+92.89%
+White Cruising Wave
+Base ATK:
+510
+ATK:
+41.3%
+After the wielder is healed, ATK will be increased by
+24% / 30% / 36% / 42% / 48%
+for 8s. This can be triggered even when the character is not on the field.
+One of the best 4-star options for Kinich and being a craftble weapon it is available to everyone,
+and works perfectly fine as long you run a healer in the team.
+"Ultimate Overlord's Mega Magic Sword"
+(R5)
+92.53%
+Melussistance!
+Base ATK:
+565
+Energy Recharge:
+30.6%
+ATK increased by
+12% / 15% / 18% / 21% / 24%
+. That's not all! The support from all Melusines you've helped in Merusea Village fills you with strength! Based on the number of them you've helped, your ATK is increased by up to an additional
+12% / 15% / 18% / 21% / 24%
+.
+Decent weapon option when and can work in early stages without other weapon options with very good passive that
+provides a ton of attack buffs.
+Prototype Archaic
+(R5)
+91.28%
+Crush
+Base ATK:
+565
+ATK:
+27.6%
+On hit, Normal or Charged Attacks have a 50% chance to deal an additional
+240% / 300% / 360% / 420% / 480%
+ATK DMG to opponents within a small AoE. Can only occur once every 15s.
+Decent option for new player who starting fresh but it is recommended to change it with any above options
+once you can invest.
+Mailed Flower
+(R5)
+86.94%
+Whispers of Wind and Flower
+Base ATK:
+565
+Elemental Mastery:
+110
+Within 8s after the character's Elemental Skill hits an opponent or the character triggers an Elemental Reaction, their ATK and Elemental Mastery will be increased by
+12% / 15% / 18% / 21% / 24%
+and
+48 / 60 / 72 / 84 / 96
+respectively.
+Not the best option only give if you have no other options mentioned above. The Em buffs are basically useless foe Kinich
+but the attack from the passive is very usefull specially at R5.
+Katsuragikiri Nagamasa
+(R5)
+83.55%
+Samurai Conduct
+Base ATK:
+510
+Energy Recharge:
+45.9%
+Increases Elemental Skill DMG by
+6% / 7.5% / 9% / 10.5% / 12%
+. After Elemental Skill hits an opponent, the character loses 3 Energy but regenerates
+3 / 3.5 / 4 / 4.5 / 5
+Energy every 2s for the next 6s. This effect can occur once every 10s. Can be triggered even when the character is not on the field.
+Provides energy recharge but Kinich does not really need energy recharge for him as a on-field DPS the skill damage from 
+passive is decent but very small compared to other weapons.
+Best Artifacts for Kinich
+Obsidian Codex
+Obsidian Codex
+2-Piece Set
+: While the equipping character is in Nightsoul's Blessing and is on the field, their DMG dealt is increased by 15%.
+4-Piece Set
+: After the equipping character consumes 1 Nightsoul point while on the field, CRIT Rate increases by 40% for 6s. This effect can trigger once every second.
+Obsidian Codex is currently Kinich’s best-in-slot artifact set and is practically
+designed around his kit. Since Kinich frequently enters Nightsoul’s Blessing,
+he can consistently activate the 40% CRIT Rate bonus, making this set by far
+his strongest and most consistent option for maximizing personal damage.
+Marechaussee Hunter
+Marechaussee Hunter
+2-Piece Set
+: Normal and Charged Attack DMG +15%
+4-Piece Set
+: When current HP increases or decreases, CRIT Rate will be increased by 12% for 5s. Max 3 stacks.
+Marechaussee Hunter is Kinich’s second-best artifact option. It provides up to
+36% CRIT Rate, which is extremely strong. However, the major downside is that
+you are effectively forced to run
+Furina
+in order to
+consistently activate its passive, making it less flexible compared to
+Obsidian Codex.
+Unfinished Reverie
+Unfinished Reverie
+2-Piece Set
+: ATK +18%.
+4-Piece Set
+: After leaving combat for 3s, DMG dealt increased by 50%. In combat, if no Burning opponents are nearby for more than 6s, this DMG Bonus will decrease by 10% per second until it reaches 0%. When a Burning opponent exists, it will increase by 10% instead until it reaches 50%. This effect still triggers if the equipping character is off-field.
+Unfinished Reverie is another excellent option that synergizes very well with
+Kinich’s Burning-focused playstyle. Since his teams constantly trigger Burning,
+this set provides strong and consistent damage bonuses and can be used as a
+great alternative if you do not have Obsidian Codex ready.
+Deepwood Memories
+Deepwood Memories
+2-Piece Set
+: Dendro DMG Bonus +15%.
+4-Piece Set
+: After Elemental Skills or Bursts hit opponents, the targets' Dendro RES will be decreased by 30% for 8s. This effect can be triggered even if the equipping character is not on the field.
+Deepwood Memories is not as strong as the options above for Kinich’s personal
+damage, but it can still be used if you are new or lack better sets. It provides
+Dendro
+RES Shred, which can be useful in teams where no other character is
+holding Deepwood.
+Kinich's Stat Priority
+:
+ATK %
+:
+Dendro DMG > ATK %
+:
+CRIT Rate / CRIT DMG
+Substats:
+CRIT Rate/DMG > ATK % > Energy Recharge
+Kinich is a
+Dendro
+DPS who deal most of his damage as Dendro damage keep in mind he only gains
+nightsoul point while triggering burning does not do any burning damage
+so EM is completely useless as none of his damage counts as burning damage.
+Try to prioritize CRIT, Attack and Damage bonus Buffs.
+Recommended Stats for Kinich
+Build recommendations assume a "decently built" level of artifact rolls 
+alongside Kinich's best free to play weapon,
+Earth Shaker
+. 
+Using other weapons may increase or decrease certain stats relative to these 
+recommendations.
+HP:
+18,000-20,000
+ATK:
+2000-2300
+CRIT Rate:
+45-55%
+CRIT DMG:
+180-220%
+ER:
+120-130%
+Kinich's Talent Priority
+Talent Priority:
+Canopy Hunter: Riding High
+>
+Hail to the Almighty Dragonlord
+>>>
+Nightsun Style
+Kinich's most important talents to level are her Elemental Skill and then 
+Elemental Burst. Kinich's Basic Attacks can be ignored for the most part.
+How to Play Kinich
+Kinich is a Nightsoul-based character whose entire kit revolves around
+generating Nightsoul points and consuming them to deal
+Dendro
+damage.
+When you press his Elemental Skill, he enters the Nightsoul’s Blessing
+state. During this state, triggering Burning generates Nightsoul points
+for Kinich.
+Once you accumulate enough Nightsoul points, his Skill will begin to glow,
+allowing you to cast an enhanced version that deals significantly higher
+damage. While in Nightsoul’s Blessing, a Blind Spot appears near the
+opponent. When Kinich moves into this Blind Spot, it disappears and
+grants him 4 additional Nightsoul points, helping him reach his
+enhanced Skill faster.
+His rotation is very simple and intuitive. Press Elemental Skill to
+enter Nightsoul’s Blessing, move toward the Blind Spot whenever it
+appears to gain extra Nightsoul points, and use the enhanced Skill
+whenever it becomes available. Repeat this loop while maintaining
+Burning uptime for maximum consistency and damage.
+Kinich's Best Constellations
+Constellation
+% of C0
+% From Previous Constellation
+C0
+100%
+100%
+C1
+120%
+120%
+C2
+152%
+127%
+C3
+178%
+117%
+C4
+180%
+101%
+C5
+184%
+102%
+C6
+235%
+128%
+Investment Priority:
+Weapon > Constellation 1 > Constellation 2
+Kinich's Best Team Compositions
+To learn all about Kinich's synergies and best team compositions, check 
+our dedicated Kinich team page below:
+Kinich's Team Guide
+Changelog
+13 Feb. 2026:
+Kinich guide updated for 6.3.
+27 Sep. 2025:
+Updated for 6.0.
+10 Jul. 2025:
+Updated for 5.7.
+12 Feb. 2025:
+Reviewed for 5.4.
+17 Jan. 2025:
+Updated for 5.3.
+06 Sep. 2024:
+Full Guide released.
+27 Jul. 2024:
+Initial page added.
+Show more
+Show less
+Profile & Talents
+Build Guide
+Team Guide
+Need any help? Check out our
+General Discussion Forum
+!
+1 comment
+In The Same Category
+Kinich Team Guide
+Kinich Profile & Talents
+Emilie Best Builds Guide
+Alhaitham Best Builds Guide
+Dendro Traveler Best Builds Guide
+Alhaitham Profile & Talents
+Tighnari Best Builds Guide
+Lauma Profile & Talents
+Yaoyao Best Builds Guide
+Baizhu Best Builds Guide
+Emilie Team Guide
+Nefer Best Builds Guide
+ABOUT THE AUTHOR
+Asher is a Genshin Impact and Wuthering Waves creator and theorycrafter 
+        with over three years of experience in Teyvat and one year in Solaris-3. 
+        He has been producing guides and analysis content consistently for the past 
+        six months, building a growing YouTube community of more than 8,000 subscribers. 
+        He focuses on creating simple, clear, and beginner-friendly guides designed 
+        to help new players understand characters, builds, and meta strategies with ease.
+SUPPORT OUR WRITERS

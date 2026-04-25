@@ -1,0 +1,251 @@
+Home
+/
+Genshin Impact
+/
+Character List
+/
+Xingqiu Profile
+Xingqiu Profile, Talents and Constellations
+Xingqiu is a 4-Star
+Hydro
+DPS in Genshin Impact,
+focused on off-field damage and excellent Hydro application to enable a wide
+range of reactions. Read our Xingqiu guide to learn more about his kit, best
+builds, and Ascension and Talent materials.
+Last updated
+Yesterday
+at
+09:00
+by
+GachaHub
+S
+Rank
+Hydro
+Element
+Sword
+Weapon
+★
+★
+★
+★
+★
+Rarity
+Cristina Valenzuela
+EN Voice Actor
+Junko Minagawa
+JP Voice Actor
+Profile & Talents
+Build Guide
+Team Guide
+Introduction — Xingqiu
+Xingqiu
+is a 4-Star
+Hydro
+Sword Character
+in Genshin Impact. Our Xingqiu guide covers everything you need to know about his best
+builds, including skills, artifacts, team compositions, and more. To learn more about
+Xingqiu, use the tabs above to switch between his build information and team compositions.
+Xingqiu's Strengths & Weaknesses
+Strengths
+One of the best options for Hydro application.
+Elemental Skill provides damage reduction, interruption resistance, and healing, giving Xingqiu strong supportive utility.
+Weaknesses
+Requires a lot of Energy for Xingqiu's Elemental Burst.
+Elemental Skill has a long 21-second cooldown, limiting use.
+Can accidentally freeze himself due to the self-Hydro application of his Elemental Skill.
+Ascension Stat & Materials for Xingqiu
+Ascension Stat:
+24% ATK
+Xingqiu gains ATK % each time he ascends, totalling 24% at level 90. The
+total Ascension material costs are listed below:
+Source
+Quantity
+Mora
+420,000 Mora
+Boss Material
+46x
+Cleansing Heart
+Ascension Material
+1x
+Varunada Lazurite Sliver
+9x
+Varunada Lazurite Fragment
+9x
+Varunada Lazurite Chunk
+6x
+Varunada Lazurite Gemstone
+Local Specialty
+168x
+Silk Flower
+Enhancement Material
+18x
+Damaged Mask
+30x
+Stained Mask
+36x
+Ominous Mask
+Talent Materials for Xingqiu
+Listed below are all the materials required to raise a single talent of
+Xingqiu's to level 10. Please check our Xingqiu build guide for recommendations on
+talent priorities.
+Source
+Quantity
+Mora
+1,625,500 Mora
+Special Material
+1x
+Crown of Insight
+Boss Material
+6x
+Tail of Boreas
+Domain Material
+3x
+Teachings of Gold
+21x
+Guide to Gold
+38x
+Philosophies of Gold
+Enhancement Material
+6x
+Damaged Mask
+22x
+Stained Mask
+31x
+Ominous Mask
+Xingqiu's Talents
+Guhua Style
+Normal Attack
+Normal Attack
+Performs up to 5 rapid strikes.
+Charged Attack
+Consumes a certain amount of Stamina to unleash 2 rapid sword strikes.
+Plunging Attack
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Guhua Sword: Fatal Rainscreen
+Elemental Skill
+CD: 21s
+Xingqiu performs twin strikes with his sword, dealing
+Hydro DMG
+. At the same time, this ability creates the maximum number of Rain Swords, which will orbit your active character.
+The Rain Swords have the following properties:
+When a character takes DMG, the Rain Sword will shatter, reducing the amount of DMG taken.
+Increases the character's resistance to interruption.
+20% of Xingqiu's
+Hydro DMG Bonus
+will be converted to additional DMG Reduction for the Rain Swords.
+The maximum amount of additional DMG Reduction that can be gained this way is 24%.
+The initial maximum number of Rain Swords is 3.
+Using this ability applies the
+Wet
+status onto the character.
+"Easier to slay a rain dragon than to sever the rain."
+Guhua Sword: Raincutter
+Elemental Burst
+CD: 20s
+Energy Cost: 80
+Initiate Rainbow Bladework and fight using an illusory sword rain, while creating the maximum number of Rain Swords.
+Rainbow Bladework
+Your active character's Normal Attacks will trigger consecutive sword rain attacks, dealing
+Hydro DMG
+.
+Rain Swords will remain at the maximum number throughout the ability's duration.
+The "Way of the Rain Cutter" is one of the esoteric secret techniques of the Guhua Sect.
+Xingqiu's Ascension Passive Talents
+Hydropathic
+1st Ascension Passive
+When a Rain Sword is shattered or when its duration expires, it regenerates the current character's HP based on 6% of Xingqiu's Max HP.
+Blades Amidst Raindrops
+4th Ascension Passive
+Xingqiu gains a 20%
+Hydro DMG Bonus
+.
+Flash of Genius
+Utility Passive
+When Xingqiu crafts Character Talent Materials, he has a 25% chance to refund a portion of the crafting materials used.
+Xingqiu's Constellations
+The Scent Remained
+Constellation
+C1
+Increases the maximum number of Rain Swords by 1.
+Rainbow Upon the Azure Sky
+Constellation
+C2
+Extends the duration of
+Guhua Sword: Raincutter
+by 3s.
+Decreases the
+Hydro RES
+of opponents hit by sword rain attacks by 15% for 4s.
+Weaver of Verses
+Constellation
+C3
+Increases the Level of
+Guhua Sword: Raincutter
+by 3.
+Maximum upgrade level is 15.
+Evilsoother
+Constellation
+C4
+Throughout the duration of
+Guhua Sword: Raincutter
+, the DMG dealt by
+Guhua Sword: Fatal Rainscreen
+is increased by 50%.
+Embrace of Rain
+Constellation
+C5
+Increases the Level of
+Guhua Sword: Fatal Rainscreen
+by 3.
+Maximum upgrade level is 15.
+Hence, Call Them My Own Verses
+Constellation
+C6
+Activating 2 of
+Guhua Sword: Raincutter
+'s sword rain attacks greatly enhances the third sword rain attack. On hit, the third sword rain attack also regenerates 3 Energy for Xingqiu.
+Build Guide for Xingqiu
+To learn all about Xingqiu's best weapons, artifacts, and builds, check
+our dedicated Xingqiu build guide below:
+Xingqiu Guide & Best Builds
+Changelog
+20 Apr. 2026:
+Xingqiu guide updated for 6.5.
+26 Oct. 2025:
+Updated for 6.1.
+12 Feb. 2025:
+Reviewed for 5.4.
+04 Feb. 2025:
+Updated for 5.3.
+03 Jun. 2024:
+Reviewed for 4.7.
+31 Jan. 2024:
+Guide reviewed for Patch 4.4.
+29 Nov. 2023:
+Guide added.
+Show more
+Show less
+Profile & Talents
+Build Guide
+Team Guide
+In The Same Category
+Xingqiu Best Builds Guide
+Xingqiu Team Guide
+Furina Best Builds Guide
+Mona Best Builds Guide
+Aino Best Builds Guide
+Columbina Best Builds Guide
+Yelan Best Builds Guide
+Tartaglia Best Builds Guide
+Mona Profile & Talents
+Mualani Best Builds Guide
+Candace Best Builds Guide
+Sigewinne Best Builds Guide
+ABOUT THE AUTHOR
+Asher is a Genshin Impact and Wuthering Waves creator and theorycrafter 
+        with over three years of experience in Teyvat and one year in Solaris-3. 
+        He has been producing guides and analysis content consistently for the past 
+        six months, building a growing YouTube community of more than 8,000 subscribers. 
+        He focuses on creating simple, clear, and beginner-friendly guides designed 
+        to help new players understand characters, builds, and meta strategies with ease.
+SUPPORT OUR WRITERS

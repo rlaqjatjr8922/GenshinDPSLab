@@ -1,0 +1,157 @@
+Contents
+show
+1
+Wanderer Rating and Info
+1.1
+Stats Lvl 80
+2
+Best Wanderer Builds
+2.1
+Best Wanderer Weapons
+2.2
+Best Wanderer Artifacts
+3
+Best Wanderer Teams Comps
+4
+Wanderer Skills Talents
+4.1
+Yuuban Meigen: Normal Attack
+4.2
+Hanega Song of the Wind: Elemental Skill
+4.3
+Kyougen Five Ceremonial Plays: Elemental Burst
+5
+Wanderer Passive Talents
+5.1
+Jade-Claimed Flower: First Ascension Passive
+5.2
+Gales of Reverie: Fourth Ascension Passive
+5.3
+Strum the Swirling Winds: Passive Talent
+6
+Wanderer Constellations
+6.1
+Level 1: Shoban Ostentatious Plumage
+6.2
+Level 2: Niban Moonlit Isle Amidst White Waves
+6.3
+Level 3: Sanban Moonflower Kusemai
+6.4
+Level 4: Topaz, Unbreakable and Fearless
+6.5
+Level 5: Matsuban Ancient Illuminator From Abroad
+6.6
+Level 6: Shugen The Curtains’ Melancholic Sway
+7
+Wanderer Ascension Costs Lvl 90
+Wanderer
+Rating and Info
+Rarity:
+★★★★★
+Specialties:
+Main DPS
+Element:
+Anemo
+Weapon:
+Catalyst
+Tier List Rating
+: S
+Stats Lvl 80
+HP: 9450
+ATK: 305
+DEF: 564
+CRIT Rate 19.20%
+Best Wanderer Builds
+Wanderer is one of the strongest Main DPS characters in Genshin Impact. There are a lot of different builds and roles for Wanderer, but most players are using Main DPS builds. Wanderer is the SS tier character in Genshin Impact.
+Best Wanderer
+Weapons
+Tulaytullah’s Remembrance
+Normal Attack SPD is increased by 10%/12.5%/15%/17.5%/20%. After the wielder unleashes an Elemental Skill, Normal Attack DMG will increase by 4.8%/6%/7.2%/8.4%/9.6% every second for 14s. After this character hits an opponent with a Normal Attack during this duration, Normal Attack DMG will be increased by 9.6%/12%/14.4%/16.8%/19.2%. This increase can be triggered once every 0.3s. The maximum Normal Attack DMG increase per single duration of the overall effect is 48%/60%/72%/84%/96%. The effect will be removed when the wielder leaves the field, and using the Elemental Skill again will reset all DMG buffs.
+The Widsith
+When a character takes the field, they will gain a random theme song for 10s. This can only occur once every 30s.
+Recitative: Increases Base ATK by 60/75/90/105/120%
+Aria: Increases all Elemental DMG by 48/60/72/84/96%
+Interlude: Elemental Mastery is increased by 240/300/360/420/480
+Best Wanderer
+Artifacts
+Desert Pavilion Chronicle
+(2) Anemo DMG Bonus +15%.
+(4) When Charged Attacks hit opponents, the equipping character’s Normal Attack SPD will increase by 10% while Normal, Charged, and Plunging Attack DMG will increase by 40% for 15s.
+Viridescent Venerer
+(2) Gain a 15% Anemo DMG Bonus.
+(4) Increases Swirl DMG by 60%. Decreases opponent’s Elemental RES to the element infused in the Swirl by 40% for 10s.
+Best Wanderer Teams Comps
+Character 1
+Character 2
+Character 3
+Character 4
+Wanderer
+Fischl
+Beidou
+Xingqiu
+Wanderer
+Xiangling
+Bennett
+Xingqiu
+Wanderer
+Faruzan
+Xiangling
+Bennett
+Wanderer
+Faruzan
+Jean
+Bennett
+There are a lot of team comps that you can make in Genshin Impact with Wanderer. We recommend team comps that we think are best for Wanderer. There are a lot of different characters, and there is a high chance that you do not have some of them. So you should create your team comps, test them out, and see what is best for you and your playstyle. With that, you will become better at the game, and you will know how your team works.
+Wanderer Skills Talents
+Yuuban Meigen: Normal Attack
+Normal Attack
+Performs up to 3 attacks using wind blades, dealing Anemo DMG.
+Charged Attack
+Consumes a certain amount of Stamina, gathers a build up of high wind pressure, and deals AoE Anemo DMG after a short casting time.
+Plunging Attack
+Calling upon the power of Anemo, the Wanderer plunges towards the ground from mid-air, damaging all opponents in his path. Deals AoE Anemo DMG upon impact with the ground.
+Hanega Song of the Wind: Elemental Skill
+Concentrates the power of the winds to break free from the shackles of the earth, dealing AoE Anemo DMG before leaping into the air and entering the Windfavored state.
+Windfavored
+The Wanderer cannot perform Plunging Attacks in this state. When he uses Normal and Charged Attacks, they will be converted into Kuugo: Fushoudan and Kuugo: Toufukai respectively; the DMG they deal and their AoE will be increased, and their DMG will be considered Normal and Charged Attack DMG respectively. Kuugo: Toufukai will not consume Stamina. The Wanderer will hover persistently during this time. While this state is active, the Wanderer’s movements gain the following properties:
+Persistently consumes Kuugoryoku Points to maintain this hovering state.
+When sprinting, additional Kuugoryoku Points will be consumed for the Wanderer to accelerate mid-air. Holding sprint will cause persistent Kuugoryoku Point consumption to maintain speed. This effect will replace his default sprint.
+Jumping expends extra Kuugoryoku Points to increase hovering height. Holding jump will cause persistent Kuugoryoku Point consumption to keep increasing hovering height.
+Running out of Kuugoryoku Points will end the Windfavored state. A second cast during the duration of Windfavored will also end it.
+Kyougen Five Ceremonial Plays: Elemental Burst
+Compresses the atmosphere into a singular vacuum that grinds all troubles away, dealing multiple instances of AoE Anemo DMG. If the character is in the Windfavored state due to the skill “Hanega: Song of the Wind,” Windfavored state will end after casting.
+Wanderer Passive Talents
+Jade-Claimed Flower: First Ascension Passive
+If Hanega: Song of the Wind comes into contact with Hydro/Pyro/Cryo/Electro when it is unleashed, this instance of the Windfavored state will obtain buffs according to the contacted element(s):
+Hydro: Kuugoryoku Point cap increases by 20.
+Pyro: ATK increases by 30%.
+Cryo: CRIT Rate increases by 20%.
+Electro: When Normal and Charged Attacks hit an opponent, 0.8 Energy will be restored. Energy can be restored this way once every 0.2s.
+You can have up to 2 different kinds of these buffs simultaneously.
+Gales of Reverie: Fourth Ascension Passive
+When the Wanderer hits opponents with Kuugo: Fushoudan or Kuugo: Toufukai in his Windfavored state, he has a 16% chance to obtain the Descent effect: The next time the Wanderer accelerates in mid-air while in this instance of the Windfavored state, this effect will be removed, this acceleration instance will not consume any Kuugoryoku Points, and he will fire off 4 wind arrows that deal 35% of his ATK as Anemo DMG each. For each Kuugo: Fushoudan and Kuugo: Toufukai that does not produce this effect, the next attack of those types will have a 12% increased chance of producing it. The calculation of the effect production is done once every 0.1s.
+Strum the Swirling Winds: Passive Talent
+Mora expended when ascending Bows and Catalysts is decreased by 50%.
+Wanderer Constellations
+Level 1: Shoban Ostentatious Plumage
+When in the Windfavored state, the Attack SPD of the Wanderer’s Kuugo: Fushoudan and Kuugo: Toufukai is increased by 10%. Additionally, the wind arrows fired by the Passive Talent “Gales of Reverie” will deal an additional 25% of his ATK as DMG. You must unlock the Passive Talent “Gales of Reverie” first.
+Level 2: Niban Moonlit Isle Amidst White Waves
+When in the Windfavored state, Kyougen: Five Ceremonial Plays will see its DMG increased by 4% per point of difference between the max amount of Kuugoryoku Points contrasted with Kuugoryoku’s present capacity when using this skill. Through this method, you can increase Kyougen: Five Ceremonial Plays’s DMG by a maximum of 200%.
+Level 3: Sanban Moonflower Kusemai
+When casting Hanega: Song of the Wind, should the Passive Talent “Jade-Claimed Flower” be triggered, the character will gain buffs in correspondence to the contacted Elemental Type(s), and also obtain a random untriggered buff. A maximum of 3 such corresponding elemental buffs can exist simultaneously. You must unlock the Passive Talent “Jade-Claimed Flower” first.
+Level 4: Topaz, Unbreakable and Fearless
+Increases Planet Befall’s AoE by 20% and increases the duration of Planet Befall’s Petrification effect by 2s.
+Level 5: Matsuban Ancient Illuminator From Abroad
+Increases the Level of Hanega: Song of the Wind by 3. Maximum upgrade level is 15.
+Level 6: Shugen The Curtains’ Melancholic Sway
+When the Wanderer actively hits an opponent with Kuugo: Fushoudan while in the Windfavored state, the following effects will occur: Deals an additional instance of Kuugo: Fushoudan at the position hit, dealing 40% of the attack’s original DMG. This DMG will be considered Normal Attack DMG. When the Wanderer falls below 40 Kuugoryoku Points, restores 4 Points to him. Kuugoryoku Points can be restored in this manner once every 0.2s. This restoration can occur up to 5 times within one Windfavored duration.
+Wanderer Ascension Costs Lvl 90
+Old Handguard x 18
+Kageuchi Handguard x 30
+Famed Handguard x 36
+Rukkhashava Mushrooms x 168
+Perpetual Caliber x 46
+Vayuda Turquoise Sliver x 1
+Vayuda Turquoise Fragment x 9
+Vayuda Turquoise Chunk x 9
+Vayuda Turquoise Gemstone x 6

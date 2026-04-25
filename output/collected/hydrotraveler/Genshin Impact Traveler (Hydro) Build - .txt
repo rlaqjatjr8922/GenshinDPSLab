@@ -1,0 +1,156 @@
+Genshin Impact Traveler (Hydro) Build
+Hydro
+Sword
+Support
+Traveler (Hydro) Upgrade Materials
+Equity
+Worldspan Fern
+Brilliant Diamond Sliver
+Windwheel Aster
+Damaged Mask
+Traveler (Hydro) Best Weapons
+1
+Favonius Sword
+2
+Fleuve Cendre Ferryman
+3
+Skyward Blade
+4
+Freedom-Sworn
+5
+Sacrificial Sword
+Traveler (Hydro) Best Artifacts
+1
+Instructor
+4
+2
+Noblesse Oblige
+4
+3
+Tenacity of the Millelith
+4
+Traveler (Hydro) Best Stats
+Sands:
+Energy Recharge
+Goblet:
+Hydro DMG
+Circlet:
+CRIT Rate / CRIT DMG
+Substats:
+Energy Recharge > CRIT Rate / CRIT DMG > ATK%
+Character Builds by Genshin Impact Helper →
+Talents
+Passives
+Constellations
+Ascension
+Traveler (Hydro) Talents
+Normal Attack
+Foreign Stream
+Normal Attack Performs up to 5 rapid strikes. Charged Attack Consumes a certain amount of Stamina to unleash 2 rapid sword strikes. Plunging Attack Plunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.
+Elemental Skill
+Aquacrest Saber
+Unleashes a torrent that can cleanse the world. Press Sends a Torrent Surge forward that will deal
+Hydro
+DMG to opponents it comes into contact with. Hold Enter Aiming Mode and constantly fire off Dewdrops in the direction in which you are aiming, dealing
+Hydro
+DMG to opponents they hit. When the skill ends, it will send a Torrent Surge forward that will deal
+Hydro
+DMG to opponents it comes into contact with. Suffusion: When using the Hold configuration of this skill, if the Traveler's HP is higher than 50%, the DMG dealt by Dewdrops will increase based on the Traveler's Max HP, and the Traveler will lose a fixed amount of HP every second. Arkhe: Pneuma At certain intervals, after using Torrent Surge, this skill will unleash a Spiritbreath Thorn that pierces opponents, dealing Pneuma-aligned
+Hydro
+DMG.
+Elemental Burst
+Rising Waters
+Unleashes a slow-moving floating bubble that deals continuous
+Hydro
+DMG to nearby opponents.
+Traveler (Hydro) Passives
+Ascension 1
+Spotless Waters
+After the Dewdrop fired by the Hold Mode of the Aquacrest Saber hits an opponent, a Sourcewater Droplet will be generated near to the Traveler. If the Traveler picks it up, they will restore 7% HP. 1 Droplet can be created this way every second, and each use of Aquacrest Saber can create 4 Droplets at most.
+Ascension 4
+Clear Waters
+If HP has been consumed via Suffusion while using the Hold Mode Aquacrest Saber, the Torrent Surge at the skill's end will deal Bonus DMG equal to 45% of the total HP the Traveler has consumed in this skill use via Suffusion. The maximum DMG Bonus that can be gained this way is 5,000.
+Traveler (Hydro) Constellations
+Constellation 1
+Swelling Lake
+Picking up a Sourcewater Droplet will restore 2 Energy to the Traveler. Requires the Passive Talent "Spotless Waters."
+Constellation 2
+Trickling Purity
+The Movement SPD of Rising Waters' bubble will be decreased by 30%, and its duration increased by 3s.
+Constellation 3
+Turbulent Ripples
+Increases the Level of Aquacrest Saber by 3. Maximum upgrade level is 15.
+Constellation 4
+Pouring Descent
+When using Aquacrest Saber, an Aquacrest Aegis that can absorb 10% of the Traveler's Max HP in DMG will be created and will absorb
+Hydro
+DMG with 250% effectiveness. It will persist until the Traveler finishes using the skill. Once every 2s, after a Dewdrop hits an opponent, if the Traveler is being protected by Aquacrest Aegis, the DMG Absorption of the Aegis will be restored to 10% of the Traveler's Max HP. If the Traveler is not presently being protected by an Aegis, one will be redeployed.
+Constellation 5
+Churning Whirlpool
+Increase the Level of Rising Waters by 3. Maximum upgrade level is 15.
+Constellation 6
+Tides of Justice
+When the Traveler picks up a Sourcewater Droplet, they will restore HP to the nearest party member with the lowest HP percentage remaining based on 6% of their Max HP.
+Traveler (Hydro) Ascension Costs
+Rank
+Lvl
+Cost
+Material
+Material
+Material
+Material
+1
+20
+20000
+1
+Brilliant Diamond Sliver
+3
+Windwheel Aster
+3
+Damaged Mask
+2
+40
+40000
+3
+Brilliant Diamond Fragment
+10
+Windwheel Aster
+15
+Damaged Mask
+3
+50
+60000
+6
+Brilliant Diamond Fragment
+20
+Windwheel Aster
+12
+Stained Mask
+4
+60
+80000
+3
+Brilliant Diamond Chunk
+30
+Windwheel Aster
+18
+Stained Mask
+5
+70
+100000
+6
+Brilliant Diamond Chunk
+45
+Windwheel Aster
+12
+Ominous Mask
+6
+80
+120000
+6
+Brilliant Diamond Gemstone
+60
+Windwheel Aster
+24
+Ominous Mask
+Loading...

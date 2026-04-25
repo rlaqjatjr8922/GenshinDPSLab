@@ -1,0 +1,191 @@
+Genshin Impact Lisa Build
+Electro
+Catalyst
+Support
+Lisa Upgrade Materials
+Ballad
+Dvalin's Claw
+Vajrada Amethyst Sliver
+Lightning Prism
+Valberry
+Slime Condensate
+Lisa Best Weapons
+1
+Kagura's Verity
+2
+Lost Prayer to the Sacred Winds
+3
+Skyward Atlas
+4
+A Thousand Floating Dreams
+5
+The Widsith
+Lisa Best Artifacts
+1
+Emblem of Severed Fate
+4
+2
+Scroll of the Hero of Cinder City
+4
+3
+Gilded Dreams
+4
+4
+Thundersoother
+4
+5
+Gilded Dreams
+2
+Thundering Fury
+2
+Lisa Best Stats
+Sands:
+Elemental Master / ATK%
+Goblet:
+Electro DMG
+Circlet:
+CRIT Rate / CRIT DMG
+Substats:
+CRIT Rate / CRIT DMG > Elemental Mastery > ATK%
+Character Builds by Genshin Impact Helper →
+Showcase
+Teams
+Talents
+Passives
+Constellations
+Ascension
+Lisa Showcase
+Lisa video guide by
+Braxophone
+.
+Check out his content!
+Best Lisa Teams
+Alhaitham Quicken
+Cyno Aggravate
+Raiden Overload
+Lisa Talents
+Normal Attack
+Lightning Touch
+Normal Attack Perform up to 4 lightning attacks that deal
+Electro
+DMG. Charged Attack Consumes a certain amount of Stamina to deal AoE
+Electro
+DMG after a short casting time. Plunging Attack Gathering the might of Electro, Lisa plunges towards the ground from mid-air, damaging all enemies in her path. Deals AoE
+Electro
+DMG upon impact with the ground.
+Elemental Skill
+Violet Arc
+Channels the power of lightning to sweep bothersome matters away. Press Releases a homing Lightning Orb. On hit, it deals
+Electro
+DMG, and applies a stack of Conductive status (Max 3 stacks) to enemies in a small AoE. Hold After an extended casting time, calls down lightning from the heavens, dealing massive
+Electro
+DMG to all nearby enemies. Deals great amounts of extra damage to enemies based on the number of Conductive stacks applied to them, and clears their Conductive status.
+Elemental Burst
+Lightning Rose
+Summons a Lightning Rose that unleashes powerful lightning bolts, launching surrounding enemies and dealing
+Electro
+DMG. The Lightning Rose will continuously emit lightning to knock back enemies and deal
+Electro
+DMG for so long as it persists.
+Lisa Passives
+Ascension 1
+Induced Aftershock
+Hits by charged Attacks apply Violet Arc's Conductive status to enemies.
+Ascension 4
+Static Electricity Field
+Enemies hit by Lightning Rose have their DEF decreased by 15% for 10s.
+Passive
+General Pharmaceutics
+When Lisa crafts a potion, she has a 20% chance to refund a portion of the crafting materials used.
+Lisa Constellations
+Constellation 1
+Infinite Circuit
+Lisa recovers 2 Energy for every opponent hit while holding Violet Arc. A maximum of 10 Energy can be regenerated in this manner at any one time.
+Constellation 2
+Electromagnetic Field
+Holding Violet Arc has the following effects: Increases DEF by 25%. Increases Lisa's resistance to interruption.
+Constellation 3
+Resonant Thunder
+Increases the Level of Lightning Rose by 3. Maximum upgrade level is 15.
+Constellation 4
+Plasma Eruption
+Increases the number of lightning bolts released by Lightning Rose by 1-3.
+Constellation 5
+Electrocute
+Increase the Level of Violet Arc by 3. Maximum upgrade level is 15.
+Constellation 6
+Pulsating Witch
+When Lisa takes the field, she applies 3 stacks of Violet Arc's Conductive status onto nearby enemies. This effect can only occur once every 5s.
+Lisa Ascension Costs
+Rank
+Lvl
+Cost
+Material
+Material
+Material
+Material
+1
+20
+20000
+1
+Vajrada Amethyst Sliver
+3
+Valberry
+3
+Slime Condensate
+2
+40
+40000
+3
+Vajrada Amethyst Fragment
+2
+Lightning Prism
+10
+Valberry
+15
+Slime Condensate
+3
+50
+60000
+6
+Vajrada Amethyst Fragment
+4
+Lightning Prism
+20
+Valberry
+12
+Slime Secretions
+4
+60
+80000
+3
+Vajrada Amethyst Chunk
+8
+Lightning Prism
+30
+Valberry
+18
+Slime Secretions
+5
+70
+100000
+6
+Vajrada Amethyst Chunk
+12
+Lightning Prism
+45
+Valberry
+12
+Slime Concentrate
+6
+80
+120000
+6
+Vajrada Amethyst Gemstone
+20
+Lightning Prism
+60
+Valberry
+24
+Slime Concentrate
+Loading...

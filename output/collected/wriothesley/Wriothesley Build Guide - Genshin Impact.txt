@@ -1,0 +1,659 @@
+Wriothesley Build Guide - Genshin Impact
+March 7, 2025
+Wriothesley is a
+Cryo DPS from Fontaine
+, excelling in
+Normal and Charged Attack combos
+while utilizing his unique HP manipulation mechanics. His playstyle revolves around
+high CRIT DMG scaling
+, making him a perfect candidate for
+Marechaussee Hunter
+, which significantly boosts his
+CRIT Rate
+based on HP fluctuations.
+With his
+first rerun happening from March 4, 2025, to March 25, 2025, in the second phase of Version 5.4
+, this is the perfect chance to get him or improve his Constellations!
+Should You Pull for Wriothesley or Save for Skirk?
+With Wriothesley getting his
+first rerun
+, many players might be wondering:
+Is he worth pulling, or should you save Primogems for future Cryo characters like Skirk?
+Here’s a breakdown to help you decide.
+Why You Should Pull for Wriothesley
+✅
+Strong Cryo DPS
+– One of the best Cryo damage dealers with
+consistent, self-sustaining DPS.
+✅
+Rare Cryo Addition
+– Cryo DPS units
+don’t come often
+, and reruns might take a long time.
+✅
+Great Self-Healing & Synergy
+– His
+kit works well without external healing
+, and he fits
+Freeze, Mono Cryo, and Melt teams
+.
+✅
+Doesn’t Need C6 to Shine
+– Even at
+C0, he’s a powerful DPS
+that can clear endgame content.
+Why You Might Want to Save for Skirk
+🔹
+Potentially a Stronger Cryo DPS?
+– Skirk is
+rumored to be a 5-star Cryo unit
+, possibly one of the most powerful character in the game with new mechanics.
+🔹
+Unknown Kit & Playstyle
+– Since we don’t know her full abilities yet, she might be a better long-term investment.
+🔹
+Primogem Efficiency
+– If you're
+low on Primogems
+, saving for
+future units
+could be a safer bet.
+Should You Pull for His Constellations?
+If you
+already own Wriothesley
+, the decision comes down to how much you want to invest in him:
+C1 & C2 are great upgrades
+if you want more
+damage consistency & stronger burst damage.
+C6 is a huge buff
+, but
+only worth it for hardcore Wriothesley mains.
+If you’re F2P or a light spender, it's better to stop at C0 or C1 and save your Primogems.
+Final Verdict: Pull or Save?
+🔹
+Want a reliable Cryo DPS now?Pull for Wriothesley
+– He’s strong, self-sufficient, and a rare Cryo option.
+🔹
+Prefer to wait for Skirk or future characters?Save Primogems
+Either way,
+Wriothesley remains a solid choice
+if you need a Cryo DPS, Hence we got plenty of time to save more for later characters, you should go for him if you are interested in his kit!!!
+⭐
+Strengths:
+✅
+One of the best Cryo DPS units
+, with
+self-sustaining healing
+and
+consistent damage output
+.
+✅
+Scales well with constellations
+but is
+strong even at C0
+.
+✅
+Great in Freeze, Mono Cryo, and Melt teams
+.
+✅
+Has synergy with HP fluctuation mechanics
+, benefiting from
+self-healing and HP-draining buffs
+.
+⚠️
+Weaknesses:
+❌ Requires
+careful HP management
+to
+maintain DPS while staying alive
+.
+❌
+Stamina-hungry
+playstyle, especially if you use
+Charged Attacks often
+.
+❌
+Doesn’t work well in quickswap teams
+, as his
+buffs require staying on-field
+.
+Best Artifact Sets for Wriothesley
+1st: Marechaussee Hunter (Best-in-Slot)
+✅
+2-PC:
+Normal and Charged Attack DMG +15%
+✅
+4-PC:
+When HP increases or decreases,
+CRIT Rate increases by 12% for 5s (max 3 stacks, +36% CRIT Rate total).
+Why?
+Wriothesley’s HP fluctuates frequently due to his
+Elemental Skill
+, triggering the 4-piece effect consistently.
+Allows you to focus on CRIT DMG and ATK% instead of CRIT Rate.
+2nd: Blizzard Strayer (Freeze Team Alternative)
+✅
+2-PC:
+Cryo DMG Bonus +15%
+✅
+4-PC:
++20% CRIT Rate against Cryo-affected enemies, +40% against Frozen enemies.
+Why?
+In
+Freeze teams
+, this set offers
+free CRIT Rate
+, allowing you to stack
+CRIT DMG and ATK%.
+Not as universally strong as Marechaussee Hunter but still a great option.
+3rd: Shimenawa’s Reminiscence (High DMG Option)
+✅
+2-PC:
+ATK +18%
+✅
+4-PC:
+When casting an Elemental Skill with
+15 or more Energy, consumes 15 Energy
+to boost Normal/Charged/Plunging Attack DMG by
+50% for 10s.
+Why?
+Works best for
+sustained Normal Attack rotations
+but
+sacrifices burst uptime
+.
+Melt teams
+can take better advantage of this due to higher multipliers.
+Artifact Stat Priorities
+Main Stats:
+⏳
+Sands:
+ATK%
+🏺
+Goblet:
+Cryo DMG Bonus
+👑
+Circlet:
+CRIT DMG
+Sub-Stats Priority:
+1️⃣
+CRIT DMG
+2️⃣
+ATK%
+3️⃣
+Energy Recharge
+(for Burst uptime)
+4️⃣
+CRIT Rate
+(aim for 60% in Melt teams, 40% in Freeze teams)
+Best Weapons for Wriothesley
+🔹
+CRIT Weapons with ATK or DMG Bonus are preferred.
+🔹
+CRIT DMG weapons are ideal
+since Cryo Resonance and artifacts provide plenty of CRIT Rate.
+🔹
+ATK-boosting weapons work well
+due to his scaling.
+Cashflow Supervision (Best-in-Slot)
+🔹
+Base ATK:
+674 |
+Bonus Stat:
+CRIT Rate 22.1%
+🔹
+Effect:
+ATK +16%, when HP increases/decreases,
+Normal Attack DMG +16%, Charged Attack DMG +14% for 4s (max 3 stacks, also increases ATK SPD by 8%).
+✅
+Best synergy with Wriothesley’s HP manipulation and Normal Attack focus.
+Tulaytullah’s Remembrance (High DMG Alternative)
+🔹
+Base ATK:
+674 |
+Bonus Stat:
+CRIT DMG 44.1%
+🔹
+Effect:
+Normal Attack SPD +10%. After using Elemental Skill,
+Normal Attack DMG increases every second for 14s, up to 48%.
+✅
+Can outperform Cashflow in Melt teams due to its insane Normal Attack scaling.
+Lost Prayer to the Sacred Winds
+🔹
+Base ATK:
+608 |
+Bonus Stat:
+CRIT Rate 33.1%
+🔹
+Effect:
+Movement SPD +10%. Grants 8% Elemental DMG Bonus every 4s while on-field (max 4 stacks).
+✅ High CRIT Rate pairs well with Marechaussee Hunter artifacts. Elemental DMG bonus enhances Cryo DPS output.
+Skyward Atlas
+🔹
+Base ATK:
+674 |
+Bonus Stat:
+ATK 33.1%
+🔹
+Effect:
+Elemental DMG Bonus +12%. Normal Attacks have a 50% chance to trigger an attack dealing 160% ATK DMG.
+✅ Huge ATK boost and Elemental DMG bonus help maximize Wriothesley’s raw damage.
+The Widsith (F2P-Friendly CRIT DMG Option)
+🔹
+Base ATK:
+510 |
+Bonus Stat:
+CRIT DMG 55.1%
+🔹
+Effect:
+When switching to this character, gains one of three buffs:
+ATK +60%
+Elemental DMG +48%
+Elemental Mastery +240
+✅
+Strongest 4-star option with high CRIT DMG scaling.
+Ballad of the Boundless Blue
+🔹
+Base ATK:
+565 |
+Bonus Stat:
+Energy Recharge 30.6%
+🔹
+Effect:
+Normal and Charged Attack DMG +16% for 6s after hitting an opponent with a Normal or Charged Attack.
+✅ Boosts Wriothesley’s main damage source and helps with Burst uptime. Best F2P option.
+Wriothesley Talent Breakdown
+Wriothesley is a
+Cryo DPS
+specializing in
+fast-paced melee attacks
+and
+self-sustaining HP management
+through his
+Chilling Penalty
+state. His kit revolves around
+punching enemies with Cryo-infused attacks
+, making him an
+exceptional choice for Freeze, Mono Cryo, or Melt teams
+.
+Normal Attack: Forceful Fists of Frost
+Wriothesley's Basic Attacks are all Cryo-infused
+and consist of
+5 rapid punches
+dealing Cryo DMG.
+Charged Attack (Vaulting Fist)
+– Consumes
+Stamina
+to perform an
+AoE Cryo attack
+.
+Plunging Attack
+– Deals
+AoE Cryo DMG
+upon impact.
+Combo Count Retention
+–
+Does not reset
+after sprinting or using
+Icefang Rush
+, making his attack chain smoother.
+✅
+Best Feature:
+All his Normal Attacks deal Cryo DMG, making him a strong
+Cryo DPS
+even at
+C0
+.
+Elemental Skill: Icefang Rush
+Dashes forward and enters the "Chilling Penalty" state.
+Enhances Normal Attacks
+to deal
+higher Cryo DMG
+, but attacks will
+consume HP
+if his health is above 50%.
+Gains interruption resistance
+while active.
+✅
+Best Feature:
+The
+HP-draining mechanic increases DPS output
+, and with
+self-healing from his Passive
+, it keeps him alive.
+Elemental Burst: Darkgold Wolfbite
+Unleashes a powerful Cryo-infused punch
+, followed by
+multiple AoE Cryo strikes.
+Ousia Alignment:
+Leaves behind an
+Ousia-aligned Cryo attack
+at the end.
+✅
+Best Feature:
+A
+hard-hitting AoE Cryo Burst
+that benefits from
+Cryo DMG buffs
+and
+Constellations
+.
+Passive Talents
+🔹
+A1 - There Shall Be a Plea for Justice
+When his HP is
+below 60%
+, his
+next Charged Attack
+becomes
+"Rebuke: Vaulting Fist"
+This attack deals
+50% more damage
+and
+heals him for 30% of his Max HP
+Cooldown: 5 seconds
+✅
+Best Feature:Self-healing mechanic
+keeps him
+alive despite HP drain
+from Icefang Rush.
+🔹
+A4 - There Shall Be a Reckoning for Sin
+Gains ATK buffs (up to 30%)
+when his
+HP fluctuates
+while in the
+Chilling Penalty state
+Stacks up to
+5 times
+✅
+Best Feature:
+Encourages
+constant HP drain and healing
+,
+boosting DPS without external buffs
+.
+🔹
+Passive: The Duke’s Grace
+10% chance
+to
+double Weapon Ascension Materials
+when crafting.
+Wriothesley Constellations Guide
+Wriothesley’s Constellations significantly boost his
+damage, healing, and overall combat potential
+, making him a
+top-tier Cryo DPS
+with each upgrade. Here's a breakdown of what each Constellation does and whether they are worth pulling for.
+C1 – Terror for the Evildoers
+(
+Strong Early Buff
+)
+🔹
+Effect:
+Enhances his Passive Talent
+"There Shall Be a Plea for Justice"
+by allowing him to generate Gracious Rebuke effects more frequently.
+🔹
+Buffs Rebuke: Vaulting Fist
+with a
+200% DMG increase
+and extends the
+Chilling Penalty state
+by 4s if triggered while in that state.
+Why It's Good:
+More Charged Attack DMG
+means stronger burst damage.
+Better uptime on Chilling Penalty
+allows for longer enhanced attack cycles.
+Worth Pulling?Yes, if you want a noticeable DPS increase with smoother gameplay.
+C2 – Shackles for the Arrogant
+(
+Massive Burst DMG Boost
+)
+🔹
+Effect:
+Each
+Prosecution Edict stack
+(from his Passive Talent
+"There Shall Be a Reckoning for Sin"
+) boosts
+Darkgold Wolfbite's damage by 40% per stack.
+Why It's Good:
+Turns his Elemental Burst into a nuke,
+making it deal
+significantly more damage
+.
+More synergy with Energy Recharge builds
+since the Burst now scales even harder.
+Worth Pulling?Yes, if you want to maximize his burst potential.
+A huge upgrade over C1.
+C3 – Punishment for the Frauds
+(
+Basic Normal Attack Buff
+)
+🔹
+Effect:
+Increases
+Normal Attack: Forceful Fists of Frost
+by
++3 levels (up to level 15).
+Why It's Good:
+More
+consistent DPS increase
+for his primary attack sequence.
+Works well with
+Marechaussee Hunter and Normal Attack-boosting weapons.
+Worth Pulling?Decent, but not game-changing.Only go for this if you plan to reach higher Constellations.
+C4 – Redemption for the Suffering
+(
+Major Healing & ATK SPD Buffs
+)
+🔹
+Effect:
+Doubles the healing
+from Rebuke: Vaulting Fist to
+50% of Max HP
+.
+If
+healing overflows
+,
+ATK SPD increases by 20% (on-field) or 10% for all teammates (off-field) for 4-6s.
+Why It's Good:
+Improves survivability
+, letting him sustain himself in longer fights.
+ATK SPD boost = faster DPS output.
+Team-wide ATK SPD buff (when off-field)
+makes him a great support for other attack-heavy units.
+Worth Pulling?Yes, for better sustain and a smoother playstyle.
+Great for
+self-sufficiency
+and team synergy.
+C5 – Mercy for the Wronged
+(
+Elemental Burst Buff
+)
+🔹
+Effect:
+Increases
+Darkgold Wolfbite
+by
++3 levels (up to level 15).
+Why It's Good:
+More
+Burst DMG
+scaling.
+Synergizes with
+C2 for even more Burst impact.
+Worth Pulling?Only if you're aiming for C6.
+Otherwise, it's
+not a must-have.
+C6 – Esteem for the Innocent
+(
+Best Constellation – Massive CRIT Buff & Extra DMG
+)
+🔹
+Effect:
+Rebuke: Vaulting Fist gains:
++10% CRIT Rate
++80% CRIT DMG
+Spawns an extra icicle
+that deals
+100% of Rebuke: Vaulting Fist's Base DMG as Cryo DMG
+(counts as Charged Attack DMG).
+Why It's Good:
+Turns him into a CRIT monster
+– +80% CRIT DMG is insane.
+Extra icicle hit = more DPS per rotation.
+Perfectly complements his playstyle
+, making his Charged Attack even deadlier.
+Worth Pulling?Absolutely, if you want to max out his potential.
+This makes Wriothesley a true
+endgame DPS.
+Final Verdict: Best Constellations to Aim For
+🎯
+C2
+– Huge Burst DMG increase, making his kit significantly stronger.
+🎯
+C4
+– Healing boost & ATK SPD buff, making him smoother to play.
+🎯
+C6
+– CRIT Rate, +80% CRIT DMG, and an extra hit – turns him into a top-tier DPS.
+If you're
+only pulling a few Constellations
+, aim for
+C2 or C4
+. If you're a
+hardcore Wriothesley main
+,
+C6 is his strongest upgrade.
+Best Teams for Wriothesley
+1. Melt DPS (Best for Raw DMG) 🔥❄️
+🔹
+Wriothesley
+– Main DPS
+🔹
+Bennett
+– ATK Buffer & Healer
+🔹
+Xiangling
+– Pyro Applicator (Off-field DPS)
+🔹
+Kazuha/Rosaria
+– Buffs Cryo or Swirls Pyro
+High damage potential but requires proper rotation.
+This setup enables consistent
+Reverse Melt
+, boosting Wriothesley’s damage significantly.
+🔹
+Wriothesley
+– Main DPS
+🔹
+Bennett
+– support
+🔹
+Xilonen
+– support
+🔹
+Mavuika
+– sub DPS
+2. Freeze DPS (Easy CRIT Setup) ❄️💧
+🔹
+Wriothesley
+– Main DPS
+🔹
+Kokomi/Mona
+– Hydro Applicator
+🔹
+Shenhe
+– Cryo Buffer
+🔹
+Kazuha/Venti
+– Crowd Control & Cryo Buff
+Easier to maintain high CRIT Rate, best for perma-freeze playstyles.
+Shenhe boosts Cryo damage, while Hydro application ensures Freeze uptime.
+3. Mono Cryo (Consistent Cryo DMG) ❄️❄️
+🔹
+Wriothesley
+– Main DPS
+🔹
+Shenhe
+– Cryo Buffer
+🔹
+Rosaria/Layla
+– Additional Cryo + CRIT Buff/Shield
+🔹
+Diona
+– Healing + Energy Recharge
+Best for pure Cryo damage output.
+Cryo Resonance provides +15% CRIT Rate, and Shenhe significantly boosts Cryo DMG.
+Materials Needed to Level Wriothesley to 90 & Max Talents
+Character Ascension Materials
+🔹
+Shivada Jade Sliver
+×1
+🔹
+Shivada Jade Fragment
+×9
+🔹
+Shivada Jade Chunk
+×9
+🔹
+Shivada Jade Gemstone
+×6
+🔹
+Subdetection Unit
+×168
+🔹
+Tourbillon Device
+×46
+🔹
+Meshing Gear
+×18
+🔹
+Mechanical Spur Gear
+×30
+🔹
+Artificed Dynamic Gear
+×36
+🔹
+Mora
+×2,092,530
+Talent Level-Up Materials (All 3 Skills to Lv. 10)
+🔹
+Crown of Insight
+×3
+🔹
+Teachings of Order
+×9
+🔹
+Guide to Order
+×63
+🔹
+Philosophies of Order
+×114
+🔹
+Primordial Greenbloom
+×18
+🔹
+Meshing Gear
+×18
+🔹
+Mechanical Spur Gear
+×66
+🔹
+Artificed Dynamic Gear
+×93
+🔹
+Mora
+×4,957,500
+Happy Adventures Travelers!!!
+More from Ifomex Gaming:
+Furina Build Guide :
+https://ifomex.com/articles/furina-build-guide---genshin-impact
+Everything You Should Know About Varesa :
+https://ifomex.com/articles/everything-you-need-to-know-from-varesa-beta-release-details---genshin-impact
+Clorinde Build Guide:
+https://ifomex.com/articles/clorinde-build-guide---genshin-impact

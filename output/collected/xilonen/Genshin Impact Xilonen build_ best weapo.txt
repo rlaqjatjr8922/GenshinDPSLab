@@ -1,0 +1,148 @@
+Genshin Impact – Xilonen build and materials guide
+Find the best weapons and artifacts for Xilonen in Genshin Impact.
+By
+Marco Wutz
+| Apr 16, 2025
+HoYoverse
+Forge an Ancient Name that will go down in history with the
+best Genshin Impact Xilonen build
+and change the fate of Natlan with your skills. Xilonen is a 5-Star Geo character using swords in combat, who can easily traverse terrain with her rollerblades and comes with very versatile support skills that can enhance the damage potential of any party.
+Table of Contents
+Best Xilonen weapons – Genshin Impact
+Best Xilonen artifacts – Genshin Impact
+Best Xilonen teams – Genshin Impact
+Xilonen ascension materials – Genshin Impact
+Xilonen can switch her Normal and Plunging Attacks to be based on her DEF stat when she is in her Nightsoul’s Blessing: Blade Roller state.
+Similar to other Natlan characters, she enters this state by using her Elemental Skill, Yohual’s Scratch, which will continuously consume Nightsoul Points. Aside from the effect described above, the state enhances Xilonen’s movement speed and allows her to move up cliffs – she can even perform leaps while climbing.
+As for combat, her Elemental Skill makes her rush forward and deal Geo Damage based on her DEF to a target, generating Nightsoul Points. In addition, she carries three Samplers that can be activated with her Elemental Skill and reduce the enemy’s Geo RES. However, these Samplers can change their elemental alignment based on her party’s composition, enabling her to reduce the corresponding Elemental RES instead – this makes Xilonen a versatile Sub DPS. She can only activate all three Samplers when her Nightsoul Points are full, so generating them is a priority.
+On top of using her Elemental Skill, Xilonen can obtain Nightsoul Points by using her Normal or Plunging Attacks if she already has two Samplers that have changed their element.
+Xilonen’s Elemental Burst, Ocelotlicue Point, deals Geo DMG based on her DEF in an area of effect around herself, triggering different effects based on her current Samplers. If she has at least two Samplers that have changed their elemental alignment from the initial Geo, a series of heals will be triggered, replenishing the HP of active characters based on Xilonen’s DEF. If at least two Samplers are still aligned with Geo, the move deals additional damage.
+Xilonen’s Constellations, which can be filled out by obtaining additional copies of her, provide even greater support abilities, especially at C2 and C4.
+Best Xilonen weapons – Genshin Impact
+Xilonen's music is lifting the spirits of her allies and crushing those of her enemies. / HoYoverse
+Xilonen’s signature weapon, Peak Patrol Song, reinforces her role as a supporting fighter as well as maximizing her personal damage. It provides additional DEF as a sub stat, boosting heals and damage from her abilities. Whenever a Normal or Plunging Attack hits an enemy, the sword provides yet more DEF and a bonus to Elemental DMG, which can stack two times. If it’s maxed out, the effect additionally provides allies with an Elemental DMG bonus based on the wearer’s DEF.
+Here are the
+best weapons for Xilonen in Genshin Impact
+:
+Peak Patrol Song
+(5-Star sword)
+Uraku Misugiri
+(5-Star sword)
+Cinnabar Spindle
+(4-Star sword)
+Flute of Ezpitzal
+(4-Star sword)
+Prototype Rancour
+(4-Star sword)
+Key of Khaj-Nisut
+(5-Star sword)
+Traveler’s Handy Sword
+(3-Star sword)
+Best Xilonen artifacts – Genshin Impact
+DJ Xilonen in the house. / HoYoverse
+There are several good options for Xilonen, depending on how you would like to play her. For her intended role as a supporting Sub DPS, a full set of
+Scroll of the Hero of Cinder City
+or the classic
+Noblesse Oblige
+would be fitting, as they both provide offensive buffs to the team. In this case, you should focus on Defense and Energy Recharge as stats.
+If you want to maximize Xilonen’s personal effectiveness on the field, then
+Husk of Opulent Dreams
+is the way to go – its DEF buff will boost her own damage as well as her healing capabilities. If you really want to play Xilonen as an offensive powerhouse, you can focus on DEF, CRIT DMG, and CRIT Rate – the usual damage dealer kit.
+You should get the following stat distribution on Xilonen’s artifact set:
+Flower:
+HP
+(main stat), DEF %, Energy Recharge, CRIT Rate, CRIT DMG
+Plume:
+ATK
+(main stat), DEF %, Energy Recharge, CRIT Rate, CRIT DMG
+Sands:
+DEF %
+(main stat), DEF, Energy Recharge, CRIT Rate, CRIT DMG
+Goblet:
+Geo DMG
+or
+DEF %
+(main stat), DEF % or DEF, Energy Recharge, CRIT Rate, CRIT DMG
+Circlet:
+DEF %
+(main stat), DEF, Energy Recharge, CRIT Rate, CRIT DMG
+Best Xilonen teams – Genshin Impact
+Xilonen can easily climb cliffs with her skates. / HoYoverse
+Consider Xilonen an alternative to Anemo characters equipped with Viridescent Venerer – her main purpose is to shred the enemy’s Elemental Resistance. That alone makes her versatile enough, but since she can also heal the party and thus fill another role, she often opens space for an additional character.
+Ayaka
+(Main DPS),
+Yelan
+(Sub DPS),
+Shenhe
+(Sub DPS),
+Xilonen
+(Support)
+You would usually have to rely on off-field Hydro supports like Kokomi to provide the necessary Hydro application for this Freeze team and an Anemo support like Kazuha to shred resistance. Xilonen provides healing as well as resistance shredding, freeing up a slot that can be used by more offensively-minded Hydro applicators such as Yelan or Furina, which can help the Main DPS – people like Ayaka, Ganyu, or Wriothesley – a bit better.
+Navia
+(Main DPS),
+Xiangling
+(Sub DPS),
+Xilonen
+(Support),
+Bennett
+(Support)
+Xilonen also can fill out the second Geo slot on a Navia team with the added bonus of enhancing the effectiveness of the party’s Pyro complement as well.
+Neuvillette
+(Main DPS),
+Furina
+(Sub DPS),
+Kazuha
+(Support),
+Xilonen
+(Support)
+If you want to forget about strategy and simply start blasting, then combining Kazuha and Xilonen is a good idea: Enemies will be pretty much naked after both of them have their go at them, which makes them easy pickings for someone like Neuvillette or Mualani.
+Xilonen ascension materials – Genshin Impact
+You’ll want to quickly raise Xilonen’s level when you finally pull her, which means that you’ll need to farm her ascension materials. You’ll also require some material to upgrade her talents.
+Here’s what you need to get Xilonen to level 90:
+Prithiva Topaz Sliver
+x1
+Prithiva Topaz Fragment
+x9
+Prithiva Topaz Chunk
+x9
+Prithiva Topaz Gemstone
+x6
+Sentry’s Wooden Whistle
+x18
+Warrior’s Metal Whistle
+x30
+Saurian-Crowned Warrior’s Golden Whistle
+x36
+Brilliant Chrysanthemum
+x168
+Gold-Inscribed Secret Source Code
+x46
+Mora
+x2,092,530
+Prithiva Topaz can be obtained from any Geo-affiliated boss on the world map, such as the Geo Hypostasis in Liyue. Whistles are drops from the warriors you can find in Natlan. For Gold-Inscribed Secret Source Code, you’ll need to defeat the Secret Source Automaton found in Natlan.
+Brilliant Chrysanthemum can be found in Natlan’s Huitztli Hill area as well as near the Stadium of the Sacred Flame. The best way to earn more Mora is to farm Golden Ley Line Blossoms.
+Here’s what you need to upgrade all of Xilonen’s talents to their maximum level:
+Sentry’s Wooden Whistle
+x18
+Warrior’s Metal Whistle
+x66
+Saurian-Crowned Warrior’s Golden Whistle
+x93
+Teachings of Kindling
+x9
+Guide to Kindling
+x63
+Philosophies of Kindling
+x114
+Mirror of Mushin
+x18
+Crown of Insight
+x3
+Mora
+x4,957,500
+For the materials already mentioned, check above. You’ll need to visit the Blazing Ruin Domain on Tuesday, Friday, Sunday to farm Scrolls of Kindling. Mirror of Mushin is a boss item only dropped by Shouki no Kami, the Prodigal, so you’ll need to confront the so-called god in Sumeru a few more times.
+Crowns of Insight are a rare item gained from time-limited events or regional reward mechanics like the Grand Narukami Shrine in Inazuma, Tree of Dreams in Sumeru, Fountain of Lucine in Fontaine, or Tona’s Flame in Natlan.
+Next. Genshin Impact – All current and upcoming characters. Genshin Impact – All current and upcoming characters. dark
+Home
+/
+Guides

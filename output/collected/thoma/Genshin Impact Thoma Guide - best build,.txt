@@ -1,0 +1,241 @@
+Walkthroughs
+Genshin Impact Thoma Guide - Best build, strengths and weaknesses
+All you need to know about Thoma
+By
+Bryan Taylor
+|
+Apr 26, 2022
+iOS
++
+Android
+|
+Genshin Impact
+Prefer Pocket Gamer on Google
+X
+Facebook
+Reddit
+Welcome to Pocket Gamer's detailed
+Genshin Impact Thoma guide
+! Thoma is a housekeeper for the Kamisato Clan and is responsible for both cooking and cleaning. He is efficient at his job and takes pride in his work, but there’s a secret side to Thoma outside of his responsibilities as a housekeeper. Most of the time, he avoids the Yashiro Commission and deals with private matters personally, such as fulfilling Ayaka’s whims. While often serious, Thoma loves animals and will go out of his way to help them.
+In the guide below you will find the following:
+General Info & how to get Thoma
+Strengths & Weaknesses
+Best Build (Artifacts & Weapons
+)
+Best Party Members for Thoma
+Talents / Skills / Passive
+Talent Leveling Materials
+Constellations
+Ascensions costs
+Thoma Wishes / Availability
+Character Appearance
+Thoma Element / Tier / Rarity / Weapon
+Pyro / A Tier / 4* Rarity / Polearm
+In Genshin Impact, Thoma is a strong Polearm-user whose fiery abilities serve best as a Shield or as an additional DPS for your team.
+How to get Thoma
+You can obtain Thoma as a rate-up in the Moment of Bloom or Everbloom Violet banners. You can also obtain him in the permanent banner, Wanderlust Invocation.
+Genshin Impact Thoma Combat Info (Strengths and Weaknesses)
+Strengths
+Thoma can offer Pyro reactions with his Burst, even off-field
+His shields apply with both his Skill and Burst
+His highest Constellation applies a boost to all of his party’s non-elemental attacks
+Weaknesses
+Not a great damage dealer, when specifically talking about DMG output
+Has a long cooldown on his Skill
+Takes a lot of energy to use his Burst
+Here are
+some Genshin Impact codes
+as a thank you for reading this!
+Best Build for Thoma in Genshin Impact
+Thoma can be used as a shielding Support or DPS character, but his greatest power is in his ability to shield. You can raise his support abilities by equipping him with the Staff of Homa, which will not only increase his HP but will offer an additional attack bonus when his HP is low. Kit him out with the Emblem of Severed Fate and Tenacity of the Millelith artifact sets (2 each) to provide faster energy regen and an additional boost to his HP.
+Thoma - Best Artifacts and Weapons
+Tenacity of the Millelith
+Energy Recharge / HP% / HP%
+Set Bonuses:
+(2) HP +20%
+(4) When an Elemental Skill hits an opponent, the ATK of all nearby party members is increased by 20% and their Shield Strength is increased by 30% for 3s. This effect can be triggered once every 0.5s. This effect can still be triggered even when the character who is using this artifact set is not on the field.
+How to Obtain:
+Ridge Watch Domain reward
+Emblem of Severed Fate
+Energy Recharge / HP% / HP%
+Set Bonuses:
+(2) Energy Recharge + 20%
+(4) Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.
+How to Obtain:
+Momiji-Dyed Court Domain reward
+Staff of Homa
+Base Attack:
+46
+Rating:
+5*
+Bonus Effect:
+CRIT DMG 14.4%
+Skill: Reckless Cinnabar
+HP increased by 20%. Additionally, provides an ATK Bonus based on 0.8% of the wielder's Max HP. When the wielder's HP is less than 50%, this ATK Bonus is increased by an additional 1% of Max HP.
+How to Obtain:
+Gacha
+Best Party Members to match with Thoma in Genshin Impact
+Premium (Gacha) Team
+In Genshin Impact, Thoma is a wonderful shielder that can really impact a team’s structure by him applying Pyro to the field and setting up good reactions.
+Tartaglia
+is a great pair with Thoma, as he can cause Vaporize with his non-stop barrage of Hydro.
+Kazuha
+is a great Support for the team as he can pull enemies near and has a Buff.
+Bennett
+should be the team’s healer as he can also provide additional attack power with his Pyro resonance.
+F2P Team
+Thoma will be used for his shielding ability and for putting Pyro on the field to trigger reactions. Pair him up with
+Kaeya
+to use as a sub-DPS for additional damage and he will also deliver some extra energy to the team.
+Aloy
+is a great pick for your main DPS here, as her Melt reactions will be strong with Thoma.
+Barbara
+will serve in the role to heal and drop Hydro on enemies, which sets them up for Vaporize.
+Thoma's Talents / Skills / Passive
+Swiftshatter Spear - Normal Attack
+Normal:
+Performs up to four consecutive spear strikes.
+Charge Attack:
+Consumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.
+Plunge Attack:
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Skill Attributes:
+1-Hit DMG
+44.4%
+2-Hit DMG
+43.6%
+3-Hit DMG
+26.8% x2
+4-Hit DMG
+67.4%
+Charged Attack DMG
+- 113%
+Charged Attack Stamina Cost
+- 25
+Plunge DMG
+- 63.9%
+Low/High Plunge DMG
+- 128% / 160%
+Blazing Blessing - Elemental Skill
+Thoma vaults forward with his polearm and delivers a flame-filled flying kick that deals AoE Pyro DMG, while also summoning a Blazing Barrier. At the moment of casting, Thoma's Elemental Skill applies Pyro to himself.
+The maximum DMG Absorption of the Blazing Barrier will not exceed a certain percentage of Thoma's Max HP.
+Blazing Barrier:
+- Absorbs Pyro DMG 250% more effectively.- When a new Blazing Barrier is obtained, the remaining DMG Absorption of an existing Blazing Barrier will stack and its duration will be refreshed.
+Skill DMG
+- 146%
+Shield DMG Absorption
+- 7.2% Max HP + 693
+Shield Duration
+- 8.0s
+Max Shield DMG Absorption
+- 19.6% Max HP + 1,887
+CD
+- 15s
+Crimson Ooyoroi - Elemental Burst
+Thoma spins his polearm, slicing at his foes with roaring flames that deal AoE Pyro DMG and weave themselves into a Scorching Ooyoroi.
+Scorching Ooyoroi
+While Scorching Ooyoroi is in effect, the active character's Normal Attacks will trigger Fiery Collapse, dealing AoE Pyro DMG and summoning a Blazing Barrier.
+Fiery Collapse can be triggered once every 1s.
+Except for the amount of DMG they can absorb, the Blazing Barriers created in this way are identical to those created by Thoma's Elemental Skill, Blazing Blessing: - Absorbs Pyro DMG 250% more effectively.
+- When a new Blazing Barrier is obtained, the remaining DMG Absorption of an existing Blazing Barrier will stack and its duration will be refreshed.
+The maximum DMG Absorption of the Blazing Barrier will not exceed a certain percentage of Thoma's Max HP.
+If Thoma falls, the effects of Scorching Ooyoroi will be cleared.
+Skill Attributes
+Skill DMG
+- 88%
+Fiery Collapse DMG
+- 58%
+Shield DMG Absorption
+- 1.1% Max HP + 110
+Shield Duration
+- 8s
+Scorching Ooyoroi Duration
+- 15s
+CD
+- 20s
+Energy Cost
+- 80
+Imbricated Armor - 1st Ascension Passive
+When your currently active character obtains or refreshes a Blazing Barrier, this character's Shield Strength will increase by 5% for 6s. This effect can be triggered once every 0.35 seconds. Max 5 stacks.
+Flaming Assault - 4th Ascension Passive
+DMG dealt by Crimson Ooyoroi's Fiery Collapse is increased by 2.2% of Thoma's Max HP.
+Snap and Swing - Unlocked Automatically
+When you fish successfully in Inazuma, Thoma's help grants a 20% chance of scoring a double catch.
+Talent Leveling Materials
+Gained from Enemy Drops (Treasure Hoarder):
+Treasure Hoarder Insignia
+Silver Raven Insignia
+Golden Raven Insignia
+Acquired from Domains (Monday/Thursday/Sunday):
+Teachings of Transience
+Guide to Transience
+Philosophies of Transience
+Obtained after defeating Bosses (La Signora Challenge):
+Hellfire Butterfly
+Constellations to pick for Thoma
+A Comrade's Duty
+When a character protected by Thoma's own Blazing Barrier (Thoma excluded) is attacked, Thoma's own Blazing Blessing CD is decreased by 3s, while his own Crimson Ooyoroi's CD is decreased by 3s. This effect can be triggered once every 20s.
+A Subordinate's Skills
+Crimson Ooyoroi's duration is increased by 3s.
+Fortified Resolve
+Increases the Level of Blazing Blessing by 3. The maximum upgrade level is 15.
+Long-Term Planning
+After using Crimson Ooyoroi, 15 Energy will be restored to Thoma.
+Raging Wildfire
+Increases the Level of Crimson Ooyoroi by 3. The maximum upgrade level is 15.
+Burning Heart
+When a Blazing Barrier is obtained or refreshed, the DMG dealt by all party members' Normal, Charged, and Plunging Attacks is increased by 15% for 6s.
+Genshin Impact Thoma Ascensions costs
+Phase 1
+Lv.20→Lv.40
+Mora Cost: 20,000
+Fluorescent Fungus ×3
+Agnidus Agate Sliver ×1
+Treasure Hoarder Insignia ×3
+Phase 2
+Lv.40→Lv.50
+Fluorescent Fungus ×10
+Agnidus Agate Fragment ×3
+Treasure Hoarder Insignia ×15
+Smoldering Pearl ×2
+Phase 3
+Lv.50→Lv.60
+Mora Cost: 60,000
+Fluorescent Fungus ×20
+Agnidus Agate Fragment ×6
+Silver Raven Insignia ×12
+Smoldering Pearl ×4
+Phase 4
+Lv.60→Lv.70
+Mora Cost: 80,000
+Fluorescent Fungus ×20
+Agnidus Agate Chunk ×3
+Silver Raven Insignia ×18
+Smoldering Pearl ×8
+Phase 5
+Lv.70→Lv.80
+Mora Cost: 100,000
+Fluorescent Fungus ×45
+Agnidus Agate Chunk ×6
+Golden Raven Insignia ×12
+Smoldering Pearl ×12
+Phase 6 (MAX)
+Lv.80→Lv.90
+Mora Cost: 120,000
+Fluorescent Fungus ×60
+Agnidus Agate Gemstone ×6
+Golden Raven Insignia ×24
+Smoldering Pearl ×20
+Base Stats
+At Level 1, Thoma starts with 866 HP, 17 ATK, and 63 DEF.
+Wishes / Availability
+Thoma is available as a rate-up drop in the Moment of Bloom or Everbloom Violet banners. He is also available in the Standard Banner, Wanderlust Invocation.
+You know, we also have a
+Genshin Impact tier list
+if you want to check how well Thoma performs in comparison to other characters! You can also visit our
+Genshin Impact characters hub
+with all of the available characters and their detailed guides!
+Bryan Taylor
+Bryan has a passion for writing and has been gaming since the 80s. His favourite games include Super Metroid, Chrono Trigger, and Rez, and he joins us bringing his vast knowledge of games to the team.
+Next Up :
+Dicero beginner's guide - 5 tips for mastering the dice

@@ -1,0 +1,188 @@
+Genshin Impact Jean Build
+Anemo
+Sword
+Support
+Jean Upgrade Materials
+Resistance
+Dvalin's Plume
+Vayuda Turquoise Sliver
+Hurricane Seed
+Dandelion Seed
+Damaged Mask
+Jean Best Weapons
+1
+Primordial Jade Cutter
+2
+Freedom-Sworn
+3
+Mistsplitter Reforged
+4
+Haran Geppaku Futsu
+5
+Amenoma Kageuchi
+Jean Best Artifacts
+1
+Viridescent Venerer
+4
+2
+Noblesse Oblige
+4
+3
+Ocean-Hued Clam
+4
+4
+Shimenawa's Reminiscence
+2
+Viridescent Venerer
+2
+5
+Emblem of Severed Fate
+2
+Shimenawa's Reminiscence
+2
+Jean Best Stats
+Sands:
+ATK% / Energy Recharge
+Goblet:
+Anemo DMG
+Circlet:
+CRIT Rate / CRIT DMG
+Substats:
+CRIT Rate / CRIT DMG > ATK% > Energy Recharge
+Character Builds by Genshin Impact Helper →
+Showcase
+Teams
+Talents
+Passives
+Constellations
+Ascension
+Jean Showcase
+Jean video guide by
+Braxophone
+.
+Check out his content!
+Best Jean Teams
+Ganyu Freeze
+Ayato Electro-Charged
+Jean Talents
+Normal Attack
+Favonius Bladework
+Normal Attack Performs up to 5 consecutive strikes. Charged Attack Consumes a certain amount of Stamina to launch an enemy using the power of wind. Launched enemies will slowly fall to the ground. Plunging Attack Plunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.
+Elemental Skill
+Gale Blade
+Focusing the might of the formless wind around her blade, Jean releases a miniature storm, launching enemies in the direction she aims at, dealing massive
+Anemo
+DMG. Hold At the cost of continued Stamina consumption, Jean can command the whirlwind to pull surrounding enemies towards her front. Direction can be adjusted. Character is immobile during skill duration.
+Elemental Burst
+Dandelion Breeze
+Calling upon the wind's protection, Jean creates a swirling Dandelion Field, launching surrounding enemies and causing
+Anemo
+DMG. At the same time, she instantly regenerates a large amount of HP for nearby allied units and all party members. HP restored scale off Jean's ATK. Dandelion Field Continuously regenerates HP for one ally and imbues them with the
+Anemo
+attribute. Deals
+Anemo
+DMG to enemies entering or exiting the field.
+Jean Passives
+Ascension 1
+Wind Companion
+Hits by Normal Attacks have a 50% chance to regenerate HP equal to 15% of Jean's ATK for all party members.
+Ascension 4
+Let the Wind Lead
+Using Dandelion Breeze will regenerate 20% of its Energy.
+Passive
+Guiding Breeze
+When a Perfect Cooking is achieved on a dish with restorative effects, there is a 12% chance to obtain double the product.
+Jean Constellations
+Constellation 1
+Spiraling Tempest
+Increases the pulling speed of Gale Blade after holding for more than 1s, and increases the DMG dealt by 40%.
+Constellation 2
+People's Aegis
+When Jean picks up an Elemental Orb/Particle, all party members have their Movement SPD and ATK SPD increased by 15% for 15s.
+Constellation 3
+When the West Wind Arises
+Increases the Level of Dandelion Breeze by 3. Maximum upgrade level is 15.
+Constellation 4
+Lands of Dandelion
+Within the Field created by Dandelion Breeze, all enemies have their
+Anemo
+RES decreased by 40%.
+Constellation 5
+Outbursting Gust
+Increase the Level of Gale Blade by 3. Maximum upgrade level is 15.
+Constellation 6
+Lion's Fang, Fair Protector of Mondstadt
+Incoming DMG is decreased by 35% within the Field created by Dandelion Breeze. Upon leaving the Dandelion Field, this effect lasts for 3 attacks or 10s.
+Jean Ascension Costs
+Rank
+Lvl
+Cost
+Material
+Material
+Material
+Material
+1
+20
+20000
+1
+Vayuda Turquoise Sliver
+3
+Dandelion Seed
+3
+Damaged Mask
+2
+40
+40000
+3
+Vayuda Turquoise Fragment
+2
+Hurricane Seed
+10
+Dandelion Seed
+15
+Damaged Mask
+3
+50
+60000
+6
+Vayuda Turquoise Fragment
+4
+Hurricane Seed
+20
+Dandelion Seed
+12
+Stained Mask
+4
+60
+80000
+3
+Vayuda Turquoise Chunk
+8
+Hurricane Seed
+30
+Dandelion Seed
+18
+Stained Mask
+5
+70
+100000
+6
+Vayuda Turquoise Chunk
+12
+Hurricane Seed
+45
+Dandelion Seed
+12
+Ominous Mask
+6
+80
+120000
+6
+Vayuda Turquoise Gemstone
+20
+Hurricane Seed
+60
+Dandelion Seed
+24
+Ominous Mask
+Loading...

@@ -1,0 +1,147 @@
+HoYoverse
+Kinich is the newest and shiniest 5-star to join the Genshin Impact roster in version 5.0.
+He is a 5-star Dendro DPS character who uses a Claymore and swings around the battlefield to shoot down his enemies, be they flying or grounded. Kinich is a powerful DPS who relies a lot on the Burning reaction to be present, so now is a good time to dust off those Pyro units.
+Discover how to build Kinich below!
+Table of Contents
+Kinich Introduction
+Kinich Best Weapons
+Kinich Best Artifacts
+Skill Priority
+Kinich Introduction
+Name:
+Kinich
+Constellation:
+Chimaera Alebriius
+Rarity:
+5-star
+Element:
+Dendro
+Weapon:
+Claymore
+Kinich is a
+5-star Dendro
+character who uses a
+Claymore
+as his weapon. He is classified as a
+main DPS
+unit, and that can clearly be seen from his need for field time and overall multipliers on his skill and ultimate. Kinich is the second addition to the Natlan roster, and similar to Mualani, he features a unique movement-based skill that allows him to latch onto enemies and spin around them while shooting them with his Ajaw cannon.
+He might take some getting used to, but if you like a
+quick playstyle
+that has you moving around, timing attacks, and overall being goofy, then Kinich might just fill that spot for you. When it comes to playing him, Kinich is practically required to have a
+Pyro unit
+in the team to maximize his full potential, so make sure you have one of those ready.
+PROS
+CONS
+High multipliers on E and Q
+Agile playstyle
+Amazing overworld exploration
+Good F2P options
+He can feel hard to play
+No ideal team as of v5.0
+Requires a lot of inputs to get the maximum damage output
+Advertisement
+Kinich Best Weapons
+When it comes to weapons, there’s no doubt that Kinich’s signature weapon
+[Fang of the Mountain King]
+is his best in slot. Not only does it offer him a slight boost to Crit RATE, but it also greatly increases his ATK, directly translating to greater damage. Additionally, the weapon’s effect also increases Kinich’s Skill and Ult dmg by up to 60%, making it ideal for him. That being said, Kinich also has a great F2P alternative in the new craftable
+[Earth Shaker]
+. This weapon gives him a good boost to ATK while also increasing his skill DMG when used with Pyro, so Kinich can benefit from it fully.
+Rank
+W-Engine
+Effect
+1
+Fang of the Mountain King
+Gain
+1
+stack of Canopy's Favor after hitting an opponent with an Elemental Skill. This can be triggered once every
+0.5s
+. After a nearby party member triggers a Burning or Burgeon reaction, the equipping character will gain
+3 stacks
+. This effect can be triggered once every
+2s
+and can be triggered even when the triggering party member is off-field. Canopy's Favor: Elemental Skill and Burst DMG is increased by
+10%
+for
+6s
+. Max
+6
+stacks. Each stack is counted independently.
+2
+Beacon of the Reed Sea
+After the character's Elemental Skill hits an opponent, their ATK will be increased by
+20%
+for
+8s
+. After the character takes DMG, their ATK will be increased by
+20%
+for
+8s
+. The
+2
+aforementioned effects can be triggered even when the character is not on the field. Additionally, when not protected by a shield, the character's Max HP will be increased by
+32%
+.
+FREE TO PLAY
+3
+Earth Shaker
+After a party member triggers a Pyro-related reaction, the equipping character's Elemental Skill DMG is increased by
+16%
+for
+8s
+. This effect can be triggered even when the triggering party member is not on the field.
+Advertisement
+Kinich Best Artifacts
+Artifacts might be a bit tricky when it comes to Kinich, as his best-in-slot Artifact set is the newly added [Obsidian Codex]. It is the best Artifact set for any Natlan DPS, and that is true for Kinich as well. However, due to being quite new, you might not yet have all the pieces needed to whip up a full 4-piece set from it. That’s where the Unfinished Reverie and Marechaussee Hunter come in. Although not ideal, they can serve as a good replacement for the Obsidian Codex until you manage to get enough pieces.
+Rank
+Artifact
+Effect
+1
+Obsidian Codex
+2-Piece
+: While the equipping character is in Nightsoul's Blessing and is on the field, their DMG dealt is increased by
+15%
+.
+4-Piece
+: After the equipping character consumes
+1 Nightsoul point
+while on the field, CRIT Rate increases by
+40%
+for
+6s
+. This effect can trigger once every second.
+2
+Unfinished Reverie
+2-Piece
+: ATK
++18%
+4-Piece
+: After leaving combat for
+3s
+, DMG dealt increases by
+50%
+. In combat, if no Burning opponents are nearby for more than
+6s
+, this DMG Bonus will decrease by
+10%
+per second until it reaches
+0%
+. When a Burning opponent exists, it will increase by
+10%
+instead until it reaches
+50%
+. This effect still triggers if the equipping character is off-field.
+Main Stats
+Sands
+Goblet
+Circlet
+ATK%
+Dendro DMG
+CRIT Rate / CRIT DMG
+Substat Priority
+CRIT Rate / CRIT DMG > ATK% > Energy Recharge
+Advertisement
+Skill Priority
+Kinich’s skill priority is quite simple. Almost all of his damage comes from his Elemental Skill, so that is the one you should max out first, followed by his Elemental Burst. His Normal Attack is completely useless, so you can either fully disregard it or level it if you want to have your Kinich fully maxed out.
+Skill Priority
+Elemental Skill > Elemental Burst > Normal Attack
+Advertisement

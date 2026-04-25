@@ -1,0 +1,569 @@
+Genshin Impact Ineffa Build
+Polearm
+Electro
+Clink-Clank Krumkake Craftshop
+2/4
+Vanilla Planifolia
+Blazing Ruins
+A multifunctional robot containing integrated mechanical components from various nations. The Source Core in her chest has endured the passage of countless years.
+Best builds for Ineffa
+OFF-FIELD DPS & BUFF & SHIELD SUPPORT Build
+Weapons
+1
+Fractured Halo
+CRIT DMG
+2
+Staff of the Scarlet Sands
+CRIT Rate
+3
+Lumidouce Elegy
+CRIT Rate
+4
+Symphonist of Scents
+CRIT DMG
+5
+Staff of Homa
+CRIT DMG
+6
+Bloodsoaked Ruins
+CRIT Rate
+7
+Calamity Queller
+ATK%
+8
+Primordial Jade Winged-Spear
+CRIT Rate
+9
+Crimson Moon's Semblance
+CRIT Rate
+10
+Deathmatch
+CRIT Rate
+11
+Engulfing Lightning
+Energy Recharge
+12
+Ballad of the Fjords
+CRIT Rate
+13
+Vortex Vanquisher
+ATK%
+14
+Prospector's Shovel
+R
+5
+ATK%
+15
+Sacrificer's Staff
+CRIT Rate
+16
+Skyward Spine
+Energy Recharge
+Artifacts
+1
+Aubade of Morningstar and Moon
+4
+2
+Gilded Dreams
+4
+3
+A Day Carved From Rising Winds
+4
+4
+Silken Moon's Serenade
+4
+5
+Tenacity of the Millelith
+4
+6
+ATK +18% set
+2
+Elemental Mastery +80 set
+2
+Substats Priority
+1
+CRIT Rate
+2
+CRIT DMG
+3
+ATK%
+4
+Elemental Mastery
+5
+Energy Recharge
+Talents Priority
+1
+E
+Skill
+2
+Q
+Burst
+3
+NA
+Normal Attack
+Recommended Primary Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT Rate / CRIT DMG
+When
+Birgitta
+is on the field, she stays longer than both of
+Ineffa
+'s
+Elemental Skill
+and
+Burst
+individual cooldowns, resulting in
+100%
+field uptime.
+For
+Ineffa
+, having higher
+140%
++
+Energy Recharge
+requirements to use her
+Burst
+every rotation can lead to a personal damage loss in exchange for more uptime on her teamwide
+buff
+. Teams with
+Ineffa
+as a significant source of damage will want to use her
+Burst
+every other rotation and ignore
+ER
+.
+To optimize
+Ineffa
+'s damage output, consider the following:
+Use
+Ineffa
+'s
+Burst
+every other rotation for teams relying on her as a primary damage source
+Ignore
+ER
+for
+Ineffa
+in teams where she is the main damage dealer
+Ineffa
+is a versatile character who can serve as both
+DPS
+and
+support
+. She transforms all instances of the
+Electro-Charged
+reaction into
+Lunar-Charged
+while she's in the team, which has its own scalings and can even
+crit
+. Both her
+Elemental Skill
+and
+Elemental Burst
+deploy her robot companion, Birgitta, to the field, who can deal damage and apply
+Electro
+while off-field. Additionally,
+Ineffa
+'s
+Elemental Skill
+can also provide a
+shield
+. Her
+Elemental Burst
+also provides an
+Elemental Mastery
+buff based on a portion of
+Ineffa
+'s
+ATK
+(her
+A4
+talent).
+Weapon calculations can be found here.
+Regarding
+Weapon Choices
+:
+Staff of the Scarlet Sands
+: Can sometimes utilize
+EM
+Main Stats
+.
+Ballad of the Fjords
+: At
+R5
+this weapon will perform closer to
+Primordial Jade Winged-Spear
+.
+Prospector's Shovel
+: This ranking assumes
+Ineffa
+is used on a team where
+Moonsign: Ascendant Gleam
+is active. Otherwise it performs slightly worse than
+Skyward Spine
+.
+Deathmatch
+: Ranking assumes single target scenarios. At
+R5
+, this weapon performs equal to
+Bloodsoaked Ruins
+.
+Regarding
+Artifact Sets
+:
+Tenacity of the Millelith
+: This is a more supportive
+artifact set
+that sacrifices
+Ineffa
+'s personal damage in favor of an
+ATK%
+buff and an increase to her
+shield strength
+.
+Most-used community build
+This build is based on the community's most-used artifacts and weapons. Submit your UID to help improve this data.
+Weapons
+1
+Fractured Halo
+CRIT DMG
+2
+Prospector's Shovel
+ATK%
+3
+Ballad of the Fjords
+CRIT Rate
+4
+Primordial Jade Winged-Spear
+CRIT Rate
+5
+Deathmatch
+CRIT Rate
+Artifacts
+1
+Gilded Dreams
+4
+2
+Silken Moon's Serenade
+4
+3
+Aubade of Morningstar and Moon
+4
+4
+Gladiator's Finale
+2
+Wanderer's Troupe
+2
+5
+Resolution of Sojourner
+4
+Best teams for Ineffa
+Open the full Ineffa team guide
+#
+1
+#
+2
+#
+3
+#
+4
+#
+5
+C4
+#
+6
+#
+7
+C4
+#
+8
+C4
+#
+9
+Ineffa Skills
+Cyclonic Duster
+Normal Attack
+Performs up to 4 consecutive spear strikes.
+Charged Attack
+Consumes a certain amount of Stamina to perform a spinning attack.
+Plunging Attack
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Level
+1
+1-Hit DMG
+34.8%
+2-Hit DMG
+34.2%
+3-Hit DMG
+22.8% + 22.8%
+4-Hit DMG
+56.1%
+Charged Attack DMG
+94.9%
+Charged Attack Stamina Cost
+25
+Plunge DMG
+63.9%
+Low/High Plunge DMG
+127.8% / 159.7%
+Cleaning Mode: Carrier Frequency
+Ineffa engages her Enhanced Cleaning Module, dealing a single instance of
+AoE Electro DMG
+to nearby opponents, activating her Optical Flow Shield Barrier, and summoning the Multipurpose Smart Assistance Unit,
+Birgitta
+.
+The Optical Flow Shield Barrier absorbs DMG based on Ineffa's ATK, and it will absorb
+Electro DMG
+with 250% effectiveness.
+Level
+1
+Skill DMG
+86.4%
+Shield DMG Absorption
+221.2% ATK + 1387
+Shield Duration
+20s
+Birgitta Discharge DMG
+96%
+Birgitta Duration
+20s
+CD
+16s
+Supreme Instruction: Cyclonic Exterminator
+Through Multipurpose Smart Assistance Unit,
+Birgitta
+, Ineffa can use Rocket Punches to quickly clean up opponents! Shoots Birgitta into the fray, dealing
+AoE Electro DMG
+and allowing Birgitta to remain on the field.
+If Birgitta is already on the field, having been summoned by Ineffa, this Skill will re-summon Birgitta at the target's location and reset her duration.
+Level
+1
+Skill DMG
+676.8%
+CD
+15s
+Energy Cost
+60
+Passive Talents
+Overclocking Circuit
+Ascension Phase 1
+If there are thunderclouds created by Lunar-Charged reactions nearby when
+Birgitta
+unleashes Discharge attacks, she will initiate an additional attack, dealing
+AoE Electro DMG
+equal to 65% of Ineffa's ATK. This DMG is considered Lunar-Charged DMG.
+Panoramic Permutation Protocol
+Ascension Phase 4
+When using the Elemental Burst
+Supreme Instruction: Cyclonic Exterminator
+, all your party members will gain the Parameter Permutation effect: Increases Ineffa and your own active party member's Elemental Mastery by 6% of Ineffa's ATK for 20s.
+Moonsign Benediction: Assemblage Hub
+Passive
+When a party member triggers an Electro-Charged reaction, it will be converted into the Lunar-Charged reaction, with every 100 ATK that Ineffa has increasing Lunar-Charged's Base DMG by 0.7%, up to a maximum of 14%.
+Additionally, when Ineffa is in the party, the party's
+Moonsign
+will increase by 1 level.
+Flavor Synthesis Unit
+Passive
+When Ineffa uses food, there is a 30% chance of gaining a seasoning ingredient.
+Additionally, in Nod-Krai, it seems you'll be able to change Birgitta's appearance through certain means...
+Constellations
+Rectifying Processor
+Constellation Lv. 1
+When Ineffa activates her Optical Flow Shield Barrier, all nearby party members will gain the Carrier Flow Composite effect for 20s: Increases Lunar-Charged DMG by 2.5% for every 100 ATK that Ineffa has, up to a maximum of 50%.
+Support Cleaning Module
+Constellation Lv. 2
+After the Elemental Burst
+Supreme Instruction: Cyclonic Exterminator
+hits opponents, it will inflict the Punishment Edict status on one of those hit opponents: After a brief delay, or when this opponent is defeated, nearby opponents will take
+AoE Electro DMG
+equal to 300% of Ineffa's ATK. This DMG is considered Lunar-Charged DMG.
+Additionally, when the Elemental Burst
+Supreme Instruction: Cyclonic Exterminator
+is unleashed, nearby party members will gain Optical Flow Shield Barriers.
+Enhanced Emotion Emulator
+Constellation Lv. 3
+Increases the Level of
+Cleaning Mode: Carrier Frequency
+by 3.
+Maximum upgrade level is 15.
+The Edictless Path
+Constellation Lv. 4
+When your own party members trigger Lunar-Charged reactions, recover 5 Elemental Energy. This effect can occur once every 4s.
+Mirror's Dream Transcension
+Constellation Lv. 5
+Increases the Level of
+Supreme Instruction: Cyclonic Exterminator
+by 3.
+Maximum upgrade level is 15.
+A Dawning Morn for You
+Constellation Lv. 6
+When Ineffa is affected by the Carrier Flow Composite effect, she will deal
+AoE Electro DMG
+equal to 135% of her ATK to opponents in the current active character's vicinity after nearby thunderclouds release bursts of lightning at opponents. This DMG is considered Lunar-Charged DMG. The aforementioned effect can trigger once every 3.5s.
+Outfits
+Mechanical Dreams
+Default
+Ineffa's outfit. Having awakened from her long slumber, she dons an indigo-blue cape and a livery of milky white. With this, she transforms into a young lady's housekeeping robot.
+Stats
+Lv.
+1
+Lv.
+20
+Lv.
+40
+Lv.
+50
+Lv.
+60
+Lv.
+70
+Lv.
+80
+Lv.
+90
+Before Ascension
+After Ascension
+Ascend
+-
+1
+Base HP
+-
+982
+Base ATK
+-
+26
+Base DEF
+-
+64
+CRIT Rate
+-
+5.0%
+Ascension Materials
+View ascension details
+Total
+420000
+1
+9
+9
+6
+46
+168
+18
+30
+36
+Talent Materials
+LV.
+1
+→
+2
+12500
+Mora
+3
+Teachings of Conflict
+6
+Sentry's Wooden Whistle
+LV.
+2
+→
+3
+17500
+Mora
+2
+Guide to Conflict
+3
+Warrior's Metal Whistle
+LV.
+3
+→
+4
+25000
+Mora
+4
+Guide to Conflict
+4
+Warrior's Metal Whistle
+LV.
+4
+→
+5
+30000
+Mora
+6
+Guide to Conflict
+6
+Warrior's Metal Whistle
+LV.
+5
+→
+6
+37500
+Mora
+9
+Guide to Conflict
+9
+Warrior's Metal Whistle
+LV.
+6
+→
+7
+120000
+Mora
+4
+Philosophies of Conflict
+4
+Saurian-Crowned Warrior's Golden Whistle
+1
+Eroded Sunfire
+LV.
+7
+→
+8
+260000
+Mora
+6
+Philosophies of Conflict
+6
+Saurian-Crowned Warrior's Golden Whistle
+1
+Eroded Sunfire
+LV.
+8
+→
+9
+450000
+Mora
+12
+Philosophies of Conflict
+9
+Saurian-Crowned Warrior's Golden Whistle
+2
+Eroded Sunfire
+LV.
+9
+→
+10
+700000
+Mora
+16
+Philosophies of Conflict
+12
+Saurian-Crowned Warrior's Golden Whistle
+2
+Eroded Sunfire
+1
+Crown of Insight
+Total
+1652500
+3
+21
+38
+6
+22
+31
+6
+1

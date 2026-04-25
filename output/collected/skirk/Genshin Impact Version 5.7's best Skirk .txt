@@ -1,0 +1,143 @@
+Genshin Impact Version 5.7's best Skirk build and combat guide | GosuGamers
+gosugamers
+gosuentertainment
+gosubattles
+Games
+Articles
+Tournaments
+Matches
+Rankings
+Home
+/
+All News
+Here's what you need to know about Skirk (Image: HoYoverse).
+General
+10 months ago
+Arianne "YanKu" Blanco
+Share
+{" "}
+Genshin Impact Version 5.7's best Skirk build and combat guide
+The Abyss finally rears its head, with Skirk joining the playable character roster.
+Skirk is finally a playable character! After years of waiting, Childe’s enigmatic teacher is ready to shake things up in Genshin Impact, and although her powers come from a different source considering she is an outlander, she is a fearsome 5-star Cryo DPS that’s set to bring the element back into the metagame in Version 5.7.
+Skirk’s kit explained
+We all know how Genshin Impact character kits can get ultra-complicated, and Skirk definitely has some mechanics that can make you scratch your head in confusion, but if you’re reading this guide, we’ll try to simplify it for you!
+Skirk works much like any typical Cryo DPS character, meaning she relies heavily on attack and crit multipliers to increase her DMG capability. Her main damage dealers are her skill,
+Havoc: Warp
+, and burst,
+Havoc: Ruin
+. However, Skirk has a different Elemental Energy output compared to other Genshin Impact characters, which is likely heavily influenced by her being an outlander. Her Elemental Energy is renamed to
+Serpent’s Subtlety
+, and is an integral mechanic to her kit.
+Serpent’s Subtlety
+is a consumable that can be gained through two ways:
+After using her skill
+After triggering her Passive Talent effect and absorbing Void Rifts
+Additionally, Skirk’s kit is built around her first ascension passive
+Reason Beyond Reason
+, which will net the following effects once unlocked:
+When Cryo reactions are triggered, a
+Void Rift
+is created once every 2.5 seconds. Only three Void Rifts created by Skirk can exist on the field at once.
+Skirk will be able to absorb the Void Rifts by:
+Using a Charged ATK on an enemy while in the
+Seven-Phase Flash mode
+Using her Special Burst
+Using hold in her Elemental Skill.
+A Void Rift will net Skirk
+8 Serpent’s Subtlety points
+.
+Skirk's Elemental Skill,
+Havoc: Warp
+will allow her to imitate the battle style of her master, Surtalogi “The Foul”, and has different effects depending on whether you tap or hold her skill button.
+Doing a tap will allow Skirk to gain 45 Serpent’s Subtlety points and enter the
+Seven-Phase Flash mode
+, the effects of said mode being:
+Continuously consumes Serpent’s Subtlety
+Increases Normal, Charged ATK AoE as well as Skirk’s interruption to resistance
+Converts Normal, Charged, and Plunging ATKs to Cryo DMG that cannot be overridden
+Traverse on water as she sprints
+When holding the skill button, the effects are:
+A further increased resistance to interruption and movement speed
+Skirk’s burst,
+Havoc: Ruin
+will allow her to unleash rapid consecutive slashes to deal AoE Cryo DMG, but can only be triggered once she reaches 50 Serpent’s Subtlety points. If the Serpent’s Subtlety Points exceeds 50, the remaining number up to 12 will increase the DMG output of her burst.
+If her burst is triggered when Skirk is at Seven-Phase Flash mode, her burst will instead be
+Havoc: Extinction
+, a special burst that doesn’t consume Serpent’s Subtlety, and will garner the following effects:
+Triggers the
+All Shall Wither Effect
+, which will last until the Seven-Phase Flash mode ends
+Absorbs nearby Void Rifts given her first ascension passive
+Reason Beyond Reason
+is unlocked
+Deals increased Normal ATK DMG every 0.1 second, which is further increased if Skirk absorbs Void Rifts. This effect will end once it has been triggered 10 times.
+Additionally, Skirk will be able to increase your party’s Elemental Skill Level by one, as long as the party consists of at least one Hydro and Cryo character, thanks to her fourth ascension passive.
+Considering all of this, Talent Ascension priority should be equal for all of her talents across the board.
+Skirk’s best gear and teams
+Artifacts
+Skirk’s best artifact set is the
+Finale of the Deep Galleries
+, which is tailor-made for her kit. The set offers:
+At two-piece: 15% Cryo DMG Bonus
+When the character has zero Energy, their Normal Attacks and Bursts deal 60% more damage. However, using a Normal Attack disables the Burst bonus for six seconds, while using a Burst disables the Normal Attack bonus for six seconds. This effect can still occur if the equipping character is off the field.
+But until you’ve found the perfect full set for Finale of the Deep Galleries, you can opt for these alternatives:
+4-piece Blizzard Strayer–the standard set for a Cryo DPS
+4-piece Marecheusse Hunter–if Furina is partied with Skirk to fully utilise the set’s buffs.
+As Skirk needs a substantial amount of ATK and CRIT, substats to gun for are ATK, ATK%, Crit Rate, and Crit DMG:
+Sands: ATK%
+Goblet: Cryo DMG
+Circlet: Crit Rate or Crit DMG, whichever is lacking
+Skirk’s stat goals should be:
+ATK: 2,100 above
+Crit Rate: 70-80%
+Crit DMG: 200% above
+Weapons
+Skirk obviously works best with her 5-star signature sword
+Azurelight
+, but if you don't want to pull it through the weapon banner, she can make do with these alternatives:
+Haran Geppaku Futsu
+(5-star, Gacha)–provides a 12% increase to all Elemental DMG, as well as a 20% Normal ATK increase once specific conditions are met
+Mistsplitter Reforged (5-star, Gacha)
+–a generalist option that provides massive increases to Elemental DMG
+Primordial Jade Cutter (5-star, Gacha)
+–only viable thanks to its Crit Rate main state, but can also provide additional ATK bonuses depending on Skirk’s max HP
+Calamity of Enshu (4-star, event-exclusive)
+–but only if a shield character is paired with Skirk, as the bonuses are dependent on Skirk being shielded
+Best teams
+Skirk’s team compositions are very simple, as she only works best in teams that mainly focus on freezing opponents. As such, you can build a party that consists of these characters:
+Escoffier–for her Hydro/Cryo support, resistance shreds, and healing capabilities
+Furina–for her Sub-DPS damage and Burst buffs
+Shenhe–for overall Cryo support and secondary application
+Yelan–for Sub-DPS DMG and reliable Hydro application
+Xingqiu–for Sub-DPS DMG, reliable Hydro application, and basic defense and healing
+Citlali–for shielding and Hydro RES shred, as well as Hydro application
+Author
+Arianne "YanKu" Blanco
+Full time gamer, writer, and cat parent.
+Related Articles
+Gaming
+Toei Games reveals three upcoming original titles, with the first set to launch later this year
+General
+HoYoverse unveils Snezhnaya as Genshin Impact's next major map expansion, launches in August
+General
+Recap: Zenless Zone Zero 2.8 livestream reveals S-Rank Starlight Billy and Promeia's abilities
+Gaming
+Should you pull for Ines Fujin in Umamusume Pretty Derby?
+Gaming
+Review: Saros is an otherworldy roguelike with gorgeous visuals and sweaty combat
+Gaming
+Discord Nitro may introduce a new Xbox Game Pass tier featuring over 50 games
+Data will be updated soon
+Data will be updated soon
+Top headlines
+BetBoom Team, Aurora Gaming lead Playoff-qualified teams at PGL Wallachia Season 8
+Street Fighter 6 tweaks Alex dialogue after backlash over incest storyline
+Capcom reveals first look at new character Ingrid’s gameplay in Street Fighter 6, launching 28 May
+Crimson Desert’s newest patch adds difficulty settings, overhauls housing, and expands pets
+Assassin’s Creed Black Flag Resynced officially launches in July 2026, new trailer confirms
+MinD_ContRoL joins Indonesian Dota 2 team REKONIX as trial coach
+Top headlines
+Netflix announces original anime movie “The Ribbon Hero” for August 2026
+“The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat” returns in 2027
+"The Fragrant Flowers Bloom With Dignity" manga goes on three-week hiatus
+Romance manga “Glasses with a Chance of Delinquent” gets anime adaptation

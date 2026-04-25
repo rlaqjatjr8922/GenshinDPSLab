@@ -1,0 +1,123 @@
+Knights of Favonius Spark Knight! Forever with a bang and a flash!
+Name:
+Klee
+Rarity:
+★★★★★
+Vision:
+Pyro
+Weapon:
+Catalyst
+Birthday:
+27th July
+Region:
+Mondstadt
+Affiliation:
+Knights of Favonius
+Normal Attack:
+Throws things that go boom when they hit things! Performs up to 3 explosive attacks, dealing AoE Pyro DMG.
+Statistics:
+Charged Attack:
+Consumes a certain amount of Stamina and deals AoE Pyro DMG to opponents after a short casting time.
+Statistics:
+Plunging Attack:
+Gathering the power of Pyro, Klee plunges towards the ground from mid-air, damaging all opponents in her path. Deals AoE Pyro DMG upon impact with the ground.
+Statistics:
+Jumpy Dumpty is tons of boom-bang-fun! When thrown, Jumpy Dumpty bounces thrice, igniting and dealing AoE Pyro DMG with every bounce. On the third bounce, the bomb splits into many mines. The mines will explode upon contact with opponents, or after a short period of time, dealing AoE Pyro DMG. Starts with 2 charges.
+Statistics:
+Klee's Blazing Delight! For the duration of this ability, continuously summons Sparks 'n' Splash to attack nearby opponents, dealing AoE Pyro DMG.
+Statistics:
+Suggested Talent Levels
+This is by no means an exact guide on what is best - this is just my personal suggestion.
+When Jumpy Dumpty and Normal Attacks deal DMG, Klee has a 50% chance to obtain an Explosive Spark. This Explosive Spark is consumed by the next Charged Attack, which costs no Stamina and deals 50% increased DMG.
+When Klee's Charged Attack results in a CRIT Hit, all party members gain 2 Elemental Energy.
+Displays the location of nearby resources unique to Mondstadt on the mini-map.
+Trifolium
+C2 < C4
+C1 increases Klee’s ability as a Main-DPS by a medium amount. Basically it increases her Elemental Burst DMG by 20%, something that can easily be achieved through specific artifact sets or buffs from other characters.
+Klee’s C2 is an absolute priority that is worth every primogem. Decreasing opponents' DEF allows your character to deal higher damage as they will encounter less resistance. C2 is a good place to stop for a powerful DPS Klee.
+This increases the level to which Klee’s Elemental Skill can be increased to.
+C4 is not as vital as C2 but can still come in handy when building Klee as a Sub-DPS. By switching Klee out of the field during her Elemental Burst she can deal a massive amount of Pyro DMG.
+This increases the level to which Klee’s Elemental Burst can be increased to.
+C6 is not very important and isn’t really worth pulling for in the scheme of things. It allows her to regenerate energy for her teammates during her Elemental Burst. It also buffs the Pyro DMG of her teammates. These things are not very important for Klee as a Main-DPS but can be useful as a Sub-DPS.
+The below statistics assume that the weapons are at level 90 with refinement 1. Klee is at level 90 with her talents at 8/8/8. The artifacts are each at level 20 with no sub stats. The Sands is ATK%, the Goblet is Pyro DMG Bonus, and the Circlet is CRIT DMG. The opponent is at level 90 with 10% resistance for all elements. There are no party buffs. Damage values are an average of Non-CRIT and CRIT hits.
+Crimson Witch of Flames
+Gladiator’s Finale
+Lavawalker
+2-Piece:
+Pyro DMG Bonus +15%.
+4-Piece:
+Increases Overloaded and Burning, and Burgeon DMG by 40%. Increases Vaporize and Melt DMG by 15%. Using Elemental Skill increases the 2-Piece Set Bonus by 50% of its starting value for 10s. Max 3 stacks.
+Crimson Witch of Flames
+is the go to set for any Pyro DPS. As such, it is the most powerful set to equip Klee with as it maximises her overall damage. Increasing her Pyro DMG bonus alongside the damage caused by different Pyro reactions allows Klee to fit into virtually any team composition with ease. This domain is located in Liyue which makes it easily accessible from early in game.
+2-Piece:
+ATK +18%.
+4-Piece:
+If the wielder of this artifact set uses a Sword, Claymore or Polearm, increases their Normal Attack DMG by 35%.
+If you don’t want to try your luck in the artifact domains you can always use
+Gladiator’s Finale
+. As Klee is a catalyst user she cannot take full advantage of the 4-piece bonus, so it is best to pair the 2-piece set with one of the other artifact sets recommended here. Gladiator’s Finale is the second strongest artifact set on Klee.
+2-Piece:
+Pyro RES increased by 40%.
+4-Piece:
+Increases DMG against opponents affected by Pyro by 35%.
+Lavawalker
+is ideal for a Mono-Pyro team composition. By increasing the damage against opponents affected by Pyro you make the entire team much more powerful. While this set is definitely not as good as the previous two mentioned, it is still a viable third option.
+As we can see from the mathematics section of this guide, regardless of which artifact set you choose,
+Lost Prayers to the Sacred Winds
+is always the best weapon for Klee. It maximises her damage through its high CRIT Rate, Base ATK and its passive ability to increase Klee’s movement speed. This weapon does require Klee to stay on-field for extended periods of time in order to take full advantage of its passive abilities.
+Skyward Atlas
+is Klee’s second best performing weapon mathematically. Its high Base ATK value and simple passive ability makes it a very effective option for Klee.
+Solar Pearl
+is the best 4-star weapon option for Klee. Unfortunately it is a paid weapon that is only available by purchasing the Battle Pass. If you do have Solar Pearl, remember that mathematically it performs better than many of the 5-star catalyst options available.
+Dodoco Tales
+was released for a limited time during the Version 1.6 Event Midsummer Island Adventure. There is currently no way to obtain this weapon if you did not get it during this time. Generally Dodoco Tales is the second best performing 4-star catalyst. Its aesthetic suitability with Klee shouldn’t be forgotten either!
+The rest of the weapon options can be found within the previous section titled “Mathematics”. Within this section you can see which weapon best suits the artifact set you are equipping Klee with.
+Main DPS:
+Klee (C0+) → DMG is amplified through the Vaporization reaction.
+Sub DPS:
+Xiangling (C0+) → Elemental Burst attaches Pyro to opponents and deals a large amount of DMG.
+Support:
+Kazuha (C0+) → Groups enemies together and provides DMG buff to teammates.
+Healer:
+Bennett (C0+) → Elemental Burst provides ATK buff and heals teammates.
+Main DPS:
+Klee (C0+) → DMG is amplified through the Vaporization reaction.
+Sub DPS:
+Fischl (C0+) → Elemental Skill provides off-field Electro attachment to cause overload reaction.
+Sub DPS:
+Beidou (C0+) → Elemental Burst provides off-field Electro attachment.
+Healer:
+Bennett (C0+) → Elemental Burst provides ATK buff and heals teammates.
+Main DPS:
+Klee (C0+) → DMG is amplified through the Vaporization reaction.
+Sub DPS:
+Nahida (C0+) → Connects opponents with her Elemental Skill and buffs teammates with her Elemental Burst.
+Sub DPS:
+Xingqiu (C0+) → Elemental Burst attaches Hydro to opponents.
+Healer:
+Baizhu (C0+) → Provides a shield to protect and heal teammates.
+Main DPS:
+Klee (C0+) → DMG is amplified through the Vaporization reaction.
+Sub DPS:
+Rosaria (C0+) → Deals DMG with her Elemental Burst and attaches Cryo to react with Klee’s Pyro.
+Support:
+Kazuha (C0+) → Groups enemies together and provides DMG buff to teammates.
+Healer:
+Bennett (C0+) → Elemental Burst provides ATK buff and heals teammates.
+Main DPS:
+Klee (C0+) → DMG is amplified through the Vaporization reaction.
+Sub DPS:
+Xiangling (C0+) → Elemental Burst attaches Pyro to opponents and deals a large amount of DMG.
+Sub DPS:
+Xingqiu (C0+) → Elemental Burst attaches Hydro to opponents.
+Healer:
+Bennett (C0+) → Elemental Burst provides ATK buff and heals teammates.
+So, what are the pros and cons of Klee?
+Pros:
+High Pyro DMG
+Powerful Charged Attack
+Produces a lot of energy
+Cons:
+Short ATK range
+Long animations and slow attacks
+The final decision as to whether you get her is up to you! Good Luck Travellers~

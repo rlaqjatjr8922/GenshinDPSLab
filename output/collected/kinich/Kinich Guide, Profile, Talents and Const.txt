@@ -1,0 +1,267 @@
+Home
+/
+Genshin Impact
+/
+Character List
+/
+Kinich Profile
+Kinich Profile, Talents and Constellations
+Kinich is a 5-star Dendro Claymore character in Genshin Impact
+who acts as a Main DPS dealing damage through his Elemental Skill "Riding High"
+which provides a unique gameplay experience. Read our Kinich guide to learn more about
+Kinich's kit, Kinich's best Builds and also his Ascension and Talent Materials.
+Last updated
+on
+Mar 02, 2026
+at
+13:00
+by
+GachaHub
+S
+Rank
+Dendro
+Element
+Claymore
+Weapon
+★
+★
+★
+★
+★
+Rarity
+John Patneaude
+EN Voice Actor
+Sugiyama Noriaki
+JP Voice Actor
+Profile & Talents
+Build Guide
+Team Guide
+Introduction — Kinich
+Kinich
+is a 5-Star
+Dendro
+Claymore Character 
+in Genshin Impact. Our Kinich guide and best builds cover everything you need to know 
+about Kinich's best builds, including skills, artifacts, team compositions and more. To 
+learn more about Kinich, use the tabs above to switch to our build information 
+for Kinich or their team compositions.
+1.
+Kinich Build Guide Infographic
+Kinich's Strengths & Weaknesses
+Strengths
+Kinich has high mobility during combat due to the mechanics of his Elemental Skill.
+Elemental Skill makes combat with ranged enemies easier than most claymore characters due to the automatic targeting and grappling.
+Weaknesses
+Blind Spot mechanic causes unpredictability during gameplay which requires more understanding of enemy attack patterns than most other characters as well as creating variances that lead to not necessarily having a set rotation.
+Poor performance in AoE scenarios due to being heavily single-target focused.
+Ascension Stat & Materials for Kinich
+Ascension Stat:
+88.4% CRIT DMG
+Kinich gains CRIT DMG each time he ascends, totalling 88.4% at level 90. The
+total Ascension material costs are listed below:
+Source
+Quantity
+Mora
+420,000 Mora
+Boss Material
+46x
+Water That Failed To Transcend
+Ascension Material
+1x
+Nagadus Emerald Sliver
+9x
+Nagadus Emerald Fragment
+9x
+Nagadus Emerald Chunk
+6x
+Nagadus Emerald Gemstone
+Local Specialty
+168x
+Saurian Claw Succulent
+Enhancement Material
+18x
+Juvenile Fang
+30x
+Seasoned Fang
+36x
+Tyrant's Fang
+Talent Materials for Kinich
+Listed below are all the materials required to raise a single talent of 
+Kinich's to level 10. Please check our Kinich build guide for recommendations on 
+talent priorities.
+Source
+Quantity
+Mora
+1,625,500 Mora
+Special Material
+1x
+Crown of Insight
+Boss Material
+6x
+Denial and Judgment
+Domain Material
+3x
+Teachings of Kindling
+21x
+Guide to Kindling
+38x
+Philosophies of Kindling
+Enhancement Material
+6x
+Juvenile Fang
+22x
+Seasoned Fang
+31x
+Tyrant's Fang
+Kinich's Talents
+Nightsun Style
+Normal Attack
+Normal Attack
+Performs up to 3 rapid strikes.
+After using his Elemental Skill "Canopy Hunter: Riding High"'s mid-air swing, he can perform a Normal Attack in mid-air before landing.
+Charged Attack
+Consumes a certain amount of Stamina to spin and throw his Claymore forward to attack opponents.
+Plunging Attack
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Canopy Hunter: Riding High
+Elemental Skill
+CD: Variable
+Kinich uses his big-game hunting skills to either move swiftly or attack his opponent.
+When there is an opponent or object that can be attacked nearby, he will attach a grappling hook to the target and enter Nightsoul's Blessing with 0 Nightsoul points. If neither is nearby, he fires a grappling hook forward and swings in mid-air, and this Skill's CD is decreased by 60%.
+This skill can be Held to release. When it is Held, Kinich can aim the grappling hook.
+Nightsoul's Blessing: Kinich
+Kinich's Nightsoul's Blessing lasts 10s and generates 2 Nightsoul points every second.
+In this state, Kinich will hook onto a nearby opponent and perform a variable attack:
+When using a Normal Attack, Kinich will fire Loop Shots as he loops around the grappled target based on his current movement direction, dealing Nightsoul-aligned
+Dendro DMG
+and generating 3 Nightsoul points. Loop Shot DMG is considered Elemental Skill DMG.
+When Nightsoul points are at max, he can use the Elemental Skill "Scalespiker Cannon": Consume all Nightsoul points to deal Nightsoul-aligned
+Dendro DMG
+. When "Scalespiker Cannon" is Held, Kinich can aim this shot. After firing the Cannon, Kinich will try to grapple to its target.
+While in Nightsoul's Blessing, after grappling an opponent or firing "Scalespiker Cannon," a Blind Spot will be generated next to the opponent. When Kinich enters this Blind Spot, it will disappear and he will generate 4 Nightsoul points.
+If the grapple connection should snap due to exceeding the maximum distance or some other reason, using a Normal Attack will establish a new connection with a nearby opponent before performing Loop Shots.
+"All things come with a cost. I suggest you make a suitable offer... What? No, I don't do installments."
+Hail to the Almighty Dragonlord
+Elemental Burst
+CD: 15s
+Energy Cost: 70s
+Unleashes the power of the Almighty Dragonlord, K'uhul Ajaw (on a limited, conditional, restricted, contractual, partial, temporary basis), dealing Nightsoul-aligned
+AoE Dendro DMG
+. Ajaw will unleash his Dragon Breath at intervals, dealing Nightsoul-aligned
+AoE Dendro DMG
+.
+If Kinich is in Nightsoul's Blessing when this is used, this Blessing's duration is extended by 1.7s.
+"Yes, yes! You stand before K'uhul Ajaw the Almighty Dragonlord! Come forward, then! Kneel, and kiss our feet!"
+Kinich's Ascension Passive Talents
+The Price of Desolation
+1st Ascension Passive
+When Kinich is in Nightsoul's Blessing state, opponents hit by his Elemental Skill will enter the Desolation state, and when affected by Burning or Burgeon reaction DMG, they will restore 7 Nightsoul points to him. Nightsoul points can be gained this way once every 0.8s. The Desolation state will persist until this instance of Kinich's Nightsoul's Blessing state ends.
+Flame Spirit Pact
+4th Ascension Passive
+After a nearby party member triggers a Nightsoul Burst, Kinich will gain 1 stack of Hunter's Experience that lasts 15s. Max 2 stacks. When Kinich uses
+Canopy Hunter: Riding High
+'s Scalespiker Cannon, all stacks of Hunter's Experience will be consumed, with each stack consumed increasing the DMG dealt by this Cannon shot by 320% of Kinich's ATK.
+Night Realm's Gift, Repaid in Full
+Utility Passive
+When Kinich is in the air following
+Canopy Hunter: Riding High
+'s mid-air swing, he can consume 10 Phlogiston points to perform another mid-air swing.
+While in an area with Phlogiston Mechanics within Natlan, he can use Nightsoul Transmission: Kinich. When the current active character is sprinting, in movement states that result from specific Talents, or in the air, when you switch to Kinich: Kinich will perform one of the following actions depending on the conditions met:
+When facing a Coilgrass Sigil that can be interacted with: He will fire a grappling hook towards it to move;
+When there are nearby opponents and you are in combat: Kinich will use Canopy Hunter: Riding High in the direction of the opponents;
+Otherwise, Kinich will fire a grappling hook and swing, prioritizing valid Coilgrass Sigils as grapple targets.
+Nightsoul Transmission can be triggered once every 10s by your own party.
+When interacting with Coilgrass Sigils and other items that Yumkasaurs can interact with, "Canopy Hunter: Riding High" will be converted to "Yumkasaur Mimesis," which causes interactions with such items to follow rules applicable to Yumkasaurs, and which will not put Canopy Hunter: Riding High on CD.
+Swift Envoy
+Additional Passive
+While in an area with Phlogiston Mechanics within Natlan, interacting with some harvestable items will increase your own party members' Movement SPD by 15% for 10s. Additionally, the location of nearby
+resources unique to Natlan
+will appear on your mini-map.
+Kinich's Constellations
+Parrot's Beak
+Constellation
+C1
+After Kinich lands from
+Canopy Hunter: Riding High
+'s mid-air swing, his Movement SPD will increase by 30% for 6s.
+Additionally, Scalespiker Cannon's CRIT DMG is increased by 100%.
+Tiger Beetle's Palm
+Constellation
+C2
+When Kinich's Elemental Skill hits an opponent, it will decrease their
+Dendro RES
+by 30% for 6s.
+Additionally, the first Scalespiker Cannon Kinich fires after entering Nightsoul's Blessing has increased AoE, and its DMG increases by 100%.
+Protosuchia's Claw
+Constellation
+C3
+Increases the Level of
+Canopy Hunter: Riding High
+by 3.
+Maximum upgrade level is 15.
+Hummingbird's Feather
+Constellation
+C4
+When in Nightsoul's Blessing, Kinich will restore 5 Energy after using his Loop Shots or after unleashing the Scalespiker Cannon. Energy can be regenerated this way once every 2.8s.
+Additionally,
+Hail to the Almighty Dragonlord
+deals 70% more DMG.
+Howler Monkey's Tail
+Constellation
+C5
+Increases the Level of
+Hail to the Almighty Dragonlord
+by 3.
+Maximum upgrade level is 15.
+Auspicious Beast's Shape
+Constellation
+C6
+After Scalespiker Cannon hits an opponent, it will bounce between opponents once, dealing 700% of Kinich's ATK as
+Dendro DMG
+.
+If this Scalespiker Cannon triggers the buffs that Passive Talent "Flame Spirit Pact" or the Constellation "Tiger Beetle's Palm" grant to the Cannon, the bouncing attack will also obtain the relevant buffs.
+Build Guide for Kinich
+To learn all about Kinich's best weapons, artifacts and builds, check 
+our dedicated Kinich build guide below:
+Kinich Guide & Best Builds
+Changelog
+13 Feb. 2026:
+Kinich guide updated for 6.3.
+27 Sep. 2025:
+Updated for 6.0.
+10 Jul. 2025:
+Updated for 5.7.
+12 Feb. 2025:
+Reviewed for 5.4.
+17 Jan. 2025:
+Updated for 5.3.
+06 Sep. 2024:
+Full Guide released.
+27 Jul. 2024:
+Initial page added.
+Show more
+Show less
+Profile & Talents
+Build Guide
+Team Guide
+In The Same Category
+Kinich Team Guide
+Kinich Best Builds Guide
+Baizhu Best Builds Guide
+Alhaitham Best Builds Guide
+Kirara Best Builds Guide
+Nefer Team Guide
+Nahida Best Builds Guide
+Yaoyao Best Builds Guide
+Lauma Best Builds Guide
+Tighnari Best Builds Guide
+Emilie Best Builds Guide
+Lauma Team Guide
+ABOUT THE AUTHOR
+Asher is a Genshin Impact and Wuthering Waves creator and theorycrafter 
+        with over three years of experience in Teyvat and one year in Solaris-3. 
+        He has been producing guides and analysis content consistently for the past 
+        six months, building a growing YouTube community of more than 8,000 subscribers. 
+        He focuses on creating simple, clear, and beginner-friendly guides designed 
+        to help new players understand characters, builds, and meta strategies with ease.
+SUPPORT OUR WRITERS

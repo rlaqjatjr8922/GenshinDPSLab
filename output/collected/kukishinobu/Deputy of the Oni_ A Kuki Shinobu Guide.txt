@@ -1,0 +1,678 @@
+Deputy of the Oni: A Kuki Shinobu Guide
+Home
+Guides
+Infographics
+Pre-TC FAQs
+Artists
+Home
+Guides
+Infographics
+Pre-TC FAQs
+Artists
+Kuki Shinobu
+Akane#0926, Emiliabyss#1641
+Last updated for 2.8 on Jun 4, 2025
+Introduction
+Character Overview
+Equipment
+Team Compositions
+Art by:
+@panosarts_
+“Just let me know if you ever find yourself in a pinch. I can help you out”
+Introduction
+Preface
+Art by:
+莓子
+Just like Kuki Shinobu is willing to lend her notes to you, this guide will gladly relay information about the Deputy of the Arataki Gang.
+Kuki Shinobu is a 4* Electro Sword user with quite a unique kit. She sacrifices a portion of her own HP to provide comfort to your on-field DPS through healing and/or to dish out damage over time. While her damage is not quite on par with other off-field damage dealers, she can provide an assortment of supportive utilities that make her a good unit to have around. Even Kujou Sara recommends her!
+Now without further ado, let’s discuss everything about the Deputy of the Oni , Kuki Shinobu.
+Why Play Kuki Shinobu?
+Pros
+Currently Genshin Impact’s only dedicated Electro Healer.
+Consistent Electro application.
+Will use Elemental Burst
+if and only if
+you need to fill downtime or to proc weapon passives, thus only taking minimal field time.
+Constellations are not needed.
+Tenacity of the Millelith and Favonius Sword slave.
+The best resources for Shinobu likely have not been released yet; she may improve significantly with time due to new elemental reactions coming and new teams that may want an Electro healer.
+Cons
+Outclassed by other units in most use cases for Shinobu.
+Unable to contribute significant personal damage outside of Overload teams.
+Suffers from having damage and healing scale off of multiple stats.
+There is little need for an Electro healer (the trait that makes Shinobu special) at the current game state. This is a case to case basis as some teams will gladly have her on their team.
+Requires heavy financial and team investment for her DPS build, and often requires being supported by Yunjin
+and
+Bennett in order for personal numbers to look respectable or Sucrose for OL EM.
+Misconceptions
+“Just use Prototype Amber Lisa instead of Kuki Shinobu.”
+Kuki Shinobu:
+Healing is based on her Max HP, allowing her to provide more healing for allies with lower Max HP
+Able to carry Tenacity of the Millelith.
+Does not need to use Elemental Burst most of the time due to it being only situationally useful for things such as proccing a weapon or an artifact passive.
+Easy particle generation (45% Chance to generate a particle)
+Flexible weapon options.
+Lose out potential damage due to her low MVs.
+Prototype Amber Lisa:
+Healing is based on the party members’ Max HP. This is due to Prototype Amber passive description.This finding is in the
+KQM TCL for Prototype Amber
+.
+This results in more heals for allies with higher Max HP but the squishier allies with lower Max HP do not benefit as much.
+Able to apply DEF Shred on the enemy.
+Able to carry Noblesse Oblige due to the need to use her Elemental Burst. However, the uptime on this buff leaves much to be desired.
+Will have Energy problems when she is the sole Electro in the team.
+Limited to 1 weapon
+Needs time to cast her Hold Elemental Skill to generate particles for herself. This can also be easily interrupted by enemy attacks without a shield.
+“Fischl is a better Electro off-field unit.”
+This is on a case by case basis. Fischl will provide more damage in team compositions where she can fit in but in some, she will struggle due to the team composition not fitting her kit entirely. In those team compositions, Kuki Shinobu can be an option for her heals if no healer is present in the party at the cost of team damage.
+Both units can also co-exist in one team compositions to fill out necessary needs. Fischl can provide consistent Electro-application while Kuki Shinobu can provide heals and both can trigger Electro Resonance pretty well.
+Character Overview
+Art by:
+podel_1
+Kuki Shinobu specializes in off-field healing and slow but consistent Electro application at close range. She is the first dedicated Electro healer that the game has received, filling a niche uncontested save for one. This boosts her value greatly regardless of her damage potential.
+Her Elemental Skill deals Electro damage and heals the active party member overtime. Her Elemental Burst deals multiple instances of Electro damage that scale with her HP in a small area for breaking elemental shields.
+While her healing also scales with HP, her Elemental Skill damage scales with ATK, forcing her to choose either healing or damage. This issue is slightly alleviated by both her healing and damage scaling with EM.
+Builds
+Support Build
+Elemental Skill > Elemental Burst > Normal Attack
+This is her primary build path. Her goal in this build is to be able to provide constant healing, buffs through her artifacts, and possibly particles through the use of Favonius Sword.
+Casting Elemental Burst is optional, due to the build focusing mainly on her Elemental Skill. Only cast her Elemental Burst in these scenarios:
+You need to trigger a weapon passive or an artifact passive.
+Your rotation has enough downtime to fill.
+You need to break an Elemental shield.
+Reaction DPS Build
+Elemental Skill > Elemental Burst > Normal Attack
+This build focuses more on her Elemental Mastery stat and Character Level. The reason for this is that her main damage sources for this build are Transformative Reactions. Leveling up her Elemental Burst is optional. One of its caveats is that it is not resin-efficient due to the rarity of Elemental Mastery as a main stat on artifact pieces. Nonetheless, it is still one of her best builds for contributing DPS.
+Physical DPS Build
+Normal Attack > Elemental Skill > Elemental Burst
+This build focuses more on her Normal and Charged Attacks, with her Elemental Skill and Burst providing survivability. It is generally the weakest build for Shinobu due to how much support she needs to ensure her damage is worth her field-time. With that same investment, you could probably run a three-person team and perform better, or use any other physical DPS. This one is only for the loyalists.
+This build requires you to level up her Normal Attack talent to function. Her Elemental Burst can be used in case of an emergency to be immune to lethal enemy attacks. Do note that her Elemental Burst will be usually weaker due to her receiving heals instead of swapping off.
+Deviant DPS Build
+Normal Attack > Elemental Skill > Elemental Burst
+The deviant build is a weird build that utilizes an elemental infusion on Kuki Shinobu’s Normal Attacks in order to take advantage of amplifying reactions and other elemental buffs like the support Viridescent Venerer provides. With C6 Bennett, Shinobu can Reverse-Vaporize or Forward-Melt, and with Chongyun, Shinobu can Reverse-Melt.
+Just like the Physical build, this build requires you to level up her Normal Attack talent to function, and requires a different Elemental DMG% Goblet and a 4pc Gladiator or Shimenawa set to give her Normal Attacks as many buffs as possible.
+Neither this build nor the Physical build are recommended for general use, and are only worth the investment for the sake of a laugh or someone who just
+really
+wants to play outside the box.
+Talents
+Normal Attack: Shinobu’s Shadowsword
+Normal Attack String:
+Performs 4 consecutive strikes.
+Charged Attack String:
+Performs 2 forward slashes in exchange for stamina.
+Criteria
+T9%
+Frames
+N1
+89.59%
+26
+N2
+81.84%
+27
+N3
+109.02%
+41
+N4
+139.83%
+43
+Charged ATK
+102.21% + 122.66%
+54
+Kuki Shinobu’s Normal Attacks are useless to her in most circumstances. Only level this talent for meme builds and when you know what you’re doing. If you insist on using her Normal Attacks, N1C-spam is her best overall auto-attack string, followed close behind by N4D-spam.
+When using Yunjin with Shinobu, in the rare circumstance you decide to, remember Yunjin buffs only Normal Attacks,
+not Charged Attacks
+, so use N4D in these cases. Likewise, some weapons as well will affect it.
+Elemental Skill: Sanctifying Ring
+Creates a Grass Ring of Sanctification at the cost of 30% of her HP,
+dealing Electro DMG to nearby enemies.
+Grass Ring of Sanctification:
+Follows the current active character around. Deals Electro DMG to nearby opponents every 1.5s and restores HP for active character(s) within the ring's AoE based on Kuki Shinobu's Max HP.
+The HP consumption from using this skill can only bring her to 20% HP.
+Criteria
+Data
+Criteria
+Data
+Initial Cast DMG
+128.71% (T9) 151.42% (T12)
+Execution Frames
+52
+DoT
+42.91% (T9) 50.48% (T12)
+DoT / Healing Frames
+80 (~1.5s)
+Healing
+5.1% + 587 (T9)6% + 739 (T12)
+ICD
+2.5s/3 Hits
+Duration
+12  (15 @ C2)
+Gauge
+1U
+CD
+15s
+Snapshots or Dynamic?
+Dynamic
+The most important aspect of her entire kit: her Elemental Skill. This skill helps Kuki Shinobu by allowing her to give buffs consistently by triggering the Tenacity of the Millelith artifact set,, heals, and AoE damage every 1.5s.
+Through her Elemental Skill, Kuki Shinobu can consistently apply Electro onto enemies as well as provide decent healing and DoT damage. Its duration also starts on the first tick of the DoT and healing and not the casting of the skill itself.
+Note that Kuki Shinobu’s Elemental Skill does not snapshot ATK buffs, which ultimately hampers its damage potential. However, this also means it benefits from buffs that are applied after it is already cast.
+Elemental Burst: Gyoei Narukami Kariyama Rite
+Stabs the ground with her evil-excoriating sword, releasing Electro DMG that is placed into the enemies that scales with Kuki Shinobu’s Max HP.
+If Kuki Shinobu’s Max HP is equal or below 50%, the duration of Gyoei Narukami Kariyama Rite is increased.
+Criteria
+Data
+Criteria
+Data
+Skill DMG
+6.13% (T9) 7.21% (T12)
+CD
+15s
+Total Skill DMG (>50% HP)
+42.91% (T9) 50.48% (T12)
+Execution Frames
+63
+Total Skill DMG (<=50% HP)
+73.54%(T9)86.52%(T12)
+ICD
+2.5s/3 Hits
+Number of Hits
+7 (>50% HP)13 (<=50% HP)
+Gauge
+1U
+Duration
+2s (>50% HP)3.5s (<=50% HP)
+Snapshots or Dynamic?
+Dynamic
+Her Elemental Burst provides a decent amount of damage, but it is still quite lacking due to the low scalings, number of hits, and the ICD being standard, which means that when she has above 50% of her Max HP, she can apply 3 instances of Electro aura, and below or equal to 50% of her Max HP, she can apply 5 instances of Electro aura. Typically, casting her Elemental Burst is not needed unless you want to proc a weapon or artifact passive such as Noblesse Oblige or Favonius Sword, or to break elemental shields.
+Passive Talent
+A1: Breaking Free
+When Kuki Shinobu’s HP is under 50% of her Max HP, she gains 15% Healing Bonus
+At least 2-3 rotations or Kuki Shinobu taking a lethal hit, which is not recommended, to trigger this passive talent. The buff is dynamic and will apply at any point in Kuki Shinobu’s Elemental Skill duration, providing it a nice boost in healing value.
+A4: Heart’s Repose
+Sanctifying Ring abilities will be enhanced based on Kuki Shinobu’s Elemental Mastery:
+Healing amount is increased by 75% of Elemental Mastery
+DMG dealt is increased by 25% of Elemental Mastery
+An added increase to her healing and DMG potential for her Elemental Skill. It is just a Flat buff for both so the increase is not that much due to Kuki Shinobu’s tendency to build path into HP%. However, this passive quite helps Triple EM Build as it provides mid-low healing numbers that will suffice for most reaction compositions that she will be put in.
+Utility Passive: Protracted Prayers
+When Kuki Shinobu is deployed into a 20h Inazuma Expedition,
+she gains 25% more rewards.
+Same passive as Yelan and Shenhe but for Inazuma Expeditions. Pretty straightforward, and really helpful for Mora Exploration if you are running low on it.
+Constellations
+Generally, C0 Kuki Shinobu is already a solid unit to have in terms of healing. Her Constellations mostly serve to increase her damage. Would not advise rolling on her Constellations due to their rather unnecessary value.
+C2 > C4 > C3 > C1 > C5 > C6
+C1: To Cloister Compassion
+Gyoei Narukami Kamiyama Rite’s AoE is increased by 50%
+DPS Increase from C0: 0%
+Gives her Burst a wider range and allows it to hit more enemies in situations with high enemy density, as well as helping prevent missed hits on mobile enemies such as Rifthounds.
+C2: To Forsake Fortune
+Grass Ring of Sanctification’s duration is increased by 3s
+DPS Increase from C0: 10-11% || From Previous Cons: 10-11%
+Good stopping point for Kuki Shinobu’s Constellations. Adds 2 more ticks of damage and Healing, and 1 additional instance of Electro application per Elemental Skill. This Constellation makes it possible for her to have 100% Skill uptime, and indirectly improves her buff uptime from Tenacity of the Millelith.
+C3: To Sequester Sorrow
+Increases the level of Sanctifying Ring by 3
+Maximum upgrade level of 15
+DPS Increase from C0: 11-12% || DPS Increase from Previous Cons: 0-1%
+Self-explanatory. More damage and healing overall. Pretty good Constellation to have.
+C4: To Sever Sealing
+When Normal, Charged, or Plunging Attacks of the character affected by Kuki Shinobu’s Grass Ring of Sanctification hits an enemy, a Thundergrass Mark is will land on the opponent’s position and deal AoE Electro DMG based on 9.7% of Kuki Shinobu’s Max HP. Effect can only occur once every 5s.
+DPS Increase from C0: 15-18% || DPS Increase from Previous Cons: 3-6%
+The biggest damage increase to her kit, with some nice utility bonuses. Provides additional instances of damage that scale off of Max HP and are easily triggered. However, due to the 5 second cooldown, this Constellation will typically only be triggered 3 times per rotation. This Constellation also generate particles, which has a separate CD from the Elemental Skill, and has a separate ICD with her Elemental Skill.
+C5: To Cease Courtesies
+Increases the level of Gyoei Narukami Kariyama Rite by 3
+Maximum upgrade level of 15
+DPS Increase from C0: 16-21% || DPS Increase from Previous Cons: 1-2%
+Not much to say here; slightly higher Elemental Burst damage and nothing else. Provides more damage than her Elemental Skill but generally not worth to cast as it forces her to build ER%.
+C6: To Ward Weakness
+When Kuki Shinobu takes lethal DMG, this instance of DMG will not take her down. This effect will automatically trigger when her HP reaches 1 and will trigger once every 60s.
+When Shinobu's HP drops below 25%, she will gain 150 Elemental Mastery for 15s. This effect will trigger once every 60s.
+DPS Increase from C0: 20-29% || DPS Increase from Previous Cons: 3-7%
+Similar to Hu Tao’s C6 but on a 4* unit. Pretty self-explanatory. While not worth intentionally activating, this Constellation can allow Kuki Shinobu to tank lethal hits for the team if necessary. There is also the case of its long CD timer and its 45% increase is not a guaranteed increase due to the restriction this Constellation has.
+Combos
+Notations
+Translation
+N1
+Normal Attack String 1-Hit
+N2
+Normal Attack String 2-Hit
+N3
+Normal Attack String 3-Hit
+N4
+Normal Attack String 4-Hit
+C
+Charged Attack String
+D
+Dash
+E
+Elemental Skill
+Q
+Elemental Burst
+Q > E
+The Default Combo for non-Physical DPS Kuki Shinobu builds. It should be noted that in Reaction-based compositions such as Overload Kuki Shinobu, you should separate her Elemental Burst and Skill for her to get all ownership of said reactions. Add Normal Attack Strings trigger Favonius as needed if the weapon is at hand.
+E > 7N1C
+The Default Combo for Physical Kuki Shinobu when not using Yunjin. Has the highest DMG potential among her combos at the cost of stamina
+E > 4N4D
+The Default Combo for Physical Kuki Shinobu when using Yunjin. This combo allows Kuki Shinobu to drive other stuff such as C6 Fischl. Beidou Q, etc. Also consumes considerable stamina but not as severe as N1C.
+E > 10N2D
+Potentially out damages the 2 other combos mentioned before this if the timing for her dash is frame perfect. Should be used with Yunjin if possible. Also consumes a considerable amount of stamina. Not recommended for practical use.
+E > 6N3D
+Slightly lower DPS compared to the other combos due to dash canceling while performing her N3 animations. Should be used with Yunjin if possible.  Frame canceling this combo is nice due to how quick the projectiles hit.
+Equipment
+All Calculations are done in:
+Shinobu Mastersheet
+Art By:
+闇色硝子
+Energy Requirements
+Generally, Kuki Shinobu does not require any ER due to the fact that she does not typically cast her Elemental Burst at all. However, in the scenarios in which you do cast her Elemental Burst for the reasons stated earlier in the Talents section, building ER is necessary to have her Burst up in a timely manner. Would recommend using
+Zakharov’s ER Calculator
+.
+Scenarios
+ER Required
+Solo Electro w/o Fav Proc
+210-220%
+Solo Electro w/ Fav Proc
+190-200%
+Double Electro w/o Fav Proc
+140-150%
+Double Electro w/ Fav Proc
+120-130%
+Support Build
+Substat Priorities: HP% > HP > EM
+Focuses on her healing and supporting capabilities. Depending on the user’s choice on healing per tick, investment can stop on that decision as buffing party members will be prioritized when that decision is made.
+Timepiece: HP% or EM
+Since Kuki Shinobu’s healing is based on her Max HP, HP% timepiece would be the preferred main stat.
+Alternatively, because of her A4 Passive, Elemental Mastery (EM) can be an option given better substats on your EM pieces compared to available HP% pieces.
+Goblet: HP% or EM
+Same reason as your timepiece.
+EM Goblet can also suffice with the same reason as in the timepiece section.
+Circlet: HB% or HP%, or CR% (Only when using Favonius Sword)
+The most important main stat for a Support build. HB% is a massive 25% increase in healing compared to HP%, and is therefore heavily recommended. HP% will be the secondary option with the same reason as your timepiece
+A CR% circlet can be used for consistent procs of the Favonius Sword passive.
+With that being said, EM is fourth in place for this section due to her A4 but is not recommended unless you either do not have a HB% or HP% circlet in your inventory.
+Artifacts
+Artifacts
+Recommended
+Notes
+Healing %
+4PC Tenacity of the Millelith
+Yes
+Kuki Shinobu’s BiS artifact set for her support build. Able to provide her 20% HP and a party-wide 20% ATK buff that helps increase overall team DPS. With her Elemental Skill triggering in 1.5s interval along with a 12s duration when C0, she gets 100% uptime on the buff if timed correctly.
+100%
+4PC Maiden Beloved
+No
+Has the most healing output among all other artifact options given but is not worth it. However, it can be used to maximize healing output when Tenacity of the Millelith and Ocean-Hued Clam are not available.
+113%
+2PC Maiden Beloved, 2PC Ocean-Hued Clam4PC Ocean-Hued Clam
+Usable
+Provides 30% Healing Bonus. Can be used as a budget option from leftover pieces if you don't want to farm for her.
+113%
+2PC Tenacity of the Millelith, 2PC Healing Bonus
+Usable
+Provides 20% HP and 15% Healing Bonus. Use only if 4PC of each set is unavailable.
+108%
+4PC Ocean-Hued Clam
+Usable
+Even with its 2PC set effect increasing her healing output, Kuki Shinobu cannot maximize the damage procs of 4PC Ocean-Hued Clam; therefore it provides a minimal increase in damage for her teams and is difficult to recommend.
+105%
+4PC Noblesse Oblige
+Yes
+Noblesse Oblige is the typical go-to artifact set for supports, and Kuki Shinobu is no exception. It being available through the Strongbox makes it a more accessible alternative to Tenacity of the Millelith. However, Kuki Shinobu must cast her Elemental Burst to trigger its party-wide 20% ATK buff. It also has lower uptime than Tenacity of the Millelith and the 2pc bonus is questionable.
+95%
+4PC Instructors
+Yes
+An excellent placeholder for newer players, but also a viable artifact set option even later into the game because of its party-wide EM buff. Niche and worse for Kuki Shinobu’s healing than 5* alternatives;  however, it is nonetheless an outstanding 4* option.
+85%
+4PC The Exile
+Usable
+This set, along with Favonius Sword, can help Kuki Shinobu battery Energy-hungry Electro units. Its 2PC set effect helps Kuki Shinobu reach her own ER requirements to reliably Burst every rotation, which is necessary to proc the 4PC effect.
+79%
+Weapons
+Weapons on this list depends on what team composition you will be putting Kuki Shinobu in. The percentage we used for this matter is HPS or Healing per Second as it is mostly what she will be doing in those team compositions.
+Weapons
+Recommended
+Notes
+Percentage
+Freedom-Sworn
+Yes
+Her 5* BiS weapon. Able to give 10% DMG to her entire kit and also buff the whole party with 16% Normal, Charged, or Plunging DMG and 20% ATK after triggering a reaction, which Kuki Shinobu can easily do with her Elemental Skill. Along with the EM secondary stat, this sword specifically would need to be placed in a composition where all the buffs can benefit such as a Eula team that allows Kuki Shinobu to trigger Superconduct.
+106%
+Favonius Sword
+Yes
+Her 4* BiS weapon. Being able to provide white Particles to the entire party while also having a high amount of ER on its secondary stat to help her reach the desired ER requirement really makes this weapon one of the best, if not, the best weapon for support Kuki Shinobu.
+However
+, the passive only triggers upon a CRIT hit, so she will need CRIT Rate for consistent procs. This requirement can be slightly alleviated by her Burst hitting so many times (7 times above 50% HP). This greatly reduces the CRIT Rate necessary for the passive to trigger.
+100%
+Primordial Jade Cutter
+Yes, but…
+Generally a good 5* weapon on her due to its CR% secondary stat and its passive giving 20% HP and converting her Max HP into Flat ATK. Since only the HP% on this weapon is useful to support Kuki Shinobu, it is better off on a sword-based DPS.
+105%
+Iron Sting
+Yes
+A craftable 4* option with HPS matching that of Primordial Jade Cutter’s, thanks to its EM secondary stat. Along with its passive ability to increase Kuki Shinobu’s DMG, it is a really good weapon to have on her.
+105%
+Dark Iron Sword
+Usable
+Really good 3* option that is obtainable via talking to Chen the Sharp in the marketplace in Liyue. Its EM secondary stat is higher than The Alley Flash, and its low Base ATK means little to support Kuki Shinobu. As of now, only 1 copy is available to obtain.
+104%
+The Alley Flash
+No
+A unique weapon that is only accessible through the Weapon Banner. Its EM secondary stat is on the low side compared to the other EM weapons that are on this list. Its high Base ATK and passive are mostly negligible here.
+102%
+Reaction Build
+Substat Priorities: EM > ER% > HP% > ATK%
+The Standard Build for a procing reactions. Expect the healing for this build to be decent with the proper investment and resin-wise will need high investments.
+Timepiece: ER% or EM
+Pretty self-explanatory. ER% is for her Elemental Burst when running an EM weapon and EM is for her DMG when running an ER% weapon. This is to ensure she can consistently cast Elemental Burst every rotation she is in to maximize her DPS.
+Goblet: EM
+The only option for this type of build. It provides reaction DMG due to Transformative Reactions, mostly Electro Reactions, scales of EM and Character Level. EM also helps her A4 passive with her Elemental Skill DMG and healing.
+Circlet: EM
+Same reason as her goblet in this specific build. Generally it will be a lot harder to farm compared to the other two since EM circlets are a myth and it's so rare to get one on-piece EM circlet.
+Artifacts
+Artifacts
+Recommended
+Notes
+Percentage
+2PC Wanderer’s Troupe, 2PC Instructor
+Yes
+Her BiS artifact option for this type of build. It out-damages all other options of artifacts in this list. 160 EM already is a solid portion. For the Instructor set, preferably will be placed on your flower and feather and the remaining pieces are for Wanderer’s Troupe. Reason being is the high EM mainstay 5* artifact gives.
+109%
+4PC Tenacity of the Millelith
+Yes
+Trading off 6% of DPS Percentage vs Thundering Fury for 20% ATK Buff for the whole team is a good trade. Being able to help the party while still dealing a huge ton of damage on reactions generally would benefit that team more than Kuki Shinobu herself.
+100%
+4PC Thundering Fury
+Usable
+Giving her 15% Electro DMG and 40% Electro-Reaction DMG generally makes this her secondary option for an artifact set. It also has another passive that allows her Elemental Skill CD to decrease by 1s when triggering said reactions but this would only proc when she is either driving the reaction or on the field.
+106%
+2PC Thundering Fury, 2PC Wanderer’s Troupe
+Usable
+Substituting the 40% Electro-Reaction DMG and Skill CD Decrease for 80 EM, this combination of sets are secondary BiS for her DMG. This combination is super resin efficient with farming Thundering Fury while using unusable pieces into the strongbox to gain Wanderer’s Troupe pieces. Highly recommend doing so.
+105%
+4PC Instructor
+Usable
+Granting 80 EM and 120 added when triggering reactions. Lose 1 reaction damage to trigger the 4PC passive but quite a good option for a 4*. Need to use a 5* timepiece or goblet or circlet and everything else is an Instructor piece.
+103%
+4PC Lavawalker
+No
+Giving out 35% DMG against Pyro aura on enemies helps mostly on the kit’s damage rather than the Overload DMG, which this build mainly will be used for. This set would only work on Kuki Shinobu with a Pyro teammate. Calculations assumed 100% on the Pyro aura.
+103%
+4PC Thundersoother
+No
+Farming Thundering Fury will result in you also getting a Thundersoother piece/s. This set only works on Electro-Charged reaction and since it's clunky to manage, the damage of this set is quite hard to determine. Not recommended to use since some other options are much better.
+69%
+Weapons
+Most of the weapons in the build are F2P friendly. Some of them are locked out via patch events but there are still alternatives that bring much greater results.
+Weapons
+Recommended
+Notes
+Percentage
+Freedom-Sworn
+Yes
+BiS 5* weapon option for reaction. Gives out 198 EM, 10% DMG, 16% Normal, Charged, and Plunging Attack DMG, and 20% ATK that benefits not just Kuki Shinobu, but all the party members that enables her to proc such reaction. Really good weapon for her, especially when she is not driving the team composition.
+105%
+R1-R5 Iron Sting
+Yes
+An F2P craftable sword that can be easily refined. Having the second highest EM secondary stat, 165, and its passive giving straight-up DMG% when doing reactions makes this weapon almost comparable to Freedom-Sworn in terms of DPS Percentage. Refinements are almost identical so going for it is not advisable.
+103%
+Favonius Sword
+Yes
+The baseline. Gives out 61.3% ER that goes well with her ER Requirement for casting Elemental Burst. Also helps party members ER Requirement to sufficiently provide Elemental Aura for Kuki Shinobu to proc. Solid option for a weapon and would need to get some CR% substats.
+100%
+Festering Desire
+Usable
+An exclusive event weapon from Patch 1.2. Having 45.9% ER secondary stat makes Kuki Shinobu’s timepiece into EM as well as granting her Elemental Skill DMG by 32% and Elemental Skill CR by 12% at R5. Use if available.
+101%
+Dark Iron Sword
+Yes
+A really solid 3* option. Has 141 EM and its passive gives 20% ATK when triggering Electro-Reactions. Only problem with this weapon is that it only has 1 copy so you can only get R1 of this but still, the most F2P option as you do not need to spend any resources on this to get this weapon.
+100%
+The Alley Flash
+No
+A Weapon Banner Exclusive Weapon. Generally is not recommended due to that sole reason. Able to give 55 EM from its secondary stat, which is quite low in exchange for a higher Base ATK, which is minimal for Kuki Shinobu.
+95%
+R1-R5 Lion’s Roar
+No
+Even with its passive, the secondary stat of this weapon does minimal increase to her DMG output. Giving out a less transformative reaction DMG due to having too little of an EM baseline. Not recommended to use in this type of DPS.
+91-93%
+Physical and Deviant Build
+Substat Priorities: CR% = CD% > ATK%
+Your standard ADC Build. Artifact set choices are quite close to each other in terms of DPS Percentage so it is recommended to use the
+Genshin Optimizer
+to get the best artifacts to use when running this type of build.
+Timepiece: ATK%
+Standard Timepiece main stat for Physical-focused damage dealers.
+Goblet: Physical DMG%, or Pyro DMG%, or Cryo DMG%
+Physical DMG% is by far the superior choice for Kuki Shinobu’s Goblet in terms of Physical Build. Pyro DMG% is when she chooses to be in a Deviant Build with Bennett and Cryo DMG% when with Chongyun.
+Circlet: CR% or CD%
+Use whichever of a CR% or CD% Circlet better fits your stats, depending on Kuki Shinobu’s weapon and substats on each Circlet.
+Artifacts
+Artifacts
+Recommended
+Notes
+Percentage
+4PC Shimenawa Reminiscence
+Yes
+Her BiS artifact for Physical and Deviant DPS builds. Due to how the artifact works, it sacrifices her Elemental Burst Energy when casting Elemental Skill for 50% Normal, Charged, Plunging Attack DMG buff, which is not a huge thing as she will mainly drive and catch her own particles.
+108%
+4PC Pale Flame
+Yes
+Kuki Shinobu’s Elemental Skill can easily maintain uptime on the 4 PC set effect for a total of 18% ATK and 50% Physical DMG%. This is the most stable set for Physical Shinobu without sacrificing the energy Shimenawa demands.
+Only works for Physical Build.
+106%
+4PC Gladiator’s Finale
+Usable
+A really good artifact set due to its 4PC, which gives Kuki Shinobu 35% Normal Attack DMG. This set also gives 18% ATK and can be passively obtained through weeklies and Strongbox, making it arguably more accessible than the aforementioned options. Given better substats, this set can be a strong option.
+102%
+2PC Pale Flame, 2PC Bloodstained Chivalry
+Usable
+Really good in terms of farming artifacts, especially when artifact luck in the Pale Flame or Shimenawa Reminiscence domain is getting worse. This 2PC combination provides 50% Physical DMG Bonus without any requirements or constraints. Overall, a good baseline artifact set for her.
+Only works for Physical Build
+100%
+2PC Physical DMG%, 2PC ATK%
+Usable
+This set is the most accessible as 2 of the artifact sets that are needed are in the Strongbox. This set is close enough to two 2PC Physical DMG% sets that substats will determine which of the two options are better.
+Only works for Physical Build
+98%
+2PC ATK%, 2PC ATK%
+Usable
+Providing 36% ATK, a decent and resin-efficient option for players.
+94%
+Weapons
+For weapons, combos will highly matter to determine each weapon's individual DPS Percentage. For Physical Build, all of the weapons are an option.
+For Deviant Build, some weapons with Physical DMG% as its secondary stat would be not an option.
+Please check the
+Shinobu Mastersheet
+for each weapon ranking based on their specific combo.
+Weapons
+Recommended
+Notes
+Percentage
+Aquila Favonia
+Yes
+Her 5* BiS weapon for Physical DPS. Getting 20% ATK on R1 as well as a high Physical DMG% on its secondary stat makes this weapon really outstanding on her. Its second passive is situational due to its triggering needing Kuki Shinobu to take damage from an enemy.
+124%
+Summit Shaper (Shielded; Max Stacks)
+Usable
+A good 5* option for her if you have either Crystallize reaction procer or a strong shielder on your party. Its high ATK% secondary stat and its stackable ATK% buff from its passive is what Kuki Shinobu wants mostly if substats are unkind to ATK% rolls.
+119%
+Haran Geppaku Futsu
+Yes
+This sword is BiS in the Deviant build or when Yunjin is in your party and Shinobu is using longer Normal Attack strings. Giving her 12% Elemental DMG Bonus that enhances her Elemental Skill DMG when triggering 4PC Shimenawa Reminiscence or Pale Flame buff, as well as 40% Normal Attack DMG at 2 stacks. Highly recommended to equip this weapon on Kuki Shinobu if available.
+118%
+R5 The Black Sword
+Yes
+Battlepass weapon, ultra whaling scenario to increase Kuki Shinobu’s DMG potential. CR% as a secondary stat already gives it a good start. Along with its Normal and Charged Attack DMG% passive and the healing per CRIT hit passive really makes this weapon contest against 5* options. Another solid choice for the Deviant build.
+110%
+Primordial Jade Cutter
+Usable
+Another good 5* weapon option. Secondary stat also has CR% on its value and its passive works well with her. Getting 20% HP for her heals and converting her Max HP into Flat ATK makes this weapon much more reliable in terms of an all-rounded weapon.
+109%
+R5 Lion’s Roar
+Usable
+A good 4* option for most people, especially when the enemy has an Electro Aura in them. Its ATK% secondary stat brings her damage stronger and its passive gives DMG% when it hits an enemy with either Pyro or Electro aura. 100% uptime of said aura is a must to fully maximize it but generally is unobtainable due to her slow Electro Application.
+Deviant Build can fully utilize this weapon, especially with C6 Bennett.
+107
+R5 Prototype Rancour
+Yes
+The 4* F2P weapon that everyone can get. Its Physical DMG% secondary stat fits in well with artifact choices and its passive giving ATK% that revolves around Normal Attacking makes it even more good. Refinements are optional, it's up to the players if they want to invest in this weapon.
+106%
+Mistsplitter Reforged
+Usable
+A decent 5* weapon for her. CD% as its secondary stat already gives this weapon a good start, as well as its first passive, granting 12% Elemental DMG, enhances Kuki Shinobu’s Elemental Skill DMG. Also works well with 4PC Shimenawa Reminiscence and Pale Flame due to this first passive.
+The second passive can be utilized in a Deviant Build but not in a Physical Build.
+106%
+R3 The Black Sword
+Yes
+-
+106%
+R3 Prototype Rancour
+Yes
+-
+103%
+R1 The Black Sword
+Yes
+-
+101%
+R1 Prototype Rancour
+Yes
+-
+100%
+R1 Lion’s Roar
+Usable
+-
+100%
+R1-R5 Blackcliff Longsword
+No
+A decent 4* option. CD% on its secondary stat is what saved it from not being entirely recommended as you can not use its passive very well. Defeating an enemy to gain ATK% is quite useless as it isn’t a consistent way to gain as some enemies come in Single Target or Primary Targets.
+93%
+Skyward Blade
+No
+Generally not worth it to use on her. The ER% secondary stat is useless. Its 4% CR passive is too little to consider an increase and its buff has a restriction of needing to use Elemental Burst, which is going to be hard to get back up.
+82%
+Team Compositions
+Art by:
+RIVER
+Mono Electro
+With Kuki Shinobu being added as an Electro Healer, Mono-Electro teams became much more fluid in its structure as she replaced Jean/Sayu specifically and was able to put Kazuha/C6 Sucrose to buff the Electro on-field DPS for this team composition.
+Able to provide Elemental Burst DMG buff with her Elemental Skill and can act in a dual carry situation such as with Yae Miko to give out a huge burst damage. She can also act as a battery for energy hungry units.
+Generally a good outstanding unit in a Mono-Electro team composition, along with either Raiden Shogun or Fischl to act as her battery due to her Energy Requirement being high with her Elemental Burst costing 90 Energy. C1 fixes this ER Requirement as it gives 24 Energy upon casting her Elemental Burst with 3 totems up.
+Providing tons of damage in a 2 or more target scenario. C2 makes her burst bounce to more enemies and C6 helps out the entire team with its Electro Shred on top of the Anemo user’s Viridescent Venerer.
+Standard 5* Electro DPS. Low ER Requirement due to her 40 Energy Cost Elemental Burst and her playstyle mostly composing of using it along with her Electro-Infused Normal and Charged Attacks.
+Another Electro unit that can battery for this team composition. Able to provide off-field damage, along with her Constellations,  and good particle generation but her A4 in this specific team composition is inexistent due to no Electro-based Reactions that she can react off.
+Underrated 4* unit. Able to provide a DEF Shred from her A4 and is able to hold TTDS to buff the Electro on-field DPS though she needs to cast her Elemental Burst to proc her A4, which means she needs a strong battery DPS like Raiden Shogun.
+An Electro Buffer that DPS would like, especially Electro DPS due to her C6 Constellation that gives CD% Buff to Electro DPS that catches her Elemental Skill or Elemental Burst Flat ATK buff.
+Provides Elemental DMG Bonus to the entire party and a wide range of grouping with his Elemental Skill.
+Provides an enormous amount of EM for a unit like Yae Miko that benefits due to her A4 and Kuki Shinobu from her A4. C6 also grants her Elemental DMG Bonus party buff.
+Provides a good grouping and Energy for the entire party. Only caveat is that Kuki Shinobu’s Elemental Skill has a 50% chance to hit the enemies feet when being sucked, which can hinder her buffing capabilities with ToM.
+Itto Mono Geo
+Kuki Shinobu being able to provide an Elemental aura to proc Crystallize for Geo Resonance and healing that follow Itto, she is a good candidate for the last spot in his team if Zhongli is not present or is in another team composition. Tenacity of the Millelith can make the Crystallize shield stronger
+Able to provide good off-field DMG and benefits from Gorou entirely. Does not need to cast Elemental Burst as it scales of ATK% and not DEF% unless he is on C2 which adds additional DEF% Scaling on his Elemental Burst.
+A good substitute when Albedo is unavailable as they provide good particle generation and a CR% buff with their C1.
+Able to act as a Burst Secondary DPS as well as giving out Geo DMG% buff through her A4 while also providing the right amount of Geo units needed for Gorou’s kit to fully utilize his buff.
+Superconduct
+Being an Electro unit with heals can replace some of the units that do not excel well in a Superconduct team composition, allowing said units to go to team composition they can maximize their damage while Kuki Shinobu or another Electro Flex replace them.
+Has the biggest Physical Nuke through her Elemental Burst but quite having problems such as funneling particles so batteries are needed when running a team composition with her as the Physical DPS
+Being Electro himself already makes him a good trigger of Superconduct. Kuki Shinobu’s only value to him is her heals, particles from Favonius, and buffs from ToM.
+Able to provide CR%, a good amount of particles, and good Cryo aura application. At C6, able to provide 20% Physical Shred that helps this team composition a lot.
+Good substitute for Rosaria due his particle generation depending if the enemy is frozen or not. His Elemental Burst being the same way as Kuki Shinobu’s Elemental Skill which does not limit the Physical DPS from a certain range makes his value good.
+A4 gives DMG Bonus depending on whether you tap or hold the skill and her Elemental Burst giving out Physical Shred without any Constellation restraint makes her value really good.
+Able to battery heavy Energy hungry Physical on-field DPS such as Eula and be able to act as a secondary DPS for the team. Provides Elemental Burst DMG buff that Eula can also benefit from.
+Excels at 2 targets, she can deal a huge amount of damage in that scenario. Only caveat of her in this team composition is that her ER Requirement will be high and will need a lot of Favonius Procs.
+Gives out Physical DMG% through her A4 and her C4 providing Physical Shred allows her to be functionable in a Superconduct team.
+Only viable if he is C5 and below. Providing a huge Flat ATK increase with heals and can also replace Kuki Shinobu’s spot but can co-exist depending on if you want to maximize the Physical DPS damage.
+Good off-field DMG that allows the Physical on-field DPS to utilize along with her A4. Will need to cast her Elemental Skill 2 times to maintain her Energy for her Elemental Burst consistently.
+Electro-Charged
+Even if she provides a weaker Electro application, Kuki Shinobu can bring her heals and damage to Electro-Charged team compositions, primarily building with Elemental Mastery while not neglecting her healing capabilities. However, her ownership will be quite low if running her as a Solo Electro.
+Consistent Hydro on-field DPS. Really good with this team composition especially with 4PC Thundering Fury as his artifact choice, able to cast his Elemental Skill twice with a decent rotation time.
+Another Hydro on-field DPS that provides high gauges of Hydro as well as a huge nuke damage through his Elemental Burst. Caveats include reasonable timing of Elemental Skill cast to perfectly time CD for next rotation.
+Providing a DMG% buff with her Elemental Burst, she can fill out an on-field DPS option as well as good off-field support buffing capabilities. Do note her Hydro application is not that great but can carry Hakushin Ring that buffs both Electro and Hydro units.
+Hydro off-field DPS with a good buff to provide for the driver of this team composition and also can act as a driver as well due to said buff. A4 fits well with how long the driver will stay on the field and the more they do, the more DMG increase they will get.
+Another Hydro off-field DPS. Able to provide resistance to interruption, good off-field damage, and a ton of Hydro aura to proc Electro-Charged off.
+Good Electro application along with her A4 having no ICD on it. Most Electro-Charged team compositions are required to have her because of what she brings.
+Really strong in this team composition due to the reaction bouncing its damage and her Elemental Burst w/ C2 being able to spread it even more along with her C6 that helps with the Electro RES shred which benefits Electro-Charged.
+Good driver for off-field damage such as Yelan’s Elemental Burst or Xingqiu’s Elemental Burst. Also provides a wide range Elemental Burst DMG buff.
+Good Electro 5* DPS. With 4PC Thundersoother on her, she can make use of this reaction to deal quite a lot of on-field damage in return to what her kit provides.
+Good buffer. Does not need C6 due to only her and Kuki Shinobu will be the only Electro units in the team with a Hydro on-field or off-field and an Anemo unit to carry 4PC VV.
+His Elemental Burst provides a good elemental aura with what it absorbs and his Elemental Skill being able to group enemies together for much more reaction to bounce onto. A4 gives both Electro and Hydro DMG Bonus if perfectly timed double swirls occur.
+Can be played as an Anemo buffer and a driver. Her kit helps to increase Electro-Charged damage to whom the ownership belongs so Hakushin Ring is great to use on her due to how she can buff Anemo, Electro, and Hydro together while it gives ER% for her ER Requirement.
+A good grouper for the reaction itself and a sustainable battery for those units who has a high ER Requirement. Unfortunately, Kuki Shinobu can not hit the enemies consistently in his Elemental Skill.
+VV Holder while doing damage on-field. Will have to lock on the Jet Combo, which consist of him doing
+N1CJP
+to trigger Hydro off-field damage such as Xingqiu Rainswords or Yelan’s Exquisite Throws while Kuki Shinobu’s Elemental Skill follows, heals, and procs Electro for him.
+Overvape
+This team composition allows Overload and Vaporize to be proc in Electro-Charged. However, it isn’t guaranteed due to Kuki Shinobu’s low application of Electro and she might need to cast her Elemental Burst in order to supply the Electro aura needed. Like Electro-Charged team composition, Kuki Shinobu can be built as damage with Elemental Mastery while also not neglecting her healing capabilities.
+Standard 5* Pyro DPS. No ICD on his Elemental Skill so he can Overvape all 3 of his Elemental Skill animations if perfectly timed with Kuki Shinobu’s Elemental Burst with her Elemental Skill.
+Good 4* Pyro DPS Option and able to provide a huge ton of Pyro Aura due to her A4 but for her to trigger Overvape, she needs to hug the enemies so Kuki Shinobu’s Elemental Skill would proc Electro-Charged. However, her C4 gives her survivability due to it giving her a shield that scales of her own Max HP. Her only caveat is that her ER Requirement will be high and a solution for this is to cast her Elemental Burst alternating each rotation.
+With her fast Pyro application, there will be some cases where Pyro aura will be on top and the Hydro/Electro procs it unless running a Double Hydro which negates this case. Nevertheless, able to provide good damage and energy for the team when she does a CRIT hit.
+With her having no ICD on her Elemental Burst, she can proc Vaporize really fast and Overvape when Kuki Shinobu procs Electro into Hydro, giving out Electro-Charged. Will need a high ER Requirement in order to get her Elemental Burst up consistently.
+Allowing Hydro Resonance to be present for stronger heals from Kuki Shinobu, and her A4 DMG buff helps the Pyro DPS on-field to deal higher damage over time.
+Able to bounce off Electro aura for more Electro-Charged to bounce and more Overvape and Overload procs in an AoE and with C2, can give more bounces. Also shreds Electro RES that helps Electro-Charged DMG as well with her C6.
+Able to provide enough Electro to maintain Electro-Charged and proc consistent Overvape due to her A4. Good off-field damage and her Constellation helps entirely with her kit.
+Overload
+Provides the most damage output due to Bennett’s Flat ATK buff and Kuki Shinobu procing the reaction consistently due to her kit’s gauges and ICD. Only downside of this team composition is that it knocks back enemies, giving the team errors of how to play the team composition. Will be played with a Reaction Build for Kuki Shinobu.
+With no ICD on her Elemental Burst, she can provide enough Pyro aura for Kuki Shinobu to trigger and along with Bennett, suffices her ER Requirement and increases her damage overall.
+Driver for this team composition due to her being a catalyst user and fast Pyro Application. Also helps with party members ER Requirement as she generates Energy on every CRIT hit she deals.
+Baseline for every Pyro DPS. Can constantly apply Pyro quickly due to his Elemental Skill having no ICD so perfectly and fast timed casting can lead to all those Pyro aura to become Overload.
+Good 4* option for applying Pyro on-field. Needs to hug the enemies to be able to trigger Overload with Kuki Shinobu’s Elemental Skill but with her C4, she can hug safely without taking damage due to it granting her a shield.
+Provides enough Pyro for Kuki Shinobu to proc Overload and with C6 Bennett, can also act as a Pyro driver without losing her potential damage if built properly for this team composition specifically.
+Absorbing Pyro for Kuki Shinobu to consistently Overload and increase the damage of all the Pyro units. He also gets the DMG Bonus due to some of his kit damage based on that specific element and with his C2, allowing to have a wide party EM buff that Kuki Shinobu benefits from.
+Able to give Kuki Shinobu a huge amount of EM for her Overload. Along with her C6, she can act the same way as C0 Kazuha but much better due to the wide party EM buff she gives.
+Only a battery and VV holder for this type of team composition. Kuki Shinobu’s Elemental Burst will be the only ability that can guarantee hits on his Elemental Burst while Kuki Shinobu can not hit enemies consistently in his Elemental Skill.
+Sunfire
+is one of the most unique techs in the game as it provides a fast Pyro application. This will require her and Bennett to be together and with Kuki Shinobu, it is a bit overkill on the healing but it works for this team composition.
+Physical
+Focusing on the Physical Combos, this team composition allows Kuki Shinobu’s Normal Attack to shine. This team composition is for the people who like white numbers and is not recommended to play. Slight issue of this team composition is its ER Requirement for the supports.
+Able to provide Physical Shred through her C6, her value on this team composition is valuable. Provides CR% and good amounts of particles with Favonius Lance.
+Substitute for Rosaria as he is not bounded by Circle Impact and allows him to carry Favonius Sword to act as a battery for the supports and himself.
+Dedicated Healer as Kuki Shinobu will focus more on dealing Physical DMG. Provides a decent shield with an insane amount of particle generation.
+Her Elemental Burst provides Physical and Cryo RES shred that enables the Cryo unit and Kuki Shinobu to deal more damage as well as her kit overall focusing on every aspect of these two roles.
+Only viable at C5 as he brings a huge Flat ATK buff as well as healing that makes him quite a unit to put into team compositions.
+Can be used as a support or a secondary DPS for this team composition. With her A4, it allows Kuki Shinobu to survive with the shield to proc the passive and the added Physical DMG Bonus buff to go along with it and her C4 providing Physical Shred.
+Able to give out a DMG% buff for Kuki Shinobu to utilize while being on-field makes her value on this team composition quite decent. Along with providing Freeze for enemies that are freezable makes her viable as a flex option.
+Provides good off-field damage and enables Freeze to be in the play of this team composition as well as providing stagger resistance through his Rainswords.
+Has the thickest shield in the game and is able to provide both Physical and Elemental Shred to the team composition. With Yunjin, he also activates Geo Resonance which helps the damage of this team composition while being shielded.
+Deviant
+Similar to Physical but infusing Kuki Shinobu’s Normal and Charged Attack with elements such as Pyro or Cryo. This team composition is only shown for people who wants to play it. Only issue that this team composition has is the ER Requirements of the supports.
+Has to be C6 in order for this team composition to work. Allowing Kuki Shinobu’s Normal Attack to be Pyro Infused with her carrying a Pyro DMG% Goblet on top of the 15% Pyro DMG Bonus that C6 gives.
+Able to give Kuki Shinobu Cryo Infusion, allowing her to deal Cryo DMG with a Cryo DMG% Goblet. If Shenhe is in the party, he can also deal a good amount of damage for the team composition.
+Can work with both Chongyun and Bennett as she provides a Flat DMG buff for Normal Attacks only and with 4 elements dividing the team composition, maximizes her A4 passive.
+Most efficient with Chongyun as her kit can buff Cryo DMG through her Flat DMG buff, which means Chongyun’s personal damage will increase. Can also work with Bennett because of her A4 passive.
+Able to provide Elemental DMG% buff through his A4 to buff Kuki Shinobu’s deviant damage up as well as the supports who are able to provide the deviant damage for Kuki Shinobu.
+Substitute for Kazuha when he is unavailable. Able to provide EM for Kuki Shinobu’s Overload/Superconduct DMG and at C6, able to give out Elemental DMG% when it absorbs an element.
+Kuki Shinobu Resources
+Credits:
+Emiliabyss (Guidance and Co-Author)
+rockidayo from Kuki Shinobu Mains (Addition of info about certain criterias.)
+KQM TCer’s and WFP TC Staff (Suggestions and Comments regarding this Guide.)
+Kuki Shinobu Mastersheet
+by
+Akane
+Emiliabyss
+Tsubasa
+Jrm.spirit
+Sitri
+KB
+elijam
+Kuki Shinobu TCL
+by:
+Keqing Mains
+Artworks by:
+@panosarts
+@莓子
+@podel_1
+@RIVER
+@Sesield
+@闇色硝子
+Chibi Emotes by:
+Genshin Impact Official Emote
+Closing Thoughts
+Hello! Akane speaking. It was quite fun doing my first guide and unexpectedly liked her all the way till the end, even though she lacked in some factors. Super proud of her outcome overall and how she performs in the game currently. I look forward to the future of me making more guides and not overblowing my brains out.Special thanks to Emi and everyone in WFP for guiding me all the way until now, to rockidayo from Kuki Shinobu Mains for pointing out missed info I have not inputted, and to KQM TCers for their comment and suggestions with the guide and teaching me how to improve on making one. It was a lot of fun making Kuki Shinobu’s FAQ and Guide for WFP so without further ado, you have reached the end of the Kuki Shinobu Guide. As a reward, have a Cookie Shinobu.
+- Akane
+Art by:
+Sesield
+Edit this page on GitHub
+Enable hardware acceleration for the best site performance | Built using
+and
+Wangsheng Funeral Parlor is in no way sponsored, endorsed or administered by or associated with miHoYo Co., Ltd.
+Introduction
+Character Overview
+Equipment
+Team Compositions

@@ -1,0 +1,136 @@
+Genshin Impact – Dahlia build and materials guide
+Find the best weapons and artifacts for Dahlia in Genshin Impact.
+By
+Marco Wutz
+| Jun 17, 2025
+HoYoverse
+Praise Barbatos with the
+best Genshin Impact Dahlia build
+and keep your flock protected. Dahlia is a 4-Star Hydro character fighting with a Sword and specializes in a Support role.
+Table of Contents
+Best Dahlia weapons – Genshin Impact
+Best Dahlia artifacts – Genshin Impact
+Best Dahlia teams – Genshin Impact
+Dahlia ascension materials – Genshin Impact
+Dahlia’s Elemental Skill, Immersive Ordinance, summons a Sacramental Shower that explodes and deals Hydro DMG upon touching enemies. If it touches an ally, however, it catapults them into the air, allowing them to execute a Plunging Attack. Tapping the Skill simply summons the Shower in front of Dahlia, while holding the Skill allows for manual targeting.
+His Elemental Burst, Radiant Psalter, deals Hydro DMG in an area of effect and bestows the Shield of Sacred Favor, its strength based on Dahlia’s Max HP, as well as the Favonian Favor effect onto the active character. Favonian Favor increases the active character’s ATK SPD based on Dahlia’s Max HP and enables Dahlia to re-summon the Shield of Sacred Favor as long as he has Benison to consume.
+Benison is gained whenever a character benefiting from Favonian Favor lands four hits with their Basic Attack or triggers the Freeze reaction.
+Unlocking Dahlia’s Constellation by obtaining duplicates of him provides additional bonuses.
+Level
+Effects
+1
+- Dahlia restores Energy whenever he gains a Radiant Psalter Benison stack.
+2
+- The character protected by Dahlia’s Shield of Sacred Favor temporarily gains increased Shield Strength after he consumes Radiant Psalter Benison.
+3
+- +3 Elemental Burst Level, up to a maximum of 15.
+4
+- Increases the duration of Dahlia’s Elemental Burst’s Favonian Favor by 3s.
+5
+- +3 Elemental Skill Level, up to a maximum of 15.
+6
+- Increases the active character’s ATK SPD by 10% when they’re affected by Favonian Favor.
+- Every 15m, an active character affected by Favonian Favor gets revived with full HP in case they’re taken down.
+Best Dahlia weapons – Genshin Impact
+Dahlia’s main utility is in his Elemental Burst, so Energy Recharge is a massive concern for him — a question that can be addressed through his weapon. Choosing the Favonius Sword will be of immense help, bolstering the speed at which Dahlia can charge up his Burst.
+Best weapons for Dahlia in Genshin Impact
+:
+Favonius Sword
+(4-Star)
+Skyward Blade
+(5-Star)
+Key of Khaj-Nisut
+(5-Star)
+Sacrificial Sword
+(4-Star)
+Fleuve Cendre Ferryman
+(4-Star)
+Best Dahlia artifacts – Genshin Impact
+Energy Recharge and HP are your main priorities when it comes to Dahlia’s stats, since they directly influence how often he can generate his shield and how strong it will be. He’s never going to deal a whole lot of damage, so the rest of the stats are pretty irrelevant, but aim for a robust CRIT Rate if you’re using Favonius Sword, as Dahlia needs to land critical hits to gain extra Energy from the weapon.
+Best Artifact Sets for Dahlia in Genshin Impact
+:
+Tenacity of the Millelith
+(2) +
+Emblem of Severed Fate
+(2) – +20% HP, +20% Energy Recharge.
+Noblesse Oblige
+(4) – +20% Elemental Burst DMG, +20% ATK for all allies for 12s after the wearer uses their Elemental Burst.
+Best stats for Dahlia in Genshin Impact
+:
+Flower:
+HP
+(main stat), HP %, Energy Recharge, CRIT Rate, CRIT DMG
+Plume:
+Attack
+(main stat), HP %, Energy Recharge, CRIT Rate, HP
+Sands:
+HP %
+(main stat), Energy Recharge, CRIT Rate, CRIT DMG, HP
+Goblet:
+HP %
+(main stat), Energy Recharge, CRIT Rate, CRIT DMG, HP
+Circlet:
+HP %
+(main stat), Energy Recharge, CRIT Rate, CRIT DMG, HP
+Best Dahlia teams – Genshin Impact
+Dahlia certainly shines most in Freeze teams, which often features Main DPS characters who source much of their damage for Basic Attacks — exactly the area he can bolster.
+Skirk
+(Main DPS),
+Furina
+(Sub DPS),
+Shenhe
+(Support),
+Dahlia
+(Support)
+Skirk
+is a Main DPS of the archetype mentioned above: She hits enemies with her Basic Attack while they are frozen, so Dahlia’s ATK SPD buff will come in very handy for her — as will his shield.
+Furina
+provides the necessary off-field Hydro application to Freeze enemies and Shenhe bestows Cryo-related buffs on the team.
+Dahlia ascension materials – Genshin Impact
+You’ll want to quickly raise Dahlia’s level when you finally get him, which means that you’ll need to farm his ascension materials. You’ll also require some material to upgrade his talents.
+Here’s what you need to get Dahlia to level 90:
+Varunada Lazurite Sliver
+x1
+Varunada Lazurite Fragment
+x9
+Varunada Lazurite Chunk
+x9
+Varunada Lazurite Gemstone
+x6
+Firm Arrowhead
+x18
+Sharp Arrowhead
+x30
+Weathered Arrowhead
+x36
+Calla Lily
+x168
+Secret Source Airflow Accumulator
+x46
+Mora
+x2,092,530
+Varunada Lazurite drops from Hydro-affiliated bosses, such as Rhodeia of Loch or the Secret Source Automaton: Oversee Device — and that’s very opportune, since you need to defeat this machine anyway to collect Secret Source Airflow Accumulators. Arrowheads drop from Hillichurl crossbowmen. Calla Lilies are a common flower growing in Mondstadt, especially near Springvale. The best way to earn more Mora is to farm golden Ley Line Blossoms.
+Here’s what you need to upgrade all of Dahlia’s abilities to their maximum level:
+Firm Arrowhead
+x18
+Sharp Arrowhead
+x66
+Weathered Arrowhead
+x93
+Teachings of Ballad
+x9
+Guide to Ballad
+x63
+Philosophies of Ballad
+x114
+Eroded Scale-Feather
+x18
+Crown of Insight
+x3
+Mora
+x4,957,500
+For the materials already mentioned, check above. Books of Ballad are obtained from the Forsaken Rift Domain to the south of Springvale on Wednesday, Saturday, and Sunday, while the Rings of Boreas you require have to be won from battling Andrius, the Wolf of the North, in the grand arena-like ruin he uses as his lair. Crowns of Insight are a rare item gained from time-limited events or regional reward mechanics like Inazuma’s Grand Narukami Shrine, the Tree of Dreams in Sumeru, the Fountain of Lucine in Fontaine, or the Tablet of Tona in Natlan.
+Next. Genshin Impact – All current and upcoming characters. Genshin Impact – All current and upcoming characters. dark
+Home
+/
+Guides

@@ -1,0 +1,276 @@
+Task Search
+Checklists
+Guides
+Markers
+Videos
+Sort and Filter
+No Results
+Checklists
+New Checklist
+All Lists
+My Checklists
+All
+All Lists
+My Checklists
+How creative can you get with your first free checklist?
+Create a free account
+All Interactive Maps and Locations
+Genshin Impact Lan Yan Build Guide - Best Weapons, Artifacts, and Teams
+By
+Cedric Pabriga
+,
+Jen Rothery
+,
+Triforce
+,
++30 more
+Updated
+:
+Jan 27, 2025 4:46pm UTC
+Lan Yan is a new 4-star character released in 2025’s Lantern Rite event, who is the first character of her kind: an Anemo shielding support, who also consolidates several other roles together. Not only this, she also does her job without requiring any constellations or expensive weapons! This guide to the best Genshin Impact Lan Yan build will explain the best weapons, artifact sets, constellations, and team compositions for Lan Yan.
+Lan Yan
+Rarity:
+★★★★
+Element:
+Anemo
+Weapon:
+Catalyst
+Table of Contents:
+How to Get Lan Yan
+Lan Yan Gameplay Overview
+Lan Yan Talents and Attack Combos
+Lan Yan Constellation Analysis
+Lan Yan's Best Weapons
+Lan Yan's Best Artifacts
+Lan Yan's Best Teams
+How to Get Lan Yan in Genshin Impact
+Lan Yan is 4-star character available for free selection during Lantern Rite 2025. She is also occasionally featured as a 4-star character on certain 5-star banners. However, after Lantern Rite 2025, she is available on any banner at a low pick-up rate.
+Genshin Lan Yan Gameplay Overview
+Element:
+Anemo
+Weapon:
+Catalyst
+Rarity:
+4-star
+Lan Yan is a simple character. Specifically, she consolidates the
+buffer/debuffer role
+and the
+shielder role
+, enabling your On-Field DPS to enact their combos uninterrupted. She is also the very first Anemo shielder. Furthermore, Lan Yan’s shield can absorb an element for better protection and increased personal damage.
+All you need to maximize Lan Yan’s efficiency is her Skill, which is what generates the shield. While her Burst does offer some crowd control, like many other Anemo characters, this grouping is not very efficient, the damage is negligible, and the Energy Recharge needed to use her Burst consistently is above 200%.
+Being a Catalyst-wielder, Lan Yan has many solid support weapons; most of which are extremely F2P friendly, and require almost no wishes at all. Thrilling Tales of Dragon Slayer, at max refinement, is a 3-star weapon that boosts the next teammate’s ATK by 48% for 10s, once every 20s. When used correctly, this outshines even the potential of most 5-star support weapons. For healing, you can craft Prototype Amber, or you can equip any Elemental Mastery Catalyst if you want to maximize her reaction damage. However, ATK% across the board, or ATK%, Anemo DMG, CRIT are the best stat layouts on artifact sets for her.
+Lan Yan, in summation, is a strong 4-star support who can satisfy multiple roles at once: shielding, shredding resistances with the Viridescent Venerer artifact set, and buffing or healing teammates depending on the weapon equipped. Being an Anemo character makes her an excellent teammate for many on-field DPS’s in the Pyro, Electro, Cryo, and Hydro elements.
+Stats Worth Consideration
+ATK%
+: This is the stat Lan Yan’s damage and shield scales with
+Energy Recharge (Optional)
+: This ensures you can reliably Burst every rotation for enemy grouping. Building to Burst will lower damage and shielding potential, and Lan Yan’s ER requirements can easily reach over 200%.
+Anemo DMG% (Optional
+: This is the element Lan Yan’s damage is aligned with.
+CRIT Rate + DMG (Optional)
+: This is the stat Lan Yan’s damage scales with
+Nothing but EM (alternate build)
+: This is to maximize the damage from transformative reactions like Electro-Charged and Hyperbloom.
+For any character devoted to building damage, it is important to prioritize a 1-to-2 ratio between CRIT Rate and CRIT DMG. 1-3 ratios, while they may give dopamine through bigger Crit numbers, is actually less damage overall. Aim for 75;150 in most cases!
+Genshin Lan Yan Talents and Attack Combos
+Your talent-levelling priority should be Skill > Burst.
+Normal Attack
+Lan Yan will rarely focus on her Normal Attacks, unless she plays a role like Sucrose, where her building Elemental Mastery and being a catalyst-wielder allows her to trigger transformative reactions consistently. Even then, Elemental Mastery is more important than this talent level.
+Basically, only level this talent if you’re going against the mold and really want to use her on-field.
+Elemental Skill
+There are two versions of Lan Yan’s Skill: tap and hold.
+When
+tapping
+the Skill input, Lan Yan will dash forward and generate an Anemo shield with strength based on her ATK stat at time of use, and if she hits an enemy, she’ll leap in the air. While in the air, hitting an attack input, including her Skill a second time, will attack the enemy a second time.
+While
+holding
+the Skill input, Lan Yan can aim where she dashes, including vertically.
+Energy from this attack is only generated after the follow-up attack, so it is very important to use the follow-up every time, even if she isn’t building to Burst.
+Additionally, since the shield scales with ATK at time of cast, it synergizes with ATK buffs like Bennett’s Burst, offering a much stronger shield.
+This is the most important part of Lan Yan’s kit, so it’s advised to level this talent with the highest priority.
+Elemental Burst
+The Burst, when used, deals three instances of Anemo damage while also offering a single instance of moderate enemy grouping. It doesn’t do much damage, and the grouping isn’t strong like Sucrose or Kazuha’s grouping abilities, so building to Burst isn’t necessarily, especially considering her voracious energy needs.
+Lan Yan
+Passives
+Next, come their passives.
+On the dash from her Skill, she can absorb an element into her shield, which will protect extra well against that element. The follow up attack will also do additional instances of damage based on the absorbed element at half strength.
+The Elemental Skill Swallow-Wisp Pinion Dance and the Elemental Burst Lustrous Moonrise deal increased DMG equal to 309% and 774% of Lan Yan's Elemental Mastery respectively.
+Finally, when Lan Yan is in the party, Crystalflies and other sensitive animals will not run away from you as you approach them.
+Lan Yan
+Field Time Inputs
+Lan Yan’s field time should be executed as such:
+Lan Yan Skill
+Lan Yan Burst (optional)
+Swap to someone else.
+Genshin Lan Yan Constellation Analysis
+Lan Yan appreciates having Constellations, due to being a 4-star character. However, none of her Constellations are essential to her playstyle. Good stopping points are C2 and C6.
+Constellation Name
+Abbreviated In-Game Description
+Notes
+C1.
+When the Skill absorbs an element, it generates an extra projectile to throw in the follow-up attack.
+It’s nice if you care about her damage, but much of the time, you care most about her shield.
+C2.
+While the shield is active, when your active party member's Normal Attacks deal DMG, 40% of the Shield's DMG absorption will be restored, up to its original maximum absorption. This effect can occur once every 2s.
+Zero damage improvement, but a great quality-of-life improvement to the most important part of her kit. She will likely be paired with Normal Attacking on-field DPS units anyways, so triggering this passive will be trivial. Even when not, weaving in a single Normal Attack between character swaps will enhance the shield at little cost in time or effort.
+C3.
+Increase Skill talent level by 3.
+The most important part of their kit, but the damage remains unimpressive. What matters is the enhanced shield strength
+C4.
+After Lan Yan uses her Elemental Burst Lustrous Moonrise, the Elemental Mastery of all nearby party members increases by 60 for 12s.
+A welcome bonus, but 60 EM is awfully low for a C4, when Sucrose can often share 200 EM with the team.
+C5.
+Increases Burst talent level by 3.
+Negligible; nothing really to see here.
+C6.
+Skill gains an extra charge
+This allows near-perpetual shield-uptime, if you time her Skill uses well. It also enhances her damage, for when you care about that.
+Genshin Lan Yan's Best Weapons
+Lan Yan’s is extremely F2P friendly. While her best weapon is Citlali’s signature weapon, the other best weapons do not follow far behind, and every single one of them is craftable or otherwise free.
+Weapon Name
+Abbreviated In-Game Description
+Notes
+Starcaller's Watch
+265 EM
+Increases Elemental Mastery by 100. Gain the "Mirror of Night" effect within 15s after the equipping character creates a shield: The current active party member deals 28% increased DMG to nearby opponents. You can gain the "Mirror of Night" effect once every 14s.
+Best-in-Slot
+An excellent choice for if you find it to be worth the primogems. The DMG bonus is basically universal. Use this is you’re trying to buff characters that don’t utilize their ATK stat, like Neuvillette.
+Thrilling Tales of Dragon Slayer (R5)
+35.2% HP
+When switching characters, the new character taking the field has their ATK increased by 48% for 10s. This effect can only occur once every 20s.
+Budget Best-In-Slot
+Comparable to Citlali’s signature weapon in teams where the on-field DPS utilizes their ATK stat. You get about 80% of the results of the signature for zero primogems, which is a really great deal. Just remember to plot out your rotations so you always swap from Lan Yan to your main DPS, otherwise, the buff will be wasted for the rotation. Some other options include the craftable weapons Hakushin Ring and Prototype Amber, but generally speaking, TTDS is the best bang for buck.
+Genshin Lan Yan's Best Artifacts
+Sands
+– ATK%, ER%, or EM, depending on needs.
+Goblet
+– ATK%, Anemo DMG% or EM
+Circlet
+– ATK%, CRIT% or EM
+Whether you go for personal damage (ATK%, DMG%, CRIT), reaction-driving (EM across the board), or shielding (ATK% across the board), the best artifact set does not change. Viridescent Venerer is the best option, and nothing else comes close.
+Artifact Set Name
+Abbreviated In-Game Description
+Notes
+4pc Viridescent Venerer
+2pc: 15% Anemo DMG.
+4pc: Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s.
+Best-in-Slot
+This is the default set option for nearly every Anemo character, and you’ll need extremely good reason to take something else in place of this. Resistance shred is a very rare debuff and contributes a lot to team DPS.
+Genshin Lan Yan's Best Teams
+Anemo characters buff basically any Pyro, Electro, Cryo, or Hydro (PECH) character, and shielders want to be paired with… characters who want or need shields to perform their job best. This means your on-field DPS will probably be an archer like Ganyu, Yoimiya, or Lyney, or some Normal Attack-focused DPS like Arlecchino.
+Because of this versatility, and the emphasis on these types of DPS’s, team compositions will revolve more around what synergizes best with the on-field DPS. Check their guides through the links in the Specific Teammate Choices below.
+Guide Character
+PECH On-Field DPS
+Flex
+Flex/Bennett
+Specific Teammate Choices
+Teammate Choices
+Character Name
+Notes
+Character Name
+Notes
+Bennett
+Support / Healer
+C1+ Recommended
+Huge Teamwide Flat ATK Buff
+Rapid Healing Within AoE
+Great Pyro energy supplier
+Short Cooldowns on Skill/Burst
+Accessible via Paimon's Bargains
+Mavuika
+Pyro DPS
+Incredible damage when paired with Natlan characters.
+Slow Pyro application works well with Forward Melt reactions.
+No energy requirements
+Perhaps the strongest Pyro DPS at time of writing.
+Arlecchino
+Pyro On-Field DPS
+Extremely potent Pyro DPS
+No energy requirement
+Benefits from having a shield
+Can Forward Melt thanks to standard ICD on infused attacks.
+Yoimiya
+On-Field Pyro DPS
+Normal-Attack based
+Operates best with a shield
+Great when paired with coordinated attackers.
+Furina
+Off-Field DPS / Support
+Large, universal DMG% buff as long as you have a healer.
+Great personal damage while off-field.
+Decent Hydro application
+Great for long rotations due to long Skill duration.
+Xilonen
+Support
+Natlan character who can hold 4pc Scroll of Cinder City for massive teamwide buffs
+Multiple elemental resistance-shred
+Near-universal Pyro/Electro/Cryo/Hydro buffer
+Extremely flexible
+Often wields Favonius Sword for energy generation.
+Hu Tao
+On-Field Pyro DPS
+Extremely powerful pair with Xingqiu
+Wants a shielder teammate
+Low Current HP = high damage
+Normal and Charged Attack-based damage
+Ganyu
+On-Field Cryo DPS
+Aimed Shot DPS
+Wants a shielder teammate
+Flexible; can also be played as an off-field DPS.
+Great in Freeze teams and Melt teams
+Keqing
+On-Field Electro DPS
+Enables extremely short rotations
+Fantastic in Quicken teams
+Low cooldowns on Skill and Burst
+Applies many instances of Electro aura at once.
+Mualani
+On-Field Hydro DPS
+Natlan character who adds Fighting Spirit for Mavuika
+Perhaps the first and only character designed for Forward Vaporize
+Great on-field damage.
+Xingqiu
+Off-Field Hydro DPS
+Consistent Hydro application to ensure reactions.
+Interruption resistance
+Minor healing
+Excellent single-target damage output.
+Paired with Yelan, can often carry a team by themselves.
+Lyney
+On-Field Pyro DPS
+Aimed Shot DPS
+Best in Mono-Pyro teams
+Wants a shielder teammate
+Clorinde
+On-Field Electro DPS
+Potent On-Field damage
+High mobility
+Low energy recharge needs
+Excellent with Dendro teammates.
+Wriothesley
+On-Field Cryo DPS
+Deals damage through Normal Attacks
+Good in Melt and Freeze teams
+Can benefit from a shielder
+Up Next:
+Genshin Impact Mavuika Build Guide - Best Weapons, Artifacts, and Teams
+Previous
+Genshin Varesa Build Guide: Best Weapons, Artifacts, and Teams
+Next
+Genshin Impact Mavuika Build Guide - Best Weapons, Artifacts, and Teams
+Top Guide Sections
+Genshin Impact Luna VI Details and Patch Notes
+Genshin Impact Luna IV Release Time and Details
+Genshin Impact Luna III Details and Patch Notes
+Genshin Impact Luna II Release Date and Details
+Was this guide helpful?
+Leave feedback
+In This Guide
+Genshin Impact
+HoYoverse
+Initial Release:
+Sep 27, 2020
++2
+Learn more
+Go to comments

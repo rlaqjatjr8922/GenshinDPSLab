@@ -1,0 +1,183 @@
+Genshin Impact Dori Build
+Electro
+Claymore
+Support
+Dori Upgrade Materials
+Ingenuity
+Bloodjade Branch
+Vajrada Amethyst Sliver
+Thunderclap Fruitcore
+Kalpalata Lotus
+Faded Red Satin
+Dori Best Weapons
+1
+Favonius Greatsword
+2
+Sacrificial Greatsword
+3
+Katsuragikiri Nagamasa
+4
+Forest Regalia
+5
+Skyward Pride
+Dori Best Artifacts
+1
+Noblesse Oblige
+4
+2
+Deepwood Memories
+4
+3
+Instructor
+4
+4
+The Exile
+4
+5
+Emblem of Severed Fate
+2
+The Exile
+2
+Dori Best Stats
+Sands:
+Energy Recharge / HP% / Elemental Mastery
+Goblet:
+HP% / Elemental Mastery
+Circlet:
+Healing Bonus / HP% / Elemental Mastery
+Substats:
+Energy Recharge > HP% > Elemental Mastery
+Character Builds by Genshin Impact Helper →
+Showcase
+Teams
+Talents
+Passives
+Constellations
+Ascension
+Dori Showcase
+Dori video guide by
+Zy0x
+.
+Check out his content!
+Best Dori Teams
+Fischl Quickswap Aggravate
+Dori Talents
+Normal Attack
+Marvelous Sword-Dance
+Normal Attack Performs up to 3 consecutive strikes. Charged Attack Drains Stamina over time to perform continuous spinning attacks against all nearby opponents. At the end of the sequence, performs a more powerful slash. Plunging Attack Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Elemental Skill
+Spirit-Warding Lamp: Troubleshooter Cannon
+Directs a Spirit-Warding Lamp to fire off Troubleshooter Shots at opponents, dealing
+Electro
+DMG. When Troubleshooter Shots hit opponents, they will create 2 After-Sales Service Rounds that will automatically track opponents and deal
+Electro
+DMG.
+Elemental Burst
+Alcazarzaray's Exactitude
+Summons forth the Jinni within the lamp to give the client various kinds of aid. Jinni Connects to a nearby character. The connected character will: Continuously restore HP based on Dori's Max HP. Continuously regenerate Energy. Be affected by Electro. When the connector between the Jinni and the character touches opponents, it will deal one instance of
+Electro
+DMG to them every 0.4s. Only one Jinni can exist at one time.
+Dori Passives
+Ascension 1
+An Eye for Gold
+After a character connected to the Jinni triggers an Electro-Charged, Superconduct, Overloaded, Quicken, Aggravate, Hyperbloom, or an
+Electro
+Swirl or Crystallize reaction, the CD of Spirit-Warding Lamp: Troubleshooter Cannon is decreased by 1s. This effect can be triggered once every 3s.
+Ascension 4
+Compound Interest
+When the Troubleshooter Shots or After-Sales Service Rounds from Spirit-Warding Lamp: Troubleshooter Cannon hit opponents, Dori will restore 5 Elemental Energy for every 100% Energy Recharge possessed. Per Spirit-Warding Lamp: Troubleshooter Cannon, only one instance of Energy restoration can be triggered and a maximum of 15 Energy can be restored this way.
+Passive
+Unexpected Order
+When Dori crafts Character and Weapon Enhancement Materials, she has a chance to refund a portion of the crafting materials used.
+Dori Constellations
+Constellation 1
+Additional Investment
+The number of After-Sales Service Rounds created by Troubleshooter Shots is increased by 1.
+Constellation 2
+Special Franchise
+When you are in combat and the Jinni heals the character it is connected to, it will fire a Jinni Toop from that character's position that deals 50% of Dori's ATK DMG.
+Constellation 3
+Wonders Never Cease
+Increases the Level of Alcazarzaray's Exactitude by 3. Maximum upgrade level is 15.
+Constellation 4
+Discretionary Supplement
+The character connected to the Jinni will obtain the following buffs based on their current HP and Energy: When their HP is lower than 50%, they gain 50% Incoming Healing Bonus. When their Energy is less than 50%, they gain 30% Energy Recharge.
+Constellation 5
+Value for Mora
+Increases the level of Spirit-Warding Lamp: Troubleshooter Cannon by 3. Maximum upgrade level is 15.
+Constellation 6
+Sprinkling Weight
+Dori gains the following effects for 3s after using Spirit-Warding Lamp: Troubleshooter Cannon: Electro Infusion. When Normal Attacks hit opponents, all nearby party members will heal HP equivalent to 4% of Dori's Max HP. This type of healing can occur once every 0.1s.
+Dori Ascension Costs
+Rank
+Lvl
+Cost
+Material
+Material
+Material
+Material
+1
+20
+20000
+1
+Vajrada Amethyst Sliver
+3
+Kalpalata Lotus
+3
+Faded Red Satin
+2
+40
+40000
+3
+Vajrada Amethyst Fragment
+2
+Thunderclap Fruitcore
+10
+Kalpalata Lotus
+15
+Faded Red Satin
+3
+50
+60000
+6
+Vajrada Amethyst Fragment
+4
+Thunderclap Fruitcore
+20
+Kalpalata Lotus
+12
+Trimmed Red Silk
+4
+60
+80000
+3
+Vajrada Amethyst Chunk
+8
+Thunderclap Fruitcore
+30
+Kalpalata Lotus
+18
+Trimmed Red Silk
+5
+70
+100000
+6
+Vajrada Amethyst Chunk
+12
+Thunderclap Fruitcore
+45
+Kalpalata Lotus
+12
+Rich Red Brocade
+6
+80
+120000
+6
+Vajrada Amethyst Gemstone
+20
+Thunderclap Fruitcore
+60
+Kalpalata Lotus
+24
+Rich Red Brocade
+Loading...

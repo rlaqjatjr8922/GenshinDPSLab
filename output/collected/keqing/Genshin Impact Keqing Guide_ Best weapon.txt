@@ -1,0 +1,170 @@
+Genshin Impact
+is an
+adventure
+RPG
+released by
+miHoyo
+in 2020. In a short period, the game has become one of the most successful adventures RPG titles ever to have been released. This guide will be looking into one of the most popular characters,
+Keqing
+in Genshin Impact, her best weapons, artifacts, and materials required for her ascension.
+Keqing: Playstyle and skill-set of the character
+Being one of the members of the Liyue Qixing, we get to see her during the Archon Quests involving the state of disarray of Liyue due to the “death” of their God, Rex Lapis. She’s one of the playable characters that is considered as a very strong main DPS that can dish out huge amounts of damage to enemies.
+Name/Description
+Type
+Yunlai Swordsmanship
+Normal
+Attack
+Perform up to 5 consecutive rapid strikes with a sword
+Yunlai Swordsmanship
+Charged  Attack
+Consumes a certain amount of Stamina to unleash 2 rapid sword strikes
+Yunlai Swordsmanship
+Plunge   Attack
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Stellar Restoration
+Elemental Skill
+Hurls a Lightning Stiletto that annihilates her opponents like the swift thunder. When the Stiletto hits its target, it deals Electro DMG to opponents in a small AoE, and places a Stiletto Mark on the spot hit.
+Hold
+to adjust the direction in which the Stiletto shall be thrown. Stilettos thrown by the Hold attack mode can be suspended in mid-air, allowing Keqing to jump to them when using Stellar Restoration a second time.
+Lightning Stiletto
+Elemental  Skill
+If Keqing uses Stellar Restoration again or uses a Charged Attack while its duration lasts, it will clear the Stiletto Mark and produce different effects:   If she uses Stellar Restoration again, she will blink to the location of the Mark and unleash one slashing attack that deals AoE Electro DMG. When linking to a Stiletto that was thrown from a Holding attack, Keqing can leap across obstructing terrain. If Keqing uses a Charged Attack, she will ignite a series of thundering cuts at Mark’s location, dealing AoE Electro DMG.
+Starward Sword
+Elemental Burst
+Keqing unleashes the power of lightning, dealing Electro DMG in an AoE. She then blends into the shadow of her blade, striking a series of thunderclap-blows to nearby opponents simultaneously that deal with multiple instances of Electro DMG. The final attack deals with massive AoE Electro DMG.
+Keqing’s Passive
+Keqing’s playstyle can go into two different types: either electro build or physical build. While both builds provide insane amounts of damage, they differ with the use of her kit. Her electro builds mostly focuses on her abilities to provide DPS and when combined with certain characters, this build shines the most because of the elemental reactions that it can provide when fighting enemies.
+In contrast, with a low damage output of elemental skill and elemental burst in the physical build, her playstyle mostly consists of her swift charged attacks. Mastery of the charge attacks will be crucial in providing huge physical damage in a short amount of time.
+Name/Description
+Type
+Thundering Penance
+After recasting Stellar Restoration while a Lightning Stiletto is present, Keqing’s weapon gains an Electro Infusion for 5s.
+1st Ascension Passive
+Aristocratic Dignity
+When casting Starward Sword, Keqing’s CRIT Rate is increased by 15%, and her Energy Recharge is increased by 15%. This effect lasts for 8s.
+4th Ascension Passive
+Land’s Overseer
+When dispatched on an expedition in Liyue, time consumed is reduced by 25%.
+Utility Passive
+Artifacts sets to farm for Keqing in Genshin Impact
+The most recommended artifact sets for Keqing for Electro build are:
+2-piece set Thundering Fury
+and
+2-piece set Gladiator’s Finale
+. Aside from that, you can also try the
+4-piece set Thundersoother
+if you have characters like Fischl where you constantly apply Electro Damage. Thus further boosting your damage output due to the 4-piece set passive.
+The most recommended artifact set for the Physical build is:
+2-piece set Bloodstained Chivalry
+and
+2-piece set Gladiator’s Finale
+. It’s understandable that Gladiator’s Finale is hard to obtain in general, so it’s possible if you get
+2-piece set Bloodstained Chivalry
+and
+2-piece set Pale Flame
+for the increased physical damage bonus, or use
+2-piece set Bloodstained Chivalry
+and the new
+2-piece set Shimenawa’s Reminiscence
+available in Inazuma as a replacement for the Attack% passive of Gladiator’s Finale.
+Artifacts stats
+Artifact
+Main Stat
+Sub Stat
+Flower
+Health (Default Stat)
+CRIT DMG
+CRIT Rate ATK ATK%
+Plume
+ATK (Default Stat)
+CRIT DMG
+CRIT Rate ATK ATK%
+Sands
+ATK%
+CRIT DMG
+CRIT Rate ATK ATK%
+Goblet
+Electro DMG Bonus or Physical DMG Bonus (Depending on your build)
+CRIT DMG
+CRIT Rate ATK ATK%
+Circlet
+CRIT DMG or CRIT Rate
+CRIT DMG
+CRIT Rate ATK ATK%
+Materials required for ascension of Keqing
+Genshin Impact Keqing materials
+The material needed to ascend Keqing from Level 1 to Level 90 are as follows:
+1
+Vajrada Amethyst Silver
+9
+Vajrada Amethyst Fragment
+9
+Vajrada Amethyst Chunk
+6
+Vajrada Amethyst Gemstone
+48
+Lightning Prism
+18
+Whopperflower Nectar
+30
+Shimmering Nectar
+36
+Energy Nectar
+168
+Cor Lapis
+420,000
+Mora
+Experience
+414 Hero’s wit, 13 Adventurer’s XP, 22 Wanderers advice, and 1,672,000 Mora
+Talent Level up Materials needed for Keqing
+These are the materials required for fully maxing the level of ONE Talent for Keqing. Keep in mind that there are 3 upgradable talents for each character in the game.
+3
+Teachings of Prosperity
+21
+Guide to Prosperity
+38
+Philosophies of Prosperity
+6
+Whopperflower Nectar
+22
+Shimmering Nectar
+31
+Energy Nectar
+6
+Ring of Boreas
+1
+Crown of Insight
+1,652,500
+Mora
+Best Weapons for Keqing in Genshin Impact
+As Keqing being the main DPS character, weapons with Attack%, Crit rate, and Crit Damage would be a great addition to her abilities.
+Primordial Jade Cutter (5*), Both Electro and Physical Builds
+Aquila Favonia (5*), Physical Build
+The Black Sword (4*), Both Electro and Physical Builds
+Blackliff Longsword (4*), Both Electro and Physical Builds
+Lion’s Roar (4*), Electro Build
+Keqing-weapon
+Related – Genshin Impact: Where to find Sakura Bloom
+That’s all for today’s Genshin Impact Keqing Guide.
+Did you like our guide on
+Keqing
+in Genshin Impact? Let us know in the
+comments
+below.
+For more Mobile Gaming news and updates, join our
+WhatsApp group
+,
+Telegram Group
+,
+or
+Discord server
+. Also, follow us on
+Google News
+,
+Instagram
+, and
+Twitter
+for quick updates.
+Tags
+Gacha Games
+Genshin Impact

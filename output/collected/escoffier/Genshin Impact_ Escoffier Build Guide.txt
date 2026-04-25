@@ -1,0 +1,99 @@
+miHoYo
+Escoffier is the newest 5-star unit to join the Genshin Impact roster. She is a Cryo support character that can boost the damage of Cryo and Hydro units by an unbelievable amount and is highly regarded as one of the better Cryo support units in the game. With Escoffier’s release, a lot of Cryo units were brought back to life and can finally deal damage, but Escoffier is not only a buffer. Her personal damage is nothing to scoff at as well, and in this guide, we’ll show you just how to build her to get the most out of both her support and DPS capabilities.
+Table of Contents
+Escoffier Overview
+Escoffier Best Weapon
+Escoffier Best Artifact Set
+Skill Priority
+Escoffier Overview
+Name:
+Escoffier
+Constellation:
+Dulciaria Structura
+Rarity:
+5-star
+Element:
+Cryo
+Weapon:
+Catalyst
+VA
+Sato Satomi (JP)
+Emily Cass (EN)
+Escoffier is an amazing buffer who scales with ATK%, allowing her to also act as a pseudo DPS thanks to the ridiculously high multiplier on her Elemental Skill. Couple this with the fact that she can shred Cryo and Hydro RES by up to 55% and that she can also heal, and you have one amazing support unit. With the introduction of Escoffier, a lot of Cryo units became viable again, with Ayaka and Wriothesley being just some examples, but you can’t start using those units until you first build Escoffier, so let’s see how that is done!
+Advertisement
+Escoffier Best Weapon
+Rank
+W-Engine
+Effect
+1
+Symphonist of Scents
+ATK is increased by
+12%
+. When the equipping character is off-field, ATK is increased by an additional
+12%
+. After initiating healing, the equipping character and the character(s) they have healed will obtain the
+"Sweet Echoes"
+effect, increasing their ATK by
+32%
+for
+3s
+. This effect can be triggered even if the equipping character is off-field.
+2
+Engulfing Lightning
+ATK increased by
+28%
+of Energy Recharge over the base
+100%
+. You can gain a maximum bonus of
+80%
+ATK. Gain
+30%
+Energy Recharge for
+12s
+after using an Elemental Burst.
+FREE TO PLAY
+3
+Tamayuratei no Ohanashi
+Increase ATK by
+20%
+and Movement SPD by
+10%
+for
+10s
+when using an Elemental Skill.
+When it comes to weapons, Escoffier’s best-in-slot is without a doubt her signature weapon, the Symphonist of Scents. This weapon gives Escoffier an amazing boost to her CRIT DMG and ATK%, while also boosting the ATK% of the rest of the team, making it both an amazing DPS and support weapon and the best choice for Escoffier. However, not everyone will have the pulls to get the Symphonist of Scents, so if you’d like to go for an alternative, then the F2P-friendly Tamayuratei no Ohanashi is a great choice!
+Advertisement
+Escoffier Best Artifact Set
+Rank
+Artifact
+Effect
+1
+Golden Troupe
+2-Piece
+: Increases Elemental Skill DMG by
+20%
+.
+4-Piece
+: Increases Elemental Skill DMG by
+25%
+. Additionally, when not on the field, Elemental Skill DMG will be further increased by
+25%
+. This effect will be cleared
+2s
+after taking the field.
+Main Stats
+Sands
+Goblet
+Circlet
+ATK%
+ATK%
+CRIT Rate / CRIT DMG
+Substat Priority
+CRIT Rate / CRIT DMG > ATK% > Energy Recharge
+As for artifacts, you generally want to use the Golden Troupe set on Escoffier to get the most damage out of her Elemental Skill, which, as we said before, has some ridiculous multipliers!
+Advertisement
+Skill Priority
+Skill Priority
+Elemental Skill > Elemental Burst > Basic Attack
+Finally, for skill priority, you first want to focus on Escoffier’s Elemental Skill, followed by her Elemental Burst, and lastly her Basic Attack, if you want to, but it is not generally needed.
+Advertisement

@@ -1,0 +1,105 @@
+Games
+Genshin Impact
+Guides
+Genshin Impact Yaoyao Build and Team Guide
+By
+clintaianp
+-
+February 15, 2023
+0
+260
+Facebook
+Twitter
+Pinterest
+WhatsApp
+ReddIt
+Email
+Print
+Viber
+Are you ready to welcome a new member to your Genshin Impact team? Meet Yaoyao, the young and generous adepti disciple who arrived in Version 3.4. As a four-star Dendro Polearm user, Yaoyao is a formidable fighter and a valuable asset to any team with her unique abilities as an off-field Dendro Healer.
+Yaoyao’s past is closely tied to her training as an adepti. Yaoyao was once a junior student under the same martial arts master as Xiangling and has since become an assistant for Ganyu. Yaoyao travels between the mountains and the city, which has shaped her into a well-rounded and adaptable character.
+What makes Yaoyao stand out is her innate ability to heal her teammates without needing her Elemental Burst and her Elemental Skill, which simultaneously deals off-field Dendro damage and healing for the active character. Yaoyao is a valuable addition to any team.
+And let’s remember her passive talent that allows you to sneak up on some wildlife, adding a unique and fun aspect to her character. With all these abilities and her A-tier ranking, Yaoyao and her adorable companion Yuegui are essential assets to support your team.
+Pros & Cons of Yaoyao
+Consider several vital pros and cons before adding Yaoyao to your team.
+Pros:
+Off-Field Dendro Healer: Yaoyao’s ability to heal her teammates without needing her Elemental Burst is a significant strength, providing a steady and consistent source of healing for the team.
+Elemental Skill: Yaoyao’s Elemental Skill deals off-field Dendro damage while healing the active character, making her a versatile character in battle.
+Dendro DMG Buff and Dendro Resistance: Yaoyao’s C1 provides a Dendro DMG Buff, and her Elemental Burst provides Dendro Resistance, both of which are valuable assets in battle.
+Passive Talent: Yaoyao’s passive talent allows you to sneak up on some wildlife, adding a unique and fun aspect to her character.
+Cons:
+High Energy Cost: Yaoyao’s Elemental Burst has a high energy cost, which can be a drawback when trying to manage her abilities during battle.
+Limited Healing: Yaoyao’s Elemental Skill does not heal off-field characters, and her healing is single-target-oriented, which might be less effective in cooperative play.
+Elemental Burst: Yaoyao’s Elemental Burst requires Yaoyao to be on-field, which is usually a DPS loss if Yaoyao has full HP. It also prioritizes attacking enemies instead of healing the off-field characters.
+Yaoyao’s Elemental Burst state will end prematurely if she is swapped out, and the summoned Yuegui will be removed.
+Scaling: Yaoyao’s damage and healing split scales with ATK and HP, respectively. This means you’ll have to balance her healing and damage output depending on the situation.
+Yaoyao’s unique abilities make her a valuable addition to any team, but careful planning and usage are required to maximize her potential.
+Yaoyao Talents
+Normal Attack: Toss ‘N’ Turn Spear
+Normal Attack: Four consecutive spear strikes.
+Charge Attack: Requires a specific amount of stamina to perform a forward thrust, inflicting harm to opponents.
+Plunging Attack: Yaoyao dives from the air to hit the ground below, causing damage to enemies within the path and inflicting an area of effect damage upon landing.
+Elemental Skill: Raphanus Sky Cluster
+Yaoyao’s Elemental Skill can be used in two ways: Holding Mode and Throwing Mode.
+In Holding Mode, Yaoyao enters Aiming Mode to adjust the direction of the throw.
+In Throwing Mode, Yaoyao throws White Jade Radishes that explode upon impact, causing Dendro damage to opponents within a specific area and healing characters within that area based on Yaoyao’s maximum HP. If a radish does not hit a character or opponent, it will explode on contact or after a set time. The Skill targets opponents or characters with low HP, but if no opponents are nearby, it will target characters even if they have more than 70% HP remaining. Only two instances of this Skill can exist at any one time.
+Elemental Burst: Moonjade Descent
+Yaoyao’s Elemental Burst is activated through the help of a certain adeptus. It deals Dendro damage to nearby opponents and allows her to enter a powerful state. In this state, the White Jade Radishes she generates will heal and deal damage based on the Skill, and their explosions will heal all nearby party members. Additionally, the Dendro damage dealt is considered Elemental Burst damage. The Skill also summons “Yuegui: Jumping Mode” at intervals, which behaves similarly to “Yuegui: Throwing Mode” in the Elemental Skill. Up to 3 instances of “Yuegui: Jumping Mode” can exist at anytime. Yaoyao’s movement speed and Dendro resistance are increased during this state, but it ends when she is off-field and any remaining “Yuegui: Jumping Mode” is cleared.
+Yaoyao Support Build
+Best Weapon:
+Favonius Lance
+Replacement Weapons
+Staff of Homa
+Dragon’s Bane
+Kitain Cross Spear (F2P Option)
+Moonpiercer (F2P Option)
+Best Artifacts:
+Deepwood Memories x4
+Artifact Main Stats
+Sands:
+Energy Recharge
+Goblet:
+HP%
+Circlet:
+CRIT Rate or Healing Bonus
+What talent priority to focus on Yaoyao
+When leveling up Yaoyao, the primary focus should be on her Elemental Skill and Burst abilities as they enhance her healing abilities. Normal Attacks are only critical if you plan to use them while she is on the field.
+Yaoyao Best Team Comp
+Yaoyao is an off-field Dendro and healer who can provide powerful support to the team. Teaming her with characters that complement her abilities is recommended to maximize her potential.
+Cyno
+is a great partner for Yaoyao as he works well with off-field Dendro characters, and his abilities rely on reactions.
+Fischl
+is another excellent addition to the team, as her abilities provide energy regeneration for the party.
+Nahida
+is also a good pick, as her presence will give the party an additional Elemental Resonance bonus.
+With these characters working together, Yaoyao’s healing and Dendro abilities will be significantly enhanced, providing powerful support for the team.
+How To Use Yaoyao
+Here’s how to use Yaoyao in combat best:
+Use Yaoyao’s Elemental Skill on these conditions:
+Target players if your HP is below 70%.
+Targeting Enemies if your HP is above 70% HP and If there are nearby enemies.
+Targeting Random if no enemies are around and your HP is above 70%.
+Boosts Yaoyao’s Movement SPD and Dendro Resistance.
+Remember that swapping to a different character while Yaoyao is using her Elemental Burst will end the Adeptal Legacy State and remove all 3 summoned Yuegui.
+Now that you know all about Yaoyao and her unique abilities, it’s time to put her to the test. Assemble your team and take on the challenges of Genshin Impact with Yaoyao by your side. Remember to prioritize leveling up her Elemental Skill and Burst to maximize her healing capabilities. Share your thoughts and experiences with Yaoyao in the comments below, and let us know how she’s helped you on your journey through Teyvat. Happy adventuring!
+Don’t forget to
+top up Genesis Crystals for Genshin Impact
+on Codashop. It’s faster and easier, with plenty of convenient payment methods available
+BUY APP & GAME CREDITS ONLINE
+More games & apps
+Facebook
+Twitter
+Pinterest
+WhatsApp
+ReddIt
+Email
+Print
+Viber
+Previous article
+Tips and Tricks on How to Counter Sett in Wild Rift
+Next article
+VALORANT Reyna Agent Guide
+clintaianp
+https://myprofile.ph/clintaianpontillas
+I'm an artist who expresses myself through my creations.  I'm a free spirit who loves playing games, especially when my boss isn't around. I also edit videos internationally and have performed on stage as a front act for famous band artists who have had concerts here in Palawan. My curiosity has led me to places I've never been, to challenges I've never faced, and to success I never imagined. You might think I'm a weird person, but if you could see the world through my eyes, you'll understand the beauty in it.
+Facebook

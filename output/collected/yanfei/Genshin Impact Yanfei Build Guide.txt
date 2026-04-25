@@ -1,0 +1,526 @@
+Genshin Impact Yanfei Build
+Catalyst
+Pyro
+Yanfei Legal Consultancy
+28/7
+Bestia Iustitia
+Taishan Mansion
+A well-known legal adviser active in Liyue Harbor. A brilliant young lady in whose veins runs the blood of an illuminated beast.
+Best builds for Yanfei
+VAPORIZE DPS Build
+Weapons
+1
+Reliquary of Truth
+CRIT DMG
+2
+Tome of the Eternal Flow
+CRIT DMG
+3
+Cashflow Supervision
+CRIT Rate
+4
+Vivid Notions
+CRIT DMG
+5
+Surf's Up
+CRIT DMG
+6
+A Thousand Floating Dreams
+Elemental Mastery
+7
+Starcaller's Watch
+Elemental Mastery
+8
+Flowing Purity
+R
+5
+ATK%
+9
+The Widsith
+CRIT DMG
+10
+Dawning Frost
+CRIT DMG
+Artifacts
+1
+Crimson Witch of Flames
+4
+2
+Gilded Dreams
+4
+3
+Wanderer's Troupe
+4
+Choose 2
+Crimson Witch of Flames
+2
+ATK +18% set
+2
+Elemental Mastery +80 set
+2
+5
+Marechaussee Hunter
+4
+Substats Priority
+1
+CRIT Rate
+2
+CRIT DMG
+3
+ATK%
+4
+Elemental Mastery
+5
+Energy Recharge
+Talents Priority
+1
+NA
+Normal Attack
+2
+Q
+Burst
+3
+E
+Skill
+Recommended Primary Stats
+Sands
+ATK% / Elemental Mastery
+Goblet
+Pyro DMG Bonus
+Circlet
+CRIT Rate / CRIT DMG
+Yanfei
+'s A4 being reliant on a
+Crit
+hit makes her ideal
+Crit Ratio
+skew toward
+3:4
+and
+3:5
+instead of the standard
+1:2
+.
+This is because
+Yanfei
+'s damage output is heavily influenced by her
+Crit
+hits, making a higher
+Crit Ratio
+more desirable for her build.
+To achieve this, players can focus on building
+Yanfei
+with
+CRIT
+percentage-increasing artifacts and weapons, such as the
+Crit
+-oriented
+Artifact sets
+.
+Some possible
+Artifact sets
+for
+Yanfei
+include:
+Shimenawa's Reminiscence
+for its
+CRIT
+percentage bonus
+Emblem of Severed Fate
+for its
+Energy Recharge
+bonus to support
+Yanfei
+'s
+Elemental Burst
+SHIELD SUPPORT 
+[C4+ REQUIRED] Build
+Weapons
+1
+Prototype Amber
+HP%
+2
+Favonius Codex
+Energy Recharge
+3
+Thrilling Tales of Dragon Slayers
+HP%
+4
+Starcaller's Watch
+Elemental Mastery
+Artifacts
+1
+Emblem of Severed Fate
+2
+Tenacity of the Millelith
+2
+2
+Noblesse Oblige
+4
+3
+Scroll of the Hero of Cinder City
+4
+Substats Priority
+1
+Energy Recharge
+2
+HP%
+3
+HP
+Talents Priority
+1
+E
+Skill
+2
+Q
+Burst
+3
+NA
+Normal Attack
+Recommended Primary Stats
+Sands
+Energy Recharge / HP%
+Goblet
+HP%
+Circlet
+HP%
+Most-used community build
+This build is based on the community's most-used artifacts and weapons. Submit your UID to help improve this data.
+Weapons
+1
+The Widsith
+CRIT DMG
+2
+Lost Prayer to the Sacred Winds
+CRIT Rate
+3
+Skyward Atlas
+ATK%
+4
+Dodoco Tales
+ATK%
+5
+Mappa Mare
+Elemental Mastery
+Artifacts
+1
+Crimson Witch of Flames
+4
+2
+Wanderer's Troupe
+4
+3
+Crimson Witch of Flames
+2
+Gladiator's Finale
+2
+4
+Crimson Witch of Flames
+2
+Wanderer's Troupe
+2
+5
+Gladiator's Finale
+2
+Wanderer's Troupe
+2
+Best teams for Yanfei
+Open the full Yanfei team guide
+#
+1
+#
+2
+#
+3
+#
+4
+#
+5
+#
+6
+#
+7
+#
+8
+Yanfei Skills
+Seal of Approval
+Normal Attack
+Shoots fireballs that deal up to three counts of
+Pyro DMG
+.
+When Yanfei's Normal Attacks hit enemies, they will grant her a single Scarlet Seal. Yanfei may possess a maximum of 3 Scarlet Seals, and each time this effect is triggered, the duration of currently possessed Scarlet Seals will refresh.
+Each Scarlet Seal will decrease Yanfei's Stamina consumption and will disappear when she leaves the field.
+Charged Attack
+Consumes Stamina and all Scarlet Seals before dealing
+AoE Pyro DMG
+to opponents after a short casting time.
+This Charged Attack's AoE and DMG will increase according to the amount of Scarlet Seals consumed.
+Plunging Attack
+Gathering the power of Pyro, Yanfei plunges towards the ground from mid-air, damaging all opponents in her path. Deals
+AoE Pyro DMG
+upon impact with the ground.
+Level
+1
+1-Hit DMG
+58.3%
+2-Hit DMG
+52.1%
+3-Hit DMG
+76%
+Charged Attack
+98.2% / 115.6% / 132.9% / 150.2% / 167.6%
+Charged Attack Stamina Cost
+50
+Scarlet Seal Stamina Consumption Decrease
+15% Per Seal
+Scarlet Seal Duration
+10s
+Plunge DMG
+56.8%
+Low/High Plunge DMG
+113.6% / 141.9%
+Signed Edict
+Apart from their legal uses, Yanfei's seals also come with her customized additional terms and conditions. Well, it's not as if the Ministry of Civil Affairs can change the laws of nature.
+Summons blistering flames that deal
+AoE Pyro DMG
+.
+Opponents hit by the flames will grant Yanfei the maximum number of Scarlet Seals.
+Level
+1
+Skill DMG
+169.6%
+CD
+9s
+Done Deal
+"Here are the full terms for this matter of life and death — by which I mean my life and your death!"
+Triggers a spray of intense flames that rush at nearby opponents, dealing
+AoE Pyro DMG
+, granting Yanfei the maximum number of Scarlet Seals, and applying Brilliance to her.
+Brilliance
+Has the following effects:
+·Grants Yanfei a Scarlet Seal at fixed intervals.
+·Increases the DMG dealt by her Charged Attacks.
+The effects of Brilliance will end if Yanfei leaves the field or falls in battle.
+Level
+1
+Skill DMG
+182.4%
+Scarlet Seal Grant Interval
+1s
+Charged Attack DMG Bonus
+33.4%
+Duration
+15s
+CD
+20s
+Energy Cost
+80
+Passive Talents
+Proviso
+Ascension Phase 1
+When Yanfei consumes Scarlet Seals by using a Charged Attack, each Scarlet Seal will increase Yanfei's
+Pyro DMG Bonus
+by 5%. This effect lasts for 6s. When a Charged Attack is used again during the effect's duration, it will dispel the previous effect.
+Blazing Eye
+Ascension Phase 4
+When Yanfei's Charged Attack deals a CRIT Hit to opponents, she will deal an additional instance of
+AoE Pyro DMG
+equal to 80% of her ATK. This DMG counts as Charged Attack DMG.
+Encyclopedic Expertise
+Passive
+Displays the location of nearby
+resources unique to Liyue
+on the mini-map.
+Constellations
+The Law Knows No Kindness
+Constellation Lv. 1
+When Yanfei uses her Charged Attack, each existing Scarlet Seal additionally reduces the stamina cost of this Charged Attack by 10% and increases resistance against interruption during its release.
+Right of Final Interpretation
+Constellation Lv. 2
+Increases Yanfei's Charged Attack CRIT Rate by 20% against enemies below 50% HP.
+Samadhi Fire-Forged
+Constellation Lv. 3
+Increases the Level of
+Signed Edict
+by 3.
+Maximum upgrade level is 15.
+Supreme Amnesty
+Constellation Lv. 4
+When
+Done Deal
+is used:
+Creates a shield that absorbs up to 45% of Yanfei's Max HP for 15s.
+This shield absorbs
+Pyro DMG
+250% more effectively.
+Abiding Affidavit
+Constellation Lv. 5
+Increases the Level of
+Done Deal
+by 3.
+Maximum upgrade level is 15.
+Extra Clause
+Constellation Lv. 6
+Increases the maximum number of Scarlet Seals by 1.
+Outfits
+Golden Rule
+Default
+Yanfei's outfit. The dress that the legal adviser Yanfei wears when she heads out to visit clients.
+Stats
+Lv.
+1
+Lv.
+20
+Lv.
+40
+Lv.
+50
+Lv.
+60
+Lv.
+70
+Lv.
+80
+Lv.
+90
+Before Ascension
+After Ascension
+Ascend
+-
+1
+Base HP
+-
+784
+Base ATK
+-
+20
+Base DEF
+-
+49
+Pyro DMG Bonus
+-
+0.0%
+Ascension Materials
+View ascension details
+Total
+420000
+1
+9
+9
+6
+46
+168
+18
+30
+36
+Talent Materials
+LV.
+1
+→
+2
+12500
+Mora
+3
+Teachings of Gold
+6
+Treasure Hoarder Insignia
+LV.
+2
+→
+3
+17500
+Mora
+2
+Guide to Gold
+3
+Silver Raven Insignia
+LV.
+3
+→
+4
+25000
+Mora
+4
+Guide to Gold
+4
+Silver Raven Insignia
+LV.
+4
+→
+5
+30000
+Mora
+6
+Guide to Gold
+6
+Silver Raven Insignia
+LV.
+5
+→
+6
+37500
+Mora
+9
+Guide to Gold
+9
+Silver Raven Insignia
+LV.
+6
+→
+7
+120000
+Mora
+4
+Philosophies of Gold
+4
+Golden Raven Insignia
+1
+Bloodjade Branch
+LV.
+7
+→
+8
+260000
+Mora
+6
+Philosophies of Gold
+6
+Golden Raven Insignia
+1
+Bloodjade Branch
+LV.
+8
+→
+9
+450000
+Mora
+12
+Philosophies of Gold
+9
+Golden Raven Insignia
+2
+Bloodjade Branch
+LV.
+9
+→
+10
+700000
+Mora
+16
+Philosophies of Gold
+12
+Golden Raven Insignia
+2
+Bloodjade Branch
+1
+Crown of Insight
+Total
+1652500
+3
+21
+38
+6
+22
+31
+6
+1

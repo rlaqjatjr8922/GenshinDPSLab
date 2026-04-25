@@ -1,0 +1,598 @@
+Genshin Impact Bennett Build
+Sword
+Pyro
+Adventurers' Guild
+29/2
+Rota Calamitas
+Forsaken Rift
+A good-natured adventurer from Mondstadt who's unfortunately extremely unlucky.
+Best builds for Bennett
+SUPPORT Build
+Weapons
+1
+Mistsplitter Reforged
+CRIT DMG
+2
+Absolution
+CRIT DMG
+3
+Azurelight
+CRIT Rate
+4
+Aquila Favonia
+Physical DMG Bonus
+5
+The Alley Flash
+Elemental Mastery
+6
+Freedom-Sworn
+Elemental Mastery
+7
+Peak Patrol Song
+DEF%
+8
+Skyward Blade
+Energy Recharge
+9
+Sapwood Blade
+Energy Recharge
+10
+Prototype Rancour
+Physical DMG Bonus
+11
+Calamity of Eshu
+ATK%
+12
+Favonius Sword
+Energy Recharge
+Artifacts
+1
+Noblesse Oblige
+4
+2
+Instructor
+4
+3
+Scroll of the Hero of Cinder City
+4
+4
+Deepwood Memories
+4
+Substats Priority
+1
+Energy Recharge
+2
+CRIT
+3
+HP%
+4
+ATK%
+5
+HP
+Talents Priority
+1
+Q
+Burst
+2
+E
+Skill
+3
+NA
+Normal Attack
+Recommended Primary Stats
+Sands
+Energy Recharge / ATK% / HP%
+Goblet
+Pyro DMG Bonus / HP%
+Circlet
+CRIT Rate / HP% / Healing Bonus
+Bennett
+'s
+C6
+infuses melee weapons with
+Pyro
+, which can mess up a few teams. However, if you have
+C6 Bennett
+, you more than likely have some of the supports which those teams prefer over
+Bennett
+anyway.
+This is particularly relevant for teams that rely on specific
+elemental reactions
+or
+bonus effects
+, as
+Bennett
+'s
+C6
+can disrupt their usual
+game mechanics
+and force them to adapt to the
+Pyro
+infusion.
+Some teams may still prefer
+Bennett
+for his
+support capabilities
+and
+EM
+or
+ER
+benefits, but it ultimately depends on the specific
+team composition
+and playstyle.
+When building a team with
+Bennett
+, consider the following:
+Choose
+artifact sets
+that complement
+Bennett
+'s
+Pyro
+infusion and support capabilities, such as
+Noblesse Oblige
+or
+Crimson Witch of Flames
+.
+Consider the
+elemental balance
+of your team and how
+Bennett
+'s
+C6
+will affect it.
+Plan your
+team rotations
+and
+strategy
+around
+Bennett
+'s
+Pyro
+infusion and support capabilities.
+DPS Build
+Weapons
+1
+Mistsplitter Reforged
+CRIT DMG
+2
+Primordial Jade Cutter
+CRIT Rate
+3
+Haran Geppaku Futsu
+CRIT Rate
+4
+Uraku Misugiri
+CRIT DMG
+5
+Absolution
+CRIT DMG
+6
+Light of Foliar Incision
+CRIT DMG
+7
+Splendor of Tranquil Waters
+CRIT DMG
+8
+Freedom-Sworn
+Elemental Mastery
+9
+Summit Shaper
+ATK%
+10
+Wolf-Fang
+CRIT Rate
+11
+The Alley Flash
+Elemental Mastery
+12
+Finale of the Deep
+R
+5
+ATK%
+13
+The Black Sword
+CRIT Rate
+Artifacts
+1
+Crimson Witch of Flames
+4
+Choose 2
+Crimson Witch of Flames
+2
+ATK +18% set
+2
+Elemental Mastery +80 set
+2
+3
+Gilded Dreams
+4
+4
+Thundering Fury
+4
+5
+Marechaussee Hunter
+4
+Substats Priority
+1
+Energy Recharge
+2
+CRIT Rate
+3
+CRIT DMG
+4
+ATK%
+5
+Elemental Mastery
+Talents Priority
+1
+Q
+Burst
+2
+E
+Skill
+3
+NA
+Normal Attack
+Recommended Primary Stats
+Sands
+ATK% / Elemental Mastery
+Goblet
+Pyro DMG Bonus
+Circlet
+CRIT Rate / CRIT DMG
+Most-used community build
+This build is based on the community's most-used artifacts and weapons. Submit your UID to help improve this data.
+Weapons
+1
+Favonius Sword
+Energy Recharge
+2
+Skyward Blade
+Energy Recharge
+3
+Aquila Favonia
+Physical DMG Bonus
+4
+Sapwood Blade
+Energy Recharge
+5
+Prototype Rancour
+Physical DMG Bonus
+Artifacts
+1
+Noblesse Oblige
+4
+2
+Emblem of Severed Fate
+2
+Noblesse Oblige
+2
+3
+Resolution of Sojourner
+4
+4
+Emblem of Severed Fate
+4
+5
+Gladiator's Finale
+2
+Noblesse Oblige
+2
+Best teams for Bennett
+Open the full Bennett team guide
+#
+1
+#
+2
+C6
+#
+3
+#
+4
+#
+5
+#
+6
+#
+7
+#
+8
+Bennett Skills
+Strike of Fortune
+Normal Attack
+Performs up to 5 rapid strikes.
+Charged Attack
+Consumes a certain amount of Stamina to unleash 2 rapid sword strikes.
+Plunging Attack
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Level
+1
+1-Hit DMG
+44.5%
+2-Hit DMG
+42.7%
+3-Hit DMG
+54.6%
+4-Hit DMG
+59.7%
+5-Hit DMG
+71.9%
+Charged Attack DMG
+55.9% + 60.7%
+Charged Attack Stamina Cost
+20
+Plunge DMG
+63.9%
+Low/High Plunge DMG
+127.8% / 159.7%
+Passion Overload
+An attack that combines Bennett's dreams and passion with Pyro. But passion is sometimes overblown, and Pyro sometimes blows over.
+Bennett puts all his fire and passion for adventuring into his sword. Results may vary based on how fired up he is...
+Press
+A single, swift flame strike that deals
+Pyro DMG
+.
+Hold (Short)
+Charges up, resulting in different effects when unleashed based on the Charge Level.
+·Level 1: Strikes twice, dealing
+Pyro DMG
+and launching opponents.
+·Level 2: Unleashes 3 consecutive attacks that deal impressive
+Pyro DMG
+, but the last attack triggers an explosion that launches both Bennett and the enemy.
+Bennett takes no damage from being launched.
+Level
+1
+Press DMG
+137.6%
+Charge Level 1 DMG
+84% + 92%
+Charge Level 2 DMG
+88% + 96%
+Explosion DMG
+132%
+CD
+5 / 7.5 / 10s
+Fantastic Voyage
+Benny's Adventure Team's adventures are always fraught with unexpected danger. However, Bennett is more inclined to call them "journeys full of wonder, excitement, and beauty."
+Bennett performs a jumping attack that deals
+Pyro DMG
+, creating an Inspiration Field.
+Inspiration Field
+·If the health of a character within the AoE is equal to or falls below 70%, their health will continuously regenerate. The amount of HP restored scales off Bennett's Max HP.
+·If the health of a character within the AoE is higher than 70%, they gain an ATK Bonus that is based on Bennett's Base ATK.
+·Imbues characters within the AoE with
+Pyro
+.
+Level
+1
+Skill DMG
+232.8%
+Continuous Regeneration Per Sec
+6% Max HP + 577
+ATK Bonus Ratio
+56%
+Duration
+12s
+CD
+15s
+Energy Cost
+60
+Passive Talents
+Rekindle
+Ascension Phase 1
+Decreases
+Passion Overload
+'s CD by 20%.
+Fearnaught
+Ascension Phase 4
+Within the area created by
+Fantastic Voyage
+,
+Passion Overload
+takes on the following effects:
+·CD is reduced by 50%.
+·Bennett will not be launched by the effects of Charge Level 2.
+It Should Be Safe...
+Passive
+When dispatched on an expedition in Mondstadt, time consumed is reduced by 25%.
+Constellations
+Grand Expectation
+Constellation Lv. 1
+Fantastic Voyage
+'s ATK increase no longer has an HP restriction, and gains an additional 20% of Bennett's Base ATK.
+Impasse Conqueror
+Constellation Lv. 2
+When Bennett's HP falls below 70%, his Energy Recharge is increased by 30%.
+Unstoppable Fervor
+Constellation Lv. 3
+Increases the Level of
+Passion Overload
+by 3.
+Maximum upgrade level is 15.
+Unexpected Odyssey
+Constellation Lv. 4
+Using a Normal Attack as the second attack of
+Passion Overload
+'s Charge Level 1 will perform a follow-up attack.
+This additional attack does 135% of the second attack's DMG.
+True Explorer
+Constellation Lv. 5
+Increases the Level of
+Fantastic Voyage
+by 3.
+Maximum upgrade level is 15.
+Fire Ventures With Me
+Constellation Lv. 6
+Sword, Claymore, or Polearm-wielding characters inside
+Fantastic Voyage
+'s radius gain a 15%
+Pyro DMG Bonus
+and their weapons are infused with
+Pyro
+.
+Outfits
+Adventures in Blazing Hue
+Bennett's traveling attire for his journeys in Natlan. Dyed lucky lakewater blue with hints of blazing orange, these clothes emanate an overflowing vitality that matches the land in which they are worn.
+Fortune's Favor
+Default
+Bennett's outfit. An old adventurer's uniform that has been patched and sewn up in various places.
+Stats
+Lv.
+1
+Lv.
+20
+Lv.
+40
+Lv.
+50
+Lv.
+60
+Lv.
+70
+Lv.
+80
+Lv.
+90
+Before Ascension
+After Ascension
+Ascend
+-
+1
+Base HP
+-
+1039
+Base ATK
+-
+16
+Base DEF
+-
+65
+Energy Recharge
+-
+0
+Ascension Materials
+View ascension details
+Total
+420000
+1
+9
+9
+6
+46
+168
+18
+30
+36
+Talent Materials
+LV.
+1
+→
+2
+12500
+Mora
+3
+Teachings of Resistance
+6
+Treasure Hoarder Insignia
+LV.
+2
+→
+3
+17500
+Mora
+2
+Guide to Resistance
+3
+Silver Raven Insignia
+LV.
+3
+→
+4
+25000
+Mora
+4
+Guide to Resistance
+4
+Silver Raven Insignia
+LV.
+4
+→
+5
+30000
+Mora
+6
+Guide to Resistance
+6
+Silver Raven Insignia
+LV.
+5
+→
+6
+37500
+Mora
+9
+Guide to Resistance
+9
+Silver Raven Insignia
+LV.
+6
+→
+7
+120000
+Mora
+4
+Philosophies of Resistance
+4
+Golden Raven Insignia
+1
+Dvalin's Plume
+LV.
+7
+→
+8
+260000
+Mora
+6
+Philosophies of Resistance
+6
+Golden Raven Insignia
+1
+Dvalin's Plume
+LV.
+8
+→
+9
+450000
+Mora
+12
+Philosophies of Resistance
+9
+Golden Raven Insignia
+2
+Dvalin's Plume
+LV.
+9
+→
+10
+700000
+Mora
+16
+Philosophies of Resistance
+12
+Golden Raven Insignia
+2
+Dvalin's Plume
+1
+Crown of Insight
+Total
+1652500
+3
+21
+38
+6
+22
+31
+6
+1

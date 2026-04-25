@@ -1,0 +1,249 @@
+Walkthroughs
+Genshin Impact Raiden Guide - best build, strengths and weaknesses
+All you need to know about Raiden
+By
+Bryan Taylor
+|
+Sep 10, 2021
+iOS
++
+Android
+|
+Genshin Impact
+Prefer Pocket Gamer on Google
+X
+Facebook
+Reddit
+Welcome to Pocket Gamer's detailed
+Genshin Impact Raiden guide
+! Raiden Shogun is actually the Electro Archon of Inazuma Raiden Ei, but is mostly seen as her other form, the Shogun, a puppet that reigns in her stead as she meditates in the Plane of Euthymia. Ei is the other, more fun side of her callous personality, while Shogun is stern and has no time for fun or recreation whilst Ei loves sweets and is generally more emotive and caring.
+Due to her loss of so many loved ones over the years, she sealed herself off from the world by moving to the Plane of Euthymia in order to keep her away from things like corruption and corrosion of her corporeal form, using her puppet to carry out her will instead.
+In the Raiden guide below you will find the following features:
+General Info & how to get Raiden
+Strengths & Weaknesses
+Best Build (Artifacts & Weapons
+)
+Best Party Members for Raiden
+Talents / Skills / Passive
+Talent Leveling Materials
+Constellations
+Ascensions costs
+Raiden Wishes / Availability
+Character Appearance
+Raiden Element / Tier / Rarity / Weapon
+Electro / S Tier / 5* Rarity / Polearm
+In Genshin Impact, Raiden is a fierce polearm user who can alter her normal attacks to deal Electro damage after activating her Burst. She is able to deal damage while off the field with her Skill, deals high amounts of Electro damage, and regenerates energy for the team.
+How to get Raiden
+You can only get Raiden in the Raiden Shogun banner, Reign of Serenity, as a limited 5-star character. She will not be available in the standard banner.
+Genshin Impact Raiden Combat Info (Strengths and Weaknesses)
+Strengths
+Raiden has high amounts of Electro DMG
+Recharges the team’s energy
+Increases damage on Elemental Bursts for the team
+Recharges her own energy rather quickly
+Weaknesses
+Unable to cook food
+Skills are not very versatile
+Here are
+some
+Genshin Impact codes
+as a thank you for reading this!
+Best Build for Raiden in Genshin Impact
+Raiden is a good Electro polearm user who leans into her Electro abilities to do massive damage as she applies it to her normal attacks. Equip her with the Engulfing Lightning polearm to increase her attack by her energy recharge amount, up to 80% ATK increase. The Emblem of Severed Fate set will bump that energy recharge rate even higher and can increase her Burst damage.
+Raiden - Best Artifacts and Weapons
+Emblem of Severed Fate
+ATK% / Electro DMG / CRIT DMG
+Set Bonuses:
+(2) Elemental Recharge + 20%
+(4) Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way
+How to Obtain:
+Momiji-Dyed Court Domain reward
+Engulfing Lightning
+Base Attack:
+46
+Rating:
+5*
+Bonus Effect:
+Energy Recharge 12.0%
+Skill: Timeless Dream: Eternal Stove
+Attack increased by 28% of Energy Recharge over the base 100%. You can gain a maximum bonus of 80% ATK. Gain 30% Energy Recharge for 12s after using an Elemental Burst.
+How to Obtain:
+Gacha
+Best Party Members to match Raiden with in Genshin Impact
+Premium (Gacha) Team
+In Genshin Impact, Raiden will act as a Sub-DPS to use her Burst as often as she can and use her Skill to keep Electro flowing through the field.
+Diona
+is a great option as a healer, as she can give shields and heal teammates.
+Kazuha
+should be used as your Support, as he has excellent crowd control and can boost elemental damage. Use
+Eula
+as your DPS as she will do extra damage thanks to Superconduct from Raiden’s combo.
+F2P Team
+Raiden is your DPS on this team and will spend most of her time keeping Electro on the field and fielding charge for her Burst. Xingqiu can be a good way to spread Hydro and cause Electro Charge.
+Barbara
+can also cause Electro Charge, but will mostly help with healing. Use the
+Anemo Traveler
+to apply their own debuff and control enemies in groups.
+Talents / Skills / Passive
+Origin - Normal Attack
+Normal:
+Perform up to 5 consecutive spear strikes.
+Charge Attack:
+Consumes a certain amount of stamina to perform an upward slash.
+Plunge Attack:
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Skill Attributes:
+1-Hit DMG
+39.6%
+2-Hit DMG
+39.7%
+3-Hit DMG
+49.9%
+4-Hit DMG
+29% + 29%
+5-Hit DMG
+58.1%
+Charged Attack DMG
+- 99.6%
+Charged Attack Stamina Cost
+- 25
+Plunge DMG
+- 63.9%
+Low/High Plunge DMG
+- 128%/160%
+Baleful Omen - Elemental Skill
+The Raiden Shogun unveils a shard of her Euthymia, dealing Electro DMG to nearby opponents, and granting nearby party members the Eye of Stormy Judgment.
+Eye of Stormy Judgment
+When characters with this buff attack deal DMG to opponents, the Eye will unleash a coordinated attack, dealing AoE Electro DMG at the opponent's position.
+Characters who gain the Eye of Stormy Judgment will have their Elemental Burst DMG increased based on the Energy Cost of the Elemental Burst during the Eye's duration.
+The Eye can initiate 1 coordinated attack every 0.9s per party.
+Coordinated attacks generated by characters not controlled by you deal 20% of the normal DMG.
+Skill DMG
+- 117.2%
+Coordinated ATK DMG
+- 42%
+Duration
+- 25s
+Elemental Burst DMG Bonus
+- 0.22% Per energy
+CD
+10s
+Secret Art: Musou Shinsetsu - Elemental Burst
+The Raiden Shogun unleashes the Musou no Hitotachi and deals AoE Electro DMG, using Musou Isshin in combat for a certain duration afterward. The DMG dealt by Musou no Hitotachi and Musou Isshin's attacks will be increased based on the number of Chakra Desiderata's Resolve stacks consumed when the skill is used.
+Musou Isshin
+While in this state, the Raiden Shogun's Normal, Charged, and Plunging ATKs are infused with Electro, which cannot be overridden. When her attacks hit opponents, she regenerates Energy for nearby party members. Energy can be restored this way once every 1s, and this effect can be triggered 5 times throughout the skill's duration.
+Chakra Desiderata
+When nearby party members (excluding the Raiden Shogun herself) use their Elemental Bursts, the Raiden Shogun will build up Resolve stacks based on the Energy Cost of these Elemental Bursts. The maximum number of Resolve stacks is 60.
+The Resolve gained by Chakra Desiderata will be cleared 300s after the Raiden Shogun leaves the field.
+Skill Attributes
+Musou no Hitachi Base DMG
+- 401%
+Resolve Bonus
+- 3.89% Initial / 0.73% ATK DMG Per Stack
+Resolve Stacks Gained
+- 0.15 Per Energy Consumed
+1-Hit DMG
+- 44.7%
+2-Hit DMG
+- 44%
+3-Hit DMG
+- 53.8%
+4-Hit DMG
+- 30.9% + 31%
+5-Hit DMG
+- 73.9%
+Charged Attack DMG
+- 61.6% + 74.4%
+Plunge DMG
+- 63.9%
+Low/High Plunge DMG
+- 128% / 160%
+Musou Isshin Energy Restoration
+- 1.6
+Musou Isshin Duration
+-7s
+Wishes Unnumbered - 1st Ascension Passive
+When nearby party members gain Elemental Orbs or Particles, Chakra Desiderata gains 2 Resolve stacks.
+This effect can occur once every 3s.
+Enlightened One - 4th Ascension Passive
+Each 1% above 100% Energy Recharge that the Raiden Shogun possesses grants her:
+0.6% greater Energy restoration from Musou Isshin
+0.4% Electro DMG Bonus
+All-Preserver - Unlocked Automatically
+Mora expended when ascending Swords and Polearms is decreased by 50%.
+Talent Leveling Materials
+Gained from Enemy Drops (Hilichurls):
+Old Handguard
+Kageuchi Handguard
+Famed Handguard
+Acquired from Domains (Wednesday/Saturday/Sunday):
+Teachings of Light
+Guide to Light
+Philosophies of Light
+Obtained after defeating Bosses (La Signora Challenge):
+Molten Moment
+Constellations
+Ominous Inscription
+Chakra Desiderata will gather Resolve even faster. When Electro characters use their Elemental Bursts, the Resolve gained is increased by 80%. When characters of other Elemental Types use their Elemental Bursts, the Resolve gained is increased by 20%.
+Steelbreaker
+Secret Art: Musou Shinsetsu's Musou no Hitotachi and Musou Isshin attacks will ignore 60% of opponents' DEF.
+Shinkage Bygones
+Increases the Level of Secret Art: Musou Shinsetsu by 3. Maximum upgrade level is 15.
+Pledge of Propriety
+When the Musou Isshin state applied by Secret Art: Musou Shinsetsu expires, all nearby party members (excluding the Raiden Shogun) gain 30% bonus ATK for 10s.
+Shogun’s Descent
+Increases the Level of Transcendence: Baleful Omen by 3. Maximum upgrade level is 15.
+Wishbearer
+While in the Musou Isshin state applied by Secret Art: Musou Shinsetsu, attacks by the Raiden Shogun that are considered part of her Elemental Burst will decrease all nearby party members' (not including Raiden Shogun herself) Elemental Burst CD by 1s when they hit opponents. This effect can trigger once every 1s and can trigger a total of 5 times during Musou Isshin's duration.
+Genshin Impact Raiden Ascensions costs
+Phase 1
+Lv.20→Lv.40
+Mora Cost: 20,000
+Amakumo Fruit ×3
+Vajrada Amethyst Sliver ×1
+Old Handguard ×3
+Phase 2
+Lv.40→Lv.50
+Amakumo Fruit ×10
+Vajrada Amethyst Fragment ×3
+Old Handguard ×15
+Storm Beads ×2
+Phase 3
+Lv.50→Lv.60
+Mora Cost: 60,000
+Amakumo Fruit ×20
+Vajrada Amethyst Fragment ×6
+Kageuchi Handguard ×12
+Storm Beads ×4
+Phase 4
+Lv.60→Lv.70
+Mora Cost: 80,000
+Amakumo Fruit ×20
+Vajrada Amethyst Chunk ×3
+Kageuchi Handguard ×18
+Storm Beads ×8
+Phase 5
+Lv.70→Lv.80
+Mora Cost: 100,000
+Amakumo Fruit ×45
+Vajrada Amethyst Chunk ×6
+Famed Handguard ×12
+Storm Beads ×12
+Phase 6 (MAX)
+Lv.80→Lv.90
+Mora Cost: 120,000
+Amakumo Fruit ×60
+Vajrada Amethyst Gemstone ×6
+Famed Handguard ×24
+Storm Beads ×20
+Base Stats
+At Level 1, Raiden starts with 1,005 HP, 26 ATK, and 61 DEF.
+Wishes / Availability
+Raiden is currently featured in the Event Wish Banner, Reign of Serenity, which runs from September 1st, 2021 to September 21st, 2021. She will not be featured in the Standard Banner.
+You know, we also have a
+Genshin Impact tier list of all the characters
+if you want to check how well Raiden performs in comparison to other characters! Also, stay aware, soon enough we plan to make a Genshin Impact characters hub with all of the available characters and their detailed guides!
+Bryan Taylor
+Bryan has a passion for writing and has been gaming since the 80s. His favourite games include Super Metroid, Chrono Trigger, and Rez, and he joins us bringing his vast knowledge of games to the team.
+Next Up :
+Dicero beginner's guide - 5 tips for mastering the dice

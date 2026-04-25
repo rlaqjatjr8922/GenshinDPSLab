@@ -1,0 +1,141 @@
+PSA #1: A Support is the group mate that quietly does their part of the work, but finishes quickly so they also help you out on yours. Keep your Supports alive and happy if you want some help!
+PSA #2: Both Shenhe's abilities scale of ATK, and if you want her to become that homicidal, killing machine (like in the lore), then make sure you give her lots ATK. Also... Mommy? Sorry. Mommy? 😳
+Shenhe can either Tap or Hold E to do different attacks. Provides Icy Quill stacks that boost Cryo character's damage!
+Shenhe's E has a Tap and Hold variant:
+Tap E:
+dashes forward doing Cryo DMG and has a
+10s CD
+provides
+5 Icy Quill stacks
+that lasts
+10s
+Hold E:
+stationary AoE Cryo DMG infront of her and has a
+15 second CD
+provides
+7 Icy Quills tacks
+that lasts
+15s
+Whether you hit or miss an enemy, it will provide an Icy Quill buff
+that provides additional flat DMG to
+any attack that deal Cryo DMG!
+This damage is scaled off Shenhe's current ATK
+So lets say your Shenhe has
+2,500 ATK
+-- that means a
+level 8 E will provide 1,825 DMG
+on top of any Cryo dealing attack.
+E.g.: So if your Ganyu's Charged Attack did something like
+8,000/14,000
+Bloom DMG
+, then it would do
+9,825/15,825 Bloom DMG
+instead (these are without CRIT values -- with the CRIT values in formula, it will actually do a lot more overall DMG).
+But these stacks aren't shared between characters
+-- each character will receive their own set of stacks once Shenhe uses E
+2 IMPORTANT TIPS:
+Her E doesn't snapshot
+. So if your Icy Quill was cast at 2,500 ATK, but it drops down to 2,000 ATK while the stacks are still active, the DMG bonus will also drop. But also vice versa -- if she gets buffed, then the currently active Icy Quills will also be buffed!
+Icy Quill stacks will proc on AoE.
+Meaning if you hit had 7 Icy Quill stacks, and Ganyu's Charged Attack hit 5 enemies, you now only have 2 stacks left!
+Tapping or Holding E will provide specific buffs to your team!
+You will need to level Shenhe to at least level 70 to get this A4 talent!
+This is what allows her to work outside of only supporting Cryo DPS characters.
+Tap E:
+15% DMG buff to
+Skill and Burst
+for 10s
+Hold E:
+15% DMG buff to
+Normal/Charged/Plunging Attacks
+for 15s
+If you have C1 (Constellation 1) Shenhe, then you can stack both the Tap and Hold buffs
+(BUT NOT the same buff -- so Tapping E twice doesn't mean you'll get a 30% buff!)
+Shenhe summons her Cryo Avatar and does a massive AoE Cryo DMG attack. The attack will continuously pulse doing Cyro DMG to enemies inside the AoE. Debuffs enemies!
+The main selling point of her Q is that it
+reduces enemy Cryo and Phys RES by a set %
+based on Q level (so at level 8, reduces it by 13%). This is a huge buff for Cryo or Phys DPS characters!
+Her Q will also
+pulse a total of 12 times
+(2x every 2 seconds) dealing Cryo DMG to enemies inside the AoE.
+This goes without saying, but
+heavily recommended that you use her Q before you use her E to maximize the Cryo DMG.
+..
+BUT IF YOU'RE C1
+do Tap E > Q > Hold E instead to boost her own Q DMG!
+Basically her Q also provides +15% Cryo DMG when inside her AoE
+Talent Leveling Order:
+E = Q > Normal (prioritize E, but level E and Q both equally if possible)
+WEAPON #1 (Recommended for best Supporting): Calamity Queller
+How do I get it D: ? - It's time to roll boys (gacha)
+Has base ATK% scaling and gives Shenhe a bunch of ATK bonuses to boost her buffing!
+Calamity Queller
+is her signature weapon and her best in slot for one single reason: it bolsters her ATK like mad. At level 90/90 and R1, it gives
+741 base ATK + 35.7% ATK + 12% Elemental DMG
+. Not mention since her playstyle is similar to a quickswap character,
+she'll have the double Consummation bonus
+-- meaning she'll actually get
+38.4% ATK buff from the weapon passive alone
+. It's incredibly good for her E's Icy Quill buffs, and practically overkill.
+Engulfing Lightning and Skyward Spine
+are both close contenders, with
+Engulfing exceeding Skyward if you have over 165%-170% ER
+on Shenhe. However, running Engulfing would mean you would have to optimize your substats to qualify for the ER% needed to gain the ATK boost (running an ER% Sands also means you would then have to makeup for the lost ATK%!)
+Staff of Homa
+isn't bad, but it requires to keep your Shenhe below 50% HP to really benefit from the ATK% buff, and
+Primordial Jade-Winged Spear
+is also great, but requires your Shenhe to be on field for longer to get the ATK% stacks (which wastes Icy Quill duration). However, PJWS is good if you plan on running her main DPS!
+Vortex is good if you're running a shielder -- otherwise don't bother
+.
+WEAPON #2 (Recommended for 4-star): Wavebreaker's Fin
+How do I get it D: ? - It's time to roll boys (gacha)
+Has base ATK% scaling and boasts a huge base ATK + buffs her Q damage
+Other than that ridiculously high base ATK for a 4-star,
+Wavebreaker's Fin
+also provides a decent amount of ATK% and burst damage. Keep in mind, your team's overall
+Energy cost should be around the 280-320 range
+at R1 to really benefit over the other 4-star options.
+Otherwise, running
+an R5 Catch
+will easily become superior as it also means you're less restricted on team comps + it also provides Q CRIT%.
+Lithic Spear with a Liyue-based
+team is also a strong option, as it can provide easily
+28% ATK at R1
+(44% at R5) with a comp like Ganyu - Shenhe - Xingqiu - Zhongli etc...
+Favonius Lance
+is also a strong placeholder as it has high base ATK + high ER% to help Shenhe get her 80 cost burst faster!
+ARTIFACT #1 (Recommended for Support): Shimenawa's Reminiscence + Gladiator's Finale
+How do I get it D: ? - Shimenawa at Momiji-Dyed Court Domain (AR 30 Locked, 20 Resin per run), Gladiator's at Any World Boss (60 Resin per run)
+Boosts everything + her buffs
+Boosts everything + her buffs
+You just want to stack as much ATK% as possible for Support Shenhe, as it's critical to get the most out of her Icy Quill damage. Hence why you run
+2x Shime + 2x Glad
+to get an additional 36% ATK boost.
+Alternatively, you can run
+4x Noblesse
+if you want as it still does provide her whole team (and her) with a 20% ATK buff, which still benefits her Icy Quills!
+ARTIFACT #2 (Recommended for sub-DPS): Blizzard Strayer + Noblesse Oblige
+How do I get it D: ? - Blizzard at Peak of Vindagnyr Domain (AR 30 Locked, 20 Resin per run), Noblesse at Clear Pool and Mountain Cavern Domain (AR 35 Locked, 20 Resin per run)
+Boosts her E + Q damage
+Boosts her Q damage
+2x Blizzard + 2x Noblesse
+is mainly just so she can quickly do her Q > E (E > Q > E if you're C1) combo to maintain the buff while doing decent damage. Otherwise, if you want to actually run her as DPS or to deal a bit more personal damage,
+4x Blizzard
+honestly works fine too -- but most optimal if you're running a Freeze comp...
+Main stats (Support):
+Sands
+Goblet
+Circlet
+ATK%
+ATK%
+ATK%
+Substats: ATK (ATK% if not main) > CRIT%/CRIT DMG > ER > EM
+Main stats (sub-DPS):
+Sands
+Goblet
+Circlet
+ATK%
+ATK%
+CRIT% or CRIT DMG
+Substats: ATK% (flat ATK if not main) > CRIT%/CRIT DMG > ER > EM
+If you want other characters let me know. Hope this helped. Bye.

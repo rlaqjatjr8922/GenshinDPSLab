@@ -33,10 +33,19 @@ def process_character(
 
     docs = crawl_genshin_best_party(
         name=character,
-        max_workers=config.get("max_workers", 5),
-        max_docs=config.get("max_docs", 10),
-        request_delay=config.get("request_delay", 1.0),
-        min_content_length=config.get("min_content_length", 30),
+
+        # 🔥 기존
+        max_workers=config.get("max_workers", 4),
+        max_docs=config.get("max_docs", 8),
+        min_content_length=config.get("min_content_length", 300),
+
+        # 🔥 추가 (핵심)
+        search_result_limit=config.get("search_result_limit", 10),
+        ignore_keywords=config.get("ignore_keywords", []),
+        block_sites=config.get("block_sites", []),
+        search_keywords=config.get("search_keywords", []),
+        search_suffixes=config.get("search_suffixes", []),
+
         progress_callback=doc_progress_callback,
     )
 
@@ -46,7 +55,9 @@ def process_character(
         print(f"[결과 없음] {character}")
         return build_empty_summary_row(character)
 
-    save_results(character, docs)
+    # 🔥 필요할 때만 저장
+    if config.get("save_raw_text", True):
+        save_results(character, docs)
 
     party_counter = count_occurrences_per_doc(docs, all_character_aliases)
     weapon_counter = count_occurrences_per_doc(docs, all_weapon_aliases)

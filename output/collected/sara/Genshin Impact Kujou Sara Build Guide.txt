@@ -1,0 +1,163 @@
+Genshin Impact Kujou Sara Build Guide
+Muhammad Kumar
+-
+Dec 25, 2022
+|
+Mobile Games
+Kujou Sara is one of the most underrated Electro Support in Genshin Impact 3.3. Here are the best builds to bring out her full potential.
+Genshin Impact 3.3: Top 10 Most Used Teams For Spiral Abyss Floor 12
+5 Reasons To Pull Raiden Shogun In Genshin Impact 3.3 Rerun Banner
+Top 5 Must-Avoid Mistakes When Using Faruzan In Genshin Impact
+Kujou Sara is an Electro Bow user who's getting a rerun in 3.3 second phase, alongside Raiden Shogun. She is an excellent Support for Electro teams, and if players already got her in the first run, it is a great idea to try to get C6 Sara in this banner.
+In this article, Gurugamer is going to showcase the complete Genshin Impact Kujou Sara Build Guide, including talents, gears and team comps.
+Genshin Impact Kujou Sara Build
+1. Kujou Sara Talent Overview & Gameplay
+Talents
+Skill
+: Charged Shot will drop an Electro mine that explodes after a few seconds dealing AoE Electro DMG. Create a buff zone that increases ATK for characters inside, based on Sara's base ATK.
+Burst
+: Deals AoE Electro DMG, extending the ATK buff from her Skill. ATK Bonus from different Tengu Juurai sources cannot be stacked.
+Passive 1
+: While in the Crowfeather Cover state provided by Tengu Stormcall, Aimed Shot charge times are decreased by 60%.
+Passive 2
+: Feather explosion (Tengu Juurai: Ambush) restores 1.2 Energy to all party members for every 100% Energy Recharge she has. CD 3s.
+Sara Charged Attack
+Gameplay
+Overall, most players consider Kujou Sara's kit rather clunky. She can't deal damage off-field, and her buff is 20% lower value than Bennett's. Her energy regeneration boost is also pretty subpar as she needs a lot of ER for it to be worthwhile.
+The duration of her ATK buff is also very short and does not fit many teams. She needs C6 to become top-tier. Sara's combo is the usual support fare - just cast all her skills then switch to other characters.
+Talent Priority
+Kujou Sara is the usual support character whose whole purpose is to fire off Skill and Burst to contribute and then switch to the DPS. Just max her Skill first then her Burst.
+2. Kujou Sara Best Constellation
+With Sara being a 4-star, players should be able to get a few of her constellations and eventually max them out. Only C6 is great while the rest are nearly useless.
+C1: When Tengu Juurai grants characters ATK Bonuses or hits opponents, the CD of Tengu Stormcall is decreased by 1s. This allows players to use Sara's Skill right away every time they switch her out. However, as her Skill has a pretty short cooldown, this ability does not matter that much in the long run.
+C2: Unleashing Tengu Stormcall will leave a weaker Crowfeather at Kujou Sara’s original position that will deal 30% of its original DMG. Adds a little more damage and allows characters to get the ATK buff more easily.
+C4: The number of Tengu Juurai: Stormcluster released by Subjugation: Koukou Sendou is increased to 6. Increase her Burst's consistency a bit, but still not that big of an improvement.
+C6: The Electro DMG of characters who have had their ATK increased by Tengu Juurai has its Crit DMG increased by 60%. The only good ability in Sara's kit - this makes her perfect to support Electro DPS like Raiden and Yae.
+3. Best Weapon & Artifacts for Kujou Sara
+Kujou Sara Elemental Burst
+Weapons
+Kujou Sara can produce enough DMG through her Elemental Burst and buff the team using Elemental Skill. She usually builds ER and focuses on maximizing the damage of her Burst.
+Best weapon:  Skyward Harp
+Substitute: Elegy For The End, Sacrificial Bow, End Of The Line, Mouun's Moon.
+Artifacts
+Kujou Sara's Artifacts choice is fairly standard - players can just put Noblesse Oblige x4 (for buff) or Emblem Of Severed Fate x4 (for damage) on her. Alternatively, they can also use Noblesse x2 and Thundering Fury x2.
+Artifacts do not increase the buff that Kujou Sara provides so increasing the DMG of Elemental Burst and Skill will be the priority for Artifacts. The classic ATK/ Electro / CRIT works but using Energy Recharge sands also works well if you are using Emblem Of Severed Fate.
+Substat Priority
+Flower
+Main: Flat HP
+Sub: Energy Recharge / ATK% / CRIT Rate / CRIT DMG
+Feather
+Main: Flat ATK
+Sub: Energy Recharge / ATK% / CRIT Rate / CRIT DMG
+Sands
+Main: ATK%
+Sub: Energy Recharge / EM / CRIT Rate / CRIT DMG
+Goblet
+Main: Electro DMG Bonus
+Sub: Energy Recharge / ATK% / CRIT Rate / CRIT DMG
+Crown
+Main: CRIT Rate / DMG
+Sub: Energy Recharge / ATK% / CRIT Rate / CRIT DMG
+4. Genshin Impact Kujou Sara team comps
+While Kujou Sara has decent support abilities and Electro application, she needs more than C0 to be effective. Upon hitting C6, she gets one of the best support passives in the game, which increases Electro Crit DMG by 60%. Low versatility is also her weak point when compared to characters like Bennett.
+Kujou Sara Electro DPS team
+Character
+Role
+Artifact
+Constellation
+Raiden Shogun
+Main DPS
+Emblem of Severed Fate (4)
+Any
+Kujou Sara
+Sub DPS/Support
+Emblem of Severed Fate (4)
+C6
+Beidou
+Sub DPS/Support
+Emblem of Severed Fate (4)
+C6 (if possible)
+Bennett
+Sub DPS/Support
+Noblesse Oblige (4)
+C5 (if possible)
+Overall, mono Electro team comps like this require Kujou Sara to be C6 for the highest crit damage possible. As she came out with
+Raiden Shogun
+, Sara is the perfect companion to support her. In this particular lineup, Raiden Shogun is the main DPS, dealing damage with her burst.
+Raiden is part of Kujou Sara best team comp.
+As the damage of Raiden's burst is based on the energy consumed by team members, both Beidou and Kujou Sara fit perfectly as their elemental bursts require 80 energy. Individually, Beidou's burst can provide Electro dmg off-field and Kujou Sara can maximize Raiden Shogun and Beidou's burst damage.
+The last piece of the puzzle can pretty much be any character, however, Bennett is the top choice here with his ability to heal and boost ATK.
+Beidou can be replaced with Kazuha if players need crowd control. He can actually provide better damage if your build is focused on Raiden dealing damage solo.
+Kujou Sara Overload Team
+Character
+Role
+Artifact
+Constellation
+Raiden Shogun
+Main DPS
+Emblem of Severed Fate (4)
+Any
+Kujou Sara
+Sub DPS/Support
+Emblem of Severed Fate (4)
+C6
+Xiangling
+Sub DPS/Support
+Emblem of Severed Fate (4)
+C6 (if possible)
+Bennett
+Sub DPS/Support
+Noblesse Oblige (4)
+C5 (if possible)
+Similar to the above lineup, Raiden Shogun is the main DPS of the team, dealing damage using her burst and staying on the field as the main DPS. She also provides energy regeneration to Kujou Sara and Xiangling.
+Xiangling's main role is to provide burst damage and Pyro application so that Raiden can trigger huge Overload damage. Kujou Sara C6 provides Raiden with a massive damage boost. As usual, Bennett's Elemental Burst provides decent ATK buff and healing to the team. His Pyro resonance with Xiangling also provides good damage.
+>>> Read more:
+Genshin Impact 3.4 Yaoyao: Talents, Constellations, Ascension Materials Revealed
+Tags
+#Genshin Impact
+#Genshin Impact Characters
+#Genshin Impact 3.3
+#Genshin Impact Guide
+Comments
+Sort by
+Newest
+|
+Popular
+Please
+sign in
+to send your comment.
+Send
+View more comments
+Next story
+MOST POPULAR
+127468 views
+Mobile Games
+-
+Jun 05, 2025
+10 Hottest Mobile Games to Play in 2025 - They Are Super Addictive!
+110050 views
+Mobile Games
+-
+Jan 06, 2026
+How Popular is Free Fire in India in 2026?
+108071 views
+Mobile Games
+-
+Aug 16, 2021
+Azur Lane Equipment Tier List Complete Guide 2025 Updated
+97757 views
+Mobile Games
+-
+Dec 31, 2025
+Best Mobile Games Offline In 2026 You Should Give A Try
+95541 views
+Mobile Games
+-
+Sep 29, 2025
+Free Fire Headshot Hack: Everything About Headshot Hack In Free Fire (Updated 2025)
+FEATURED STORIES
+Free Fire MAX Redeem Codes March 31, 2026: Get Free Diamonds with 100% Working Codes
+Honkai Star Rail Sparxie 4.0 Hypercarry Guide
+Genshin Impact 6.3 Columbina Ultimate Build Guide
+BGMI Firearm Combat Power Leaderboards: Full Guide to Free Mythic Titles
+How To Boost Free Fire Honor Score Complete Guide 2025

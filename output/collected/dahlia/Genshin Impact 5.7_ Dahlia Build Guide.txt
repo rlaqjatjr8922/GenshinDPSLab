@@ -1,0 +1,276 @@
+Genshin Impact 5.7: Dahlia Build Guide
+John Drake
+-
+Jun 17, 2025
+|
+Mobile Games
+Whereas Mika carved a niche for himself as a valuable healer in Eula and Wriothesley's teams, Dahlia seems to struggle with finding an identity.
+Rewinding Cadence: A New Challenger to Genshin’s Throne
+Skirk Build Guide and Lore in Genshin Impact 5.7
+HoYoVerse Might Drop a Zenless Zone Zero Anime Before Genshin Impact
+Dahlia’s a solid pick for budget players needing a Hydro shielder or ATK Speed support, especially in Freeze teams or with Normal Attack DPS. Go for him if you:
+Run Freeze teams with folks like Skirk or Wriothesley.
+Want a shielder who speeds up characters like Ayato or Yoimiya.
+Like his exploration perks or want that C6 revive.
+Pass if you need off-field Hydro (like Xingqiu or Furina) or don’t use Freeze/Normal Attack teams.
+Dahlia’s on banners starting
+June 18, 2025
+, with Pikulik and Shenhe in Phase 1 of Version 5.7.
+Role and Playstyle
+Role
+: Hydro Support/Shielder, ATK Speed Buffer
+Key Mechanics
+:
+Elemental Burst (Radiant Psalter)
+: Hits enemies with AoE Hydro DMG and gives your team a shield that scales with Dahlia’s HP (250% stronger against Hydro DMG). It also boosts ATK Speed based on his Max HP (0.5% per 1,000 HP, max 20%). You can keep the shield going by earning
+Benison stacks
+through Freeze reactions or Normal Attacks.
+Elemental Skill (Mist-Rain Mystery/Sacramental Shower)
+: Creates a field that either explodes for Hydro DMG when enemies touch it or launches your character upward for exploration or Plunging Attacks.
+Passive (Utility)
+: Speeds up your party’s movement by 10% during the day (06:00–18:00) in the overworld, but it doesn’t work in Domains or Spiral Abyss.
+C6 (Notable Constellation)
+: Lets you revive one teammate to full HP when they’re under Favonian Favor, but only once every 15 minutes.
+Dahlia’s great for Freeze teams since his shield refreshes with Frozen enemies, and he helps Normal Attack-focused characters swing faster. He’s not the best for off-field Hydro application, so he doesn’t always click with folks like Furina.
+Best Weapons
+Dahlia needs weapons that pump up his
+HP% and Energy Recharge to make his shields beefy and keep his Burst ready. Here’s what works:
+Key of Khaj-Nisut (5-star)
+Why
+: Gives a ton of HP% (up to 66.2% at R1), making shields and ATK Speed boosts stronger. Also throws in some Elemental Mastery for the team, which is nice in reaction teams.
+Source
+: Limited Weapon Banner.
+Sacrificial Sword (4-star)
+Why
+: Boosts Energy Recharge (up to 61.3% at R1) and might reset your Elemental Skill cooldown, helping you spam Burst more.
+Source
+: Gacha.
+Favonius Sword (4-star)
+Why
+: Same Energy Recharge as Sacrificial (up to 61.3% at R1) and makes energy particles for your team, keeping Burst uptime solid.
+Source
+: Gacha.
+Fleuve Cendre Ferryman (4-star, F2P)
+Why
+: Decent Energy Recharge (up to 45.9% at R1) and a bit of Elemental Skill CRIT Rate, which is okay for free-to-play players.
+Source
+: Fountain Fishing Association.
+Sapwood Blade (4-star, F2P)
+Why
+: Lowers Energy Recharge (up to 30.6% at R1) but gives a small EM boost for reaction teams. Good enough if you’re on a budget.
+Source
+: Sumeru Craftable.
+Note
+: Skip team support weapons like Freedom-Sworn; they don’t really help Dahlia’s kit.
+Best Artifacts
+You want artifacts that max out
+HP%
+for beefy shields and ATK Speed buffs, plus
+Energy Recharge
+to keep his Burst up. Check these out:
+4-piece Tenacity of the Millelith
+Why
+: Ups HP by 20%, which helps shields and ATK Speed, and gives your team a 20% ATK boost plus 30% Shield Strength when you hit enemies with your Skill. The buff only lasts 3 seconds, so it can be tricky to keep it going.
+Main Stats
+: HP% Sands, HP% Goblet, HP% Circlet
+Sub Stats
+: Energy Recharge, HP%, Elemental Mastery, DEF%
+4-piece Noblesse Oblige
+Why
+: Makes your Burst hit 20% harder and gives the team a 20% ATK buff for 12 seconds, which is easier to maintain than Tenacity. Great for team support.
+Main Stats
+: HP% Sands, HP% Goblet, HP% Circlet
+Sub Stats
+: Energy Recharge, HP%, Elemental Mastery
+2-piece HP% + 2-piece HP% (e.g., Vourukasha’s Glow, Tenacity of the Millelith)
+Why
+: Stacks HP (up to 40% combined) for tougher shields and better ATK Speed buffs. Good while you’re grinding for a full set.
+Main Stats
+: HP% Sands, HP% Goblet, HP% Circlet
+Sub Stats
+: Energy Recharge, HP%, Elemental Mastery
+Stat Priority
+:
+HP%
+: Shoot for ~40,000 HP to hit that 20% ATK Speed cap.
+Energy Recharge
+: 150–200%, depending on your weapon and team (less if you’ve got Sacrificial or Favonius).
+Elemental Mastery
+: Handy for reaction teams like Freeze or Vaporize.
+DEF%
+: Helps shields a bit but isn’t a must.
+Talent Priority
+Dahlia’s all about his
+Elemental Burst
+, with his
+Elemental Skill
+as a backup for energy and some Hydro application. Normal Attacks? Barely touch ‘em.
+Priority
+: Elemental Burst (Radiant Psalter) > Elemental Skill (Mist-Rain Mystery/Sacramental Shower) > Normal Attack (Favonia’s Fencing Style)
+Leveling
+: Get Burst and Skill to Level 8–10; leave Normal Attack at Level 1 unless you’re doing some Plunge attack shenanigans.
+Talent Materials
+(per talent to Level 10):
+Books
+: Teachings of Ballad (x9), Guide to Ballad (x63), Philosophies of Ballad (x114)
+Source
+: Forsaken Rift (Mondstadt, Wednesday/Saturday/Sunday)
+Common Drops
+: Damaged Mask (x18), Stained Mask (x66), Ominous Mask (x93)
+Source
+: Hilichurl Shooters (Teyvat-wide)
+Boss Material
+: Eroded Scale-Feather (x18)
+Source
+: Lord of Eroded Primal Fire (Fontaine, Stone Stele Records)
+Crown of Insight
+: x1 (from Events or stuff like Frostbearing Tree)
+Mora
+: ~1.6M per talent
+Ascension Materials
+To max Dahlia out at Level 90:
+Gems
+: Varunada Lazurite Sliver (x1), Fragment (x9), Chunk (x9), Gemstone (x6)
+Source
+: Hydro bosses (Hydro Tulpa, Hydro Hypostasis, Rhodeia of Loch, Solitary Suanni)
+Local Specialty
+: Calla Lily (x168)
+Source
+: Lakes and rivers in Mondstadt (like Starfell Lake) or Sumeru (Avidya Forest, Gandharva Ville)
+Boss Drop
+: Secret Source Code (x46)
+Source
+: Secret Source Automaton: Overseer Device (Natlan, Atoclan)
+Common Drops
+: Damaged Mask (x18), Stained Mask (x30), Ominous Mask (x36)
+Source
+: Hilichurl Shooters
+Mora
+: ~420,000
+Total Cost (0✦ to 6✦)
+: Check sites like Icy Veins or Lootbar for exact breakdowns.
+Pre-Farming Tip
+: Stock up on Calla Lilies and Hilichurl Masks early—they’re everywhere in Mondstadt. The Natlan boss for Secret Source Code can be tough, so bring a good team.
+Best Team Compositions
+Dahlia’s a star in
+Freeze teams
+since his shield loves Frozen enemies, and he’s solid with Normal Attack DPS characters who dig his speed boost. Here’s who he hangs with:
+Freeze Team
+(Top Pick)
+Dahlia (Hydro Support)
+: Brings shields and ATK Speed buffs.
+Skirk (Hydro DPS)
+: Loves the ATK Speed boost and Freeze setup.
+Rosaria/Diona (Cryo Sub-DPS/Support)
+: Rosaria adds CRIT Rate, Diona piles on more shields.
+Sucrose/Kazuha (Anemo Support)
+: Groups enemies and pumps up Elemental DMG with Viridescent Venerer.
+Rotation
+: Sucrose/Kazuha E > Diona/Rosaria Q > Dahlia Q > Skirk Q/Normal Attacks.
+Vaporize Team
+Dahlia (Hydro Support)
+: Shields and speeds up attacks.
+Marjorie (Pyro DPS)
+: Sets off Vaporize with Dahlia’s Hydro.
+Xingqiu (Hydro Sub-DPS)
+: Keeps Hydro flowing for Vaporize.
+Bennett (Pyro Support)
+: Heals and boosts ATK.
+Rotation
+: Bennett Q > Xingqiu Q > Dahlia Q > Marjorie NA/CA.
+Plunge Attack Team
+(Niche)
+Dahlia (Hydro Support)
+: Sets up Plunging Attacks with his Skill.
+Xiao/Diluc (Anemo/Pyro DPS)
+: Smashes with Plunge DMG.
+Xianyun (Anemo Support)
+: Buffs Plunge DMG and heals.
+Furina (Hydro Sub-DPS)
+: Ups team DMG with Fanfare stacks.
+Rotation
+: Xianyun E/Q > Dahlia E > Furina Q > Xiao/Diluc Plunge.
+Note
+: Dahlia’s not great at off-field Hydro, so he’s not Furina’s best buddy. Stick to Freeze teams or pair with someone like Xingqiu for Hydro application.
+Constellations
+Dahlia’s constellations make him an even better support:
+C1 (Infallible Procession)
+: Gives back 2.5 Energy per Benison stack during Burst, helping you use it more often.
+C2 (Revelation of Mercy)
+: Boosts Shield Strength by 25% for 12s after using Benison stacks.
+C3
+: Ups Burst level by 3 (max 15).
+C6
+: Revives one teammate to full HP under Favonian Favor, but only once every 15 minutes. Super handy for tough fights.
+Recommendation
+: C1 and C2 help with energy and shields; C6 is awesome for the revive but not a must-have.
+Playstyle Tips
+Rotation
+: Kick off with your support skills (like Anemo or Cryo), use Dahlia’s Skill to build energy, then pop his Burst for Favonian Favor. Swap to your DPS and Freeze enemies or spam Normal Attacks to keep the shield up.
+Exploration
+: His Skill lets you jump high for Plunging Attacks or to reach tricky spots, and the daytime Movement Speed boost makes running around easier.
+Energy Management
+: Aim for 150–200% Energy Recharge for consistent Bursts, especially without Sacrificial Sword.
+Team Synergy
+: He’s great with Cryo characters (Skirk, Wriothesley) for Freeze or Normal Attack DPS (Ayato, Yoimiya) for ATK Speed. Don’t rely on him for Hydro in Vaporize teams.
+Pros and Cons
+Pros
+:
+First 4-star Hydro shielder, fills a cool niche.
+ATK Speed buff helps Normal Attack DPS shine.
+Rocks Freeze teams with his shield-refresh trick.
+Easy to build with F2P weapons and materials.
+Handy for exploration with speed and jumps.
+Cons
+:
+Weak off-field Hydro application, so he’s not great with Furina.
+Shield uptime needs Freeze or Normal Attacks, limiting team options.
+Tenacity’s buff is short (3–6s) and hard to keep up.
+Doesn’t deal much damage since he builds HP but scales with ATK.
+Tags
+#Genshin Impact
+#Genshin Impact Guide
+#Genshin Impact 5.7
+Comments
+Sort by
+Newest
+|
+Popular
+Please
+sign in
+to send your comment.
+Send
+View more comments
+Next story
+MOST POPULAR
+127468 views
+Mobile Games
+-
+Jun 05, 2025
+10 Hottest Mobile Games to Play in 2025 - They Are Super Addictive!
+110050 views
+Mobile Games
+-
+Jan 06, 2026
+How Popular is Free Fire in India in 2026?
+108071 views
+Mobile Games
+-
+Aug 16, 2021
+Azur Lane Equipment Tier List Complete Guide 2025 Updated
+97757 views
+Mobile Games
+-
+Dec 31, 2025
+Best Mobile Games Offline In 2026 You Should Give A Try
+95541 views
+Mobile Games
+-
+Sep 29, 2025
+Free Fire Headshot Hack: Everything About Headshot Hack In Free Fire (Updated 2025)
+FEATURED STORIES
+Free Fire MAX Redeem Codes March 31, 2026: Get Free Diamonds with 100% Working Codes
+Honkai Star Rail Sparxie 4.0 Hypercarry Guide
+Genshin Impact 6.3 Columbina Ultimate Build Guide
+BGMI Firearm Combat Power Leaderboards: Full Guide to Free Mythic Titles
+How To Boost Free Fire Honor Score Complete Guide 2025

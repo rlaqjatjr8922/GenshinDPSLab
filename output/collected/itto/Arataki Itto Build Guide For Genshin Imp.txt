@@ -1,0 +1,254 @@
+Arataki Itto is a 5* Geo Claymore DPS who scales with DEF and works incredibly well in Geo-centric teams.
+Due to his DEF scaling, Itto is one of the more F2P-friendly main DPS characters, insofar as many of his top weapon choices aren’t 5* gacha weapons.
+This is balanced out by his choice of synergistic teammates, which is quite narrow if you’re trying to make an optimal team. Arataki Itto depends on Gorou to kick ass.
+While he may fall short of an S-Tier placement in our
+Genshin Impact Tier List
+, Itto is a solid A-Tier DPS who’s worth building a team around.
+To enable Itto to perform at his best, you’ll need to:
+Prioritize his talents
+Evaluate his constellations
+Use the best weapon
+Equip the right artifacts
+Create a synergistic team composition
+In this Arataki Itto build guide, we’ll show you how to do all of this and more, so let’s start with the talents.
+Related:
+Genshin Impact Beginner’s Guide
+Genshin Impact Weapon Tier List
+Best Artifacts For Each Character In Genshin Impact
+Table of Contents
+Show
+Arataki Itto’s Talent Priority
+Talent
+Description
+Priority
+Normal Attack
+(Fight Club Legend)
+Normal Attack
+Perform up to 4 consecutive strikes.
+When the 2nd and 4th strikes hit opponents, Itto will gain 1 and 2 stacks of Superlative Superstrength, respectively. Max 5 stacks. Triggering this effect will refresh the current duration of any existing stacks.
+Additionally, Itto’s Normal Attack combo does not immediately reset after sprinting or using his Elemental Skill, “Masatsu Zetsugi: Akaushi Burst!”
+Charged Attack
+When holding to perform a Charged Attack, Itto unleashes a series of Arataki Kesagiri slashes without consuming Stamina. Instead, each Arataki Kesagiri slash consumes 1 stack of Superlative Superstrength. When the final stack is consumed, Itto delivers a powerful final slash. If no stacks of Superlative Superstrength are available, Itto will perform a single Saichimonji Slash.
+Plunging Attack
+Plunges from mid-air to strike the ground, damaging opponents along the path and dealing AoE DMG upon impact.
+Itto’s unique Charged Attacks are the focal point of his kit. Everything he does is focused on giving him more stacks needed to perform these Charged Attacks or making them hit harder.
+This is, without a doubt, Itto’s
+most important talent
+.
+Elemental Skill
+(Masatsu Zetsugi: Akushi Burst!)
+Hurls Ushi, the young akaushi bull and auxiliary member of the Arataki Gang, dealing Geo DMG to opponents on hit. When Ushi hits opponents, Arataki Itto gains 1 stack of Superlative Superstrength.
+Ushi will remain on the field and provide support in the following ways:
+• Taunts surrounding opponents and draws their attacks.
+• Inherits HP based on a percentage of Arataki Itto’s Max HP.
+• When Ushi takes DMG, Arataki Itto gains 1 stack of Superlative Superstrength. Only 1 stack can be gained in this way every 2s.
+• Ushi will flee when its HP reaches 0 or its duration ends. It will grant Arataki Itto 1 stack of Superlative Superstrength when it leaves.
+Hold
+Adjust throwing angle.
+Ushi is considered a Geo Construct. Arataki Itto can only deploy 1 Ushi on the field at any one time.
+Itto’s Elemental Skill does two things:
+1. It provides him with a steady flow of Superlative Superstrength stacks needed to perform his Charged Attacks, and
+2. It deals a metric ton of DMG.
+Don’t underestimate how hard this Elemental Skill can hit. It’s not uncommon for it to rival the DMG of Zhongli’s Elemental Burst.
+We say all this to drive home the point that this Elemental Skill
+is worth leveling up
+, despite it being his
+least important talent
+.
+Elemental Burst
+(Royal Descent: Behold, Itto the Evil!)
+Time to show ’em the might of the Arataki Gang! For a time, Itto lets out his inner Raging Oni King, wielding his Oni King’s Kanabou in battle.
+This state has the following special properties:
+• Converts Itto’s Normal, Charged, and Plunging Attacks to Geo DMG. This cannot be overridden.
+• Increases Itto’s Normal Attack SPD. Also increases his ATK based on his DEF.
+• On hit, the 1st and 3rd strikes of his attack combo will each grant Arataki Itto 1 stack of Superlative Superstrength.
+• Decreases Itto’s Elemental and Physical RES by 20%.
+The Raging Oni King state will be cleared when Itto leaves the field.
+Itto’s Elemental Burst makes it easier to procure stacks needed for his Charged Attacks, gives him a Geo infusion, increases his attack speed, and—most importantly—increases his ATK by a ton, with the only drawback being the reduced Resistance that accompanies this state.
+This is Itto’s
+second-priority talent
+, and it doesn’t lag far behind his Normal Attack talent.
+Arataki Itto’s Passive Talents
+Talent Name
+Description
+Evaluation
+Necessary Calculation
+When a party member uses attacks to obtain wood from a tree, they have a 25% chance to obtain an additional log of wood.
+Unless you play Genshin Impact for the sole purpose of tinkering with its housing system,
+this talent is inconsequential
+.
+Turn Control
+When Arataki Itto uses consecutive Arataki Kesagiri, he obtains the following effects:
+• Each slash increases the ATK SPD of the next slash by 10%. Max ATK SPD increase is 30%.
+• Increases his resistance to interruption.
+These effects will be cleared once he stops performing consecutive slashes.
+This talent dictates the optimal attack pattern for Itto’s Charged Attacks—procuring max stacks and them spending them all at once.
+All things considered though, this talent is
+not that impactful
+.
+Adapt With Ease
+Arataki Kesagiri DMG is increased by 35% of Arataki Itto’s DEF.
+Itto already had some DEF scaling baked into his Burst, but this passive talent adds another source of DEF scaling to all his unique Charged Attacks, regardless of whether or not his Burst is active.
+This passive is great
+.
+Arataki Itto’s kit is a well-oiled machine that works great but is only meant to be used in one way:
+You get as many Superlative Superstrength stacks as quickly as possible and then expend them all to perform Arataki Kesagiri Charged Attacks, preferably with his Burst active.
+There’s not a lot of room for experimentation if you want optimal results.
+That being said, all of his talents are useful and contribute to streamlining this unique playstyle.
+There’s only one thing to note here—Itto is largely underpowered without his Burst, dealing significantly less DMG and having difficulty getting his stacks up.
+This is why we recommend teaming him up with several Geo characters who can help ensure his Burst will be ready as soon as it comes off cooldown.
+We’ll get to the portion of the build guide that covers teammates soon enough, but first, let’s look at Itto’s constellations.
+Arataki Itto’s Constellations
+Constellation Name
+Description
+Evaluation
+Stay a While and Listen Up
+After using Royal Descent: Behold, Itto the Evil!, Arataki Itto gains 2 stacks of Superlative Superstrength. After 1s, Itto will gain 1 stack of Superlative Superstrength every 0.5s for 1.5s.
+Itto’s C1 actually extends the number of unique Charged Attacks that he can perform, thereby frontloading a bit more DMG into his Burst.
+That being said,
+this constellation is not worth it
+on its own.
+Gather ‘Round, It’s a Brawl!
+After using Royal Descent: Behold, Itto the Evil!, each party member whose Element is Geo will decrease that skill’s CD by 1.5s and restore 6 Energy to Arataki Itto.
+CD can be decreased by up to 4.5s in this manner. Max 18 Energy can be restored in this manner.
+Itto’s C2 decreases his Burst downtime by both decreasing its cooldown and refunding some Energy.
+This is
+a massive quality of life improvement
+and well worth it for dedicated Itto mains.
+Horns Lowered, Coming Through
+Increases the Level of Masatsu Zetsugi: Akaushi Burst! by 3. Maximum upgrade level is 15.
+As mentioned, Itto’s Elemental Skill hits as hard as some other characters’ Elemental Bursts, so adding three levels to it translates to a lot of extra DMG.
+C3 is a nice front-loaded DMG spike
+.
+Jailhouse Bread and Butter
+When the Raging Oni King state caused by Royal Descent: Behold, Itto the Evil! ends, all nearby party members gain 20% DEF and 20% ATK for 10s.
+Itto’s C4 is a bit weird since his C2 already reduces his Burst downtime by quite a lot. This means other party members won’t get much field time to use this buff.
+C4 is not worth it
+—it has some niche uses, but given how expensive constellations are, we expect them to do more than this.
+10 Years of Hanamizaka Fame
+Increases the Level of Royal Descent: Behold, Itto the Evil! by 3.
+Maximum upgrade level is 15.
+C5 is a solid DMG spike
+, as the DEF scaling provided by Itto’s Burst scales past talent level 10.
+Arataki Itto, Present!
+Arataki Itto’s Charged Attacks deal +70% Crit DMG. Additionally, when he uses Arataki Kesagiri, he has a 50% chance to not consume stacks of Superlative Superstrength.
+Itto’s
+C6 is an amazing constellation
+, turning him into a powerhouse who can club enemies around with his unique Charged Attack for days on end.
+As far as Arataki Itto’s constellations go, there are some great contenders.
+C2 and C6 stand out as the best of the bunch, but C1, C3, and C5 all add quite a bit of DMG.
+The only outlier is C4, which adds dubious value.
+That being said, unless you plan to focus your entire account around Arataki Itto because he is your absolute favorite, we don’t recommend gunning for any of his constellations.
+The price of a constellation is the same as the price of another 5* character, after all. And no constellation adds value equal to that of a brand new 5* unit.
+Related:
+Genshin Impact Tier List
+How To Get Characters In Genshin Impact?
+Best Games Like Genshin Impact
+Best Weapons For Arataki Itto
+Weapon Rarity
+Explanation
+Redhorn Stonethresher
+5*
+Redhorn Stonethresher is Itto’s BiS weapon due to its huge CRIT DMG substat and added DEF-scaling for Normal and Charged Attacks through the passive. Since Itto’s kit is focused around DEF, he doesn’t mind the low base ATK of the weapon as much as other DPS characters might.
+Serpent Spine
+4*
+Serpent Spine is Itto’s second-best weapon option due to its CRIT Rate substat and amazing DMG boosting passive. Even at C0, this weapon will outperform all other 5* weapons except for Redhorn Stonethresher.
+At max refinement, it can compete with r1 Stronethresher without any issues.
+So, while not a F2P weapon, the Serpent Spine is an accessible alternative for BP players.
+Whiteblind
+4*
+The craftable Whiteblind is Itto’s best F2P weapon, adding a ton of ATK and DEF. Just make sure to attack four times before casting his Burst to ensure you get maximum value from the passive. At maximum refinement, Whiteblind technically outperforms r1 Serpent Spine, so long as you’re able to get the CRIT ration in order.
+Blackcliff Slasher
+4*
+Thanks to its CRIT DMG substat, Blackcliff Slasher is another solid F2P option for Itto, although not as good as Whiteblind.
+Best Artifacts For Arataki Itto – 4-Husk of Opulent Dreams
+Arataki Itto is a DPS character who relies on DEF and Geo DMG to pump out big DMG numbers.
+And wouldn’t you know it, the
+4-piece Husk of Opulent Dreams
+artifact set bonus increases both DEF and Geo DMG, making it the best
+set bonus
+for Itto.
+The main stats you’ll want to use here are:
+DEF%
+on the Sands
+Geo DMG
+on the Goblet
+CRIT Rate/CRIT DMG
+on the Logos
+And as for substats, the best rolls you could get are:
+CRIT Rate
+CRIT DMG
+Energy Recharge
+DEF%
+ATK%
+If you don’t have a 4-piece Husk of Opulent Dreams, you could use some of the following
+2-piece artifact set bonuses
+:
+Husk of Opulent Dreams
+Archaic Petra
+Emblem of Severed Fate
+Alternatively, the
+4-piece Retracing Bolide
+is also solid if you’ve already got good artifact pieces for it, although we wouldn’t recommend farming for this set if you don’t already have it.
+Best Team Composition For Arataki Itto
+F2P Arataki Itto Team
+Arataki Itto
+Gorou
+Ningguang
+Fischl
+Arataki Itto
+is the team’s main DPS, demanding most of the on-field time to whack enemies on the head.
+Gorou
+is the best Support for Arataki Itto, bar none. He buffs DEF by default and—provided there are at least three Geo characters in the team—also buffs Geo DMG. Plus, he’ll ensure Itto has access to Geo Resonance which he so desperately needs.
+Ningguang
+is the team’s sub-DPS. You should only swap her in to use her abilities and then cycle to another character. Itto and Gorou work well with a 3
+rd
+Geo character in the team and Ningguang is our top F2P choice for this as she offers both loads of DMG and adds another way to buff Itto’s Geo DMG through her Elemental Skill. If you don’t have Ningguang, you can use
+Geo Traveler
+who can increase Itto’s CRIT Rate.
+Fischl
+is our preferred 4
+th
+pick for Itto’s F2P team because she adds a lot of off-field DMG without requiring any on-field time. Her passive also offers some DMG even when Crystalized Reactions are popped. However, you can use whoever you want, provided they don’t take away on-field time from Itto. Top choices include
+Diona
+for shielding and healing,
+Thoma
+for shielding and some extra DMG, or even
+Bennett
+for the extra ATK. All of these characters require a ton of Energy to work, which is why we prefer Fischl.
+Whale Mono Geo Itto Team
+Arataki Itto
+Gorou
+Albedo
+Zhongli
+Arataki Itto
+and
+Gorou
+are such a powerful and synergistic duo that you would not want to separate them even with access to all characters in the game.
+Albedo
+is the team’s main source of off-field Geo DMG. What’s amazing is the Albedo also scales off of both DEF and Geo DMG, so he gets maximum value from Gorou’s buff.
+Zhongli
+is primarily here to function as the team shielder, although he adds quite a bit of DMG through his Geo Resistance shredding and Elemental Burst. With the lack of a healer in this team, he’s also there to ensure that Itto never takes any DMG.
+Related:
+How To Get Starglitter In Genshin Impact
+Genshin Impact F2P Primogems Guide
+Genshin Impact Co-op Multiplayer Guide
+Is Arataki Itto Worth It?
+Arataki Itto is a powerful DPS character that can handle even the most difficult content thrown at him.
+If you enjoy his playstyle, personality, or you just got lucky and pulled him without meaning to, you can rest assured that he is a worthwhile character to invest resources into.
+In this sense, he is worth it.
+Moreover, he’s a fairly F2P-friendly unit, as he’s perfectly capable of tackling difficult content with just a Whiteblind and Gorou in tow.
+However, do be aware that Itto is not a character who can be used in many teams.
+Unlike
+Yelan
+or
+Raiden Shogun
+, both of whom can be used in pretty much any team to great effect, Itto only works in Geo-centric teams.
+So make sure that you enjoy Itto’s simplistic playstyle that’s devoid of any meaningful Elemental Reactions before committing your resources to him. We’re not saying this playstyle is wrong or underpowered—just that it’s not for everyone.
+You can see how this playstyle sits with you by running
+Noelle
+, a free 4* character who’s uses the same weapons, artifacts, and teams as Itto.
+You Will Love These Too
+Kazuha Build Guide For Genshin Impact
+Heizou Build Guide For Genshin Impact
+Genshin Impact Tier List

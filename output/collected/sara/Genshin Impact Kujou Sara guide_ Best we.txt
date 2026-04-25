@@ -1,0 +1,190 @@
+Kujou Sara
+is a
+4-star playable electro
+bow-wielding
+character in
+Genshin Impact
+. She first appeared on the
+Version 2.0 Special Program
+and the players meet her during the
+Archon quest
+.
+Patch 2.1
+has introduced the electro archon as the 5-star rate-up character. Her constellation is called
+Flabellum
+. In this guide, we will cover everything about Kujou Sara in Genshin Impact and her talents, passive skills, best weapons, and artifacts along with the required ascension materials.
+Kujou Sara: Playstyle and skillset of the character
+Sara is a member of the
+Kujou Clan
+and acts as a bodyguard for the
+Electro archon
+Baal
+and leads the troops in seizing the visions. Being a general of the
+Tenryou Commission
+, she is extremely skilled in battle.
+The Tengu warrior can be utilized in many roles. But, her best role is based on her stats and skills. She looks to be
+burst support
+which provides buffs to the team. She is also a good addition to a
+quick swap team.
+Name
+Type
+Tengu Bowmanship
+Normal Attack
+: Perform Upto 5 consecutive attacks with a bow.
+Charged Attack
+: Perform a more precise Aimed Shot with increased DMG. While aiming, crackling lightning will accumulate on the arrowhead. An arrow fully charged with the storm’s might will deal Electro DMG.
+When in the Crowfeather Cover state, a fully-charged arrow will leave a Crowfeather behind after it hits.
+Plunging Attack:
+Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.
+Normal Attack
+Tengu Stormcall
+Retreats rapidly with the speed of a tengu, summoning the protection of the Crowfeather. Gains
+Crowfeather
+Cover
+for 18s, and when Kujou Sara fires a fully-charged Aimed Shot, Crowfeather Cover will be consumed and will leave a Crowfeather at the target location.
+Crowfeathers will trigger
+Tengu Juurai: Ambush
+after a short time, dealing Electro DMG and granting the active character within its AoE an ATK Bonus based on Kujou Sara’s Base ATK.
+The ATK Bonuses from different Tengu Juurai will not stack, and their effects and duration will be determined by the last Tengu Juurai to take effect.
+Elemental Skill
+Subjugation
+:
+KouKou Sendou
+Casts down Tengu Juurai: Titanbreaker, dealing AoE Electro DMG. Afterwards,
+Tengu Juurai: Titanbreaker
+spreads out into 4 consecutive bouts of Tengu Juurai: Stormcluster, dealing AoE Electro DMG.
+Tengu Juurai: Titanbreaker
+and
+Tengu Juurai: Stormcluster
+can provide the active character within their AoE with the same ATK Bonus as given by the Elemental Skill, Tengu Stormcall.The ATK Bonus provided by various kinds of Tengu Juurai will not stack, and their effects and duration will be determined by the last Tengu Juurai to take effect.
+Elemental Burst
+Kujou Sara's atk bonus doesn't stack with the same skill if other are using her, but can tack with Bennett atk buff over doubling the attack bonus. This is going to be insane.
+pic.twitter.com/hCmjbQJXCt
+— Lunar 🍊 (@LunarEklipz)
+July 25, 2021
+Kujou Sara’s Passive
+Immovable Will
+: When in Crowfeather cover state provided by Tengu Stormcall, aimed shot charge times are decreased by 60%.
+Decorum
+: When Tengu Jurai: Ambush hits opponents, Kujou Sara will restore 1.2 energy to all party members for every 100% Energy Recharge she has. This effect can be triggered once every 3 seconds.
+Land Survey
+: When dispatched on expedition in Inazuma, time consumed is reduced by 25%.
+Sets to farm for Kujou Sara in Genshin Impact
+Stats to look on artifacts
+Kujou Sara in Genshin Impact
+Players can use characters in various ways in accordance with the team’s needs. Characters of the same element also provide elemental resonance. Therefore, while looking at the artifacts for Sara, we will focus on two builds. The first role being of
+Burst Support
+and the second role can be as a
+Sub DPS
+.
+1. Burst Support
+Main Stats:
+Energy Recharge (for 4 pc Noblesse) or Attack% (for 4 pc Emblem), Electro DMG Bonus, Crit Rate/Crit DMG.
+Substats : Energy Recharge > Crit Rate, Crit Damage > Atk%.
+4 pc Noblesse Oblige
+at first glance looks like the best artifact. This is because it had been the best artifact set for support characters since its inception. It provides a 20% burst damage increase along with a 20% attack boost for all party members.
+Another good option is the
+4 pc Emblem of Severed fate
+. It is one of the best artifact sets for Kujou Sara since it provides both energy recharge and extra damage for the elemental burst based on energy recharge, meaning high uptime for the burst along with high damaging numbers.
+2. Sub DPS
+Main Stats:
+Attack% (With Emblem)/Energy Recharge, Electro DMG Bonus, Rate/Crit DMG.
+While focussing on the sub DPS build, players need to pay attention to the elemental skill as well as the elemental burst.
+Therefore players can choose either between a 2-PC Thundering Fury and 2-pc Gladiator/Shimenawa’s Reminiscence or 4-PC Emblem of Severed Fate set.
+Materials required for ascension of Sara
+Materials Required for the ascension of Kujou Sara
+The materials needed to ascend Sara from
+Level 1
+to
+Level 90
+are as follows:
+1x
+Vajrada Amethyst Sliver
+9x
+Vajrada Amethyst Fragment
+9x
+Vajrada Amethyst Chunk
+6x
+Vajrada Amethyst Gemstone
+168x
+Dendrobium
+46x
+Storm Beads
+18x
+Damage Mask
+30x
+Stained Mask
+36x
+Ominous Mask
+420,000
+Mora
+Talent Upgrade Materials for Sara
+3x
+Teachings of Elegance
+6x
+Damaged Mask
+21x
+Guides to Elegance
+22x
+Stained Mask
+38x
+Philosophies of Elegance
+31x
+Ominous Mask
+6x
+Ashen Heart
+1x
+Crown of Insight
+1,652,500x
+Mora
+Teachings, Guides and Philosophies of Elegance
+are obtainable from the domain Violet Court on
+Tuesday, Friday and Sunday.
+Best weapons for Kujou Sara in Genshin Impact
+Similar to Bennet, Kujou Sara provides attack buffs based on the base attack. Therefore,
+weapons with higher base attacks
+will do better over lower base attack weapons.
+5 stars with their higher base attacks will provide higher buffs. Among the 5-star weapons, the best options are
+Skyward Harp
+and
+Elegy for the end
+are the best weapons for Sara in general. For sub-DPS/ DPS for Sara,
+Thundering Pulse
+is the best.
+Among the 4-star weapons, the
+Sacrificial bow
+with its
+high base attack (highest in 4 stars)
+is hands-down the best option. It also provides a
+much-needed energy recharge stat
+along with its great passive which means more elemental skills can be used as a result of higher uptime for the burst as well.
+Alley hunter
+also has a high base attack and therefore serves as an alternative for the sacrificial bow. These are for players who already have their Sacrificial bow on some other character.
+For f2p players who were unable to find any good
+gacha
+weapons,
+Blackcliff warbow
+can be used until they find a better weapon.
+Related – Genshin Impact Xiao Guide: Best weapons, artifacts, materials required for ascension
+What are your takeaways from the Genshin Impact
+Kujou Sara
+Guide? Let us know in the
+comments
+below.
+For more Mobile Gaming news and updates, join our
+WhatsApp group
+,
+Telegram Group
+,
+or
+Discord server
+. Also, follow us on
+Google News
+,
+Instagram
+, and
+Twitter
+for quick updates.
+Tags
+Gacha Games
+Genshin Impact

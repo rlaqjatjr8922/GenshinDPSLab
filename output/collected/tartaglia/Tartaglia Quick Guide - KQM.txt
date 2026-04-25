@@ -1,0 +1,455 @@
+Updated for Version 4.0
+Tartaglia, or Childe, is a 5-star Hydro Bow character with an alternate stance (Melee Stance) where he wields two Hydro daggers. Childe can enable other units to do more damage with his high Hydro application and fast attacks in his Melee Stance, whilst also providing significant damage himself.
+More extensive testing on new information is in progress; note that the information given is subject to change if and when new discoveries are made.
+The full-length
+Tartaglia Guide
+(currently in the process of being updated) is available here. Join
+KQM
+and
+Childe Mains
+to find out more and participate in the process.
+Table of Contents
+New Content
+Infographic
+Character Overview
+Talents
+Constellations
+Builds
+Artifacts Stats
+Artifact Sets
+Weapons
+Teams and Rotations
+Reverse Vaporize
+Electro-Charged
+Freeze
+Burgeon
+Credits
+New Content
+Nymph’s Dream
+Childe’s new BiS artifact set. 4pc Nymph’s Dream is ~3% better than other options without prestacking, and 7-8% better with prestacking. Prestacking Nymph’s Dream uses the same methods as pre-stacking Polar Star (see
+here
+for options).
+The First Great Magic
+This bow is within 10% less DMG than Polar Star, Childe’s BiS. It is slightly weaker than other 5* CRIT bows, but still a solid increase over other non-CRIT and 4* options.
+Song of Stillness
+This craftable bow is not recommended in teams with Bennett as the only healer. Bennett does not heal the character if they have over 70% HP, so the passive relies on Childe taking damage then getting healed here. When using other healers, this weapon is the best craftable option for Childe.
+Scion of the Blazing Sun
+Not worth picking this over Viridescent Hunt, which has better damage and grouping.
+Marechaussee Hunter
+The 2pc Bonus is usable on Childe, but not one of his better options. It is not recommended to farm this set bonus for Childe, but the 2pc is not a bad option with strong substats.
+Golden Troupe
+Only around 10% of Childe’s personal damage output is Skill damage, so this set is not good for him.
+Infographic
+Credits to: euphorysm, cegewinne, auraolis, irokei & mysthathi
+Character Overview
+Talents
+Talent Priority
+Bow Focus
+Melee Focus
+Burst Focus
+AA > Q > E
+E > Q > AA
+Q > E > AA
+Talent Overview
+Normal Attack
+Elemental Skill
+Elemental Burst
+Ascension 1 Passive
+Ascension 4 Passive
+Utility Passive
+Normal Attack
+Normal Attack |
+Cutting Torrent
+Talent Description
+Normal Attack
+: Perform up to 6 consecutive shots with a bow.
+Charged Attack:
+Perform a more precise Aimed Shot with increased DMG. While aiming, the power of Hydro will accumulate on the arrowhead. An arrow fully charged with the torrent will deal Hydro DMG and apply the Riptide status.
+Riptide:
+Opponents affected by Riptide will suffer from AoE Hydro DMG effects when attacked by Tartaglia in various ways. DMG dealt in this way is considered Normal Attack dmg.
+•
+Riptide Flash:
+A fully-charged Aimed Shot that hits an opponent affected by Riptide deals consecutive bouts of AoE DMG. Can occur once every 0.7s.
+•
+Riptide Burst:
+Defeating an opponent affected by Riptide creates a Hydro burst that inflicts the Riptide status on nearby opponents hit.
+Plunging Attack:
+Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.
+Childe can utilize his Ranged Stance to deal high powered Charged Shots and inflict Riptide Mark on opponents. This is the aspect of his NA Talent that is most voluntarily used in typical teams, with Childe performing Charged Shots in downtime to generate Energy for himself as well as deal damage – which is Vaporized in some teams. They are also used to setup VV debuffs when his Elemental Skill is on cooldown.
+Charged Shots are not a useless part of Childe’s kit and should be used if you want to utilize Childe to his full potential.
+Elemental Skill
+Elemental Skill |
+Foul Legacy: Raging Tide
+Talent Description
+Unleashes a set of weaponry made of pure water, dealing Hydro DMG to surrounding opponents and entering Melee Stance.
+In this Stance, Tartaglia’s Normal and Charged Attacks are converted to Hydro DMG that cannot be overridden by any other elemental infusion and change as follows:
+Normal Attack:
+Perform up to 6 consecutive Hydro strikes.
+Charged Attack:
+Consumes a certain amount of Stamina to unleash a cross slash, dealing Hydro DMG.
+Riptide Slash:
+Hitting an opponent affected by Riptide with a melee attack unleashes a Riptide Slash that deals AoE Hydro DMG. DMG dealt in this way is considered Elemental Skill DMG, and can only occur once every 1.5s.
+After 30s, or when the ability is unleashed again, this skill will end. Tartaglia will return to his Ranged Stance and this ability will enter CD. The longer Tartaglia stays in his Melee Stance, the longer the CD. If the return to a ranged stance occurs automatically after 30s, the CD is even longer.
+Melee Attack Strings
+Stamina management is the most important factor to determining what melee string you should use. Running out of stamina before your melee period has finished will lose a lot of DPS.
+Childe’s melee inputs come in the form of Normal Attacks and Charged Attacks, both of which are important to use. Charged Attacks provide more damage than Normal Attacks, but come at a stamina cost. At least one Normal Attack is required before a Charged Attack; however, the less Normal Attacks you do, the faster you run out of stamina.
+Stamina management is the main factor that determines which melee string you should use.
+Melee Combos
+m – String is done in Melee Stance
+N# – Corresponding number of consecutive Normal Attacks
+C – Charged Attack
+mN2C
+Two Melee Normal Attacks followed by a Charged Attack
+mN2C Dash
+Stamina Negative
+mN2C Jump
+Stamina Negative
+mN3C
+Three melee Normal Attacks followed by a Charged Attack
+mN3C Dash
+Stamina Negative
+mN3C Jump
+Stamina Neutral
+mN5C
+Five Melee Normal Attacks followed by a Charged Attack
+mN5C Dash
+Stamina Negative
+mN5C Jump
+Stamina Positive
+Melee Attack Cancels
+Dash Cancel
+Fastest option
+Invincibility frames middash
+Flexible positioning
+Costs stamina
+Dash cooldown may be an issue when dodging
+Jump Cancel
+Stamina free
+Even slower when not jumping in place
+Longer recovery time when hit
+Melee Duration
+Most commonly, a short melee period of around 9-11 seconds is recommended for Childe. This means that his cooldown will be 15-17 seconds long, and rotations will be 24-28s long at minimum, although often longer when swap times and staggering or mistakes are taken into account.
+Elemental Burst
+Elemental Burst |
+Havoc: Obliteration
+Talent Description
+Performs different attacks based on what stance Tartaglia is in when casting.
+Ranged Stance: Flash of Havoc:
+Swiftly fires a Hydro-imbued magic arrow, dealing AoE Hydro DMG and applying the Riptide status. Returns a portion of its Energy Cost after use.
+Melee Stance: Light of Obliteration:
+Performs a slash with a large AoE, dealing massive Hydro DMG to all surrounding opponents, which triggers Riptide Blast.
+Riptide Blast:
+When the obliterating waters hit an opponent affected by Riptide, it clears their Riptide status and triggers a Hydro Explosion that deals AoE Hydro DMG. DMG dealt in this way is considered Elemental Burst DMG.
+When Vaporized, Childe’s Elemental Burst is 30-40% of his total DMG in a rotation. It is worth using for its damage, and even when not Vaporized, it can be handy to help with setting up buffs for the rotation.
+Ranged or Melee Burst?
+Childe has two Elemental Bursts, one in Melee Stance and one in Ranged Stance. Which one is used depends on the situation at hand, and each has reasons to use it over the other.
+Ranged Burst
+Melee Burst
+Use Case
+Used for initiating combat
+The start of most standard rotations
+Used when doing subsequent rotations
+A finisher at the end of an abyss floor
+If you’re using a Hydro battery, which isn’t common
+Speedrunning or DMG per Screenshot (hitting one high number)
+If needing to clear a wave quickly or burst down an opponent
+Pros
+Refunds 20 Energy, so has a lower ER requirement by up to 40%
+Quicker animation
+Is easier to Vaporize
+Applies Riptide Mark
+Higher DMG in one hit
+Has the extra hit and DMG of Riptide Blast if Riptide Mark is on the enemy
+Ascension 1 Passive
+Ascension 1 Passive |
+Never Ending
+Talent Description
+Extends Riptide duration by 8s.
+A small quality of life passive, Childe’s A1 allows for more forgiveness with Riptide Mark on longer fights, where Charged Shots are utilized less, and where Melee downtime may be long. It does not affect his kit very much.
+Ascension 4 Passive
+Ascension 4 Passive |
+Swords of Torrent
+Talent Description
+When Tartaglia is in Foul Legacy: Raging Tide’s Melee stance, on dealing a CRIT hit, Normal and Charged Attacks apply the Riptide status effects to opponents.
+Another quality of life passive, allowing for easier Riptide application and refreshment without relying on Charged Shots or Ranged Elemental Burst.
+Note: This passive does not mean that Riptide Slash occurs when Childe crits. It means that Riptide Mark is applied or reapplied, which is required for Riptide Slash but does not trigger it. Riptide Slash is triggered from Melee Normal and Charged Attacks on enemies with Riptide Mark, regardless of if they crit.
+Utility Passive
+Utility Passive |
+Mastery of Weaponry
+Talent Description
+Increases your own party members’
+Normal Attack
+Level by 1.
+This passive is largely not significant. Increasing Childe’s Normal Attack Talent level increases his Charged Shots, Riptide Flash and Riptide Burst damage only in most teams, which is not an overly significant portion of his damage. Other members of Childe teams do not use Normal Attacks to a significant extent.
+Constellations
+Constellation 1
+Constellation 2
+Constellation 3
+Constellation 4
+Constellation 5
+Constellation 6
+Constellation 1
+Constellation 1 | Foul Legacy: Tide Withholder
+Decreases the CD of
+Foul Legacy: Raging Tide
+by 20%
+This Constellation can increase Childe’s damage through utility, adding more flexibility and options to teams and rotations. This comes mainly in two forms for C1: reducing the downtime between two melee periods, or increasing the duration of uptime periods without increasing downtime length.
+The DPS gain of C1 isn’t easily measurable because in calculations it is simply QoL, but when played well in certain encounters, it can be a gain.
+DPS Gain: ?%
+Constellation 2
+Constellation 2 | Foul Legacy: Understream
+When opponents affected by
+Riptide
+are defeated, Tartaglia regenerates 4 Elemental Energy.
+An insignificant Constellation that does not reduce Childe’s ER requirements significantly, if at all. In situations where this Constellation will trigger a fair amount (encounters with a large amount of enemies), you will find that C2 is not needed, as the enemies will produce a large amount of particles themselves. In single target situations, this Constellation is negligible as it does not trigger until after the encounter is over.
+DPS Gain:
+0%
+Constellation 3
+Constellation 3 | Abyssal Mayhem: Vortex of Turmoi
+l
+Increases the Level of
+Foul Legacy: Raging Tide
+by 3.
+Maximum upgrade level is 15.
+This Constellation gives a 22% increase to Childe’s melee damage. Over a 28s rotation where Childe Vaporizes his Ranged Burst, this increases his personal damage by 10-12%.
+DPS Gain: 10 – 12%
+Constellation 4
+Constellation 4 | Abyssal Mayhem: Hydrospout
+Applying a mark will cause a Riptide trigger every 4 seconds. It will apply Riptide Flash if Childe is in ranged stance and Riptide Slash if Childe is in melee stance.
+Riptide
+Slashes
+and
+Riptide Flashes
+triggered by this Constellation effect are not subject to the time intervals that would typically apply to these two
+Riptide
+effects, nor do they have any effect on those time intervals.
+This Constellation does not offer much damage for most rotations – at most a barely noticeable amount of damage. It can make vaporizing certain attacks from Childe (such as Elemental Burst and Charged Shots) more difficult, but unless the player is intent on high gameplay optimization, C4 will not impact them significantly in a negative way.
+DPS Gain:
+(-2 ) – 8%
+Constellation 5
+Constellation 5 | Havoc: Formless Blade
+Increases the Level of
+Havoc: Obliteration
+by 3.
+Maximum upgrade level is 15.
+Increases Childe’s Elemental Burst DMG by 17%. For a Childe that also utilizes Melee, this Constellation increases his personal damage by 5% when his Elemental Burst is vaporized.
+DPS Gain:
+5%
+Constellation 6
+Constellation 6 | Havoc: Annihilation
+When
+Havoc: Obliteration
+is cast in Melee Stance, the CD of
+Foul Legacy: Raging Tide
+is reset. This effect will only take place once Tartaglia returns to his Ranged Stance
+.
+This Constellation allows the player to use Melee Burst as an opener and allow more room for errors during Melee Stance. It can allow for pure Melee gameplay, but this is not recommended due to the lack of team support and off-field damage that a character with long on-field periods has. This Constellation is mainly QoL with no direct increase in damage.
+DPS Gain: 0%
+Builds
+Read this guide on how to use Genshin Optimizer with Childe for personalized help in building him.
+Artifacts Stats
+Note: It is recommended to choose artifacts for Childe following this format.
+Main Stat > Sub Stat > Set Bonus
+This order prioritizes the attributes of artifacts that provide the most increase for Childe’s damage.
+Sands
+Goblet
+Circlet
+ATK%
+Hydro%
+CRIT Rate or CRIT DMG
+Substats:
+CRIT Rate / CRIT DMG > ATK% > EM > ER*
+*Note that Childe usually wants 100-130% ER with Ranged Burst. ER is the most important stat until he can use his Ranged Burst every rotation.
+Artifact Sets
+4pc Nymph’s Dream (ND)
+Childe’s new BiS artifact set. 4pc Nymph’s Dream is ~3% better than other options without prestacking, and 7-8% better with prestacking. Prestacking Nymph’s Dream uses the same methods as pre-stacking Polar Star (see
+here
+for options).
+4pc Heart of Depth (HoD)
+Although seemingly designed for Childe, this 4pc set lacks synergy with all of Childe’s kit, making it more comparable to other options than it first may seem. 4pc HoD focuses damage into Childe’s Normal and Charged Attacks, which is only around half of his kit when he Vaporizes his Burst.
+2pc Mixed Sets
+Any combination of 2pc HoD, ND, 18% ATK, Wanderer’s Troupe (WT), Noblesse Oblige (NO)
+2pc combinations are very close to the 4pc of HoD, and will be better with better stats on the pieces. Use 2pc combinations that best complement your playstyle, such as HoD for all-round play, ATK for when lacking ATK buffs, and WT or NO for Burst focused builds.
+Weapons
+Weapons within categories are listed alphabetically.
+5-Star CRIT Bows (Best Options)
+Aqua Simulacra
+– The current strongest option for Burst-focused builds
+– Low Base ATK makes this bow perform worse without ATK buffs
+– Passive may not always be active for Elemental Burst and Charged Shots
+– Optimal CR can be hard to build with this weapon
+Hunter’s Path
+– Low Base ATK makes this bow perform worse without ATK buffs
+– Strong regardless of if an EM buffer is used, but shines with high EM
+– If using Charged Shots in downtime or to VV, you must also use one early in the downtime rotation, to force trigger the passive early on
+– Allows the use of EM Sands on Childe for limited damage loss when his Elemental Burst is Vaporized
+Polar Star
+– The strongest option for Childe if you can prestack the bow
+– Prestacking is not always an option, due to being lengthy and requiring the use of Stance Change
+– Without prestacking, Polar Star is still one of the best options for Childe
+– Check out the Childe Mains Theorycrafting Library for information on how to prestack Polar
+Skyward Harp
+– Despite being around the longest, is still comparable to all other 5* CRIT bows
+– Scales well with ATK% 2pc set bonus
+– Provides a large amount of CRIT
+– Passive Physical DMG still contributes decent damage
+– The best weapon for Physical Childe
+Thundering Pulse
+– Strong for Burst-focused builds
+– NA DMG% not incredibly helpful for Childe in most teams
+– The ATK% from passive is valuable especially when Childe receives less ATK buffs
+The First Great Magic
+– Within 10% less DMG than Polar Star, Childe’s BiS.
+– It is slightly weaker than other 5* CRIT bows, but still a solid increase over other non-CRIT and 4* options.
+Strong 4-Star & 5-Star Options
+Amos’ Bow
+– Stronger than every 4* Bow except for Viridescent Hunt
+– Amos’ projectile flight time effect does not activate on Melee Charged attacks, but can be helpful on Vaporized Charged Shots in downtime.
+Viridescent Hunt
+– Paid weapon
+– One of the strongest 4* options for Childe
+– Can be considerably stronger than Amos’ Bow if used to deal Fall DMG to enemies
+– Provides valuable grouping
+Notable 4-Star Options
+Mouun’s Moon
+– Weapon banner exclusive
+– Incredibly strong for Burst builds
+– One of the strongest 4* when Childe’s Burst is Vaporized
+Rust
+– Looks good on Childe
+– A lot of Childe’s DMG is in his Charged Attacks, so in practice this is not a strong weapon for him
+The Stringless
+– Very strong for Childe’s Burst
+– One of the better 4* options for Childe when he can Vaporize his burst and has ATK buffs
+F2P Options
+Hamayumi
+– It is not possible to achieve the full passive, as using Childe’s Elemental Burst is always recommended
+– A better option than Prototype Crescent if you cannot utilize Prototype Crescent’s passive
+King’s Squire
+– The strongest craftable weapon for Childe if you can vaporize his burst and cannot utilize Prototype Crescent’s passive
+–
+Requires you to not use Childe’s Elemental Skill to set up VV
+Prototype Crescent
+– Strongest craftable when passive is utilized
+– Requires a Charged Attack on a Weakspot, which is not possible on all enemies
+– Childe’s Melee Charged Attacks can activate the passive on certain enemies, such as Ruin Graders and Vishaps
+– Ranged Charged Attacks do not need to be fully charged to trigger the passive, but still aren’t always practical
+Song of Stillness
+– Not recommended in teams with Bennett as the only healer. Bennett does not heal the character if they have over 70% HP, so the passive relies on Childe taking damage then getting healed here.
+– When using other healers, this weapon is the best craftable option for Childe.
+Teams and Rotations
+Teams are listed in alphabetical order within their categories. Check the description of each video for the transcribed rotation.
+Reverse Vaporize
+Reverse Vaporize is a reaction where Hydro is applied to the enemy, and Pyro is applied after, triggering Vaporize and amplifying the Pyro damage. Often consisting of Childe + Xiangling + Bennett + a flex unit, it is difficult to counter in content such as Abyss, as even when one Element is countered, the other unit can still contribute considerable damage.
+Tartaglia — Albedo — Xiangling — Bennett
+This team is recommended for clearing content with
+minimal investment
+.
+This team is
+not
+heavily reliant
+on player skill.
+This team is recommended for both
+Single Target and Multi Target
+combat.
+Single Target
+Multi Target
+Tartaglia — Kazuha — Xiangling — Bennett
+This team is recommended for clearing content with
+minimal investment
+.
+This team has a
+moderate reliance
+on player skill.
+This team is recommended for both
+Single Target and Multi Target
+combat.
+Multi-Target
+Tartaglia — Sucrose — Xiangling — Bennett
+This team is recommended for clearing content with
+minimal investment
+.
+This team is
+highly technical
+and relies on player skill.
+This team is recommended for both
+Single Target and Multi Target
+combat.
+Single Target
+Electro-Charged
+Despite the name, Childe’s Electro-Charged teams do not get damage from the reaction. Instead, they rely on the raw Elemental damage of both Childe and the Electro unit/s. These teams usually consist of Childe + Beidou + Bennett + an Electro battery for Beidou, and have Childe Vaporizing his Ranged Burst, as well as allowing Beidou to deal high amounts of Electro damage.
+Tartaglia — Fischl— Beidou — Bennett
+This team is recommended for clearing content with
+moderate investment
+.
+This team is
+not
+heavily reliant
+on player skill.
+This team is recommended for
+Multi Target
+combat.
+Multi-Target
+Tartaglia — (C2) Sara — Beidou — Bennett
+This team is recommended for clearing content with
+moderate investment
+.
+This team is
+not
+heavily reliant
+on player skill.
+This team is recommended for
+Multi Target
+combat
+Multi-Target
+Freeze
+Childe’s Freeze teams center around Childe’s Melee damage on-field keeping up the Freeze for an off-field Cryo unit’s abilities to do damage. Childe’s Freeze teams differ from other teams he has, with his Melee duration being shorter and often needing higher ER. Childe becomes more of an enabler in these teams, but can still dish out damage.
+Note that these teams can be recommendable for Single Target combat
+if the enemy can be Frozen.
+Tartaglia — Diona — Ayaka — Kazuha
+This team is recommended for clearing content with
+moderate investment
+.
+This team has a
+moderate reliance
+on player skill.
+This team is recommended for
+Multi Target
+combat.
+Multi-Target
+Burgeon
+Tartaglia — Thoma — Dendro Traveler — Diona
+This team is recommended for clearing content with
+moderate investment
+.
+This team has a
+moderate reliance
+on player skill.
+This team is recommended for
+Multi Target
+combat.
+Multi-Target
+Tartaglia — Thoma — Dendro Traveler — Rosaria
+This team is recommended for clearing content with
+moderate investment
+.
+This team has a
+moderate reliance
+on player skill.
+This team is recommended for
+Multi Target
+combat.
+Credits
+Author
+: Mystathi#9705
+Footage
+: MCT#0733
+Additional Credits
+: Risuke#6743, chronocrisis95#3587, Praetor#3981, Dorkshadow7R#8025
+Server Credit
+s:
+Childe Mains
+,
+KQM
+,
+Thomains

@@ -1,0 +1,224 @@
+Walkthroughs
+Genshin Impact Venti Guide - best build, strengths and weaknesses
+All you need to know about Venti
+By
+Bryan Taylor
+|
+Sep 20, 2021
+iOS
++
+Android
+|
+Genshin Impact
+Prefer Pocket Gamer on Google
+X
+Facebook
+Reddit
+Welcome to Pocket Gamer's detailed
+Genshin Impact Venti guide
+! Venti is a youthful, wine-loving bard who also happens to be the embodiment of the Anemo Archon, Barbatos. Being a bard, he is carefree and playful and loves to write songs about his adventures.
+One of his strongest vices, however, is that he is deathly allergic to cats, and he will not perform if there is one near. At times, when his Archon form peeks through, Venti can become quite philosophical and tends to ramble on about stories of The Seven.
+In the guide below you will find the following features:
+General Info & how to get Venti
+Strengths & Weaknesses
+Best Build (Artifacts & Weapons
+)
+Best Party Members for Venti
+Talents / Skills / Passive
+Talent Leveling Materials
+Constellations
+Ascensions costs
+Venti Wishes / Availability
+Character Appearance
+Venti Element / Tier / Rarity / Weapon
+Anemo / SS Tier / 5* Rarity / Bow
+In Genshin Impact, Venti is one of the best characters you can get for exploration, as his Elemental Skill can lift you high up in the air. He is also a great character to pull in enemies for reactions and recharges energy quickly, so you can use his abilities more often.
+How to get Venti
+You can only obtain Venti in his own featured banner, Ballad in Goblets, which is currently inactive. He is not available in the standard wish banner, Wanderlust Invocation.
+Genshin Impact Venti Combat Info (Strengths and Weaknesses)
+Strengths
+Venti’s Skill makes exploration a breeze, literally
+He is one of the best characters for crowd control, as his ability also absorbs elements and can spread them to the unfortunate enemies caught in his torrent
+Venti has a relatively high energy recharge speed
+Weaknesses
+His Burst isn’t great for enemies that have elemental damage or debuffs
+Here are
+some
+Genshin Impact codes
+as a thank you for reading this!
+Best Venti Build in Genshin Impact
+Venti is great for Support and crowd control, and when you pair him with the right gear, his abilities can really shine. Use the Skyward Harp to increase his CRIT DMG and potentially raise his Physical ATK damage as well. When you don the Viridescent Venerer artifacts, you’ll be giving his Anemo damage a serious boost, and if you use 4 in your set, you’re going to see a huge increase in Swirl damage.
+Venti - Best Artifacts and Weapons
+Viridescent Venerer
+Energy Recharge / Anemo DMG / ATK%
+Set Bonuses:
+(2) Gain a 15% Anemo DMG Bonus.
+(4) Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s.
+How to Obtain:
+Valley of Remembrance Domain reward.
+Skyward Harp
+Base Attack:
+48
+Rating:
+5*
+Bonus Effect:
+CRIT Rate 4.8%
+Skill: Echoing Ballad
+Increases CRIT DMG by 20%. Hits have a 60% chance to inflict a small AoE attack, dealing 125% Physical ATK DMG. Can only occur once every 4s.
+How to Obtain:
+Gacha
+Best Party Members to match Venti with in Genshin Impact
+Premium (Gacha) Team
+In Genshin Impact, Venti is can act as a decent sub-DPS, utilizing his Burst and offering crowd control for others to mop up the rest. Pair him with
+Diona
+to act as Support, so she can help heal and shield everyone.
+Mona
+is another character that would be easy to swap in, throw her AoE Hydro on the field, and then let loose her Burst for additional damage.
+Ganyu
+should be used as the main damage dealer here, dishing out blow after blow with charged attacks, and helping with Freeze with Mona’s Hydro.
+F2P Team
+Venti is great if you’re looking for serious crowd control that can also supply a decent amount of damage with his Burst.
+Amber
+can help deal additional damage and compliments Venti’s Burst attack by picking off enemies at a distance.
+Barbara
+is a great Support here, as she can not only heal but can also apply Hydro to enemies, which can help set off a Vaporize reaction. Use Xiangling to do damage to enemies when they are not sky-high, and her Burst to supply even more damage when Venti is charging.
+Talents / Skills / Passive
+Divine Marksmanship - Normal Attack
+Normal:
+Perform up to 6 consecutive shots with a bow.
+Charge Attack:
+Perform a more precise Aimed Shot with increased DMG. While aiming, favorable winds will accumulate on the arrowhead. A fully charged wind arrow with deal Anemo DMG.
+Plunge Attack:
+Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE upon impact.
+Skill Attributes:
+1-Hit DMG
+20.4% + 20.4%
+2-Hit DMG
+44.4%
+3-Hit DMG
+52.4%
+4-Hit DMG
+26.1% + 26.1%
+5-Hit DMG
+50.7%
+6-Hit DMG
+71%
+Aimed Shot
+- 43.9%
+Fully-Charged Aimed Shot
+- 124%
+Plunge DMG
+- 56.3%
+Low/High Plunge DMG
+- 114% / 142%
+Skyward Sonnet - Elemental Skill
+O wind upon which all hymns and songs fly, bear these earth-walkers up into the sky!
+Tap:
+Summons a Wind Domain at the enemy's location, dealing AoE Anemo DMG and launching enemies into the air.
+Hold Attack:
+Summons an even larger Wind Domain with Venti as the epicenter, dealing AoE Anemo DMG and launching affected enemies into the air. After unleashing the Hold version of this ability, Venti rides the wind into the air. Enemies hit by Skyward Sonnet will fall to the ground slowly.
+Press DMG
+- 276%
+Press CD
+- 6s
+Hold DMG
+- 380%
+CD (Hold)
+- 15s
+Wind's Grand Ode - Elemental Burst
+Fires off an arrow made of countless coalesced winds, creating a huge Stormeye that sucks in objects and enemies along its path, dealing continuous Anemo DMG.
+Elemental Absorption:
+If the Stormeye comes into contact with Hydro/Pyro/Cryo/Electro elements, it will deal with additional DMG of that type. Elemental Absorption may only occur once per use.
+Skill Attributes
+Damage of Time
+- 47%
+Additional Elemental DMG
+- 23.5%
+Duration
+- 8s
+CD
+- 15s
+Energy Cost
+- 60
+Embrace of Winds - 1st Ascension Passive
+Holding Skyward Sonnet creates an upcurrent that lasts for 20s.
+Stormeye - 4th Ascension Passive
+Regenerates 15 Energy for Venti after the effects of Wind's Grand Ode end. If an Elemental Absorption occurred, this also restores 15 Energy to all characters of that corresponding element.
+Windrider - Unlocked Automatically
+Decreases all party member's gliding Stamina Consumption by 20%.
+Talent Leveling Materials
+Gained from Enemy Drops (Slimes):
+Slime Condensate
+Slime Secretions
+Slime Concentrate
+Acquired from Domains (Wednesday/Saturday/Sunday):
+Teachings of Ballad
+Guide to Ballad
+Philosophies of Ballad
+Obtained after defeating Bosses (Lupus Boreas Challenge):
+Tail of Boreas
+Constellations
+Splitting Gales
+Fires 2 additional arrows per Aimed Shot, each dealing 33% of the original arrow's DMG.
+Breeze of Reminiscence
+Skyward Sonnet decreases opponents' Anemo RES and Physical RES by 12% for 10s. Opponents launched by Skyward Sonnet suffer an additional 12% Anemo RES and Physical RES decrease while airborne.
+Ode to Thousand Winds
+Increases the Level of Wind's Grand Ode by 3. Maximum upgrade level is 15.
+Hurricane of Freedom
+When Venti picks up an Elemental Orb or Particle, he receives a 25% Anemo DMG Bonus for 10s.
+Concerto dal Cielo
+Increases the Level of Skyward Sonnet by 3. Maximum upgrade level is 15.
+Storm of Defiance
+Targets who take DMG from Wind's Grand Ode have their Anemo RES decreased by 20%. If an Elemental Absorption occurred, then their RES towards the corresponding Element is also decreased by 20%.
+Genshin Impact Venti Ascensions costs
+Phase 1
+Lv.20→Lv.40
+Mora Cost: 20,000
+Cecilia ×3
+Vayuda Turquoise Sliver ×1
+Slime Condensate ×3
+Phase 2
+Lv.40→Lv.50
+Cecilia ×10
+Vayuda Turquoise Fragment ×3
+Slime Condensate ×15
+Hurricane Seed ×2
+Phase 3
+Lv.50→Lv.60
+Mora Cost: 60,000
+Cecilia ×20
+Vayuda Turquoise Fragment ×6
+Slime Secretions ×12
+Hurricane Seed ×4
+Phase 4
+Lv.60→Lv.70
+Mora Cost: 80,000
+Cecilia ×20
+Vayuda Turquoise Chunk ×3
+Slime Secretions ×18
+Hurricane Seed ×8
+Phase 5
+Lv.70→Lv.80
+Mora Cost: 100,000
+Cecilia ×45
+Vayuda Turquoise Chunk ×6
+Slime Concentrate ×12
+Hurricane Seed ×12
+Phase 6 (MAX)
+Lv.80→Lv.90
+Mora Cost: 120,000
+Cecilia ×60
+Vayuda Turquoise Gemstone ×6
+Slime Concentrate ×24
+Hurricane Seed ×20
+Base Stats
+At Level 1, Venti starts with 820 HP, 20 ATK, and 52 DEF.
+Wishes / Availability
+Venti was featured in the Ballad in Goblets event banner. This banner was last run from March 17th, 2021 to April 6th, 2021.
+You know, we also have a
+Genshin Impact tier list
+if you want to check how well Venti performs in comparison to other characters! Also, keep an eye on the site, soon enough we plan to make a Genshin Impact characters hub with all of the available characters and their detailed guides!
+Bryan Taylor
+Bryan has a passion for writing and has been gaming since the 80s. His favourite games include Super Metroid, Chrono Trigger, and Rez, and he joins us bringing his vast knowledge of games to the team.
+Next Up :
+Dicero beginner's guide - 5 tips for mastering the dice

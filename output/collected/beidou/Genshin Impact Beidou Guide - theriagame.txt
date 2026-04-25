@@ -1,0 +1,255 @@
+Genshin Impact Beidou Guide
+X
+Search
+Account
+Discord
+Wiki Home
+Guides
+See all guides
+Common Guides
+Artifacts
+Banner
+Beginner Guide
+Elemental Sigils Item
+Enemies and Bosses
+Events
+List Of All Available Pets
+Maps
+Mondstadt
+Quests
+Talent Leveling Guide
+Tips and Tricks
+Weapon
+Weapons
+Heroes
+See all Heroes
+Albedo
+Alhaitham
+Aloy
+Amber
+Arlecchino
+Ayaka
+Ayato
+Baizhu
+Barbara
+Beidou
+Bennett
+Candace
+Charlotte
+Chasca
+Chevreuse
+Chiori
+Chongyun
+Citlali
+Clorinde
+Collei
+Diluc
+Diona
+Dori
+Emilie
+Eula
+Faruzan
+Fischl
+Freminet
+Furina
+Gaming
+Ganyu
+Gorou
+Heizou
+Itto
+Jean
+Kachina
+Kaveh
+Kazuha
+Site Home
+Wiki's
+Blog
+Support
+Home
+Wiki's
+Blog
+Support
+Account
+Guides
+Common Guides
+Artifacts
+Banner
+Beginner Guide
+Elemental Sigils Item
+Enemies and Bosses
+Events
+List Of All Available Pets
+Maps
+Mondstadt
+Quests
+Talent Leveling Guide
+Tips and Tricks
+Weapon
+Weapons
+Heroes
+Albedo
+Alhaitham
+Aloy
+Amber
+Arlecchino
+Ayaka
+Ayato
+Baizhu
+Barbara
+Beidou
+Bennett
+Candace
+Charlotte
+Chasca
+Chevreuse
+Chiori
+Chongyun
+Citlali
+Clorinde
+Collei
+Diluc
+Diona
+Dori
+Emilie
+Eula
+Faruzan
+Fischl
+Freminet
+Furina
+Gaming
+Ganyu
+Gorou
+Heizou
+Itto
+Jean
+Kachina
+Kaveh
+Kazuha
+Genshin Impact Beidou Guide
+Table of Contents
+Jane H
+February 7, 2025
+Genshin Impact Beidou Guide: Introduction
+Welcome to
+Genshin Impact
+Beidou Guide: Beidou is a versatile 4-star Electro Claymore user who excels as an off-field damage dealer. Her Elemental Burst, Stormbreaker, provides consistent Electro damage and shields while another character remains on the field, making her invaluable in team compositions that rely on Electro reactions. Her Elemental Skill, Tidecaller, features a unique parry mechanic that, when timed correctly, delivers high damage and generates energy.
+She shines in scenarios with two enemies, as her burst chains between them, but remains effective in multi-target situations. Beidou’s main drawback is her high Energy Recharge (ER) requirement, but with proper team synergy and build optimization, this can be managed. This guide covers her talents, playstyles, best builds, and teams to help players maximize her potential.
+Genshin Impact Beidou Guide: Character Overview
+Beidou is a 4-star Electro Claymore user who excels as an off-field sub-DPS, providing sustained Electro damage and utility through her Elemental Burst, Stormbreaker. She thrives in multi-target scenarios, especially against two enemies, where her burst chains between them for significant damage. Her Elemental Skill, Tidecaller, features a parry mechanic that, when timed correctly, delivers strong counterattacks and generates energy.
+Beidou also offers damage reduction, interruption resistance, and shielding at C1, enhancing team survivability. She fits well in electro-charged, hyperbloom, and aggravate teams, benefiting from her off-field Electro application. However, she requires high Energy Recharge (ER) due to her 80-cost burst and has limited single-target damage, making proper team building essential. With the right setup, Beidou is a powerful and versatile Electro sub-DPS capable of providing consistent damage and support.
+Genshin Impact Beidou Guide: Talents
+Beidou’s talents define her as a powerful off-field Electro DPS, with her Elemental Burst, Stormbreaker, being the core of her kit. This burst creates lightning discharges that chain between enemies when the active character performs normal or charged attacks, making her highly effective in multi-target situations. Her Elemental Skill, Tidecaller, features a unique parry mechanic that deals increased damage when perfectly timed, generating energy and scaling based on absorbed hits. Beidou’s passives enhance her counterattacks and provide attack speed buffs for main DPS builds. Prioritize leveling her burst first, followed by her skill, while normal attacks are only necessary for an on-field build. Mastering her perfect counter and managing her energy needs will maximize her effectiveness in any team.
+Genshin Impact Beidou Guide: Playstyles
+Beidou is best utilized as an off-field Electro DPS, where her Elemental Burst, Stormbreaker, provides sustained Electro damage while another character remains active. This playstyle maximizes her effectiveness by triggering discharges on normal and charged attacks, making her a strong choice for teams relying on Electro reactions. Energy management is key, as she requires frequent skill usage to maintain burst uptime.
+While she can be played as an on-field DPS, this role is generally less efficient due to her normal attacks having lower scaling. Perfect counters with her Elemental Skill, Tidecaller, significantly boost damage and energy generation. Her Hyperbloom synergy is notable, as her burst does not steal Hyperblooms, making her a great fit in Hyperbloom-Anemo swirl teams. Physical DPS Beidou is possible but suboptimal compared to Electro-focused builds. Proper rotations, snapshotting buffs, and timing her counter correctly are crucial to maximizing her damage potential.
+Genshin Impact Beidou Guide: Artifacts
+Beidou Upgrade Materials
+Gold
+Dvalin’s Sigh
+Vajrada Amethyst Sliver
+Lightning Prism
+Noctilous Jade
+Treasure Hoarder Insignia
+Beidou’s artifact selection plays a crucial role in maximizing her damage and effectiveness as an off-field Electro DPS. 4-piece Emblem of Severed Fate (4EoSF) is generally her best set, as it boosts Energy Recharge and increases Elemental Burst damage based on her ER, making it an excellent choice for her energy-intensive playstyle. If 4EoSF is unavailable, 2-piece combinations of Thundering Fury, Noblesse Oblige, or ATK% sets like Gladiator’s Finale or Shimenawa’s Reminiscence can provide solid damage. 4-piece
+Thundersoother is a strong option in Electro-charged or Aggravate teams but requires maintaining Electro aura on enemies. 4-piece Thundering Fury is niche and mainly viable for reducing her skill cooldown in reaction-based teams. Beidou’s main stats should prioritize ATK% on Sands, Electro DMG Bonus on Goblet, and CRIT Rate or CRIT DMG on Circlet, ensuring a balanced 1:2 CRIT ratio. Energy Recharge (ER) is essential, especially in solo Electro teams, but should not be overstacked at the expense of CRIT or ATK.
+Substat priority focuses on CRIT Rate, CRIT DMG, ER, and ATK%, with Elemental Mastery being valuable in Aggravate teams. While physical damage builds are possible with Bloodstained Chivalry, they are suboptimal compared to Electro builds. For early-game or low-AR players, temporary sets like The Exile, Scholar, or Berserker can help until better artifacts are obtained. The key to optimizing Beidou’s artifacts is balancing damage, energy management, and substats to maintain high Burst uptime and maximize her damage potential.
+Genshin Impact Beidou Guide: Weapons
+Beidou has a variety of weapon options that can enhance her performance depending on team composition, playstyle, and artifact stats. Weapons with CRIT Rate, CRIT DMG, and ATK% are generally preferred, while Energy Recharge (ER) can be useful if her Burst uptime is inconsistent. Serpent Spine is one of her best 4-star choices due to its CRIT Rate substat and stacking damage bonus, making it highly effective, especially at higher refinements.
+Akuoumaru is another strong 4-star option, providing high ATK% and a passive that scales Burst damage based on total team energy cost. Among 5-star weapons, Wolf’s Gravestone stands out with its high base ATK and ATK% bonus, while Beacon of the Reed Sea offers CRIT Rate and a strong ATK buff after skill usage or taking damage. Redhorn Stonethresher provides high CRIT DMG but has a passive that is not ideal for Beidou’s playstyle, making it less efficient than other 5-star options.
+Skyward Pride is viable if additional Energy Recharge is needed, though its damage potential is lower than other choices. For free-to-play players, Luxurious Sea-Lord and Prototype Archaic are solid options, with the former boosting Burst damage and the latter providing a consistent ATK% stat. Energy Recharge weapons such as Favonius Greatsword, Sacrificial Greatsword, and Katsuragikiri Nagamasa can help meet her ER requirements if necessary, particularly in solo Electro teams.
+Lithic Blade can be effective if running a Liyue-based team, while Blackcliff Slasher offers CRIT DMG but has an inconsistent passive. Rainslasher and Makhaira Aquamarine provide Elemental Mastery and are situationally viable in Aggravate teams. The best weapon for Beidou depends on available refinements and team synergy, but in general, CRIT-focused and ATK% weapons are the strongest choices, while Energy Recharge weapons should only be used if Burst uptime is an issue.
+Genshin Impact Beidou Guide: Teams
+Beidou is a versatile character who excels as an off-field Electro DPS, providing consistent damage, damage reduction, and interruption resistance. Her teams typically revolve around maximizing her Elemental Burst, which benefits from fast attack animations and frequent Electro application. Pairing her with another Electro character helps reduce her high Energy Recharge (ER) requirements, ensuring her Burst is available consistently.
+Fischl is one of her best partners, acting as an excellent battery while also adding single-target damage, which complements Beidou’s multi-target strengths. Xingqiu is another strong teammate, offering consistent Hydro application for Electro-Charged reactions while also providing additional damage reduction and healing. Sucrose and Kazuha enhance Beidou’s teams by grouping enemies and reducing resistance with the Viridescent Venerer artifact set.
+Beidou shines in Electro-Charged (Taser) teams, where she is paired with an on-field driver like Sucrose or Ayato, another Electro unit like Fischl, and a Hydro applicator such as Xingqiu or Kokomi. These teams excel in both single-target and AoE situations. Aggravate teams utilize the Quicken reaction by pairing Beidou with a Dendro applicator such as Dendro Traveler or Nahida, an Electro battery like Fischl or Keqing, and a flex unit for additional buffs or crowd control.
+Hyperbloom teams require a dedicated Hyperbloom trigger like Raiden Shogun or Kuki Shinobu, along with a Dendro and Hydro unit to generate Dendro cores. In Overload teams, Beidou works alongside a Pyro driver such as Yoimiya or Yanfei, an Electro battery, and either Chevreuse for team buffs or an Anemo character for resistance shred. While Overload can cause enemy knockback, it is highly effective against bosses and heavy enemies.
+Notable teammates include Bennett, who provides a strong ATK buff that Beidou’s Burst can snapshot; Keqing, who serves as both a battery and on-field driver in Aggravate teams; and Raiden Shogun, who can generate energy for Beidou but has a Burst that does not synergize well with hers. Alhaitham is a great driver in Aggravate teams, while Yae Miko offers additional off-field Electro damage. Kuki Shinobu is valuable for healing and Hyperbloom triggering, while Chevreuse enhances Overload teams when used alongside Pyro and Electro characters exclusively.
+To optimize Beidou’s performance, focus on managing her energy generation, ensuring proper reaction triggers, and utilizing buffs that snapshot onto her Burst. With the right team composition and rotations, Beidou can deal significant sustained damage while enhancing her team’s survivability.
+Genshin Impact Beidou Guide: Constellations
+Beidou is a strong character even at C0, but her constellations significantly enhance her damage, utility, and overall effectiveness, especially her C2, which is one of the most powerful in the game. Each of her constellations offers distinct improvements, making her a more potent off-field DPS and team support.
+C1: Sea Beast’s Scourge
+C2: Upon the Turbulent Sea, the Thunder Arises
+C3: Summoner of Storm
+C4: Stunning Revenge
+C5: Crimson Tidewalker
+C6: Bane of Evil
+grants Beidou a shield when she activates her Elemental Burst, Stormbreaker. The shield absorbs up to 16% of her Max HP for 15 seconds and is 250% more effective against Electro damage. This shield adds survivability, particularly in Electro-heavy scenarios, though it’s not as powerful as shields provided by dedicated shield characters. The shield’s HP scales with damage reduction abilities, further enhancing its effectiveness, especially in teams with other damage-reducing support like Xingqiu. This constellation is a valuable addition for teams that lack healers, providing some much-needed survivability.
+C2: Upon the Turbulent Sea, the Thunder Arises is Beidou’s most impactful constellation. It increases the number of targets that Beidou’s Stormbreaker arc lightning can jump to by 2. This major boost to her Burst damage makes her one of the best Electro characters, enhancing her Electro application and her effectiveness in triggering reactions like Aggravate. When hitting two targets, each discharge hits the first target three times and the second target twice, increasing the overall damage by 66%. This constellation is essential for improving her multi-target damage and reaction triggering, transforming her playstyle into a high-damage support with significant AoE potential.
+C3: Summoner of Storm increases the level of her Elemental Skill, Tidecaller, by 3, maxing out at level 15. While this upgrade increases her skill’s damage, it is generally less impactful compared to her other constellations, particularly because her Burst tends to contribute more to her damage output.
+C4: Stunning Revenge activates when Beidou is attacked. It grants an additional instance of 20% Electro DMG for 10 seconds on her Normal Attacks. While this is a nice bonus for Electro application, especially for triggering reactions like Aggravate, it is situational and provides a relatively minor damage increase. The added Electro damage shares an internal cooldown with her Burst, limiting its frequency and impact during her off-field role.
+C5: Crimson Tidewalker increases the level of her Elemental Burst, Stormbreaker, by 3, maxing at level 15. This upgrade significantly boosts her Burst damage, which already has high scaling. This constellation is a great investment if you plan to progress beyond C2, further enhancing Beidou’s damage potential.
+C6: Bane of Evil is a strong capstone for Beidou. During the duration of Stormbreaker, the Electro Resistance (RES) of surrounding enemies is decreased by 15%. This reduces the Electro resistance of affected enemies, making Beidou’s and other Electro characters’ attacks more effective. The Electro RES shred has a small radius, affecting enemies within one Abyss tile, but it is incredibly valuable in teams with multiple Electro characters, boosting the overall damage output. While this is a great constellation for Beidou, it is slightly less impactful than Xingqiu’s C2 but still provides an excellent damage boost for her team.
+Constellation Priorities
+C2 is the most crucial constellation to aim for, as it dramatically increases Beidou’s Burst damage and overall effectiveness in applying Electro. C6 is also highly valuable, offering an additional 15% Electro RES shred, which synergizes well with teams built around multiple Electro characters. C5 provides a solid increase to her Burst damage, making it a great follow-up after C2. C1 gives useful defensive utility, especially in Electro-heavy environments, by adding a shield that increases her survivability. C3 and C4 provide smaller gains in terms of damage and utility, making them less essential but still beneficial.
+General Advice
+Beidou remains a strong character even without constellations, so you don’t need to feel compelled to invest in them unless you want to unlock her full potential. Her constellations enhance her damage output, utility, and support abilities, but she is still viable and effective at C0. Beidou has been available for free through events and can be obtained in the Starglitter shop twice a year, offering opportunities to gradually unlock her constellations. Understanding the effects of each constellation can help you decide whether to prioritize unlocking them, depending on your team composition and playstyle.
+Genshin Impact Beidou Guide: Tips and Tricks
+Beidou is a unique character with a high skill ceiling, offering a rewarding playstyle for those who master her mechanics. To maximize her effectiveness, it’s important to understand how to properly utilize her abilities, manage energy, and optimize team compositions.
+Mastering the Perfect Counter is crucial for Beidou’s performance. Her Elemental Skill, Tidecaller, acts as a parry that can deal massive damage if timed correctly. To achieve a perfect counter, release the skill just as Beidou is hit by an enemy attack, a window that lasts about a third of a second. This technique generates the maximum damage and energy particles.
+Alternatively, holding the skill and taking two hits also results in high damage, but a perfect counter is faster and more energy-efficient. Practicing this counter is essential for maximizing both Beidou’s damage output and energy regeneration. Environmental damage, such as burning grass, can also be used to quickly achieve max stacks for her skill, further aiding in her damage and energy generation.
+Energy Management is key for Beidou, especially since her Elemental Burst, Stormbreaker, costs 80 energy. To maintain a consistent burst uptime, energy recharge (ER) is vital. Pairing Beidou with another Electro character, particularly Fischl, is highly effective, as Fischl can generate substantial energy particles off-field, complementing Beidou’s energy generation from perfect counters. Aim for around 140-160% ER in double Electro teams, with higher ER values needed if Beidou is the only Electro character. If Beidou is the main DPS, she’ll need less ER; as a sub-DPS, she’ll require more. ER needs can be reduced by consistently landing perfect counters.
+Burst Usage and Snapshotting is important for maximizing Beidou’s damage. Her Burst damage is based on her stats at the moment it is cast, meaning it snapshots. To take full advantage of this, activate her Burst while under buffs from characters like Bennett, ensuring she benefits from his attack buff throughout her Burst’s duration. The damage of her Burst is especially high when there are exactly two enemies, as her lightning arc bounces between them, dealing increased damage. Weaving normal attacks between character swaps is also a great way to ensure her Burst procs as much as possible.
+Team Compositions where Beidou excels include Taser, Hyperbloom, and Aggravate teams. She is particularly effective when there are exactly two enemies, as her Burst’s lightning arc bounces between them, increasing its damage. Beidou is also slot-efficient, capable of filling the roles of both a driver and sub-DPS. In Hyperbloom teams, Beidou’s Burst does not trigger Dendro Cores, which allows a dedicated character to trigger the Hyperbloom reaction. In Aggravate teams, Beidou can serve as an on-field driver, using her normal and charged attacks to trigger the Aggravate reaction. A strong Taser team composition could include Beidou, Fischl, Sucrose, and Xingqiu for maximum effectiveness.
+Artifacts should prioritize Electro Damage Bonus on the Goblet and either Crit Rate or Crit Damage on the Circlet. For the Sands, choose either Attack% or Energy Recharge depending on your team composition and substats. The 4-piece Emblem of Severed Fate set is ideal for boosting her off-field damage, though other sets with strong substats can also work. For a physical damage build, you can use a Physical Damage Goblet, but an Electro DMG Goblet will generally provide higher overall damage. Flexibility in your build can be achieved with 2-piece sets that provide 18% ATK, 2-piece Thundering Fury, or 2-piece Emblem of Severed Fate.
+Weapons that provide Crit Rate, Crit Damage, or DMG% are generally the best options for Beidou. Serpent Spine is considered her best 4-star weapon, offering great synergy with her playstyle, especially at higher refinements. Akuoumaru is also a solid choice, particularly if your team has high burst costs. The Luxurious Sea-Lord, a free-to-play option from events, is a good alternative. Avoid weapons that focus primarily on ATK%, as they are less competitive compared to those that increase Crit and Damage%.
+Rotation Tips include using Beidou’s parry right before her Burst to generate energy particles during the Burst’s animation. Use her Elemental Skill on cooldown to maximize both damage and energy generation, aiming for around two perfect counters per Burst rotation. Always ensure you snapshot buffs by activating her Burst while under any attack or damage boosts.
+Constellations play a key role in enhancing Beidou’s power. Her C2 is one of her strongest, increasing the number of targets her Burst can hit, leading to a significant damage increase. C6 is also valuable, as it shreds enemy Electro resistance, further boosting her team’s damage output. Other constellations, such as C1 and C5, provide smaller but useful improvements to her damage and utility.
+General Advice is that Beidou is a powerful and fun unit who has only grown stronger over time. She is criminally underrated and a character worth investing in for any account. With her versatile playstyle and potential for massive damage and support, Beidou can be an invaluable asset to your team when used to her full potential.
+By following these tips and tricks, you can unlock Beidou’s full potential and make her a powerful and reliable asset to your team.
+Prev
+Previous
+Genshin Impact Barbara Guide
+Next
+Genshin Impact Bennett Guide
+Next
+About the Author
+Jane H
+Jane has been a passionate writer and designer since she was 12. She loves crafting stories, creating visuals, and immersing herself in PlayStation games like Detroit: Become Human, which inspire her creativity even more! She also enjoys visiting historical places, finding inspiration in their rich stories and architecture. Through her work, she hopes to share her creativity and passion with others.
+0
+0
+votes
+Rating
+Login
+Please login to comment
+0
+Comments
+Inline Feedbacks
+View all comments
+Theria Games
+Youtube
+Reddit
+Useful Links
+Home
+Wiki's
+Blog
+Support
+Account
+Sustainability
+About Us
+Language
+Terms of Service
+Acceptable Use Policy
+Privacy Policy
+© 2025 Theria Games Ltd
+Theria authors select and review products independently. This page may include affiliate links from which we may earn commissions, helping us to continue our work.
+All in-game images, characters, logos, and other related assets featured on this website are the property of their respective game developers and publishers. Theria does not claim ownership of any such content and uses these materials solely for informational and educational purposes. All trademarks and copyrights belong to their rightful owners.
+Theria Games
+Youtube
+Reddit
+Useful Links
+Home
+Wiki's
+Blog
+Support
+Account
+Sustainability
+About Us
+Language
+© 2025 Theria Games Ltd
+Terms of Service
+Acceptable Use Policy
+Privacy Policy
+Theria authors select and review products independently. This page may include affiliate links from which we may earn commissions, helping us to continue our work.
+All in-game images, characters, logos, and other related assets featured on this website are the property of their respective game developers and publishers. Theria does not claim ownership of any such content and uses these materials solely for informational and educational purposes. All trademarks and copyrights belong to their rightful owners.
+wpDiscuz
+Insert

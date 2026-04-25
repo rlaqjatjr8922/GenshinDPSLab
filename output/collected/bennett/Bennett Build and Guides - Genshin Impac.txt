@@ -1,0 +1,304 @@
+Home
+/
+Genshin Impact
+/
+Character List
+/
+Bennett Profile
+/
+Bennett Build
+Bennett Guide and Best Builds
+Bennett is a 4-Star Pyro Support in Genshin Impact who focuses on both
+healing and buffing your party's ATK. Most importantly, he is considered one of
+the most versatile supports in the entire game.
+Read our Bennett guide to learn more about
+Bennett's kit, his best builds, and his Ascension and Talent Materials.
+Last updated
+on
+Sep 28, 2025
+at
+11:40
+by
+GachaHub
+1 comment
+S+
+Rank
+Pyro
+Element
+Sword
+Weapon
+★
+★
+★
+★
+★
+Rarity
+Cristina Valenzuela
+EN Voice Actor
+Ryota Osaka
+JP Voice Actor
+Profile & Talents
+Build Guide
+Team Guide
+Bennett Guide & Best Builds
+Welcome to our Bennett build guide for Genshin Impact.
+Bennett
+is a 4-Star
+Pyro
+Support 
+Character who is widely considered one of the best characters in the game. He 
+provides a massive ATK buff, strong healing, and excellent Pyro particle generation. 
+Bennett has two main builds: a
+Pure Support
+build that focuses strictly 
+on maximizing his ATK buff and healing, and a
+Burst Support
+build that 
+trades some healing for increased personal damage.
+Best Weapons for Bennett
+Because the damage buff from
+Fantastic Voyage
+only scales off 
+Bennett's Base ATK and the Base ATK of his weapon, Bennets best weapons are simply those 
+with the highest Base ATK available, followed by weapons that provide Energy Recharge.
+Mistsplitter Reforged
+R1
+Mistsplitter's Edge
+Base ATK:
+674
+CRIT DMG:
+44.1%
+Gain a
+12% / 15% / 18% / 21% / 24%
+Elemental DMG Bonus for all elements and receive the might of the Mistsplitter's Emblem. At stack levels 1/2/3, the Mistsplitter's Emblem provides a
+8/16/28% / 10/20/35% / 12/24/42% / 14/28/49% / 16/32/56%
+Elemental DMG Bonus for the character's Elemental Type. The character will obtain 1 stack of the Mistsplitter's Emblem in each of the following scenarios: Normal Attack deals Elemental DMG (stack lasts 5s), casting Elemental Burst (stack lasts 10s); Energy is less than 100% (stack disappears when Energy is full). Each stack's duration is calculated independently.
+Mistsplitter Reforged features the highest Base ATK for a sword in the game alongside 
+Aquila Favonia (674 at Lv. 90), making it an incredible option to maximize Bennett's 
+ATK buff. It is also the absolute best-in-slot weapon for a Burst Support build due 
+to its high CRIT DMG substat and Elemental DMG bonus.
+Aquila Favonia
+R1
+Falcon's Defiance
+Base ATK:
+674
+Physical DMG Bonus:
+41.3%
+ATK is increased by
+20% / 25% / 30% / 35% / 40%
+. Triggers on taking DMG: the soul of the Falcon of the West awakens, holding the banner of resistance aloft, regenerating HP equal to
+100% / 115% / 130% / 145% / 160%
+of ATK and dealing
+200% / 230% / 260% / 290% / 320%
+of ATK as DMG to surrounding opponents. This effect can only occur once every 15s.
+Aquila Favonia shares the highest Base ATK in the game for swords (674 at Lv. 90). 
+While its Physical DMG substat is useless for Bennett, the pure Base ATK it provides 
+guarantees the largest possible ATK buff for your team in a Pure Support build.
+Skyward Blade
+R1
+Sky-Piercing Fang
+Base ATK:
+608
+Energy Recharge:
+55.1%
+CRIT Rate increased by
+4% / 5% / 6% / 7% / 8%
+. Gains Skypiercing Might upon using an Elemental Burst: Increases Movement SPD by
+10%
+, increases ATK SPD by
+10%
+, and Normal and Charged hits deal additional DMG equal to
+20% / 25% / 30% / 35% / 40%
+of ATK. Skypiercing Might lasts for 12s.
+Skyward Blade is an incredibly comfortable 5-Star option. It features a high Base
+ATK (608 at Lv. 90) while also providing a very large amount of Energy Recharge,
+making it much easier to burst off cooldown without relying heavily on artifact substats.
+The Alley Flash
+R1
+Itinerant Hero
+Base ATK:
+620
+Elemental Mastery:
+55
+Increases DMG dealt by the character equipping this weapon by
+12% / 15% / 18% / 21% / 24%
+. Taking DMG disables this effect for 5s.
+The Alley Flash has the highest Base ATK of any 4-Star sword (620 at Lv. 90), even 
+beating out some 5-Star options. This makes it the premier 4-Star choice for maximizing 
+his ATK buff, though it provides very little utility otherwise.
+Sapwood Blade
+R5
+Forest Sanctuary
+Base ATK:
+565
+Energy Recharge:
+30.6%
+After triggering Burning, Quicken, Aggravate, Spread, Bloom, Lunar-Bloom, Hyperbloom, or Burgeon, a Leaf of Consciousness will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character
+60 / 75 / 90 / 105 / 120
+Elemental Mastery for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field. The Leaf of Consciousness' effect cannot stack.
+Sapwood Blade is Bennett's best easily accessible free-to-play option. It is a craftable 
+Sumeru weapon that offers a high Base ATK for a 4-Star (565 at Lv. 90) and provides 
+valuable Energy Recharge as its substat.
+Best Artifacts for Bennett
+Noblesse Oblige
+Noblesse Oblige
+2-Piece Set
+: Elemental Burst DMG +20%
+4-Piece Set
+: Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.
+Noblesse Oblige is Bennett's most standard and universally recommended artifact set. 
+Since you always cast his Elemental Burst to buff the team, the 4-piece effect seamlessly 
+adds another 20% ATK buff to your entire party.
+Scroll of the Hero of Cinder City
+Scroll of the Hero of Cinder City
+2-Piece Set
+: When a nearby party member triggers a Nightsoul Burst, the equipping character regenerates 6 Elemental Energy.
+4-Piece Set
+: After the equipping character triggers a reaction related to their Elemental Type, all nearby party members gain a 12% Elemental DMG Bonus for the Elemental Types involved in the elemental reaction for 15s. If the equipping character is in the Nightsoul's Blessing state when triggering this effect, all nearby party members gain an additional 28% Elemental DMG Bonus for the Elemental Types involved in the elemental reaction for 20s. The equipping character can trigger this effect while off-field, and the DMG bonus from Artifact Sets with the same name do not stack.
+Scroll of the Hero of Cinder City is an alternative support option if your team benefits 
+more from a 12% Elemental DMG bonus than the 20% ATK buff from Noblesse.
+Bennett's Stat Priority
+Pure Support Build
+:
+Energy Recharge / HP %
+:
+HP %
+:
+HP % / Healing Bonus
+Substats:
+Energy Recharge > HP % > Flat HP
+In a Pure Support build, Bennett simply wants enough Energy Recharge to Burst every 
+rotation, followed by as much HP as possible to maximize his healing. You do not need 
+to build ATK substats, as his buff only scales off Base ATK (Character Level + Weapon Base ATK).
+Burst Support Build
+:
+ATK % / Energy Recharge
+:
+Pyro
+DMG
+:
+CRIT Rate / CRIT DMG
+Substats:
+Energy Recharge (to breakpoint) > CRIT Rate / CRIT DMG > HP % > ATK %
+In a Burst Support build, the goal is to increase Bennett's damage contribution while 
+still providing his massive ATK buff. You use offensive main stats, but if you find your 
+team struggling to survive, swap back to the Pure Support build.
+Recommended Stats for Bennett
+Bennett's Energy Recharge Requirements
+The exact amount of Energy Recharge Bennett needs depends on your party composition, 
+weapons, and how often you use
+Passion Overload
+between Bursts. 
+You can reduce these requirements by around 10-15% for each Favonius weapon proc on your team.
+Skill Use Per Rotation
+Solo Pyro
+Double Pyro
+1
+280 - 350%
+180 - 200%
+2
+220 - 250%
+150 - 170%
+Bennett's Talent Priority
+Talent Priority:
+Fantastic Voyage
+>
+Passion Overload
+Bennett's Elemental Burst,
+Fantastic Voyage
+, is the core of his 
+kit and provides his massive ATK buff and healing. It should be leveled as high as 
+possible. His Elemental Skill is useful for damage and energy generation but is a lower 
+priority.
+How to Play Bennett
+Bennett is an incredibly easy character to play. In most rotations, you simply tap his 
+Elemental Skill,
+Passion Overload
+, to generate Energy, and then cast 
+his Elemental Burst,
+Fantastic Voyage
+, to heal and buff your active DPS.
+His Skill is also excellent for breaking
+Cryo
+shields due to its 
+very low cooldown. When using his Burst, remember that the ATK buff and healing only apply 
+while your active character remains inside the AoE circle, so position it carefully around enemies.
+Bennett's Best Constellations
+Bennett's constellations are incredibly powerful, with C1 being arguably the best 
+Constellation 1 in the entire game.
+Investment Priority:
+Constellation 1 > Constellation 5 > Constellation 6
+Grand Expectation
+(C1) is Bennett's most important constellation. It 
+removes the HP restriction on his Burst's ATK buff (meaning he buffs you even if you are 
+below 70% HP) and grants an additional flat 20% Base ATK bonus to the buff.
+Is Bennett's C6 Worth It?
+Fire Ventures With Me
+(C6) is a divisive Constellation in the community. 
+On one hand, the
+Pyro
+infusion and Pyro DMG bonus it provides are a 
+massive buff to Pyro DPS characters like
+Xiangling
+or
+Diluc
+. 
+On the other hand, it can ruin Physical builds (like
+Eula
+) or override 
+the infusions of certain characters (like
+Kamisato Ayaka
+or
+Keqing
+). 
+However, for the vast majority of modern team comps, C6 is either a direct upgrade or has no negative 
+impact, as many newer infusions cannot be overridden anyway.
+Bennett's Best Team Compositions
+To learn all about Bennett's synergies and best team compositions, check 
+our dedicated Bennett team page below:
+Bennett's Best Teams
+Changelog
+20 Apr. 2026:
+Updated for 6.5
+28 Sep. 2025:
+Updated for 6.0.
+12 Feb. 2025:
+Reviewed for 5.4.
+18 Jan. 2025:
+Updated for 5.3.
+05 Jun. 2024:
+Reviewed for 4.7.
+31 Jan. 2024:
+Added more alternative weapons and artifact sets.
+29 Nov. 2023:
+Guide added.
+Show more
+Show less
+Profile & Talents
+Build Guide
+Team Guide
+Need any help? Check out our
+General Discussion Forum
+!
+1 comment
+In The Same Category
+Bennett Profile & Talents
+Bennett Team Guide
+Yoimiya Best Builds Guide
+Klee Best Builds Guide
+Hu Tao Best Builds Guide
+Diluc Best Builds Guide
+Durin Profile & Talents
+Xinyan Best Builds Guide
+Chevreuse Best Builds Guide
+Yanfei Best Builds Guide
+Durin Team Guide
+Nicole Best Builds Guide
+ABOUT THE AUTHOR
+Asher is a Genshin Impact and Wuthering Waves creator and theorycrafter 
+        with over three years of experience in Teyvat and one year in Solaris-3. 
+        He has been producing guides and analysis content consistently for the past 
+        six months, building a growing YouTube community of more than 8,000 subscribers. 
+        He focuses on creating simple, clear, and beginner-friendly guides designed 
+        to help new players understand characters, builds, and meta strategies with ease.
+SUPPORT OUR WRITERS

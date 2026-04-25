@@ -1,0 +1,193 @@
+Genshin Impact Baizhu Build
+Dendro
+Catalyst
+Support
+Baizhu Upgrade Materials
+Gold
+Worldspan Fern
+Nagadus Emerald Sliver
+Evergloom Ring
+Fungal Spores
+Violetgrass
+Baizhu Best Weapons
+1
+Jadefall's Splendor
+2
+Prototype Amber
+3
+Favonius Codex
+4
+Hakushin Ring
+5
+Thrilling Tales of Dragon Slayers
+Baizhu Best Artifacts
+1
+Deepwood Memories
+4
+2
+Ocean-Hued Clam
+4
+3
+Instructor
+4
+4
+Noblesse Oblige
+4
+5
+Emblem of Severed Fate
+2
+Tenacity of the Millelith
+2
+Baizhu Best Stats
+Sands:
+HP% / Energy Recharge
+Goblet:
+HP%
+Circlet:
+HP
+Substats:
+Energy Recharge > HP% > HP
+Character Builds by Genshin Impact Helper →
+Showcase
+Teams
+Talents
+Passives
+Constellations
+Ascension
+Baizhu Showcase
+Baizhu video guide by
+Zy0x
+.
+Check out his content!
+Best Baizhu Teams
+Cyno Quickbloom
+Cyno Aggravate
+Alhaitham Quicken
+Baizhu Talents
+Normal Attack
+The Classics of Acupuncture
+Normal Attack Performs up to 4 attacks that deal
+Dendro
+DMG to opponents in front of him. Charged Attack Consumes a certain amount of Stamina to deal AoE
+Dendro
+DMG to opponents in front of him after a short casting time./p> Plunging Attack Calling upon the might of Dendro, Baizhu plunges towards the ground from mid-air, damaging all opponents in his path. Deals AoE
+Dendro
+DMG upon impact with the ground./p>
+Elemental Skill
+Universal Diagnosis
+Controls a Gossamer Sprite that cruises and attacks nearby opponents, dealing
+Dendro
+DMG. After it performs 3 attacks or if there are no opponents nearby, the Sprite will return, healing all nearby party members based on Baizhu's Max HP.
+Elemental Burst
+Holistic Revivification
+Enters the Pulsing Clarity state, creating a Seamless Shield that absorbs
+Dendro
+DMG with 250% effectiveness. While in this state, Baizhu will generate a new Seamless Shield every 2.5s. The Seamless Shield will heal your own active character based on Baizhu's Max HP and attack opponents by unleashing Spiritveins, dealing
+Dendro
+DMG under the following circumstances: When a character is under the protection of a Seamless Shield and a new Seamless Shield is generated. When the Seamless Shield's effects expire, or when it is shattered.
+Baizhu Passives
+Ascension 1
+Five Fortunes Forever
+Baizhu gains different effects according to the current HP of your current active character: When their HP is less than 50%, Baizhu gains 20% Healing Bonus. When their HP is equal to or more than 50%, Baizhu gains 25%
+Dendro
+DMG Bonus.
+Ascension 4
+All Things Are of the Earth
+Characters who are healed by Seamless Shields will gain the Year of Verdant Favor effect: Each 1,000 Max HP that Baizhu possesses that does not exceed 50,000 will increase the Burning, Bloom, Hyperbloom, and Burgeon reaction DMG dealt by these characters by 2%, while the Aggravate and Spread reaction DMG dealt by these characters will be increased by 0.8%. This effect lasts 6s.
+Passive
+Herbal Nourishment
+When Baizhu is in the party, interacting with certain harvestable items will heal your current active character for 2.5% of Baizhu's Max HP.
+Baizhu Constellations
+Constellation 1
+Attentive Observation
+Universal Diagnosis gains 1 additional charge.
+Constellation 2
+Incisive Discernment
+When your own active character hits a nearby opponent with their attacks, Baizhu will unleash a Gossamer Sprite: Splice. Gossamer Sprite: Splice will initiate 1 attack before returning, dealing 250% of Baizhu's ATK as
+Dendro
+DMG and healing for 20% of Universal Diagnosis's Gossamer Sprite's normal healing. DMG dealt this way is considered Elemental Skill DMG. This effect can be triggered once every 5s.
+Constellation 3
+All Aspects Stabilized
+Increases the Level of Holistic Revivification by 3. Maximum upgrade level is 15.
+Constellation 4
+Ancient Art of Perception
+For 15s after Holistic Revivification is used, Baizhu will increase all nearby party members' Elemental Mastery by 80.
+Constellation 5
+The Hidden Ebb and Flow
+Increase the Level of Universal Diagnosis by 3. Maximum upgrade level is 15.
+Constellation 6
+Elimination of Malicious Qi
+Increases the DMG dealt by Holistic Revivification's Spiritveins by 8% of Baizhu's Max HP. Additionally, when a Gossamer Sprite or Gossamer Sprite: Splice hits opponents, there is a 100% chance of generating one of Holistic Revivification's Seamless Shields. This effect can only be triggered once by each Gossamer Sprite or Gossamer Sprite: Splice.
+Baizhu Ascension Costs
+Rank
+Lvl
+Cost
+Material
+Material
+Material
+Material
+1
+20
+20000
+1
+Nagadus Emerald Sliver
+3
+Violetgrass
+3
+Fungal Spores
+2
+40
+40000
+3
+Nagadus Emerald Fragment
+2
+Evergloom Ring
+10
+Violetgrass
+15
+Fungal Spores
+3
+50
+60000
+6
+Nagadus Emerald Fragment
+4
+Evergloom Ring
+20
+Violetgrass
+12
+Luminescent Pollen
+4
+60
+80000
+3
+Nagadus Emerald Chunk
+8
+Evergloom Ring
+30
+Violetgrass
+18
+Luminescent Pollen
+5
+70
+100000
+6
+Nagadus Emerald Chunk
+12
+Evergloom Ring
+45
+Violetgrass
+12
+Crystalline Cyst Dust
+6
+80
+120000
+6
+Nagadus Emerald Gemstone
+20
+Evergloom Ring
+60
+Violetgrass
+24
+Crystalline Cyst Dust
+Loading...

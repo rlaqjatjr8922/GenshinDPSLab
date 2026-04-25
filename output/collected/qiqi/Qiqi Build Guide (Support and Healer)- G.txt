@@ -1,0 +1,234 @@
+Title
+Pharmacist at Bubu Pharmacy
+Birthday
+March 3rd
+Affiliation
+Bubu Pharmacy
+Vision
+Cryo
+Constellation
+Pristina Nola
+Weapon
+Sword
+Qiqi Splash Art
+An apprentice and herb gatherer at Bubu Pharmacy, Qiqi is an undead with a bone-white complexion.
+Qiqi Healer Build
+Weapons
+Sacrificial Sword
+Skyward Blade
+The Flute
+Favonius Sword
+Festering Desire
+Amenoma Kageuchi
+Artifacts
+For 4th and 5th option, you can replace 2 Gladiator’s Finale with 2
+Shimenawa Reminiscence
+since both artifact have exact same 2 bonus set.
+4
+Tenacity of The Millelith
+(2)
+HP Increased by 20%.
+(4)
+When an Elemental Skill hits an opponent, the ATK of all nearby party members is increased by 20% and their Shield Strength is increased by 30% for 3s. This effect can be triggered once every 0.5s. This effect can still be triggered even when the character who is using this artifact set is not on the field
+OR
+4
+Ocean Hued Clam
+(2)
+Healing Bonus +15%.
+(4)
+Healing effect generates a Healing Bubble up to once per 3.5s. Healing Buble will accumulate Stacked Healing as characters get healed. Healing Bubble bursts after 3s, healing nearby characters (50% of Stacked Healing) and damaging nearby enemies (90% of Stacked Healing).
+OR
+4
+Maiden Beloved
+(2)
+Character Healing Effectiveness +15%.
+(4)
+Using an Elemental Skill or Burst increases healing received by all party members by 20% for 10s.
+OR
++
+2
+Maiden Beloved
++ 2
+Gladiator
+(2)
+Character Healing Effectiveness +15%.
+(2)
+ATK +18%.
+OR
++
+2
+Ocean Hued Clam
++ 2
+Gladiator
+(2)
+Healing Bonus +15%.
+(2)
+ATK +18%.
+Additional Notes
+Talent Priority
+Elemental Burst > Elemental Skill > Normal Attack
+Artifact Main Stats & Substats
+Sand
+Goblet
+Circlet
+ATK%/Energy Recharge%
+ATK%
+ATK%/Healing Bonus%
+Substats
+ATK% > Energy Recharge% > ATK
+Qiqi Namecard: Cold Storage
+Ascension and Talent Level Up Materials
+Ascension Materials
+Level
+Mora
+Gems
+Boss Material
+Specialty
+Common
+20 to 20+
+20.000
+x1
+–
+x3
+x3
+40 to 40+
+40.000
+x3
+x2
+x10
+x15
+50 to 50+
+60.000
+x6
+x4
+x20
+x12
+60 to 60+
+80.000
+x3
+x8
+x30
+x18
+70 to 70+
+100.000
+x6
+x12
+x45
+x12
+80 to 80+
+120.000
+x6
+x20
+x60
+x24
+Talent Level Up Materials
+Level
+Mora
+Material
+Common
+Boss Material
+Crown
+2
+12.500
+x3
+x6
+–
+–
+3
+17.500
+x2
+x3
+–
+–
+4
+25.000
+x4
+x4
+–
+–
+5
+30.000
+x6
+x6
+–
+–
+6
+37.500
+x9
+x9
+–
+–
+7
+120.000
+x4
+x4
+x1
+–
+8
+260.000
+x6
+x6
+x1
+–
+9
+450.000
+x12
+x9
+x2
+10
+700.000
+x16
+x12
+x2
+x1
+Talents and Constellations
+For skill and talents, we are covering Qiqi combat talents, passive talents, and all 6 constellations.
+Combat Talents
+Talent
+Description
+Ancient Sword Art (Normal Attack)
+– Normal Attack: Perform up to 5 rapid strikes.
+– Charged Attack: Consumes a certain amount Stamina to unleash 2 rapid sword strikes.
+– Plunging Attack: Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Adeptus Art: Herald of Frost (Elemental Skill)
+Using the Icevein Talisman, Qiqi brings forth the Herald of Frost, dealing Cryo DMG to surrounding opponents.
+Herald of Frost
+– On hit, Qiqi’s Normal and Charged Attacks regenerate HP for your own party members and nearby teammates. Healing scales based on Qiqi’s ATK.
+– Periodically regenerates your active character’s HP.
+– Follows the character around, dealing Cryo DMG to opponents in their path.
+Adeptus Art: Preserver of Fortune (Elemental Burst)
+Qiqi releases the adeptus power sealed within her body, marking nearby opponents with a Fortune-Preserving Talisman that deals Cryo DMG.
+Fortune-Preserving Talisman
+When opponents affected by this Talisman take DMG, the character that dealt this DMG regenerates HP.
+Passive Talents
+Talent
+Description
+Life Prolonging Methods
+When a character under the effects of Adeptus Art: Herald of Frost triggers an Elemental Reaction, their Incoming Healing Bonus is increased by 20% for 8s.
+Talent A Glimpse Into Arcanum
+When Qiqi hits opponents with her Normal and Charged Attacks, she has a 50% chance to apply a Fortune-Preserving Talisman to them for 6s. This effect can only occur once every 30s.
+Former Life Memories
+Displays the location of nearby resources unique to Liyue on the mini-map.
+Constellations
+Level
+Constellation
+Description
+1
+Ascetics of Frost
+When the Herald of Frost hits an opponent marked by a Fortune-Preserving Talisman, Qiqi regenerates 2 energy.
+2
+Frozen To The Bone
+Qiqi’s Normal and Charge Attack DMG against opponents affected by Cryo is increased by 15%.
+3
+Ascendant Praise
+Increase the Level of Adeptus Art: Preserver of Fortune by 3. Maximum upgrade level is 15.
+4
+Divine Suppression
+Targets marked by the Fortune-Preserving Talisman have their ATK decreased by 20%.
+5
+Crimson Lotus Bloom
+Increases the Level of Adeptus Art: Herald of Frost by 3. Maximum upgrade level is 15.
+6
+Rite of Resurrection
+Using Adeptus Art: Preserver of Fortune revives all nearby fallen party members and regenerates 50% of their HP.
+This effect can only occur once every 15 mins.
