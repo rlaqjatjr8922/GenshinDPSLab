@@ -7,6 +7,7 @@ from config.config import (
     RANDOM_INJECTION_RATIO,
     SURVIVAL_RATIO,
     ELITE_RATIO,
+    T_MAX,
 )
 
 from ga.distribute import distribute_tokens
@@ -47,6 +48,7 @@ def evolve_one_T(
     legal_db: dict,
     note_map: dict,
     dps_runner,
+    progress_callback=None,
 ):
     token_split = distribute_tokens(
         total_tokens=total_tokens,
@@ -67,6 +69,14 @@ def evolve_one_T(
     generation_logs = []
 
     for gen_idx in range(GENERATIONS):
+        if progress_callback:
+            progress_callback(
+                total_tokens,
+                T_MAX,
+                gen_idx + 1,
+                GENERATIONS,
+            )
+
         scored_population = evaluate_population(
             population=population,
             legal_db=legal_db,

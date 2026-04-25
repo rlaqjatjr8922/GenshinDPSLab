@@ -5,6 +5,8 @@ def run(app_state, progress_callback=None, log_callback=None):
     def log(msg: str):
         if log_callback:
             log_callback(msg)
+        else:
+            print(msg)
 
     log("[postprocess] 시작")
 
@@ -44,9 +46,37 @@ def run(app_state, progress_callback=None, log_callback=None):
         progress_callback(0)
 
     # =========================
-    # 내부 콜백 (rotation_builder → UI 연결)
+    # 내부 콜백
+    # rotation_builder → UI 연결
     # =========================
-    def stage4_progress(file_done, file_total, t_now, t_total, gen_now, gen_total):
+    def stage4_progress(*args, **kwargs):
+        file_done = 0
+        file_total = total_files
+        t_now = 0
+        t_total = 0
+        gen_now = 0
+        gen_total = 0
+
+        # progress_callback(50)
+        if len(args) == 1:
+            file_done = args[0]
+            file_total = 100
+
+        # progress_callback(file_done, file_total, t_now, t_total, gen_now, gen_total)
+        elif len(args) >= 6:
+            file_done, file_total, t_now, t_total, gen_now, gen_total = args[:6]
+
+        # progress_callback(file_done=..., file_total=...)
+        file_done = kwargs.get("file_done", file_done)
+        file_total = kwargs.get("file_total", file_total)
+        t_now = kwargs.get("t_now", t_now)
+        t_total = kwargs.get("t_total", t_total)
+        gen_now = kwargs.get("gen_now", gen_now)
+        gen_total = kwargs.get("gen_total", gen_total)
+
+        if file_total <= 0:
+            file_total = 1
+
         if controller:
             controller.set_stage4_progress(
                 file_done=file_done,
@@ -57,9 +87,7 @@ def run(app_state, progress_callback=None, log_callback=None):
                 gen_total=gen_total,
             )
         elif progress_callback:
-            # fallback (퍼센트만)
-            if file_total > 0:
-                progress_callback((file_done / file_total) * 100)
+            progress_callback((file_done / file_total) * 100)
 
     # =========================
     # 실행
@@ -78,7 +106,7 @@ def run(app_state, progress_callback=None, log_callback=None):
     if controller:
         controller.set_stage4_progress(
             file_done=total_files,
-            file_total=total_files,
+            file_total=total_files if total_files > 0 else 1,
             t_now=1,
             t_total=1,
             gen_now=1,

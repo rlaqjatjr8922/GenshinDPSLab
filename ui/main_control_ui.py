@@ -35,11 +35,11 @@ class MainControllerUI:
         self.data_info_var = tk.StringVar(value="")
 
         self.stage_titles = [
-            "1 돌림",
-            "2 활성화",
-            "2 돌림",
-            "3 활성화",
-        ]
+    "1. 캐릭터 데이터 수집",
+    "2. 규칙 데이터 수집",
+    "3. DPS 시뮬레이션",
+    "4. DPS 정밀 분석",
+]
 
         self.stage_buttons = []
         self.progress_rows = []

@@ -4,19 +4,20 @@ import csv
 from functools import partial
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+PROJECT_ROOT = os.path.dirname(BASE_DIR)
 
 if BASE_DIR not in sys.path:
     sys.path.insert(0, BASE_DIR)
 
-from ga.search import search_best_rotation
-from gcsim.gcsim_runner import run_dps as gcsim_run_dps
-
-
-OUTPUT_DIR = os.path.join(BASE_DIR, "output")
+OUTPUT_DIR = os.path.join(PROJECT_ROOT, "output", "postprocess")
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 ERROR_FILE = os.path.join(OUTPUT_DIR, "errors.txt")
 BEST_CSV_FILE = os.path.join(OUTPUT_DIR, "best_results.csv")
+
+from ga.search import search_best_rotation
+from gcsim.gcsim_runner import run_dps as gcsim_run_dps
+
 
 MAIN_DPS_IDX = 0
 
@@ -263,12 +264,18 @@ def run(app_state, progress_callback=None, log_callback=None):
         else:
             print(msg, flush=True)
 
-    def set_progress(v: float):
+    def set_progress(file_done, file_total, t_now=0, t_total=1, gen_now=0, gen_total=1):
         if progress_callback:
-            progress_callback(v)
+            progress_callback(
+                file_done,
+                file_total,
+                t_now,
+                t_total,
+                gen_now,
+                gen_total,
+            )
 
     log("[rotation_builder] 시작")
-    set_progress(0)
 
     best_orders = normalize_best_orders(app_state.best_orders)
     gear_map = normalize_gear(app_state.gear)
@@ -290,6 +297,8 @@ def run(app_state, progress_callback=None, log_callback=None):
     items = list(best_orders.items())
     total = len(items)
 
+    set_progress(0, total, 0, 1, 0, 1)
+
     results_map = load_existing_results_csv()
     done_names = set(results_map.keys())
 
@@ -300,10 +309,11 @@ def run(app_state, progress_callback=None, log_callback=None):
     failed = []
 
     for idx, (main_name, members) in enumerate(items, start=1):
-        set_progress(((idx - 1) / total) * 100)
+        set_progress(idx - 1, total, 0, 1, 0, 1)
 
         if main_name in done_names:
             log(f"[{idx}/{total}] {main_name} → 이미 완료, 스킵")
+            set_progress(idx, total, 1, 1, 1, 1)
             continue
 
         missing_gear = [m for m in members if m not in gear_map]
@@ -311,6 +321,7 @@ def run(app_state, progress_callback=None, log_callback=None):
             msg = f"{main_name} gear 없음: {missing_gear}"
             log(f"[스킵] {msg}")
             failed.append(msg)
+            set_progress(idx, total, 1, 1, 1, 1)
             continue
 
         log(f"[{idx}/{total}] {main_name} → {members}")
@@ -333,6 +344,14 @@ def run(app_state, progress_callback=None, log_callback=None):
                 legal_db=legal_db,
                 note_map=note_map,
                 dps_runner=run_dps,
+                progress_callback=lambda t_now, t_total, gen_now, gen_total: set_progress(
+                    idx - 1,
+                    total,
+                    t_now,
+                    t_total,
+                    gen_now,
+                    gen_total,
+                ),
             )
 
             save_summary_csv(main_name, history, OUTPUT_DIR)
@@ -361,7 +380,7 @@ def run(app_state, progress_callback=None, log_callback=None):
             log_error(str(e))
             failed.append(f"{main_name}: {e}")
 
-        set_progress((idx / total) * 100)
+        set_progress(idx, total, 1, 1, 1, 1)
 
     result = {
         "status": "done",
@@ -374,7 +393,7 @@ def run(app_state, progress_callback=None, log_callback=None):
 
     app_state.stage4 = result
 
-    set_progress(100)
+    set_progress(total, total, 1, 1, 1, 1)
     log("[rotation_builder] 완료")
 
     return result
