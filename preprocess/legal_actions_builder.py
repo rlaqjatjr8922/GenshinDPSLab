@@ -9,6 +9,7 @@ from bs4 import BeautifulSoup
 
 from config.config import LEGAL_ACTIONS_JSON, FAILED_ACTIONS_CSV
 
+
 BASE = "https://docs.gcsim.app/reference/characters/"
 HEADERS = {"User-Agent": "Mozilla/5.0"}
 
@@ -94,13 +95,37 @@ def fetch_legal_actions(slug: str) -> dict:
     return result
 
 
+def load_existing_json() -> dict:
+    if not LEGAL_ACTIONS_JSON.exists():
+        return {}
+
+    try:
+        with open(LEGAL_ACTIONS_JSON, "r", encoding="utf-8") as f:
+            data = json.load(f)
+
+        if isinstance(data, dict):
+            return data
+
+        return {}
+
+    except Exception:
+        return {}
+
+
+def save_legal_actions_json(data: dict):
+    LEGAL_ACTIONS_JSON.parent.mkdir(parents=True, exist_ok=True)
+
+    with open(LEGAL_ACTIONS_JSON, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
+
 def save_failed_csv(failed_rows: list[dict]):
     FAILED_ACTIONS_CSV.parent.mkdir(parents=True, exist_ok=True)
 
     with open(FAILED_ACTIONS_CSV, "w", encoding="utf-8-sig", newline="") as f:
         writer = csv.DictWriter(
             f,
-            fieldnames=["character", "official_name", "slug", "error"]
+            fieldnames=["character", "official_name", "slug", "error"],
         )
         writer.writeheader()
         writer.writerows(failed_rows)
@@ -121,18 +146,20 @@ def build_legal_actions(app_state, progress_callback=None, log_callback=None):
     if not isinstance(characters, dict) or not characters:
         raise ValueError("app_state.characters 비어있음")
 
-    all_data = {}
+    all_data = load_existing_json()
     failed_rows = []
 
     items = list(characters.items())
     total = len(items)
 
+    log(f"[prepare] 기존 저장 데이터: {len(all_data)}개")
+
     for idx, (char_key_raw, aliases) in enumerate(items, start=1):
         char_key = norm(char_key_raw)
+        official_name = ""
+        slug = ""
 
         try:
-            official_name = None
-
             if isinstance(aliases, list) and len(aliases) >= 2:
                 official_name = str(aliases[1]).strip()
             elif isinstance(aliases, str):
@@ -145,26 +172,29 @@ def build_legal_actions(app_state, progress_callback=None, log_callback=None):
             log(f"[prepare] ({idx}/{total}) {char_key} → {slug}")
 
             data = fetch_legal_actions(slug)
+
             all_data[char_key] = data
 
-            log(f"[prepare][성공] {char_key}")
+            # 핵심: 캐릭터 하나 성공할 때마다 바로 저장
+            save_legal_actions_json(all_data)
+
+            log(f"[prepare][성공/저장] {char_key}")
 
         except Exception as e:
             failed_rows.append({
                 "character": char_key,
-                "official_name": official_name if 'official_name' in locals() else "",
-                "slug": slug if 'slug' in locals() else "",
+                "official_name": official_name,
+                "slug": slug,
                 "error": str(e),
             })
-            log(f"[prepare][실패] {char_key} → {e}")
+
+            # 실패도 바로 CSV 저장
+            save_failed_csv(failed_rows)
+
+            log(f"[prepare][실패/저장] {char_key} → {e}")
 
         set_progress((idx / total) * 100)
         time.sleep(0.15)
-
-    LEGAL_ACTIONS_JSON.parent.mkdir(parents=True, exist_ok=True)
-
-    with open(LEGAL_ACTIONS_JSON, "w", encoding="utf-8") as f:
-        json.dump(all_data, f, ensure_ascii=False, indent=2)
 
     if failed_rows:
         save_failed_csv(failed_rows)

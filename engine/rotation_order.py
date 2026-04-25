@@ -91,13 +91,19 @@ def save_best_orders(data):
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 
-def save_all_orders(main_name: str, base_code: str, party_members: list[str]):
+def save_all_orders(
+    main_name: str,
+    base_code: str,
+    party_members: list[str],
+    progress_callback=None,
+):
     CONFIGS_DIR.mkdir(parents=True, exist_ok=True)
 
     char_dir = CONFIGS_DIR / main_name
     char_dir.mkdir(parents=True, exist_ok=True)
 
     all_orders = list(itertools.permutations(party_members))
+    total_orders = len(all_orders)
 
     best_dps = -1.0
     best_order = None
@@ -123,9 +129,11 @@ def save_all_orders(main_name: str, base_code: str, party_members: list[str]):
         with open(path, "w", encoding="utf-8") as f:
             f.write(final_code)
 
-        # 여기서 한 번이라도 치명적 오류 나면 해당 캐릭 즉시 중단
         dps = run_gcsim(path)
         print(f"{main_name}_{j} → DPS: {dps}")
+
+        if progress_callback:
+            progress_callback(j, total_orders)
 
         if dps > best_dps:
             best_dps = dps

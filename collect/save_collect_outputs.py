@@ -121,22 +121,40 @@ def append_summary_row(summary_row: dict, filename: str = "summary.csv"):
     COLLECTED_DIR.mkdir(parents=True, exist_ok=True)
 
     csv_path = COLLECTED_DIR / filename
-    file_exists = csv_path.exists()
-
     fieldnames = ["캐릭터", "파티", "무기", "성유물 이름"]
 
-    with open(csv_path, "a", newline="", encoding="utf-8-sig") as csvfile:
+    new_row = {
+        "캐릭터": summary_row.get("캐릭터", "모름"),
+        "파티": summary_row.get("파티", "모름"),
+        "무기": summary_row.get("무기", "모름"),
+        "성유물 이름": summary_row.get("성유물 이름", "모름"),
+    }
+
+    new_char = str(new_row["캐릭터"]).strip().lower().replace(" ", "")
+
+    rows = []
+
+    if csv_path.exists() and csv_path.stat().st_size > 0:
+        with open(csv_path, "r", newline="", encoding="utf-8-sig") as csvfile:
+            reader = csv.DictReader(csvfile)
+
+            for row in reader:
+                old_char = str(row.get("캐릭터", "")).strip().lower().replace(" ", "")
+
+                if old_char != new_char:
+                    rows.append({
+                        "캐릭터": row.get("캐릭터", "모름"),
+                        "파티": row.get("파티", "모름"),
+                        "무기": row.get("무기", "모름"),
+                        "성유물 이름": row.get("성유물 이름", "모름"),
+                    })
+
+    rows.append(new_row)
+
+    with open(csv_path, "w", newline="", encoding="utf-8-sig") as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-
-        if not file_exists or csv_path.stat().st_size == 0:
-            writer.writeheader()
-
-        writer.writerow({
-            "캐릭터": summary_row.get("캐릭터", "모름"),
-            "파티": summary_row.get("파티", "모름"),
-            "무기": summary_row.get("무기", "모름"),
-            "성유물 이름": summary_row.get("성유물 이름", "모름"),
-        })
+        writer.writeheader()
+        writer.writerows(rows)
 
 
 def upsert_collect_outputs(app_state, summary_row: dict, log_callback=None):

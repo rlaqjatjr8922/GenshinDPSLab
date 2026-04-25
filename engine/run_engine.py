@@ -10,8 +10,6 @@ GEAR_JSON = DATA_DIR / "gear.json"
 FAILED_CSV_PATH = OUTPUT_DIR / "failed_runs.csv"
 FAILED_JSON_PATH = OUTPUT_DIR / "failed_runs.json"
 
-SIM_TOTAL = 24
-
 
 def norm(s: str) -> str:
     return str(s).strip().lower().replace(" ", "")
@@ -80,8 +78,15 @@ def run(app_state, progress_callback=None, log_callback=None):
         else:
             print(message)
 
-    ui = getattr(app_state, "ui", None)
-    controller = getattr(ui, "controller", None)
+    def set_ui_progress(bar_index: int, percent: float, text: str = ""):
+        ui = getattr(app_state, "ui", None)
+        if not ui:
+            return
+
+        ui.set_progress(bar_index, percent)
+
+        if text:
+            ui.set_progress_text(bar_index, text)
 
     log("[engine] 3단계 시작")
 
@@ -95,42 +100,65 @@ def run(app_state, progress_callback=None, log_callback=None):
     gear_map = load_json(GEAR_JSON)
 
     items = list(teams_map.items())
-    total = len(items)
+    total_chars = len(items)
 
-    if total == 0:
+    if total_chars == 0:
         raise ValueError("teams.json이 비어 있습니다.")
 
-    if controller:
-        controller.set_stage3_progress(0, total, 0, SIM_TOTAL)
-    elif progress_callback:
+    set_ui_progress(0, 0, f"캐릭터 진행도: 0 / {total_chars}")
+    set_ui_progress(1, 0, "시뮬레이션 진행도: 0 / 24")
+
+    if progress_callback:
         progress_callback(0)
 
     results = []
     failed_set = set()
-    sim_done = 0
 
     for i, (main_name, members) in enumerate(items, start=1):
+        char_percent = ((i - 1) / total_chars) * 100.0
+
+        set_ui_progress(
+            0,
+            char_percent,
+            f"캐릭터 진행도: {i - 1} / {total_chars}",
+        )
+        set_ui_progress(
+            1,
+            0,
+            f"{main_name} 시뮬레이션: 0 / 24",
+        )
+
         if main_name in failed_set:
             log(f"[스킵] {main_name} (이미 실패)")
             continue
 
         try:
-            log(f"[{i}/{total}] {main_name} 시작")
+            log(f"[{i}/{total_chars}] {main_name} 시작")
 
-            main_name, base_code, members = make_gcsim(main_name, members, gear_map)
+            main_name, base_code, members = make_gcsim(
+                main_name,
+                members,
+                gear_map,
+            )
+
+            def sim_progress_callback(done, sim_total):
+                percent = (done / sim_total) * 100.0
+
+                set_ui_progress(
+                    1,
+                    percent,
+                    f"{main_name} 시뮬레이션: {done} / {sim_total}",
+                )
 
             result = save_all_orders(
                 main_name=main_name,
                 base_code=base_code,
                 party_members=members,
+                progress_callback=sim_progress_callback,
             )
 
             results.append(result)
-            log(f"[{i}/{total}] {main_name} 완료")
-
-            sim_done += 1
-            if sim_done > SIM_TOTAL:
-                sim_done = SIM_TOTAL
+            log(f"[{i}/{total_chars}] {main_name} 완료")
 
         except Exception as e:
             log(f"[오류] {main_name}: {e}")
@@ -139,10 +167,16 @@ def run(app_state, progress_callback=None, log_callback=None):
             save_failed_json(failed_set)
             log(f"[engine] 실패 저장 완료: {main_name}")
 
-        if controller:
-            controller.set_stage3_progress(i, total, sim_done, SIM_TOTAL)
-        elif progress_callback:
-            progress_callback((i / total) * 100.0)
+        char_percent = (i / total_chars) * 100.0
+
+        set_ui_progress(
+            0,
+            char_percent,
+            f"캐릭터 진행도: {i} / {total_chars}",
+        )
+
+        if progress_callback:
+            progress_callback(char_percent)
 
     app_state.stage3 = {
         "status": "done",
@@ -153,9 +187,10 @@ def run(app_state, progress_callback=None, log_callback=None):
         "failed_json_path": str(FAILED_JSON_PATH) if failed_set else "",
     }
 
-    if controller:
-        controller.set_stage3_progress(total, total, sim_done, SIM_TOTAL)
-    elif progress_callback:
+    set_ui_progress(0, 100, f"캐릭터 진행도: {total_chars} / {total_chars}")
+    set_ui_progress(1, 100, "시뮬레이션 진행도 완료")
+
+    if progress_callback:
         progress_callback(100)
 
     log("[engine] 3단계 완료")
