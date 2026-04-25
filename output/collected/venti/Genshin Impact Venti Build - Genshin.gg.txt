@@ -1,0 +1,191 @@
+Genshin Impact Venti Build
+Anemo
+Bow
+Sub DPS
+Venti Upgrade Materials
+Ballad
+Tail of Boreas
+Vayuda Turquoise Sliver
+Hurricane Seed
+Cecilia
+Slime Condensate
+Venti Best Weapons
+1
+The Daybreak Chronicles
+2
+Polar Star
+3
+Astral Vulture's Crimson Plumage
+4
+Hunter's Path
+5
+Song of Stillness
+Venti Best Artifacts
+1
+Viridescent Venerer
+4
+2
+A Day Carved From Rising Winds
+4
+3
+Noblesse Oblige
+4
+4
+Scroll of the Hero of Cinder City
+4
+5
+Gilded Dreams
+4
+Venti Best Stats
+Sands:
+ATK%
+Goblet:
+Anemo DMG
+Circlet:
+CRIT Rate / CRIT DMG
+Substats:
+CRIT Rate / CRIT DMG > ATK% > Elemental Mastery
+Character Builds by Genshin Impact Helper →
+Showcase
+Teams
+Talents
+Passives
+Constellations
+Ascension
+Venti Showcase
+Venti video guide by
+Zy0x
+.
+Check out his content!
+Best Venti Teams
+Ganyu Freeze
+Xiao Standard
+Kokomi Electro-Charged
+Venti Talents
+Normal Attack
+Divine Marksmanship
+Normal Attack Performs up to 6 consecutive shots with a bow. Charged Attack Perform a more precise Aimed Shot with increased DMG. While aiming, favorable winds will accumulate on the arrowhead. A fully charged arrow will deal
+Anemo
+DMG. Plunging Attack Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.
+Elemental Skill
+Skyward Sonnet
+O wind upon which all hymns and songs fly, bear these earth-walkers up into the sky! Press Summons a Wind Domain at the enemy's location, dealing AoE
+Anemo
+DMG and launching enemies into the air. Hold Summons an even larger Wind Domain with Venti as the epicenter, dealing AoE
+Anemo
+DMG and launching affected enemies into the air. After unleashing the Hold version of this ability, Venti rides the wind into the air. Enemies hit by Skyward Sonnet will fall to the ground slowly.
+Elemental Burst
+Wind's Grand Ode
+Fires off an arrow made of countless coalesced winds, creating a huge Stormeye that sucks in objects and enemies along its path, dealing continuous
+Anemo
+DMG. Elemental Absorption If the Stormeye comes into contact with Hydro/Pyro/Cryo/Electro elements, it will deal additional elemental DMG of that type. Elemental Absorption may only occur once per use.
+Venti Passives
+Ascension 1
+Embrace of Winds
+Holding Skyward Sonnet creates an upcurrent that lasts for 20s.
+Ascension 4
+Stormeye
+Regenerates 15 Energy for Venti after the effects of Wind's Grand Ode end. If an Elemental Absorption occurred, this also restores 15 Energy to all characters of that corresponding element.
+Passive
+Windrider
+Decreases all party member's gliding Stamina Consumption by 20%.
+Venti Constellations
+Constellation 1
+Splitting Gales
+Fires 2 additional arrows per Aimed Shot, each dealing 33% of the original arrow's DMG.
+Constellation 2
+Breeze of Reminiscence
+Skyward Sonnet decreases enemy
+Anemo
+RES by 12% for 10s. Enemies launched by Skyward Sonnet suffer an additional 12%
+Anemo
+RES and Physical RES decrease while airborne.
+Constellation 3
+Ode to Thousand Winds
+Increases the Level of Wind's Grand Ode by 3. Maximum upgrade level is 15.
+Constellation 4
+Hurricane of Freedom
+When Venti picks up an Elemental Orb or Particle, he receives a 25%
+Anemo
+DMG Bonus for 10s.
+Constellation 5
+Concerto dal Cielo
+Increase the Level of Skyward Sonnet by 3. Maximum upgrade level is 15.
+Constellation 6
+Storm of Defiance
+Targets who take DMG from Wind's Grand Ode have their
+Anemo
+RES decreased by 20%. If an Elemental Absorption occurred, then their RES towards the corresponding Element is also decreased by 20%.
+Venti Ascension Costs
+Rank
+Lvl
+Cost
+Material
+Material
+Material
+Material
+1
+20
+20000
+1
+Vayuda Turquoise Sliver
+3
+Cecilia
+3
+Slime Condensate
+2
+40
+40000
+3
+Vayuda Turquoise Fragment
+2
+Hurricane Seed
+10
+Cecilia
+15
+Slime Condensate
+3
+50
+60000
+6
+Vayuda Turquoise Fragment
+4
+Hurricane Seed
+20
+Cecilia
+12
+Slime Secretions
+4
+60
+80000
+3
+Vayuda Turquoise Chunk
+8
+Hurricane Seed
+30
+Cecilia
+18
+Slime Secretions
+5
+70
+100000
+6
+Vayuda Turquoise Chunk
+12
+Hurricane Seed
+45
+Cecilia
+12
+Slime Concentrate
+6
+80
+120000
+6
+Vayuda Turquoise Gemstone
+20
+Hurricane Seed
+60
+Cecilia
+24
+Slime Concentrate
+Loading...

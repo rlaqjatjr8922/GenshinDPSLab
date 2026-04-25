@@ -1,0 +1,225 @@
+Genshin Impact: Arlecchino Character Builds (Weapons, Artifacts, Team Comps, Stats)
+Genshin Impact's Arlecchino raises her hand and smiles with a pink whale in the background.
+Custom Image by Bruno Yonezawa
+By
+Bruno Yonezawa
+Published
+Apr 23, 2024, 11:00 AM EDT
+Bruno Yonezawa is a Gaming Senior Writer for Screen Rant. He's been practicing professional journalism for over 10 years, and is also a communications specialist. He's played games all his life and turned that passionate hobby into a passionate career, in an industry where he's worked as a writer, editor, analyst, and more.
+Sign in to your
+ScreenRant
+account
+Add Us On
+Jump links
+Jump Links
+Best Weapons For Arlecchino (Best Polearms)
+Best Team Comps For Arlecchino
+Best Artifacts, Stats, & Skill Priority For Arlecchino
+follow
+Follow
+followed
+Followed
+Like
+Like
+Log in
+Here is a fact-based summary of the story contents:
+Try something different:
+Show me the facts
+Explain it like I’m 5
+Give me a lighthearted recap
+Using the best build for Arlecchino in
+Genshin Impact
+and giving her a proper team comp is the best way of optimizing her damage output and general potential as a 5-star DPS. Arlecchino is a playable Pyro character added with Version 4.6, following her debut as an NPC during the Fontaine storyline. She is a Fatui Harbinger known as The Knave and works as the head of the House of the Hearth, an orphanage in Fontaine and a boarding school for Fatui agents. Arlecchino is the only
+new character in
+Genshin Impact
+4.6
+, though she has been highly anticipated.
+As was previously mentioned, Arlecchino is a DPS unit who specializes in dealing Pyro DMG. Her gameplay revolves around a Bond of Life mechanic – by using her Elemental Skill, Arlecchino deals Pyro AoE DMG and applies a Blood-Debt Directive on opponents. Following up, she should use her Charged Attack, which will absorb the Directives and transform them into Bond of Life for her. When over 30%, she infuses Normal Attacks with Pyro and deals extra damage, though at the cost of potential healing. Before that, however, you need to build
+Arlecchino in
+Genshin Impact
+.
+Related
+Genshin Impact: Arlecchino Ascension Materials (& Talents)
+Knowing the materials to farm for Arlecchino in Genshin Impact can significantly improve the rate at which you level her up and start building her.
+Posts
+By
+Bruno Yonezawa
+Best Weapons For Arlecchino (Best Polearms)
+Look For Polearms That Increase Traditional Offensive Potential
+Genshin Impact's Arlecchino claps, with fire emerging from behind her as red thorns project outward from her back.
+Custom Image by Bruno Yonezawa
+The first step to building Arlecchino is to give her a proper weapon. The best polearm for Arlecchino is Crimson Moon’s Semblance, her signature 5-star weapon. This item has a high base ATK (674 at level 90) with a helpful CRIT Rate sub-stat (22% at level 90). Additionally,
+it synergizes with her main gameplay mechanic by giving her extra Bond of Life
+when hitting opponents with Charged Attacks. If she has Bond of Life, Arlecchino gets a massive DMG Bonus, up to 36% if the Bond of Life is greater than or equal 20% of her Max HP.
+The table below lists the best builds for Arlecchino in
+Genshin Impact
+, including her strongest weapons, ideal Artifacts, stat importance, and skill priority:
+Arlecchino's Best Build In Genshin Impact
+Weapon
+Crimson Moon's Semblance (Best 5-star)
+Staff of Homa or Primordial Jade Winged-Spear (Substitute 5-star)
+Staff of the Scarlet Sands (Substitute 5-star)
+Deathmatch (Best 4-star)
+Blackcliff Pole, Dragon's Bane, or Prototype Starglitter (Substitute 4-star)
+Artifact
+Fragment of Harmonic Whimsy (4 pieces - best)
+Gladiator's Finale or Echoes of an Offering (4 pieces - substitute)
+Stat Priority
+CRIT Rate / CRIT DMG
+ATK
+Pyro DMG
+Elemental Mastery
+Energy Recharge
+Skill Priority
+Normal Attack
+Elemental Skill
+Elemental Burst
+If Crimson Moon’s Semblance is not available, there are plenty of 5-star polearms that grant magnificent offensive bonuses.
+Staff of Homa is one of the best in the game
+, with a high base ATK stat (608 at level 90) and a gigantic CRIT DMG sub-stat (66.2% at level 90). Its weapon skill also boosts HP and provides Arlecchino with an ATK Bonus based on her HP. She also gets an extra bonus if her HP is less than 50% and, despite not draining her own life, her Bond of Life may make it easier for her to lose it naturally.
+Arlecchino does not benefit too much from the HP boost provided by Staff of Homa, at least when compared to the likes of Zhongli or
+Hu Tao in
+Genshin Impact
+, for instance.
+Another good 5-star polearm substitute for Arlecchino is Primordial Jade Winged-Spear. It has a high base ATK (674 at level 90), and a strong CRIT Rate sub-stat (22.1% at level 90). This weapon’s skill also boosts ATK based on hits, up to 22.4%, plus a 12% DMG Bonus when the ATK Bonus hits its maximum stacks.
+Between Staff of Homa and Primordial Jade Winged-Spear, it really depends on whether you are in need of more CRIT DMG or CRIT Rate
+for Arlecchino’s build, respectively.
+You can also use Staff of the Scarlet Sands as a 5-star substitute for Arlecchino since it has great offensive properties and can boost her Elemental Mastery, which will then increase the damage dealt by the Elemental Reactions it triggers – though it is much less recommended than the two aforementioned substitutes. If you don’t have these 5-star weapons,
+the best 4-star for Arlecchino is Deathmatch
+. Other good 4-star substitutes for Deathmatch in
+Genshin Impact
+are Blackcliff Pole, Dragon’s Bane, and even Prototype Starglitter.
+Skyward Spine is also a good 5-star weapon for DPS units, as generic as its benefits may be.
+Best Team Comps For Arlecchino
+Use Strong Elemental Reactions Like Overloaded & Vaporize
+When choosing the best team comps for Arlecchino,
+it is recommended that you try to focus on a single strong Elemental Reaction
+. Surely, she is a powerhouse on her own and can fit into a variety of party compositions, but she is at her best when aided to trigger Reactions like Overloaded and Vaporize, for instance. If you focus your efforts on these sorts of Reactions and build a team with this in mind and Arlecchino at the forefront, you should be powering through opponents quite easily, especially if the rest of her build is solid.
+The table below lists a few team comp suggestions for Arlecchino in
+Genshin Impact
+, focused on some of the most powerful Elemental Reactions in the game which can be triggered by the Pyro DPS:
+Arlecchino's Best Team Comps In Genshin Impact
+Overloaded Team Comp
+Arlecchino (Main DPS)
+Raiden Shogun or Fischl (Sub-DPS)
+Chevreuse (Support)
+Bennett or Kuki Shinobu (Healer)
+Vaporize Team Comp
+Arlecchino (Main DPS)
+Yelan or Xingiu (Sub-DPS)
+Zhongli or Yun Jin (Support)
+Furina, Kokomi, or Barbara (Healer)
+Burgeon / Burn Team Comp
+Arlecchino (Main DPS)
+Yelan or Xingqiu (Sub-DPS)
+Nahida (Support)
+Furina or Kokomi (Healer)
+F2P Team Comp
+Arlecchino (Main DPS)
+Fischl (Sub-DPS - Overloaded) or Xingqiu (Sub-DPS - Vaporize)
+Chevreuse (Support - Overloaded) or Yun Jin or Lynette (Support - Vaporize)
+Bennett or Kuki Shinobu (Healer - Overloaded) or Barbara (Healer - Vaporize)
+An Overloaded team comp for Arlecchino is highly recommended
+since it is one of the strongest Elemental Reactions in the game and there are plenty of powerful units to assist her – Chevreuse, in fact, is a support dedicated to this very cause, and can maximize the potential of that Reaction, while a healer like Bennett can assist with the occasional HP regeneration and a considerable ATK bonus. If this is not your preferred
+Elemental Reaction in
+Genshin Impact
+, there are other options.
+A Vaporize team comp works exceedingly well with Arlecchino as the DPS. The simplicity in Reactions that revolve around only two Elements makes this and Overloaded some of the best choices. You can, however,
+push it toward a different angle and build a Burgeon team comp
+. The only thing you need to ensure is that you set the stage with Dendro Cores beforehand, to come in with Arlecchino to finish the job with her Pyro-fed Burgeon Reactions in
+Genshin Impact
+.
+Best Artifacts, Stats, & Skill Priority For Arlecchino
+Take Arlecchino’s Powers To The Limit
+Arlecchino's boss form in Genshin Impact wields two large red scythes.
+The best Artifact set for Arlecchino is Fragment of Harmonic Whimsy
+, a collection that was added with Version 4.6. The two-piece bonus grants an 18% ATK Bonus, while the four-piece bonus decrees that, when the Bond of Life value fluctuates in any way, Arlecchino deals 18% increased DMG for six seconds, for up to three stacks. This means that she can deal an extra 54% DMG. For now, Fragment of Harmonic Whimsy was tailor-made for Arlecchino’s gameplay kit in
+Genshin Impact
+.
+Alternatively,
+you can also equip Arlecchino with Gladiator’s Finale or Echoes of an Offering
+. With two pieces, Gladiator’s Finale grants an 18% ATK Bonus. With four pieces, it grants her a 35% boost to Normal Attack DMG since she is a polearm user. Echoes of an Offering also grants an 18% ATK Bonus with two pieces.
+Related
+Genshin Impact 4.7 Leaks: Clorinde's Release Date, Vision, Weapon, Abilities
+Details about Clorinde’s release as a playable character in Genshin Impact have been leaked, and the rumored Electro DPS may be arriving soon.
+Posts
+By
+Bruno Yonezawa
+At four pieces, there is a 36% chance of triggering Valley Rite with Normal Attacks, which increases Normal Attack DMG by 70% of ATK. If a Normal Attack doesn’t trigger Valley Rite, the odds of the next attack triggering it increases by 20%.
+These are the best substitutes in the game
+in case you haven’t yet unlocked the Domain to farm Fragment of Harmonic Whimsy in
+Genshin Impact
+.
+Unless you are in the early portions of the game, it’s not worth using mixes between Artifact sets, like two pieces of Gladiator’s Finale and two pieces of Echoes of an Offering.
+When farming your Artifacts for Arlecchino, you will want to prioritize traditional offensive stats, which include a
+large and healthy distribution of CRIT DMG and CRIT Rate, an elevated ATK stat, and Pyro DMG
+. Elemental Mastery is also important whenever possible since it helps with the damage caused by Elemental Reactions. A little bit into Energy Recharge also helps, since Arlecchino can deal a massive amount of damage through her Elemental Burst in
+Genshin Impact
+.
+When leveling up her abilities,
+Arlecchino's Normal Attack is the priority since it is the core of her kit
+. Her Elemental Skill is what applies the Blood-Debt Directive and deals a good amount of damage, but it’s the second priority since the bulk of her damage will come from Normal Attacks after they have been infused with Pyro.
+Related
+Genshin Impact 4.7 Leaks Prove HoYoverse Finally Learned An Important Lesson
+It seems like there is exciting news for Genshin Impact players if the most recent leaks about the upcoming Version 4.7 and its characters are true.
+Posts
+By
+Bruno Yonezawa
+The last priority should be her Burst. Important as it may be, it is not as crucial to her gameplay flow as the rest. Arlecchino’s Burst shouldn’t be ignored, however, as it can deal loads of damage with a single hit. Despite having a unique gameplay kit, building Arlecchino is very straightforward and quite similar to many other polearm DPS units in
+Genshin Impact
+.
+Genshin Impact
+RPG
+Action
+Adventure
+Gacha
+Open-World
+Systems
+9
+/10
+Released
+September 28, 2020
+ESRB
+Teen / Alcohol Reference, Fantasy Violence, In-Game Purchases (Includes Random Items), Users Interact
+Developer(s)
+HoYoverse (Formerly miHoYo)
+Publisher(s)
+HoYoverse (Formerly miHoYo)
+Platform(s)
+PlayStation 5
+,
+PlayStation 4
+, Xbox Series X, Xbox Series S,
+PC
+, iOS, Android
+Genre(s)
+RPG
+,
+Action
+,
+Adventure
+, Gacha, Open-World
+Powered by
+Expand
+Collapse
+Gaming
+Genshin Impact
+Follow
+Followed
+Like
+Share
+Facebook
+X
+WhatsApp
+Threads
+Bluesky
+LinkedIn
+Reddit
+Flipboard
+Copy link
+Email
+Close
+Trending Now
+Netflix's 8-Part Sci-Fi Adaptation Feels Like It Was Made To Be Binged
+Star Wars’ Cancelled Prequel Series Sees Surprise US Streaming Resurgence
+Hazbin Hotel Spinoff Officially Sets Release Window With Split Season 3

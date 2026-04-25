@@ -1,0 +1,312 @@
+Updated for Version 4.0
+Fischl is a 4-star Electro Bow character who excels in consistent, off-field, single-target Electro damage. Learn about Fischl’s best builds, Talent priority, best weapons, best artifacts, and best teams in this quick guide.
+Note that the information given may change if new discoveries are made.
+More extensive testing is in progress.
+The full-length guide is currently being written. Join our
+Discord
+to participate in the theorycrafting process.
+Table of Contents
+New Content
+Infographic
+Character Overview
+Playstyles
+Talent Priority
+Talents
+Constellations
+Combos (On-field DPS only)
+Artifacts
+ER Requirements
+Artifact Stats
+Artifact Sets
+Weapons
+Teams
+Notable Teammates
+Teambuilding
+Electro-Charged (“Taser”)
+Overload
+Overvape
+Anemo Overvape (“Soup”)
+Superconduct
+Quicken
+Hyperbloom
+On-Field DPS
+Credits
+New Content
+Golden Troupe
+An artifact set introduced in Version 4.0 that increases Skill DMG%. 4pc Golden Troupe is indisputably off-field DPS Fischl’s best artifact set.
+The First Great Magic
+With a CRIT DMG secondary stat and a passive that provides ATK%, The First Great Magic is a very good weapon option for Fischl.
+Song of Stillness
+The Fontaine craftable is a viable choice if players are able to take advantage of its passive. Oz can snapshot the DMG% buff.
+Lynette
+Lynette is a flexible Anemo slot with an Ousia-aligned Skill. She is able to hold 4pc Viridescent Venerer while also providing grouping (at C1) and a teamwide ATK% buff.
+Kirara
+Kirara is a Dendro shielder, most viable in Quicken teams but can also work in Hyperbloom.
+Baizhu
+Baizhu condenses Dendro application defensive utility in one role. A comfortable Dendro flex option for Quicken and Hyperbloom teams.
+Infographic
+Credits to: icedsquid, cuppacote, nikatosaurus, haafr, caxia5, and KQM Staff
+Character Overview
+Playstyles
+Off-Field DPS
+Off-field DPS Fischl AKA Oz requires little field time, switching in only to cast her Skill and her Burst. This playstyle enables Fischl to be a battery and Electro reaction enabler.
+On-Field DPS
+While playing Fischl as an on-field DPS is generally a suboptimal playstyle, it is a personal preference players can opt for.
+Fischl as an on-field DPS utilizes both Physical and Electro damage from various parts of her kit. This playstyle has many variations due to players being able to choose whether they want to emphasize her Electro or her Physical damage.
+Talent Priority
+Off-Field DPS:
+Skill > Burst
+On-Field DPS:
+Skill = Normal Attack > Burst
+Fischl’s Talent priority is dependent on her playstyle and build.
+For off-field DPS builds, it is not recommended to level her Normal Attack.
+As a general rule of thumb for on-field DPS builds: If you are using an Electro Goblet, prioritize her Skill. If you are using a Physical Goblet, prioritize her Normal Attack.
+Talents
+Normal Attack
+Elemental Skill
+Elemental Burst
+Ascension 1 Passive
+Ascension 4 Passive
+Normal Attack
+Normal Attack
+|
+Bolts of Downfall
+Talent Description
+Normal Attack
+Perform up to 5 consecutive shots with a bow.
+Charged Attack
+Perform a more precise Aimed Shot with increased DMG.
+While aiming, the dark lightning spirits of Immernachtreich shall heed the call of their Prinzessin and indwell the enchanted arrowhead. When fully indwelt, the Rachsüchtig Blitz shall deal immense Electro DMG.
+Plunging Attack
+Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.
+A 5-hit string that can deal respectable Physical damage for on-field DPS builds. It allows Fischl to work as a driver for units such as Xingqiu and Beidou or a trigger for weapon passives such as Prototype Crescent.
+Elemental Skill
+Elemental Skill |
+Nightrider
+Talent Description
+Summons Oz. The night raven forged of darkness and lightning descends upon the land, dealing Electro DMG in a small AoE.
+For the ability’s duration, Oz will continuously attack nearby opponents with Freikugel.
+Hold to adjust the location Oz will be summoned to.
+Press again any time during the ability’s duration to once again summon him to Fischl’s side.
+Fischl’s Skill summons Oz who stays on-field to deal single-target Electro damage for 10s (or 12s with C6) with a 25s cooldown (effectively a 15s downtime). Oz’s initial summon will
+snapshot
+any buffs, and his resummon will re-snapshot. Despite Oz’s awkward rotations, he is the premier Electro battery and a consistent Electro reaction enabler. His damage should not be neglected, even for on-field Physical DPS builds.
+Elemental Burst
+Elemental Burst |
+Midnight Phantasmagoria
+Talent Description
+Summons Oz to spread his twin wings of twilight and defend Fischl.
+Has the following properties during the ability’s duration:
+·
+Fischl takes on Oz’s form, greatly increasing her Movement Speed.
+·
+Strikes nearby opponents with lightning, dealing Electro DMG to opponents she comes in contact with. Each opponent can only be struck once.
+·
+Once this ability’s effects end, Oz will remain on the battlefield and attack his Prinzessin’s foes. If Oz is already on the field, then this will reset the duration of his presence.
+Fischl’s Burst allows her to take the form of Oz and fly across the field with increased movement speed for 2s, dealing Electro DMG to nearby opponents. At the end of the transformation, Oz is summoned at her location. If Oz is already on the field, he will be resummoned and his duration will be refreshed. After the Burst transformation ends, Oz’s attacks are still considered Skill DMG. As such, the damage from Fischl’s Burst is not as important as its ability to refresh Oz’s duration for essentially 100% uptime.
+Since Fischl cannot dash or attack during her transformation, it is recommended to cancel Fischl’s Burst early by swapping to another character as soon as possible.
+Ascension 1 Passive
+Ascension 1 Passive |
+Stellar Predator
+Talent Description
+When Fischl hits Oz with a fully-charged Aimed Shot, Oz brings down Thundering Retribution, dealing AoE Electro DMG equal to 152.7% of the arrow’s DMG.
+Fischl’s A1 Passive deals AoE Electro DMG if Fischl hits Oz with a fully charged shot. While the damage from this passive is sizable, it is not worth using even for on-field DPS builds.
+Ascension 4 Passive
+Ascension 4 Passive |
+Undone Be Thy Sinful Hex
+Talent Description
+If your active character triggers an Electro-related Elemental Reaction when Oz is on the field, the opponent shall be stricken with Thundering Retribution that deals Electro DMG equal to 80% of Fischl’s ATK.
+Fischl’s A4 Passive deals Electro DMG to the closest enemy if an Electro-related reaction is triggered by the on-field character while Oz is also on-field. This passive is an integral part of Fischl’s kit due to its lack of ICD and low cooldown (0.5s), allowing Fischl to be a very consistent Electro applicator.
+Constellations
+Constellation 1
+Constellation 2
+Constellation 3
+Constellation 4
+Constellation 5
+Constellation 6
+Constellation 1
+Constellation 1 |
+Gaze of the Deep
+Constellation Description
+Even when Oz is not present in combat, he can still watch over Fischl through his raven eyes. When Fischl performs a Normal Attack against an opponent, Oz fires a coordinated attack, dealing DMG equal to 22% of Fischl’s ATK.
+When Oz is
+not
+on the field and Fischl fires a Normal Attack at an enemy, Oz (in the form of a purple orb) will fire a coordinated shot that deals Physical damage. Damage dealt in this way is considered Normal Attack damage.
+Fischl’s C1 is only relevant to on-field Physical DPS builds, but even then, it is not optimal since high Oz uptime is preferred for both more damage and energy generation. C1-oriented playstyles are purely player preference.
+Constellation 2
+Constellation 2 |
+Devourer of All Sins
+Constellation Description
+When Nightrider is used, it deals an additional 200% ATK as DMG, and its AoE is increased by 50%.
+The AoE Electro damage when summoning Oz is increased by 200% of her ATK. This is a 200% additive increase to her talent multipliers and only affects Oz’s initial summon. A small overall damage increase.
+Constellation 3
+Constellation 3 |
+Wings of Nightmare
+Constellation Description
+Increases the Level of Nightrider by 3.
+Maximum upgrade level is 15.
+Increases the Talent Level of Fischl’s Skill by 3. Fischl’s second-best Constellation due to Oz making up a significant portion of her damage for both off-field and on-field DPS builds. Slightly less valuable for on-field DPS builds centered on Fischl’s Physical damage and C1.
+Constellation 4
+Constellation 4 |
+Her Pilgrimage of Bleak
+Constellation Description
+When Midnight Phantasmagoria is used, it deals 222% of ATK as Electro DMG to surrounding opponents.
+When the skill duration ends, Fischl regenerates 20% of her HP.
+At the initial cast of her Burst, Fischl’s C4 provides an additional instance of Burst damage in a small AoE. Additionally, Fischl will heal herself when her transformation ends. The damage increase through C4 is minimal, but the healing is a nice survivability boost.
+Constellation 5
+Constellation 5 |
+Against the Fleeing Light
+Constellation Description
+Increases the Level of Midnight Phantasmagoria by 3.
+Maximum upgrade level is 15.
+Increases the Talent Level of Fischl’s Burst by 3. This does not increase her C4 damage, but does increase the damage dealt when Fischl comes in contact with an enemy during her Burst transformation. Another overall minimal damage increase.
+Constellation 6
+Constellation 6 |
+Evernight Raven
+Constellation Description
+Extends the duration of Oz’s presence on the field by 2s. Additionally, Oz performs coordinated attacks with your active character when present, dealing 30% of Fischl’s ATK as Electro DMG.
+Fischl’s best Constellation. C6 extends Oz’s uptime by 2s and causes Oz to perform coordinated Electro attacks (instead of auto-targeting) when the on-field character uses a Normal Attack. This effectively increases Fischl’s Electro application and is a sizable damage increase.
+Combos (On-field DPS only)
+N# = Corresponding number of consecutive Normal Attacks
+AS = Aimed Shot (not fully-charged)
+N2 AS
+Fischl’s highest personal damage string and the best at triggering Beidou’s Stormbreaker.
+N5 AS
+An easy and perfectly acceptable combo; worse than N2AS at triggering Beidou’s Strombreaker, but better at triggering Xingqiu’s Rain Swords.
+Artifacts
+ER Requirements
+Off-field DPS Fischl’s ER requirements are highly variable and can depend on whether you have her C6 (which can reduce ER requirements by ~10%), what team she is in, and the enemies you are facing. Use the
+Energy Recharge Calculator
+to determine exact requirements for your team and rotation..
+Off-field DPS, Burst every rotation
+~120-140%
+Off-field DPS, Burst every other rotation
+~100%
+On-field DPS (with Oz)
+~110-130%
+Ideally, Oz’s uptime should be maximized to increase Fischl’s personal damage. However, Fischl’s awkward cooldowns (25s and 15s for her Skill and Burst, respectively) do not align well with many team rotations. In these cases, it is better to either A) alternate between Burst and Skill each rotation or B) use Fischl’s Burst every rotation but only use her Skill every other.
+Artifact Stats
+Sands
+Goblet
+Circlet
+ATK%
+ATK% or EM (if Aggravate)
+Electro DMG%
+Physical DMG% (if on-field)
+CRIT Rate
+CRIT DMG
+For Aggravate teams specifically, ATK% Sands is similar to or better than EM Sands for most artifact/weapon combos, but EM Sands and EM substats are still viable. While an Electro Goblet is almost always preferred, a Physical Goblet can be used for on-field DPS builds focusing on Fischl’s C1.
+Substats
+ER (until requirement) > CRIT Rate/CRIT DMG > ATK%
+Artifact Sets
+4pc Golden Troupe (4GT)
+Uncontested best artifact set for off-field DPS Fischl due to the massive amount of Skill DMG% it provides. It is a less powerful but still viable option for on-field DPS builds focused on Electro damage, particularly with Fischl’s C6.
+Any 2pc combo of ATK%/EM/Physical/Thundering Fury/Golden Troupe
+A versatile build for any playstyle. 2pc EM sets are only an option for Aggravate teams; Physical DMG sets are an option for on-field DPS builds.
+4pc Thundersoother (4TS)
+Theoretically high damage ceiling for Electro-Charged and Aggravate teams, but not recommended because of its heavily conditional and niche passive.
+4pc Gilded Dreams (4GD)
+Comparable to Thundersoother in Electro-Charged and Aggravate teams, but drastically drops in value otherwise. Not worth farming specifically for Fischl, but can be resin efficient considering many other units who would like to use 4GD. Oz should be (re)summoned after triggering the 4pc set effect to snapshot the buffs.
+4pc Tenacity of the Millelith (4ToM)
+Generally not recommended to farm for, but Fischl can provide high uptime on the 4pc passive. Sacrifices Fischl’s personal damage for team buffs, but can provide a marginal overall upgrade to team DPS in ATK-scaling teams. Oz should be (re)summoned after triggering the 4pc set effect to snapshot the buffs.
+4pc Pale Flame (4PF)
+Solid set for on-field DPS builds only.
+After the first rotation, Oz will benefit greatly from the 4pc ATK% buff.
+Weapons
+Polar Star
+Fischl’s BiS for all builds
+. Strong CRIT Rate main stat, strong passive that gives a hefty amount of ATK and Skill/Burst DMG.
+Elegy of the End
+Trades lower personal damage for team buffs and more ER, viable for off-field DPS builds.
+Any other 5-star Bow
+Great stat sticks; most will be comparable to Polar Star if not better under specific conditions.
+Alley Hunter
+A strong 4-star option for off-field DPS builds due to its easily obtainable stacks.
+The Stringless
+Very good off-field DPS option for Quicken teams — particularly Aggravate — due to the EM and Skill DMG it provides. Falls off in non-Quicken teams due to EM not being as useful. Refinements increase the strength of this weapon.
+Prototype Crescent, Song of Stillness
+F2P options for
+all builds
+. Oz should be summoned after triggering the weapons’ passives to snapshot the buffs. Fischl’s C4 Burst healing can also trigger Song of Stillness, but Oz must be resummoned afterwards to properly snapshot the buff.
+Without their passives, both weapons drop in value.
+Fading Twilight
+Another strong F2P but event-exclusive option. Off-field DPS Fischl can make good use of the ER and extra damage it gives.
+Rust
+Since Aimed Shots are not an integral part of Fischl’s kit, this weapon performs decently
+for on-field DPS builds only
+.
+Mitternachts Waltz
+Aesthetically pleasing, but relevant
+only for on-field DPS
+playstyles that also maximize Oz uptime. Not recommended otherwise.
+Teams
+Notable Teammates
+Xingqiu
+Xingqiu’s off-field, single-target Hydro application matches well with Fischl’s off-field, single-target Electro application.
+Sucrose
+Sucrose is a good driver for off-field DPS Fischl’s A4, and she is also able to hold the 4VV artifact set and TTDS/Hakushin Ring Catalysts.
+Literally any Electro unit who would benefit from an Electro battery.
+Includes Beidou, Yae, Cyno, Raiden, etc.
+Literally any DPS who would benefit from off-field Electro application.
+Practically the entire roster can synergize with Fischl due to her low field time, good particle generation, decent off-field damage and consistent Electro application which can enable a variety of Electro reactions (Overload, Electro-Charged, Quicken, etc.).
+Teambuilding
+Fischl is extremely versatile as she is able to fit into almost any team that needs Electro application, an Electro battery, or an off-field DPS with low field time.
+This is not a comprehensive list of teams. The inclusion or exclusion of any given team does not necessarily reflect its power level.
+Electro-Charged (“Taser”)
+Electro-Charged (AKA “Taser”) teams typically include Fischl, a Hydro unit, and an Anemo unit. Usually, the Anemo unit drives the Electro-Charged reactions.
+Example Teams
+Fischl — Xingqiu — Heizou — Beidou
+Fischl — Kokomi — Sucrose — Beidou
+Overload
+Fischl paired with a Pyro unit for Overload reactions.
+Example Teams
+Fischl — Yoimiya — Beidou — Zhongli
+Fischl — Bennett — Raiden — Kazuha (“RaiFish”)
+*See
+Raiden guide
+for more details.
+Overvape
+When Fischl and a Hydro unit cause the Electro-Charged reaction, both an Electro and Hydro aura can coexist on the enemy. An instance of Pyro application on top of that causes both Overload and Vaporize reactions, hence the name “Overvape.”
+Example Teams
+Fischl — Xingqiu — Xiangling — Bennett (“Fischl National”)
+Fischl — Xingqiu — Hu Tao — Zhongli
+Anemo Overvape (“Soup”)
+This team archetype mixes Electro, Hydro, Pyro, and Anemo applications to trigger many reactions (Electro-Charged, Overload, Vaporize, Swirl), creating a soup of numbers and reactions. Fischl is a great enabler for the Electro reactions.
+Example Teams
+Fischl — Ayato — Bennett — Kazuha
+*See
+Ayato guide
+for more details.
+Fischl — Kokomi — Xiangling — Sucrose (“Sukokomon”)
+*Note that Sukokomon has a unique, mechanically-intensive playstyle. See
+here
+for more information before attempting.
+Superconduct
+Fischl’s off-field Electro application paired with a Cryo unit allows her to trigger Superconduct for another Physical DPS.
+Example Teams
+Fischl — Rosaria — Eula — Diona
+*See
+Eula guide
+for more details.
+Quicken
+Fischl’s A4 Passive allows her to be a fantastic choice for off-field DPS in Aggravate teams. She is still a viable option in Spread teams, but her personal damage output and Electro application tend to be lessened since her A4 does not trigger on Spread.
+Example Teams
+Fischl — Dendro Traveler — Keqing — Jean
+Fischl — Tighnari — Kazuha — Kuki Shinobu
+*See
+Tighnari guide
+for more details.
+Hyperbloom
+Oz’s tendency to avoid targeting Dendro Cores can work in favor of Hyperbloom teams by allowing an Anemo unit who builds EM to be the more consistent Hyperbloom trigger. In certain teams with relatively slow Hydro application, there may be some Quicken uptime between Hyperblooms. This is known as Quickbloom.
+Example Teams
+Fischl — Nahida — Xingqiu — Sucrose
+On-Field DPS
+Fischl as an on-field DPS has many choices for flex slots, including: a Cryo unit for Superconduct, an Anemo unit for VV Shred, another off-field DPS, a buffer, or a healer/shielder.
+Example Teams
+Fischl — Beidou — Xingqiu — Kaeya
+Fischl — Beidou — Kazuha — Bennett
+Credits
+chasing_haze, nociii, miannes, aluminiuminum, itzsomebody, mathperson, idkanonymized, polomo, yukiyafuyu, cinders_pear
+Team images courtesy of the
+KQM portrait generator
+.

@@ -1,0 +1,268 @@
+Faruzan
+4
+★
+Bow
+Anemo
+A researcher from "one hundred years ago
+.
+Basic Stats
+Nv.
+90
+HP
+9570
+ATK
+196
+DEF
+628
+ATK
+24%
+Basic Stats
+Nv.
+90
+HP
+9570
+ATK
+196
+DEF
+628
+ATK
+24%
+Faruzan
+Ascension Materials
+Vayuda Turquoise Sliver
+Henna Berry
+Light Guiding Tetrahedron
+Faded Red Satin
+Teachings of Admonition
+Puppet Strings
+Faruzan
+Best Weapon
+Elegy for the End
+Level
+.
+90
+ATK
+608
+Energy Recharge
+55.1%
+Refinement
+.
+5
+A part of the "Millennial Movement" that wanders amidst the winds. Increases Elemental Mastery by 120. When the Elemental Skills or Elemental Bursts of the character wielding this weapon hit opponents, that character gains a Sigil of Remembrance. This effect can be triggered once every 0.2s and can be triggered even if said character is not on the field. When you possess 4 Sigils of Remembrance, all of them will be consumed and all nearby party members will obtain the "Millennial Movement: Farewell Song" effect for 12s. "Millennial Movement: Farewell Song" increases Elemental Mastery by 200 and increases ATK by 40%. Once this effect is triggered, you will not gain Sigils of Remembrance for 20s. Of the many effects of the "Millennial Movement," buffs of the same type will not stack.
+Other Weapons
+2
+°
+Favonius Warbow
+Energy Recharge
+3
+°
+End of the Line
+Energy Recharge
+4
+°
+Fading Twilight
+Energy Recharge
+Faruzan
+Best Artifact Set
+Viridescent Venerer
+2 Pc
+:
+Anemo DMG Bonus +15%
+4 Pc
+:
+Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s.
+Artifacts Main Stats
+Sands
+:
+Energy Recharge
+Goblet
+:
+Anemo Bonus
+Circlet
+:
+Crit Rate / Crit Damage
+Artifacts Substats
+Energy Recharge
+Crit Rate
+Crit Damage
+ATK %
+Other Artifacts Sets
+2
+°
+4x
+Noblesse Oblige
+3
+°
+4x
+Scroll of the Hero of Cinder City
+Faruzan
+Talent Priority
+1
+°
+Elemental Burst
+2
+°
+Elemental Skill
+Faruzan
+Best Teams
+Time #
+1
+Main DPS
+Sub-DPS
+Support
+Support
+Wanderer
+Furina
+Faruzan
+Bennett
+Time #
+2
+Main DPS
+Sub-DPS
+Support
+Support
+Xiao
+Furina
+Faruzan
+Xianyun
+Faruzan
+Ascension Costs
+Cost
+5
+→
+6
+120
+K
+Vayuda Turquoise Gemstone
+6
+Light Guiding Tetrahedron
+20
+Henna Berry
+60
+Rich Red Brocade
+24
+Faruzan
+Talents Costs
+Cost
+9
+→
+10
+700
+K
+Philosophies of Admonition
+16
+Rich Red Brocade
+12
+Puppet Strings
+2
+Crown of Insight
+1
+Faruzan
+Talents
+Normal Attack
+Parthian Shot
+Normal Attack
+Performs up to 4 consecutive shots with a bow.
+Charged Attack
+Performs a more precise
+Aimed Shot
+with increased DMG.
+While aiming, mighty winds will accumulate on the arrowhead. A fully charged wind arrow will deal
+Anemo DMG
+.
+Plunging Attack
+Fires off a shower of arrows in mid-air before falling and striking the ground, hitting opponents along the path and dealing AoE DMG upon impact.
+Elemental Skill
+Wind Realm of Nasamjnin
+Faruzan deploys a polyhedron that deals
+AoE Anemo DMG
+to nearby opponents. She will also enter the Manifest Gale state.
+While in the Manifest Gale state, Faruzan's next fully charged shot will consume this state and will become a Hurricane Arrow that contains high-pressure currents. This arrow deals
+Anemo DMG
+based on the DMG of a fully charged Aimed Shot from
+"Normal Attack: Parthian Shot."
+Pressurized Collapse
+The Hurricane Arrow will apply a Pressurized Collapse effect to the opponent or character hit. This effect will be removed after a short delay, creating a vortex that deals
+AoE Anemo DMG
+and pulls nearby objects and opponents in. If the Hurricane Arrow does not hit any opponent or character, it will create a Pressurized Collapse effect at its point of impact.
+The vortex DMG is considered Elemental Skill DMG.
+The winds of truth buffet the spirits of those who seek truth, dispersing the miasma of preconception.
+Elemental Burst
+The Wind's Secret Ways
+Faruzan deploys a Dazzling Polyhedron that unleashes a Whirlwind Pulse and deals
+AoE Anemo DMG
+.
+While the Dazzling Polyhedron persists, it will continuously move along a triangular path. Once it reaches each corner of that triangular path, it will unleash 1 more Whirlwind Pulse.
+Whirlwind Pulse
+·When the Whirlwind Pulse is unleashed, it will apply Perfidious Wind's Bale to nearby opponents, decreasing their
+Anemo RES
+.
+·The Whirlwind Pulse will also apply Prayerful Wind's Benefit to all nearby party members when it is unleashed, granting them an
+Anemo DMG Bonus
+.
+One must have respect for the unknown wisdom that one might find hidden in ancient ruins.
+Faruzan
+Passives
+Passive
+1
+Impetuous Flow
+When Faruzan is in the Manifest Gale state created by
+Wind Realm of Nasamjnin
+, the amount of time taken to charge a shot is decreased by 60%, and she can apply
+The Wind's Secret Ways
+' Perfidious Wind's Bale to opponents who are hit by the vortex created by Pressurized Collapse.
+Passive
+2
+Lost Wisdom of the Seven Caverns
+When characters affected by
+The Wind's Secret Ways
+' Prayerful Wind's Benefit deal
+Anemo DMG
+using Normal, Charged, Plunging Attacks, Elemental Skills, or Elemental Bursts to opponents, they will gain the Hurricane Guard effect: This DMG will be increased based on 32% of Faruzan's Base ATK. 1 instance of Hurricane Guard can occur once every 0.8s. This DMG Bonus will be cleared after Prayerful Wind's Benefit expires or after the effect is triggered once.
+Passive
+3
+Tomes Light the Path
+Gains 25% more rewards when dispatched on a Sumeru Expedition for 20 hours.
+Faruzan
+Constellations
+C
+1
+Truth by Any Means
+Faruzan can fire off a maximum of 2 Hurricane Arrows using fully charged Aimed Shots while under the effect of a single Manifest Gale created by
+Wind Realm of Nasamjnin
+.
+C
+2
+Overzealous Intellect
+The duration of the Dazzling Polyhedron created by
+The Wind's Secret Ways
+is increased by 6s.
+C
+3
+Spirit-Orchard Stroll
+Increases the Level of
+Wind Realm of Nasamjnin
+by 3.
+Maximum upgrade level is 15.
+C
+4
+Divine Comprehension
+The vortex created by
+Pressurized Collapses
+will restore Energy to Faruzan based on the number of opponents hit: If it hits 1 opponent, it will restore 2 Energy for Faruzan. Each additional opponent hit will restore 0.5 more Energy for Faruzan.
+A maximum of 4 Energy can be restored to her per vortex.
+C
+5
+Wonderland of Rumination
+Increases the Level of
+The Wind's Secret Ways
+by 3.
+Maximum upgrade level is 15.
+C
+6
+The Wondrous Path of Truth
+Characters affected by
+The Wind's Secret Ways
+' Prayerful Wind's Benefit have 40% increased CRIT DMG when they deal
+Anemo DMG
+. When the active character deals DMG while affected by Prayerful Wind's Benefit, they will apply Pressurized Collapse to the opponent damaged. This effect can be triggered once every 3s. This CD is shared between all party members.

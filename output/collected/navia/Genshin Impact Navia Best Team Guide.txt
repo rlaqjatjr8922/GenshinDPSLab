@@ -1,0 +1,505 @@
+Genshin Impact Navia Best Team Guide
+Last updated April 25, 2026. Looking for the best Navia teams in
+        Genshin Impact? Start with the top team summary below, then pick the
+        lineup that fits your roster.
+This page provides the best team information for Navia, who serves as a Main DPS. Her optimal teams are mainly Crystallization‑focused compositions, often paired with Zhongli for shielding and support. You can adapt the lineup to suit your available characters and builds.
+View Navia's character page
+Navia Team Summary
+#1
+Team Rating:S
+Navia Crystallization S Tier Team
+#2
+Team Rating:S
+Navia Furina Zhongli Bennett S+ Crystalize Team
+#3
+Team Rating:S
+Navia Xilonen Mavuika Bennett Plunge Team
+#4
+Team Rating:S
+Navia S+ Geo Pyro Core with Xilonen, Xiangling & Bennett
+#5
+Team Rating:SS
+Navia Geo Crystallize Premium Team
+C2
+C1
+#6
+Team Rating:S
+Navia Chiori Fischl Bennett Geo Crystalize Team
+C6
+#1 Navia Crystallization S Tier Team
+Tier S
+Navia main DPS Crystallization team centered around strong off-field Pyro support, ATK buffs, and shielding for safe Crystalize generation.
+Navia
+Main DPS
+Geo
+Main DPS of the team. Relies on teammates to trigger Elemental Shards to maximize Elemental Skill damage.
+Artifacts
+Nighttime Whispers in the Echoing Woods
+Main Stats
+Sands
+ATK%
+Goblet
+Geo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Verdict
+Serpent Spine
+Zhongli
+Support
+Geo
+Provides a strong shield for survivability and activates
+Tenacity of the Millelith
+ATK buff for the team.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+CRIT Rate / HP%
+Weapons
+Favonius Lance
+Xiangling
+Sub DPS
+Pyro
+Off-field Burst damage dealer that contributes consistent Pyro application and significant damage.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Engulfing Lightning
+"The Catch"
+Bennett
+Support
+Pyro
+Provides a massive ATK buff and healing through his Elemental Burst, greatly boosting the team's damage output.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+Energy Recharge / HP%
+Weapons
+Aquila Favonia
+The Alley Flash
+#2 Navia Furina Zhongli Bennett S+ Crystalize Team
+Tier S
+Navia hypercarry team with strong off-field Hydro, Geo shielding, and Bennett/Furina buffs. Navia stays on-field to collect Crystallize shards and maximize Elemental Skill damage, while Zhongli keeps the team safe and boosts ATK via Tenacity.
+Navia
+Main DPS
+Geo
+On-field carry. Relies on teammates to generate Elemental Shards so her Elemental Skill hits harder.
+Artifacts
+Nighttime Whispers in the Echoing Woods
+Main Stats
+Sands
+ATK%
+Goblet
+Geo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Verdict
+Serpent Spine
+Zhongli
+Support
+Geo
+Provides a very strong shield for comfort and activates
+Tenacity of the Millelith
+to increase team ATK.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+CRIT Rate / HP%
+Weapons
+Favonius Lance
+Furina
+Sub DPS
+Hydro
+Off-field Hydro application helps trigger Crystallize. Her Burst boosts team damage based on HP fluctuations, which Bennett can help recover.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+Energy Recharge
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Favonius Sword
+Bennett
+Support
+Pyro
+Burst provides a massive ATK buff and healing for the team.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+Energy Recharge / HP%
+Weapons
+Aquila Favonia
+The Alley Flash
+#3 Navia Xilonen Mavuika Bennett Plunge Team
+Tier S
+Navia is the main DPS, with
+Xianyun
+enabling Plunge Attack-focused gameplay and
+Xilonen
+providing RES shred plus healing support.
+Mavuika
+adds off-field Pyro damage, while
+Bennett
+boosts ATK and provides strong healing.
+Navia
+Main DPS
+Geo
+Main on-field damage dealer. Build for Geo damage and CRIT, with
+Nighttime Whispers in the Echoing Woods (4)
+for strongest synergy.
+Artifacts
+Nighttime Whispers in the Echoing Woods
+Main Stats
+Sands
+ATK%
+Goblet
+Geo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Verdict
+Serpent Spine
+Xilonen
+Support
+Geo
+Provides Samplers for elemental RES reduction and can also heal teammates. Focus on support utility and uptime.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+DEF
+Circlet
+DEF
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Peak Patrol Song
+Favonius Sword
+Mavuika
+Sub DPS
+Pyro
+Off-field Pyro damage from her skill's Ring of Searing Radiance, which follows the active character and attacks nearby enemies.
+Artifacts
+Obsidian Codex
+Main Stats
+Sands
+ATK%
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+A Thousand Blazing Suns
+Serpent Spine
+Bennett
+Support
+Pyro
+Burst provides a huge ATK buff and healing for the team. Standard support build prioritizing burst uptime.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+Energy Recharge / HP%
+Weapons
+Aquila Favonia
+The Alley Flash
+#4 Navia S+ Geo Pyro Core with Xilonen, Xiangling & Bennett
+Tier S
+Navia is the
+Main DPS
+of the team, built around triggering Elemental Shards to maximize her Elemental Skill damage. Xilonen provides RES shred and healing, Xiangling adds strong off-field Pyro damage, and Bennett supplies a massive ATK buff plus healing.
+Navia
+Main DPS
+Geo
+Primary on-field damage dealer. Relies on teammates to create Elemental Shards for stronger Elemental Skill hits.
+Artifacts
+Nighttime Whispers in the Echoing Woods
+Main Stats
+Sands
+ATK%
+Goblet
+Geo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Verdict
+Serpent Spine
+Xilonen
+Support
+Geo
+Provides Sampler-based elemental RES shred and healing support for the team.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Peak Patrol Song
+Favonius Sword
+Xiangling
+Sub DPS
+Pyro
+Off-field Burst damage dealer with strong continuous Pyro application.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Engulfing Lightning
+Favonius Lance
+Bennett
+Support
+Pyro
+Provides a huge ATK buff through his Burst and also heals the team.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+Energy Recharge / HP%
+Weapons
+Mistsplitter Reforged
+The Alley Flash
+#5 Navia Geo Crystallize Premium Team
+Tier SS
+Navia-centered premium
+Geo Crystallize
+team built around strong off-field damage, RES shred, and consistent shard generation.
+Navia acts as the on-field Main DPS, while Xilonen and Furina amplify team damage and Chiori adds extra off-field Geo pressure.
+Navia
+Main DPS
+Geo
+Main on-field DPS. Relies on teammates to trigger Elemental Shards, maximizing her Elemental Skill damage.
+Artifacts
+Nighttime Whispers in the Echoing Woods
+Main Stats
+Sands
+ATK%
+Goblet
+Geo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Verdict
+Serpent Spine
+Xilonen
+Support
+Geo
+Constellation 2+
+Provides RES shred through Samplers and healing for the team. Strong Geo support with excellent utility.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Peak Patrol Song
+Favonius Sword
+Chiori
+Sub DPS
+Geo
+Constellation 1+
+Off-field Geo damage dealer that adds consistent damage while Navia stays on-field.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+DEF%
+Goblet
+Geo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / DEF% / ATK%
+Weapons
+Uraku Misugiri
+Wolf-Fang
+Furina
+Sub DPS
+Hydro
+Provides continuous Hydro application for Crystallize and a powerful team-wide DMG buff through her Burst based on HP changes.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+Energy Recharge
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Favonius Sword
+#6 Navia Chiori Fischl Bennett Geo Crystalize Team
+Tier S
+Navia is the main DPS, supported by off-field Geo, Electro, and Bennett buff/healing. The team focuses on creating Elemental Shards to maximize Navia’s Elemental Skill damage.
+Navia
+Main DPS
+Geo
+Main on-field DPS. Relies on teammates to trigger Elemental Shard reactions and power up her Elemental Skill.
+Artifacts
+Nighttime Whispers in the Echoing Woods
+Main Stats
+Sands
+ATK%
+Goblet
+Geo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Verdict
+Serpent Spine
+Chiori
+Sub DPS
+Geo
+Provides consistent off-field Geo DMG and pairs well with Navia for extra crystallize shard generation.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+DEF%
+Goblet
+Geo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / DEF% / ATK%
+Weapons
+Uraku Misugiri
+Wolf-Fang
+Fischl
+Sub DPS
+Electro
+Constellation 6+
+Off-field Electro damage from her Elemental Skill helps maintain constant pressure and contributes to shard generation.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Aqua Simulacra
+The Stringless
+Bennett
+Support
+Pyro
+Provides a large ATK buff and healing with his Elemental Burst, boosting Navia’s damage and survivability.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+Energy Recharge / HP%
+Weapons
+Aquila Favonia
+The Alley Flash
+Navia Teams FAQ
+What is the best Navia team in Genshin Impact?
+Navia Crystallization S Tier Team is one of the strongest Navia teams right now. Use the team summary and build cards on this page to pick the best version for your account.
+What are good Navia teams without premium weapons?
+You can run strong Navia teams without signature weapons by prioritizing reaction synergy, energy consistency, and artifact main stats shown in each build card.
+Which teammates are best with Navia?
+Common high-performing partners include teams such as Navia Crystallization S Tier Team, Navia Furina Zhongli Bennett S+ Crystalize Team, Navia Xilonen Mavuika Bennett Plunge Team. Check each lineup section for role breakdowns and gear priorities.

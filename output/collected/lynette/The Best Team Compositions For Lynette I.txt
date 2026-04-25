@@ -1,0 +1,318 @@
+The Best Team Compositions For Lynette In Genshin Impact
+By
+Loreana Cardones
+Published
+Nov 24, 2023, 3:15 PM EST
+Loreana is a writer with experience in many different topics; an A student in a whole new sense of the word. Though she has now switched the undergrad and grad level academic writing for a bootleg Xbox controller to play her favorite gacha games with, she applies to gaming writing with the degree of rigor expected of a true scholar. That is NOT a Dottore reference (it is).
+Sign in to your
+TheGamer
+account
+Add Us On
+Jump links
+Jump Links
+Lynette's Best Overall Team: Taser
+Lynette Vaporize Team
+Lynette Triple Anemo Team
+follow
+Follow
+followed
+Followed
+Like
+Like
+Log in
+Here is a fact-based summary of the story contents:
+Try something different:
+Show me the facts
+Explain it like I’m 5
+Give me a lighthearted recap
+A strong team can make all the difference when you're playing
+Genshin Impact
+, and whether you're playing through the story, exploring, or challenging the trickier endgame content, having a team that synergizes well can get you through it.
+Related
+Genshin Impact: Best Builds For Lynette
+Lynette is a four-star Anemo character in Genshin Impact, and here's how you can easily build her.
+Posts
+By
+Sanyam Jain
+Lynette
+is a character that you can get for free, which is a great advantage for team building. This Ousia-aligned unit is a fairly reliable reaction support, complete with a taunt system that can help with crowd control and reduce DMG taken, so at C6 she can be a valuable DPS in various teams.
+Lynette's Best Overall Team: Taser
+Taser compositions have long been a
+fantastic option for scenarios where you need to fight multiple enemies
+. These teams will use
+Hydro and Electro to cause enemies to shock one another
+repeatedly.
+Therefore,
+an Anemo unit can be invaluable
+in such teams to
+help extend the AoE of the reaction
+while simultaneously
+shredding enemies' Elemental RES
+. That means a significant
+increase in both the quantity and quality of DMG dealt
+.
+This team is fairly F2P friendly as it is composed of four-star units:
+Lynette
+:
+DPS (on-field), Reaction Support
+Fischl
+: DPS (off-field)
+Xingqiu
+: Reaction Support
+Beidou
+: DPS (off-field), Shielder (if C1)
+However, it can also be considered a
+high-investment team because most of these units will need various constellations
+to perform better. Fischl and Lynette, for instance, are both units that
+want their C6 to become stronger
+and more versatile.
+This team is mostly composed of off-field units and is heavily reliant on Elemental Burst DMG, so
+you need to make sure the energy requirements are properly addressed through character builds.
+With that said, the rotation is very simple:
+Character
+Action
+Xingqiu
+Deploy Xinqiu's Elemental Burst
+, which will grant
+consistent Hydro application for 15 seconds
+. Characters will have increased resistance to interruption and DMG reduction during this time.
+Fischl
+Deploy Fischl's Elemental Burst
+to have her take the shape of her familiar Oz, allowing you to
+fly straight into the fray
+and deal
+Electro DMG
+. Oz will
+remain on the field
+afterward, dealing
+Electro DMG to nearby opponents
+at intervals. You can also use Fischl by
+using her Elemental Skill first and then her Elemental Burst
+a few seconds later. This will cause
+Oz to remain on the field for much longer
+than if you just summon him through one or the other.
+Beidou
+Deploy Beidou's Elemental Burst
+as soon as she takes the field, this will
+create a Thunderbeast's Targe around her
+; an Electro ring that will
+follow the active character for 15 seconds
+, launching bolts of
+Electro DMG to nearby enemies
+at one second intervals.
+Lynette
+Deploy Lynette's Elemental Burst
+to summon a
+Bogglecat Box
+. This will
+attract all enemies through its taunt mechanic
+, as well as deal
+one instance of Anemo DMG
+before it absorbs either
+Hydro or Electro and continuously fires a Vivid Shot
+of that
+corresponding element to nearby opponents
+at one-second intervals. While enemies are preoccupied with the Bogglecat Box, Lynette can
+use her normal attack to proc Electro-charged through the effect of Xingqiu and Beidou's Bursts
+, aided by Oz.
+You can include Kuki Shinobu in place of one of the two Electro DPS
+if you need a healer. She can proc Electro-charged just as well. However,
+the overall offensive capability
+of the team will decrease if a DMG dealer is replaced by an enabler/healer.
+Lynette Vaporize Team
+In this team composition,
+Lynette will mainly serve as a Reaction Support
+to provide some instances of
+Swirl DMG and help spread out Vaporize
+. You ideally want to
+play her so that her Bogglecat Box Swirls with Hydro
+, which can be tricky at times, because this Vaporize composition is
+heavily Pyro-based with AoE attacks
+and Lynette's
+Bogglecat Box prioritizes Pyro infusion over Hydro
+.
+This is
+one of the many variations
+of the well-loved International team.
+Nevertheless, the team in itself is a
+very standard Vaporize team, where Lynette mainly functions as an F2P replacement
+for the original Kazuha version of this team. The units for this composition are:
+Tartaglia
+: Main DPS (on-field)
+Bennett
+: Healer, Reaction Support
+Xiangling
+: Sub DPS (off-field), Reaction Support
+Lynette
+: Reaction Support
+As another heavily Elemental Burst-based team composition
+, you should keep in mind that the energy requirements will be hard to balance at times. This is what
+one simple rotation for this team
+usually looks like:
+Character
+Action
+Bennett
+Trigger his Elemental Burst
+to create an Inspiration Field where allies will
+either be buffed by a percentage of Bennett's attack or be healed by a percentage of his HP
+, depending on whether their
+HP is above or below 70% when they step in the field
+. This field's AoE will also
+give characters Pyro infusion
+.
+Xiangling
+Continue by triggering Xiangling's Elemental Burst
+. The Pyronado lacks an internal CD, which means it
+can proc reactions repeatedly with no intervals in between
+. This makes the Pyronado an
+amazing reaction enabler
+.
+Lynette
+Lynette is
+used to proc Swirl with her Elemental Burst
+. The Bogglecat Box
+instantly absorbs any element
+it comes into contact with, be it from
+allies' elemental attacks or those of enemies
+.
+Tartaglia
+He is the main DPS and on-field unit for this composition
+. Using his regular charged attacks with the bow will
+proc Vaporize on hit
+. However, playing Tartaglia requires
+some mastery over both his ranged form and melee form
+. Specifically, how to time the
+use of each of these so the long CD for his skill does not get in the way
+of your optimal performance.
+To ensure Lynette Swirls with Hydro
+you can manually cause this by
+using her first and creating the infusion with Tartaglia
+, but it will cost you some
+valuable seconds
+.
+Lynette Triple Anemo Team
+This team leverages Swirl by using three Anemo characters and a "flex" unit
+, which is simply a unit that wields
+any other element that reacts with Anemo
+. Through Swirl reactions, the
+Elemental RES of enemies is decreased
+, making it a perfectly offensive combination.
+This composition is ideal for the following teammates:
+Wanderer
+: Main DPS (on-field)
+Lynette
+: Sub DPS (off-field)
+Faruzan
+: Support
+Flex Unit
+:
+Bennett
+,
+Kuki Shinobu
+,
+Sangonomiya Kokomi
+,
+Xingqiu
+,
+Raiden Shogun
+, etc.
+The only downside of this team is that
+it needs a high-investment Faruzan
+. Otherwise, the
+DMG output of Anemo is greatly reduced
+.
+This is another team composition that has
+high energy requirements due to being Elemental Burst dependent
+. The rotation is usually something like this:
+Character
+Action
+Flex Character
+This
+teammate will
+enable all elemental reactions for the duration of a cycle
+, so you essentially need good
+off-field applicators
+. In the case of characters like
+Xingqiu and Bennett, you will want to start out by casting their Elemental Burst
+. On the other hand, you have
+off-field applicators like Raiden Shogun, Furina, Sangonomiya Kokomi, Kuki Shinobu, etc
+. who can provide elemental applications
+through their Elemental Skill
+. In either case, you begin by casting the flex element.
+Lynette
+Follow up with Lynette's Elemental Burst
+. The Bogglecat Box will Swirl with the Element you previously cast either:
+Immediately if
+cast after an AoE elemental attack
+.
+After
+coming into contact with a different element
+through a hit.
+Bogglecat Box will help
+further apply the element through its Vivid Shot
+.
+Faruzan
+Cast her Elemental Burst to deploy a Dazzling Polyhedron
+that moves in a triangular pattern over a certain AoE on the field. This Dazzling Polyhedron can both
+debuff enemies and buff allies
+. Her C6 grants
+an additional 40% Crit DMG to allies
+when they are under the effect of her burst, hence what makes it
+so crucial
+.
+Wanderer
+He is meant to be
+used as a standard DMG dealer
+who stays on the field for the remainder of the cycle. Using his
+Normal Attacks, Elemental Skill, and Elemental burst as much as possible
+is recommended.
+Next
+Genshin Impact: 7 Best Weapons For Lynette
+Your new cat-ear sword-slashing party member and her best blades.
+Posts
+By
+Marielle Elish. Ferraren
+Live-Service Games
+Genshin Impact
+Follow
+Followed
+Like
+Share
+Facebook
+X
+WhatsApp
+Threads
+Bluesky
+LinkedIn
+Reddit
+Flipboard
+Copy link
+Email
+Close
+Poll
+POLL
+Which game are you most looking forward to in 2026?
+Grand Theft Auto VI
+Grand Theft Auto VI
+26.3%
+Half-Life 3
+Half-Life 3
+19.8%
+Marvel's Wolverine
+Marvel's Wolverine
+12.0%
+007 First Light
+007 First Light
+9.2%
+Forza Horizon 6
+Forza Horizon 6
+11.6%
+Other
+Other
+21.1%
+See Results
+Submit
+Trending Now
+Former Beast Industries Employee Files Lawsuit Alleging Sexual Harassment
+I Think Video Game Scandals Should Get Even Weirder
+Saros Review - If At First You Don't Succeed, Die, Die Again

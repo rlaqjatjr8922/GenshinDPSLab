@@ -1,15 +1,15 @@
 {
   "albedo": {
-    "weapon": "peakpatrolsong",
-    "set_name": "goldentroupe"
+    "weapon": "urakumisugiri",
+    "set_name": "huskofopulentdreams"
   },
   "alhaitham": {
-    "weapon": "favoniussword",
+    "weapon": "lightoffoliarincision",
     "set_name": "deepwoodmemories"
   },
   "aloy": {
     "weapon": "aquasimulacra",
-    "set_name": "emblemofseveredfate"
+    "set_name": "noblesseoblige"
   },
   "amber": {
     "weapon": "skywardharp",
@@ -17,15 +17,15 @@
   },
   "arlecchino": {
     "weapon": "crimsonmoonssemblance",
-    "set_name": "fragmentofharmonicwhimsy"
+    "set_name": "viridescentvenerer"
   },
   "ayaka": {
-    "weapon": "sacrificialbow",
+    "weapon": "calamityqueller",
     "set_name": "blizzardstrayer"
   },
   "ayato": {
-    "weapon": "harangeppakufutsu",
-    "set_name": "viridescentvenerer"
+    "weapon": "favoniuswarbow",
+    "set_name": "blizzardstrayer"
   },
   "baizhu": {
     "weapon": "prototypeamber",
@@ -44,19 +44,19 @@
     "set_name": "noblesseoblige"
   },
   "candace": {
-    "weapon": "staffofhoma",
+    "weapon": "thecatch",
     "set_name": "noblesseoblige"
   },
   "charlotte": {
     "weapon": "favoniuscodex",
-    "set_name": "viridescentvenerer"
+    "set_name": "goldentroupe"
   },
   "chasca": {
     "weapon": "astralvulturescrimsonplumage",
-    "set_name": "obsidiancodex"
+    "set_name": "noblesseoblige"
   },
   "chevreuse": {
-    "weapon": "engulfinglightning",
+    "weapon": "blacktassel",
     "set_name": "noblesseoblige"
   },
   "chiori": {
@@ -68,7 +68,7 @@
     "set_name": "blizzardstrayer"
   },
   "citlali": {
-    "weapon": "favoniuscodex",
+    "weapon": "sacrificialfragments",
     "set_name": "scrolloftheheroofcindercity"
   },
   "clorinde": {
@@ -80,12 +80,12 @@
     "set_name": "deepwoodmemories"
   },
   "cyno": {
-    "weapon": "deathmatch",
+    "weapon": "kitaincrossspear",
     "set_name": "thunderingfury"
   },
   "dahlia": {
     "weapon": "favoniussword",
-    "set_name": "noblesseoblige"
+    "set_name": "emblemofseveredfate"
   },
   "dehya": {
     "weapon": "beaconofthereedsea",
@@ -104,7 +104,7 @@
     "set_name": "noblesseoblige"
   },
   "emilie": {
-    "weapon": "athousandblazingsuns",
+    "weapon": "deathmatch",
     "set_name": "deepwoodmemories"
   },
   "escoffier": {
@@ -128,7 +128,7 @@
     "set_name": "nightoftheskysunveiling"
   },
   "freminet": {
-    "weapon": "serpentspine",
+    "weapon": "beaconofthereedsea",
     "set_name": "paleflame"
   },
   "furina": {
@@ -144,35 +144,35 @@
     "set_name": "blizzardstrayer"
   },
   "gorou": {
-    "weapon": "elegyfortheend",
+    "weapon": "favoniuswarbow",
     "set_name": "huskofopulentdreams"
   },
   "heizou": {
-    "weapon": "mappamare",
+    "weapon": "skywardatlas",
     "set_name": "viridescentvenerer"
   },
   "hutao": {
-    "weapon": "staffofhoma",
-    "set_name": "crimsonwitchofflames"
+    "weapon": "blacktassel",
+    "set_name": "tenacityofthemillelith"
   },
   "ineffa": {
     "weapon": "fracturedhalo",
-    "set_name": "deepwoodmemories"
+    "set_name": "gildeddreams"
   },
   "itto": {
-    "weapon": "redhornstonethresher",
+    "weapon": "serpentspine",
     "set_name": "huskofopulentdreams"
   },
   "jean": {
-    "weapon": "favoniussword",
+    "weapon": "skywardblade",
     "set_name": "viridescentvenerer"
   },
   "kaeya": {
-    "weapon": "favoniussword",
+    "weapon": "mistsplitterreforged",
     "set_name": "blizzardstrayer"
   },
   "kaveh": {
-    "weapon": "favoniusgreatsword",
+    "weapon": "mailedflower",
     "set_name": "deepwoodmemories"
   },
   "kazuha": {
@@ -189,14 +189,14 @@
   },
   "kirara": {
     "weapon": "keyofkhajnisut",
-    "set_name": "deepwoodmemories"
+    "set_name": "tenacityofthemillelith"
   },
   "klee": {
     "weapon": "thewidsith",
-    "set_name": "lavawalker"
+    "set_name": "crimsonwitchofflames"
   },
   "kokomi": {
-    "weapon": "everlastingmoonglow",
+    "weapon": "athousandfloatingdreams",
     "set_name": "oceanhuedclam"
   },
   "kukishinobu": {
@@ -212,24 +212,24 @@
     "set_name": "deepwoodmemories"
   },
   "layla": {
-    "weapon": "primordialjadecutter",
-    "set_name": "tenacityofthemillelith"
+    "weapon": "freedomsworn",
+    "set_name": "noblesseoblige"
   },
   "lisa": {
-    "weapon": "engulfinglightning",
-    "set_name": "thunderingfury"
+    "weapon": "thrillingtalesofdragonslayers",
+    "set_name": "noblesseoblige"
   },
   "lynette": {
     "weapon": "favoniussword",
-    "set_name": "viridescentvenerer"
+    "set_name": "noblesseoblige"
   },
   "lyney": {
-    "weapon": "aquilafavonia",
-    "set_name": "viridescentvenerer"
+    "weapon": "aquasimulacra",
+    "set_name": "marechausseehunter"
   },
   "mavuika": {
     "weapon": "athousandblazingsuns",
-    "set_name": "instructor"
+    "set_name": "obsidiancodex"
   },
   "mika": {
     "weapon": "favoniuslance",
@@ -240,7 +240,7 @@
     "set_name": "viridescentvenerer"
   },
   "mona": {
-    "weapon": "lostprayertothesacredwinds",
+    "weapon": "thewidsith",
     "set_name": "noblesseoblige"
   },
   "mualani": {
@@ -253,15 +253,15 @@
   },
   "navia": {
     "weapon": "verdict",
-    "set_name": "marechausseehunter"
+    "set_name": "nighttimewhispersintheechoingwoods"
   },
   "neuvillette": {
     "weapon": "tomeoftheeternalflow",
-    "set_name": "viridescentvenerer"
+    "set_name": "marechausseehunter"
   },
   "nilou": {
     "weapon": "keyofkhajnisut",
-    "set_name": "deepwoodmemories"
+    "set_name": "tenacityofthemillelith"
   },
   "ningguang": {
     "weapon": "lostprayertothesacredwinds",
@@ -272,16 +272,16 @@
     "set_name": "huskofopulentdreams"
   },
   "ororon": {
-    "weapon": "aquasimulacra",
+    "weapon": "chainbreaker",
     "set_name": "scrolloftheheroofcindercity"
   },
   "qiqi": {
-    "weapon": "blacktassel",
+    "weapon": "sacrificialsword",
     "set_name": "oceanhuedclam"
   },
   "raiden": {
     "weapon": "thecatch",
-    "set_name": "emblemofseveredfate"
+    "set_name": "deepwoodmemories"
   },
   "razor": {
     "weapon": "serpentspine",
@@ -289,18 +289,18 @@
   },
   "rosaria": {
     "weapon": "engulfinglightning",
-    "set_name": "noblesseoblige"
+    "set_name": "emblemofseveredfate"
   },
   "sara": {
-    "weapon": "skywardharp",
-    "set_name": "noblesseoblige"
+    "weapon": "elegyfortheend",
+    "set_name": "emblemofseveredfate"
   },
   "sayu": {
     "weapon": "favoniusgreatsword",
     "set_name": "viridescentvenerer"
   },
   "sethos": {
-    "weapon": "thestringless",
+    "weapon": "slingshot",
     "set_name": "gildeddreams"
   },
   "shenhe": {
@@ -308,7 +308,7 @@
     "set_name": "noblesseoblige"
   },
   "sigewinne": {
-    "weapon": "elegyfortheend",
+    "weapon": "aquasimulacra",
     "set_name": "tenacityofthemillelith"
   },
   "skirk": {
@@ -324,16 +324,16 @@
     "set_name": "heartofdepth"
   },
   "thoma": {
-    "weapon": "favoniuslance",
+    "weapon": "blacktassel",
     "set_name": "noblesseoblige"
   },
   "tighnari": {
-    "weapon": "hunterspath",
-    "set_name": "gildeddreams"
+    "weapon": "freedomsworn",
+    "set_name": "deepwoodmemories"
   },
   "anemotraveler": {
     "weapon": "freedomsworn",
-    "set_name": "viridescentvenerer"
+    "set_name": "gildeddreams"
   },
   "dendrotraveler": {
     "weapon": "favoniussword",
@@ -348,8 +348,8 @@
     "set_name": "noblesseoblige"
   },
   "hydrotraveler": {
-    "weapon": "sacrificialsword",
-    "set_name": "goldentroupe"
+    "weapon": "primordialjadecutter",
+    "set_name": "emblemofseveredfate"
   },
   "pyrotraveler": {
     "weapon": "freedomsworn",
@@ -376,16 +376,16 @@
     "set_name": "emblemofseveredfate"
   },
   "xianyun": {
-    "weapon": "favoniuscodex",
+    "weapon": "cranesechoingcall",
     "set_name": "viridescentvenerer"
   },
   "xiao": {
-    "weapon": "staffofhoma",
-    "set_name": "vermillionhereafter"
+    "weapon": "deathmatch",
+    "set_name": "viridescentvenerer"
   },
   "xilonen": {
-    "weapon": "favoniussword",
-    "set_name": "scrolloftheheroofcindercity"
+    "weapon": "peakpatrolsong",
+    "set_name": "obsidiancodex"
   },
   "xingqiu": {
     "weapon": "favoniussword",
@@ -393,11 +393,11 @@
   },
   "xinyan": {
     "weapon": "skywardpride",
-    "set_name": "bloodstainedchivalry"
+    "set_name": "noblesseoblige"
   },
   "yaemiko": {
-    "weapon": "skywardatlas",
-    "set_name": "emblemofseveredfate"
+    "weapon": "athousandfloatingdreams",
+    "set_name": "deepwoodmemories"
   },
   "yanfei": {
     "weapon": "thewidsith",
@@ -409,18 +409,18 @@
   },
   "yelan": {
     "weapon": "favoniuswarbow",
-    "set_name": "tenacityofthemillelith"
+    "set_name": "emblemofseveredfate"
   },
   "yoimiya": {
     "weapon": "thunderingpulse",
-    "set_name": "echoesofanoffering"
+    "set_name": "shimenawasreminiscence"
   },
   "yunjin": {
-    "weapon": "favoniuslance",
+    "weapon": "thunderingpulse",
     "set_name": "huskofopulentdreams"
   },
   "zhongli": {
     "weapon": "blacktassel",
-    "set_name": "tenacityofthemillelith"
+    "set_name": "noblesseoblige"
   }
 }

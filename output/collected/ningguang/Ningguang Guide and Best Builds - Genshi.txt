@@ -1,0 +1,471 @@
+Home
+/
+Genshin Impact
+/
+Character List
+/
+Ningguang Build
+Ningguang Guide and Best Builds
+Ningguang is a 4-star Geo character and catalyst user that focuses on high
+single-target damage. She wields Geo powers as shards of rock that she can hurls
+into the enemy from behind her Geo barrier,
+Jade Screen
+.This
+guide will focus on Ningguang's best weapons, builds, artifacts, teambuilding and more!
+Last updated
+on
+Sep 12, 2025
+at
+09:56
+by
+Jaymo
+1 comment
+B
+Rank
+Geo
+Element
+Catalyst
+Weapon
+★
+★
+★
+★
+★
+Rarity
+Erin Ebers
+EN Voice Actor
+Ohara Sayaka
+JP Voice Actor
+Ningguang's Strengths & Weaknesses
+Strengths
+High single target DPS.
+Safer playing at ranged.
+Very versatile for teams.
+Weaknesses
+Very weak AoE.
+Heavy investment to shine.
+Base attack very low.
+1.
+Ningguang On-field DPS
+Ningguang is built for critical damage. Her
+Geo
+shards can take down a
+single target with ease and her ability to stay at ranged sets her apart from
+other Geo characters. Where Ningguang struggles is that she has no AoE outside of
+her
+Jade Screen
+which is used more for defensive bonuses than the actual
+damage itself. Unfortunately to truly unlock her potential,
+Grandeur Be the Seven Stars
+(C6)
+is absolutely necessary as she isn't reliant on Elemental Reactions and is
+built for pure solo DPS. For the purpose of this guide, we will be focusing
+on her capabilities as an on-field damage dealer.
+BiS Weapon
+Lost Prayer to the Sacred Winds
+Alternate Weapons
+Kagura's Verity
+Skyward Atlas
+Solar Pearl
+Mappa Mare
+Best Artifacts
+Emblem of Severed Fate
+— 4-piece
+Noblesse Oblige
+— 4-piece
+Archaic Petra
++
+Gladiator's Finale
+— 2-piece bonuses
+Main Stats
+Sand Stats
+: ATK %
+Goblet Stats
+: Geo DMG
+Circlet Stats
+: CRIT Rate or CRIT DMG
+Substat Priority
+CRIT Rate
+CRIT DMG
+ATK %
+ATK
+Talent Priority
+Elemental Skill
+Elemental Burst
+Normal Attack
+Ningguang is built for damage, so the artifact sets above are somewhat equal choices
+at boosting her damage output. However, they focus on different aspects of how you
+would play Ningguang. First,
+Emblem of Severed Fate
+focuses more on using
+charged attacks, buffing their damage while you weave your normal attacks
+in between your skills.
+Noblesse Oblige
+focuses on a team-wide buff for
+Attack power when you use
+Starshatter
+and offers a
+flat elemental buff for your whole team. This set can work really well with
+a team that is swapping Sub DPS characters on and off the field to add to
+Ningguang's damage. Lastly, Ningguang can stack several two piece bonuses
+while searching for those strong CRIT Rate and CRIT DMG stats. Overall,
+Ningguang doesn't have a BIS set but rather can use different options
+depending upon how you play her and the team she's put into.
+2.
+Combos and How to Play Ningguang
+Ningguang has a very simple playstyle, with very little technical know how required.
+This makes it very easy for new players to pick her up and play her correctly.
+However, to get the highest DPS out of her you will need to heavily invest in
+building CRIT and ATK. She follows a simple rotation of
+setting up her
+Jade Screen
+and then using her charged
+attacks to fire through it. This amplifies the attacks and with
+Grandeur Be the Seven Stars
+(C6) adds extra projectiles.
+Some discussion must be had around Ningguang's Energy Recharge as her
+requirements will vary depending on her team composition. Typically if you are
+running 1 other
+Geo
+character, you can expect to cast
+Starshatter
+every 15s with a requirement of 120% Energy Recharge. Her burst
+cooldown can be lowered with the addition of other Geo characters, which will
+up her Energy Recharge requirement to 140% to maintain a constant burst.
+However, our team compositions will be looking at Sub DPS characters
+than can help support Ningguang's damage with on-field skills and with only
+one other Geo character joining her (
+Zhongli
+,
+Noelle
+or
+Albedo
+), setting up a
+12s burst with without a battery for Ningguang requires a very specific build
+and isn't recommended.
+3.
+Ningguang's Best Team Comps
+Ningguang is quite versatile for team composition, as she is a
+standalone DPS who can be supported through on-field
+Elemental Reactions
+like
+Fischl
+'s
+Midnight Phantasmagoria
+or
+Bennett
+'s
+Fantastic Voyage
+.
+For our team sections we will be focusing on how
+we can create elemental reaction pairings while still supporting
+Ningguang on a 15s burst cycle with
+Starshatter
+. These
+teams have very simple rotations and are very easy to play, allowing
+for powerful combinations with Ningguang showcasing her single target
+damage. With that being said we have chosen our team builds based upon
+character availability (4 stars vs 5 stars), overall damage potential
+and best conditions for Ningguang to shine.
+3.1.
+Ningguang Double Geo
+Main DPS
+Buffer/Healer
+Sub DPS
+Support
+Ningguang
+Xilonen
+Fischl
+Bennett
+This setup functions on quick elemental skill swaps between characters while you line up
+Ningguang's
+Starshatter
+for huge bursts of damage. We
+will use
+Bennett
+'s
+Fantastic Voyage
+for
+healing and a damage buff when facing stronger sets of enemies as well as being used
+as a short battery for particles.
+Fischl
+is used with
+Nightrider
+and
+Midnight Phantasmagoria
+which provides an amazing
+chunk of damage if
+Fischl
+is built correctly. Finally, we use
+Xilonen
+for added damage buffs and a great resistance shred through 
+her sampler unique ability. Do not forget about your
+Geo Resonance
+for the lowered Geo RES and boost to Damage.
+4.
+Ningguang Turret
+Main DPS
+Sub DPS - Electro
+Sub DPS - Electro
+Sub DPS - Pyro
+Ningguang
+Yae Miko
+Fischl
+Xiangling
+This team is a single target monster, and is so much fun to play!
+While it does not have many AoE abilities, it can shred groups picking
+them apart one by one. To start, we drop our two 'turret' style skills
+with Fischl's
+Nightrider
+and Yae Miko's
+Yakan Evocation: Sesshou Sakura
+. These two dish out
+Electro
+damage
+non-stop.
+
+Next, throw out
+Xiangling
+'s
+Guoba Attack
+on to the field
+then swap to Ningguang, place down a
+Jade Screen
+and send some
+Charged Attack
+through it along with your burst ability. With Guoba dealing
+Pyro DMG and the turrets Electro DMG, this
+will cause a ton of
+Elemental Reactions
+that
+will make
+Crystallize
+shields for Ningguang.
+
+This gives us a huge defensive
+boost and we can start to hit targets with Ningguang, always firing from
+behind or beside a
+Jade Screen
+for an additional shot. Lastly,
+you can use the shields available from the crystallize reactions and then
+use
+Xiangling
+'s Elemental Burst,
+Pyronado
+, to charge into the
+enemies. Then jump back to Ningguang and clean up the enemies still alive
+with charged attacks.
+4.1.
+Ningguang Hypercarry
+Main DPS
+Energy Battery and Buffer
+Support
+Shielder
+Ningguang
+Kujou Sara
+Bennett
+Zhongli
+This build focuses on scaling Ningguang personal DPS as much as possible.
+This build typically requires her to have your C6 constellation and with very strong
+CRIT and ATK gear. It is played with Ningguang on-field the majority
+of the time benefiting from
+Geo Resonance
+,
+Zhongli
+'s shielding from
+Dominus Lapidis
+,
+Kujou Sara
+'s
+Subjugation: Koukou Sendou
+, and lastly
+Bennett
+'s
+Fantastic Voyage
+for another attack buff. This
+grants Ningguang offensive and defensive boosts to stay on the field
+and fight. Character's Elemental Skills are used as a battery
+to feed Ningguang more energy so she can keep her burst charged. This
+plays as simple as you want it to be, with a rotation of the Attack
+buffs or use them on top of each other.
+5.
+Ningguang's Ascensions, Talents, and Constellations
+Ningguang's Ascensions
+Ningguang's Talents
+Ningguang's Constellations
+5.1.
+Ningguang's Ascension Passives and Materials
+Unlock
+Ascension Passive
+Explanation
+With Character
+Trove of Marvelous Treasures
+Displays the location of nearby ore veins used in forging on the
+     mini-map.
+1st Ascension
+Backup Plan
+When Ningguang is in possession of Star Jades, her
+Charged Attack
+does not consume Stamina.
+4th Ascension
+Strategic Reserve
+A character that passes through the
+Jade Screen
+will gain a 12% Geo DMG Bonus for 10s.
+Ningguang requires a range of materials to ascend to the 6th ascension.
+After her second ascension she gains an additional Geo DMG
+bonus going up to 24% at her final Ascension(6th). The total cost
+of all Ningguang's Ascensions is:
+Source
+Quantity
+Mora
+420,000 Mora
+Boss Material
+46x
+Basalt Pillar
+Ascension Material
+1x
+Prithiva Topaz Sliver
+9x
+Prithiva Topaz Fragment
+9x
+Prithiva Topaz Chunk
+6x
+Prithiva Topaz Gemstone
+Local Specialty
+168x
+Glaze Lily
+Enhancement Material
+18x
+Recruit's Insignia
+30x
+Sergeant's Insignia
+36x
+Lieutenant's Insignia
+5.2.
+Ningguang's Talents
+Listed below is each talent and a brief explanation of how they work.
+Type
+Talent Name
+Brief Explanation
+Normal
+Sparkling Scatter
+Normal attacks shoot gems that deal Geo DMG. When
+     they hit, Ningguang gains 1 Star Jade. Her charged attack
+     fires off a large gem for Geo DMG, but if she has any
+     Star Jades, unleashing a Charged Attack will cause the
+     Star Jades to be fired at the enemy as well, dealing
+     additional damage. Her plunging attack is a mid-air
+     strike with an AoE Geo DMG ring upon impact.
+Elemental Skill
+Jade Screen
+Ningguang creates a Jade Screen out of gold, obsidian and her great
+    opulence, dealing AoE Geo DMG. This can block enemy projectiles and endures
+    based on Ningguang Maximum HP.
+Elemental Burst
+Starshatter
+Gathering a great number of gems, Ningguang scatters them all at once,
+    sending homing projectiles at her enemies that deal massive
+    Geo DMG. If Starshatter is cast when a
+Jade Screen
+is nearby, the Jade Screen will fire
+    additional gem projectiles at the same time.
+To upgrade a single talent to level 10, it costs:
+Source
+Quantity
+Mora
+1,625,500 Mora
+Special Material
+1x
+Crown of Insight
+Boss Material
+6x
+Spirit Locket of Boreas
+Domain Material
+3x
+Teachings of Prosperity
+21x
+Guide to Prosperity
+38x
+Philosophies of Prosperity
+Enhancement Material
+6x
+Recruit's Insignia
+22x
+Sergeant's Insignia
+31x
+Lieutenant's Insignia
+5.3.
+Ningguang's Constellations
+Grandeur Be the Seven Stars
+(C6) is the best
+Constellation to get due to the powerful augments to your
+Starshatter
+, increasing its power.
+#
+Name
+Explanation
+C1
+Piercing Fragments
+When a
+Ningguang
+hits, it deals AoE DMG.
+C2
+Shock Effect
+When
+Jade Screen
+is shattered, its CD will reset.
+    Can occur once every 6s.
+C3
+Majesty Be the Array of Stars
+Increases the Level of
+Starshatter
+by 3.
+Maximum upgrade level is 15.
+C4
+Exquisite be the Jade, Outshining All Beneath
+Jade Screen
+increases nearby characters' Elemental
+    RES by 10%.
+C5
+Invincible Be the Jade Screen
+Increases the Level of
+Jade Screen
+by 3.
+Maximum upgrade level is 15.
+C6
+Grandeur Be the Seven Stars
+When
+Starshatter
+is used, Ningguang gains 7 Star
+    Jades.
+Changelog
+22 Oct. 2024:
+Build adjustment for new characters.
+29 Nov. 2023:
+Guide added.
+Show more
+Show less
+Need any help? Check out our
+General Discussion Forum
+!
+1 comment
+In The Same Category
+Xilonen Profile & Talents
+Arataki Itto Best Builds Guide
+Zibai Profile & Talents
+Albedo Best Builds Guide
+Gorou Best Builds Guide
+Yun-Jin Best Builds Guide
+Zhongli Best Builds Guide
+Illuga Profile & Talents
+Illuga Team Guide
+Zibai Best Builds Guide
+Chiori Profile & Talents
+Linnea Best Builds Guide
+ABOUT THE AUTHOR
+Written by Jaymo, a longtime gamer who spends way too many hours exploring
+        open worlds, grinding in MMOs, and pulling for his favorite gacha characters.
+        He covers news and guides for all kinds of games, and just likes helping people
+        enjoy them more. You can find him hanging out on Twitch or chatting in Discord (jaym0).
+SUPPORT OUR WRITERS

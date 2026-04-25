@@ -1,0 +1,492 @@
+Genshin Impact Faruzan Best Team Guide
+Last updated April 25, 2026. Looking for the best Faruzan teams in
+        Genshin Impact? Start with the top team summary below, then pick the
+        lineup that fits your roster.
+This page provides the best Faruzan Team information. Faruzan is a Support in most situations. Top teams include Anemo-focused compositions, and Faruzan is a Character specifically assisting Anemo DPS Characters.
+View Faruzan's character page
+Faruzan Team Summary
+#1
+Team Rating:SS
+Faruzan Wanderer Hypercarry Vaporize Support Team
+#2
+Team Rating:SS
+Faruzan Anemo Hypercarry with Wanderer, Yelan & Bennett
+#3
+Team Rating:SS
+Faruzan Wanderer Anemo Hypercarry with Bennett & Rosaria
+#4
+Team Rating:SS
+Xiao Faruzan Bennett Zhongli SS Anemo Hypercarry
+#5
+Team Rating:SS
+Faruzan Xiao Hypercarry with Yelan Bennett
+#6
+Team Rating:SS
+Faruzan Xiao SS Anemo Burst Team
+#1 Faruzan Wanderer Hypercarry Vaporize Support Team
+Tier SS
+Faruzan Anemo Team #1
+Faruzan enables Wanderer’s Anemo damage with strong RES shred and Burst buffs, while Xingqiu and Bennett add Hydro/Pyro application to trigger Wanderer’s Hovering State buffs, plus Bennett’s large ATK buff and healing.
+Note:
+The guide text mentions Xiao in Faruzan’s description, but this team is built around
+Wanderer
+.
+Wanderer
+Main DPS
+Anemo
+Main on-field DPS. Uses Elemental Skill to enter Hovering State and deal amplified Anemo damage. Benefits from Pyro/Hydro contact to increase Kuugoryoku Point cap by 20 and ATK by 30%.
+Artifacts
+Desert Pavilion Chronicle
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / ATK%
+Weapons
+Tulaytullah's Remembrance
+The Widsith
+Faruzan
+Support
+Anemo
+Core Anemo support. Provides Anemo RES decrease and DMG Bonus through Elemental Burst. At C6, also grants additional CRIT DMG Bonus.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / Energy Recharge / ATK%
+Weapons
+Favonius Warbow
+Xingqiu
+Sub DPS
+Hydro
+Off-field Hydro applicator. His Burst continuously applies Hydro and helps trigger Wanderer’s Hovering State buff condition.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Favonius Sword
+Bennett
+Support
+Pyro
+Provides a powerful ATK buff and healing with Elemental Burst. His Pyro application can also help trigger Wanderer’s Hovering State buff condition.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+Energy Recharge
+Goblet
+HP%
+Circlet
+HP%
+Substats
+Energy Recharge / HP% / HP
+Weapons
+Sapwood Blade
+#2 Faruzan Anemo Hypercarry with Wanderer, Yelan & Bennett
+Tier SS
+Faruzan is the key Anemo support
+in this team, boosting Wanderer’s damage with Anemo RES shred and Anemo DMG Bonus. Yelan and Bennett add strong off-field damage, Hydro/Pyro buffs, and valuable Swirl/elemental contact effects to further increase Wanderer’s damage output.
+Wanderer
+Main DPS
+Anemo
+Main on-field carry. Uses Elemental Skill to enter Hovering State and deal sustained Anemo damage. Gains strong buffs when his Skill contacts Hydro from Yelan and Pyro from Bennett.
+Artifacts
+Desert Pavilion Chronicle
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / ATK%
+Weapons
+Tulaytullah's Remembrance
+The Widsith
+Faruzan
+Support
+Anemo
+Core Anemo support for Wanderer. Uses Elemental Burst to apply Anemo RES reduction and provide Anemo DMG Bonus. At C6, also grants additional CRIT DMG Bonus.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / Energy Recharge / ATK%
+Weapons
+Favonius Warbow
+Yelan
+Sub DPS
+Hydro
+Off-field Hydro damage dealer who provides continuous Hydro application while contributing strong personal damage. Her Hydro contact also helps Wanderer gain additional Kuugoryoku Points.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+HP%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG / CRIT Rate
+Substats
+HP% / CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Aqua Simulacra
+Favonius Warbow
+Bennett
+Support
+Pyro
+Provides a massive ATK buff and healing through his Elemental Burst. Pyro contact with Wanderer’s Skill also grants additional benefits, making him one of the best supports for this team.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+Energy Recharge
+Goblet
+HP%
+Circlet
+HP%
+Substats
+Energy Recharge / HP% / HP%
+Weapons
+Sapwood Blade
+#3 Faruzan Wanderer Anemo Hypercarry with Bennett & Rosaria
+Tier SS
+A high-value Wanderer hypercarry team where
+Faruzan
+amplifies Anemo damage,
+Bennett
+provides a massive ATK buff and healing, and
+Rosaria
+adds Cryo utility plus extra CRIT Rate. Wanderer gains strong self-buffs from contacting
+Pyro
+and
+Cryo
+while in Skill state, making this a very potent burst window team.
+Wanderer
+Main DPS
+Anemo
+Main on-field damage dealer. Uses Elemental Skill to enter Hovering State and maximize DPS during buff windows. Gains additional Kuugoryoku Point cap and CRIT Rate when affected by Pyro and Cryo from teammates.
+Artifacts
+Desert Pavilion Chronicle
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / ATK%
+Weapons
+Tulaytullah's Remembrance
+The Widsith
+Faruzan
+Support
+Anemo
+Core Anemo support. Her Elemental Burst reduces enemy Anemo RES and increases Anemo DMG, greatly boosting Wanderer's damage. At C6 she also grants additional CRIT DMG to the team.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / Energy Recharge / ATK%
+Weapons
+Favonius Warbow
+Rosaria
+Sub DPS
+Cryo
+Off-field Cryo damage through Elemental Burst. Helps enable Wanderer's Cryo-infused buff condition and can share CRIT Rate with the team, especially valuable at C2.
+Artifacts
+Blizzard Strayer
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT Rate
+Substats
+CRIT Rate / CRIT DMG / ATK% / Energy Recharge
+Weapons
+Skyward Spine
+Favonius Lance
+Bennett
+Support
+Pyro
+Provides a huge ATK buff and healing via Elemental Burst. His Pyro application also helps trigger Wanderer's Pyro-related self-buff while in Skill state.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+Energy Recharge
+Goblet
+HP%
+Circlet
+HP%
+Substats
+Energy Recharge / HP% / HP%
+Weapons
+Sapwood Blade
+#4 Xiao Faruzan Bennett Zhongli SS Anemo Hypercarry
+Tier SS
+Faruzan Anemo Team #4
+Faruzan maximizes Xiao's Elemental Burst damage with Anemo RES shred and Burst DMG buffs. Bennett adds a massive ATK buff and healing, while Zhongli provides strong shielding and additional team ATK buff through Tenacity of the Millelith.
+Xiao
+Main DPS
+Anemo
+On-field plunge DPS. Uses Elemental Burst for consecutive Plunge Attacks that deal wide AoE Anemo DMG.
+Artifacts
+Vermillion Hereafter
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Primordial Jade Winged-Spear
+Deathmatch
+Faruzan
+Support
+Anemo
+Provides Anemo RES decrease and DMG Bonus to Xiao with her Elemental Burst. At
+C6
+, also grants additional CRIT DMG Bonus.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / Energy Recharge / ATK%
+Weapons
+Favonius Warbow
+Bennett
+Support
+Pyro
+Burst provides a huge ATK buff and healing for the team.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+Energy Recharge
+Goblet
+HP%
+Circlet
+HP%
+Substats
+Energy Recharge / HP%
+Weapons
+Sapwood Blade
+Zhongli
+Support
+Geo
+Provides strong shielding and boosts team ATK with full Tenacity of the Millelith.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / Energy Recharge
+Weapons
+Staff of Homa
+Black Tassel
+#5 Faruzan Xiao Hypercarry with Yelan Bennett
+Tier SS
+Faruzan enables Xiao’s Elemental Burst damage with Anemo RES shred and DMG Bonus, while Bennett adds a massive ATK buff and healing. Yelan provides strong off-field Hydro damage and can be swirled by Xiao during his plunge sequence.
+Xiao
+Main DPS
+Anemo
+Primary on-field carry. Uses Elemental Burst for consecutive plunge attacks dealing wide-area Anemo DMG.
+Artifacts
+Vermillion Hereafter
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Primordial Jade Winged-Spear
+Deathmatch
+Faruzan
+Support
+Anemo
+Provides Anemo RES decrease and DMG Bonus to Xiao through Elemental Burst. At C6, also grants additional CRIT DMG Bonus.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / Energy Recharge / ATK%
+Weapons
+Favonius Warbow
+Yelan
+Sub DPS
+Hydro
+Off-field Hydro Sub DPS with consistent Hydro application and strong damage contribution.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+HP%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+HP% / CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Aqua Simulacra
+Favonius Warbow
+Bennett
+Support
+Pyro
+Provides a huge ATK buff and healing with Elemental Burst.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+Energy Recharge
+Goblet
+HP%
+Circlet
+HP%
+Substats
+Energy Recharge / HP% / HP%
+Weapons
+Sapwood Blade
+#6 Faruzan Xiao SS Anemo Burst Team
+Tier SS
+Core idea:
+Faruzan maximizes Xiao’s Elemental Burst damage with Anemo RES shred and DMG Bonus, while Bennett and Xiangling add strong off-field Pyro damage and supportive buffs.
+Note:
+Xiao can swirl Pyro from Xiangling during his Plunges for extra team damage.
+Xiao
+Main DPS
+Anemo
+Xiao’s Elemental Burst enables consecutive Plunge Attacks that deal wide AoE Anemo DMG.
+Artifacts
+Vermillion Hereafter
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Primordial Jade Winged-Spear
+Deathmatch
+Faruzan
+Support
+Anemo
+Provides Anemo RES decrease and DMG Bonus to Xiao through her Elemental Burst. At C6, her Burst also grants additional CRIT DMG Bonus.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / Energy Recharge / ATK%
+Weapons
+Favonius Warbow
+Xiangling
+Sub DPS
+Pyro
+Her Elemental Burst deals significant off-field damage.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+ATK% / Energy Recharge
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Engulfing Lightning
+"The Catch"
+Bennett
+Support
+Pyro
+Provides a massive ATK buff and healing with his Elemental Burst.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+Energy Recharge
+Goblet
+HP%
+Circlet
+HP%
+Substats
+Energy Recharge / HP%
+Weapons
+Sapwood Blade
+Faruzan Teams FAQ
+What is the best Faruzan team in Genshin Impact?
+Faruzan Wanderer Hypercarry Vaporize Support Team is one of the strongest Faruzan teams right now. Use the team summary and build cards on this page to pick the best version for your account.
+What are good Faruzan teams without premium weapons?
+You can run strong Faruzan teams without signature weapons by prioritizing reaction synergy, energy consistency, and artifact main stats shown in each build card.
+Which teammates are best with Faruzan?
+Common high-performing partners include teams such as Faruzan Wanderer Hypercarry Vaporize Support Team, Faruzan Anemo Hypercarry with Wanderer, Yelan & Bennett, Faruzan Wanderer Anemo Hypercarry with Bennett & Rosaria. Check each lineup section for role breakdowns and gear priorities.

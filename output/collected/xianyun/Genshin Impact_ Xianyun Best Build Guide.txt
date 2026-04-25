@@ -1,0 +1,296 @@
+Xianyun
+Xianyun
+is the newest 5-star character Catalyst wielding to be added to Genshin Impact. She is a recurring character in the story and many of you might know her as Cloud Retainer.
+Cloud Retainer finally makes her appearance in
+Version 4.4
+of Genshin Impact and players are eager and hyped about her and learning how to build her.
+In this guide we’ll go over Xianyun’s kit, her best relics, best weapons and best teams so that you can build her to be the best!
+List of Contents:
+Who is Xianyun
+Xianyun Kit and Skills
+Xianyun Best Weapons
+Xianyun Best Artifacts
+Xianyun Best Teams
+How to Get Xianyun
+Should you Pull for Xianyun
+Advertisement
+Who is Xianyun
+Xianyun Best Build Guide
+Xianyun, or also known as Cloud Retainer, is a recurring character in the Genshin Impact story. We met her way back during our first trip to Liyue and ever since then we have been waiting for her release.
+Cloud Retainer has been a desired character by many players and in Genshin Impact 4.4 we finally have the chance to try out this new addition to the Anemo line up.
+Xianyun is both a Sub-DPS as well as a dedicated support for plunge attack units. Let’s learn more about her!
+Advertisement
+Xianyun Kit and Skills
+As already mentioned Cloud Retainer is a dedicated plunge attack support as well as a healer, her kit consists of various jumping and flowing motions and she is an absolute joy to look at on the battlefield. Here is the full breakdown of her abilities and passives.
+Xianyun Skills
+ATK
+Word of Wind and Flower - Normal Attack
+Summons swirling winds to perform up to 4 attacks, dealing Anemo DMG.
+SKILL
+White Clouds at Dawn - Skill
+Xianyun enters the Cloud Transmogrification state, in which she will not take Fall DMG, and uses
+[Skyladder]
+once.
+In this state, her
+Plunging Attack
+will be converted into
+[Driftcloud Wave]
+instead, which deals
+AoE Anemo DMG
+and ends the
+[Cloud Transmogrification]
+state. This DMG is considered
+Plunging Attack DMG
+.
+Each use of
+[Skyladder]
+while in this state increases the DMG and AoE of the next
+[Driftcloud Wave]
+used.
+[Skyladder]
+Can be used while in mid-air.
+Xianyun leaps forward, dealing
+Anemo DMG
+to targets along her path.
+During each
+[Cloud Transmogrification
+] state Xianyun enters,
+Skyladder
+may be used up to
+3
+times and only
+1
+instance of
+Skyladder DMG
+can be dealt to any one opponent.
+If
+Skyladder
+is not used again in a short period, the
+Cloud Transmogrification
+state will be canceled.
+If Xianyun does not use
+Driftcloud Wave
+while in this state, the next CD of White Clouds at Dawn will be decreased by
+3s
+.
+ULT
+Stars Gather at Dusk - Ultimate
+Brings forth a sacred breeze that deals
+AoE Anemo DMG
+and heals all nearby characters based on Xianyun's
+ATK
+. It will also summon the
+[Starwicker]
+mechanism.
+[Starwicker]
+Continuously follows the active character and periodically
+heals
+all nearby characters based on
+Xianyun's ATK
+.
+Starts with
+8
+stacks of
+[Adeptal Assistance]
+. While
+Adeptal Assistance
+is active, nearby active characters will have their jump height
+increased
+.
+When the active character completes a
+[Plunging Attack
+],
+Starwicker
+will consume
+1
+stack of
+Adeptal Assistance
+and deal
+AoE Anemo DMG
+.
+Only
+1
+Starwicker
+can exist simultaneously.
+Advertisement
+Xianyun Passive Skills
+P1
+Crane Form
+Increases gliding
+SPD
+for your own party members by
+15%
+.
+Not stackable with Passive Talents that provide the exact same effects.
+P2
+Galefeather Pursuit
+Each opponent hit by Driftcloud Waves from White Clouds at Dawn will grant all nearby party members
+1
+stack of Storm Pinion for
+20s
+. Max
+4
+stacks.
+These will cause the characters' Plunging Attack
+CRIT Rate
+to increase by
+4%/6%/8%/10%
+respectively.
+Each
+Storm Pinion
+created by hitting an opponent has an independent duration.
+P3
+Consider, the Adeptus in Her Realm
+When the Starwicker created by Stars Gather at Dusk has Adeptal Assistance stacks, nearby active characters' Plunging Attack shockwave DMG will be increased by
+200%
+of
+Xianyun's ATK
+. The maximum DMG increase that can be achieved this way is
+9,000
+.
+Each
+Plunging Attack
+shockwave DMG instance can only apply this increased DMG effect to a single opponent. Each character can trigger this effect once every
+0.4s
+.
+Advertisement
+Xianyun Best Weapons
+When it comes to weapons, then there is no doubt that Cloud Retainer’s Signature Weapon -
+[Crane’s Echoing Call]
+is her best in slot, however, this does not mean that she doesn’t have other Catalysts that she can use.
+Here are some of our suggestions for her best weapon choices!
+Xianyun Best Weapon
+Best Weapon:
+Crane's Echoing Call
+After the equipping character hits an opponent with a Plunging Attack, all nearby party members'
+Plunging Attacks
+will deal
+28%
+increased DMG for
+20s
+. When nearby party members hit opponents with Plunging Attacks, they will restore
+2.5
+Energy to the equipping character. Energy can be restored this way every
+0.7s
+. This energy regain effect can be triggered even if the equipping character is not on the field.
+Alternative:
+Skyward Atlas
+Increases
+Elemental DMG
+Bonus by
+12%
+. Normal Attack hits have a
+50%
+chance to earn the favor of the clouds, which actively seek out nearby opponents to attack for
+15s
+, dealing
+160% ATK DMG
+. Can only occur once every
+30s
+.
+F2P Option:
+Thrilling Tales of Dragon Slayers
+When switching characters, the new character taking the field has their ATK increased by
+24%
+for
+10s
+. This effect can only occur once every
+20s
+.
+Advertisement
+Xianyun Best Artifacts
+During the years there have been many new artifact sets added to the game and farming for each one, however, thankfully for you as with most other Anemo Support units Cloud Retainer only needs Viridescent Venerer to reach her full potential.
+This is all you need to know about her best artifact sets as well as their main and sub stats.
+Xianyun Best Artifacts
+Support:
+BEST
+Viridescent Venerer
+2-Piece: Anemo DMG Bonus
++15%
+4-Piece: Increases Swirl DMG by
+60%
+. Decreases opponent's
+Elemental RES
+to the element infused in the Swirl by
+40%
+for
+10s
+.
+Song of Days Past
+2-Piece: Healing Bonus
++15%.
+4-Piece:  When the equipping character heals a party member, the
+Yearning
+effect will be created for
+6s
+, which records the total amount of healing provided (including overflow healing). When the duration expires, the Yearning effect will be transformed into the
+"Waves of Days Past"
+effect:
+When your active party member hits an opponent with a Normal Attack, Charged Attack, Plunging Attack, Elemental Skill, or Elemental Burst, the DMG dealt will be increased by
+8%
+of the total healing amount recorded by the Yearning effect. The
+"Waves of Days Past"
+effect is removed after it has taken effect
+5
+times or after
+10s
+.
+A single instance of the Yearning effect can record up to
+15,000
+healing, and only a single instance can exist at once, but it can record the healing from multiple equipping characters. Equipping characters on standby can still trigger this effect.
+DPS:
+Desert Pavilion Chronicle
+2-Piece: Anemo DMG Bonus
++15%
+4-Piece: When Charged Attacks hit opponents, the equipping character's Normal Attack SPD will increase by
+10%
+while Normal, Charged, and Plunging Attack DMG will increase by
+40%
+for
+15s
+.
+For Main and Sub Stats you'd want to go for:
+Support
+Sands:
+ATK% / ER
+Goblet:
+ATK%
+Circlet:
+ATK% / Healing Bonus
+For Sub-Stats you should focus on:
+Energy Recharge > ATK%
+DPS
+Sands:
+ATK% / ER
+Goblet:
+Anemo DMG / ATK%
+Circlet:
+Crit Rate / Crit DMG
+For Sub-Stats you should focus on:
+Energy Recharge > Crit > ATK%
+Advertisement
+Xianyun Best Teams
+Xianyun Best Build Guide
+Given the Cloud Retainer is able to make it so that every character in the game can plunge attack, it is only natural that her selection of teams would be limited to say the least. You can pair her with any DPS / HEALER / SUPPORT and she will make the team work.
+However, even then there are some teams that do better than others. Here are three teams that we think you should try out:
+Xiao - Xianyun - Faruzan - Nahida
+Hu Tao - Yelan - Furina - Xianyun
+Keqing - Furina - Nahida - Xianyun
+Advertisement
+How to Get Xianyun
+Xianyun Best Build Guide
+You can only get Xianyun by pulling on her Limited Character Banner which will be offered in the First Phase of Version 4.4 the banner will have the following run time:
+January 31, 2024 – February 20, 2024
+During this time you will be able to get Cloud Retainer. All in all, we believe the banner is one of the better ones, offering not only a good 5-star character, but also good 4-star characters!
+Advertisement
+Should you Pull for Xianyun
+Xiayun Best Build Guide
+Overall, Xianyun is a great character to have in your roster. Originally, she was believed that she’d only be a great support for Xiao and that would be the end.
+However, with her release it has been made obvious that she offers a completely new playstyle to Genshin Impact and gives a lot of character the opportunity to use Plunge Attacks in their rotations, thus making the game feel new and exciting.
+Cloud Retainer is certainly an interesting character, and if you need someone to spice up your playstyle, while also being viable enough to be put in various teams, and boosting damage while also healing, then Xianyun is going to be a no-brainer for you!
+Advertisement
+For more Genshin Impact guides feel free to use the links below:
+Genshin Impact: Navia Build Guide
+Genshin Impact 4.4 Version Summary, Release Date and More
+Genshin Impact: All Free Characters
+Advertisement

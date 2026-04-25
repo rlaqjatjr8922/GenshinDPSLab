@@ -1,0 +1,463 @@
+Home
+/
+Genshin Impact
+/
+Character List
+/
+Kaeya Build
+Kaeya Guide and Best Builds
+Kaeya is the 4-Star
+Cryo
+sword Knight of the Favonius from Mondstadt who
+specializes in Off-field Cryo Damage and Freeze Reactions. Read our Kaeya guide to learn more about
+Kaeya's kit, Kaeya's best Builds and also his Ascension and Talent Materials.
+Last updated
+on
+Oct 20, 2025
+at
+03:06
+by
+Jaymo
+1 comment
+C
+Rank
+Cryo
+Element
+Sword
+Weapon
+★
+★
+★
+★
+★
+Rarity
+Josey Montana McCoy
+EN Voice Actor
+Toriumi Kousuke
+JP Voice Actor
+Kaeya's Strengths & Weaknesses
+Strengths
+Easy to play and understand.
+Requires low field-time and has a good off-field Cryo application.
+Low Energy Requirements.
+Can help you cross large bodies of water in the open-world.
+Is a free character given rather early in the game.
+Weaknesses
+Kaeya's Burst and Skill both are short range, forcing you to play in melee range.
+While being a good Cryo battery, other similar characters have more utility.
+Constellations are among the hardest to get.
+1.
+Kaeya Build Guide, Best Artifacts, Weapons and Talent Priority
+Kaeya can be built to be played in both Freeze teams or Reverse Melt team compositions.
+2.
+Kaeya's Build Options
+Freeze Kaeya
+Reverse Melt Kaeya
+2.1.
+Freeze Kaeya Build
+This build is used if you want to play Kaeya in Freeze teams. Kaeya is able to keep the 
+enemies Frozen with his low cooldown on his skill, as well as his burst that will stay 
+around the active character even when you swap kaeya off-field. Kaeya can also serve as 
+a
+Cryo
+Battery with this build.
+BiS Weapon
+Mistsplitter Reforged
+Alternate Weapons
+Light of Foliar Incision
+Absolution
+Haran Geppaku Futsu
+Summit Shaper
+Primordial Jade Cutter
+Azurelight
+Aquila Favonia
+Kagotsurube Isshin
+The Alley Flash
+Amenoma Kageuchi
+Harbinger of Dawn
+Favonius Sword
+Best Artifacts
+Blizzard Strayer
+Main Stats
+Sand Stats
+: ATK %
+Goblet Stats
+:
+Cryo
+DMG
+Circlet Stats
+: CRIT DMG
+Substat Priority
+Energy Recharge (until requirement)
+CRIT DMG
+CRIT Rate
+ATK %
+Talent Priority
+Elemental Burst
+Elemental Skill
+Normal Attack
+For a Freeze Kaeya build you want to go for
+Mistsplitter Reforged
+as it is his 
+BiS weapon. it provides with high CRIT DMG and more elemental DMG bonus. The rest of the weapons are 
+are all viable options. Weapons
+with CRIT DMG as a base stat are recommended.
+Freeze Kaeya should only be build with
+Blizzard Strayer
+. It is the 
+best-in-slot artifact set with the 15%
+Cryo
+DMG bonus and the 
+additional CRIT Rate which makes it very powerful for Freeze Kaeya.
+2.2.
+Reverse Melt Kaeya Build
+This second Kaeya build revolves around the Reverse Melt reactions. The goal is to use 
+Kaeya's Burst to trigger Melt off-field, while being a battery for a Main Cryo DPS.
+BiS Weapon
+Primordial Jade Cutter
+Alternative Weapons
+Mistsplitter Reforged
+Haran Geppaku Futsu
+Light of Foliar Incision
+Absolution
+Freedom-Sworn
+Skyward Blade
+Toukabou Shigure
+Summit Shaper
+Lion's Roar
+Kagotsurube Isshin
+Wolf-Fang
+Iron Sting
+The Alley Flash
+Favonius Sword
+Best Artifacts
+Emblem of Severed Fate
+Main Stats
+Sand Stats
+: Energy Recharge / ATK %
+Goblet Stats
+:
+Cryo
+DMG
+Circlet Stats
+: CRIT Rate / CRIT DMG
+Substat Priority
+Energy Recharge
+CRIT Rate / CRIT DMG
+ATK %
+Elemental Mastery
+Talent Priority
+Elemental Burst
+Elemental Skill
+Normal Attack (optional)
+For Kaeya's Reverse Melt build, the best-in-slot weapon is
+Primordial Jade Cutter
+as it 
+will provide Kaeya with high CRIT Rate and ATK, and the very good passive.
+Mistsplitter Reforged
+is another 
+good option for the CRIT DMG, high base ATK, and passive.
+Lion's Roar
+is the best 4-star option and the
+passive is easy to trigger in a reverse melt team.
+Kaeya's best artifact for a reverse melt build is
+Emblem of Severed Fate
+with it's high energy recharge 
+and the increased Elemental Burst DMG that is highly appreciated.
+3.
+Recommended Endgame Build Stats for Wriothesley
+Build recommendations assume a "decently built" level of artifact rolls alongside 
+Wriothesley's best weapon. Using other weapons may increase or decrease certain stats relative to these recommendations.
+ATK:
+1800 - 2000
+CRIT Rate:
+60 - 80%
+CRIT DMG:
+170 - 210%
+ER:
+140 - 200%
+For both builds, Kaeya will require you to get around 160 - 200% Energy Recharge if he is 
+the only Cryo user and no Favonius in the team. If you play Kaeya with other Cryo characters, 
+or you use Favonius, you can aim for around 140%. If you have Kaeya's C6, you can lower the 
+Energy requirement a bit more.
+4.
+Kaeya Combos and How to Play
+Kaeya is a rather straightforward character. The primary goal is to generate particles with 
+his skill that has a very low cooldown, and can be used often, while also inflicting
+Cryo
+DMG. His Burst will be important in both Freeze and 
+Reverse Melt teams, as it stays around the active character for a short while, allowing 
+you to either trigger Melt often, or maintain enemies frozen all the time.
+Kaey's rotation in both cases is rather simple: you want to use his skill when it's up, and 
+Burst every rotation to always have the burst active around the on-field character.
+5.
+Kaeya's Best Team Comps
+Kaeya functions best with two primary teams — Freeze and Reverse Melt.
+These two teams use his abilities for
+Cryo
+application
+and damage to the maximize their elemental reactions and deal massive damage.
+5.1.
+Freeze Team
+Sub DPS
+Sub DPS
+Main DPS
+Support
+Kaeya
+Rosaria
+Chongyun
+Kamisato Ayaka
+Yelan
+Xingqiu
+Kaeya
+Furina
+Wriothesley
+Kaedehara Kazuha
+Lan Yan
+Kaeya
+Furina
+Kamisato Ayaka
+Citlali
+Shenhe
+Kaeya
+Furina
+Kamisato Ayaka
+Skirk
+Escoffier
+Freeze teams are very straight forward. You want to use a Main
+Cryo
+DPS and at least one
+Hydro
+. Characters such as
+Furina
+are very useful as they will greatly help with constant freeze, while also buffing and providing additional DMG.
+The last slot can be filled with either a Shield like
+Citlali
+, a 
+Sub-DPS such as
+Chongyun
+, or a Cryo buffer like
+Shenhe
+.
+Using
+Anemo
+unit also works in the last slot, as they usually provide 
+RES Shred.
+Escoffier
+is the best support for Freeze teams currently.
+5.2.
+Reverse Melt Team
+Sub DPS
+Main DPS
+Support / Sub DPS
+Pyro
+Kaeya
+Kamisato Ayaka
+Xiangling
+Bennett
+Kaeya
+Rosaria
+Mavuika
+Kaedehara Kazuha
+For these reverse melt teams you basically want a
+Pyro
+aura 
+in order to allow you to trigger melt with your
+Cryo
+abilities.
+Anemo
+abilities usually provide enough Pyro application through swirl 
+to allow for constant Melt, so you want to have someone like
+Kaedehara Kazuha
+.
+Bennett
+is also important as he provides a good ATK buff, healing, and can 
+battery your main Pyro applicator.
+6.
+Kaeya's Ascensions, Talents, and Constellations
+Kaeya Ascensions
+Kaeya Talents
+Kaeya Constellations
+6.1.
+Kaeya Ascension Passives and Materials
+Unlock
+Ascension Passive
+Explanation
+With Character
+Hidden Strength
+Decreases sprinting Stamina consumption for your own party members by 20%.
+     Not stackable with Passive Talents that provide the exact same effects.
+1st Ascension
+Cold-Blooded Strike
+Every hit with
+Frostgnaw
+regenerates HP for Kaeya
+    equal to 15% of his ATK.
+4th Ascension
+Glacial Heart
+Opponents
+Frozen
+by
+Frostgnaw
+will drop additional Elemental Particles.
+Frostgnaw
+may
+    only produce a maximum of 2 additional Elemental Particles per use.
+Kaeya requires a range of materials to ascend to the 6th ascension.
+Starting from the second ascension he gains additional Energy Recharge as he
+levels, giving a total of 26.8% Energy Recharge at the final ascension.
+The total cost to upgrade all ascensions is:
+Source
+Quantity
+Mora
+420,000 Mora
+Boss Material
+46x
+Hoarfrost Core
+Ascension Material
+1x
+Shivada Jade Sliver
+9x
+Shivada Jade Fragment
+9x
+Shivada Jade Chunk
+6x
+Shivada Jade Gemstone
+Local Specialty
+168x
+Calla Lily
+Enhancement Material
+18x
+Treasure Hoarder Insignia
+30x
+Silver Raven Insignia
+36x
+Golden Raven Insignia
+6.2.
+Kaeya's Talents
+Listed below is each talent and a brief explanation of how they work.
+Type
+Talent Name
+Brief Explanation
+Normal
+Ceremonial Bladework
+Standard Normal Attack performs 5 rapid strikes. Charged Attack
+    unleashes 2 rapid sword strikes. Plunging Attacks strike the ground below,
+    dealing AoE DMG upon impact.
+Elemental Skill
+Frostgnaw
+Unleashes a cone attack of
+Cryo
+damage in front of Kaeya.
+Elemental Burst
+Glacial Waltz
+Summons 3 icicles that spin around your character, dealing
+Cryo
+Damage to any enemies that come into contact them. This lasts for the
+    duration of the ability.
+To upgrade a single talent to level 10, it costs:
+Source
+Quantity
+Mora
+1,625,500 Mora
+Special Material
+1x
+Crown of Insight
+Boss Material
+6x
+Spirit Locket of Boreas
+Domain Material
+3x
+Teachings of Ballad
+21x
+Guide to Ballad
+38x
+Philosophies of Ballad
+Enhancement Material
+6x
+Treasure Hoarder Insignia
+22x
+Silver Raven Insignia
+31x
+Golden Raven Insignia
+6.3.
+Kaeya's Constellations
+Kaeya's constellations are very good, but not required, especially since his constellations 
+are very rare to get.
+#
+Name
+Explanation
+C1
+Excellent Blood
+The CRIT Rate of Kaeya's Normal and Charge Attacks against opponents
+    affected by Cryo is increased by 15%.
+C2
+Never-Ending Performance
+When
+Glacial Waltz
+is in effect, for each opponent
+    defeated, its base duration is increased by 2.5s, up to a maximum of
+    15s.
+C3
+Dance of Frost
+Increases the Level of
+Frostgnaw
+by 3.
+Maximum upgrade level is 15.
+C4
+Frozen Kiss
+Triggers automatically when Kaeya's HP falls below 20%:
+	  Creates a shield that absorbs damage equal to 30% of Kaeya's Max HP. Lasts for 20s.
+	  This shield absorbs Cryo DMG with 250% efficiency.
+	  Can only occur once every 60s.
+C5
+Frostbiting Embrace
+Increases the Level of
+Glacial Waltz
+by 3.
+Maximum upgrade level is 15.
+C6
+Glacial Whirlwind
+Glacial Waltz
+will generate 1 additional icicle,
+    and will regenerate 15 Energy when cast.
+Changelog
+20 Oct. 2025:
+Updated for Luna II.
+30 Jul. 2025:
+Updated for 5.8.
+17 Jun. 2025:
+Updated for 5.7.
+06 May 2025:
+Updated for 5.6.
+01 Apr. 2025:
+Guide updated for 5.5.
+30 Sep. 2024:
+Guide reviewed for Update 5.1.
+16 Apr. 2024:
+Guide added.
+Show more
+Show less
+Need any help? Check out our
+General Discussion Forum
+!
+1 comment
+In The Same Category
+Wriothesley Best Builds Guide
+Shenhe Best Builds Guide
+Citlali Team Guide
+Ganyu Best Builds Guide
+Escoffier Profile & Talents
+Citlali Best Builds Guide
+Qiqi Best Builds Guide
+Mika Best Builds Guide
+Skirk Team Guide
+Lohen Team Guide
+Charlotte Best Builds Guide
+Citlali Profile & Talents
+ABOUT THE AUTHOR
+Written by Jaymo, a longtime gamer who spends way too many hours exploring
+        open worlds, grinding in MMOs, and pulling for his favorite gacha characters.
+        He covers news and guides for all kinds of games, and just likes helping people
+        enjoy them more. You can find him hanging out on Twitch or chatting in Discord (jaym0).
+SUPPORT OUR WRITERS

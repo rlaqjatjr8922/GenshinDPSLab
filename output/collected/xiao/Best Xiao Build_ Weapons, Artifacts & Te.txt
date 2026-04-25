@@ -1,0 +1,110 @@
+Table of Contents
+Skills
+Weapons
+Artifacts
+Team Comps
+Constellation
+Xiao is an Anemo polearm user with the highest base damage in the game. He excels in dealing massive damage while being fairly simple to play. However, there is a method to amplify the damage done during his Burst by adding charged attacks to his rotation.
+Not only that, his team comp is fairly restrictive in comparison to the other five stars, which makes it very essential to understand his build in order to fully take advantage of his damage. Here you can learn how to optimize his build to reach his peak performance!
+Skills
+Normal Attack: Whirlwind Thrust
+Xiao strikes up to six times, and holding the attack thrusts upwards and deals damage to enemies, knocking them up and consuming stamina.
+Elemental Skill: Lemniscatic Wind Cycling
+Xiao lunges forward and deals Anemo damage to enemies hit by it. This skill has two charges and can be used mid-air. In combat, the best rotation for this Skill is jumping, using the Elemental Skill, then plunging. Not only that, it can be wonderful for exploration since the dash distance is fairly long. However, the majority of the damage comes from his Elemental Burst and normal attacks,
+making this skill the least priority in leveling up.
+Elemental Burst: Bane of All Evil
+Xiao wears the Yaksha mask that infuses his attacks with Anemo and increases his attack damage and AOE. Moreover, he jumps higher while his Burst is active. However, he will lose 2-3% of his current HP based on his skill level. During his Elemental Burst, using his Elemental Skill will not generate particles. Thus, it is better to use it before or after the Burst.
+A typical combo for this skill is jump, plunge, and repeat. This rotation can up to 10 plunge attacks. However, it is not the most efficient way to deal damage. In Genshin, one way to reduce animations is to cancel the charged attack’s animation by jumping.
+The rotation starts with a normal attack, charged attack, jump, plunging attack, and repeat. Sneaking the normal and charged attacks between jumps can better utilize Xiao’s Burst and deal damage more efficiently. This skill is the most important in Xiao’s kit,
+making it the highest priority in leveling up.
+Passive: Conqueror of Evil: Tamer of Demons
+While Xiao’s Elemental Burst is active, he gains 5% increased damage. For every 3 seconds, it is active, he gains an extra 5% more damage. The maximum damage that can be obtained from this passive is 25%
+2nd Passive: Dissolution Eon: Heaven Fall
+Using Xiao’s Elemental skill increases the damage of his next Elemental Skills by 15% for 7 seconds. This passive can be stacked up to 3 times, and the timer refreshes every time a stack is gained.
+Weapons
+Calamity Queller
+When it comes to building Xiao, the most important stat is attack. Calamity Queller is the best weapon for Xiao in terms of total damage. Its base attack, which is 741, is the highest in the game. Moreover, its attack stats from the secondary stat and the passive can increase the total attack by 35.7-54.9%, along with the 12-24% elemental damage bonus, it’s no wonder this weapon deals massive damage when used with Xiao.
+Primordial Jade Winged-Spear
+Primordial Jade Winged-Spear is the safer option for Xiao since it grants 22.1% crit rate in sets with lower crit rates. Not only that, the passive increases Xiao’s attack by 3.2-6% per hit up to 7 stacks. At full stacks, increase overall damage by 12-24%. The damage increase and the overall stats make this weapon one of the best for Xiao yet being the most consistent. Another feature of it is that it is a non-limited weapon, which can be pulled from the standard banner.
+Blackcliff Pole
+The F2P option, Blackcliff Pole is the best four-star option for Xiao since its base attack is the highest so far. Not only that, the 55.1% crit damage bonus is great in boosting Xiao’s damage even more. Its passive is more situational, where it can increase Xiao’s attack for 30 seconds by 12-24% when he defeats an enemy, and it can stack up to 3 times. In situations such as bosses, this passive will be practically useless. However, that does not mean its base attack is not great on its own.
+Artifacts
+With the release of version 2.6, Xiao finally got a 4-piece artifact set that perfectly suits him. When building Xiao, one stat is the most important, which is attack. Other than the 18% attack from its 2-piece bonus, its 4-piece bonus gives Nascent Light buff after using the Elemental Burst, which grants 8% attack and a 10% increase every time the character loses HP up to four times. This bonus is perfect for Xiao since his Elemental Burst reduces his HP, which automatically grants the bonus from this set.
+Another option is the old artifacts for Xiao, which are 2-pieces of Viridescent Venerer and 2-pieces of
+Gladiator’s Finale
+(or any set that grants 18% attack). While the 15% Anemo damage bonus is not as strong as Vermillion Hereafter’sbuff, it is still fairly decent, especially for newer players. As for substats, crit rate and crit damage are the second priority. Other than that, having a high energy recharge is very beneficial to spam his Elemental Burst.
+Build:
+Vermillion Hereafter
+Flower
+Plume
+Sands
+Goblet
+Circlet
+Substats
+1. HP
+1.  ATK
+1. ATK %
+1. Anemo DMG Bonus
+1. Crit Rate/DMG %
+1. ATK %
+2. Crit Rate %
+3. Crit DMG %
+4. Elemental Recharge
+Also Read:
+Best Settings For Genshin Impact: Get The Highest Performance And Graphics.
+Build:
+Gladiator’s Finale and Viridescent Venerer
+Flower
+Plume
+Sands
+Goblet
+Circlet
+Substats
+1. HP
+1.  ATK
+1. ATK %
+1. Anemo DMG Bonus
+1. Crit Rate/DMG %
+1. ATK %
+2. Crit Rate %
+3. Crit DMG %
+4. Elemental Recharge
+Team Comps
+Unfortunately, Xiao is very specific when it comes to his team comp. His team comps consist of another Anemo character to generate Anemo particles, a healer, a buffer, and in specific comps, Geo users. Two Geo users are added to apply the Geo resonance in those comps, which increases the damage dealt by 15%. Otherwise, Xiao, Anemo battery, healer, and a sub-DPS is a great team comp.
+Jean
+For Xiao, Jean is the perfect support due to her heal and particle generation. While she does not generate many particles, a small amount of energy recharge on Xiao should be more than sufficient. Pairing her with Xiao fulfills two roles in one, leaving another slot open for a second support or sub-DPS.
+Sucrose
+Sucrose is very valuable in Xiao’s comps due to her amazing particle generation along with the gathering effect. While you sacrifice an extra slot in comparison to Jean, Sucrose has the advantage of gathering enemies, which is very helpful since Xiao’s plunges can knock enemies away. While Venti can also gather, enemies will be floating and become out of Xiao’s reach, making them incompatible to a certain degree.
+Zhongli
+To fully utilize Xiao’s damage, Zhongli’s shield can be extremely beneficial by protecting Xiao and resisting interruption. Not only that, Zhongli can reduce enemies’ elemental resistance, along with petrifying enemies through his Elemental Burst.
+Albedo
+Having two Geo characters will increase the damage dealt by 15%. The most recommended comp is having Zhongli and another Geo character. The best pair is Albedo since he is the best Geo sub-DPS and battery overall. However, he requires Zhongli or Noelle to work well with Xiao.
+Xiangling
+Xiangling is a great sub-DPS for Xiao, especially since her Burst can spin around him while he is in rotation to deal extra damage. Not only that, Gouba’s attack buff can also be beneficial to Xiao.
+Bennet
+t
+If Sucrose is designated as the battery for Xiao, Bennett is wonderful in the healer spot since he also works as a buffer. His Burst’s heals and attack buff can both protect Xiao and enhance his damage. Not only that, Xiao is not affected by Bennett’s C6 for those who leveled that constellation.
+Also Read:
+Best Bennett Build: Weapons, Artifacts & Team Comps
+Constellation
+Dissolution Eon: Destroyer of Worlds
+Xiao gains an extra charge for his Elemental Skill
+Annihilation Eon: Blossom of Kaleidos
+If Xiao is off-field, he gains an extra 25% energy recharge
+Conqueror of Evil: Wrath Deity
+Increases the level of the Elemental Skill by 3 and the maximum level to 15
+Transcension: Extinction of Suffering
+When Xiao’s HP drops below 50%, he gains 100% defense bonus
+Evolution Eon: Origin of Ignorance
+Increases the level of the Elemental Burst by 3 and the maximum level to 15
+Conqueror of Evil: Guardian Yaksha
+While Xiao’s Elemental Burst is active, plunging attacks that hit more than one enemy will grant him an Elemental Skill charge. Within the next second, Xiao can use it while ignoring its cooldown
+In terms of constellations, Xiao does not practically need any of his constellations. In fact, some might argue that they are more of a luxury to have. The extra charge from his first constellation is nice, while the sixth constellation’s reset is also nice. Other than that, the other constellations are not worth the investment at all. This allows Xiao to be very close to his peak performance without investing much in him.
+While Xiao’s kit is fairly simple, his build and team comps are a little more complicated. However, when he is built properly, he can take advantage of his base attack to deal maximum possible damage and annihilate his enemies.
+Overall, Xiao is a great damage dealer and so far one of the top DPSs. He specializes in destroying bosses since they cannot be knocked back. This is why he is an amazing character to have whether you are a new player or a veteran.
+All image copyrights belong to
+Mihoyo
+,
+Genshin Impact fandom
+, and
+Genshin honeyhunterworld.

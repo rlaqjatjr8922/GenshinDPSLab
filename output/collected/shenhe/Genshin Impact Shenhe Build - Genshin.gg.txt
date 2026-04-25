@@ -1,0 +1,201 @@
+Genshin Impact Shenhe Build
+Cryo
+Polearm
+Support
+Shenhe Upgrade Materials
+Prosperity
+Hellfire Butterfly
+Shivada Jade Sliver
+Dragonheir's False Fin
+Qingxin
+Whopperflower Nectar
+Shenhe Best Weapons
+1
+Calamity Queller
+2
+Engulfing Lightning
+3
+Vortex Vanquisher
+4
+Skyward Spine
+5
+Favonius Lance
+Shenhe Best Artifacts
+1
+Noblesse Oblige
+4
+2
+Gladiator's Finale
+2
+Shimenawa's Reminiscence
+2
+3
+Emblem of Severed Fate
+2
+Shimenawa's Reminiscence
+2
+4
+Emblem of Severed Fate
+2
+The Exile
+2
+5
+The Exile
+4
+Shenhe Best Stats
+Sands:
+ATK% / Energy Recharge
+Goblet:
+ATK%
+Circlet:
+ATK%
+Substats:
+ATK% > Energy Recharge > CRIT Rate / CRIT DMG
+Character Builds by Genshin Impact Helper →
+Showcase
+Teams
+Talents
+Passives
+Constellations
+Ascension
+Shenhe Showcase
+Shenhe video guide by
+Braxophone
+.
+Check out his content!
+Best Shenhe Teams
+Ayaka Freeze
+Ayaka/Ganyu Mono Cryo
+Eula Superconduct
+Shenhe Talents
+Normal Attack
+Dawnstar Piercer
+Normal Attack Performs up to 5 consecutive spear strikes. Charged Attack Consumes a certain amount of Stamina to lunge forward, dealing damage to enemies along the way. Plunging Attack Plunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.
+Elemental Skill
+Spring Spirit Summoning
+The frosted dew, silvery and dense, shall exorcise all demons. Grants all nearby party members the Icy Quill effect and deals
+Cryo
+DMG in different ways based on whether it is pressed or held. Press Rushes forward together with a Talisman Spirit, dealing
+Cryo
+DMG to opponents along the path. Hold Commands the Talisman Spirit to deal AoE
+Cryo
+DMG. Icy Quill When Normal, Charged, and Plunging Attacks, Elemental Skills, and Elemental Bursts deal
+Cryo
+DMG to opponents, the DMG dealt is increased based on Shenhe's current ATK. The Icy Quill's effects will be cleared once its duration ends or after being triggered a certain number of times. When held rather than pressed, the Icy Quill's effect lasts longer and can be triggered more times. When one
+Cryo
+DMG instance strikes multiple opponents, the effect is triggered multiple times based on the number of opponents hit. The number of times the effect is triggered is calculated independently for each party member with the Icy Quill.
+Elemental Burst
+Divine Maiden's Deliverance
+Unleashes the power of the Talisman Spirit, allowing it to roam free in this plane, dealing AoE
+Cryo
+DMG. The Talisman Spirit then creates a field that decreases the
+Cryo
+RES and Physical RES of opponents within it. It also deals periodic
+Cryo
+DMG to opponents within the field.
+Shenhe Passives
+Ascension 1
+Deific Embrace
+An active character within the field created by Divine Maiden's Deliverance gains 15%
+Cryo
+DMG Bonus.
+Ascension 4
+Spirit Communion Seal
+After Shenhe uses Spring Spirit Summoning, she will grant all nearby party members the following effects: Press: Elemental Skill and Elemental Burst DMG increased by 15% for 10s. Hold: Normal, Charged, and Plunging Attack DMG increased by 15% for 15s.
+Passive
+Precise Comings and Goings
+Gains 25% more rewards when dispatched on a Liyue Expedition for 20 hours.
+Shenhe Constellations
+Constellation 1
+Clarity of Heart
+Spring Spirit Summoning can be used 1 more time.
+Constellation 2
+Centered Spirit
+Divine Maiden's Deliverance lasts for 6 seconds longer. Active characters within the skill's field deals 15% increased
+Cryo
+CRIT DMG.
+Constellation 3
+Seclusion
+Increases the Level of Spring Spirit Summoning by 3. Maximum upgrade level is 15.
+Constellation 4
+Insight
+When characters under the effect of Icy Quill applied by Shenhe triggers its DMG Bonus effects, Shenhe will gain a Skyfrost Mantra stack: When Shenhe uses Spring Spirit Summoning, she will consume all stacks of Skyfrost Mantra, increasing the DMG of that Spring Spirit Summoning by 5% for each stack consumed. Max 50 stacks. Stacks last for 60s.
+Constellation 5
+Divine Attainment
+Increase the Level of Divine Maiden's Deliverance by 3. Maximum upgrade level is 15.
+Constellation 6
+Mystical Abandon
+When characters trigger Icy Quill's effects using Normal and Charged Attack DMG, it does not count toward the Trigger Quota.
+Shenhe Ascension Costs
+Rank
+Lvl
+Cost
+Material
+Material
+Material
+Material
+1
+20
+20000
+1
+Shivada Jade Sliver
+3
+Qingxin
+3
+Whopperflower Nectar
+2
+40
+40000
+3
+Shivada Jade Fragment
+2
+Dragonheir's False Fin
+10
+Qingxin
+15
+Whopperflower Nectar
+3
+50
+60000
+6
+Shivada Jade Fragment
+4
+Dragonheir's False Fin
+20
+Qingxin
+12
+Shimmering Nectar
+4
+60
+80000
+3
+Shivada Jade Chunk
+8
+Dragonheir's False Fin
+30
+Qingxin
+18
+Shimmering Nectar
+5
+70
+100000
+6
+Shivada Jade Chunk
+12
+Dragonheir's False Fin
+45
+Qingxin
+12
+Energy Nectar
+6
+80
+120000
+6
+Shivada Jade Gemstone
+20
+Dragonheir's False Fin
+60
+Qingxin
+24
+Energy Nectar
+Loading...

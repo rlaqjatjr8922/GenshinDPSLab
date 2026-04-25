@@ -1,0 +1,601 @@
+Genshin Impact Yumemizuki Mizuki Best Team Guide
+Last updated April 25, 2026. Looking for the best Yumemizuki Mizuki teams in
+        Genshin Impact? Start with the top team summary below, then pick the
+        lineup that fits your roster.
+This page shows best teams for Yumemizuki Mizuki, primarily an Anemo DPS or Healer. Top teams include Vaporize and Electro-Charged compositions. Team positions can be adjusted based on your roster.
+View Yumemizuki Mizuki's character page
+Yumemizuki Mizuki Team Summary
+#1
+Team Rating:S
+Yumemizuki Mizuki Electro-Charged S+ Team
+#2
+Team Rating:S
+Yumemizuki Mizuki Vaporize Team
+#3
+Team Rating:S
+Yumemizuki Mizuki Melting Team
+#4
+Team Rating:S
+Yumemizuki Mizuki Overload Team
+#5
+Team Rating:S
+Yumemizuki Mizuki Freezing Team
+#6
+Team Rating:S
+Yumemizuki Mizuki Aggravate Team
+C6
+#7
+Team Rating:S
+Clorinde Furina Mizuki Ororon Electro-Charged
+#1 Yumemizuki Mizuki Electro-Charged S+ Team
+Tier S
+Electro-Charged team centered around
+Yumemizuki Mizuki
+as the on-field Anemo driver/DPS.
+Mizuki provides Swirl damage and team EM utility, while Furina supplies strong off-field Hydro damage and buffs. Ororon adds Electro off-field damage and energy support, and Venti offers exceptional crowd control plus additional Swirl grouping.
+Yumemizuki Mizuki
+Main DPS
+Anemo
+On-field driver and team main DPS. Prioritize EM to maximize Swirl damage and her team utility. Her Skill enables sustained drifting Anemo damage, while Burst provides additional AoE damage and healing/snack interactions.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge
+Weapons
+Sunny Morning Sleep-In
+Fruit of Fulfillment
+Furina
+Sub DPS
+Hydro
+Provides consistent off-field Hydro application and a powerful team damage buff from her Burst. Her HP manipulation is easily sustained by Mizuki's healing/snack effects.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Favonius Sword
+Ororon
+Support
+Electro
+Off-field Electro support who triggers additional damage through Electro-Charged interactions and helps restore team energy. Also benefits from Cinder City to amplify team damage.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Elegy for the End
+Favonius Warbow
+Venti
+Sub DPS
+Anemo
+Excellent crowd control and grouping from Burst, improving AoE consistency for Electro-Charged and Swirl reactions. Can also run VV to shred enemy resistance.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Elegy for the End
+Favonius Warbow
+#2 Yumemizuki Mizuki Vaporize Team
+Tier S
+Vaporize-focused team built around
+Yumemizuki Mizuki
+as the on-field driver.
+Mizuki provides Anemo swirl damage and team Swirl amplification, while
+Furina
+supplies strong off-field Hydro application and damage bonus.
+Mavuika
+acts as the Pyro damage source for Vaporize reactions, and
+Venti
+offers crowd control plus Viridescent Venerer resistance shred support.
+Yumemizuki Mizuki
+Main DPS
+Anemo
+On-field driver and team centerpiece. Uses Dreamdrifter to deal consistent AoE Anemo damage and boost Swirl damage for allies based on Elemental Mastery. Burst provides grouping and Snack-based extra damage/healing.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge
+Weapons
+Sunny Morning Sleep-In
+Fruit of Fulfillment
+Furina
+Sub DPS
+Hydro
+Provides continuous off-field Hydro application and a powerful team damage buff through her Burst. Her HP manipulation synergizes well with Mizuki's sustain.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Favonius Sword
+Mavuika
+Sub DPS
+Pyro
+Main Pyro damage dealer for Vaporize reactions. Her Burst gains charge through Nightsoul points or teammates' normal attacks, and greatly boosts her combat presence for a short duration.
+Artifacts
+Obsidian Codex
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+A Thousand Blazing Suns
+Serpent Spine
+Venti
+Support
+Anemo
+Crowd control specialist. His Burst groups enemies together, making it easier to keep enemies inside Mizuki's and Mavuika's AoE attacks.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Elegy for the End
+Favonius Warbow
+#3 Yumemizuki Mizuki Melting Team
+Tier S
+Melting team centered around Yumemizuki Mizuki
+with strong Anemo utility, Cryo/Shield support, and off-field damage enabling repeated reaction procs.
+Mizuki acts as the main on-field driver and healer, while the rest of the team provides buffs, grouping, and resistance shred.
+Yumemizuki Mizuki
+Main DPS
+Anemo
+On-field driver and team healer. Build full EM to maximize Swirl damage and team amplification.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge
+Weapons
+Sunny Morning Sleep-In
+Fruit of Fulfillment
+Citlali
+Support
+Cryo
+Provides shielding and Cryo application, plus resistance shred when Melt/Frozen reactions are triggered near her summon.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge / CRIT DMG / CRIT Rate
+Weapons
+Starcaller's Watch
+Thrilling Tales of Dragon Slayers
+Mavuika
+Sub DPS
+Pyro
+Off-field/secondary damage dealer with high burst potential. Her burst benefits from Nightsoul generation and teammates' normal attacks.
+Artifacts
+Obsidian Codex
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+A Thousand Blazing Suns
+Serpent Spine
+Venti
+Sub DPS
+Anemo
+Excellent crowd control and grouping, helping keep enemies together for repeated reaction damage and easier AoE uptime.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Elegy for the End
+Favonius Warbow
+#4 Yumemizuki Mizuki Overload Team
+Tier S
+Overload-oriented Anemo carry team
+built around Yumemizuki Mizuki’s on-field Anemo damage and Swirl support, with Ororon providing Electro off-field utility, Mavuika contributing strong off-field burst damage, and Venti offering grouping plus additional Anemo utility.
+Yumemizuki Mizuki
+Main DPS
+Anemo
+DPS/Healer. Mizuki enters Dreamdrifter with Skill for sustained AoE Anemo damage and can boost Swirl DMG for allies based on her Elemental Mastery. Burst pulls enemies in and creates Special Snacks that either explode for damage or heal, depending on the ally's HP.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge
+Weapons
+Sunny Morning Sleep-In
+Fruit of Fulfillment
+Ororon
+Support
+Electro
+Provides additional off-field damage when teammates trigger Electro-Charged or Nightsoul-aligned damage, helping activate Scroll of the Hero of Cinder City. His Skill restores energy when teammates' Normal, Charged, or Plunge Attacks hit enemies; at C6 he also boosts team ATK.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Elegy for the End
+Favonius Warbow
+Mavuika
+Sub DPS
+Pyro
+Off-field damage dealer whose Burst is charged through Nightsoul points generated by Natlan characters or teammates' Normal Attacks. On Burst activation, her abilities and interruption resistance are greatly enhanced for 7 seconds.
+Artifacts
+Obsidian Codex
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+A Thousand Blazing Suns
+Serpent Spine
+Venti
+Sub DPS
+Anemo
+Provides powerful grouping and crowd control with Elemental Burst, improving enemy clustering and team AoE damage application.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Elegy for the End
+Favonius Warbow
+#5 Yumemizuki Mizuki Freezing Team
+Tier S
+Freezing team centered on Yumemizuki Mizuki
+. Mizuki acts as the on-field Anemo driver and healer, enabling consistent Swirl support while Hydro and Cryo teammates maintain Freeze. Venti adds grouping and crowd control for strong AoE control.
+Yumemizuki Mizuki
+Main DPS
+Anemo
+On-field driver and healer. Her Skill enters Dreamdrifter to deal repeated AoE Anemo DMG while boosting Swirl DMG for the team based on Elemental Mastery. Her Burst groups enemies and creates Mini Baku snacks that either heal allies or explode for AoE Anemo DMG.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge
+Weapons
+Sunny Morning Sleep-In
+Fruit of Fulfillment
+Ganyu
+Sub DPS
+Cryo
+Provides off-field Cryo damage through her Burst to enable Freeze reactions with Hydro application. Focus on high Burst damage and enough Energy Recharge for consistent uptime.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Aqua Simulacra
+Mouun's Moon
+Furina
+Sub DPS
+Hydro
+Maintains continuous Hydro application with her Skill and increases team damage through her Burst by leveraging HP fluctuations. Synergizes well with Mizuki’s healing to offset HP drain and keep the team stable.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Favonius Sword
+Venti
+Sub DPS
+Anemo
+Provides strong grouping and crowd control with his Burst, making it easier for Mizuki and the off-field appliers to hit clustered enemies. Also contributes Anemo damage and can hold Viridescent Venerer for resistance shred.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Elegy for the End
+Favonius Warbow
+#6 Yumemizuki Mizuki Aggravate Team
+Tier S
+Aggravate team centered around
+Yumemizuki Mizuki
+as the Main DPS/Healer. Mizuki provides Anemo damage, Swirl support, and team utility while Yae, Fischl, and Nahida maintain strong off-field Electro/Dendro application to enable consistent Aggravate reactions.
+Yumemizuki Mizuki
+Main DPS
+Anemo
+Main DPS/Healer. Uses
+Viridescent Venerer (4)
+to boost Swirl damage and reduce enemy RES for the team. Prioritize EM main stats and stack EM with ER sub stats. Her Skill provides persistent Anemo damage and her Burst can heal or deal extra AoE damage depending on ally HP.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge
+Weapons
+Sunny Morning Sleep-In
+Fruit of Fulfillment
+Yae Miko
+Sub DPS
+Electro
+Provides continuous off-field Electro application through Skill and attacks to trigger Aggravate.
+Golden Troupe (4)
+maximizes her Skill damage. Build CRIT and ATK, with some EM if available.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Kagura's Verity
+The Widsith
+Fischl
+Sub DPS
+Electro
+Constellation 6+
+C6 Fischl offers excellent off-field Electro application and a major upgrade to team damage.
+Golden Troupe (4)
+is her preferred set for Oz damage. Focus on CRIT and ATK, with ER as needed.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Aqua Simulacra
+The Stringless
+Nahida
+Sub DPS
+Dendro
+Applies Dendro reliably with Skill and supports the team by enabling constant Quicken/Aggravate reactions.
+Deepwood Memories (4)
+is ideal for Dendro RES shred. Full EM build with CRIT and ATK/ER sub stats as secondary priorities.
+Artifacts
+Deepwood Memories
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+A Thousand Floating Dreams
+Wandering Evenstar
+#7 Clorinde Furina Mizuki Ororon Electro-Charged
+Tier S
+Electro-Charged team built around
+Clorinde
+on-field damage, with
+Furina
+amplifying team damage,
+Yumemizuki Mizuki
+providing healing and Anemo VV shred, and
+Ororon
+supplying off-field Electro damage, energy, and
+Scroll of the Hero of Cinder City
+buffs.
+Clorinde
+Main DPS
+Electro
+On-field carry. Uses her Elemental Skill to turn Normal Attacks into Electro pistol shots and gain Bond of Life, with stronger lunge attacks when Bond of Life is high.
+Artifacts
+Fragment of Harmonic Whimsy
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Absolution
+The Black Sword
+Furina
+Sub DPS
+Hydro
+Provides consistent off-field Hydro application and a large damage buff through her Burst, with team HP fluctuation helping maximize her value.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Favonius Sword
+Yumemizuki Mizuki
+Support
+Anemo
+Healer and Anemo support. Uses
+Viridescent Venerer
+to shred Electro/Hydro resistance while healing the team and boosting Swirl-related damage.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge
+Weapons
+Prototype Amber
+Ororon
+Support
+Electro
+Off-field Electro support that adds extra damage when teammates trigger Electro-Charged, restores energy from his skill interactions, and can hold
+Scroll of the Hero of Cinder City
+for team buffs.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Elegy for the End
+Favonius Warbow
+Yumemizuki Mizuki Teams FAQ
+What is the best Yumemizuki Mizuki team in Genshin Impact?
+Yumemizuki Mizuki Electro-Charged S+ Team is one of the strongest Yumemizuki Mizuki teams right now. Use the team summary and build cards on this page to pick the best version for your account.
+What are good Yumemizuki Mizuki teams without premium weapons?
+You can run strong Yumemizuki Mizuki teams without signature weapons by prioritizing reaction synergy, energy consistency, and artifact main stats shown in each build card.
+Which teammates are best with Yumemizuki Mizuki?
+Common high-performing partners include teams such as Yumemizuki Mizuki Electro-Charged S+ Team, Yumemizuki Mizuki Vaporize Team, Yumemizuki Mizuki Melting Team. Check each lineup section for role breakdowns and gear priorities.

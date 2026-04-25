@@ -1,0 +1,429 @@
+Home
+/
+Genshin Impact
+/
+Character List
+/
+Diona Build
+Diona Guide and Best Builds
+Diona is the 4-Star
+Cryo
+Bow user from Mondstadt who
+shields, heals, and can be used as a Cryo battery. Read our Diona guide to learn more about
+Diona's kit, Diona's best Builds and also her Ascension and Talent Materials.
+Last updated
+on
+Oct 20, 2025
+at
+02:39
+by
+Jaymo
+1 comment
+B
+Rank
+Cryo
+Element
+Bow
+Weapon
+★
+★
+★
+★
+★
+Rarity
+Dina Sherman
+EN Voice Actor
+Shiori Izawa
+JP Voice Actor
+Diona's Strengths & Weaknesses
+Strengths
+Very good Cryo Battery.
+Easy to build since she scales mostly on HP.
+Good support, her shield is strong if you invest in it.
+Powerful C6 which buffs the team's Elemental mastery.
+Weaknesses
+Low damage, to be mostly played as an off-field Support.
+Very slow Cryo application.
+Requires a lot of Energy.
+1.
+Diona Build Guide, Best Artifacts, Weapons and Talent Priority
+Diona provides a decent amount of shields, a solid heal, and she is also a very good
+Cryo
+battery for other characters. She is a great support,
+but she lacks personal damage. This is why you will want to build her as an off-field Support only.
+BiS Weapon
+Sacrificial Bow
+Alternative Weapons
+Elegy for the End
+Favonius Warbow
+Silvershower Heartstrings
+Sequence of Solitude
+End of the Line
+Recurve Bow
+Best Artifacts
+Noblesse Oblige
+2pc
+Tenacity of the Millelith
++ 2pc
+Emblem of Severed Fate
+Main Stats
+Sand Stats
+: HP %
+Goblet Stats
+: HP %
+Circlet Stats
+: HP % / Healing Bonus / Crit Rate (only if
+Favonius Warbow
+)
+Substat Priority
+Energy Recharge until Requirements
+HP %
+HP
+CRIT Rate % (if
+Favonius Warbow
+)
+Talent Priority
+Elemental Skill
+Elemental Burst
+Normal Attack (optional)
+For Diona's Support build,
+Sacrificial Bow
+is the best choice. It 
+provides Diona with some nice Energy Recharge and the high possibility to reset her shield, 
+allowing her to put her shield up more often. The other weapon choices will either cover 
+her Energy Recharge requirements, or increase her HP, which will increase her 
+shield and heal efficiency!
+For this Support build, you want to use
+Noblesse Oblige
+for Diona.
+It provides solid buffs for her teammates. Combined with the
+Sacrificial Bow
+, 
+you should be able to trigger the buff every rotation. If another character in your team 
+already wears
+Noblesse Oblige
+, you can go for a 2pc
+Tenacity of the Millelith
+and 
+2pc
+Emblem of Severed Fate
+for some HP and Energy Recharge to buff her shields.
+2.
+Recommended Endgame Build Stats for Diona
+Build recommendations assume a "decently built" level of artifact rolls alongside 
+Diona's best weapon. Using other weapons may increase or decrease certain stats relative to these recommendations.
+HP:
+25,000 - 30,000
+Healing Bonus:
+>20%
+ER:
+160 - 180%
+Diona's support build focuses on her shielding and healing, which both scale on HP, so 
+you want to focus HP stats. Diona needs a lot of Energy Recharge as well. You want to 
+aim for around 170% or more if you want to Burst every rotation.
+3.
+Diona Combos and How to Play
+Diona is mainly used as an off-field support, which means she will mostly only be 
+brought on-field to apply shields using
+Icy Paws
+. You will want to 
+hold the skill down to activate the shield in order to get the additional 75% damage 
+absorption bonus. Holding the skill will create a much better shield.
+When you bring Diona on the field, you will also want to use her Burst
+Signature Mix
+before switching to another character. Her burst puts down a
+Cryo
+AoE that will deal damage and heal your
+characters at the same time, if you stay in the Area of Effect. The AoE is also great for 
+triggering Elemental Reactions.
+4.
+Diona's Best Team Comps
+As we have previously mentioned, Diona is best used as a support for her shield and heal.
+This gives her various team possibilities, as she can fit into basically any team 
+that can have the use of a shield. We will focus on team examples that revolve around also
+using Diona's Burst to trigger elemental reactions, while she shields and heals your 
+other teammates.
+4.1.
+Diona's Freeze Team
+Main DPS
+Sub DPS
+Support
+Shielder
+Kamisato Ayaka
+Ganyu
+Xingqiu
+Yelan
+Kaedehara Kazuha
+Venti
+Diona
+Kamisato Ayaka
+Ganyu
+Mona
+Sucrose
+Diona
+Wriothesley
+Furina
+Kaedehara Kazuha
+Diona
+Skirk
+Furina
+Shenhe
+Diona
+A
+Freeze
+team helps crowd control your enemies,
+and deals some great
+Cryo
+AoE damage. You will want to use a
+Cryo
+Main DPS with a
+Hydro
+Sub-DPS or support 
+and then
+Diona
+for her shield and heal. Adding an
+Anemo
+character such as
+Kaedehara Kazuha
+,
+Venti
+, or
+Sucrose
+for the RES Shred and grouping.
+4.2.
+Razor Superconduct Shatter Team
+Shielder
+Sub DPS
+Sub DPS
+Main DPS
+Diona
+Xingqiu
+Fischl
+Razor
+This
+Razor
+team is a great mix of
+Elemental Reactions
+, shielding and some limited healing. Diona's
+Cryo
+element works well combined with
+Xingqiu
+'s
+Hydro
+abilities to Freeze most enemies.
+Razor
+and
+Fischl
+'s Oz will allow
+Superconduct
+and
+Shatter
+reactions to trigger. Overall, this is a very simple playstyle; keeping Oz out
+on the field with Razor and using Xingqiu and Diona's ability combo to Freeze
+enemies. Diona will keep the entire team shielded at the same time.
+4.3.
+Diona Fridge Team
+Support
+Main DPS
+Sub DPS
+Support/Sub DPS
+Diona
+Kamisato Ayato
+Kuki Shinobu
+Nahida
+Diona
+Raiden Shogun
+Furina
+Nahida
+This team is a variant of Hyperbloom teams. Diona will make use of the Hydro application 
+to trigger Freeze, while the Electro, Hydro, and Dendro units will interact to trigger 
+massive Hyperbloom reactions and deal huge damage. At the same time Diona will provide 
+a shield and heal, while also helping with crowd control.
+5.
+Diona's Ascensions, Talents, and Constellations
+Diona Ascensions
+Diona Talents
+Diona Constellations
+5.1.
+Diona Ascension Passives and Materials
+Unlock
+Ascension Passive
+Explanation
+With Character
+Complimentary Bar Food
+When a Perfect Cooking is achieved on a dish with restorative effects,
+     Diona has a 12% chance to obtain double the product.
+1st Ascension
+Cat's Tail Secret Menu
+Characters shielded by Icy Paws have their Movement SPD increased by
+    10% and their Stamina Consumption decreased by 10%.
+4th Ascension
+Drunkards' Farce
+Opponents who enter the AoE of Signature Mix have 10% decreased ATK for 15s.
+Diona requires a range of materials to ascend to the 6th ascension.
+Starting from the second ascension he gains additional
+Cryo
+DMG as her bonus stat, giving a total of 24% additional
+Cryo DMG at the final ascension. The total cost to upgrade all ascensions is:
+Source
+Quantity
+Mora
+420,000 Mora
+Boss Material
+46x
+Hoarfrost Core
+Ascension Material
+1x
+Shivada Jade Sliver
+9x
+Shivada Jade Fragment
+9x
+Shivada Jade Chunk
+6x
+Shivada Jade Gemstone
+Local Specialty
+168x
+Calla Lily
+Enhancement Material
+18x
+Firm Arrowhead
+30x
+Sharp Arrowhead
+36x
+Weathered Arrowhead
+5.2.
+Diona's Talents
+Listed below is each talent and a brief explanation of how they work.
+Type
+Talent Name
+Brief Explanation
+Normal
+Kätzlein Style
+Performs up to 5 consecutive attacks with a bow. Her Charged attack
+     builds ice up on the arrowhead, striking for
+Cryo
+DMG.
+     Plunging attacks will dealing AoE DMG upon impact with the ground.
+Elemental Skill
+Icy Paws
+Fires an Icy Paw that deals Cryo DMG to opponents while forming a
+    shield on your character based on Diona's Max HP. The duration of the
+    shield scales off the number of Icy Paws that hit their target. A single
+    press fires off two Icy Paws, while holding the skill you will fire off
+    five Icy Paws.
+Elemental Burst
+Signature Mix
+Deals an initial blast of AoE Cryo DMG and creates a mist that will
+    continue to damage enemies with Cryo while regenerating the HP of your
+    characters standing inside the AoE.
+To upgrade a single talent to level 10, it costs:
+Source
+Quantity
+Mora
+1,625,500 Mora
+Special Material
+1x
+Crown of Insight
+Boss Material
+6x
+Shard of a Foul Legacy
+Domain Material
+3x
+Teachings of Freedom
+21x
+Guide to Freedom
+38x
+Philosophies of Freedom
+Enhancement Material
+6x
+Firm Arrowhead
+22x
+Sharp Arrowhead
+31x
+Weathered Arrowhead
+5.3.
+Diona's Constellations
+Diona functions at C0, however, her C2 and C6 are the best constellations to aim for. 
+Keep in mind that Diona is a 4-star character, so you should eventually drop all her Constellations.
+We do not recommend you pull specifically for her, unless you also want to get the 5-star character 
+of the banner.
+#
+Name
+Explanation
+C1
+A Lingering Flavor
+Regenerates 15 Energy for Diona after the effects of
+Signature Mix
+end.
+C2
+Shaken, Not Purred
+Increases Icy Paws' DMG by 15%, and increases its shield's DMG
+    Absorption by 15%. Additionally, when paws hit their targets, creates a
+    shield for other nearby characters on the field with 50% of the Icy Paws
+    shield's DMG Absorption for 5s.
+C3
+A—Another Round?
+Increases the Level of
+Signature Mix
+by 3.
+Maximum upgrade level is 15.
+C4
+Wine Industry Slayer
+Within the radius of
+Signature Mix
+, Diona's charge
+    time for aimed shots is reduced by 60%
+C5
+Double Shot, on the Rocks
+Increases the Level of
+Icy Paws
+by 3.
+Maximum upgrade level is 15.
+C6
+Cat's Tail Closing Time
+Characters within Signature Mix's radius will gain the following
+      effects based on their HP amounts:
+Increases Incoming Healing Bonus by 30% when HP falls below or is equal to 50%.
+Elemental Mastery increased by 200 when HP is above 50%.
+Changelog
+20 Oct. 2025:
+Updated for Luna II.
+30 Jul. 2025:
+Updated for 5.8.
+17 Jun. 2025:
+Updated for 5.7.
+09 May 2025:
+Weapon additions.
+06 May 2025:
+Updated for 5.6.
+25 Mar. 2025:
+Updated for 5.5.
+30 Aug. 2024:
+Reviewed Guide for Update 5.1.
+29 Nov. 2023:
+Guide added.
+Show more
+Show less
+Need any help? Check out our
+General Discussion Forum
+!
+1 comment
+In The Same Category
+Wriothesley Best Builds Guide
+Shenhe Best Builds Guide
+Citlali Team Guide
+Kaeya Best Builds Guide
+Escoffier Team Guide
+Citlali Best Builds Guide
+Qiqi Best Builds Guide
+Mika Best Builds Guide
+Skirk Team Guide
+Lohen Team Guide
+Charlotte Best Builds Guide
+Citlali Profile & Talents
+ABOUT THE AUTHOR
+Written by Jaymo, a longtime gamer who spends way too many hours exploring
+        open worlds, grinding in MMOs, and pulling for his favorite gacha characters.
+        He covers news and guides for all kinds of games, and just likes helping people
+        enjoy them more. You can find him hanging out on Twitch or chatting in Discord (jaym0).
+SUPPORT OUR WRITERS

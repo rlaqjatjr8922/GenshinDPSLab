@@ -1,0 +1,283 @@
+Genshin Impact Gorou Best Team Guide
+Last updated April 25, 2026. Looking for the best Gorou teams in
+        Genshin Impact? Start with the top team summary below, then pick the
+        lineup that fits your roster.
+This page shows best teams for Gorou, primarily a Support. Top teams include Geo-focused compositions to maximize Geo DMG Bonus and DEF Bonus synergies. Team positions can be adjusted for flexibility with other character needs.
+View Gorou's character page
+Gorou Team Summary
+#1
+Team Rating:SS
+SS Gorou Geo Itto Albedo Hypercarry Team
+#2
+Team Rating:SS
+Gorou Pure Geo Itto Noelle SS Team
+#3
+Team Rating:SS
+SS Gorou Geo Itto Albedo Core Team
+#1 SS Gorou Geo Itto Albedo Hypercarry Team
+Tier SS
+Geo mono team centered on Arataki Itto
+. Gorou massively boosts
+Itto
+and
+Albedo
+with DEF scaling and Geo DMG buffs, while Zhongli provides strong shielding and Tenacity support.
+Arataki Itto
+Main DPS
+Geo
+Itto is the main DPS. He deals most of his damage through continuous Charged Attacks with
+Arataki Kesagiri
+.
+Artifacts
+Husk of Opulent Dreams
+Main Stats
+Sands
+DEF%
+Goblet
+Geo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / DEF% / ATK% / Energy Recharge
+Weapons
+Redhorn Stonethresher
+Whiteblind
+Albedo
+Sub DPS
+Geo
+Albedo provides off-field Geo damage. His burst damage is further improved by Gorou's Geo DMG Bonus and DEF Bonus at higher constellations.
+Artifacts
+Husk of Opulent Dreams
+Main Stats
+Sands
+DEF%
+Goblet
+Geo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Cinnabar Spindle
+Harbinger of Dawn
+Gorou
+Support
+Geo
+Gorou is the core support of the team. He buffs Itto and Albedo with Geo DMG Bonus, especially at C6, and DEF Bonus.
+Artifacts
+Archaic Petra
+Husk of Opulent Dreams
+Main Stats
+Sands
+DEF%
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+DEF% / DEF / Energy Recharge / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Favonius Warbow
+Zhongli
+Support
+Geo
+Zhongli provides a strong shield and improves team durability. With 4pc Tenacity of the Millelith, he also increases the team's ATK.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP / Energy Recharge
+Weapons
+Staff of Homa
+Black Tassel
+#2 Gorou Pure Geo Itto Noelle SS Team
+Tier SS
+Pure Geo team built around
+Itto
+as the main DPS, with
+Noelle
+as a burst fallback DPS when Itto’s Burst is unavailable.
+Gorou
+massively boosts Geo DMG and DEF scaling for the team, while
+Zhongli
+provides strong shielding and the
+Tenacity of the Millelith
+buff for extra team utility.
+Arataki Itto
+Main DPS
+Geo
+Main DPS. Uses continuous Charged Attacks –
+Arataki Kesagiri
+– to deal most of the team’s damage. Switch to Noelle while Itto’s Elemental Burst is on cooldown.
+Artifacts
+Husk of Opulent Dreams
+Main Stats
+Sands
+DEF%
+Goblet
+Geo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / DEF% / ATK% / Energy Recharge
+Weapons
+Redhorn Stonethresher
+Whiteblind
+Noelle
+Sub DPS
+Geo
+Burst fallback DPS. Switched in when Itto’s Elemental Burst is on cooldown. Scales especially well at
+C6
+, where DEF% sands becomes preferable.
+Artifacts
+Husk of Opulent Dreams
+Main Stats
+Sands
+ATK% / DEF%
+Goblet
+Geo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Redhorn Stonethresher
+Whiteblind
+Gorou
+Support
+Geo
+Core Geo support. Provides Geo DMG Bonus, especially strong at
+C6
+, and DEF Bonus to empower Itto and Noelle. Best paired with high DEF and enough Energy Recharge for reliable burst uptime.
+Artifacts
+Archaic Petra
+Husk of Opulent Dreams
+Main Stats
+Sands
+DEF%
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+DEF% / DEF% / Energy Recharge / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Favonius Warbow
+Zhongli
+Support
+Geo
+Provides a very strong shield for safe gameplay and increases team ATK through the 4-piece
+Tenacity of the Millelith
+effect.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Staff of Homa
+Black Tassel
+#3 SS Gorou Geo Itto Albedo Core Team
+Tier SS
+Geo hypercarry team built around
+Itto
+and
+Albedo
+with
+Gorou
+massively boosting Geo DMG and DEF scaling.
+Jean
+provides healing and utility, plus Anemo resistance shred via Viridescent Venerer.
+Arataki Itto
+Main DPS
+Geo
+Main on-field DPS. Uses continuous Charged Attacks –
+Arataki Kesagiri
+to deal damage.
+Artifacts
+Husk of Opulent Dreams
+Main Stats
+Sands
+DEF%
+Goblet
+Geo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / DEF% / ATK% / Energy Recharge
+Weapons
+Redhorn Stonethresher
+Whiteblind
+Albedo
+Sub DPS
+Geo
+Off-field Geo damage dealer whose Burst is enhanced by Gorou's Geo DMG Bonus and DEF Bonus (especially at C2).
+Artifacts
+Husk of Opulent Dreams
+Main Stats
+Sands
+DEF%
+Goblet
+Geo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Cinnabar Spindle
+Harbinger of Dawn
+Gorou
+Support
+Geo
+Core support for the team. Provides Geo DMG Bonus, especially at C6, and DEF Bonus to boost Itto and Albedo.
+Artifacts
+Archaic Petra
+Husk of Opulent Dreams
+Main Stats
+Sands
+DEF%
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+DEF% / Energy Recharge / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Favonius Warbow
+Jean
+Support
+Anemo
+Healer and utility slot. Can assist the team by reducing enemy Elemental Resistance with Viridescent Venerer.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+ATK%
+Goblet
+Anemo DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+Gorou Teams FAQ
+What is the best Gorou team in Genshin Impact?
+SS Gorou Geo Itto Albedo Hypercarry Team is one of the strongest Gorou teams right now. Use the team summary and build cards on this page to pick the best version for your account.
+What are good Gorou teams without premium weapons?
+You can run strong Gorou teams without signature weapons by prioritizing reaction synergy, energy consistency, and artifact main stats shown in each build card.
+Which teammates are best with Gorou?
+Common high-performing partners include teams such as SS Gorou Geo Itto Albedo Hypercarry Team, Gorou Pure Geo Itto Noelle SS Team, SS Gorou Geo Itto Albedo Core Team. Check each lineup section for role breakdowns and gear priorities.

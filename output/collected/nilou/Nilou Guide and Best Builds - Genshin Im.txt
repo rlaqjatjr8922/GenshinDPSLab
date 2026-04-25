@@ -1,0 +1,449 @@
+Home
+/
+Genshin Impact
+/
+Character List
+/
+Nilou Build
+Nilou Guide and Best Builds
+Nilou is a 5-Star
+Hydro
+Sword user in Genshin Impact
+whose combat benefits provide a unique mechanic to
+Bloom
+reactions in the form of Bountiful Cores. Read our Nilou guide to learn more about
+Nilou's kit, Nilou's best Builds and also her Ascension and Talent Materials
+Last updated
+on
+Sep 27, 2025
+at
+11:58
+by
+Mistsplitter Reforged
+1 comment
+S
+Rank
+Hydro
+Element
+Sword
+Weapon
+★
+★
+★
+★
+★
+Rarity
+Dani Chambers
+EN Voice Actor
+Hisako Kanemoto
+JP Voice Actor
+Nilou's Strengths & Weaknesses
+Strengths
+Nilou brings a more powerful version of Dendro Cores that explode faster in a bigger radius.
+Amazing for AoE Hydro application in combat.
+Incredibly tanky often having 60-70k HP when built.
+Weaknesses
+Bountiful Cores can not be used in Hyperbloom or Burgeon reactions.
+Limited team building primarily focusing on Bloom.
+Requires a Dendro or Hydro healer to recover from Bloom self damage.
+1.
+Nilou Build Guide, Best Artifacts, Weapons and Talent Priority
+Nilou is best built as a
+Bloom
+support, acting both
+on-field and off-field regularly.
+BiS Weapon
+Key of Khaj-Nisut
+Alternative Weapons
+The Dockhand's Assistant
+Serenity's Call
+Best Artifacts
+2-piece:
+Tenacity of the Millelith
++
+Vourukasha's Glow
+(Any HP Sets)
+Main Stats
+Sand Stats:
+HP % / Energy Recharge
+Goblet Stats:
+HP %
+Circlet Stats:
+HP %
+Substat Priority
+HP %
+Energy Recharge
+Elemental Mastery
+CRIT Rate / DMG
+Talent Priority
+Elemental Skill
+Elemental Burst
+Nilou's best weapons in this build are
+Key of Khaj-Nisut
+,
+The Dockhand's Assistant
+and
+Serenity's Call
+. These weapon options for Nilou are significantly 
+better than any other option such as
+Iron Sting
+,
+Favonius Sword
+etc 
+due to the listed weapons being the only HP-Scaling options.
+With regards to artifacts, build Nilou with 2-Piece HP% artifacts as your main 
+goal is to just increase Nilou's HP to as high as possible.
+Energy Recharge requirements entirely depend on whether you
+plan to use your Elemental Burst,
+Dance of Abzendegi: Distant Dreams, Listening Spring
+every rotation or
+every other. Elemental Mastery can be a nice added bonus in teams where 
+Nilou is contributing towards some of the cores themselves but it can be tricky 
+to tell how much of a contribution your Nilou is doing towards the actual bloom 
+damage.
+Nilou's talent levels do not require heavy investing due to the fact
+that they do not increase Nilou's buff to your parties Bloom damage.
+2.
+Recommended Endgame Build Stats for Nilou
+Build recommendations assume a "decently built" level of artifact rolls alongside 
+Nilou's best weapon. Using other weapons may increase or decrease certain stats relative to these recommendations.
+HP:
+74,444
+Energy Recharge:
+100 - 130%
+Nilou is incredibly easy to build, only really requiring you build HP up to 74,444 which caps
+her 4th ascension,
+Dreamy Dance of Aeons
+. Just stack as much as you can and enough ER 
+and you're good for Nilou's build.
+3.
+Combos and How to Play Nilou
+Nilou's Main mechanic centres around the use of her Elemental Skill,
+Dance of Haftkarsvar
+. You want to use
+Dance of Abzendegi: Distant Dreams, Listening Spring
+every other
+character rotation but this can vary depending on your
+Energy Recharge and team compositions.
+3.1.
+Dance of Haftkarsvar
+Nilou's
+Dance of Haftkarsvar
+has 2 separate forms,
+Sword
+Dance Form
+and
+Whirling Steps Form
+. Ending Nilou's Elemental Skill
+with a Normal Attack will activate Sword Dance Form, while ending with an
+Elemental Skill will activate Whirling Steps Form.
+Use Whirling Steps to create more
+Bloom reactions
+, for example in parties
+with 2
+Hydro
+characters. Use Sword Dance when they want to minimize Nilou's
+personal Bloom ownership, such as in parties with 3
+Hydro
+characters.
+4.
+Nilou's Best Team Compositions
+Nilou excels in Bloom compositions due to her
+niche kit, making her incredibly powerful in that niche but less powerful
+outside of it. Due to Nilou's Chalice's Bounty, created by
+Court of Dancing Petals
+, the entire party should consist of only
+Dendro
+and
+Hydro
+characters. This means you
+can either run 2 Hydro and 2 Dendro characters or 3 Hydro and 1 Dendro
+characters. 1 Hydro would not be enough Elemental Application.
+4.1.
+Nilou and Lauma Teams
+Support
+Sub DPS
+Sub DPS
+Support
+Lauma
+Nilou
+Nahida
+Sangonomiya Kokomi
+Lauma
+Nilou
+Sangonomiya Kokomi
+Baizhu
+Lauma
+Nilou
+Nahida
+Barbara
+Since the release of Nod-Krai,
+Lauma
+has been a huge 
+increase to Nilou team DPS. With Lauma + Nilou teams performing significantly 
+better than other options.
+4.2.
+Other Nilou 2-Hydro Teams
+Main DPS
+Sub DPS
+Sub DPS
+Support
+Nahida
+Nilou
+Furina
+Baizhu
+Alhaitham
+Nilou
+Yelan
+Yaoyao
+2-Hydro teams can generally make more
+Bountiful Cores than 3-Hydro teams but can
+make it difficult to know who in the party is actually triggering the
+Bloom
+. Therefore, your
+entire
+party should
+build Elemental Mastery to increase Bloom damage and therefore
+your DPS.
+4.3.
+Nilou 3-Hydro Teams
+Main DPS
+Sub DPS
+Sub DPS
+Support
+Nahida
+Nilou
+Yelan
+Sangonomiya Kokomi
+Alhaitham
+Nilou
+Xingqiu
+Barbara
+Having 3
+Hydro
+and 1
+Dendro
+characters in
+your team ensures that all Bountiful Cores come from your on-field
+Dendro
+character such as
+Nahida
+or
+Alhaitham
+allowing you to focus your builds more effectively.
+This however does mean there will be less reactions and Bountiful Cores.
+5.
+Nilou's Ascensions, Talents, and Constellations
+Nilou Ascensions
+Nilou Talents
+Nilou Constellations
+5.1.
+Nilou Ascension Passives and Materials
+Unlock
+Ascension Passive
+Explanation
+With Character
+White Jade Lotus
+When Perfect Cooking is achieved on Food with Adventure-related effects, there is a 12% chance to obtain double the product.
+1st Ascension
+Court of Dancing Petals
+When all characters in the party are all
+Dendro
+or
+Hydro
+, and
+	there are at least one Dendro character and one Hydro character:
+The completion of the third dance step of Nilou's
+Dance of Haftkarsvar
+will grant all nearby characters the Golden Chalice's Bounty for 30s.
+Characters under the effect of Golden Chalice's Bounty will
+        increase the Elemental Mastery of all nearby characters
+        by 100 for 10s whenever they are hit by Dendro attacks. Also,
+        triggering the
+Bloom reaction
+will
+        create Bountiful Cores instead of Dendro Cores.
+Such Cores will burst very quickly after being created,
+	and they have larger AoEs.
+Bountiful Cores cannot trigger
+Hyperbloom
+or
+Burgeon
+, and they share an upper numerical
+        limit with Dendro Cores.  Bountiful Core DMG is considered DMG dealt by
+        Dendro Cores produced by Bloom.
+4th Ascension
+Dreamy Dance of Aeons
+Every 1,000 points of Nilou's Max HP above 30,000 will cause the DMG
+        dealt by Bountiful Cores created by characters affected by Golden
+        Chalice's Bounty to increase by 9%.
+The maximum increase in Bountiful Core DMG that can be
+        achieved this way is 400%.
+Nilou requires a range of materials to ascend to the 6th ascension.
+Starting from the second ascension they gain additional HP as their
+bonus stat giving a total of 28.8% increased HP at the final ascension.
+The total cost to upgrade all ascensions is:
+Source
+Quantity
+Mora
+420,000 Mora
+Boss Material
+46x
+Perpetual Caliber
+Ascension Material
+1x
+Varunada Lazurite Sliver
+9x
+Varunada Lazurite Fragment
+9x
+Varunada Lazurite Chunk
+6x
+Varunada Lazurite Gemstone
+Local Specialty
+168x
+Padisarah
+Enhancement Material
+18x
+Fungal Spores
+30x
+Luminescent Pollen
+36x
+Crystalline Cyst Dust
+5.2.
+Nilou's Talents
+Listed below is each talent and a simplified explanation of how they work.
+Type
+Talent Name
+Brief Explanation
+Normal
+Dance of Samser
+Performs up to 3 consecutive sword strikes.
+Elemental Skill
+Dance of Haftkarsvar
+Deals
+Hydro
+damage to nearby opponents,
+    using Normal Attacks and Elemental Skills allowing you to enter
+    Sword Dance or Whirling Steps and granting the relevant effect
+    once the Skill ends.
+Elemental Burst
+Dance of Abzendegi: Distant Dreams, Listening Spring
+Deals AoE
+Hydro
+damage applying Hydro as well as an
+    effect called Lingering Aeon, which deals additional Hydro damage shortly
+    after.
+To upgrade a single talent to level 10, it costs:
+Source
+Quantity
+Mora
+1,625,500 Mora
+Special Material
+1x
+Crown of Insight
+Boss Material
+6x
+Tears of the Calamitous God
+Domain Material
+3x
+Teachings of Praxis
+21x
+Guide to Praxis
+38x
+Philosophies of Praxis
+Enhancement Material
+6x
+Fungal Spores
+22x
+Luminescent Pollen
+31x
+Crystalline Cyst Dust
+5.3.
+Nilou's Constellations
+Nilou's most valuable Constellation is her C2.
+The Starry Skies Their Flowers Rain
+decreases both
+Hydro
+and
+Dendro
+resistance making it very
+powerful in any Bloom team.
+#
+Name
+Explanation
+C1
+Dance of the Waning Moon
+Dance of Haftkarsvar
+will be enhanced as follows.
+Luminous Illusion DMG is increased by 65%.
+The Tranquility Aura's duration is extended by 6s.
+C2
+The Starry Skies Their Flowers Rain
+Decreases
+Hydro
+Resistance and
+Dendro
+Resistance both by 35%.
+C3
+Beguiling Shadowstep
+Increases the Level of
+Dance of Abzendegi: Distant Dreams, Listening Spring
+by 3.
+Maximum upgrade level is 15.
+C4
+Fricative Pulse
+After using your Elemental Skill, gain 15 energy and increase Burst damage.
+C5
+Twirling Light
+Increases the Level of
+Dance of Haftkarsvar
+by 3.
+Maximum upgrade level is 15.
+C6
+Frostbreaker's Melody
+For every 1,000 points of Max HP, Nilou's CRIT Rate
+        and CRIT DMG will increase by 0.6% and 1.2%
+        respectively.
+The maximum increase in CRIT Rate and CRIT DMG via this method is
+        30% and 60% respectively.
+Changelog
+27 Sep. 2025:
+Updated for 6.0. Most weapon options removed now Nilou finally has a F2P HP sword.
+23 Jul. 2025:
+Updated for 5.7.
+12 Feb. 2025:
+Reviewed for 5.4.
+30 Jan. 2025:
+Updated for 5.3.
+05 Jun. 2024:
+Reviewed for 4.7. Few additional weapons added to the bottom of rankings.
+31 Jan. 2024:
+Added Iron Sting as an alternative weapon.
+29 Nov. 2023:
+Guide added.
+Show more
+Show less
+Need any help? Check out our
+General Discussion Forum
+!
+1 comment
+In The Same Category
+Aino Best Builds Guide
+Dahlia Best Builds Guide
+Sigewinne Best Builds Guide
+Xingqiu Team Guide
+Columbina Best Builds Guide
+Candace Best Builds Guide
+Mona Team Guide
+Furina Best Builds Guide
+Sangonomiya Kokomi Best Builds Guide
+Neuvillette Best Builds Guide
+Mualani Best Builds Guide
+Kamisato Ayato Best Builds Guide
+ABOUT THE AUTHOR
+Written by Mistsplitter Reforged, a day one player of Genshin 
+        Impact and Zenless Zone Zero, and a Guide Maker on Youtube, 
+        striving to provide helpful content and useful tips. Spends time 
+        collecting characters and enjoying what the games have to offer. Make sure to
+check out their YouTube guides!
+SUPPORT OUR WRITERS

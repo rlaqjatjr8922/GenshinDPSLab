@@ -1,0 +1,589 @@
+Genshin Impact Venti Best Team Guide
+Last updated April 25, 2026. Looking for the best Venti teams in
+        Genshin Impact? Start with the top team summary below, then pick the
+        lineup that fits your roster.
+This page shows the best teams for Venti, primarily a Support/Secondary DPS. Top team archetypes include Swirl (anemo + hydro/cryo/pyro for elemental reactions), Elemental RES break (using Faruzan or Xilonen), and Pure Anemo Viridescent Venerer comps. Positions can be swapped with other sub‑DPS or healers to fit your roster.
+View Venti's character page
+Venti Team Summary
+#1
+Team Rating:S
+Venti Electro-Charge Swirl Control Team
+#2
+Team Rating:A
+Venti Permafrost Team
+#3
+Team Rating:SS
+Venti Hydro Hypercarry with Neuvillette & Furina
+#4
+Team Rating:SS
+Venti Melt SS Tier Team
+#5
+Team Rating:S
+Venti Vaporization Team #1
+#6
+Team Rating:S
+Venti Burning Team
+#7
+Team Rating:S
+Venti Vaporization Team #2
+#1 Venti Electro-Charge Swirl Control Team
+Tier S
+Electro-Charge team built around strong
+crowd control
+, constant off-field damage, and Anemo swirl support.
+Venti functions as a
+Sub DPS
+and grouping enabler, while Furina and Ororon provide persistent Hydro/Electro application for reactions.
+Yumemizuki Mizuki
+Main DPS
+Anemo
+Driver and healer slot. Uses Dreamdrifter to stay airborne, deal consistent AoE Anemo DMG, and boost Swirl DMG based on Elemental Mastery. Burst also provides AoE damage and healing via Special Snacks.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge
+Weapons
+Sunny Morning Sleep-In
+Fruit of Fulfillment
+Furina
+Sub DPS
+Hydro
+Provides strong off-field Hydro application and powerful team DMG buff through her Burst. Her HP-drain mechanic is sustained by the healer slot.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Favonius Sword
+Ororon
+Support
+Electro
+Off-field Electro support that helps trigger Electro-Charged-related damage and activates
+Scroll of the Hero of Cinder City
+. Restores team energy when normal, charged, or plunge attacks hit, and gains extra team ATK value at C6.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Elegy for the End
+Favonius Warbow
+Venti
+Sub DPS
+Anemo
+Provides exceptional enemy grouping and sustained crowd control with his Elemental Burst. Also enables repeated Swirls and contributes AoE damage while holding
+Viridescent Venerer
+for resistance shred.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Elegy for the End
+Favonius Warbow
+#2 Venti Permafrost Team
+Tier A
+Venti is a
+Support DPS
+in the team. Ganyu's Cryo DMG reacts with Mona's Hydro application to trigger Freezing.
+Ganyu
+Main DPS
+Cryo
+Ganyu deals damage primarily through her Elemental Burst, enabling consistent Freeze with Mona's Hydro application.
+Artifacts
+Noblesse Oblige
+Blizzard Strayer
+Main Stats
+Sands
+ATK%
+Goblet
+Cryo DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Amos' Bow
+Hamayumi
+Mona
+Support
+Hydro
+Mona's Elemental Burst increases team damage and her Hydro application helps maintain Freeze.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Hydro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+Energy Recharge / CRIT Rate / CRIT DMG / ATK%
+Weapons
+Skyward Atlas
+Favonius Codex
+Thrilling Tales of Dragon Slayers
+Diona
+Support
+Cryo
+Diona provides shielding for survivability and helps recharge Ganyu's Elemental Burst.
+Artifacts
+Maiden Beloved
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Sacrificial Bow
+Favonius Warbow
+Venti
+Sub DPS
+Anemo
+Venti's Elemental Burst groups enemies and provides crowd control, while spreading Hydro application to nearby enemies.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Elegy for the End
+Rust
+#3 Venti Hydro Hypercarry with Neuvillette & Furina
+Tier SS
+Venti Hydro Team
+Strong Hydro-centric hypercarry team built around Neuvillette’s charged attack DPS, Furina’s off-field damage and buffing, Venti’s grouping and Viridescent shred, and Xilonen’s RES shred plus healing support.
+Neuvillette
+Main DPS
+Hydro
+Main on-field damage dealer. Benefits greatly from Furina’s teamwide damage buff and Xilonen’s support/healing.
+Artifacts
+Marechaussee Hunter
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Tome of the Eternal Flow
+Sacrificial Jade
+Furina
+Sub DPS
+Hydro
+Provides continuous Hydro application through her Elemental Skill and strong team damage amplification via her Burst. Her HP manipulation synergizes with the team’s healing support.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Splendor of Tranquil Waters
+Wolf-Fang
+Venti
+Sub DPS
+Anemo
+Provides crowd control by grouping enemies with his Elemental Burst and enables strong AoE damage windows. Also holds Viridescent Venerer for Hydro RES shred.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Elegy for the End
+Favonius Warbow
+Xilonen
+Support
+Geo
+Provides elemental RES reduction through Samplers and offers healing to the team. Functions as a strong utility support to keep Furina’s buff active and sustain the team.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Peak Patrol Song
+Favonius Sword
+#4 Venti Melt SS Tier Team
+Tier SS
+Venti Melt composition centered around
+Mavuika
+as the main on-field DPS, with
+Citlali
+providing shield, Melt utility, and resistance shred,
+Venti
+offering crowd control and Viridescent support, and
+Bennett
+supplying ATK buff and healing.
+Mavuika
+Main DPS
+Pyro
+Main on-field damage dealer. Her Elemental Burst is charged through Nightsoul points generated by Natlan characters or by teammates’ normal attacks. After activation, her abilities and interruption resistance are greatly enhanced for 7 seconds.
+Artifacts
+Obsidian Codex
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+A Thousand Blazing Suns
+Serpent Spine
+Citlali
+Support
+Cryo
+Provides a shield scaling with Elemental Mastery and summons a creature that deals AoE Cryo damage. While active, triggering Frozen or Melt reduces nearby enemies’ Pyro and Hydro RES.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge / CRIT Rate / CRIT DMG
+Weapons
+Starcaller's Watch
+Sacrificial Fragments
+Venti
+Sub DPS
+Anemo
+Uses Elemental Burst to group enemies and provide strong crowd control. Runs Viridescent Venerer to support Pyro damage through Swirl resistance shred.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Elegy for the End
+Favonius Warbow
+Bennett
+Support
+Pyro
+Elemental Burst provides a strong ATK buff and healing to the team.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+Energy Recharge / HP%
+Weapons
+Mistsplitter Reforged
+The Alley Flash
+#5 Venti Vaporization Team #1
+Tier S
+Vaporization core team
+built around Mualani’s on-field Hydro damage with Venti and Xiangling enabling strong off-field AoE reactions. Xilonen provides RES shred and healing while Venti offers grouping and crowd control.
+Mualani
+Main DPS
+Hydro
+On-field Hydro carry. Uses Nightsoul’s Blessing to enter
+Sharky Bite
+mode and build
+Wave Momentum
+stacks for empowered hits.
+Artifacts
+Obsidian Codex
+Main Stats
+Sands
+HP%
+Goblet
+Hydro DMG
+Circlet
+Elemental Mastery
+Substats
+HP% / CRIT DMG / CRIT Rate / Elemental Mastery / Energy Recharge
+Weapons
+Surf's Up
+Sacrificial Jade
+Xilonen
+Support
+Geo
+Applies RES shred through Samplers and provides team healing. Strong buffer for Mualani and Xiangling.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+Energy Recharge
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Peak Patrol Song
+Favonius Sword
+Venti
+Sub DPS
+Anemo
+Provides grouping and crowd control with his Elemental Burst. Also runs
+Viridescent Venerer
+to reduce enemy Pyro/Hydro resistance.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Elegy for the End
+Favonius Warbow
+Xiangling
+Sub DPS
+Pyro
+Off-field Pyro application and burst damage. Her Elemental Burst enables consistent Vaporize reactions.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Engulfing Lightning
+Favonius Lance
+#6 Venti Burning Team
+Tier S
+Burning-focused team built around Kinich as the main on-field DPS, with Venti providing crowd control and Anemo utility, Xiangling applying continuous Pyro for Burning, and Bennett offering healing plus a strong ATK buff.
+Kinich
+Main DPS
+Dendro
+On-field main DPS. Uses his skill to enter Nightsoul’s Blessing and build up Nightsoul points for Scalespiker Cannon.
+Artifacts
+Obsidian Codex
+Main Stats
+Sands
+ATK%
+Goblet
+Dendro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / ATK%
+Weapons
+Fang of the Mountain King
+Serpent Spine
+Venti
+Sub DPS
+Anemo
+Groups enemies together with Elemental Burst and provides strong crowd control. Best used to keep enemies clustered for Kinich and the Pyro applicators.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Elegy for the End
+Favonius Warbow
+Xiangling
+Support
+Pyro
+Burst provides heavy off-field damage and consistent Pyro application to enable Burning.
+Artifacts
+Deepwood Memories
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+Energy Recharge / CRIT Rate
+Weapons
+Engulfing Lightning
+Favonius Lance
+Bennett
+Support
+Pyro
+Provides a large ATK buff and healing through Elemental Burst, greatly improving team survivability and damage.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+Energy Recharge / HP%
+Weapons
+Mistsplitter Reforged
+The Alley Flash
+#7 Venti Vaporization Team #2
+Tier S
+Venti Vaporization team built around Arlecchino vaping with Yelan Hydro application and Bennett buff/healing, while Venti provides crowd control and Viridescent Venerer RES shred.
+Arlecchino
+Main DPS
+Pyro
+Arlecchino is the on-field damage dealer. Her attacks convert to Pyro when Bond of Life is above 20% HP, and her Skill replenishes Bond of Life. Her Burst deals AoE Pyro DMG, resets Skill CD, and is also her only self-heal.
+Artifacts
+Fragment of Harmonic Whimsy
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Crimson Moon's Semblance
+Deathmatch
+Yelan
+Sub DPS
+Hydro
+Yelan provides consistent off-field Hydro application for Vaporize reactions. Her Burst also increases the active character's damage through her passive talent.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+HP%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Aqua Simulacra
+Favonius Warbow
+Venti
+Sub DPS
+Anemo
+Venti groups enemies together with his Elemental Burst, providing strong crowd control and helping with AoE damage. He also enables Viridescent Venerer shred for Pyro/Hydro.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK%
+Weapons
+Elegy for the End
+Favonius Warbow
+Bennett
+Support
+Pyro
+Bennett's Elemental Burst provides a large ATK buff and healing for the team.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+Energy Recharge / HP%
+Weapons
+Mistsplitter Reforged
+The Alley Flash
+Venti Teams FAQ
+What is the best Venti team in Genshin Impact?
+Venti Electro-Charge Swirl Control Team is one of the strongest Venti teams right now. Use the team summary and build cards on this page to pick the best version for your account.
+What are good Venti teams without premium weapons?
+You can run strong Venti teams without signature weapons by prioritizing reaction synergy, energy consistency, and artifact main stats shown in each build card.
+Which teammates are best with Venti?
+Common high-performing partners include teams such as Venti Electro-Charge Swirl Control Team, Venti Permafrost Team, Venti Hydro Hypercarry with Neuvillette & Furina. Check each lineup section for role breakdowns and gear priorities.

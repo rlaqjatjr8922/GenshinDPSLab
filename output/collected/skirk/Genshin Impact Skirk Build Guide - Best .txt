@@ -1,0 +1,262 @@
+Task Search
+Checklists
+Guides
+Markers
+Videos
+Sort and Filter
+No Results
+Checklists
+New Checklist
+All Lists
+My Checklists
+All
+All Lists
+My Checklists
+How creative can you get with your first free checklist?
+Create a free account
+All Interactive Maps and Locations
+Genshin Impact Skirk Build Guide - Best Weapons, Artifacts, and Teams
+By
+Cedric Pabriga
+,
+Jen Rothery
+,
+Triforce
+,
++30 more
+Updated
+:
+Jun 23, 2025 11:01pm UTC
+Skirk is the mentor of the 11th Fatui Harbinger, Tartaglia, and a long-awaited character since long before her first appearance in the Fontaine Archon Quests. This guide to the
+best Genshin Impact Skirk build
+will explain the best weapons, artifact sets, constellations, and team compositions for Skirk.
+Skirk
+Rarity:
+★★★★★
+Element:
+Cryo
+Weapon:
+Polearm
+Table of Contents:
+How to Get Skirk
+Skirk Gameplay Overview
+Skirk Talents and Attack Combos
+Skirk Constellation Analysis
+Skirk's Best Weapons
+Skirk's Best Artifacts
+Skirk's Best Teams
+How to Get Skirk in Genshin Impact
+Skirk is a limited 5-star character, meaning you can only acquire her during limited time banners where she is featured.
+Genshin Skirk Gameplay Overview
+Element:
+Cryo
+Weapon:
+Sword
+Rarity:
+5-star
+Skirk is a polarizing character. In her best scenarios, she is among the top DPS characters in the game alongside Mavuika, Arlecchino, Neuvillette, and Varesa. However, she has extreme team limitations. Not only does Skirk require multiple limited 5-Star units to reach her potential, but she also only allows one real team composition: Freeze teams consisting of only Cryo and Hydro characters.
+No energy is required for Skirk, as she doesn’t use energy at all. Instead, she uses a ‘currency’ called Serpent’s Subtlety with her Skill or Main Burst (she has two). This is gathered by collecting Void Rifts from her passives through non-Pyro Cryo-based reactions and by using her Tap or Hold Skill. The way you maximize your damage output is by gathering three Void Rifts across 7.5 seconds, then using her Skill followed by a Charged Attack and Normal Attack strings, or her Burst.
+She can be played either as an on-field DPS or off-field/Burst DPS, and she can even toggle between playstyles mid-fight if need be; she doesn’t need to build her stats any differently. However, you may want to manage her team composition. Burst DPS can be locked to 15-16s rotations, and shorter rotations mean more team damage long-term. On-field is more like 22s, but the damage dealt is a good amount higher. Because of the rotation differences, each plays out fairly competitively with one another. In exchange for being extremely demanding for the right teammates, namely Escoffier and Furina, Skirk has an extremely powerful 4-star option: Finale of the Deep. As a craftable with very lenient requirements (having a healer on the team), it provides Skirk with what she lacks in her teams: flat ATK and ATK% buffs. It is even competitive with some of the lower-end 5-star options.
+Skirk will give you results in Spiral Abyss, if you can give her what she requires to do her job. She’ll still be competent in less-than-ideal scenarios, but the gap will be evident in her performance.
+Stats Worth Consideration
+ATK%
+: Skirk wants a high ATK stat so she can share her ATK with her teammates.
+Cryo DMG
+: This is the element Skirk’s damage is based on
+CRIT:
+Nearly every damage-dealer wants to build this stat.
+For any character devoted to building damage, it is important to prioritize a 1-to-2 ratio between CRIT Rate and CRIT DMG. 1-3 ratios, while they may give dopamine through bigger Crit numbers, is actually less damage overall. Aim for 75;150 in most cases!
+Genshin Skirk Talents and Attack Combos
+Your talent-levelling priority should be Skill >= Burst.
+Talent
+Abbreviated In-Game Description
+Notes
+Normal Attack
+A 5-attack string of hits. There are no special effects.
+Skirk has no reason to use her Normal Attacks, so there is no reason to level this talent. She is best for her Skill’s damage (in which you’ll use Normal Attack inputs, but the multiplier scales with the Skill talent)
+Elemental Skill
+TAP
+Gain 45 Serpent’s Subtlety (her energy replacement) and enter her Stance (which drains Serpent’s Subtlety).
+Normal attacks in this stance are infused with Cryo.
+Gains interruption resistance.
+Subtlety points are gained through Skill, absorbing Void Rifts (more on this later), and triggering Skirk’s passives.
+HOLD
+Gain all TAP effects except for the ones relevant to damage; gains Subtlety, does not enter her stance, does not drain subtlety. Can also absorb Void Rifts.
+If you use Skirk as your on-field DPS, this Talent is your top priority. What makes Skirk so powerful isn’t her stats, but her multipliers, so you won’t be able to ignore Talent level by just getting stronger weapons. Almost all of her on-field damage comes from this talent.
+Elemental Burst
+Requires 50 Subtlety and attacks six times in quick succession. At 62 Subtlety, it deals the most damage (+32.85% ATK per point beyond 50). During Skirk’s Skill stance, an alternate Burst becomes available that doesn’t consume Subtlety, which grants the ability to absorb Void Rifts and by boost up to 20% if you consume up to three Void Rifts throughout her Normal Attacks; up to 10 instances.
+A great Talent to level regardless of your playstyle, mainly because of the alternate version being available during the Skill usage.
+First Ascension Passive
+When non-Pyro Cryo reactions take place, a Void Rift is created, once every 2.5s. Three can exist on-field at once. Skirk absorbs Void Rifts through her Charged Attack during her Skill Stance, her alternate Elemental Burst, and when using her Hold Skill. Each rift grants 8 Subtlety.
+This is a sizeable incentive to only use Skirk in Freeze teams. Many of Skirk’s passives go out of their way to make Melt teams non-functional with her, since any benefit gained from using her in Melt teams is counterbalanced by the raw stats she loses. See what I mean below.
+Fourth Ascension Passive
+Can gain up to three stacks every time a Hydro or other Cryo character hits an enemy with an attack. Each character only grants one stack, requiring a full Hydro/Cryo team to benefit, in which Normal Attack multipliers are multiplied by up to 1.7. The Burst gets multiplied by 1.6.
+This is an incredible amount of damage to miss out on by using Skirk in any team that isn’t pure Hydro/Cryo team. This passive contributes towards Skirk being one of the strongest DPS characters in the game with her ideal team, which, to no one’s surprise, consists only of Hydro and Cryo characters.
+Misc. Passives
+When all party members are either Hydro or Cryo, and if there is at least 1 Hydro and 1 Cryo character, your own party members' Elemental Skill Level is increased by 1.
+This passive includes Skirk herself. Because she and her best teammates primarily deal skill damage, raising this Talent level across the board is a massive buff.
+Skirk
+Field Time Inputs
+Skirk’s field time should be executed as such:
+For On-Field DPS:
+Skirk Skill Stance
+Skirk Charged Attack
+Skirk Alternate Burst
+Normal Attack Strings until stance ends
+Swap
+For Burst/Off-Field DPS
+Hold Skill when needed to gather Void.
+Burst
+Swap
+Genshin Skirk Constellation Analysis
+Skirk is a fully functional character at C0, however, C1 and C2 are especially valuable, as is C3 to a lesser extent. It might be worth picking up a constellation or two, but even at C0, Skirk is heavily pushed in power level to the point she doesn’t even remotely need them to clear the most difficult content in the game.
+Constellation Name
+Abbreviated In-Game Description
+Notes
+C1.
+Upgrades the First Ascension Passive. Gathering a Void Rift triggers a Cryo attack equal to 500% of Skirk’s ATK.
+500% multiplier is great. For context, Mona’s multiplier on her Burst is about 900% Skirk’s C1 alone is much greater, since you’ll usually get three Void Rifts per rotation if you’re playing Skirk correctly.
+C2.
+Skirk, after using her Skill, will gain 10 additional Subtlety after using her Skill. The regular burst will continue gaining buffs per point above 50, now 22 max instances. Using Alt Burst buffs ATK by 70%
+This is the first actual stat buff Skirk has in her kit, and it’s locked behind C2. This one is mainly good for Skirk’s Burst playstyle.
+C3.
+Increase Burst talent level by 3.
+Just more damage!
+C4.
+Upgrades Fourth Ascension Passive to grant up to 40% ATK based on the number of other Cryo and Hydro members hitting enemies.
+Freeze teams don’t have easy access to major ATK buffs like Bennett and Iansan, so this is more appealing than one might think. However, this is less than a Thrilling Tales buff. Is C4’s (worse) Thrilling Tales buff worth the primogems?
+C5.
+Increases Skill talent level by 3.
+Better than C3, since most of Skirk’s damage comes from her Skill.
+C6.
+Void Rifts grant one Sever Stack each, which enable coordinated attacks or defensive measures in her Skill stance. Using her regular Burst will create coordinated attacks for each stat that deal 750% ATK damage. In Skill Stance, every third or fifth attack in her attack sequence will fire off three attacks each at 180% ATK, considered Normal Attack damage. Taking damage will fire off the same three shots while reducing damage by 80%
+A phenomenal C6 for both playstyles and makes either playstyle roughly equally viable. The Burst can dish out 2,250% and the combined nine hits from the other modes adds up to 1,620%
+Genshin Skirk's Best Weapons
+Skirk wants three things: CRIT stats, ATK%, and DMG%. Because of Skirk’s lack of access to ATK% buffs and low ATK stat, normally less-valuable ATK% weapons become stronger, leaving Skirk with a very viable craftable weapon as a baseline (and perhaps best 4-Star option in general) and many options for high investment.
+Weapon Name
+Abbreviated In-Game Description
+Notes
+Azurelight
+22.1% CRIT Rate
+ATK is increased by 24%. When the equipping character has no energy, another +24% ATK and 40% CRIT DMG
+Best-in-Slot
+There’s just nothing else that compares. Azurelight provides the most buffs in ideal situations than any other sword in the game. I don’t anticipate they’ll make many sword-wielding characters without energy for a while, so it might not be an amazing generic option, but it is about 15% higher than the next best option. If you don't have Azurelight, any CRIT-based 5-star will do a fine job.
+Finale of the Deep (R5)
+27.5% ATK
+When using an Elemental Skill, ATK will be increased by 24% for 15s, and a Bond of Life worth 25% of Max HP will be granted. This effect can be triggered once every 10s. When the Bond of Life is cleared, a maximum of 300 ATK will be gained based on 4.8% of the total amount of the Life Bond cleared, lasting for 15s.
+Best Universal 4-Star Option (Craftable, Too!)
+The reason we jump straight to the craftable is because of two things; first, all the possible 5-Star weapons (that make sense) are about equal to each other. The second is because it’s not even far behind the second-best 5-star options. For Skirk, this weapon does everything you could want out of a 4-star, except for provide CRIT stats. However, it’s very easy to max out on CRIT Rate if you use her ‘best’ artifact set, and Skirk’s attack is lacking more than her access to CRIT DMG is. Healing the bond of life is trivial, especially with Skirk’s best teammate, Escoffier.
+Genshin Skirk's Best Artifacts
+Sands
+– ATK%
+Goblet
+– Cryo DMG%
+Circlet
+– CRIT Rate/DMG
+Artifact Set Name
+Abbreviated In-Game Description
+Notes
+4pc Finale of the Deep Galleries
+2pc: +15% Cryo DMG.
+4pc: When the equipping character has 0 Elemental Energy, Normal Attack DMG is increased by 60% and Elemental Burst DMG is increased by 60%. After the equipping character deals Normal Attack DMG, the aforementioned Elemental Burst effect will stop applying for 6s. After the equipping character deals Elemental Burst DMG, the aforementioned Normal Attack effect will stop applying for 6s. This effect can trigger even if the equipping character is off the field.
+Best Universal Option
+If you don’t want to change artifact sets every time you change your Skirk team, this artifact set is the most consistent bang for buck. The mains reason against farming it are if you don’t have Furina on your account or you have no use for the other artifact set in the dungeon you get this in, which focuses on plunge damage.
+4pc Marrechaussee Hunter
+2pc: +15% Normal/Charged Attack DMG.
+4pc: When current HP increases or decreases, CRIT Rate will be increased by 12% for 5s. Max 3 stacks.
+Best Artifact Set With Furina on the Team
+Be careful using CRIT Rate weapons when using this set. With 36% CRIT Rate given, plus Cryo Resonance which grants 15% CRIT Rate, a high Rate weapon like Jade Cutter plus average substats will overcap automatically, and CRIT Rate beyond 100% is wasted. However, because Furina drains health from the team, Skirk will almost always have the maximum possible buffs, beating out Galleries.
+Genshin Skirk's Best Teams
+Skirk is made for Freeze teams. That said, this guide will focus mostly on her Hydro and Cryo teammates in order to make the most of her passives. Skirk’s biggest weakness is her dependency on multiple limited 5-Star teammates. Without Escoffier and Furina, the damage potential plummets from “one of the best DPS’s in the game” to “pretty good” (with several tiers of awesomeness skipped along the way).
+Simply put, if you give Skirk anything less than the best in Cryo and Hydro, she’s going to have a hard time.
+Guide Character
+Escoffier/Cryo
+Furina/Hydro
+Hydro/Cryo
+Specific Teammate Choices
+Teammate Choices
+Character Name
+Notes
+Character Name
+Notes
+Escoffier
+Cryo DPS + Support
+Consolidates damage, healing, and buffs/debuffs into one character
+The best possible Freeze support
+Great off-field Skill damage even outside of her expertise
+Demands ONLY Hydro and Cryo teammates
+Often wields Favonius Weapons
+Mona
+Hydro Buffing Support
+Omen debuff from Burst allows teammates to deal 60% extra damage.
+Omen can be prolonged by Freeze.
+Often wields Thrilling Tales of Dragon Slayer combined with Noblesse Oblige for massive ATK buffs.
+High energy requirements, but manageable with a Hydro teammate.
+Neuvillette
+Hydro On-Field DPS
+The most powerful on-field Hydro DPS at time of writing.
+Self-drain/heal
+Turn mouse sensitivity up and spin to win
+Long rotations
+Furina
+On-Field DPS
+The Hydro Archon demands a dedicated healer
+Massive universal damage-buffer for team
+Impressive damage on top of her support capabilities
+Xingqiu
+Off-Field Hydro DPS
+Consistent Hydro application to ensure reactions.
+Interruption resistance
+Minor healing
+Excellent single-target damage output.
+Paired with Yelan, can often carry a team by themselves.
+Yelan
+Off-Field Hydro DPS
+Consistent Hydro application to ensure reactions.
+Paired with Xingqiu, can often carry a team by themselves.
+Sizeable buff to active character – up to 50% DMG bonus.
+Excellent single-target damage output.
+Kaeya
+Off-Field Cryo DPS
+Respectable damage output
+Consistent application for reactions
+Orbiting icicles make melee-based reactions more reliable.
+Rosaria
+Off-Field Cryo DPS
+Impressive AoE damage output
+Grants CRIT Rate bonus to the team
+Low cooldowns means she generates lots of energy
+Viable in a variety of roles and builds
+Citlali
+Cryo Support
+Natlan support that provides Fighting Spirit for Mavuika
+4pc Cinder City offers huge elemental damage buffs to team.
+Thrilling Tales of Dragon Slayer buffer
+Amplifies Cryo, Hydro, and Pyro reactions and damage for teammates.
+Offers a modest shield.
+Shenhe
+Cryo Support
+Adds massive damage bonuses to Cryo teammates.
+Builds almost exclusively ATK%
+Often wields Favonius weapons
+Up Next:
+Genshin Impact Luna VI Details and Patch Notes
+Previous
+Hypostatic Symphony: Dissonant Verse
+Next
+Genshin Impact Luna VI Details and Patch Notes
+Top Guide Sections
+Genshin Impact Luna VI Details and Patch Notes
+Genshin Impact Luna IV Release Time and Details
+Genshin Impact Luna III Details and Patch Notes
+Genshin Impact Luna II Release Date and Details
+Was this guide helpful?
+Leave feedback
+In This Guide
+Genshin Impact
+HoYoverse
+Initial Release:
+Sep 27, 2020
++2
+Learn more
+Go to comments

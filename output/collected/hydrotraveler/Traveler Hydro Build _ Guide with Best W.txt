@@ -1,0 +1,250 @@
+Traveler Hydro
+5
+★
+Sword
+Hydro
+A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven
+.
+Basic Stats
+Nv.
+90
+HP
+10875
+ATK
+212
+DEF
+683
+ATK
+24%
+Basic Stats
+Nv.
+90
+HP
+10875
+ATK
+212
+DEF
+683
+ATK
+24%
+Traveler Hydro
+Ascension Materials
+Brilliant Diamond Sliver
+Windwheel Aster
+Windwheel Aster
+Damaged Mask
+Teachings of Equity
+Worldspan Fern
+Traveler Hydro
+Best Weapon
+Favonius Sword
+Level
+.
+90
+ATK
+454
+Energy Recharge
+61.3%
+Refinement
+.
+5
+CRIT Hits have a 100% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 6s.
+Other Weapons
+2
+°
+Fleuve Cendre Ferryman
+Energy Recharge
+3
+°
+Skyward Blade
+Energy Recharge
+4
+°
+Sacrificial Sword
+Energy Recharge
+Traveler Hydro
+Best Artifact Set
+Instructor
+2 Pc
+:
+Increases Elemental Mastery by 80.
+4 Pc
+:
+Upon triggering an Elemental Reaction, increases all party members' Elemental Mastery by 120 for 8s.
+Artifacts Main Stats
+Sands
+:
+ATK % / ER %
+Goblet
+:
+Hydro Bonus
+Circlet
+:
+Crit Rate / Crit Damage
+Artifacts Substats
+Crit Rate
+Crit Damage
+ATK %
+Energy Recharge
+Other Artifacts Sets
+2
+°
+4x
+Noblesse Oblige
+3
+°
+4x
+Tenacity of the Millelith
+Traveler Hydro
+Talent Priority
+1
+°
+Elemental Skill
+2
+°
+Elemental Burst
+Traveler Hydro
+Best Teams
+Time #
+1
+Main DPS
+Support
+Support
+Support
+Ganyu
+Shenhe
+Traveler
+Venti
+Time #
+2
+Main DPS
+Support
+Support
+Support
+Ayaka
+Diona
+Traveler
+Kazuha
+Traveler Hydro
+Ascension Costs
+Cost
+5
+→
+6
+120
+K
+Brilliant Diamond Gemstone
+6
+Windwheel Aster
+60
+Ominous Mask
+24
+Traveler Hydro
+Talents Costs
+Cost
+9
+→
+10
+700
+K
+Philosophies of Order
+16
+Xenochromatic Crystal
+12
+Worldspan Fern
+2
+Crown of Insight
+1
+Traveler Hydro
+Talents
+Normal Attack
+Foreign Stream
+Normal Attack
+Performs up to 5 rapid strikes.
+Charged Attack
+Consumes a certain amount of Stamina to unleash 2 rapid sword strikes.
+Plunging Attack
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Elemental Skill
+Aquacrest Saber
+Unleashes a torrent that can cleanse the world.
+Press
+Sends a Torrent Surge forward that will deal
+Hydro DMG
+to opponents it comes into contact with.
+Hold
+Enter Aiming Mode and constantly fire off Dewdrops in the direction in which you are aiming, dealing
+Hydro DMG
+to opponents they hit.
+When the skill ends, it will send a Torrent Surge forward that will deal
+Hydro DMG
+to opponents it comes into contact with.
+Suffusion: When using the Hold configuration of this skill, if the Traveler's HP is higher than 50%, the DMG dealt by Dewdrops will increase based on the Traveler's Max HP, and the Traveler will lose a fixed amount of HP every second.
+Arkhe: Pneuma
+At certain intervals, after using Torrent Surge, this skill will unleash a Spiritbreath Thorn that pierces opponents, dealing Pneuma-aligned
+Hydro DMG
+.
+You studied the ripples in the water with Paimon.
+Elemental Burst
+Rising Waters
+Unleashes a slow-moving floating bubble that deals continuous
+Hydro DMG
+to nearby opponents.
+You studied the ebb and flow of the tides with Paimon.
+Traveler Hydro
+Passives
+Passive
+1
+Spotless Waters
+After the Dewdrop fired by the Hold Mode of the
+Aquacrest Saber
+hits an opponent, a Sourcewater Droplet will be generated near to the Traveler. If the Traveler picks it up, they will restore 7% HP.
+1 Droplet can be created this way every second, and each use of Aquacrest Saber can create 4 Droplets at most.
+Passive
+2
+Clear Waters
+If HP has been consumed via Suffusion while using the Hold Mode
+Aquacrest Saber
+, the Torrent Surge at the skill's end will deal Bonus DMG equal to 45% of the total HP the Traveler has consumed in this skill use via Suffusion.
+The maximum DMG Bonus that can be gained this way is 5,000.
+Traveler Hydro
+Constellations
+C
+1
+Swelling Lake
+Picking up a Sourcewater Droplet will restore 2 Energy to the Traveler.
+Requires the Passive Talent
+"Spotless Waters."
+C
+2
+Trickling Purity
+The Movement SPD of
+Rising Waters
+' bubble will be decreased by 30%, and its duration increased by 3s.
+C
+3
+Turbulent Ripples
+Increases the Level of
+Aquacrest Saber
+by 3.
+Maximum upgrade level is 15.
+C
+4
+Pouring Descent
+When using
+Aquacrest Saber
+, an Aquacrest Aegis that can absorb 10% of the Traveler's Max HP in DMG will be created and will absorb
+Hydro DMG
+with 250% effectiveness. It will persist until the Traveler finishes using the skill.
+Once every 2s, after a Dewdrop hits an opponent, if the Traveler is being protected by Aquacrest Aegis, the DMG Absorption of the Aegis will be restored to 10% of the Traveler's Max HP. If the Traveler is not presently being protected by an Aegis, one will be redeployed.
+C
+5
+Churning Whirlpool
+Increases the Level of
+Rising Waters
+by 3.
+Maximum upgrade level is 15.
+C
+6
+Tides of Justice
+When the Traveler picks up a Sourcewater Droplet, they will restore HP to a nearby party member with the lowest remaining HP percentage based on 6% of said member's Max HP.

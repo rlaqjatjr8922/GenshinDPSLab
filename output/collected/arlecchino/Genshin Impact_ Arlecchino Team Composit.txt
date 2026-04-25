@@ -1,0 +1,212 @@
+Genshin Impact: Arlecchino Team Composition Guide
+By
+Elara Leclair
+Published
+Apr 23, 2024, 10:05 PM EDT
+Elara is a passionate List Writer and avid gamer. She loves writing about rpg, simulation, casual co-op games as well as tech and anime. Her current favourite games are Genshin Impact and Honkai: Star Rail.
+Add Us On
+follow
+Follow
+followed
+Followed
+Like
+Like
+Log in
+Here is a fact-based summary of the story contents:
+Try something different:
+Show me the facts
+Explain it like I’m 5
+Give me a lighthearted recap
+Arlecchino
+Pyro
+Polearm
+Fontaine
+Guides
+Ascension
+Builds
+Weapons
+Team Comp
+Constellation
+Player Mistakes
+Back to All Characters
+Arlecchino
+, also known as the Knave or the Father, is one of the long-anticipated characters joining the roster of playable characters in
+Genshin Impact
+. As a new Pyro character focusing on
+being the main DPS of the team
+, the other characters typically need to be more support-oriented, either to boost Arlecchino's DPS or to enable certain Elemental Reactions.
+Related
+Genshin Impact: Best Lyney Build Guide
+Lyney is the first 5-star character from Fontaine, but he’s certainly not the first unit who wields a Bow and have a Pyro Vision at the same time.
+Posts
+By
+Nahda Nabiilah
+Interestingly, while the HP drain and gain mechanic has been prominent in the Fontaine arc, Arlecchino introduces a different mechanic revolving around the Bond of Life. This mechanic, previously
+only a debuff applied by Fatui Operatives
+, can now be applied by Arlecchino herself. It boosts her damage and infuses her Normal Attacks with Pyro, and it can only be healed by her own Elemental Burst. As a result, her team compositions won't typically include healer characters, though some of her best synergizing members still provide healing. Depending on players' preferences, Vaporize, Overloaded, or Mono Pyro team compositions will best suit her playstyle.
+Arlecchino + Yelan + Bennett + Zhongli
+Team Roles
+Arlecchino:
+Main DPS, Pyro-Enabler.
+Yelan:
+Hydro-Enabler, Sub-DPS
+Bennett:
+Healer, buffer, battery
+Zhongli:
+Shielder, debuffer, buffer (with Tenacity of the Millelith)
+As with most Pyro characters, Arlecchino greatly benefits from Vaporize reactions and has excellent synergy with strong off-field Hydro Enablers like
+Yelan
+. Arlecchino primarily focuses on Normal Attacks at a suitable Pyro application speed. For those without access to
+Yelan, characters like Xingqiu
+or Furina can still be considered. However, since Arlecchino cannot be healed by other characters, Xingqiu's minor healing may not be very helpful, though his damage reduction can still be useful. Yelan, on the other hand, has higher damage modifiers than Xingqiu, benefiting the team's overall damage output.
+Furina's synergy with Arlecchino is also not optimal, as
+Furina
+drains HP from the team, which conflicts with Arlecchino's Bond of Life mechanic. Nevertheless, pairing Furina with Bennett, who can heal the rest of the party members, can still make it work while having consistent Hydro application. Bennett is one of the best characters to pair with Arlecchino in most team compositions, as he significantly boosts Arlecchino's ATK, which scales with her damage multipliers. Additionally, Bennett provides Pyro resonance and more energy particles. Players with C6 Bennett can perfectly utilize him with Arlecchino, as she does not have any drawbacks for added Pyro infusion while in Bennett's Elemental Burst field.
+Related
+13 Best Battery In Genshin Impact
+Players looking for a great Battery character in Genshin Impact need not look further than these ideal characters.
+Posts
+By
+Nahda Nabiilah
+Lastly, Zhongli serves as a good option to mitigate added damage from Arlecchino, although he cannot heal her directly. Zhongli can reduce the resistance of opponents and provide additional buffs to the team with artifact sets like Tenacity of the Millelith. As such, if the field is set up for her by utilizing the other team members' kit before swapping to Arlecchino, she can remain on the field for extended duration of times, and deal significant DMG.
+Arlecchino + Yae Miko + Fischl + Chevreuse
+Team Roles
+Arlecchino:
+Main DPS, Pyro-Enabler.
+Yae Miko:
+Sub-DPS, Electro Enabler
+Fischl:
+Sub-DPS, Electro Enabler, Battery
+Chevreuse:
+Buffer (Pyro, Electro and Overloaded Reactions), Healer
+For players interested in trying out optimal but different team compositions than the popular Vaporize reactions for Pyro characters, the Overloaded team can be quite fun to experiment with, especially with access to
+Chevreuse
+at high constellations. While this team composition is more limited, as
+it can only consist of Pyro
+and Electro characters, with Chevreuse and Arlecchino occupying the Pyro slots, players have several Electro characters to choose from based on their preferences and availability.
+For those seeking strong sub-DPS options that do not take much on-field time with long off-field skill durations,
+Yae Miko
+pairs well with characters like Fischl
+. Alternatively, players can swap either of these characters with
+Raiden Shogun
+or
+Beidou
+, depending on their preferences. It's worth noting that if players have
+Chevreuse at her sixth constellation
+, the party limitation becomes negligible, as she functions similarly to
+Kaedehara Kazuha
+for Pyro or Electro elements specifically. This allows for another reaction to be enabled instead of Overloaded, opening up more flexibility in team composition.
+Arlecchino + Xiangling + Bennett + Kazuha
+Team Roles
+Arlecchino
+:
+Main DPS, Pyro-Enabler.
+Xiangling
+:
+Sub-DPS, Pyro-Enabler
+Bennett
+:
+Healer, buffer, battery
+Kaedehara Kazuha
+:
+Buffer, debuffer (Viridescent Venerer), Crowd Control, Swirl-enabler
+While not as high in DPS output as reaction-based team compositions for Arlecchino, a mono-Pyro setup with a well-invested Xiangling or Kazuha can be quite competitive. This is because, Arlecchino doesn't require Elemental Mastery or
+specific elemental reactions to boost her damage
+, as her self-buffs are related to her normal attacks and Pyro damage.
+In this team composition, Bennett serves as the primary support for Arlecchino, for same reasons to his utility in the Vaporize team. Kazuha complements this setup by further enhancing Pyro damage and reducing enemy Elemental Resistance with the Viridescent Venerer artifact set, ensuring consistent Pyro applications on enemies. For the last slot, Xiangling excels as a sub-DPS option, leveraging her high DPS potential with her Elemental Burst. Bennett's role as a battery character also helps mitigate Xiangling's energy requirements, ensuring consistent Burst uptime.
+Players without access to Kazuha can substitute him with Sucrose, especially against fewer weak monsters. This allows Arlecchino to fit into a more F2P-oriented team composition, with all other characters being 4-star characters easily obtained, some of which are even obtainable without relying on Gacha.
+8
+/10
+Genshin Impact
+Like
+Follow
+Followed
+RPG
+Action
+Adventure
+Gacha
+Open-World
+Systems
+OpenCritic Reviews
+Top Critic Avg:
+81
+/100
+Critics Rec:
+87%
+Released
+September 28, 2020
+ESRB
+Teen / Alcohol Reference, Fantasy Violence, In-Game Purchases (Includes Random Items), Users Interact
+Developer(s)
+HoYoverse (Formerly miHoYo)
+Publisher(s)
+HoYoverse (Formerly miHoYo)
+6 Images
+Close
+Where to play
+Close
+WHERE TO PLAY
+SUBSCRIPTION
+DIGITAL
+Step into Teyvat, a vast world teeming with life and flowing with elemental energy.
+You and your sibling arrived here from another world. Separated by an unknown god, stripped of your powers, and cast into a deep slumber, you now awake to a world very different from when you first arrived.
+Thus begins your journey across Teyvat to seek answers from The Seven — the gods of each element. Along the way, prepare to explore every inch of this wondrous world, join forces with a diverse range of characters, and unravel the countless mysteries that Teyvat holds...
+MASSIVE OPEN WORLD
+Climb any mountain, swim across any river, and glide over the world below, taking in the jaw-dropping scenery each step of the way. And if you stop to investigate a wandering Seelie or strange mechanism, who knows what you might discover?
+ELEMENTAL COMBAT SYSTEM
+Harness the seven elements to unleash elemental reactions. Anemo, Electro, Hydro, Pyro, Cryo, Dendro, and Geo interact in all sorts of ways, and Vision wielders have the power to turn this to their advantage.
+Will you vaporize Hydro with Pyro, electro-charge it with Electro, or freeze it with Cryo? Your mastery of the elements will give you the upper hand in battle and exploration.
+BEAUTIFUL VISUALS
+Feast your eyes on the world around you, with a stunning art style, real-time rendering, and finely tuned character animations delivering you a truly immersive visual experience. Lighting and weather all change naturally over time, bringing every detail of this world to life.
+SOOTHING SOUNDTRACK
+Let the beautiful sounds of Teyvat draw you in as you explore the expansive world around you. Performed by the London Philharmonic Orchestra, the soundtrack changes seamlessly with the time and gameplay to match the mood.
+BUILD YOUR DREAM TEAM
+Team up with a diverse cast of characters in Teyvat, each with their own unique personalities, stories, and abilities. Discover your favorite party combinations and level up your characters to help you conquer even the most daunting of enemies and domains.
+JOURNEY WITH FRIENDS
+Team up with friends across various platforms to trigger more elemental action, tackle tricky boss fights, and conquer challenging domains together to reap rich rewards.
+As you stand atop the peaks of Jueyun Karst and take in the rolling clouds and vast terrain stretching out before you, you may wish to stay in Teyvat a little longer... But until you are reunited with your lost sibling, how can you rest? Go forth, Traveler, and begin your adventure!
+Genre(s)
+RPG
+,
+Action
+,
+Adventure
+, Gacha,
+Open-World
+Powered by
+Expand
+Collapse
+Video Games
+Genshin Impact
+miHoYo
+Follow
+Followed
+Like
+Share
+Facebook
+X
+WhatsApp
+Threads
+Bluesky
+LinkedIn
+Reddit
+Flipboard
+Copy link
+Email
+Close
+Poll
+POLL
+Which recently released Nintendo cozy game do you prefer?
+Pokemon Pokopia
+Pokemon Pokopia
+56.7%
+Tomodachi Life: Living the Dream
+Tomodachi Life: Living the Dream
+43.3%
+See Results
+Submit
+Trending Now
+Every 11 Bit Studios Game in Development (April 2026)
+8:15
+Black Flag Resynced: Everything Ubisoft is Getting Right
+Say Hello To The 5 Best Open-World Games You've Never Heard Of

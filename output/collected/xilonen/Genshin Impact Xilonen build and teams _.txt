@@ -1,0 +1,118 @@
+Home
+Guides
+Genshin Impact
+Genshin Impact Xilonen build and teams
+The best weapons and Artifacts for Natlan's 5-star support character
+Image credit:
+HoYoverse
+Guide
+by
+Josh Broadwell
+Contributor
+Published on
+April 18, 2025
+0 comments
+Follow Genshin Impact
+The best
+Genshin Impact
+Xilonen build
+depends on what role you want this excellent 5-star support character to play – and whether you get her signature weapon. Xilonen's kit scales on defense, which is unusual for a sword-wielding character and limits the number of weapons that work well with her abilities. Still, you can make up for what she might not get from her weapon with a good set of Artifact stats.
+Our Genshin Impact Xilonen build guide breaks down her best weapons and Artifacts and ends with some Xilonen team recommendations as well.
+Genshin Impact Xilonen build
+Xilonen weapons
+Xilonen Artifacts
+Xilonen stats
+Xilonen teams
+What tier is Xilonen in Genshin Impact?
+Genshin Impact Xilonen weapons
+Xilonen's signature weapon is
+Peak Patrol Song
+, a sword with defense as its secondary stat and a passive called Ode to Flowers that gives the user an eight percent defense increase and a 10 percent all-element damage boost when a normal or plunging attack lands. Ode to Flowers can stack twice, and when Xilonen has two stacks of it, she grants the party an elemental damage buff of eight percent for every 1,000 defense she has, for a maximum of 25 percent.
+The next choice is Xilonen's best, as you can craft it with the right Natlan blueprint –
+Flute of Ezpitzal
+. It also has defense as its secondary stat, and when the wearer uses their elemental skill, which Xilonen does to activate her resistance-reducing ability, they gain 16/32 percent more defense for 15 seconds. That'll help Xilonent's skill deal more damage and burst heal more HP.
+Image credit:
+HoYoverse
+If you don't want that or find that you need Xilonen's burst activating more often, consider using the
+Favonius Sword
+to increase Xilonen's energy recharge and help her generate more particles.
+Prototype Rancour
+, another craftable 4-star sword, is a useful choice for those who aren't in Natlan yet. It increases physical damage, which doesn't matter for Xilonen, but it also gives the user a four/eight percent defense buff when they land a normal or charged attack, and the effect stacks four times.
+If you have the Freedom-Sworn Sword and want to use Xilonen to help buff the rest of the party while she debuffs enemies, the two work well together. She benefits little from its elemental mastery buff, but its secondary effect grants a Sigil of Rebellion when the user triggers an elemental reaction. Collecting two sigils increases the party's attack by 20 percent for 12 seconds, though there's an eight-second cooldown after the effect ends before you can generate sigils again.
+Genshin Impact Xilonen Artifacts
+Xilonen has two possible Artifact sets depending on what you need from her stats. If you're using a weapon that buffs defense or roll Artifacts with defense stats, Scroll of the Hero of Cinder City is definitely the more useful choice.
+Two-piece effect: Regenerates six energy when a party member triggers a Nightsoul Burst
+Four-piece effect: When the wearer triggers an elemental reaction, all party members get a 12 percent elemental damage buff for the elements involved in that reaction. If the wearer is in the Nightsoul's Blessing state when the effect activates, the party gains an additional 28 percent elemental damage buff for the elements involved in that reaction.
+Image credit:
+HoYoverse
+If you need to raise Xilonen's defense more, Husk of Opulent Dreams is one set that'll help with that and give her a handy Geo damage boost as well.
+Two-piece effect: Increases defense by 30 percent
+Four-piece effect: The wearer gains Curiosity stacks when attacking enemies or while off-field. Each stack increases grants a six percent defense buff and a six percent geo damage buff, and the effect stacks four times
+Genshin Impact Xilonen stats
+Xilonen needs high defense if you're using her signature weapon – 3,200 to get the weapon's strongest buff. Her skill damage also scales on defense, though the elemental resistance reduction she inflicts on enemies is static. It won't change regardless of her defense. Xilonen shouldn't be your party's damage dealer, but given how high her skill damage scaling is, it's still helpful to bump the stat up a fair bit.
+Image credit:
+HoYoverse
+Xilonen's burst heals the party for an amount that scales on defense as well – 281 percent of her defense at level one and 187 percent at level 10. If your Xilonen had 2,000 defense, then at burst level 10, she'd heal roughly 3,700 HP per second while her burst was active. That's not a small amount, though if you're running her in an HP-based team with someone like Neuvillette, Furina, or Arlechino, you might want to aim higher.
+So, with her signature weapon, she needs 3,200 defense to get the buff's full effect. Without it, Xilonen benefits from defense at 2,000 or higher.
+Flower: HP
+Feather: Attack
+Sands: Defense or energy recharge
+Goblet: Defense or Geo damage
+Circlet: Healing bonus
+Genshin Impact Xilonen teams
+Xilonen's big draw is that she lowers enemy elemental resistances based on your party's elemental composition. She starts with three sound samplers that are all attuned to Geo, and they change depending on if she has Pyro, Hydro, Electro, or Cryo characters in her team. For example, if she had Navia or Noelle, then Bennett and Furina, Xilonen would keep one Geo sampler, then have a Pyro and a Hydro sampler as well, reducing enemy resistance to all three elements.
+Image credit:
+HoYoverse
+Ideally, you want at least two characters who aren't Anemo, Geo, or Dendro in Xilonen's team, as her second passive talent lets her regain Nightsoul Points when two or more samplers change and she lands normal attacks. Gaining Nightsoul Points helps her skill – and its debuffs – stay active for longer.
+Xilonen Geo team
+Xilonen
+Navia
+,
+Chiori
+,
+Noelle
+,
+Albedo
+, or
+Itto
+Furina or another damage support
+Bennett
+or
+Xiangling
+Xilonen hyperbloom team:
+Xilonen
+Nahida
+,
+Collei
+,
+Alhaitham
+, or
+Yaoyao
+Fischl,
+Raiden Shogun
+, Keqing, or
+Yae Miko
+Second Dendro or Electro support
+Xilonen Hydro team:
+This one's a popular choice for folks who have Furina.
+Xilonen
+Neuvillette
+Furina
+Zhongli
+or Anemo support for further Hydro elemental resistance reduction
+Image credit:
+HoYoverse
+Xilonen Natlan team:
+This is a premium team, but Xilonen works well with even just one of these Natlan folks.
+Xilonen
+Mavuika
+Kinich
+Mualani
+What tier is Xilonen in Genshin Impact?
+Xilonen is easily one of the best supports in Genshin Impact, one who can reduce multiple resistance types without having to rely on specific elemental reactions. She's a capable healer as well, which frees up space in your party for another support or a sub-DPS.
+Unlike some 5-star characters, Xilonen works perfectly well right out of the box, so to speak. She's easy to build and only has demanding stat requirements if you use her signature weapon. That weapon is nice, but far from mandatory, and she makes excellent use of Natlan's craftable sword. She sits comfortably at the high end of our S-tier as a result.
+If you're saving up Primogems and materials for future
+Genshin Impact banners,
+check out our up-do-date list of
+Genshin Impact codes
+for some free Primogems.

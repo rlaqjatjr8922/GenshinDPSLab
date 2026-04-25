@@ -1,0 +1,251 @@
+Home
+Blog
+Genshin Impact Hub
+Genshin Impact Diluc Builds, Weapons & Team Comps!
+Genshin Impact Diluc Builds, Weapons & Team Comps!
+Daniel Mitchell
+Mar 30, 2026
+Share
+Diluc is a 5-star Pyro claymore character who functions as an on-field Main DPS. His kit revolves around dealing pyro damage using a mix of his normal attacks, skills, and elemental burst. This
+Diluc build guide
+covers his complete build optimization, covering his talent priorities, recommended weapons and artifacts, the best team compositions, and his constellation value analysis.
+🔥 Bonus Tip:
+For exclusive discounts on your next
+Genshin top up
+, visit
+Lootbar.gg
+!
+Secure Your Gaming Top-Up with Smart Savings on LootBar
+Premium Top-Up Service Tailored for Your Game.
+3-Minute Delivery for Non-Stop Gaming.
+Trusted 4.9/5 on Trustpilot, 10/10 among Players.
+Official Partnership Route, Protect Your Game Wallet.
+Top Up With Discount Now!
+Diluc Character Profile
+Diluc Information
+Character Information
+Diluc
+Rarity
+★ ★ ★ ★ ★
+Element
+Pyro
+Weapon
+Claymore
+Progression Bonus
+CRIT Rate +19.2%
+Combat Role
+Main DPS
+Diluc Gameplay
+Diluc’s gameplay revolves around dealing sustained Pyro damage through his Normal Attacks, Elemental Skill, and Elemental Burst. His
+Normal Attack
+chain consists of four hits with solid multipliers, and his
+Elemental Skill
+allows him to perform up to three consecutive forward slashes. By using this Skill immediately after performing two Normal attacks, you are able to cancel the normal attack animation, leading to more damage over time.
+Diluc’s
+Elemental Burst
+summons a phoenix that travels forward, dealing large AoE Pyro damage. It can launch smaller enemies and hit them multiple times during its travel, though bosses and heavier enemies will only be struck about two to three times due to their resistance to knockback. More importantly, casting his Burst grants Diluc a Pyro infusion, allowing his Normal Attacks to deal Pyro damage for a duration—one of the core aspects of maximizing his overall DPS.
+Diluc Talent Priority
+No matter which team, his Talent Priority stays pretty much the same.
+Talent
+Recomended Level
+Normal Attack
+10
+Elemental Skill
+9+
+Elemental Burst
+8+
+Normal Attack - Tempered Sword
+Level up his Normal Attack first, as it’s by far the most important talents in both his Plunge playstyle as well as his non-plunge teams. Since you will always be using his normal attacks during his field time, leveling this talent has the most consistent value.
+Elemental Skill - Searing Onslaught
+Level his Elemental skill next, as it plays a huge part in non-plunge teams. By timing your skill properly, you can cancel the animation of your normal attacks, resulting in higher damage
+Elemental Burst – Dawn
+Level his Elemental Burst last, even though it does contribute towards Diluc's total Damage, the initial burst hit can be a bit inconsistent with bigger enemies. What matters is that upon casting his elemental burst, Diluc’s normal attacks gain Pyro infusion, so level his normal attack talent first.
+Diluc Best Weapons
+Diluc prioritize stats like ATK, Crit, EM, and Elemental Damage Bonus. And the following are some viable options.
+1
+A Thousand Blazing Suns
+(5★)
+Base ATK
+: 741
+Bonus Stat
+: Crit Rate +11.0%
+Weapon Effect
+(R1): Gain the "Scorching Brilliance" effect when using an Elemental Skill or Burst: CRIT DMG increased by 20% and ATK increased by 28% for 6s. This effect can trigger once every 10s.
+While a "Scorching Brilliance" instance is active, its duration is increased by 2s after Normal or Charged attacks deal Elemental DMG. This effect can trigger once every second, and the max duration increase is 6s.
+Additionally, when the equipping character is in the Nightsoul's Blessing state, "Scorching Brilliance" effects are increased by 75%, and its duration will not count down when the equipping character is off-field.
+2
+Beacon of the Reed Sea
+(5★)
+Base ATK
+: 608
+Bonus Stat
+: CRIT Rate +33.1%
+Weapon Effect
+(R1): After the character's Elemental Skill hits an opponent, their ATK will be increased by 20% for 8s. After the character takes DMG, their ATK will be increased by 20% for 8s. The 2 aforementioned effects can be triggered even when the character is not on the field. Additionally, when not protected by a shield, the character's Max HP will be increased by 32%.
+3
+Wolf's Gravestone
+(5★)
+Base ATK
+: 608
+Bonus Stat
+: ATK +49.6%
+Weapon Effect
+(R1): Increases ATK by 20%. On hit, attacks against enemies with less than 30% HP increases all party members' ATK by 40% for 12s. Can only occur once every 30s.
+4-Star Weapons
+1
+Fruitful Hook
+(4★)
+Base ATK
+: 565
+Bonus Stat
+: ATK +27.6%
+Weapon Effect
+(R5): Increase Plunging Attack CRIT Rate by 32% ; After a Plunging Attack hits an opponent, Normal, Charged, and Plunging Attack DMG increased by 32% for 10s.
+2
+Serpent Spine
+(4★)
+Base ATK
+: 510
+Bonus Stat
+: CRIT Rate +27.6%
+Weapon Effect
+(R5): Every 4s a character is on the field, they will deal 10% more DMG and take 2% more DMG. This effect has a maximum of 5 stacks and will not be reset if the character leaves the field, but will be reduced by 1 stack when the character takes DMG.
+3
+Tidal Shadow
+(4★)
+Base ATK
+: 510
+Bonus Stat
+: ATK+41.3%
+Weapon Effect
+(R5): After the wielder is healed, ATK will be increased by 48% for 8s. This can be triggered even when the character is not on the field.
+Diluc Best Artifacts & Stats
+When it comes to artifacts,
+Crimson Witch of Flames
+(4-piece) is widely regarded as Diluc’s best set for regular main dps builds, as it buffs his Pyro damage as well as his Pyro reactions. However, when played with Furina, Diluc is able to fully utilize
+Marechaussee
+Hunter
+(4-piece), which essentially gives him +36% Crit Rate extra, making artifact building more flexible. In Plunge teams however, you can go with the rather new
+Long Night’s Oath
+(4-piece), which heavily buffs your Plunge attacks. Overall, you can be quite flexible with his Artifact set, as long as you pay attention to the stats
+Option 1
+Crimson Witch of Flames
+2-PC
+: Pyro DMG Bonus +15%
+4-PC
+: Increases Overloaded, Burning, and Burgeon DMG by 40%. Increases Vaporize and Melt DMG by 15%. Using Elemental Skill increases the 2-Piece Set Bonus by 50% of its starting value for 10s. Max 3 stacks.
+Option 2
+Marechaussee Hunter
+2-PC
+: Normal and Charged Attack DMG +15%.
+4-PC
+: When current HP increases or decreases, CRIT Rate will be increased by 12% for 5s. Max 3 stacks.
+Option 3
+Long Night’s Oath
+2-PC
+: Plunging Attack DMG increased by 25%.
+4-PC
+: After the equipping character's Plunging Attack/Charged Attack/Elemental Skill hits an opponent, they will gain 1/2/2 stack(s) of "Radiance Everlasting." Plunging Attacks, Charged Attacks, or Elemental Skills can each trigger this effect once every 1s. Radiance Everlasting: Plunging Attacks deal 15% increased DMG for 6s. Max 5 stacks. Each stack's duration is counted independently.
+Main Stat
+Sands: ATK%
+Goblet: Pyro DMG Bonus
+Circlet: CRIT Rate or CRIT DMG
+Sub Stat
+CRIT Rate & CRIT DMG > ATK% > others
+Diluc Best Team Compositions
+Diluc's damage revolves around triggering Vape or Melt reactions, rather than focusing on his raw Pyro damage. Thus, you will always see him with some Cryo or Hydro character.
+1. Diluc Vape Teams
+In a regular Vape team, Diluc is able to use the applied hydro aura to increase his damage by a decent amount. You will often see him paired with other support characters, which buff him and the whole team.
+Notes:
+Your Vape teams will consist of Diluc, who is your main damage dealer
+Hydro Sub dps/support (Xingqiu, Furina, Yelan), who applies Hydro for Diluc to vape and additionally buffs Diluc or deals DMG themself
+Support who can shred resistance (Xilonen, Kazuha, Sucrose) to increase Diluc’s damage even more
+ATK support for Diluc (almost always Bennett)
+Main DPS
+Hydro Enabler
+Support
+Diluc
+Yelan
+Kazuha
+Bennett
+Diluc
+Furina
+Xilonen
+Bennett
+Diluc
+Xingqiu
+Sucrose
+Bennett
+2. Diluc Melt Teams
+Melt teams are similar to Vape teams, the difference being that you want to have a Cryo character instead of a Hydro character this time around. While his Melt playstyle does deal more damage than the Vape playstyle, applying Cryo is often times harder than applying Hydro.
+Notes:
+Your Melt teams will consist of Diluc,
+A Cryo Sub dps/support (Diona, Citlali, Rosaria, Kaeya, Charlotte), enabling Diluc to melt
+Support who can shred resistance (Xilonen, Kazuha, Sucrose) OR another Cryo enabler for more melts, since Cryo application is often times worse than Hydro application
+ATK support for Diluc (almost always Bennett)
+Main DPS
+Cyro Enabler
+Support
+Diluc
+Citlali
+Xilonen
+Bennett
+Diluc
+Kaeya
+Kazuha
+Bennett
+Diluc
+Rosaria
+Sucrose
+Bennett
+3. Diluc Plunge Teams
+With
+Xianyun’s
+release in Version 4.4, Diluc received a new Playstyle, which can combine earlier
+Melt
+and
+Vape
+Strategies with Diluc’s high multiplier
+plunge
+attacks, unlocking Diluc’s full potential.
+Notes:
+Your Diluc Plunge teams will consist of Diluc.
+Xianyun to enable the Plunge playstyle
+Hydro or Cryo support (
+Furina, Citlali, Candace, Xingqiu, Yelan
+) to enable reactions
+Bennett (Support), Bennett should be C6 to infuse Diluc’s plunges without Diluc requiring using his burst
+Main DPS
+Sub DPS/Support
+Support
+Diluc
+Citlali
+Xianyun
+Bennett
+Diluc
+Furina
+Xianyun
+Bennett
+Diluc
+Yelan
+Xianyun
+Bennett
+Diluc Constellations
+As a standard banner character, Diluc’s Constellations are not really something you can wish for, but while his Constellations do increase his damage, the increase is quite small overall.
+Constellation 1
+His C1 simply increases the Damage dealt by Diluc to enemies with below half health by a small amount. This is something nice to have, but the effect also only applies to around 50% of the fight.
+Constellation 2
+It basically is another decent buff to Diluc’s Damage, as you gain up to 30% Attack just from taking Damage. Honestly, it isn’t worth intentionally getting hit to trigger its effect, but it makes it less punishing when the enemy boss pushes you around.
+Constellation 4
+While it sounds good on paper, trying to trigger its effect can have a negative impact on your total damage, as you don’t want to directly use your skill two times in a row, since its main use is to cancel your normal attack animation.
+Constellation 6
+Actually, a surprisingly good constellation, as it buffs your normal attacks by a very decent amount after casting your skill. Since you usually want to perform a skill between two normal attacks anyway, this constellation simply results in more damage without any consequences.
+Conclusion
+This comprehensive guide showed that even though Diluc is one of the oldest characters in the game, he still remains viable and offers certain flexibility. You have the option between his regular on-field playstyle, where he can unleash many fun combinations between his normal attacks and skills, or go with the plunge route, where you cannot only jump high, but also deal high damage.
+To fully unlock Diluc's potential and enhance your overall team power, consider
+topping up Genshin Impact
+resources through reliable top-up services to acquire the in-game currency needed for upgrades, weapons, and essential gear, ensuring that Diluc and your other characters are ready for any challenge.
+Top Up With Discount Now!
+Daniel Mitchell
+Gaming writer
+Daniel Mitchell is an accomplished American gaming writer and RPG enthusiast, currently serving as the Lead Editor of LootBar’s Genshin Impact Walkthrough Team. With dual degrees in English Literature, he blends his expertise in literary analysis with extensive knowledge of the gaming industry.

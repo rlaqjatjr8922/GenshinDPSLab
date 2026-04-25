@@ -1,0 +1,191 @@
+Xiangling Best Guide: Weapon, Artifacts, Teams In-Depth Guide - Genshin Impact
+By
+KoeniginYU
+Last updated:
+3 April 2024
+0
+Xiangling is a 4-star polearm-wielding Pyro character, primarily designed as a sub-DPS (secondary damage dealer). Her main source of damage output comes from her Elemental Burst, which offers substantial damage. She can remain on the field even after using her Burst, allowing her to continue dealing damage. Xiangling's Pyronado and Guoba Attack have a relatively balanced Pyro application rate, neither too slow nor too fast. She performs well both in applying damage-boosting reactions on her own and working with a main DPS character.
+This guide will go through her talents, constellations, weapon and artifact recommendations, and team compositions.
+Contents
+Xiangling Build Guide
+Character Introduction
+Skills and Talent Introduction
+Constellations Overview
+Best Weapon
+Best Artifacts
+Best Team
+Xiangling Build Guide
+Regarding her constellations, most of them provide substantial improvements, enhancing her performance and increasing her damage output. When it comes to weapon selection, she is quite versatile and can make good use of various options depending on what you have.
+However, there is a noticeable drawback to Xiangling, which is her energy recharge. As a sub-DPS character heavily reliant on her Elemental Burst, her Elemental Skill (Guoba Attack) generates only four energy particles, with a 12-second cooldown. Generating four particles every 12 seconds is not enough, especially since they are produced one by one. Xiangling requires approximately 7 seconds to gather all four particles if she stays on the field the entire time, which is not very practical.
+This is why Xiangling usually accumulates a significant amount of energy recharge, often accompanied by a support character like Bennett to assist with energy regeneration (and Bennett's role goes beyond energy support, which will be discussed later). So, if you plan to include Xiangling in your team, it's not just about dedicating one team slot to her; it's more like two.
+Character Introduction
+Name
+: Xiangling
+Birthday
+: November 2nd.
+Rarity
+:
+⭐⭐⭐⭐
+Element
+: Pyro 🔥
+Weapon
+: Polearm
+Role Ranking
+: Main Support
+First Release
+: Version 1.0
+Skills and Talent Introduction
+Normal Attack
+Xiangling's normal attack consists of 5 hits. Compared to other melee characters, Xiangling's normal attack speed is relatively fast. The final hit of her normal attack combo has a knockback effect.
+After reaching the second phase of her Elemental Burst, the final hit of her normal attack combo will apply the "Breathe In" effect to enemies for two seconds. When this effect ends, it triggers an explosion, dealing 20% Pyro damage to surrounding enemies.
+Xiangling's charged attack starts with an initial multiplier as high as 144%. Upon upgrading her talents to level 3, it reaches 168%. At talent level 9, it can reach an impressive 265%. This charged attack is Xiangling's primary method for physical damage output
+Elemental Skill
+Xiangling's elemental skill, Guoba, releases bursts of fire within a certain radius to apply Pyro status to enemies. Guoba remains on the field for six seconds, emitting fire bursts at regular intervals of 1.5 seconds. Furthermore, the skill has a cooldown of six seconds, meaning there's no downtime.
+Once Xiangling reaches Ascension Phase 3, when Guoba's deployment duration ends, it leaves behind a chili pepper at its disappearance location. Picking up the chili pepper grants an 8% increase in attack for 10 seconds.
+Elemental Burst
+Xiangling summons the guiding star to protect you, unleashes the power of the Viceregal banner, deals AoE Geo damage, increases the shield strength of the character, the shield has a 50% damage bonus. At Talent Level 2, the banner has a 100% dmg bonus. This skill has a 20-second cooldown.
+Many players often choose not to level up Xiangling's Elemental Skill (E) or believe it's unnecessary to level it up. I disagree with this approach. First, the damage output of Guoba, Xiangling's Elemental Skill, is comparable to that of Pyronado, her Elemental Burst. When both her E and Q talents are at the same level, Guoba's damage output is slightly higher. Only when both E and Q are leveled up to 13, Pyronado's damage output can match Guoba's. So, we can think of Guoba's four-stage damage as an additional, shorter-duration "second Pyronado" that you can use. This analogy might make it easier for you to understand.
+After releasing her Elemental Burst, Guoba will rotate clockwise (from a top-down perspective) at a moderate speed, dealing high damage and applying Pyro to any enemies it touches. The damage from Guoba has a 0.3-second cooldown for elemental reactions. Utilizing Pyronado in actual combat helps enhance your team's damage per second (DPS) and enables you to trigger various elemental reactions when combined with an on-field character. This is the main gameplay style for Xiangling. Pyronado delivers substantial damage, and even free-to-play players can expect 30,000 to 40,000 damage when Pyronado touches enemies.
+Xiangling's Elemental Burst (Q) is her primary source of damage and the core of her playstyle. I recommend leveling up this talent to its maximum level, making it worthy of a Crown upgrade. As a Pyro support character, Xiangling relies on her substantial damage output and her ability to trigger various elemental reactions. She can easily fit into many team compositions, and from the game's launch to the present day, she continues to maintain the title of "Six-Star War God." Her future looks promising, and investing in her is definitely worthwhile.
+Here you can find more information about the Crown of Insight.
+My recommendation for Xiangling's talent leveling is to prioritize her Elemental Burst (Q) and max it out. Her Elemental Skill (E) is also worth upgrading, but if resources are limited, you can level it partially. There's no need to invest in her normal attacks (basic attacks). If you're a fan of cooking or her character, feel free to level up Xiangling's talents as you like.
+Constellations Overview
+Xiangling's constellations have both personal improvements and some that benefit her team. Here's a summary:
+C1: Crispy Outside Tender Inside
+Provides an additional 15% Fire Resistance reduction except for Pyro characters in the party. It's great for Pyro-focused teams. Additionally, Guoba's intermittent fire can continuously refresh this resistance reduction.
+C2: Oil Meets Fire
+It's relatively underwhelming as Xiangling doesn't typically engage in normal attacks. Her attack power is generally low, and she usually doesn't have a high focus on attack stats, so you can safely ignore this.
+C3: Deepfry
+This is a significant constellation as it raises her Elemental Burst (Q) level to 3. It directly boosts Xiangling's damage output, making it a core constellation for her.
+C4: Slowbake
+This is the most crucial constellation for Xiangling, as it extends the duration of Pyronado by 40%. It drastically improves her overall performance, allowing you to maintain buffs and increasing her overall damage output. Having this constellation ensures a smoother gameplay experience.
+C5: Guoba Mad
+It enhances the damage of Guoba. As Guoba is also a significant source of damage, this is a valuable upgrade.
+C6: Condensed Pyronado
+It provides a 15% Pyro DMG Bonus to the whole team while Pyronado is active. However, it's not as significant as it may seem, especially considering Xiangling's gameplay style. It doesn't directly benefit Xiangling's Pyronado, as she locks the damage values before it's completely cast. So, this constellation mainly benefits specific team compositions and not Xiangling herself.
+Best Weapon
+In selecting a weapon for Xiangling, the primary focus should be on achieving a high critical rate (Crit Rate) and ensuring sufficient Energy Recharge (ER). After meeting these criteria, you can consider various options for her. Xiangling's flexibility allows her to make use of a variety of weapons. Below is a ranking of recommended weapons based on practical gameplay and expected damage output:
+Energy Recharge
+Crit DMG
+Crit Rate
+There are some weapons good for Xiangling.
+Weapon
+Description
+Engulfing Lightning
+The best Five-star weapon
+, provides Energy Recharge and additional ATK desdepending on Xiangling's Energy Recharge
+Obtain: Raiden Shogun Character Event Wish
+Skyward Spine
+The second-best five stars weapon
+for Xiangling. If you got the nice artifacts, this one can help build her as a strong Support.
+Obtain: Normal Wish
+Staff of Homa
+The second-best five stars weapon
+for Xiangling. If you are going to build her as a DPS and Main Support
+Obtain: Hutao's Character Wish
+The Catch
+High Energy recharge. Easy for players to build Xiangling's artifacts.
+Obtain: Event
+Favonius Lance
+The best F2P four-star weapons
+.  It increases Energy Recharge and provides a chance to generate elemental particles when dealing a critical hit. This can help Xiangling generate energy for her burst more frequently.
+Obtain: Wish
+Kitain Cross Spear
+A good F2P four-star weapon
+. It is not the best one. If you don't have a good polearm for Xiangling, use it.
+Obtain: Craft
+Deathmatch
+The Best one of four-star weapons
+a good choice for team compositions that involve crowd control and defeating multiple enemies quickly, as it increases Crit Rate and provides an ATK bonus.
+Obtain: Battle Pass
+Best Artifacts
+Xiangling's energy recharge is important. Whether you are using a full Pyro or mixed element team, Xiangling has a consistent need for high energy recharge. While the desire to trade some energy recharge for more damage can be understood, it's important to ensure that you can maintain at least 200% energy recharge even when replacing energy recharge sands. Therefore, it is advisable to prioritize energy recharge in Xiangling's build to guarantee the uptime of her Elemental Burst.
+The Artifacts stats that we should focus on:
+Crit DMG
+Crit Rate
+Energy Recharge
+Elemental Mastery
+ATK
+Main Stats on the Artifacts
+Sand (ATK)
+Goblet (Cryo DMG)
+Circlet (Crit DMG/Crit Rate)
+Artifact Name
+Details
+Gambler
+2-Piece
+: Increase Elemental skill DMG by 20%
+Obtain
+: Clear Pool and Mountain Cavern, Liyue
+The Exile
+2-Piece:
+Energy Recharge +20%
+4-Piece
+: Using an Elemental Burst regenerates 2 Energy for other party members every 2s for 6s. This effect cannot stack
+Obtain
+: All small bosses in the open world, such as Fatui, Cicin Mage, Abyss Mage, Ruin Guard, Helichurls, etc.
+Emblem Of Severed Fate
+2-Piece:
+Energy Recharge + 20%
+4-Piece
+: Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.
+Obtain
+: Momiji-Dyed Court Domain, Yashiori Island located far West of Inazuma City
+Noblesse Oblige
+2-Piece:
+Elemental Burst DMG +20%
+4-Piece
+: After using an Elemental Burst, all teammates get +20% ATK.
+Obtain
+: Clear Pool & Mountain Cavern, Liyue
+Crimson Witch of Flames
+2-Piece:
+Pyro DMG Bonus +15%
+4-Piece
+: Increases Overloaded, Burning, and Burgeon DMG by 40%. Increases Vaporize and Melt DMG by 15%. After using an Elemental Skill increases 2-Piece Set effects by 50% for 10s. Max 3 stacks.
+Obtain
+: Hidden Palace of Zhou Formula, Liyue
+Best Team
+Xiangling can fit into various team compositions, and it largely depends on the playstyle and elemental reactions you want to focus on. Here are three possible team directions to consider:
+①Melt Composition (Pairing with Pyro)
+DPS
+(Cryo)
+Chongyun / Wriothesley / Ayaka / Eula, etc
+Pyro Support
+(e.g., Xiangling)
+Xiangling can trigger Melt reactions with Cryo.
+Hydro Support
+(e.g., Xingqiu)
+Xingqiu can apply Hydro to enemies, which combines with Cryo for Melt reactions.
+Healer/Support
+(e.g., Barbara or Bennett)
+A healer like Barbara or a support character like Bennett can provide healing and additional utility.
+② Classic Team (With Hydro)
+DPS Childe
+(Hydro)
+Additional Anemo Support
+(Kazuha/ Sucrose/ Venti)
+These characters can provide huge Anemo Aoe
+Xiangling
+Pyro application and damage.
+Healer/Support
+(e.g., Jean or Bennett)
+A character who can heal or provide utility.
+③
+Classic Team 2 (With electro)
+Electro Support
+(Raiden Shogun or Fischel)
+Hydro Support/DPS
+(e.g., Xingqiu, Yelan)
+Hydro characters can trigger Melt reactions
+Pyro Support
+(e.g.,Xiangling)
+Additional Pyro application.
+Healer/Support
+(e.g., Bennett)
+A healer or support character for added utility.
+P.s. Xiangling can be paired with Bennett. Her own Elemental Burst, in combination with two Pyro characters, can easily boost Xiangling's attack from under 1600 to around 2300, which is equivalent to the level of a fully built main DPS. Imagine having a main DPS with fully maxed attack stats who can also ensure high damage boosts and benefit from amplification reactions- Boom, high DMG!
+Good luck!
+Your turn:
+Like, Dislike, comment, or share!
+0

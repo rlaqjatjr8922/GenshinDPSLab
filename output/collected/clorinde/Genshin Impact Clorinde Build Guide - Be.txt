@@ -1,0 +1,297 @@
+Task Search
+Checklists
+Guides
+Markers
+Videos
+Sort and Filter
+No Results
+Checklists
+New Checklist
+All Lists
+My Checklists
+All
+All Lists
+My Checklists
+How creative can you get with your first free checklist?
+Create a free account
+All Interactive Maps and Locations
+Genshin Impact Map
+Genshin Impact Clorinde Build Guide - Best Weapons, Artifacts, and Teams
+By
+Cedric Pabriga
+,
+Jen Rothery
+,
+Triforce
+,
++30 more
+Updated
+:
+Jun 4, 2024 12:43pm UTC
+Clorinde is an Ousia-aligned Electro character from Fontaine, previously Furina’s bodyguard and the undefeated Champion Duelist in the nation. This guide to the best Genshin Impact Clorinde build will explain the best weapons, artifact sets, constellations, and team compositions for Clorinde.
+Clorinde
+Rarity:
+★★★★★
+Element:
+Electro
+Weapon:
+Sword
+Table of Contents:
+How to Get Clorinde
+Clorinde Gameplay Overview
+Clorinde Talents and Attack Combos
+Clorinde Constellation Analysis
+Clorinde's Best Weapons
+Clorinde's Best Artifacts
+Clorinde's Best Teams
+How to Get Clorinde in Genshin Impact
+Clorinde is a limited 5-star character, meaning she can only be acquired on rerun banners. Your only option is to wait until she comes back around for a chance to snag him.
+Genshin Clorinde Gameplay Overview
+Element:
+Electro
+Weapon:
+Sword
+Rarity:
+5-star
+Clorinde is an on-field Electro DPS focused on maximizing her damage through her Normal Attacks, while also strangely not needing to level her Normal Attack talent at all. This is because her Normal Attacks are strengthened through her Skill, and the Skill talent level replaces the Normal Attack damage multipliers. She is a mobile and smooth character to play that also implements the Bond of Life mechanic, which is basically “healing debt” that goes down when she gets healed instead of healing her HP.
+She is best used with Dendro and Hydro characters, allowing her to take advantage of Aggravate (Quicken) and incidental Hyperbloom reactions. In terms of ludonarrative resonance, she also synergizes quite well with Furina, who she guards during the majority of the Fontaine Archon quests.
+While her damage ceiling is not as high as another Bond of Life user like Arlecchino, Clorinde makes up for this in her flexibility. Arlecchino, for example, heavily depends on Bennet’s Burst circle and attacking only within that circle. Clorinde can freely move about the battlefield while synergizing with other off-field DPS units. Keep in mind that because of this tendency to deal less damage, she may want to be spoiled with her signature weapon or other suitable 5-star weapon.
+Fortunately, Clorinde does not require you to build Energy Recharge. While her Burst is flashy and provides decent damage, the amount of CRIT, EM, or ATK stats you’d have to take away in favor of Energy Recharge is usually not worth it. This also means that Clorinde really only needs to focus on levelling one talent for bare minimum performance.
+For more information on elemental reactions, check out the comprehensive guide
+here
+.
+Clorinde mainly needs to focus on CRIT stats and ATK and/or Elemental Mastery stats, which is par for the course considering characters like Keqing and Cyno who fill similar team roles in the same element. Her teammates are on both ends of the spectrum: easy to acquire 4-stars at the beginning of the game like Fischl, Sucrose, Dendro Traveler, and Xingqiu, all the way to multiple premium limited 5-star characters like Furina and Nahida.
+Stats Worth Consideration
+ATK% or EM
+: Clorinde will often be abusing Dendro-based reactions, making EM comparable with ATK% depending on substats.
+Electro DMG%:
+DMG% should almost always be the Goblet of choice for DPS units.
+CRIT Rate or CRIT DMG:
+For nearly every DPS character, CRIT is the most important stat to build on the circlet and substats.
+For any character devoted to building damage, it is important to prioritize a 1-to-2 ratio between CRIT Rate and CRIT DMG. 1-3 ratios, while they may give dopamine through bigger Crit numbers, is actually less damage overall. Aim for 75;150 in most cases!
+Genshin Clorinde Talents and Attack Combos
+Your talent-levelling priority should be Skill > Burst, with her Normal Attack being entirely neglected.
+Normal Attack:
+Oath of Hunting Shadows
+Clorinde’s Skill completely overrides the Normal Attack multiplier, and you should never be using her Normal Attacks when not in the stance provided by her Skill. As such, there is no reason to level this talent at all.
+Elemental Skill:
+Hunter’s Vigil
+Using Clorinde’s Skill allows her to enter the Night Vigil stance, in which she uses her gun for attacking instead of her Sword. During this stance’s duration, her Skill becomes a lunging attack towards enemies. All the damage, however, is considered to be Normal Attack damage.
+The Skill also has varied effects when Normal Attacking based on the status of her Bond of Life:
+Bond of Life under 100%: Gain Bond of Life equal to a portion of Max HP and fire bullets that can pierce through opponents.
+Bond of Life over 100%: Simply fires a pistolet shot.
+Using the lunging attack on her Skill also has varied effects based on Bond of Life:
+Bond of Life = 0%: normal lunging strike.
+Bond of Life under 100%: Clorinde, while lunging, heals based on Bond of Life value while increasing area of effect and damage.
+Bond of Life above 100%: Even more healing, AoE, and damage.
+Clorinde is also Ousia-aligned, for those who use this mechanic to solve puzzle or hit boss weaknesses in Fontaine.
+This Skill is by far your highest priority for damage, as it accounts for nearly all of it. Level this talent as high as possible as soon as possible.
+Elemental Burst:
+Last Lightfall
+The Burst instantly grants a Bond of Life equal to a large percentage of her max HP (based on talent level) while dealing high damage in a flashy animation. Bursts often take a few second to fully execute, making damage demands quite high. In Clorinde’s case, you should use the Burst when it’s available, but don’t pressure yourself into building Recharge in order to use it constantly.
+Clorinde
+Passives
+Next, come her passives.
+Her first ascension passive triggers when a teammate creates an Electro-based elemental reaction, adding a flat damage bonus up to 1,800 damage to her Normal Attacks (including in her special stance) and Burst. You’ll want to trigger this effect up to its maximum of three times to approach the 1,800 damage threshold. Clorinde’s attacks are quick and she attacks many times in her field time., so these bits of extra damage add up quickly.
+Clorinde's fourth ascension, for 8s each instance, increases the team’s elemental DMG% bonus for every element Clorinde Swirls by 0.04% of his Elemental Mastery. The average fully built Clorinde will have just below 800 Elemental Mastery, giving the team 30+% DMG bonus. This is almost like putting an extra on-element Goblet artifact on your whole team! This can stack for multiple elements, too.
+Finally, his exploration passive reduces stamina consumption of sprinting by 20%, which doesn’t stack with other character passives regarding sprinting.
+Clorinde’s field time should be executed as such:
+Clorinde Burst if it’s available
+Clorinde Skill
+Three Normal Attacks
+Skill lunge
+Repeat the last two steps five additional times
+Swap out to other characters.
+Genshin Clorinde Constellation Analysis
+Clorinde is a fully functional character at C0 and does not need help with constellations. However, each constellation adds a good amount of damage to her potential, so they’re worth acquiring if you love the character.
+Constellation Name
+Abbreviated In-Game Description
+Notes
+C1. From This Day, I Pass the Candle's Shadow-Veil
+Now during her attacks in her Skill stance, she can do two coordinated attacks based on 30% of her ATK up to once every 1.2s. This damage is considered Normal Attack damage.
+A great first constellation to have, providing up to 360% motion value (multiplier) to her regular rotation through her Skill, since her stance lasts 7.5s, divided by 1.2s = 6 instances of two 30% hits.
+C2. Now, As We Face the Perils of the Long Night
+Upgrades the flat damage max from Clorinde’s first passive bonus to 2,700 damage, and when she has all three stacks from teammates triggering elemental reactions, she also gains interruption resistance.
+I mentioned before that the first passive she gets is an important part of her kit’s damage, and this makes it about 30% better.
+C3. I Pledge to Remember the Oath of Daylight
+Increase Skill talent level by 3.
+Surprisingly, her first Ascension passive is actually more valuable than her Skill’s talent level, so this is not quite as strong as the previous constellations.
+C4. To Enshrine Tears, Life, and Love
+Burst damage is increased by 2% for each 1% of Bond of Life Clorinde has. Max 200%
+it’s hard to rate this constellation, since you don’t need to focus on her Burst, but high damage output in a short amount of time is situationally strong.
+C5. Holding Dawn's Coming as My Votive
+Increases Burst talent level by 3.
+Buffing the least used talents between the two actually used does not quite provide the overall damage buff you’d want in longer fights.
+C6. And So Shall I Never Despair
+After entering her Skill stance, Clorinde gains 10% CRIT Rate and 70% CRIT DMG. While in this stance, up to six (total) attacks will occur automatically, dealing 200% ATK as Electro damage up to once per second, whenever she is about to be hit by an attack or whenever she uses her lunging attack with a Bond of Life greater than 100% of her Max HP. Additionally, she receives 80% less damage and gains interruption resistance.
+Wow, so basically Clorinde becomes unkillable, unstoppable, gains extra free attacks, and hits like a truck, all in one constellation. Is there anything she can’t do with C6?
+Genshin Clorinde's Best Weapons
+Clorinde’s only wants CRIT weapons and ATK weapons, which is pretty typical for DPS characters. Her best 4-star weapons are craftable or from the Battle Pass, which makes her pretty budget friendly. However, she’ll probably want her signature weapon if you don’t get her first constellation.
+Weapon Name
+Abbreviated In-Game Description
+Notes
+Absolution
+44.1% CRIT DMG
+CRIT DMG increased by 20%. Increasing the value of a Bond of Life increases the DMG the equipping character deals by 16% for 6s. Max 3 stacks
+Best-in-Slot
+As usual, the signature weapon for a 5-star character is their best offensive option. However, the sword is pretty specific to Bond of Life characters, making this pretty inflexible on most other characters besides (perhaps) Lynette. Her first release has Alhaitham’s signature weapon Light of Foliar Incision, and if you accidentally get that weapon instead, it’s still a fine choice on her.
+Haran Geppaku Futsu
+33.1% CRIT Rate
+Obtain 12% All Elemental DMG Bonus. When other nearby party members use Elemental Skills, the character equipping this weapon will gain 1 Wavespike stack. Max 2 stacks. This effect can be triggered once every 0.3s. When the character equipping this weapon uses an Elemental Skill, all stacks of Wavespike will be consumed to gain Rippling Upheaval: each stack of Wavespike consumed will increase Normal Attack DMG by 20% for 8s.
+Next Best 5-Star
+Pretty straightforward that a Normal Attack-enhancing CRIT weapon follows behind the best-in-slot when nearly all of Clorinde’s kit is considered to be Normal Attack damage. Equip this if you have one lying around, but don’t hunt it down for Clorinde’s sake; just get an R5 Black Sword.
+R5 Black Sword
+21.6% CRIT Rate
+Increases DMG dealt by Normal and Charged Attacks by 40%. Additionally, regenerates 100% of ATK as HP when Normal and Charged Attacks score a CRIT Hit. This effect can occur once every 5s.
+Battle Pass Option
+Same justification as Haran Geppaku Futsu, however this is guaranteed as long as you make it to level 30 on five paid battle passes. It is competitive at R5 with other R1 5-star CRIT weapons at a fraction of the cost.
+R5 Finale of the Deep
+27.6% ATK
+When using an Elemental Skill, ATK will be increased by 24% for 15s, and a Bond of Life worth 25% of Max HP will be granted. This effect can be triggered once every 10s. When the Bond of Life is cleared, a maximum of 300 ATK will be gained based on 4.8% of the total amount of the Life Bond cleared, lasting for 15s.
+Excellent Craftable Option
+Grants Bond of Life, which Clorinde likes. Increases ATK% when using a Skill, which Clorinde likes, and gains more attack when the Bond of Life is cleared, which Clorinde likes. This craftable blows all other 4-star weapons out of the water, and is a high budget priority for Clorinde.
+Genshin Clorinde's Best Artifacts
+Sands
+– ATK% (EM if substats are better)
+Goblet
+– Electro DMG Bonus
+Circlet
+– CRIT
+Clorinde has three viable sets for artifacts, and two of them have been around since the beginning of Genshin Impact’s launch, meaning you won’t need to work hard to find a usable set.
+Artifact Set Name
+Abbreviated In-Game Description
+Notes
+4pc Fragment of Harmonic Whimsy
+2pc: 18% ATK.
+4pc: When the value of a Bond of Life increases or decreases, this character deals 18% increased DMG for 6s. Max 3 stacks.
+Best Overall Option
+Clorinde’s best overall set, as it gives her a little bit of everything she needs.
+4pc Thundering Fury
+2pc: 15% Electro DMG Bonus.
+4pc: Increases DMG caused by Overloaded, Electro-Charged, Superconduct, and Hyperbloom by 40%, and the DMG Bonus conferred by Aggravate is increased by 20%. When Quicken or the aforementioned Elemental Reactions are triggered, Elemental Skill CD is decreased by 1s. Can only occur once every 0.8s.
+Situationally Best
+Clorinde’s Skill stance lasts about 7.5s and has a 16s cooldown. There may be times when you want to trim the cooldown of her Skill for longer rotations, like when paired with characters like Furina and Nahida, who have 25s uptimes on their Skill uses.
+4pc Gladiator’s Finale
+2pc: +18% ATK.
+4pc: If the wielder of this artifact set uses a Sword, Claymore or Polearm, increases their Normal Attack DMG by 35%.
+Resin-Efficient Option
+Gladiator’s Finale makes full use of the importance of Clorinde’s Normal Attack damage, making it rank higher than all other unlisted alternatives. The buff is always there, and it’s not far away from her actual best artifact sets.
+Genshin Clorinde's Best Teams
+Clorinde likes to be paired with other off-field DPS characters that can facilitate elemental reactions and has less use for a healer, since she heals herself through her own kit. There are really only three viable team templates for Clorinde, and all of them overlap with each other.
+You’ll basically be expected to pick one of three paths: Aggravate, Qucken+Hyperbloom (“Quickbloom”) and to a lesser extent, Electro-Charged/Taser teams.
+For a full list of notable teammates, please scroll to the bottom of this guide.
+Aggravate Team
+Your first job will be to select a Dendro character with great application (and ideally good damage too) in order to facilitate the Quicken status on an enemy. Rapid Electro application will then stack up tons of instances of flat DMG bonus similar to her first Ascension Passive.
+Following that, you’ll want an Anemo character to shred enemy Electro resistances. Finally, you’ll use your flex slot for another Electro or Dendro character, depending on what is on your account and what you need based on your previous teammate choices.
+Guide Character
+Dendro
+Anemo
+Electro/Dendro
+QuickBloom (Quicken + Hyperbloom) Team
+This team functions similarly to Aggravate teams, except instead of your flex slot or Anemo character, you include a Hydro character in order to generate Dendro cores that become Hyperbloom reactions when hit with Electro.
+Hyperbloom is the strongest reaction in the game, and even incidental Hyperbloom reactions are powerful, even when the Electro trigger is not purely building Elemental Mastery. Make sure your Hydro character is someone who can hit hard!
+Guide Character
+Dendro
+Hydro
+Dendro or Electro
+Taser Team
+Taser teams use budget-friendly 4-star characters and the Electro-Charged reaction to generate many instances of chip damage, utilizing Anemo, Hydro, and Electro. This is the most budget-friendly team, but also trails behind other team types in Spiral Abyss performance.
+Guide Character
+Anemo
+Hydro
+Flex
+Specific Teammate Choices
+Teammate Choices
+Character Name
+Notes
+Character Name
+Notes
+Xingqiu
+Off-Field Hydro DPS
+Consistent Hydro application to ensure reactions.
+Interruption resistance
+Minor healing
+Excellent single-target damage output.
+Paired with Yelan, can often carry a team by themselves.
+Yelan
+Off-Field Hydro DPS
+Consistent Hydro application to ensure reactions.
+Paired with Xingqiu, can often carry a team by themselves.
+Sizeable buff to active character – up to 50% DMG bonus.
+Excellent single-target damage output.
+Fischl
+Off-Field Electro DPS
+C6 Recommended
+Works well with basically anyone
+Exceptional Off-Field DMG
+Minimal field time required
+Consistent Application
+Excellent energy particle generation
+Accessible via Paimon's Bargains
+Nahida
+Off-Field Dendro Support
+Best Dendro Application in the game
+Long-lasting Skill duration (25s)
+Buffs the team’s Elemental Mastery
+Impressive damage on top of her support capabilities.
+Baizhu
+Off-Field Dendro Support
+Excellent healing capabilities
+Short Skill cooldown
+Applies just enough Dendro for Quicken/Aggravate teams.
+Fragile, but regenerating shields provide interruption resistance.
+Dendro MC
+Off-Field Dendro Support
+100% free and accessible from beginning of the game
+Consistent Dendro Application
+Often wields a Favonius weapon
+Buffs party Elemental Mastery
+Kazuha
+Anemo (De+)Buffer
+Universally loved Anemo support
+Excellent crowd control with held Skill
+Usually wields Favonius or Xiphos’ Moonlight for team energy needs
+Massive buffs to elements based on Kazuha’s Elemental Mastery stat
+Debuffs elemental resistances with Viridescent Venerer
+Sucrose
+Anemo (De+)Buffer
+Strongest 4-star Anemo support
+Decent enemy grouping with Skill
+Generates lots of energy through her Skill and potential weapons
+Shares 25% of her Elemental Mastery with the team to improve reactions
+Available since the start of the game
+Furina
+Off-Field DPS + Support
+Long Skill duration (25s)
+Strong, universal buff for the team, as long as characters are being healed.
+Great damage
+Incredible synergy with Fontaine characters.
+Yae Miko
+Off-Field Electro DPS
+Comparable to C6 Fischl
+Exceptional Off-Field DMG
+Long field-time duration
+Benefits from both EM and ATK%
+Nuclear-Powered Burst
+Vulnerable to interruption
+Up Next:
+Genshin Clorinde Materials Guide
+Previous
+Genshin Impact Sethos Build Guide - Best Weapons, Artifacts, and Teams
+Next
+Genshin Clorinde Materials Guide
+Top Guide Sections
+Genshin Impact Luna VI Details and Patch Notes
+Genshin Impact Luna IV Release Time and Details
+Genshin Impact Luna III Details and Patch Notes
+Genshin Impact Luna II Release Date and Details
+Was this guide helpful?
+Leave feedback
+In This Guide
+Genshin Impact
+HoYoverse
+Initial Release:
+Sep 27, 2020
++2
+Learn more
+Go to comments

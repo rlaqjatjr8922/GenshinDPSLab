@@ -1,0 +1,584 @@
+Genshin Impact Flins Best Team Guide
+Last updated April 25, 2026. Looking for the best Flins teams in
+        Genshin Impact? Start with the top team summary below, then pick the
+        lineup that fits your roster.
+This page shows the best teams for Flins, who functions as the Main DPS. Top teams include Lunar-Charged compositions utilizing Flins and Columbina, alongside support characters like Aino and Yelan. Team compositions can be adjusted based on your roster and desired reaction focus.
+View Flins's character page
+Flins Team Summary
+#1
+Team Rating:SS
+Flins Lunar-Charged Team #1
+#2
+Team Rating:SS
+Flins Lunar-Charged Team 2
+C4
+#3
+Team Rating:S
+Flins Lunar-Charged Hypercarry with Yelan, Xilonen & Ineffa
+#4
+Team Rating:SS
+Flins Lunar-Charged Premium Carry
+#5
+Team Rating:S
+Flins Lunar-Charged Hypercarry with Aino, Xilonen & C6 Kujou Sara
+C1
+C6
+#6
+Team Rating:SS
+Flins Lunar-Charged SS Team
+C4
+#7
+Team Rating:S
+Flins Lunar-Charged Hypercarry with Columbina, Xilonen & Iansan
+C2
+#1 Flins Lunar-Charged Team #1
+Tier SS
+Flins is the Main DPS, enabled by Lunar-Charged reaction support from Aino and Ineffa, with Xilonen providing RES shred and healing. The team focuses on maximizing Electro-Charged into Lunar-Charged conversion and scaling reaction damage through ATK and EM buffs.
+Flins
+Main DPS
+Electro
+Uses Elemental Skill to enter Manifest Flame form, converting Normal Attacks into Electro DMG. His enhanced Skill and Special Burst deal Lunar-Charged AoE Electro DMG, and he boosts allies' Electro-Charged DMG into Lunar-Charged DMG based on his ATK.
+Artifacts
+Night of the Sky's Unveiling
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge / Elemental Mastery
+Weapons
+Bloodsoaked Ruins
+Deathmatch
+Aino
+Support
+Hydro
+Burst provides continuous Hydro DMG through Cool Your Jets Ducky, helping maintain Hydro application for Lunar-Charged setups.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / Energy Recharge
+Weapons
+Flame-Forged Insight
+Xilonen
+Support
+Geo
+Samplers reduce enemy elemental RES while also providing healing to teammates, improving overall team damage and survivability.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+DEF%
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Peak Patrol Song
+Flute of Ezpitzal
+Ineffa
+Support
+Electro
+Converts Electro-Charged into Lunar-Charged, boosts Lunar-Charged damage based on ATK, provides shielding, and summons Birgitta for extra attacks triggered by Lunar-Charged reactions. Burst increases the active character's Elemental Mastery.
+Artifacts
+Silken Moon's Serenade
+Main Stats
+Sands
+ATK%
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Fractured Halo
+Ballad of the Fjords
+#2 Flins Lunar-Charged Team 2
+Tier SS
+A high-powered Lunar-Charged lineup built around Flins’ Electro conversion and Lunar-Charged scaling. Aino and Ineffa keep Hydro application and reaction uptime consistent, while Sucrose swirls, shreds resistance, and boosts team reaction damage through EM support.
+Flins
+Main DPS
+Electro
+Flins is the on-field carry. His Elemental Skill transforms him into Manifest Flame form, converting Normal Attacks into Electro DMG and enabling a Special Elemental Burst that deals Lunar-Charged AoE Electro DMG. He also increases allied Electro-Charged DMG into Lunar-Charged DMG, with the bonus scaling from ATK.
+Artifacts
+Night of the Sky's Unveiling
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge / Elemental Mastery
+Weapons
+Bloodsoaked Ruins
+Deathmatch
+Aino
+Support
+Hydro
+Aino provides steady Hydro application through her Elemental Burst, which summons the Cool Your Jets Ducky for continuous Hydro DMG and reaction setup.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / Energy Recharge
+Weapons
+Flame-Forged Insight
+Sucrose
+Sub DPS
+Anemo
+Constellation 4+
+Sucrose uses Viridescent Venerer to shred elemental resistance while stacking EM for stronger reactions. At C4, her Normal Attacks reduce Elemental Skill cooldown, helping maintain faster team rotation and more frequent debuffs.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge
+Weapons
+Sunny Morning Sleep-In
+Wandering Evenstar
+Ineffa
+Support
+Electro
+Ineffa converts Electro-Charged into Lunar-Charged, with reaction damage scaling from ATK. Her Skill grants a shield and summons Birgitta, who triggers extra attacks from Lunar-Charged reactions. Her Burst also boosts the active character's Elemental Mastery.
+Artifacts
+Silken Moon's Serenade
+Main Stats
+Sands
+ATK%
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Fractured Halo
+Ballad of the Fjords
+#3 Flins Lunar-Charged Hypercarry with Yelan, Xilonen & Ineffa
+Tier S
+A strong
+Lunar-Charged
+team built around
+Flins
+as the on-field carry.
+Yelan
+enables consistent Hydro application and team damage amplification,
+Xilonen
+provides RES shred and healing, and
+Ineffa
+adds shielding, off-field Lunar-Charged triggers, and EM support.
+Flins
+Main DPS
+Electro
+On-field driver and core damage dealer. Uses his Elemental Skill to enter Manifest Flame form, converting Normal Attacks to Electro DMG and unleashing a Special Burst that deals Lunar-Charged AoE Electro DMG. Also boosts allies' Electro-Charged damage into Lunar-Charged based on his ATK.
+Artifacts
+Night of the Sky's Unveiling
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge / Elemental Mastery
+Weapons
+Bloodsoaked Ruins
+Deathmatch
+Yelan
+Sub DPS
+Hydro
+Provides continuous off-field Hydro application to trigger reactions and increases team damage through her Burst and passive talents.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / HP% / Energy Recharge
+Weapons
+Elegy for the End
+Favonius Warbow
+Xilonen
+Support
+Geo
+Provides elemental RES shred through Samplers and adds team healing. Build for support utility and survivability.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+DEF
+Goblet
+DEF
+Circlet
+DEF
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Peak Patrol Song
+Flute of Ezpitzal
+Ineffa
+Support
+Electro
+Converts Electro-Charged into Lunar-Charged and increases Lunar-Charged damage based on ATK. Also provides a shield, summons Birgitta for extra attacks, and grants EM to the active character via Burst.
+Artifacts
+Silken Moon's Serenade
+Main Stats
+Sands
+ATK%
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Fractured Halo
+Ballad of the Fjords
+#4 Flins Lunar-Charged Premium Carry
+Tier SS
+Flins
+is the on-field Main DPS, enabling and amplifying Lunar-Charged damage while the rest of the team supplies Hydro application, RES shred, healing, shielding, and reaction buffs.
+This is a premium Lunar-Charged composition with very high reaction uptime and strong teamwide utility.
+Flins
+Main DPS
+Electro
+On-field carry. Uses Skill to enter Manifest Flame form, converting Normal Attacks into Electro DMG and empowering his Skill. Afterward, he unleashes a special Burst that deals AoE Lunar-Charged Electro DMG. Also converts allies' Electro-Charged DMG into Lunar-Charged DMG, scaling with his ATK.
+Artifacts
+Night of the Sky's Unveiling
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge / Elemental Mastery
+Weapons
+Bloodsoaked Ruins
+Deathmatch
+Columbina
+Sub DPS
+Hydro
+Off-field Hydro applier and Lunar reaction enabler. Her Skill provides continuous AoE Hydro application and can trigger Lunar reactions; her Burst creates an aura, and her talent buffs Lunar-Charged, Lunar Crystallize, and Lunar-Bloom damage.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+Energy Recharge
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / Energy Recharge / HP%
+Weapons
+Nocturne's Curtain Call
+Sacrificial Jade
+Xilonen
+Support
+Geo
+Provides Elemental RES reduction through her Samplers and offers team healing. A strong utility slot that boosts overall damage and survivability.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+DEF
+Goblet
+DEF
+Circlet
+DEF
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Peak Patrol Song
+Flute of Ezpitzal
+Ineffa
+Support
+Electro
+Converts Electro-Charged into Lunar-Charged and increases Lunar-Charged damage based on her ATK. Her Skill provides a shield and summons Birgitta for extra attacks; her Burst increases the active character's Elemental Mastery.
+Artifacts
+Silken Moon's Serenade
+Main Stats
+Sands
+ATK%
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Fractured Halo
+Ballad of the Fjords
+#5 Flins Lunar-Charged Hypercarry with Aino, Xilonen & C6 Kujou Sara
+Tier S
+A Lunar-Charged focused Flins team with strong Electro-Charged conversion, RES shred, healing, and powerful ATK/CRIT buffs.
+Note:
+Flins is the on-field Main DPS, while Aino enables Hydro application and the supports amplify team damage and survivability.
+Flins
+Main DPS
+Electro
+Constellation 1+
+Flins enters Manifest Flame form to convert his Normal Attacks into Electro DMG and unleash a Special Elemental Burst that deals Lunar-Charged AoE Electro DMG. He also converts allies' Electro-Charged DMG into Lunar-Charged DMG, scaling the bonus with his ATK.
+Artifacts
+Night of the Sky's Unveiling
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge / Elemental Mastery
+Weapons
+Bloodsoaked Ruins
+Deathmatch
+Aino
+Support
+Hydro
+Aino provides continuous Hydro DMG through her Elemental Burst by summoning the Cool Your Jets Ducky, helping maintain Hydro application for Lunar-Charged reactions.
+Artifacts
+Silken Moon's Serenade
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / Energy Recharge
+Weapons
+Flame-Forged Insight
+Xilonen
+Support
+Geo
+Xilonen activates Samplers to reduce enemies' elemental RES and also provides healing, adding both team damage amplification and survivability.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+DEF%
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Peak Patrol Song
+Flute of Ezpitzal
+Kujou Sara
+Support
+Electro
+Constellation 6+
+C6 Kujou Sara provides ATK Bonus to teammates, and her Elemental Burst boosts Electro CRIT DMG for the team.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Elegy for the End
+Mouun's Moon
+#6 Flins Lunar-Charged SS Team
+Tier SS
+A high-synergy Lunar-Charged team built around Flins as the on-field Electro DPS, with Columbina and Ineffa enabling Lunar reactions and Sucrose providing resistance shred and EM amplification.
+This team focuses on frequent Electro-Charged triggers converted into Lunar-Charged damage, with strong off-field Hydro application and supportive buffs.
+Flins
+Main DPS
+Electro
+Flins is the primary on-field damage dealer. His Elemental Skill converts his Normal Attacks into Electro DMG in Manifest Flame form, and after using it he can unleash a Special Elemental Burst that deals Lunar-Charged AoE Electro DMG. He also converts allies’ Electro-Charged damage into Lunar-Charged damage, scaling the reaction damage with his ATK.
+Artifacts
+Night of the Sky's Unveiling
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge / Elemental Mastery
+Weapons
+Bloodsoaked Ruins
+Deathmatch
+Columbina
+Sub DPS
+Hydro
+Columbina provides continuous off-field AoE Hydro application to enable Lunar reactions and deal direct Lunar damage based on the most frequent Lunar reaction type in the team. Her Burst deploys an aura, and her talent buffs Lunar-Charged, Lunar Crystallize, and Lunar-Bloom.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+Energy Recharge
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / Energy Recharge / HP%
+Weapons
+Nocturne's Curtain Call
+Sacrificial Jade
+Sucrose
+Sub DPS
+Anemo
+Constellation 4+
+Sucrose provides Viridescent Venerer resistance shred and EM support. At C4, her Normal Attacks reduce Elemental Skill cooldown, helping apply debuffs faster and improve team setup consistency.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / Energy Recharge
+Weapons
+Sunny Morning Sleep-In
+Wandering Evenstar
+Ineffa
+Support
+Electro
+Ineffa converts Electro-Charged into Lunar-Charged and increases the reaction’s damage based on her ATK. Her Skill provides a shield and summons Birgitta for extra attacks when Lunar-Charged triggers, while her Burst increases the active character’s Elemental Mastery.
+Artifacts
+Silken Moon's Serenade
+Main Stats
+Sands
+ATK%
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Elemental Mastery
+Weapons
+Fractured Halo
+Ballad of the Fjords
+#7 Flins Lunar-Charged Hypercarry with Columbina, Xilonen & Iansan
+Tier S
+Flins
+is the on-field Main DPS, driving Lunar-Charged reactions with strong Electro conversion and AoE burst damage.
+Columbina provides off-field Hydro application and Lunar reaction support, while Xilonen adds RES shred and healing.
+Iansan (C2) rounds out the team with a powerful ATK buff from Noblesse Oblige.
+Flins
+Main DPS
+Electro
+On-field driver and damage dealer. His Elemental Skill enters Manifest Flame form, converting Normal Attacks into Electro DMG and enhancing his Skill. Afterward, he can unleash a special Burst dealing Lunar-Charged AoE Electro DMG. He also converts allies’ Electro-Charged DMG into Lunar-Charged DMG, scaling with his ATK.
+Artifacts
+Night of the Sky's Unveiling
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge / Elemental Mastery
+Weapons
+Bloodsoaked Ruins
+Deathmatch
+Columbina
+Sub DPS
+Hydro
+Off-field Hydro applier and Lunar reaction enabler. Her Skill provides continuous AoE Hydro application, and her Burst deploys an aura that helps support Lunar reaction uptime and teamwide Lunar reaction buffs.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+Energy Recharge
+Goblet
+HP%
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT Rate / CRIT DMG / Energy Recharge / HP%
+Weapons
+Nocturne's Curtain Call
+Sacrificial Jade
+Xilonen
+Support
+Geo
+Provides enemy Elemental RES reduction through her Samplers and also offers healing to the team.
+Artifacts
+Scroll of the Hero of Cinder City
+Main Stats
+Sands
+DEF%
+Goblet
+DEF%
+Circlet
+DEF%
+Substats
+CRIT DMG / CRIT Rate / DEF% / Energy Recharge
+Weapons
+Peak Patrol Song
+Flute of Ezpitzal
+Iansan
+Support
+Electro
+Constellation 2+
+ATK buffer. Her Burst increases teammates’ ATK based on her own ATK when her Nightsoul Point is high, and the buff follows teammates freely instead of requiring a fixed area.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+ATK%
+Circlet
+ATK%
+Substats
+CRIT Rate / ATK% / Energy Recharge
+Weapons
+Favonius Lance
+Flins Teams FAQ
+What is the best Flins team in Genshin Impact?
+Flins Lunar-Charged Team #1 is one of the strongest Flins teams right now. Use the team summary and build cards on this page to pick the best version for your account.
+What are good Flins teams without premium weapons?
+You can run strong Flins teams without signature weapons by prioritizing reaction synergy, energy consistency, and artifact main stats shown in each build card.
+Which teammates are best with Flins?
+Common high-performing partners include teams such as Flins Lunar-Charged Team #1, Flins Lunar-Charged Team 2, Flins Lunar-Charged Hypercarry with Yelan, Xilonen & Ineffa. Check each lineup section for role breakdowns and gear priorities.

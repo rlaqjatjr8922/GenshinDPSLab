@@ -13,15 +13,15 @@
   ],
   "aloy": [
     "aloy",
-    "ayaka",
-    "xiangling",
-    "bennett"
+    "diona",
+    "mona",
+    "venti"
   ],
   "amber": [
     "amber",
     "bennett",
     "kazuha",
-    "zhongli"
+    "xingqiu"
   ],
   "arlecchino": [
     "arlecchino",
@@ -31,15 +31,15 @@
   ],
   "ayaka": [
     "ayaka",
-    "ganyu",
     "kazuha",
+    "ganyu",
     "mona"
   ],
   "ayato": [
     "ayato",
-    "ganyu",
     "kazuha",
-    "xingqiu"
+    "xingqiu",
+    "yunjin"
   ],
   "baizhu": [
     "baizhu",
@@ -51,31 +51,31 @@
     "barbara",
     "amber",
     "beidou",
-    "fischl"
+    "gaming"
   ],
   "beidou": [
     "beidou",
     "fischl",
     "xingqiu",
-    "yoimiya"
+    "bennett"
   ],
   "bennett": [
     "bennett",
-    "raiden",
     "xiangling",
-    "xingqiu"
+    "xingqiu",
+    "hutao"
   ],
   "candace": [
     "candace",
-    "xingqiu",
-    "yelan",
-    "zhongli"
+    "zhongli",
+    "ayato",
+    "bennett"
   ],
   "charlotte": [
     "charlotte",
     "furina",
     "kazuha",
-    "neuvillette"
+    "wriothesley"
   ],
   "chasca": [
     "chasca",
@@ -93,18 +93,18 @@
     "chiori",
     "navia",
     "zhongli",
-    "furina"
+    "bennett"
   ],
   "chongyun": [
     "chongyun",
     "ayaka",
-    "xingqiu",
-    "diona"
+    "jean",
+    "keqing"
   ],
   "citlali": [
     "citlali",
-    "arlecchino",
     "bennett",
+    "gaming",
     "mavuika"
   ],
   "clorinde": [
@@ -122,8 +122,8 @@
   "cyno": [
     "cyno",
     "yelan",
-    "kukishinobu",
-    "nahida"
+    "collei",
+    "beidou"
   ],
   "dahlia": [
     "dahlia",
@@ -134,32 +134,32 @@
   "dehya": [
     "dehya",
     "ganyu",
-    "bennett",
-    "nahida"
+    "nahida",
+    "bennett"
   ],
   "diluc": [
     "diluc",
     "bennett",
-    "xingqiu",
-    "kazuha"
+    "sucrose",
+    "xingqiu"
   ],
   "diona": [
     "diona",
     "ayaka",
     "ganyu",
-    "xingqiu"
+    "kazuha"
   ],
   "dori": [
     "dori",
     "fischl",
-    "kazuha",
-    "raiden"
+    "eula",
+    "kazuha"
   ],
   "emilie": [
     "emilie",
     "bennett",
     "wriothesley",
-    "furina"
+    "xiangling"
   ],
   "escoffier": [
     "escoffier",
@@ -169,21 +169,21 @@
   ],
   "eula": [
     "eula",
-    "beidou",
-    "fischl",
-    "zhongli"
+    "bennett",
+    "diona",
+    "fischl"
   ],
   "faruzan": [
     "faruzan",
+    "bennett",
     "wanderer",
-    "xiao",
-    "bennett"
+    "xiao"
   ],
   "fischl": [
     "fischl",
     "beidou",
     "nahida",
-    "bennett"
+    "xingqiu"
   ],
   "flins": [
     "flins",
@@ -195,13 +195,13 @@
     "freminet",
     "fischl",
     "kazuha",
-    "diona"
+    "kokomi"
   ],
   "furina": [
     "furina",
-    "neuvillette",
-    "baizhu",
-    "hutao"
+    "hutao",
+    "kazuha",
+    "neuvillette"
   ],
   "gaming": [
     "gaming",
@@ -212,8 +212,8 @@
   "ganyu": [
     "ganyu",
     "diona",
-    "shenhe",
-    "venti"
+    "wanderer",
+    "ayaka"
   ],
   "gorou": [
     "gorou",
@@ -223,33 +223,33 @@
   ],
   "heizou": [
     "heizou",
-    "fischl",
     "beidou",
-    "bennett"
+    "bennett",
+    "fischl"
   ],
   "hutao": [
     "hutao",
-    "xingqiu",
-    "zhongli",
-    "yelan"
+    "albedo",
+    "bennett",
+    "diona"
   ],
   "ineffa": [
     "ineffa",
-    "fischl",
     "furina",
-    "xilonen"
+    "neuvillette",
+    "fischl"
   ],
   "itto": [
     "itto",
     "albedo",
     "gorou",
-    "noelle"
+    "zhongli"
   ],
   "jean": [
     "jean",
-    "fischl",
     "raiden",
-    "xingqiu"
+    "xingqiu",
+    "bennett"
   ],
   "kaeya": [
     "kaeya",
@@ -266,14 +266,14 @@
   "kazuha": [
     "kazuha",
     "bennett",
-    "neuvillette",
-    "xiangling"
+    "xiangling",
+    "yelan"
   ],
   "keqing": [
     "keqing",
-    "bennett",
     "fischl",
-    "kazuha"
+    "kazuha",
+    "beidou"
   ],
   "kinich": [
     "kinich",
@@ -283,33 +283,33 @@
   ],
   "kirara": [
     "kirara",
-    "nilou",
-    "fischl",
-    "nahida"
+    "raiden",
+    "ayato",
+    "barbara"
   ],
   "klee": [
     "klee",
-    "fischl",
     "kazuha",
-    "amber"
+    "bennett",
+    "venti"
   ],
   "kokomi": [
     "kokomi",
-    "fischl",
     "ayaka",
-    "kazuha"
+    "kazuha",
+    "gaming"
   ],
   "kukishinobu": [
     "kukishinobu",
     "xingqiu",
-    "beidou",
-    "yelan"
+    "yelan",
+    "gaming"
   ],
   "lanyan": [
     "lanyan",
-    "arlecchino",
     "bennett",
-    "furina"
+    "furina",
+    "neuvillette"
   ],
   "lauma": [
     "lauma",
@@ -320,38 +320,38 @@
   "layla": [
     "layla",
     "ayaka",
-    "ganyu",
-    "yelan"
+    "xingqiu",
+    "bennett"
   ],
   "lisa": [
     "lisa",
     "beidou",
-    "fischl",
-    "kazuha"
+    "eula",
+    "fischl"
   ],
   "lynette": [
     "lynette",
     "bennett",
     "lyney",
-    "beidou"
+    "raiden"
   ],
   "lyney": [
     "lyney",
     "bennett",
-    "kazuha",
-    "xiangling"
+    "xiangling",
+    "kazuha"
   ],
   "mavuika": [
-    "mavuika",
-    "bennett",
     "citlali",
-    "furina"
+    "mavuika",
+    "furina",
+    "xilonen"
   ],
   "mika": [
     "mika",
-    "eula",
     "bennett",
-    "raiden"
+    "eula",
+    "gaming"
   ],
   "mizuki": [
     "mizuki",
@@ -368,20 +368,20 @@
   "mualani": [
     "mualani",
     "xiangling",
-    "emilie",
-    "furina"
+    "bennett",
+    "dehya"
   ],
   "nahida": [
     "nahida",
     "kokomi",
-    "nilou",
-    "raiden"
+    "kukishinobu",
+    "nilou"
   ],
   "navia": [
     "navia",
-    "zhongli",
-    "albedo",
-    "bennett"
+    "fischl",
+    "furina",
+    "zhongli"
   ],
   "neuvillette": [
     "neuvillette",
@@ -392,20 +392,20 @@
   "nilou": [
     "nilou",
     "barbara",
-    "gaming",
+    "kokomi",
     "nahida"
   ],
   "ningguang": [
     "ningguang",
     "fischl",
-    "zhongli",
-    "beidou"
+    "xingqiu",
+    "zhongli"
   ],
   "noelle": [
     "noelle",
-    "albedo",
     "fischl",
-    "beidou"
+    "albedo",
+    "bennett"
   ],
   "ororon": [
     "ororon",
@@ -415,9 +415,9 @@
   ],
   "qiqi": [
     "qiqi",
-    "fischl",
     "beidou",
-    "razor"
+    "fischl",
+    "xingqiu"
   ],
   "raiden": [
     "raiden",
@@ -427,19 +427,19 @@
   ],
   "razor": [
     "razor",
-    "fischl",
     "albedo",
-    "rosaria"
+    "bennett",
+    "fischl"
   ],
   "rosaria": [
     "rosaria",
-    "ayaka",
-    "ganyu",
-    "kazuha"
+    "bennett",
+    "xingqiu",
+    "zhongli"
   ],
   "sara": [
     "sara",
-    "raiden",
+    "ayato",
     "bennett",
     "kazuha"
   ],
@@ -447,102 +447,102 @@
     "sayu",
     "xiangling",
     "xiao",
-    "xingqiu"
+    "fischl"
   ],
   "sethos": [
     "sethos",
     "fischl",
     "nahida",
-    "furina"
+    "wanderer"
   ],
   "shenhe": [
-    "ayaka",
     "shenhe",
+    "ayaka",
     "ganyu",
-    "kazuha"
+    "bennett"
   ],
   "sigewinne": [
     "sigewinne",
     "furina",
-    "nilou",
+    "gaming",
     "kazuha"
   ],
   "skirk": [
     "skirk",
     "furina",
-    "citlali",
-    "escoffier"
+    "shenhe",
+    "yelan"
   ],
   "sucrose": [
     "sucrose",
     "bennett",
-    "fischl",
-    "xiangling"
+    "xiangling",
+    "fischl"
   ],
   "tartaglia": [
     "tartaglia",
     "bennett",
-    "xiangling",
-    "fischl"
+    "kazuha",
+    "xiangling"
   ],
   "thoma": [
     "thoma",
+    "xingqiu",
     "hutao",
-    "bennett",
-    "xingqiu"
+    "kazuha"
   ],
   "tighnari": [
     "tighnari",
-    "fischl",
     "collei",
-    "yaemiko"
+    "fischl",
+    "kukishinobu"
   ],
   "anemotraveler": [
     "gaming",
+    "xiao",
     "ayaka",
-    "bennett",
-    "kokomi"
+    "noelle"
   ],
   "dendrotraveler": [
+    "bennett",
     "raiden",
     "fischl",
-    "bennett",
-    "collei"
+    "kazuha"
   ],
   "electrotraveler": [
     "xiao",
-    "bennett",
-    "electrotraveler",
-    "kazuha"
+    "diona",
+    "kazuha",
+    "rosaria"
   ],
   "geotraveler": [
     "bennett",
-    "fischl",
-    "zhongli",
-    "albedo"
+    "faruzan",
+    "navia",
+    "venti"
   ],
   "hydrotraveler": [
     "bennett",
     "nahida",
-    "barbara",
-    "kazuha"
+    "kazuha",
+    "xingqiu"
   ],
   "pyrotraveler": [
     "bennett",
     "emilie",
-    "kinich",
-    "xilonen"
+    "furina",
+    "kinich"
   ],
   "varesa": [
     "varesa",
+    "bennett",
     "chevreuse",
-    "furina",
-    "xianyun"
+    "mavuika"
   ],
   "venti": [
     "venti",
-    "bennett",
     "ganyu",
+    "bennett",
     "ayaka"
   ],
   "wanderer": [
@@ -553,33 +553,33 @@
   ],
   "wriothesley": [
     "wriothesley",
-    "kazuha",
     "shenhe",
-    "bennett"
+    "bennett",
+    "kazuha"
   ],
   "xiangling": [
     "xiangling",
     "bennett",
-    "kazuha",
-    "raiden"
+    "xingqiu",
+    "kazuha"
   ],
   "xianyun": [
     "xianyun",
-    "xiao",
-    "diluc",
-    "faruzan"
+    "faruzan",
+    "furina",
+    "xiao"
   ],
   "xiao": [
     "xiao",
+    "albedo",
     "bennett",
-    "faruzan",
-    "sucrose"
+    "jean"
   ],
   "xilonen": [
     "xilonen",
-    "mualani",
-    "neuvillette",
-    "arlecchino"
+    "bennett",
+    "furina",
+    "kazuha"
   ],
   "xingqiu": [
     "xingqiu",
@@ -591,31 +591,31 @@
     "xinyan",
     "bennett",
     "fischl",
-    "rosaria"
+    "diona"
   ],
   "yaemiko": [
     "yaemiko",
-    "raiden",
     "alhaitham",
-    "bennett"
+    "bennett",
+    "fischl"
   ],
   "yanfei": [
     "yanfei",
     "bennett",
-    "kazuha",
-    "xingqiu"
+    "xingqiu",
+    "venti"
   ],
   "yaoyao": [
     "yaoyao",
-    "nilou",
-    "fischl",
-    "xingqiu"
+    "alhaitham",
+    "gaming",
+    "nahida"
   ],
   "yelan": [
-    "xingqiu",
     "yelan",
     "hutao",
-    "kazuha"
+    "raiden",
+    "bennett"
   ],
   "yoimiya": [
     "yoimiya",
@@ -625,14 +625,14 @@
   ],
   "yunjin": [
     "yunjin",
+    "gaming",
     "yoimiya",
-    "zhongli",
-    "ayato"
+    "zhongli"
   ],
   "zhongli": [
     "zhongli",
+    "hutao",
     "albedo",
-    "bennett",
-    "hutao"
+    "bennett"
   ]
 }

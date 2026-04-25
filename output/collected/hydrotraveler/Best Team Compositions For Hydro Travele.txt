@@ -1,0 +1,321 @@
+Best Team Compositions For Hydro Traveler In Genshin Impact
+By
+Loreana Cardones
+Published
+Nov 21, 2023, 1:45 PM EST
+Loreana is a writer with experience in many different topics; an A student in a whole new sense of the word. Though she has now switched the undergrad and grad level academic writing for a bootleg Xbox controller to play her favorite gacha games with, she applies to gaming writing with the degree of rigor expected of a true scholar. That is NOT a Dottore reference (it is).
+Sign in to your
+TheGamer
+account
+Add Us On
+Jump links
+Jump Links
+Hydro Traveler's Best Overall Team: Nilou Bloom
+Hydro Traveler Vaporize Team
+Hydro Traveler Hyperbloom Team
+follow
+Follow
+followed
+Followed
+Like
+Like
+Log in
+Here is a fact-based summary of the story contents:
+Try something different:
+Show me the facts
+Explain it like I’m 5
+Give me a lighthearted recap
+The Traveler always plays the role of the introductory unit to every new nation in
+Genshin Impact
+. Their abilities will often mimic those of the respective Archon, albeit in a much less powerful way. As a unit, the Traveler has consistently allowed for some versatility, but they are easily outclassed by other units in the game.
+Related
+Genshin Impact: Best Builds For Hydro Traveler
+Traveler gets a new set of skills every time a new region is released in Genshin Impact, and here's how you can build the Hydro one.
+Posts
+By
+Sanyam Jain
+Hydro Traveler, in particular, is hard to pin down. They are certainly not a powerhouse, they have a niche play style that can feel clunky, and they fail to live up to the potential of the mighty Hydro supports already on the roster. However, with some determination, they can still find a place in some of your teams.
+Hydro Traveler's Best Overall Team: Nilou Bloom
+This might be a surprising option for Hydro Traveler, considering that
+the Dendro variant of this character is already known to have a role in Nilou Bloom
+, providing some solid support to this team. However,
+Hydro Traveler has unexpectedly good utility in Nilou Bloom
+thanks to their ability to use
+ranged Hydro attacks faster than most single-target ranged Hydro units
+.
+Coupled with their outstanding resistance to interruption, and their slow Hydro application,
+they can be used in
+multi-target situations to hit targets standing further away from the heart of the battle
+. The best Nilou Bloom composition for this character is:
+Hydro Traveler
+: Reaction Support (requires on-field time, provides okay personal DMG)
+Nilou
+: Main DPS (flexible on-field and off-field)
+Sangonomiya Kokomi
+: Healer, Reaction Support
+Nahida
+: Sub DPS (off-field)
+Character
+Action
+Nahida
+Nahida's Burst can enhance an active character within the AoE of her Shrine of Maya
+based on certain principles. Hydro, Electro, and Pyro, as the only elements that react with Dendro, can cause
+unique effects on her Burst's behavior when other characters in her team wield any of these elements.
+In this case, as she is in a heavily Hydro-based team,
+the duration of the Shrine of Maya will be extended.
+Deploy this Elemental Burst to give Nahida's Tri-Karma Purification damage
+a lengthy buff, and then
+deploy her Elemental Skill to mark up to eight opponents
+with the
+Seed of Skandha, which will connect them.
+Nilou
+When Nilou takes the field, you must
+quickly trigger her Elemental Skill to begin the Dance of Haftkarsvar
+. If you intend to use her as an on-field DPS, you can
+finish this state by consuming the three stacks
+of the Dance of Haftkarsvar using Normal Attacks, which
+will change her Normal Attacks into special Hydro Attacks
+. On the other hand, to use her off-field, use her Elemental Skill twice so
+she creates a Whirling Water Wheel that will follow the active character and apply Hydro.
+What's important when using Nilou is
+triggering her Passive Talent: Court of Dancing Petals
+. This only happens when
+the team is composed solely of Dendro and Hydro characters
+, and
+when the active character takes Dendro DMG. Nilou will help to boost her teammates' Elemental Mastery by 100
+upon triggering her Court of Dancing Petals talent, and she will aid in the creation of Bountiful Cores
+, which are essentially an upgraded version of Dendro Cores that
+deal more DMG, have a larger AoE, and explode faster
+.
+Sangonomiya Kokomi
+Kokomi's Elemental Skill
+grants you 12 seconds of consistent Hydro applicatio
+n to aid in the
+production of Bountiful Cores. This also serves to heal any allies in need throughout a rotation, which
+is crucial in a Nilou Bloom team because characters will need to
+actively take DMG from Dendro Cores
+.
+Hydro Traveler
+Traveler will not always be completely necessary, but
+they will excel in multi-target situations
+. As
+the AoE for
+other Hydro units will be limited
+to the area directly by the characters or within a certain radius of them, Traveler can use their
+Elemental Skill to hit targets outside this area
+. Hold down the Elemental Skill to
+enter aiming mode and sweep through those opponents
+standing far away to
+prompt the creation of Bountiful Cores
+at those locations too.
+Viable Replacements
+There is a more F2P variant of a Nilou Bloom team that can use Hydro Traveler as a teammate:
+Nilou
+playing the same role.
+Yaoyao
+as a Reaction Support and Healer.
+Collei
+as the main Dendro applicator and primary Reaction Support.
+Traveler
+also playing the same role and requiring similar on-field time.
+Traveler does not serve the same niche role in this alternative version
+, as this team is more effective in single-target situations, and as such, it is
+not an optimal setup for them
+.
+The rotation uses
+Nilou's
+off-field version of her Elemental Skill
+to prompt Hydro application, followed by
+Yaoyao's
+Elemental Skill to apply Dendro
+at intervals. Then,
+Collei's Elemental Skill and Elemental Burst
+for more Dendro applications. And last,
+Hydro Traveler's Elemental Skill (hold).
+Hydro Traveler Vaporize Team
+In this team composition,
+Hydro Traveler takes on the role of the primary DMG dealer
+. The rest of the team works as
+off-field supports to boost their performance
+and make them stronger.
+The biggest downside of this team is that it has
+exceedingly high energy requirements
+. This might be an issue in some situations as
+Traveler's DMG will still not be anything outstanding
+, even with the support of all other teammates.
+This team composition can help you
+make the most of Hydro Traveler's offensive capacity
+, though. The lineup consists of:
+Hydro Traveler
+: Main DPS (on-field)
+Mona
+: Sub DPS (off-field)
+Bennett
+: Reaction Support and Healer
+Kaedehara Kazuha
+:
+Reaction Support
+Character
+Action
+Bennett
+Trigger his Elemental Burst
+immediately on battle start. This will deploy an
+Inspiration Field in the form of a small AoE
+. In this area, characters receive
+attack buffs or, if necessary, get healed
+.
+Kaedehara Kazuha
+Then you can quickly switch to
+Kazuha and
+deploy his Elemental Burst as well, causing it to become infused with Pyro
+. This will apply Pyro to nearby enemies, setting the
+perfect conditions for Vaporize
+.
+Mona
+Follow up by
+using Mona's Elemental Burst
+. Though there are some
+complicated mechanics behind playing Mona
+and the way her buffs work in practice, the
+main concern for this formation is that she serves as a support for the Traveler
+, so you won't need to worry about timing and other conditions when using her burst.
+Hydro Traveler
+Lastly, use
+Traveler's Elemental Skill
+(hold) to shoot projectiles at the enemies while buffed by all other party members. Their
+DMG should be generally improved
+under these conditions.
+Sucrose is a good alternative for Kazuha
+in most compositions as a four-star with
+decent grouping abilities and a burst that can incapacitate smaller enemies
+.
+Hydro Traveler Hyperbloom Team
+Hyperbloom teams have become the default best teams
+ever since the release of the Dendro element. This is
+thanks to the relatively low investment and near autopilot nature
+of the Hyperbloom play style.
+These teams are
+usually composed of a Dendro applicator, a Hydro applicator, an Electro applicator, and a driver
+character tasked with the function of
+triggering the reactions
+.
+The element of the driver can be essentially anything
+, as demonstrated by the
+many ideal Cryo drivers and crowd control units
+that work perfectly in Hyperbloom.
+In this case,
+Hydro Traveler would be the driver and double as another Hydro reaction support
+in the process. Using the most popular Hyperbloom composition is the ideal scenario for Hydro Traveler, which leaves us with the following team composition:
+Hydro Traveler
+: Driver (on-field)
+Yelan
+: Sub DPS, Reaction Support
+Kuki Shinobu
+: Healer, Reaction Support
+Nahida
+: Sub DPS, Reaction Support
+Character
+Action
+Nahida
+Trigger her Elemental Burst
+to buff allies.
+In this case, as there are
+both Hydro and Electro characters in the party
+the duration of the Shrine of Maya will be extended, and
+the intervals for Tri-Karma Purification will get shorter
+. Trigger
+her Elemental Skill by
+pressing to "scan"
+enemies and
+lock the Seed of Skandha on them
+, facilitating Dendro reactions.
+Yelan
+Trigger her Elemental Burst
+, which gives the active character the ability to
+trigger Hydro application
+with normal attacks. Yelan's Burst can
+only launch a coordinated Hydro attack at one-second intervals
+. The consistent Hydro application from this effect will interact with Nahida's
+Dendro application to generate Dendro Cores
+.
+Kuki Shinobu
+Activating Shinobu's Elemental Burst
+will create an Electro Field that can cause
+all Dendro Cores in its AoE
+to immediately "activate,"
+dealing moderate Dendro DMG
+. Triggering her
+Elemental Skill creates a Grass Ring of Sanctification
+that deals
+Electro DMG to nearby opponents
+and follows your character around, while also providing healing.
+Hydro Traveler
+Hydro Traveler, as the reaction driver, will need to
+rely on their Normal Attack to a certain extent
+in this team composition. With that said,
+they can sub in as Hydro applicators as well
+when necessary.
+As usual,
+Yelan
+can be replaced by
+Xingqiu
+in this composition
+with essentially no decrease in performance. On the other hand,
+finding a replacement for Nahida can be tough
+, as Hyperbloom teams are heavily dependent on her abilities, but
+you can insert
+other Dendro units like Yaoyao or Collei
+here.
+Dendro Traveler is the best Traveler variant overall
+, and they easily outperform Hydro Traveler in most (if not all) teams where Hydro Traveler can fit,
+except Freeze teams
+(keep in mind
+their Hydro application is not the best for Freeze
+if you're going this route). Nevertheless, if you intend to use Hydro Traveler and make them work, you will find
+that they remain versatile within their obvious limitations.
+NEXT:
+Genshin Impact: Best Weapons For Hydro Traveler
+Live-Service Games
+Genshin Impact
+Follow
+Followed
+Like
+Share
+Facebook
+X
+WhatsApp
+Threads
+Bluesky
+LinkedIn
+Reddit
+Flipboard
+Copy link
+Email
+Close
+Poll
+POLL
+Which game are you most looking forward to in 2026?
+Grand Theft Auto VI
+Grand Theft Auto VI
+26.2%
+Half-Life 3
+Half-Life 3
+19.8%
+Marvel's Wolverine
+Marvel's Wolverine
+12.1%
+007 First Light
+007 First Light
+9.2%
+Forza Horizon 6
+Forza Horizon 6
+11.6%
+Other
+Other
+21.1%
+See Results
+Submit
+Trending Now
+Lego's Massive LOTR Minas Tirith Will Reportedly Come With A Grond Bonus Set
+7 Best Family Board Games In 2026
+Black Flag Resynced Dev Addresses Lack Of Blood And The Trailer's Combat VFX

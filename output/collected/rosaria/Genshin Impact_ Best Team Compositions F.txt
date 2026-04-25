@@ -1,0 +1,368 @@
+Best Teams For Rosaria In Genshin Impact
+By
+Sarah E. Roy
+Updated
+Jan 26, 2022, 12:30 PM EST
+Sign in to your
+GameRant
+account
+Add Us On
+follow
+Follow
+followed
+Followed
+Like
+Like
+Log in
+Here is a fact-based summary of the story contents:
+Try something different:
+Show me the facts
+Explain it like I’m 5
+Give me a lighthearted recap
+Rosaria
+Cryo
+Polearm
+Mondstadt
+Guides
+Ascension
+Builds
+Weapons
+Team Comp
+Constellation
+Player Mistakes
+Back to All Characters
+Rosaria is a frigid, knife-twirling loner and a sister of the Church of Favonius. Her unapologetic directness, frosty demeanor, and purple fishnets make her an easy fan-favorite among the
+Genshin Impact
+audience. She’s a 4* character with decent constellations that empower her in a variety of roles, from Support to DPS.
+RELATED:
+Genshin Impact: The Best Team Compositions To Pair With Ganyu
+Rosaria is unique as the only Cryo Polearm-wielder in
+Genshin Impact
+, with a rapid and ruthless playstyle emblematic of her cut-throat nature. Fortunately, her team synergy is more flexible than her personality, and she’s a valuable addition to both Elemental and Physical teams. Here are some of the
+best team compositions for Rosaria.
+Updated on January 26, 2022, by Scott Vengel:
+Genshin Impact has introduced a lot of new characters over the last few updates. Version 2.4 may have added both Yun Jin and Shenhe to the cast, but the amount of Inazuma characters being welcomed to the mix cannot be underestimated either: Itto, Gorou, the Raiden Shogun, and many others, have all heavily influenced gameplay. Yet, despite all of these changes, Rosaria still leaves a very heavy impact on Genshin Impact's meta. As such, given that the character has had plenty of time to make her way into a lot of players' arsenals by now, this article covering the
+best Rosaria teams in Genshin Impact
+will be updated to be more refined and readable.
+Overview
+Rosaria
+is a 4* Cryo polearm user, with a focus on DPS and sub-DPS (especially the latter). Naturally, players can use her for either role, with the brunt of her DPS capabilities being found in Cryo damage sourced from her Elemental Skill and Burst.
+Her Elemental Skill,
+Ravaging Confession,
+teleports Rosaria behind smaller opponents. Afterward, she deals a Cryo-infused strike to the back of the opponent, increasing CRIT rate if she manages to hit. On the other hand, her Elemental Burst,
+Rites of Termination,
+launches an ice spear similar to Chongyun's Burst. This creates a zone dealing AoE Cryo damage, in addition to the initial strike value.
+Permafreeze Team #1
+DPS: Rosaria
+– 4 PC Blizzard Strayer
+Burst DPS: Chongyun
+– 2 PC Blizzard Strayer + 2 PC Noblesse Oblige
+Support: Xingqiu
+– 4 PC Noblesse Oblige
+Support: Jean
+– 4 PC Viridescent Venerer
+Alternate:
+Rosaria – Kaeya – Xingqiu – Venti
+DPS Rosaria
+As a DPS, Rosaria has
+the most utility on a Permafreeze team.
+The
+Blizzard Strayer
+artifact set is largely to thank for this: the full four-piece assemblage increases Cryo DMG by 15% and CRIT Rate against Cryo-affected opponents by 20%, adding yet another 20% if they’re Frozen. That’s a possible 40% CRIT Rate boost against Frozen enemies on a team that makes it their job to keep enemies Frozen.
+Rosaria’s already a CRIT Rate-buffing
+fiend, increasing her own by 12% for 5s after successfully striking from behind with her Skill and buffing the party’s by up to 15% for 10s after her Burst.
+Cryo Resonance
+grants the entire team 15% more CRIT Rate against Cryo-affected enemies – Rosaria could at once receive
+67% CRIT Rate
+that doesn’t take up any room in her build.
+RELATED:
+Genshin Impact: The Best Builds For Rosaria
+Burst DPS Chongyun
+Chongyun
+is always a boon to Permafreeze teams. His Skill infuses swords, claymores, and polearms with
+Cryo
+. Pairing him with Rosaria, Xingqiu, and Jean allows everyone on the team the opportunity to apply Cryo and Freeze enemies. His Passive Talents increase the Normal ATK SPD of these same weapon-users by 8% when they’re in his Skill’s AoE and
+decreases enemy Cryo RES
+by 10% for 8s when the Skill ends.
+C2
+Chongyun
+is ideal for this team
+, as he’ll decrease the cooldown time of the party’s Elemental Skills and Bursts cast within his Skill AoE by 15% – he’s really unmatched as a Permafreeze contributor at C2.
+Kaeya
+is an excellent substitute for Chongyun with a similar melee-geared Elemental application.
+Support Xingqiu
+Xingqiu
+is the most reliable
+Hydro applicator
+in
+Genshin Impact
+, allowing a melee character like Rosaria limitless Freezing range. His Rain Swords double as shields and minor healing sources when broken. Xingqiu may swap Burst DPS roles with Chongyun, replacing Blizzard Strayer with 2 PC Heart of Depth.
+Few characters can act as natural substitutes for Xingqiu, given how unique his Elemental Skill is. However,
+both Mona and Kokomi
+can apply Hydro passively with their talents. That said, players should be aware that between these characters being limited and the need to carefully place their Elemental Skills, Xingqiu will likely be the more efficient applier if available.
+Anemo Support
+The last slot on this team for a
+Viridescent Venerer
+Support varies according to player preference. Viridescent is intended for Anemo characters to boost their own damage with an Anemo and Swirl buff while simultaneously decreasing enemy
+Elemental Resistance
+to the main damage dealer’s Element. Viable contenders for this spot include Jean, Venti, Kazuha, and Sucrose, all with their own highlights and pitfalls.
+Jean
+is an excellent
+Healer
+for the entire party, on and off-field – she provides security and endurance, though lacks the crowd control might of Venti, Sucrose, or Kazuha.
+Venti’s Burst
+is the best crowd control
+tool in
+Genshin Impact
+: Rosaria’s Burst strikes those tumbling around the cyclone, and combined with Xingqiu’s Rain Swords, it creates a nice little Frozen vacuum for Rosaria to clean up once Venti’s Burst ends. However, not all of Rosaria’s Normal/Charged or Skill attacks will connect with Venti’s Burst zone – and he’s a limited five-star character.
+Kazuha
+is even more limited thanks to a single banner run and doesn’t cluster enemies as strategically as Venti, but he’s also an extraordinary Support who bestows an
+Elemental DMG Bonus
+upon the team.
+Sucrose
+is a F2P-friendly alternative who offers more crowd control than Jean but less than Venti. Unfortunately, her Elemental Mastery buffs are wasted on a Permafreeze team.
+Permafreeze Team #2
+DPS: Kaeya
+– 4 PC Blizzard Strayer
+Burst DPS Rosaria
+– 2 PC Blizzard Strayer + 2 PC Noblesse Oblige
+Support: Barbara
+– 4 PC Noblesse Oblige
+Support: Kazuha
+– 4 PC Viridescent Venerer
+Alternate:
+Kaeya – Rosaria – Mona – Jean
+DPS Kaeya
+Rosaria and Kaeya are very similar, and she’s a great complement to
+Blizzard Strayer Kaeya
+for those who don’t care for Chongyun. This team can also function almost identically to the first one with
+Kaeya, Rosaria, Xingqiu, and Jean
+.
+RELATED:
+Genshin Impact: Best Builds for Kaeya
+Burst DPS Rosaria
+Sub-DPS Rosaria will lend her CRIT Rate buffs to Kaeya already benefitting from Blizzard Strayer, enabling players to stack an amazing amount of CRIT DMG on Kaeya as DPS. She’s especially helpful for
+Hybrid Kaeya
+who wants the ability to swap in and out of Melt and Permafreeze teams and won’t run 4 PC Blizzard Strayer.
+Support Barbara
+Barbara
+is the most accessible Hydro applier in
+Genshin Impact,
+as she is given to players
+completely for free
+. While she doesn't apply Wet status passively, she does also come with the
+added benefit of healing
+, freeing up another slot in the team composition for an extra support character.
+Mona
+can replace Barbara for players comfortable sacrificing gameplay ease and healing for increased damage. Her
+Omen buffs
+are extended against Frozen enemies and
+C1 Mona increases the duration of Frozen
+by 15% – this relies on Kazuha aiming more with his Skill to coincide with Mona’s.
+Jean
+could have Viridescent control in this team and still heal. For defensive teams who want optimum survivability,
+Kokomi
+can place her Skill with Mona and use Tenacity of the Millelith instead of Viridescent.
+Support Kazuha
+Kazuha
+has a bit of an edge in the Support role for this team because he draws opponents inwards: Kazuha armed with both
+Barbara’s Skill
+and
+Kaeya’s Burst
+Freezes enemies collected in his Skill plunge, allowing Rosaria to compound her Burst on top of that area.
+Physical Team #1
+DPS: Rosaria
+– 4 PC Retracing Bolide
+Burst DPS: Raiden Shogun
+– 4 PC Emblem of Severed Fate
+Support: Kaeya
+– 4 PC Noblesse Oblige
+Shield: Zhongli
+– 4 PC Tenacity of the Millelith
+Alternate:
+Rosaria – C6 Fischl – Kaeya – C0 to C5 Bennett
+DPS Rosaria
+Rosaria is a popular choice for Physical DPS because of her enjoyable Normal/Charged Attack gameplay and overall swiftness –
+C6 Rosaria
+in particular. At C6, she decreases opponents’
+Physical RES by 20%
+for 10s post-Burst, setting the stage for her own bone-crushing performance or introducing another PHYS DPS like
+Eula
+or
+Razor
+.
+Burst DPS Raiden Shogun
+Ideally, Physical DPS Rosaria would be accompanied by another Cryo presence and an Electro Support. Including
+a second Cryo character prompts
+Cryo Resonance
+, increasing CRIT Rate against Cryo-affected enemies by 15%, and Electro will trigger
+Superconduct
+reactions, decreasing enemy PHYS RES by 40% for 12s. Raiden Shogun's Skill deals Electro DMG with the active character during their Normal/Charged Attacks every 0.9s for 25s, with a low cooldown of 10s.
+Support Kaeya
+Kaeya is the Cryo Resonance enabler.
+Kaeya’s Burst
+combined with
+Raiden’s Skill
+allows Rosaria full mobility with Superconduct. Keep in mind diminishing returns: Superconduct combined with
+Zhongli’s Jade Shield
+won’t net a 60% PHYS RES reduction on an opponent with less than 60% PHYS RES – any RES shred below 0% has half the effect.
+Support Zhongli
+Zhongli’s shield is still incredibly helpful
+for Rosaria in general, as its close-range effect is ideal for a melee fighter, and Rosaria benefits from both the Elemental and Physical RES 20% decrease. Zhongli serves the triple purpose of crowd controller with his petrifying Burst, protector with his unshakable shield, and buffer bringing
+Tenacity of the Millelith
+to the table. Rosaria can wield
+Retracing Bolide
+and wreak havoc with its 40% Normal/Charged Attack boost specifically because of Zhongli.
+For players who don’t have Zhongli, 2 PC Gladiator’s Finale or Shimenawa’s Reminiscence plus 2 PC Pale Flame or Bloodstained Chivalry is better than Retracing Bolide for Rosaria.
+C2 Jean
+could be substituted instead: with this constellation, she increases party Movement SPD and ATK SPD by 15% for 15s after picking up an Elemental Orb/Particle.
+C4 Xinyan
+and
+Bennett
+could replace Kaeya and Zhongli for players who prefer the 25% ATK bonus from
+Pyro Resonance
+, as
+Xinyan decreases PHYS RES
+by 15% for 12s at C4. This might work better in a team comp lacking Raiden and C6 Fischl to compensate for the less frequent Superconducts. Alternatively, keeping Kaeya and bringing in Bennett is an option since Bennett’s Pyro application is small enough to interfere only minimally with Superconduct.
+Physical Team #2
+DPS: Eula
+– 4 PC Pale Flame
+Burst DPS: Raiden Shogun –
+4 PC Emblem of Severed Fate
+Support: C6 Rosaria
+– 4 PC Noblesse Oblige
+Support: C2 Jean
+– 4 PC Viridescent Venerer
+Alternate:
+Eula – Rosaria – Fischl – Zhongli
+DPS Eula
+Eula is
+Genshin
+'s Physical queen.
+On a Eula-led team
+, Rosaria brings a massive amount of CRIT Rate to the table. An extra 15% from Cryo Resonance plus the max 15% gifted by her Passive Talent gives
+Eula
+a potential
+30% CRIT Rate
+, with Rosaria nearly an entire Circlet by herself.
+Burst DPS Raiden Shogun
+Electro battery
+Raiden Shogun
+on either team
+could be swapped for Fischl as a Sub-DPS with Thundering Fury and Gladiator’s Finale or as Tenacity of the Millelith Support. Players with less than C6 Fischl and no Raiden could try the alternate team as Zhongli’s Jade Shield gains relevance with the absence of prolonged Electro field time. Fischl and Rosaria would be exchangeable in the Sub-DPS/Support positions.
+Support Rosaria
+Rosaria functions best as a Support with the classic 4 PC
+Noblesse Oblige
+to supplement her Burst-focused role, occasionally utilizing her Skill to quickly place Eula and activate the CRIT Rate Passive. Players still farming for Viridescent Venerer could shift Noblesse over to Jean and run 2 PC Noblesse with 2 PC Blizzard Strayer on Rosaria instead, or 4 PC Emblem of Severed Fate if the goal is to spam her Burst just to get Cryo on field as often as possible.
+Support Jean
+C2 Jean's Movement and ATK SPD bonuses will increase Eula's strike frequency, and healing is always helpful. Zhongli can certainly fit on this team in place of
+Jean
+, though the sheer amount of Superconduct alongside C6 Rosaria’s PHYS RES shred could render Jade Shield’s own shredding properties redundant.
+Reverse-Melt Team
+DPS: Rosaria
+– 2 PC Blizzard Strayer + 2 PC Gladiator’s Finale or Shimenawa’s Reminiscence
+Burst DPS: C4 Xiangling
+– 4 PC Emblem of Severed Fate
+Support: Chongyun
+– 2 PC Blizzard Strayer + 2 PC Noblesse Oblige
+Support: Bennett
+– 4 PC Noblesse Oblige
+Alternate
+: Rosaria – Xiangling – C6 Bennett – Sucrose
+DPS Rosaria
+Rosaria's Cryo damage is the focus of this build, though she shouldn't be relying on Blizzard Strayer. In the absence of Chongyun, 4 PC
+Lavawalker
+would suit Rosaria as long as Xiangling has enough Energy Recharge to consistently use her Burst. C6 Bennett replacing Chongyun contributes further to this team by infusing Rosaria’s weapon with Pyro and allowing her to both Melt and Reverse-Melt in her own Burst circle.
+Burst DPS Xiangling
+Players would want
+C4 Xiangling
+for this team to accomplish sustained Reverse-Melts.
+Xiangling is the best Pyro applicator
+in
+Genshin Impact
+with her Elemental Burst, Pyronado. Pyronado’s duration is extended by
+40% at C4
+– crucial for Rosaria to achieve any Reverse-Melts at all. Chongyun contributes wholeheartedly to the overall team damage, but for those who want to focus on Rosaria specifically doing the bulk of the Reverse-Melting, C4 Xiangling is essential. Luckily, she’s a free character and pretty easy to pull. C6 Xiangling would probably swap places with Rosaria and transform the team to Melt-based with the inclement 15% Pyro DMG Bonus during Pyronado.
+Support Chongyun
+Chongyun’s presence on this team is what gives Reverse-Melt Rosaria utility. Rosaria isn’t a great Reverse-Melter sans
+Chongyun
+– her slow-drip Burst is limited to a humble AoE, and it may be difficult to corral crowds into that space and keep them there long enough for
+Xiangling to apply Pyro
+and the next 2s Cryo pulse to Reverse-Melt. Reverse-Melt in and of itself does less damage than a straightforward Melt (1.5 vs. 2x. DMG). However, Chongyun’s Skill and the advantages inherent in his Passives and C2 previously articulated alter Rosaria’s Normal/Charged Attacks into Reverse-Melt triggers.
+Support Bennett
+This team also benefits from
+Pryo and Cryo Resonances
+, adding 25% ATK and a potential 15% CRIT Rate to the party.
+Bennett
+heals, buffs attack with his Burst, and
+buffs again with Noblesse Oblige
+– as well as
+snapshots
+Xiangling’s and Rosaria’s Bursts, imbuing its entire duration with the buff even if his Burst ends first. Sucrose is another option for players amenable to breaking the double Resonance buff in exchange for
+Elemental Mastery
+and
+Elemental Resistance shred
+, courtesy of Viridescent Venerer and her amazing EM Talents.
+VapeMelt Team
+DPS: Xiangling
+– 4 PC Emblem of Severed Fate
+Burst DPS: Xingqiu
+– 2 PC Noblesse Oblige + 2 PC Heart of Depth
+Support: Rosaria
+– 2 PC Noblesse Oblige + 2 PC Blizzard Strayer
+Support: Bennett
+– 4 PC Noblesse Oblige
+Another Melt-adjacent fit for Rosaria is as a substitute for Chongyun on the VapeMelt “national” team. Rosaria is the least significant portion of this team, but she works with a generic Noblesse and Blizzard artifact combo that allows her to move between different compositions as Sub-DPS. Her main function is to establish another
+Elemental Reaction
+for
+Xiangling
+, who will be swinging her snapshotted Pyronado courtesy of Bennett all across the field in the hopes of encountering a Hydro unit from Xingqiu or a Cryo unit from Rosaria for those juicy reaction damage bonuses.
+Alternate:
+Hu Tao – Rosaria – Xingqiu – Zhongli
+Although Rosaria isn’t the greatest Cryo applier, her Cryo Burst AoE provides an adequate platform for
+Hu Tao
+to unleash her Burst or continuously work her Skill. Rosaria’s CRIT-boosting Talents are the driving force behind her selection for this team, enabling a
+big-number DPS like Hu Tao
+to make the most of her energy usage. Zhongli may replace Bennett on either team as they both consist of melee attackers able to prompt the Jade Shield proximity shred, and the former can provide a similar ATK buff with Tenacity of the Millelith.
+Overall, Rosaria is a versatile character who meshes with many team comps dedicated to exploiting
+Genshin Impact
+’s lucrative Elemental Reactions.
+Genshin Impact
+is available on mobile devices, PC, PS4, and PS5.
+Source:
+Genshin Impact Wiki
+,
+Keqingmains
+Strategy Guides
+Genshin Impact
+Mobile Gaming
+Follow
+Followed
+Like
+Share
+Facebook
+X
+WhatsApp
+Threads
+Bluesky
+LinkedIn
+Reddit
+Flipboard
+Copy link
+Email
+Close
+Poll
+POLL
+Which recently released Nintendo cozy game do you prefer?
+Pokemon Pokopia
+Pokemon Pokopia
+56.7%
+Tomodachi Life: Living the Dream
+Tomodachi Life: Living the Dream
+43.3%
+See Results
+Submit
+Trending Now
+Pokemon Scarlet and Violet Players Have Until April 30 to Get Free Chesnaught
+'Sega Universe' Teases Plans to Celebrate Classic Franchise Anniversaries
+Battlefield Movie With Michael B. Jordan Confirmed

@@ -1,0 +1,142 @@
+0
+Bookmark (
+0
+)
+Please login to bookmark
+Close
+Username or Email Address
+Password
+Remember Me
+Don't have an account? Register here.
+Create an account to bookmark articles.
+Username
+*
+3-60 characters, letters, numbers, spaces, and these symbols: @._-
+Email
+*
+You will receive an email to set your password after registration.
+Subscribe to The Destructoid Checkpoint Newsletter
+Get the latest gaming news and updates delivered to your inbox.
+Create Account
+Already have an account? Sign in here.
+Back to top
+Home
+Guides
+Best Sayu Builds, Weapons, and Teams in Genshin Impact
+Gotta go fast!
+Christine Choi
+| Sep 10, 2023 9:19 am
+Image via HoYoverse
+Sayu is a 4-star Anemo healer in
+Genshin Impact
+.
+Let’s get the ball rolling on the best weapons, artifacts, and teams for our little ninja.
+Recommended Videos
+Playstyles
+Sayu can be played primarily on-field or off-field. Off-field Sayu can fit into more diverse teams, but on-field Sayu lets you play
+Sonic the Hedgehog
+in
+Genshin.
+Off-field support Sayu simply swaps in, uses her Skill, then Burst, then swaps out. In order to generate more particles, you can hold her Skill button briefly so she enters her rolling animation and then cancels out of her rolling state early by pressing Skill again. Her Burst will heal all teammates and then administer additional healing to your on-field character at intervals. She offers healing utility, buffs/debuffs through her artifact set, Swirl damage, and Anemo particles.
+On-field, Sayu uses her hold Skill to turn into a ball, then rolls around into enemies. She deals constant Anemo damage in this state, and while it’s not substantial on its own, it can still trigger Swirl. With off-field DPS units like Xiangling or Kaeya, you can turn Sayu into a rolling ball of death. This playstyle isn’t recommended for the hardest content, but it is extremely fun and unique.
+Screenshot by Destructoid
+Weapons
+Favonius Greatsword / Katsuragikiri Nagamasa / Sacrificial Greatsword
+– Sayu’s Energy Recharge requirements are enormous if you want to use her Burst with any regularity. This is especially true for off-field support Sayu, who relies on her Burst for much of her utility. Energy Recharge weapons, in general, are helpful, but these weapons specifically have passives that further help generate Energy.
+Any Elemental Mastery weapon
+– If your Energy needs are met, you can opt for an Elemental Mastery weapon to maximize Sayu’s Swirl damage.
+Wolf’s Gravestone / any ATK weapon
+– If your Sayu is not Constellation 6, then her healing scales only with ATK. If you don’t care as much about damage, you can build some ATK for more healing.
+Screenshot by Destructoid
+Artifacts
+4pc Viridescent Venerer (4VV)
+– The standard artifact set for Anemo characters. This will buff Sayu’s Swirl damage on top of letting her shred enemy RES for elements that she Swirls. 4VV is the best set for both off-field and on-field.
+4pc Noblesse Oblige (4NO)
+– If you already have a 4VV holder on your team, you can opt for 4NO instead. Its passive grants a 20% ATK buff to your team when Sayu uses her Burst.
+Artifact Stats
+Sands
+Goblet
+Circlet
+Energy Recharge
+Elemental Mastery
+ATK
+Elemental Mastery
+ATK
+CRIT Rate (if Favonius)
+Elemental Mastery
+Healing Bonus
+Off-field Sayu can require upwards of 220% Energy Recharge in order to Burst every rotation. On-field Sayu can generally get by with less, but the exact number varies from around 150% to 180%, depending on your Constellation level and team. Try her out with your team to see how it feels, and err on the side of too much rather than too little.
+If your Energy needs are met, then Elemental Mastery will be your best source of damage through bigger Swirls. At Constellation 6, Sayu’s healing scales with Elemental Mastery too.
+If your Sayu is pre-C6 and primarily a healer, consider building some ATK or Healing Bonus to supplement her healing. I still find her healing adequate with a full EM build, so you might want to try that first to gauge if you need more.
+If equipping Favonius Greatsword, build some CRIT Rate too to help proc its passive more frequently.
+Screenshot by Destructoid
+Teams
+Off-field
+Sayu, as an off-field support, can fit into any team that benefits from an Anemo healer. She is rarely the best choice in terms of team DPS, but she conveniently condenses 4VV RES shred, healing, and Anemo particle generation into one character slot. Some examples of teams include:
+Xiao – Faruzan – Fischl – Sayu
+Sucrose – Fischl – Xingqiu – Sayu
+Raiden – Xingqiu –
+Yelan
+– Sayu
+Nahida – Yelan – Raiden – Sayu
+Lisa – Fischl – Dendro Traveler – Sayu
+On-field
+While rolling, Sayu cannot use Normal Attacks, rendering her unable to trigger effects that depend on Normal Attacks. This makes her unable to synergize with some off-field DPS units like Xingqiu, Yelan, and Beidou. However, you can more or less pick anyone from the list below:
+Xiangling
+deals significant Pyro damage in an AoE around Sayu. Her Pyronado follows the player, complete freedom of motion. Make sure to bring
+Bennett
+to provide Energy and buff Xiangling.
+Kaeya
+deals Cryo damage with his Burst. Like Xiangling, his icicles follow Sayu as she rolls.
+Fischl or Yae Miko
+do off-field Electro damage. Their turrets have a pretty generous range, giving Sayu plenty of space to roll around.
+Raiden Shogun or Kuki Shinobu
+are your Electro options for Hyperbloom teams. They should be built with full Elemental Mastery since they and Sayu will have mixed ownership of Hyperblooms.
+Nahida or Dendro Traveler
+are required for Hyperbloom teams. Nahida is better for this, as Dendro Traveler’s Burst AoE is somewhat limiting.
+Ayato
+can provide off-field Hydro application for Hyperbloom. Make sure to build enough Energy Recharge to allow him to Burst when needed.
+Kazuha, Sucrose, or
+Lynette
+may sound redundant at first glance, but they can help provide Energy for Sayu and apply additional elements through absorptions and Swirls. Kazuha or Sucrose can also help group enemies together, allowing Swirls to hit multiple enemies at once.
+0
+Christine Choi
+Contributing Writer - Christine has been gaming since she first stole her brother's Game Boy as a kid. She's come a long way since then and has been creating content for Genshin Impact since 2021.
+Tags:
+Genshin Impact
+guides
+HoYoverse
+miHoYo
+mobile
+PC
+PS4
+PS5
+0
+Bookmark (
+0
+)
+Please login to bookmark
+Close
+Username or Email Address
+Password
+Remember Me
+Don't have an account? Register here.
+Create an account to bookmark articles.
+Username
+*
+3-60 characters, letters, numbers, spaces, and these symbols: @._-
+Email
+*
+You will receive an email to set your password after registration.
+Subscribe to The Destructoid Checkpoint Newsletter
+Get the latest gaming news and updates delivered to your inbox.
+Create Account
+Already have an account? Sign in here.
+Share
+this article
+Destructoid is supported by our audience. When you purchase through links on our site, we may earn a small affiliate commission.
+Learn more about our Affiliate Policy
+.
+Like our content? Set Destructoid as a
+Preferred Source on Google
+in just one step to ensure you see us more frequently in your Google searches!

@@ -1,0 +1,190 @@
+Genshin Impact Alhaitham Build
+Dendro
+Sword
+Main DPS
+Alhaitham Upgrade Materials
+Ingenuity
+Mirror of Mushin
+Nagadus Emerald Sliver
+Pseudo-Stamens
+Sand Grease Pupa
+Faded Red Satin
+Alhaitham Best Weapons
+1
+Light of Foliar Incision
+2
+Primordial Jade Cutter
+3
+Mistsplitter Reforged
+4
+Haran Geppaku Futsu
+5
+The Black Sword
+Alhaitham Best Artifacts
+1
+Gilded Dreams
+4
+2
+Deepwood Memories
+2
+Emblem of Severed Fate
+2
+3
+Deepwood Memories
+2
+Gilded Dreams
+2
+4
+Emblem of Severed Fate
+2
+Gilded Dreams
+2
+5
+Deepwood Memories
+4
+Alhaitham Best Stats
+Sands:
+Elemental Mastery / ATK%
+Goblet:
+Dendro DMG
+Circlet:
+CRIT Rate / CRIT DMG
+Substats:
+Energy Recharge > CRIT Rate / CRIT DMG > Elemental Mastery
+Character Builds by Genshin Impact Helper →
+Showcase
+Teams
+Talents
+Passives
+Constellations
+Ascension
+Alhaitham Showcase
+Alhaitham video guide by
+Braxophone
+.
+Check out his content!
+Best Alhaitham Teams
+Alhaitham Quicken
+Alhaitham Quickbloom
+Alhaitham Talents
+Normal Attack
+Abductive Reasoning
+Normal Attack Perform up to 5 rapid strikes. Charged Attack Consumes a certain amount of Stamina to unleash 2 rapid sword strikes. Plunging Attack Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Elemental Skill
+Universality: An Elaboration on Form
+Rushes forward, dealing
+Dendro
+DMG to nearby opponents when the rush ends, causing a Chisel-Light Mirror to form. Holding this skill will cause it to behave differently. Hold Enters Aiming Mode to adjust the direction of Alhaitham's rush attack. Chisel-Light Mirror When this skill is unleashed, Alhaitham will generate 1 Chisel-Light Mirror. If there are no Mirrors at this time, he will generate 1 additional Mirror. Chisel-Light Mirrors will have the following properties: When he possesses Chisel-Light Mirrors, Alhaitham's Normal, Charged, and Plunging Attacks will be converted to
+Dendro
+DMG. This cannot be overridden. When attacks of the aforementioned kinds hit opponents, the Chisel-Light Mirrors will unleash a Projection Attack that deals AoE
+Dendro
+DMG based on the number of Mirrors on the field. A total of 3 Chisel-Light Mirrors can exist at once. The Chisel-Light Mirrors will disappear one after the other over time, and will all disappear when Alhaitham leaves the field.
+Elemental Burst
+Particular Field: Fetters of Phenomena
+Creates a Particular Binding Field and deals multiple instances of AoE
+Dendro
+DMG. If Chisel-Light Mirrors exist when this ability is unleashed, all such Mirrors will be consumed and increase the number of DMG instances dealt. 2s after this ability is unleashed, if 0/1/2/3 Mirrors were consumed, Alhaitham will generate 3/2/1/0 new Mirrors in turn.
+Alhaitham Passives
+Ascension 1
+Four-Causal Correction
+When Alhaitham's Charged or Plunging Attacks hit opponents, they will generate 1 Chisel-Light Mirror. This effect can be triggered once every 12s.
+Ascension 4
+Mysteries Laid Bare
+Each point of Alhaitham's Elemental Mastery will increase the DMG dealt by Projection Attacks and Particular Field: Fetters of Phenomena by 0.1%. The maximum DMG increase this way for both these abilities is 100%.
+Passive
+Law of Reductive Overdetermination
+When Alhaitham crafts Weapon Ascension Materials, he has a 10% chance to receive double the product.
+Alhaitham Constellations
+Constellation 1
+Intuition
+When a Projection Attack hits an opponent, Universality: An Elaboration on Form's CD is decreased by 1.2s. This effect can be triggered once every 1s.
+Constellation 2
+Debate
+When Alhaitham generates a Chisel-Light Mirror, his Elemental Mastery will be increased by 50 for 8 seconds, max 4 stacks. Each stack's duration is counted independently. This effect can be triggered even when the maximum number of Chisel-Light Mirrors has been reached.
+Constellation 3
+Negation
+Increases the level of Universality: An Elaboration on Form by 3. Maximum upgrade level is 15.
+Constellation 4
+Elucidation
+When Particular Field: Fetters of Phenomena is unleashed, the following effects will become active based on the number of Chisel-Light Mirrors consumed and created this time around: Each Mirror consumed will increase the Elemental Mastery of all other nearby party members by 30 for 15s. Each Mirror generated will grant Alhaitham a 10%
+Dendro
+DMG Bonus for 15s. The pre-existing duration of the aforementioned effects will be cleared if you use Particular Field: Fetters of Phenomena again while they are in effect.
+Constellation 5
+Sagacity
+Increase the Particular Field: Fetters of Phenomena by 3. Maximum upgrade level is 15.
+Constellation 6
+Structuration
+Alhaitham gains the following effects: 2 seconds after Particular Field: Fetters of Phenomena is unleashed, he will generate 3 Chisel-Light Mirrors regardless of the number of mirrors consumed. If Alhaitham generates Chisel-Light Mirrors when their numbers have already maxed out, his CRIT Rate and CRIT DMG will increase by 10% and 70% respectively for 6s. If this effect is triggered again during its initial duration, the duration remaining will be increased by 6s.
+Alhaitham Ascension Costs
+Rank
+Lvl
+Cost
+Material
+Material
+Material
+Material
+1
+20
+20000
+1
+Nagadus Emerald Sliver
+3
+Sand Grease Pupa
+3
+Faded Red Satin
+2
+40
+40000
+3
+Nagadus Emerald Fragment
+2
+Pseudo-Stamens
+10
+Sand Grease Pupa
+15
+Faded Red Satin
+3
+50
+60000
+6
+Nagadus Emerald Fragment
+4
+Pseudo-Stamens
+20
+Sand Grease Pupa
+12
+Trimmed Red Silk
+4
+60
+80000
+3
+Nagadus Emerald Chunk
+8
+Pseudo-Stamens
+30
+Sand Grease Pupa
+18
+Trimmed Red Silk
+5
+70
+100000
+6
+Nagadus Emerald Chunk
+12
+Pseudo-Stamens
+45
+Sand Grease Pupa
+12
+Rich Red Brocade
+6
+80
+120000
+6
+Nagadus Emerald Gemstone
+20
+Pseudo-Stamens
+60
+Sand Grease Pupa
+24
+Rich Red Brocade
+Loading...

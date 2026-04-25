@@ -1,0 +1,669 @@
+Updated for Version “Luna I”
+Lisa is a 4-star Electro character who utilizes her access to frequent and reliable Electro application from her various abilities to deal Burst, sustained, and reaction damage, while also elevating other teammates with her supportive attributes.
+The full
+Lisa Guide
+(or
+here
+as a Google Doc) hosted here on KQM by Lisa Mains is a more exhaustive version of this Quick Guide. This Quick Guide will primarily delve into Lisa’s more usual and “standard” archetypes, most notably as an Electro On-field DPS through Dendro reactions in addition to Electro Off-field DPS or supportive roles.
+If any inquiries about Lisa’s other archetypes arise, being the still viable Reaction Lisa or other atypical usages, do make sure to check out the full guide or the respective help sections in both the
+Lisa Mains
+and
+KQM
+Discords.
+Table of Contents
+New Content
+Infographic
+Playstyles
+On-field DPS
+Off-field DPS / Support
+Reaction DPS
+Character Overview
+Level & Talent Priority
+Talents
+Constellations
+Artifacts
+ER Requirements
+On-Field Electro DPS
+Artifact Stats
+Artifact Sets
+Off-Field Electro DPS / Support
+Artifact Stats
+Artifact Sets
+Weapons
+Electro DPS Lisa
+Support Lisa
+Teams
+On-Field
+Aggravate
+Quickbloom
+Lunar-Charged & Electro-Charged
+Off-Field / Support
+Quicken Core
+Dedicated Support
+Credits
+New Content
+Flins
+Flins is an on-field Electro damage dealer that specializes in Lunar-Charged teams and also enables said reaction. Lisa can function as an off-fielder in these Lunar-Charged teams, but her overall value is reduced compared to her potential in other teams because of his Energy needs and her less valuable DEF Shred. Flins increases the team’s Moonsign Level by 1.
+Lauma
+Lauma is an off-field Dendro Applier, provides Dendro RES Shred, and buffs Bloom-derivative reactions. She is an ideal option in Lisa’s Quickbloom and Hyperbloom teams, making them sufficiently competitive to Lisa’s Aggravate teams. Lauma increases the team’s Moonsign Level by 1.
+Aino
+Aino is an off-field Hydro Applier and may be found in Lisa’s Lunar-Charged teams alongside Ineffa.
+Aino can provide buffs by equipping or enabling certain artifact sets. Aino increases the team’s Moonsign Level by 1.
+Etherlight Spindlelute
+Etherlight Spindlelute is an event 4-star Catalyst with an ER% substat and ample EM from its passive. It is an ideal weapon for Hyperbloom and Reaction Overloaded Lisa. It is not a viable weapon for Lisa when she is on-field, but it can be great occasionally when off-field.
+Silken Moon’s Serenade
+4pc SMS is a teamwide EM buffing artifact set when Nod-Krai characters are present. Lisa can rarely use this set in select teams, but it can be equipped in Lisa’s own teams on supports with Nod-Krai characters.
+2pc SMS also provides 20% ER, which can be valuable in some of Lisa’s temporary or distinct builds.
+Night of the Sky’s Unveiling
+4pc NotSU is an offensive artifact set enabled when Nod-Krai characters are present. It can be optimal for Lisa when on-field, but it necessitates multiple Nod-Krai teammates to be enabled.
+2pc NotSU also provides 80 EM, which can be valuable in some of Lisa’s temporary or distinct builds.
+Level 95 & 100
+While the cost to level any character above 90 is expensive, leveling Lisa to past 90 increases her Base ATK and Elemental Reactions most notably. Unlike when leveling prior to 90, the Base ATK and Reaction damage become more and less prominent, respectively.
+Aside from dedication, it may be more worthwhile to select others to level.
+Ineffa
+Ineffa is an off-field AoE Electro damage dealer, shielder, and enables the Lunar-Charged reaction in Lisa’s former Electro-Charged teams. Ineffa increases the team’s Moonsign Level by 1.
+Ineffa’s contribution alone transforms Lisa’s usual Electro-Charged teams into competitive Lunar-Charged teams, almost comparable to Lisa’s Aggravate teams. Ineffa may also be seen in Lisa’s Quickbloom teams.
+Infographic
+Designer: kolvii
+Content: nebbles_
+Designer: kolvii
+Content: nebbles_
+Playstyles
+On-field DPS
+As an on-field DPS, Lisa applies ample amounts of Electro application, acts as a driver for other potential characters, and supports the team through her valuable Passive. Lisa is often used in conjunction with the Dendro element and its subsequent reactions due to their prominent synergy.
+This playstyle will be one of the two main archetypes focused on within the Quick Guide.
+Off-field DPS / Support
+As an off-field DPS or a “support,” more of Lisa’s impact shifts to her Burst, Skill, and, most notably, her influential Passive — Lisa is commonly recognized as this playstyle. According to the team Lisa is in, she may be better purposed as a dedicated off-field DPS or as a full-on buffer with TTDS or Hakushin Ring (and rarely Prototype Amber).
+This will be the other major archetype focused on in this Quick Guide.
+Reaction DPS
+As a Reaction DPS, Lisa builds unconventionally compared to her Electro DPS archetypes. Here, she employs her Burst’s Electro application to trigger Hyperbloom or Overloaded.
+Despite this archetype remaining viable, this will not be primarily examined within the Quick Guide. Feel free to look at the full guide if any interest arises.
+Character Overview
+Level & Talent Priority
+Burst ≥ Skill > Normal Attack
+For Aggravate Lisa—her most prominent usage—leveling her to 90 is also highly recommended because it provides a noticeable damage increase to her Aggravate triggers, which happen frequently.
+Leveling Lisa to 95 or 100 is an option, but the costs are significant, making it hard to justify unless for dedication reasons.
+Talents
+Normal Attack
+Elemental Skill
+Elemental Burst
+Ascension 1 Passive
+Ascension 4 Passive
+Normal Attack
+Normal Attack
+|
+Lightning Touch
+Talent Description
+Normal Attack
+Performs up to 4 lightning attacks that deal
+Electro DMG
+.
+Charged Attack
+Consumes a certain amount of Stamina to deal
+Electro DMG
+after a short casting time.
+Plunging Attack
+Gathering the might of Electro, Lisa plunges towards the ground from mid-air, damaging all opponents in her path. Deals AoE
+Electro DMG
+upon impact with the ground.
+Lisa’s entire Normal Attack (NA) string consists of 4 attacks in total. The first 3 are in quick succession, while the 4th follows after a brief teleport. Lisa’s Charged Attack (CA), after a short cast, deals considerable damage and will always apply Electro in a given area in front of her. Be aware that her Normal Attacks and Charged Attacks have independent ICDs.
+Alternating between using her NAs and CAs is important to maximize both her total damage and her amount of Electro application. Common attack strings involving just these two types of actions include N1CA, N2CA, and N3. It is typically not advised to execute her 4th NA as it is sluggish.
+More strings will be introduced within Lisa’s Elemental Skill tab further on.
+Lisa’s Plunging Attacks will always apply Electro. This is especially useful in teams with Xianyun, allowing Lisa to trigger buffed, Aggravated Plunging Attacks consistently through combos like tEJP.
+Elemental Skill
+Elemental Skill
+|
+Violet Arc
+Talent Description
+Channels the power of lightning to sweep bothersome matters away.
+Press
+Releases a homing Lightning Orb.
+On hit, it deals
+Electro DMG
+, and applies a stack of the Conductive status (max 3 stacks) to opponents in a small AoE.
+Hold
+After an extended casting time, calls down lightning from the heavens, dealing massive
+Electro DMG
+to all nearby opponents.
+Deals great amounts of extra damage to opponents based on the number of Conductive stacks applied to them, and clears their Conductive status.
+Tap Variant
+Executing Lisa’s Tap Skill (tE) sends a homing projectile dealing damage and adding 1 (or more) Conductive stack(s) upon connecting with enemies. It is possible to manipulate her Tap Skill to consistently maximize the production of Conductive stacks upon enemies—however, this subject is highly esoteric and can be further expounded on within the
+Full Guide
+.
+Lisa’s Tap Skill does not produce any innate Energy particles. Its ICD is also shared with her NAs.
+Hold Variant
+This is Lisa’s flashiest attack.
+It is greatly advised to cast it every rotation for both Energy and burst AoE damage
+; there are a few exceptions to this, such as when Lisa is used as a Buffer in teams where she is often purposed to purely support. There is also the misconception present that casting her Hold Skill is too lengthy, when it, at minimum, will only take at least ~1.9 seconds.
+Instead of tapping Lisa’s Elemental Skill, holding it would begin a casting animation for ~2-4 seconds where Lisa will charge up a radius and, upon releasing the Hold Skill (hE, h#E) when both visual circles collide, will deal a burst of damage and apply Electro to any enemy within. The damage is proportionate to the number of Conductive stacks enemies have at the time of release.
+However, releasing Lisa’s Hold Skill prematurely, or rather before both circles connect, will act as if a Tap Skill was executed.
+Lisa’s Hold Skill produces 5 Electro particles.
+Further Combos Incorporating Elemental Skills
+Extending from the previous combos, N1CA, N2CA, and N3, weaving in Tap Skills can be more beneficial to deal more damage and passively build Conductive stacks. The main new combos that this opens up are N2tE and N3tE (or tEJP with Xianyun).
+Choosing when to use her Hold Skill can be slightly complex; however, it can be more easily understood when sectioning her rotations around her Hold Skill itself.
+For example, the Pre-Hold Skill combo(s), the actual Hold Skill, and the Post-Hold Skill combo(s).
+Combos before the Hold Skill consist of those that weave in Tap Skills in order to generate some Conductive stacks—N2tE or N3tE.
+Combos following the Hold Skill often consist of the alteration of her NAs and her CAs to both maximize Electro applications and passive Conductive stacks—N1CA, N2CA, or sometimes N3.
+Elemental Burst
+Elemental Burst
+|
+Lightning Rose
+Talent Description
+Summons a Lightning Rose that unleashes powerful lightning bolts, launching surrounding opponents and dealing Electro DMG.
+The Lightning Rose will continuously emit lightning to knock back opponents and deal Electro DMG throughout the ability’s duration.
+Despite deceptively seeming like a minor influence in battle, Lisa’s Burst is rightfully a potent part of her kit, enabling even more Electro application, applying her 4th Ascension Passive’s debuff, and great AoE damage in general.
+Lisa’s Burst casts forth her Lightning Rose Lamp, dealing a touch of damage, and a field encircling it. Her Burst shoots a maximum of ~29 Arcs upon entities within the field, with each Arc being further able to shoot 1-3 discharges/bolts with Lisa’s 4th Constellation if active.
+Her Burst constantly knocking back enemies is also a misconception as there are factors undisclosed that are necessary for this to occur. It will mostly depend on whether an enemy is airborne or not, as her Burst will only induce a knockback given they are airborne and not grounded.
+Ascension 1 Passive
+Ascension 1 Passive
+|
+Induced Aftershock
+Talent Description
+Hits by Charged Attacks apply Violet Arc’s Conductive status to opponents.
+This Passive further enables Lisa’s Charged Attacks as both a source of another singular Conductive stack and a staple in her attack strings.
+Ascension 4 Passive
+Ascension 4 Passive
+|
+Static Electricity Field
+Talent Description
+Opponents hit by Lightning Rose have their DEF decreased by 15% for 10s.
+This Passive is one of Lisa’s core attributes, as it enables her to induce a valuable debuff upon enemies, which means most, if not all, of her teammates will be buffed accordingly. This debuff is one of the cornerstones as to why Lisa can be as effective as she is.
+It also is particularly advantageous for herself too, as both of her common damage sources, namely her Electro DMG and Aggravated Electro DMG, both take benefit from it, bolstering her effectiveness with Dendro.
+Note that the 10s duration gets refreshed every time the enemy is tagged again by any of Lightning Rose’s Discharges.
+Constellations
+Constellation  1
+Constellation 2
+Constellation 3
+Constellation 4
+Constellation 5
+Constellation 6
+Constellation  1
+Constellation 1
+|
+Infinite Circuit
+Constellation Description
+Lisa regenerates 2 Energy for every opponent hit while holding Violet Arc.
+A maximum of 10 Energy can be regenerated in this manner at any one time.
+Effectively, this Constellation helps to keep uptime on Lisa’s Elemental Burst as it is an additional source of Energy. However, one should not purely rely on C1 as a constant source because it usually is not a significant amount in regular situations.
+Constellation 2
+Constellation 2
+|
+Electromagnetic Field
+Constellation Description
+Holding Violet Arc has the following effects:
+Increases DEF by 25%.
+Increases Lisa’s resistance to interruption.
+Although this Constellation does not provide any offensive power, it still is useful at times. Overall, it is nice to have, yet not at all a necessity as, with high cognition, one can time her Hold Elemental Skills well or in between enemy attacks.
+It can be alternatively used in expectation of getting hit by enemy attacks though; however, this can become slightly complex to delve into. A basic heuristic is that she can resist a single attack from most enemies.
+Constellation 3
+Constellation 3
+|
+Resonant Thunder
+Constellation Description
+Increases the Level of Lightning Rose by 3.
+Maximum upgrade level is 15.
+A welcome damage increase to Lisa’s Elemental Burst.
+Constellation 4
+Constellation 4
+|
+Plasma Eruption
+Constellation Description
+Lightning Rose now unleashes 1-3 lightning bolts when it attacks.
+Arguably Lisa’s strongest Constellation due to the vast potential her C4 brings to her Elemental Burst. Lisa’s C4 drastically improves her Elemental Burst’s damage, Electro Application, and reliability on triggering Dendro Cores.
+How an Arc chooses to release 1-3 bolts involves multiple factors, however.
+Constellation 5
+Constellation 5
+|
+Electrocute
+Constellation Description
+Increases the Level of Violet Arc by 3.
+Maximum upgrade level is 15.
+A fair damage increase to Lisa’s Elemental Skills.
+Constellation 6
+Constellation 6
+|
+Pulsating Witch
+Constellation Description
+When Lisa takes the field, she applies 3 stacks of Violet Arc’s Conductive status onto nearby opponents.
+This effect can only occur once every 5s.
+C6 remains to be an effective Constellation in the majority of her archetypes, albeit subjective as people do tend to overrate this Constellation as the radius is still limiting and is typically misused. It does, however, ultimately smoothen how she plays and makes her less mechanically intense.
+Remember that it is never necessary to generate all 3 Conductive stacks simultaneously for this Constellation to be effective: even when her C6 enables her to obtain one additional stack, it is still valuable. It is more applicable to think of her C6 as another tertiary source of Conductive stacks rather than to forgo and replace former ways completely—Lisa’s C6 opens another option and is not a reliance but a privilege. Therefore, rotations will often not change when having her C6; however, it does require more cognition.
+Artifacts
+ER Requirements
+Please understand that these ER Requirements assume various criteria. Many of these values will fluctuate and likely overestimate with play as enemy count, player ability, and HP particles are not taken fully into account. C1 and funneling are other factors as well.
+Electro Resonance On-field
+(1 Hold Skill)
+100% – 130%
+Solo Electro On-field
+(1 Hold Skill)
+130% – 160%
+Solo Electro Off-field
+(1 Hold Skill)
+170% – 200%
+Electro Resonance Off-field
+(1 Hold Skill)
+130% – 160%
+Electro Resonance Off-field
+(No Hold Skill)
+180% – 210%
+Reaction DPS
+(1 Hold Skill)
+200% – 220%
+Dedicated Support
+As much as possible for Elemental Burst uptime
+On-Field Electro DPS
+Artifact Stats
+Sands
+Goblet
+Circlet
+ATK% or EM
+Electro DMG Bonus
+CRIT Rate or CRIT DMG
+Substat Priority: CRIT > ER% > ATK% / EM > ATK
+As an on-field DPS, an EM Sands can be comparable damage-wise to an ATK% Sands if and only if Lisa is played in an Aggravate team. In which case, an ATK% Sands still is generally better but the two are close enough to become approximate. Otherwise and outside of Aggravate teams, an EM Sands holds little value.
+It is also recommended that Lisa gains the necessary ER% from substats as an on-field DPS.
+Artifact Sets
+4pc Thundering Fury (4TF)
+4TF is unequivocally her ideal set as an on-field Aggravate DPS.
+Its cooldown reduction allows Lisa to not be constrained to when and where to use her Hold Skill, and the major benefit of being able to chain, not spam, her Tap Skill allows for more effective attack strings and comfort, thus maximizing Aggravate triggers and slightly improving her Energy generation.
+Note that, outside of on-field Aggravate teams, 4TF is marginally valuable when compared to other available sets and will often be outperformed.
+4pc Gilded Dreams (4GD)
+4GD is a selective set but can do vastly well for Lisa in her Dendro-inclusive teams.
+Otherwise, the value of its EM rapidly decreases and becomes of little value, even within her Lunar-Charged or Electro-Charged teams.
+4pc Marechaussee Hunter (4MH)
+4MH is a highly restrictive set, intended only for use when Lisa is alongside Furina in any of Lisa’s Electro-Charged or Lunar-Charged teams. However, it fares strongly in such scenarios.
+4pc Thundersoother (4TS)
+Since Lisa does have the potential to manage her Electro aura with proper rotations/ability usage, it is common for 4TS’ precondition to be easily met. If micro-management is not an issue, then 4TS can compare against other sets.
+2pc Combinations
+Valid 2-piece sets include 2-piece Thundering Fury, 2-piece Noblesse Oblige, 2-piece 18% ATK,  2-piece 20% ER, and 2-piece 80 EM, varying on what her selected archetype is.
+Split sets still remain to be a perpetually well-rounded option in most areas because of their consistency but will often be carried by their substats.
+Off-Field Electro DPS / Support
+Artifact Stats
+Sands
+Goblet
+Circlet
+ER%, ATK%, or EM
+Electro DMG Bonus
+CRIT Rate or CRIT DMG
+Substat Priority: ER% > CRIT > ATK% / EM > ATK
+When used off-field, an ER% Sands should be used primarily if Lisa cannot regenerate her Burst on given rotations. However, situations do exist where Lisa, as an off-field DPS, can supply herself with an ATK% or EM Sands (if in a Quicken team) and rely on ER% substats instead.
+Artifact Sets
+4pc Emblem of Severed Fate (4EoSF)
+Given that being off-field as Lisa already requires her to hold substantial ER%, 4EoSF can get tangible offensive value. Quicken teams, which include Spread and Aggravate, may see less value with 4EoSF, though.
+4pc Scroll of the Hero of Cinder City (4Scroll)
+Lisa can equip 4Scroll to buff teammates with a 12% DMG Bonus buff. Typically, 4Scroll is best in teams where Lisa is buffing non-ATK-scaling characters.
+4pc Noblesse Oblige (4NO)
+Lisa can equip 4NO to buff teammates with a 20% ATK buff for ATK-scaling characters. 4NO also welcomely buffs Lisa’s Burst damage and she is able to equip it without egregious drawbacks.
+4pc Gilded Dreams (4GD)
+Similar to prior, if in a Quicken team, 4GD can prove to be useful offensively.
+2pc Combinations
+Valid 2-piece sets include 2-piece Thundering Fury, 2-piece Noblesse Oblige, 2-piece 20% ER, 2-piece 18% ATK, and 2-piece 80 EM, varying on what her selected archetype is.
+Weapons
+Electro DPS Lisa
+Kagura’s Verity
+Best-in-slot option for nearly all variants of on-field Electro Lisa. Kagura’s Verity mandates periodic Elemental Skill usages, which Lisa can easily comply with both variants of her Elemental Skill. Furthermore, Kagura’s Verity becomes even better in Lisa’s ideal teams, notably Aggravate, as it allows for permanent uptime on its passive.
+Lost Prayers to the Sacred Winds
+Lost Prayers to the Sacred Winds manages to be a competitive option from its raw stats in some of her archetypes, but especially within Aggravate as the CRIT Rate becomes more effective.
+Vivid Notions
+In any of Lisa’s Plunging teams, Vivid Notions instantly becomes her best weapon.
+Aside from Plunging teams, Vivid Notions’ raw constant stats allows it to be a competitive weapon among other archetypes, regardless. For example, when Lisa is an Off-field DPS, Vivid Notions is often ideal for personal damage despite ignoring most of its passives.
+A Thousand Floating Dreams
+Within Lisa’s Dendro-related teams, A Thousand Floating Dreams does genuinely see notable worth as a weapon, often being juxtaposed to or under the other 5-star weapons. It becomes considerably weaker without Dendro reactions, though.
+Tome of the Eternal Flow / Surf’s Up
+Although these weapons passives are mostly ignored, their high CRIT value makes it a decent option in Lisa’s Aggravate teams.
+The Widsith
+Widsith often will be Lisa’s best-in-slot 4-star weapon; it can be similar to 5-star weapons as well.
+It becomes unequivocally Lisa’s best 4-star weapon in Aggravate teams, due to all three passives seeing use, and still remains potent outside of Quicken teams.
+Skyward Atlas
+A solid weapon for Lisa’s non-Aggravate archetypes. However, in Aggravate teams, the ATK% does not garner as much value as it would otherwise and becomes undervalued.
+Solar Pearl
+Solar Pearl is a well-rounded weapon for a 4-star.
+Flowing Purity
+A solid weapon that provides valuable DMG% buffs. Provided healing is accessible, it is Lisa’s best craftable 4-star weapon as an on-field DPS.
+Mappa Mare
+A decent weapon considering it can compete against Flowing Purity if there is no healing to properly activate Flowing Purity’s passive.
+Hakushin Ring
+A great weapon considering it is Lisa’s best craftable 4-star weapon as an off-field DPS with ER% and DMG%. Hakushin Ring’s party DMG% buff can be of noticeable value in her various roles too.
+Note that Hakushin Ring’s passive requires Lisa to be on-field in order to trigger its effects.
+Magic Guide
+As a 3-star weapon, Magic Guide fares rather well in Lisa’s Aggravate teams with its EM and constant passive.
+Support Lisa
+The weapons listed here are solely for their value to the Support/Buffer/Enabler role.
+Hakushin Ring
+A great choice for this archetype; specifically if only the other Elemental DMG% buff proves to be useful. Hakushin Ring often outperforms TTDS in Quicken teams.
+Thrilling Tales of Dragon Slayers (TTDS)
+At R5, TTDS provides a hefty ATK% boost to whomever Lisa is buffing by swapping onto them.
+Favonius Codex
+In the cases that Lisa is necessary for her Burst uptime for her DEF Shred or for supplying the team with additional Energy, Favonius Codex is a safe and usable option.
+Prototype Amber
+Prototype Amber’s Energy regeneration functions exclusively for its wielder. However, its passive allows Lisa to heal allies, which gives her a niche in other Furina teams as a support.
+Teams
+This is not a comprehensive list of teams, and the inclusion of a certain team or lack thereof does not necessarily indicate the power level of the team in question.
+On-Field
+Aggravate
+This is assuredly Lisa’s best role due to how synergistic her kit is with this specific playstyle. Her innate EM ascension stat, rapid Electro application, relatively quick attacks, access to DEF Shred, and usage out of the 4TF artifact set are all factors as to why Lisa fits as well as she does here.
+Lisa’s Aggravate teams are often composed of a Dendro character for enabling Quicken, another Electro character for Energy and extra damage, and often an Anemo or various flex characters for utility or other reasons. It is preferred that Hydro and Pyro are exempt as options for teammates as they may consume the Quicken aura, but the team’s general Elemental application can restore it should a unit not apply Hydro/Pyro as frequently. Units like those mentioned previously can manage to fit inside this team skeleton and be fairly effective, but doing so can ruin the integrity of an Aggravate team.
+Notable Teammates
+The order in which certain characters appear is slightly relevant to their potential.
+Dendro:
+Nahida
+,
+Baizhu
+,
+Kirara
+,
+Yaoyao
+,
+Dendro MC
+, or
+Collei
+Dendro aura suppliers for enabling Quicken, often from off-field or by routinely swapping in.
+Electro:
+Fischl
+,
+Iansan
+,
+Kuki Shinobu
+,
+Yae
+,
+Dori
+,
+Beidou
+, or
+Sara
+A secondary source of Electro Energy for Lisa as well as off-field Aggravate damage-dealers with other possible benefits.
+Iansan needs Xianyun to be worthwhile.
+Anemo / Flex:
+Xilonen
+,
+Kazuha
+,
+Xianyun
+,
+Venti
+,
+Sucrose
+,
+Lan Yan
+,
+Sayu
+,
+Jean
+,
+Lynette
+,
+Zhongli
+, or
+Kachina
+Various Anemo characters have access to Viridescent Venerer for an indirect increase in Electro DMG and the potential for buffs, grouping, and, for some, healing.
+Select Geo characters provide both offensive and defensive utility while not infringing on Quicken.
+Quickbloom
+Colloquially, “Quickbloom” Lisa is an archetype comparable to Aggravate Lisa yet intentionally includes Hydro. A Hydro unit with slow Hydro Application replaces the Anemo/Flex unit in a generic Aggravate team to adopt extra Hyperbloom reactions while maintaining a Quicken aura. As a result of the Hyperblooms and available Hydro units, Quickbloom Lisa can be more single-target focused.
+Like in Aggravate, Lisa performs well in a Quickbloom archetype with similar reasoning. Likewise, Lisa prefers to equip 4TF here, she still plays as if in an Aggravate team, and EM garners more value as a main stat for a Sands or as a substat.
+Notable Teammates
+The order in which certain characters appear is slightly relevant to their potential.
+Dendro:
+Lauma
+,
+Nahida
+,
+Baizhu
+,
+Dendro MC
+, or
+Collei
+Dendro aura suppliers for enabling Quicken and producing Dendro Cores, often from off-field or by routinely swapping in.
+Characters with more Dendro Application are necessary with the existence of Hydro.
+Lauma provides significant boosts.
+Electro
+:
+Fischl
+,
+Ineffa
+,
+Kuki Shinobu
+,
+Ororon
+,
+Yae
+,
+Beidou
+, or
+Dori
+A secondary source of Electro Energy for Lisa as well as off-field damage dealers with other possible benefits.
+Hydro:
+Furina
+,
+Yelan
+,
+Kokomi
+, or
+Xingqiu
+Slow Hydro Application is preferred to maintain the Quicken aura. Those with higher Hydro Application are still viable but compromise the team’s integrity and mandate for higher Dendro Application to contrast.
+Lunar-Charged & Electro-Charged
+In this composition, Lisa will serve as the team’s primary on-field unit, but swapping will still occur fairly often due to her teammates wanting to contribute with their Elemental Skills or Bursts. EM is slightly more valuable in Lunar-Charged than in Electro-Charged, but both still treat EM as only a welcome stat to have. Do keep in mind that 4TF won’t trigger as often even on Lisa due to it being finicky with Lisa’s Electro application.
+This composition shines best when Ineffa is available, making Lisa’s Lunar-Charged teams near comparable to Aggravate Lisa. On the other hand, Electro-Charged Lisa itself is only a viable team.
+Notable Teammates
+The order in which certain characters appear is slightly relevant to their potential.
+Hydro:
+Furina
+,
+Xingqiu
+,
+Yelan
+,
+Aino
+or
+Kokomi
+Reliable sources of off-field Hydro.
+Xingqiu and Yelan prefer Lisa to Normal Attack while Furina, Aino and Kokomi allow for more detached gameplay.
+A Double Hydro core is possible.
+Electro:
+Ineffa
+,
+Fischl
+,
+Ororon
+,
+Beidou
+,
+Yae
+,
+Kuki Shinobu
+, or
+Dori
+A secondary source of Electro Energy for Lisa as well as additional damage or buffs.
+Ineffa is a powerful boost to this team structure.
+Anemo / Flex:
+Kazuha
+,
+Xianyun
+,
+Xilonen
+,
+Venti
+,
+Sucrose
+,
+Sayu
+,
+Jean
+,
+Lan Yan
+,
+Lynette
+or
+Zhongli
+Various characters have access to Viridescent Venerer for an indirect increase in both Electro and Hydro DMG and the potential for buffs, grouping, and, for some, healing.
+Select Geo characters provide both offensive and defensive utility.
+Off-Field / Support
+Quicken Core
+Due to Lisa benefitting and preferring to be alongside a Dendro unit innately as a result of her kit, inputting her within a Quicken team allows for great mileage despite her being an off-field DPS. Lisa’s 15% DEF Shred proves to be useful too as both Spreaded/Aggravated damage and non-Spreaded/Aggravated damage get affected by the debuff.
+It is often preferable that Lisa is built for damage in these teams; thus, her Hold Elemental Skills should be used consistently per rotation.
+Notable Teammates
+Primary DPS:
+Tighnari
+,
+Alhaitham
+or
+Raiden
+All of these characters cater well to the Quicken reaction tree and serve prominently as a DPS.
+Other possible Quicken on-fielders aside from the aforementioned hold notably less synergy with Lisa.
+Tertiary Electro/Dendro:
+Fischl
+,
+Ineffa
+,
+Kuki Shinobu
+,
+Yae
+,
+Beidou
+,
+Sara
+or
+Dori
+Nahida
+,
+Lauma
+,
+Baizhu
+,
+Yaoyao
+,
+Kirara
+,
+Dendro MC
+, or
+Collei
+Depending on the Primary DPS’s element, the opposite element should be selected to enable Quicken and its subsequent reactions.
+They also supply additional damage and possible utility.
+Flex:
+Zhongli
+,
+Kazuha
+,
+Xianyun
+,
+Xilonen
+,
+Venti
+,
+Sucrose
+,
+Lan Yan
+,
+Lynette
+,
+Sayu
+,
+Jean
+, or a slow Hydro applier
+Zhongli serves remarkably due to some choices for a Primary DPS particularly appreciating his defensive utility.
+Otherwise, an Anemo character, or someone similar in role, remains to suit well due to their general utility and access to Viridescent Venerer.
+A Hydro character could enable occasional Hyperblooms as well.
+Dedicated Support
+Specifically, as a dedicated Support/Buffer/Enabler, Lisa benefits teams that take advantage of Lisa’s A4 Passive, weapon utility (TTDS, Hakushin Ring, or Prototype Amber), and artifact options (4Scroll or 4NO). This is most relevant for speedrunning teams or those that want direct buffing and/or Lisa’s rapid Electro application.
+Common use cases for this archetype are to either buff a fellow off-field DPS, fully commit for damage on an on-field DPS, and/or provide Electro. It can be common for Lisa to not use her Hold Elemental Skill in these variants.
+Oftentimes, an ER% Sands will be preferred on Lisa in these scenarios unless she is also as well-invested as her teammates. With an ER% Sands, Lisa is preferable on artifact sets like 4EoSF, 4Scroll, or 4NO.
+Notable Teams
+Non-Quicken
+Raiden Shogun
+While Lisa’s slot is usually in contention with Sara as a dedicated buffer for Raiden, provided Sara is not C6 and at equal levels of investment, Lisa’s total contribution with TTDS is more effective than Sara’s.
+Remaining Slots (which are not limited to):
+Bennett
+,
+Kazuha
+,
+Xilonen
+,
+Xiangling
+,
+Xingqiu
+,
+Yelan
+,
+Furina
+(with a Healer),
+Chevreuse
+and/or
+Kujou Sara
+The remaining slots can be purposed for more buffing, utility, grouping, or furthering overall damage.
+Physical
+Eula
+Lisa’s main objectives in Eula’s teams are to provide both Electro and buffs for Eula herself. This will often mean Lisa is heavily reliant on her Burst and equipping TTDS. Opting for Lisa does limit Eula from including more valuable teammates, however.
+Electro:
+Raiden
+,
+Fischl
+,
+Kuki Shinobu
+, or
+Dori
+Another Electro character helps battery Lisa as she is primarily focused on her Burst’s uptime.
+Cryo:
+Mika
+,
+Diona
+,
+Shenhe
+,
+Rosaria
+,
+Kaeya
+, or
+Charlotte
+Similarly, another Cryo character helps battery Eula for consistent rotations.
+Neuvillette
+Despite their lack of synergy in a vacuum, Lisa’s access to rare buffs, equipment utility, and a stack on Neuvillette’s A1 Passive make him appreciate her value noticeably. When Furina is a teammate, Lisa can equip Prototype Amber to further her buffing potential and Energy regeneration.
+Furina
+or Flex
+Furina enables Lisa to equip Prototype Amber effectively for additional buffing.
+Otherwise, a variety of characters can fit into this slot in replacement, often to further buff Neuvillette, provide utility to Neuvillette, or generate Energy for Lisa.
+Flex (which are not limited to):
+Kazuha
+,
+Xilonen
+,
+Zhongli
+,
+Ineffa
+,
+Fischl
+,
+Lan Yan
+,
+Kachina
+,
+Citlali
+,
+Dehya
+,
+Layla
+,
+Diona
+,
+Baizhu
+,
+Kirara
+,
+Yae
+,
+Beidou
+, and
+Xiangling
+A variety of characters can fit into this last slot. Aside from the earlier choices, off-field damage dealers are another option.
+Credits
+Contributors
+: archednosi, sew, davjac123, anoddmedium, cuzimori, irokei, chasing_haze, cinders_pear, uhinf1999, alehannita, toyxn
+Lisa’s Equipment Calculations
+used in this Quick Guide.
+Click here for the
+Full Lisa Guide
+(
+Google Doc
+).
+Team images courtesy of the
+KQM portrait generator
+.

@@ -1,0 +1,577 @@
+Home
+Blog
+Genshin Impact Hub
+Genshin Impact Dahlia Build Guide, Weapons & Team Comps
+Genshin Impact Dahlia Build Guide, Weapons & Team Comps
+Alexa Hunter
+Apr 21, 2026
+Share
+Dahlia
+is a
+Hydro sword user
+who serves primarily as a
+defensive support
+and
+shielder
+in Genshin Impact. He excels at providing
+sustained protection
+through his
+Elemental Burst
+, which generates shields that scale with his
+Max HP
+and can be refreshed using his unique
+Benison mechanic
+. In addition to his defensive utility, Dahlia offers
+team-wide Attack Speed buffs
+and situational
+Hydro application
+, making him especially effective in teams that rely on
+Normal Attacks
+or
+Freeze reactions
+. In this
+Dahlia build guide
+, we’ll go over the
+best builds
+,
+recommended weapons
+, and
+team compositions
+that allow him to perform at his full potential.
+🔥 Bonus Tip: For exclusive discounts on your next
+Genshin top up
+, visit
+Lootbar.gg
+!
+Secure Your Gaming Top-Up with Smart Savings on LootBar
+Premium Top-Up Service Tailored for Your Game.
+3-Minute Delivery for Non-Stop Gaming.
+Trusted 4.9/5 on Trustpilot, 10/10 among Players.
+Official Partnership Route, Protect Your Game Wallet.
+Top Up With Discount Now!
+Dahlia
+Character Profiler
+Dahlia
+Information
+Character Information
+Rarity
+4-Star
+Element
+Hydro
+Weapon
+Sword
+Progression Bonus
+HP%
+Combat Role
+Defensive Support / Shielder
+Dahlia
+Gameplay
+Dahlia
+’s gameplay revolves around providing
+consistent shielding
+,
+team utility
+, and
+HP-scaling support effects
+, while enabling his team’s survivability through his
+Elemental Burst
+. His kit focuses on maintaining the
+Favonian Favor
+state, which allows him to generate
+refreshable shields
+using his unique
+Benison mechanic
+, making him a reliable
+defensive support
+in sustained combat scenarios.
+His
+Elemental Skill, Immersive Ordinance
+, summons a
+Sacramental Shower
+that provides utility depending on interaction. When enemies touch it, it deals
+AoE Hydro DMG
+, while allies can use it for
+mobility
+, being launched into the air. While not the core of his kit, this ability adds
+situational Hydro application
+and utility during rotations.
+When Dahlia uses his
+Elemental Burst, Radiant Psalter
+, he deals
+AoE Hydro DMG
+and grants all party members
+Favonian Favor
+, summoning a
+Shield of Sacred Favor
+that scales with his
+Max HP
+. While this effect is active, Dahlia can generate
+Benison stacks
+through
+Normal Attacks
+or
+Freeze reactions
+, which are consumed to
+automatically summon new shields
+when the current one is broken, ensuring
+continuous protection
+for the team.
+Dahlia’s
+passive talents
+further enhance his utility by increasing the team’s
+Attack Speed
+based on his
+Max HP
+and granting additional
+Benison stacks
+when triggering
+Freeze reactions
+. While his personal damage is limited, he performs best when built around
+HP%
+,
+Energy Recharge
+, and strong
+team synergy
+to maximize his overall support potential.
+Dahlia
+Talent Priority
+Dahlia’s
+talent priority
+focuses primarily on his
+Elemental Burst
+, as it is the core of his kit, providing
+shielding
+, enabling his
+Benison mechanic
+, and granting
+team-wide buffs
+. His
+Elemental Skill
+comes next, as it contributes additional
+Hydro damage
+and utility during rotations. His
+Normal Attack
+is the lowest priority, as it does not significantly impact his overall performance.
+Talent
+Recommended Level
+Elemental Burst
+(Radiant Psalter)
+8-10
+Elemental Skill
+(Immersive Ordinance)
+1+
+Normal Attack
+(Favonius Bladework – Ritual)
+1+
+Elemental Burst – Radiant Psalter
+Dahlia’s
+Elemental Burst
+is the core of his kit, making it his
+highest priority
+. It deals
+AoE Hydro DMG
+and grants
+Favonian Favor
+, summoning a
+Shield of Sacred Favor
+that scales with his
+Max HP
+. While active, Dahlia can generate
+Benison stacks
+, allowing him to
+automatically summon new shields
+when the current one breaks, ensuring
+consistent protection
+for the team. Leveling this talent directly improves his
+shield strength
+and overall
+support performance
+, making it essential for maximizing his utility.
+Elemental Skill – Immersive Ordinance
+Dahlia’s
+Elemental Skill
+provides
+additional utility
+and
+situational Hydro application
+, making it a
+secondary priority
+. It summons a
+Sacramental Shower
+that deals
+AoE Hydro DMG
+when triggered by enemies, while also offering
+mobility
+for allies. Although its damage contribution is moderate, leveling this talent can slightly improve his
+overall output
+and effectiveness during rotations.
+Normal Attack – Favonius Bladework: Ritual
+Dahlia’s
+Normal Attack
+is the
+least important
+part of his kit, as he is not played as an
+on-field DPS
+. His gameplay does not rely on dealing damage through Normal Attacks, and investing in this talent provides
+minimal value
+. As a result, it should be
+prioritized last
+or left at a low level.
+Dahlia Best Weapons
+To maximize Dahlia’s performance, prioritize
+Energy Recharge
+and
+HP%
+, as his kit revolves around maintaining
+consistent Elemental Burst uptime
+and scaling his
+shield strength
+through
+Max HP
+. Since his main role is to provide
+reliable shielding
+,
+team utility
+, and
+Attack Speed buffs
+, ensuring smooth rotations is more important than maximizing personal damage.
+All-time best Weapons for Dahlia
+Option 1
+Favonius Sword (4★)
+Base ATK:
+454
+Bonus Stat:
++61.3% Energy Recharge
+Weapon Effect (R1):
+CRIT Hits have a
+60% / 70% / 80% / 90% / 100%
+chance to generate a small amount of Elemental Particles, which will regenerate
+6
+Energy for the character. Can only occur once every
+12 / 10.5 / 9 / 7.5 / 6 s
+.
+Option 2
+Key of Khaj-Nisut (5★)
+Base ATK:
+542
+Bonus Stat:
++66,2% HP
+Weapon Effect (R1):
+HP increased by
+20% / 25% / 30% / 35% / 40%
+. When an Elemental Skill hits opponents, you gain the Grand Hymn effect for 20s. This effect increases the equipping character's Elemental Mastery by
+0.12% / 0.15% / 0.18% / 0.21% / 0.24%
+of their Max HP. This effect can trigger once every
+0.3s
+. Max
+3
+stacks. When this effect gains
+3
+stacks, or when the third stack's duration is refreshed, the Elemental Mastery of all nearby party members will be increased by
+0.2% / 0.25% / 0.3% / 0.35% / 0.4%
+of the equipping character's max HP for
+20s
+.
+Option 3
+Fleuve Cendre Ferryman (4★)
+Base ATK:
+510
+Bonus Stat:
++45.9% Energy Recharge
+Weapon Effect (R1):
+Increases Elemental Skill CRIT Rate by
+8% / 10% / 12% / 14% / 16%
+. Additionally, increases Energy Recharge by
+16% / 20% / 24% / 28% / 32%
+for
+5s
+after using an Elemental Skill.
+Option 4
+Sacrificial Sword (4★)
+Base ATK:
+454
+Bonus Stat:
++61.3% Energy Recharge
+Weapon Effect (R1):
+After damaging an opponent with an Elemental Skill, the skill has a
+40% / 50% / 60% / 70% / 80%
+chance to end its own CD. Can only occur once every
+30 / 26 / 22s / 19 / 16s s
+.
+Dahlia Best Artifacts & Stats
+To maximize
+Dahlia
+’s effectiveness as a
+defensive support
+and
+shielder
+, artifact choices should prioritize
+HP%
+and
+Energy Recharge
+. Since his kit revolves around maintaining
+consistent Elemental Burst uptime
+and scaling his
+shield strength
+with
+Max HP
+, the best sets are those that provide
+reliable team buffs
+,
+strong shielding
+, and smooth
+rotation consistency
+, rather than focusing on personal damage.
+Best Choice
+Best Option
+Noblesse Oblige
+2-Pc:
+Elemental Burst DMG
++20%
+4-Pc:
+Using an Elemental Burst increases all party members' ATK by
+20%
+for
+12s
+. This effect cannot stack.
+Beginner Option
+Emblem of Severed Fate
+2-Pc:
+Energy Recharge
++20%
+2-Pc:
+HP
++20%
+Tenacity of the Millelith
+Tenacity of the Millelith
+2-Pc:
+HP
++20%
+2-Pc:
+HP
++20%
+Vourukasha’s Glow
+Recommended Stats and Sub-Stats
+Main Stat
+Sands:
+Energy Recharge / HP%
+Goblet:
+HP%
+Circlet:
+HP%
+Sub Stat
+Energy Recharge > HP% > Flat HP
+Dahlia Best Team Compositions
+Dahlia performs best in teams that can consistently trigger
+Freeze reactions
+or take advantage of his
+Attack Speed buff
+, allowing him to generate
+Benison stacks
+and maintain
+strong shielding uptime
+. He excels in teams with
+high attack frequency
+and
+stable rotations
+, enhancing both
+survivability
+and
+overall team consistency
+.
+Dahlia Freeze Teams
+Main DPS
+Support 1
+Support 2
+Sustain
+Skirk (5★)
+Furina (5★)
+Dahlia (4★)
+Escoffier (5★)
+Wriothesley (5★)
+Furina (5★)
+Dahlia (4★)
+Escoffier (5★)
+Dahlia High-Speed Teams
+Main DPS
+Support 1
+Support 2
+Sustain
+Yoimiya (5★)
+Yelan (5★)
+Dahlia (4★)
+Bennett (4★)
+Ayato (5★)
+Kazuha (5★)
+Dahlia (4★)
+Bennett (4★)
+Dahlia F2P Teams
+Main DPS
+Support 1
+Support 2
+Sustain
+Chongyun (4★)
+Xingqiu (4★)
+Dahlia (4★)
+Diona (4★)
+Dahlia Constellations
+While Dahlia is fully functional at
+C0
+as a
+defensive support and shielder
+, his constellations mainly provide
+quality-of-life improvements
+rather than major power spikes. Most upgrades focus on improving his
+Energy generation
+,
+shield consistency
+, and overall
+uptime
+, rather than increasing his damage.
+Constellation Performance
+Constellation
+Rating
+Explanation
+C1
+★★★★☆
+Generates
+Energy
+when gaining
+Benison stacks
+, making it the most impactful constellation for improving
+Elemental Burst uptime
+and overall rotation consistency.
+C2
+★★★☆☆
+Provides additional
+shield-related utility
+, but the overall impact is moderate compared to C1.
+C4
+★★★☆☆
+Extends the duration of
+Favonian Favor
+, improving uptime slightly, but not a game-changing upgrade.
+C6
+★★★★★
+Grants a powerful
+revive + full heal effect
+, making it his strongest constellation for
+team survivability
+. Also provides additional
+Attack Speed utility
+, significantly improving his overall support value.
+Constellation Effect
+Constellation
+Effect
+C1
+“Infallible Procession”
+Each time Dahlia gains
+1
+of his Elemental Burst Radiant Psalter's Benison stacks, he will regain
+2.5
+Elemental Energy.
+C2
+“Revelation of Mercy”
+After Dahlia consumes his Elemental Burst Radiant Psalter's Benison stacks to summon a Shield of Sacred Favor, the character protected by said Shield will gain
+25%
+increased Shield Strength for
+12s
+.
+C3
+“Windblume Offertory”
+Increases the Level of Radiant Psalter by
+3
+.
+Maximum upgrade level is
+15
+.
+C4
+“Collect of the Assembly”
+The Favonian Favor from Dahlia's Elemental Burst Radiant Psalter lasts
+3
+more seconds.
+C5
+“Let It Be Subtly So”
+Increases the Level of Immersive Ordinance by
+3
+.
+Maximum upgrade level is
+15
+.
+C6
+“You Shall Go Out With Joy”
+The current active character affected by the Elemental Burst Radiant Psalter's Favonian Favor has their ATK SPD increased by
+10%
+.Additionally, when an active character affected by Favonian Favor falls, immediately:· Revive them.· Restore their HP to
+100%
+.This effect can trigger once every
+15
+minutes.
+Conclusion
+This comprehensive guide highlights
+Dahlia
+’s role as a
+Hydro defensive support and shielder
+in Genshin Impact, offering
+consistent shielding
+,
+Attack Speed buffs
+, and team utility through his
+Benison mechanic
+. While his personal damage is limited, his ability to provide
+stable protection
+and improve
+rotation consistency
+makes him a valuable option, particularly in
+Freeze teams
+and certain
+Normal Attack-focused compositions
+.
+While Dahlia performs well at
+C0
+, his constellations mainly provide
+quality-of-life improvements
+, enhancing his
+Energy consistency
+,
+shield uptime
+, and overall reliability rather than increasing his damage.
+C1
+stands out as his most impactful upgrade by improving
+Energy generation
+, while
+C2
+and
+C4
+offer moderate improvements to his
+defensive utility
+. His
+C6
+provides the biggest boost in terms of
+team survivability
+, adding a powerful
+revive effect
+and additional
+Attack Speed support
+.
+To fully prepare for Dahlia and maximize his potential, consider
+topping up Genshin Impact
+via LootBar to secure the
+Genesis Crystals
+and
+Primogems
+needed for upcoming banners, weapons, and team upgrades that synergize with him. Having the right
+characters
+,
+weapons
+, and
+artifacts
+ready will ensure you can fully take advantage of Dahlia’s
+support capabilities
+and overall
+team utility
+in optimized team compositions.
+Top Up With Discount Now!
+Alexa Hunter
+Gaming Writer
+Alexa Hunter has spent the past 7 years exploring the world of gaming, focusing particularly on light - hearted, relaxing titles like Whiteout Survival and AFK Journey. Her articles offer tips and guides on maximizing the enjoyment of these games on Lootbar.

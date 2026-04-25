@@ -1,0 +1,343 @@
+Home
+Blog
+Genshin Impact Hub
+Genshin Impact Kazuha Build Guide, Weapons & Team Comps!
+Genshin Impact Kazuha Build Guide, Weapons & Team Comps!
+Alexa Hunter
+Mar 24, 2026
+Share
+Kaedehara Kazuha is a
+5-star Anemo Sword user
+who stands as the undisputed king of Elemental support in Teyvat. He excels as a top-tier
+Sub-DPS and Buffer
+, mostly because his
+Kazuha Slash
+burst allows him to effortlessly Swirl elements and grant a massive elemental damage boost to his team. In this guide, we’re going over the best ways to gear him, which weapons actually provide the most Elemental Mastery, and whether his constellations are worth your hard-earned Primogems.
+🔥 Bonus Tip: For exclusive discounts on your next
+Genshin top up
+, visit
+Lootbar.gg
+!
+Secure Your Gaming Top-Up with Smart Savings on LootBar
+Premium Top-Up Service Tailored for Your Game.
+3-Minute Delivery for Non-Stop Gaming.
+Trusted 4.9/5 on Trustpilot, 10/10 among Players.
+Official Partnership Route, Protect Your Game Wallet.
+Top Up With Discount Now!
+Kazuha Character Profile
+Kazuha Information
+Character Information
+Rarity
+5-Star
+Element
+Anemo
+Weapon
+Sword
+Progression Bonus
+Elemental Mastery
+Combat Role
+Elemental Support / Sub-DPS
+Kazuha Gameplay
+Kazuha’s gameplay centers around his unparalleled
+Swirl
+capabilities, which transform his fluid, plunging combat style into a massive elemental amplifier through his unique skill rotations. His kit primarily scales on his
+Elemental Mastery
+, and he enables high-impact elemental reaction compositions by providing constant crowd control and essential Elemental DMG bonuses for his team's strikes.
+His
+Elemental Skill
+, Chihayaburu, pulls nearby enemies and objects in before launching him gracefully into the air. When Kazuha utilizes the "Hold" version of the skill, he unleashes a larger Anemo vacuum that deals increased damage and covers a wider area; otherwise, the "Press" version serves as his primary tool for quick grouping and energy generation. Following this skill, his next plunging attack is converted into
+Midare Ranzan
+, a special Anemo plunge that creates a miniature wind tunnel upon landing, perfectly setting the stage for his team's elemental onslaught.
+When he drops his
+Elemental Burst
+, Kazuha Slash, he unleashes a single, powerful strike that creates a massive area-of-effect field called the Autumn Whirlwind. It creates a localized elemental zone that keeps the pressure on enemies as the field pulses with periodic Anemo damage. The best part is that this whirlwind can absorb Hydro, Pyro, Cryo, or Electro; when it does, it deals
+additional
+elemental damage of that type alongside the Anemo damage, allowing him to continuously trigger Swirl reactions and keep enemies vulnerable until the storm finally dissipates.
+His
+Passives
+are all about making his rotation feel rewarding while scaling his support buffs off his high Elemental Mastery. One of them triggers an elemental absorption during his skill, causing his Midare Ranzan plunge to deal an additional 200% of his ATK as damage of the absorbed element. Meanwhile, his other passive directly grants his entire party an Elemental DMG bonus for the
+specific element that was Swirled
+, scaling off his total Elemental Mastery, to ensure your elemental carries hit as hard as possible. It makes him super satisfying to play once you find your rhythm because you’re essentially turning him into a wind-wielding maestro who empowers his allies the more he controls the battlefield.
+Kazuha Talent Priority
+Kazuha
+’s abilities mainly affect his personal damage. However, as a support character, his overall damage contribution in the team is usually relatively low, so you can
+choose not to level up his talents at all
+.
+That said, if you want to maximize Kazuha’s personal damage, you can prioritize upgrading his talents in the following order:
+Talent
+Recommended Level
+Elemental Burst
+(Kazuha Slash)
+10+
+Elemental Skill
+(Chihayaburu)
+9+
+Normal Attack
+(Garyuu Bladework)
+8+
+Elemental Burst - Kazuha Slash
+This is Kazuha's "bread and butter" for off-field presence. It summons the
+Autumn Whirlwind
+that deals continuous Anemo DMG and absorbs a secondary element to deal additional damage. Maximizing this talent is essential to ensure his damage over time remains impactful while your main DPS takes the field.
+Elemental Skill - Chihayaburu
+As a support who frequently rotates in, you will constantly use his Anemo lift. This ability provides excellent immediate burst damage, vital crowd control, and generates the necessary energy to keep your team's rotation smooth. Prioritizing this talent makes sure his brief time on the field hits hard.
+Normal Attack - Garyuu Bladework
+This is the biggest trap when building him! While you will rarely use his standard sword strikes on the ground, his special plunging attack (
+Midare Ranzan
+) that you trigger immediately after his Skill actually pulls its damage multipliers directly from his Normal Attack talent tree,
+not
+his Elemental Skill. To ensure his signature Skill-into-Plunge combo deals maximum damage, you must level this talent alongside his Skill.
+Kazuha Best Weapons
+To maximize Kazuha's performance, prioritize swords with supportive passives and substats like-
+Elemental Mastery
+or
+Energy Recharge
+to amplify his team-wide buffs and massive
+Swirl
+damage. Since his primary utility is tied to his
+Poetics of Fuubutsu
+passive and consistent crowd control, the ideal weapon logic balances stacking as much raw Elemental Mastery as possible with sufficient
+Energy Recharge
+to ensure he can burst consistently every rotation without sacrificing his lethal support potential. To help you guide the wind on the battlefield, the following swords are highly recommended for his build:
+Premium Weapons for Kazuha
+Option 1
+Freedom-Sworn (5★)
+Base ATK
+: 608
+Bonus Stat
+: Elemental Mastery +198
+Weapon Effect
+(R1): A part of the "Millennial Movement" that wanders amidst the winds. Increases DMG by
+10
+%. When the character wielding this weapon triggers Elemental Reactions, they gain a Sigil of Rebellion. This effect can be triggered once every 0.5s and can be triggered even if said character is not on the field. When you possess 2 Sigils of Rebellion, all of them will be consumed and all nearby party members will obtain "Millennial Movement: Song of Resistance" for 12s.
+"Millennial Movement: Song of Resistance" increases Normal, Charged, and Plunging Attack DMG by
+16
+% and increases ATK by
+20
+%. Once this effect is triggered, you will not gain Sigils of Rebellion for 20s.
+Of the many effects of the "Millennial Movement," buffs of the same type will not stack.
+Option 2
+Xiphos' Moonlight (4★)
+Base ATK
+: 510
+Bonus Stat
+: Elemental Mastery +165
+Weapon Effect
+(R5): The following effect will trigger every 10s: The equipping character will gain
+0.072
+% Energy Recharge for each point of Elemental Mastery they possess for 12s, with nearby party members gaining 30% of this buff for the same duration. Multiple instances of this weapon can allow this buff to stack. This effect will still trigger even if the character is not on the field.
+Option 3
+Favonius Sword (4★)
+Base ATK
+: 454
+Bonus Stat
+:
+Energy Recharge
++61.3%
+Weapon Effect
+(R5): CRIT hits have a
+100
+% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every
+6
+s.
+Option 4
+Iron Sting (4★)
+Base ATK
+: 510
+Bonus Stat
+: Elemental Mastery +165
+Weapon Effect
+(R5): Dealing
+Elemental DMG
+increases all DMG by
+12
+% for 6s. Max 2 stacks. Can only occur once every 1s.
+Option 5
+Toukabou Shigure (4★)
+Base ATK
+: 510
+Bonus Stat
+: Elemental Mastery +165
+Weapon Effect
+(R5): After an attack hits opponents, it will inflict an instance of Cursed Parasol upon one of them for 10s. This effect can be triggered once every 15s. If this opponent is defeated during Cursed Parasol's duration, Cursed Parasol's CD will be refreshed immediately. The character wielding this weapon will deal
+32
+% more DMG to the opponent affected by Cursed Parasol.
+Kazhua Best Artifacts & Stats
+To maximize Kazuha's massive support potential, the
+4-Piece Viridescent Venerer
+set is his undisputed best-in-slot, as it significantly increases
+Swirl DMG
+and shreds the enemy's damage resistances based on the swirled element. Regardless of the set, your main stats should always focus on an
+Elemental Mastery or Energy Recharge Sands
+, an
+Elemental Mastery Goblet
+, and an
+Elemental Mastery Circlet
+to ensure his team-wide buffs are as powerful as possible.
+Recommended Artifact
+Viridescent Venerer
+2-PC:
+Anemo DMG Bonus
++15%
+4-PC:
+Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by
+40%
+for 10s.
+Recommended Stats and Sub-Stats
+Main Stat
+Sands:
+Elemental Mastery / Energy Recharge
+Goblet:
+Elemental Mastery
+Circlet:
+Elemental Mastery
+Sub Stat
+Elemental Mastery > Energy Recharge > ATK% > CRIT Rate / CRIT DMG
+Kazuha Best Team Compositions
+Kazuha is a premier Elemental Support and Sub-DPS, serving as the backbone for almost every high-end elemental team in Teyvat. His presence is most valuable when paired with allies who rely on
+Pyro, Hydro, Electro, or Cryo
+damage, as his ability to double-swirl and provide massive Elemental DMG bonuses allows him to grant the entire team staggering damage increases.
+Kazuha International & Vaporize Teams
+The "International" team remains the gold standard for Kazuha, utilizing his grouping and double-swirl mechanics to amplify both Hydro and Pyro damage simultaneously. By double-swirling the Hydro from Tartaglia and the Pyro from Bennett, Kazuha provides a massive Elemental DMG bonus and Resistance Shred for both elements. This ensures that the team’s reactions deal maximum damage while significantly boosting the personal damage output of every member. In these rotations, Kazuha acts as the glue that keeps enemies tightly grouped while maximizing the reaction multipliers of his teammates.
+Main DPS
+Sub-DPS
+Support
+Support
+Tartaglia (5★)
+Xiangling (4★)
+Kazuha (5★)
+Bennett (4★)
+Arlecchino (5★)
+Yelan (5★)
+Kazuha (5★)
+Bennett (4★)
+Mavuika (5★)
+Yelan (5★)
+Kazuha (5★)
+Bennett (4★)
+Kazuha Freeze & Mono-Element Teams
+In Freeze compositions, Kazuha is indispensable for keeping frozen enemies clustered together, allowing your Main DPS to land their entire burst window effortlessly. By shredding Cryo resistance and providing a huge Cryo DMG bonus, he turns characters like Ayaka and Ganyu into unstoppable forces. In these teams, Kazuha ensures that enemies stay "locked" in place while maximizing the blizzard's damage.
+Main
+DPS
+Sub-DPS
+/ Support
+Support
+Support
+Kamisato Ayaka (5★)
+Shenhe (5★)
+Kazuha (5★)
+Sangonomiya Kokomi (5★)
+Ganyu (5★)
+Rosaria (4★)
+Kazuha (5★)
+Mona (5★)
+Wriothesley (5★)
+Yelan (5★)
+Kazuha (5★)
+Mika (4★)
+Kazuha Hypercarry & Premium Teams
+As of 2026, Kazuha continues to dominate the "Hypercarry" meta by slotting into high-investment teams featuring powerhouses like Neuvillette or Raiden Shogun. In the premium Neuvillette lineup, Kazuha works alongside newer Natlan supports like
+Xilonen
+to stack multiple layers of RES shred and DMG bonuses. This combination allows the Main DPS to reach their absolute damage ceiling while Kazuha handles the crowd control. Whether he is buffing an Electro Archon or a Hydro Sovereign, Kazuha remains the most versatile "buffer" in the game.
+Main DPS
+Sub-DPS
+Support
+Support
+Lyney (5★)
+Xiangling (4★)
+Kazuha (5★)
+Bennett (4★)
+Raiden Shogun (5★)
+Kujou Sara (4★)
+Kazuha (5★)
+Bennett (4★)
+Arlecchino (5★)
+Xiangling (4★)
+Kazuha (5★)
+Thoma (4★)
+Kazuha Constellations
+While Kazuha is a complete and powerful character at
+C0
+, his constellations provide meaningful boosts to his team-wide utility and make his energy management much smoother.
+Constellation Performance
+Constellation
+Rating
+Explanation
+C1
+★★★★☆
+Decreases Skill cooldown and resets it upon using his Burst. Greatly improves energy generation and field control.
+C2
+★★★★★
+Increases EM by
+200
+for Kazuha and the active character in his Burst field. The ultimate ceiling raiser for reaction teams.
+C4
+★★☆☆☆
+Generates extra energy for Kazuha when he is below 45 Energy. Helpful for ER management, but lower impact than others.
+C6
+★★★★★
+Grants Anemo infusion and massive DMG bonuses based on EM. Transforms Kazuha into a top-tier Main DPS.
+Constellation Effect
+Constellation
+Effect
+C1
+''Scarlet Hills''
+Decreases
+Chihayaburu
+'s CD by 10%.Using
+Kazuha Slash
+resets the CD of
+Chihayaburu
+.
+C2
+''Yamaarashi Tailwind''
+The Autumn Whirlwind field created by
+Kazuha Slash
+has the following effects:・Increases Kaedehara Kazuha's own Elemental Mastery by 200.・Increases the Elemental Mastery of characters within the field by 200.The Elemental Mastery-increasing effects of this constellation do not stack.
+C3
+''Maple Monogatari''
+Increases the Level of
+Chihayaburu
+by 3.Maximum upgrade level is 15.
+C4
+''Oozora Genpou''
+When Kaedehara Kazuha's Energy is lower than 45, he obtains the following effects:・Pressing or Holding
+Chihayaburu
+regenerates 3 or 4 Energy for Kaedehara Kazuha, respectively.・When gliding, Kaedehara Kazuha regenerates 2 Energy per second.
+C5
+''Wisdom of Bansei'
+Increases the Level of
+Kazuha Slash
+by 3.Maximum upgrade level is 15.
+C6
+''Crimson Momiji''
+After using
+Chihayaburu
+or
+Kazuha Slash
+, Kaedehara Kazuha gains an
+Anemo Infusion
+for 5s. Additionally, each point of Elemental Mastery will increase the DMG dealt by Kaedehara Kazuha's Normal, Charged, and Plunging Attack by 0.2%.
+Conclusion
+This comprehensive guide demonstrates Kazuha's position as one of
+Genshin Impact's
+most powerful 5-star Anemo Elemental Supports, bringing both a serene wandering samurai lore significance and exceptional gameplay mechanics. His unique
+Chihayaburu
+grouping,
+Elemental Mastery
+scaling, and incredible team-wide damage buffs make him incredibly valuable for players seeking a versatile, high-impact character for any elemental team. While he excels at
+C0
+, his constellations provide substantial improvements to his utility and ease of use, with
+C1
+and
+C2
+being particularly valuable stopping points.
+To fully prepare for Kazuha's next arrival and maximize his potential, consider
+topping up Genshin Impact
+via
+LootBar
+to secure the Genesis Crystals and Primogems needed for his limited-time banners and signature weapon. Ensuring you have the character and his best-in-slot gear is the essential first step before you head into the world to farm the materials required for his ascension and talents.
+Top Up With Discount Now!
+Alexa Hunter
+Gaming Writer
+Alexa Hunter has spent the past 7 years exploring the world of gaming, focusing particularly on light - hearted, relaxing titles like Whiteout Survival and AFK Journey. Her articles offer tips and guides on maximizing the enjoyment of these games on Lootbar.

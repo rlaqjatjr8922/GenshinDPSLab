@@ -1,0 +1,158 @@
+Xinyan is a playable Pyro character in Genshin Impact. We decided to write this guide to help you learn more about Xinyan. In our Genshin Impact Xinyan Build and Best Team Comp post you will learn about Xinyan’s talents, how they work and how to upgrade them. Also, you will read about her Constellations that will help you make Xinyan even more powerful. After that, we have written Genshin Impact Xinyan Build where you’ll see weapon and artifact set. And at last, we have mentioned the best team comps for Xinyan as the Sub DPS hero.
+Genshin Impact All Characters List
+The whole information is presented in tables. You can use the navigation bar above to move quickly to the information block that you are most interested in.
+Talents
+Constellations
+Build
+Team
+Xinyan Build
+Below you can see the best weapon option for playing Xinyan in Genshin Impact. Accompanied by the best Xinyan artifact set and its stat priorities.
+Sub DPS Build
+If you play this champion as a Sub DPS in your comp you should take the weapon and artifacts from the list below. They are believed to be the most effective ones in almost all situations.
+Weapon
+Skyward Pride
+Weapon Substitutes:
+Wolf’s Gravestone
+,
+The Unforged
+,
+Sacrificial Greatsword
+.
+Artifact Set
+Bloodstained Chivalry
+(2-Piece)
+&
+Noblesse Oblige
+(2-Piece)
+Artifact Main Stats Priority:
+ATK%
+Physical DMG Bonus
+CRIT Rate / CRIT DMG
+Sub Stats Priority: CRIT Rate > CRIT DMG > ATK% > Energy Recharge
+Talent Priority
+Riff Revolution > Sweeping Fervor > Dance on Fire
+Best Team Compositions for Xinyan
+When you play Genshin Impact everything depends not only on your main character but also on the composition. You should learn how elements complement each other and build the best team for your main. Below you can see the best team composition for Xinyan with Main DPS, sub DPS and one Support. Also, we have included alternative characters for each role that go well with Xinyan too.
+Xinyan unlike other Pyro characters can create her personal shield with her ability. Besides, she can strike with this shield and tank enemies. In addition, Xinya’s shields increase the physical damage of DPS which makes her a perfect match for Eula. In this party, Eula is the main DPS that acts after Xinyan to provoke Melt reaction. And Fischl can activate super-conduct with Eula enabling Xinyan’s burst to deal more DMG. Bennett provides Xinyan with an additional source of healing and activates Pyro resonance.
+Good characters for this comp:
+Raiden Shogun, Razor, Beidou, Keqing, Xiangling, Kaeya, Rosaria, Diona.
+If you want to know more about every teammate for Xinyan you can click on the link below and find them in the list of all Genshin Impact characters that we have described.
+Genshin Impact All Characters List
+In case you are still not sure what champion you want to pick as main we have
+Genshin Impact characters tier list
+with explanations on how to build your best team.
+Xinyan Talents
+Below you can see the list of talents that Xinyan uses during the fight. Each of them we have described with the main characteristics.
+Dance on Fire
+Normal Attack
+Normal Attack:
+Performs up to 4 consecutive strikes.
+Charged Attack:
+Drains Stamina over time to perform continuous spinning attacks against all nearby opponents. At the end of the sequence, perform a more powerful slash.
+Plunging Attack:
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Sweeping Fervor
+Elemental Skill
+Xinyan brandishes her instrument, dealing Pyro DMG on nearby opponents, forming a shield made out of her audience’s passion. The shield’s DMG Absorption scales based on Xinyan’s DEF and on the number of opponents hit.
+Hitting 0 – 1 opponents grants Shield Level 1: Ad Lib.
+Hitting 2 opponents grants Shield Level 2: Lead-In.
+Hitting 3 or more opponents grants Shield Level 3: Rave, which will also deal intermittent Pyro DMG to nearby opponents.
+The shield has the following special properties:
+When unleashed, it infuses Xinyan with Pyro.
+It has 250% DMG Absorption effectiveness against Pyro DMG.
+Riff Revolution
+Elemental Burst
+Strumming rapidly, Xinyan launches nearby opponents and deals Physical DMG to them, hyping up the crowd. The sheer intensity of the atmosphere will cause explosions that deal Pyro DMG to nearby opponents.
+“The Show Goes On, Even Without An Audience…”
+1st Ascension Passive
+Decreases the number of opponents Sweeping Fervor must hit to trigger each level of shielding.
+Shield Level 2: Lead-In requirement reduced to 1 opponent hit.
+Shield Level 3: Rave requirement reduced to 2 opponents hit or more.
+“…Now That’s Rock ‘N’ Roll!”
+4th Ascension Passive
+Characters shielded by Sweeping Fervor deal 15% increased Physical DMG.
+A Rad Recipe
+Utility Passive
+When a Perfect Cooking is achieved on a DEF-boosting dish, Xinyan has a 12% chance to obtain double the product.
+Every talent can be upgraded up to level 15. But to do so you will need to gather materials on particular days. The list of the needed materials for leveling Xinyan’s talents is mentioned in the next block.
+Talent Leveling Materials
+So here you can see all materials that you will need in order to level up Xinyan’s talents.
+Talent Level-Up Materials
+Gold Books:
+Teachings of Gold
+,
+Guide to Gold
+,
+Philosophies of Gold
+.
+Common Ascension Materials
+Treasure Hoarder Insignia
+,
+Silver Raven Insignia
+,
+Golden Raven Insignia
+.
+Weekly Boss Material
+Tusk of Monoceros Caeli
+Genshin Impact Enhancement Progression Calculator
+Some of them are required at the beginning for low levels and others are more advanced. We just wanted to focus your attention on material types in general.
+Xinyan Constellations
+In Genshin Impact characters have a specific upgrade system called constellation. You will need to get a specific item called Stella Fortuna to increase the level of constellation. Each character has their own version of Stella Fortuna, which you get by obtaining a duplicate of the character from Wishes.
+Level 1
+Fatal Acceleration
+Upon scoring a CRIT Hit, increases ATK SPD of Xinyan’s Normal and Charged Attacks by 12% for 5s.
+Can only occur once every 5s.
+Level 2
+Impromptu Opening
+Riff Revolution’s Physical DMG has its CRIT Rate increased by 100%, and will form a shield at Shield Level 3: Rave when cast.
+Level 3
+Double-Stop
+Increases the Level of Sweeping Fervor by 3.
+Maximum upgrade level is 15.
+Level 4
+Wildfire Rhythm
+Sweeping Fervor’s swing DMG decreases opponent’s Physical RES by 15% for 12s.
+Level 5
+Screamin’ for an Encore
+Increases the Level of Riff Revolution by 3.
+Maximum upgrade level is 15.
+Level 6
+Rockin’ in a Flaming World
+Decreases the Stamina Consumption of Xinyan’s Charged Attacks by 30%. Additionally, Xinyan’s Charged Attacks gain an ATK Bonus equal to 50% of her DEF.
+Every Genshin Impact character has its own set of constellations above you can see Xinyan constellations list with descriptions.
+Ascension Materials
+In addition, there are ascension phases that increase the level cap for your character. After Xinyan reaches the 20th level she can be ascended to the next ascension phase, up to phase 6, which allow getting 90th level.
+Character Ascension Materials
+Agnidus Agate:
+Agnidus Agate Sliver
+,
+Agnidus Agate Fragment
+,
+Agnidus Agate Chunk
+,
+Agnidus Agate Gemstone
+.
+Everflame Seed
+Common Ascension Materials
+Treasure Hoarder Insignia
+,
+Silver Raven Insignia
+,
+Golden Raven Insignia
+.
+Local Specialty
+Violetgrass
+Genshin Impact Enhancement Progression Calculator
+In order to level up ascension phases, you’ll need materials. So the list of those required for Xinyan is listed above.
+Artem R.
+I have been an avid gamer since childhood. My favorite genres are RPGs, Action, and MMOs. Some of my all-time favorite games include the Diablo and Path of Exile ARPG series, the Dark Souls series, and JRPGs like Xenoblade, Atelier, and the Final Fantasy. I am also a big fan of the PSP and PS Vita, and I currently enjoy gaming on my Nintendo Switch.
+Post Views:
+6,050
+Please share it with your friends
+Tags:
+Genshin Impact
+Post navigation
+Previous
+How to Download Genshin Impact
+Next
+Genshin Impact Xiangling Build and Best Team Comp

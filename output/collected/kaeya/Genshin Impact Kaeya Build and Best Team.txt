@@ -1,0 +1,174 @@
+Kaeya is a playable Cryo character in Genshin Impact. We decided to write this guide to help you learn more about Kaeya. In our Genshin Impact Kaeya Build and Best Team Comp post, you will learn about Kaeya’s talents, how they work and how to upgrade them. Also, you will read about his Constellations that will help you make Kaeya even more powerful. After that, we have written Genshin Impact Kaeya Build where you’ll see weapon and artifact set. And at last, we have mentioned the best team comps for Kaeya as the Sub DPS hero.
+Genshin Impact All Characters List
+The whole information is presented in tables. You can use the navigation bar above to move quickly to the information block that you are most interested in.
+Talents
+Constellations
+Build
+Team
+Kaeya Build
+Below you can see the best weapon option for playing Kaeya in Genshin Impact. Accompanied by the best Kaeya artifact set and its stat priorities.
+Sub DPS Build
+If you play this champion as a Sub DPS in your comp you should take the weapon and artifacts from the list below. They are believed to be the most effective ones in almost all situations.
+Weapon
+Skyward Blade
+Weapon Substitutes:
+Mistsplitter Reforged
+,
+Favonius Sword
+,
+Sacrificial Sword
+,
+Harbinger of Dawn
+.
+Artifact Set
+Blizzard Strayer
+(2-Piece)
+&
+Noblesse Oblige
+(2-Piece)
+Artifact Main Stats Priority:
+ATK%
+Cryo DMG Bonus
+CRIT DMG / CRIT Rate
+Sub Stats Priority: CRIT DMG > CRIT Rate > ATK% > Elemental Mastery / Energy Recharge
+Talent Priority
+Glacial Waltz > Frostgnaw > Ceremonial Bladework
+Main DPS Build
+If you play this champion as a Main DPS in your comp you should take the weapon and artifacts from the list below. They are believed to be the most effective ones in almost all situations.
+Weapon
+Skyward Blade
+Artifact Set
+Blizzard Strayer
+(4-Piece)
+Artifact Main Stats Priority:
+ATK%
+Cryo DMG Bonus
+CRIT DMG / CRIT Rate
+Sub Stats Priority: ATK% > CRIT DMG > CRIT Rate > Elemental Mastery
+Talent Priority
+Glacial Waltz > Ceremonial Bladework > Frostgnaw
+Best Team Compositions for Kaeya
+When you play Genshin Impact everything depends not only on your main character but also on the composition. You should learn how elements complement each other and build the best team for your main. Below you can see the best team composition for Kaeya with Main DPS, Sub DPS and Support characters. Also, we have included alternative characters for each role that go well with Kaeya too.
+Kaeya as a Sub DPS
+Kaeya is a good sub DPS character with Cryo element that can be applied to enemies by Burst and skills. Diluc will play as a main DPS but you will activate him after Kaeya’s attacks to provoke Melt reaction. Xingqiu’s can apply Hydro continuously and Diluc’s Pyro DMG will trigger Vaporization or Frozen from Kaeya. Bennett triggers Pyro resonance and also heals and boosts DPS of the team.
+Good characters for this comp:
+Klee, Hu Tao, Ayaka, Keqing, Mona, Fischl, Kaedehara Kazuha, Venti, Zhongli, Rosaria, Diona.
+If you want to know more about every teammate for Kaeya you can click on the link below and find them in the list of all Genshin Impact characters that we have described.
+Kaeya as a Main DPS
+Kaeya can be a decent main DPS if you find the balance between physical and Cryo damage. Rosaria will provide additional crit chance and from Cryo resonance. While Xingqiu is essential to activate the Frozen effect and heal. Bennett can activate Melt reaction and provide better healing while Kaeya is dealing damage. You can swap to Rosaria while Kaeya’s abilities are on cooldown.
+Genshin Impact All Characters List
+In case you are still not sure what champion you want to pick as main we have
+Genshin Impact characters tier list
+with explanations on how to build your best team.
+Kaeya Talents
+Below you can see the list of talents that Kaeya uses during the fight. Each of them we have described with the main characteristics.
+Ceremonial Bladework
+Normal Attack
+Normal Attack:
+Perform up to 5 rapid strikes.
+Charged Attack:
+Consumes a certain amount of Stamina to unleash 2 rapid sword strikes.
+Plunging Attack:
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Frostgnaw
+Elemental Skill
+Unleashes a frigid blast, dealing Cryo DMG to opponents in front of Kaeya.
+Glacial Waltz
+Elemental Burst
+Coalescing the frost in the air, Kaeya summons 3 icicles that revolve around him.
+These icicles will follow the character around and deal Cryo DMG to opponents in their path for the ability’s duration.
+Cold-Blooded Strike
+1st Ascension Passive
+Every hit with Frostgnaw regenerates HP for Kaeya equal to 15% of his ATK.
+Glacial Heart
+4th Ascension Passive
+Opponents Frozen by Frostgnaw will drop additional Elemental Particles.
+Frostgnaw may only produce a maximum of 2 additional Elemental Particles per use.
+Hidden Strength
+Utility Passive
+Decreases sprinting Stamina consumption of your characters in the party by 20%.
+Not stackable with Passive Talents that provide the exact same effects.
+Every talent can be upgraded up to level 15. But to do so you will need to gather materials on particular days. The list of the needed materials for leveling Kaeya’s talents is mentioned in the next block.
+Talent Leveling Materials
+So here you can see all materials that you will need in order to level up Kaeya’s talents.
+Talent Level-Up Materials
+Ballad Books:
+Teachings of Ballad
+,
+Guide to Ballad
+,
+Philosophies of Ballad
+.
+Common Ascension Materials
+Treasure Hoarder Insignia
+,
+Silver Raven Insignia
+,
+Golden Raven Insignia
+.
+Weekly Boss Material
+Spirit Locket of Boreas
+Genshin Impact Enhancement Progression Calculator
+Some of them are required at the beginning for low levels and others are more advanced. We just wanted to focus your attention on material types in general.
+Kaeya Constellations
+In Genshin Impact characters have a specific upgrade system called constellation. You will need to get a specific item called Stella Fortuna to increase the level of constellation. Each character has their own version of Stella Fortuna, which you get by obtaining a duplicate of the character from Wishes.
+Level 1
+Excellent Blood
+The CRIT Rate of Kaeya’s Normal and Charge Attacks against opponents affected by Cryo is increased by 15%.
+Level 2
+Never-Ending Performance
+Every time Glacial Waltz defeats an opponent during its duration, its duration is increased by 2.5s, up to a maximum of 15s.
+Level 3
+Dance of Frost
+Increases the Level of Frostgnaw by 3.
+Maximum upgrade level is 15.
+Level 4
+Frozen Kiss
+Triggers automatically when Kaeya’s HP falls below 20%:
+Creates a shield that absorbs damage equal to 30% of Kaeya’s Max HP. Lasts for 20s.
+This shield absorbs Cryo DMG with 250% efficiency.
+Can only occur once every 60s.
+Level 5
+Frostbiting Embrace
+Increases the Level of Glacial Waltz by 3.
+Maximum upgrade level is 15.
+Level 6
+Glacial Whirlwind
+Glacial Waltz will generate 1 additional icicle, and will regenerate 15 Energy when cast.
+Every Genshin Impact character has own set of constellations above you can see Kaeya constellations list with descriptions.
+Ascension Materials
+In addition, there are ascension phases that increase the level cap for your character. After Kaeya reaches the 20th level he can be ascended to the next ascension phase, up to phase 6, which allow getting 90th level.
+Character Ascension Materials
+Shivada Jade:
+Shivada Jade Sliver
+,
+Shivada Jade Fragment
+,
+Shivada Jade Chunk
+,
+Shivada Jade Gemstone
+.
+Hoarfrost Core
+Common Ascension Materials
+Treasure Hoarder Insignia
+,
+Silver Raven Insignia
+,
+Golden Raven Insignia
+.
+Local Specialty
+Calla Lily
+Genshin Impact Enhancement Progression Calculator
+In order to level up ascension phases you’ll need materials. So the list of those required for Kaeya is listed above.
+Artem R.
+I have been an avid gamer since childhood. My favorite genres are RPGs, Action, and MMOs. Some of my all-time favorite games include the Diablo and Path of Exile ARPG series, the Dark Souls series, and JRPGs like Xenoblade, Atelier, and the Final Fantasy. I am also a big fan of the PSP and PS Vita, and I currently enjoy gaming on my Nintendo Switch.
+Post Views:
+8,267
+Please share it with your friends
+Tags:
+Genshin Impact
+Post navigation
+Previous
+Genshin Impact Xingqiu Build and Best Team Comp
+Next
+Top June PC Indie Games List

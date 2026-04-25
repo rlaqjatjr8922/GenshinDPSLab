@@ -1,0 +1,288 @@
+Home
+/
+Genshin Impact
+/
+Character List
+/
+Lyney Profile
+/
+Lyney Build
+Lyney Guide and Best Builds
+Lyney is a 5-Star Pyro Bow user in Genshin Impact who deals
+powerful Pyro damage through ranged attacks, with increased DMG buffs when paired with more
+Pyro teammates. Read our Lyney guide to learn more about
+Lyney's kit, Lyney's best builds, and his Ascension and Talent Materials.
+Last updated
+on
+Oct 26, 2025
+at
+09:01
+by
+GachaHub
+1 comment
+S
+Rank
+Pyro
+Element
+Bow
+Weapon
+★
+★
+★
+★
+★
+Rarity
+Daman Mills
+EN Voice Actor
+Shimono Hiro
+JP Voice Actor
+Profile & Talents
+Build Guide
+Team Guide
+Lyney Guide & Best Builds
+Welcome to our Lyney build guide for Genshin Impact.
+Lyney
+is a 5-Star
+Pyro
+Main DPS 
+Character who deals powerful damage through his unique
+Charged Attack
+s 
+and Mono-Pyro scaling. In our guide, we'll cover everything you need to know to get 
+the most out of your Lyney, from building the best Artifacts and Weapons to important 
+stat priorities and playstyles.
+Best Weapons for Lyney
+Listed below are Lyney's best weapons. His signature weapon is naturally his 
+best-in-slot, but he has several highly competitive 5-Star and 4-Star options that 
+cater to his Charged Attack playstyle.
+The First Great Magic
+R1
+Parsifal the Great
+Base ATK:
+608
+CRIT DMG:
+66.2%
+DMG dealt by Charged Attacks increased by
+16% / 20% / 24% / 28% / 32%
+. For every party member with the same Elemental Type as the wielder (including the wielder themselves), gain 1 Gimmick stack. For every party member with a different Elemental Type from the wielder, gain 1 Theatrics stack. When the wielder has 1/2/3 or more Gimmick stacks, ATK will be increased by
+16%/32%/48% / 20%/40%/60% / 24%/48%/72% / 28%/56%/84% / 32%/64%/96%
+. When the wielder has 1/2/3 or more Theatrics stacks, Movement SPD will be increased by
+4%/7%/10% / 6%/9%/12% / 8%/11%/14% / 10%/13%/16% / 12%/15%/18%
+.
+The First Great Magic is Lyney's signature weapon and his absolute best-in-slot option. 
+It provides a massive amount of CRIT DMG and a passive that perfectly synergizes with 
+his kit. Similar to Lyney's
+Conclusive Ovation
+passive, this weapon 
+grants additional ATK % and Movement SPD based on the number of other
+Pyro
+characters in the party.
+Astral Vulture's Crimson Plumage
+R1
+The Moonring Sighted
+Base ATK:
+608
+CRIT DMG:
+66.2%
+For 12s after triggering a Swirl reaction, ATK increases by
+24% / 30% / 36% / 42% / 48%
+. In addition, when 1/2 or more characters in the party are of a different Elemental Type from the equipping character, the DMG dealt by the equipping character's Charged Attacks is increased by
+20%/48% / 25%/60% / 30%/72% / 35%/84% / 40%/96%
+and Elemental Burst DMG dealt is increased by
+10%/24% / 12.5%/30% / 15%/36% / 17.5%/42% / 20%/48%
+.
+Astral Vulture's Crimson Plumage is a phenomenal alternative 5-Star weapon. It serves 
+as an incredible stat stick and provides powerful buffs that benefit Lyney's overall 
+damage profile when played optimally.
+Aqua Simulacra
+R1
+The Cleansing Form
+Base ATK:
+542
+CRIT DMG:
+88.2%
+HP is increased by
+16% / 20% / 24% / 28% / 32%
+. When there are opponents nearby, the DMG dealt by the wielder of this weapon is increased by
+20% / 25% / 30% / 35% / 40%
+. This will take effect whether the character is on-field or not.
+Aqua Simulacra is a universally strong bow that works exceptionally well on Lyney. 
+The massive 88.2% CRIT DMG stat helps balance his build alongside Marechaussee Hunter's 
+CRIT Rate, and the unconditional DMG bonus is highly valuable as long as you remain 
+relatively close to enemies.
+Song of Stillness
+R5
+Benthic Pulse
+Base ATK:
+510
+ATK:
+41.3%
+After the wielder is healed, they will deal
+16% / 20% / 24% / 28% / 32%
+more DMG for 8s. This can be triggered even when the character is not on the field.
+Song of Stillness is an amazing free-to-play craftable option. Because Lyney naturally 
+consumes his own HP and requires a healer (usually
+Bennett
+) to keep 
+him topped up, he will constantly trigger the weapon's passive to gain a large DMG boost.
+Prototype Crescent
+R5
+Unreturning
+Base ATK:
+510
+ATK:
+41.3%
+Charged Attack hits on weak points increase Movement SPD by 10% and ATK by
+36% / 45% / 54% / 63% / 72%
+for 10s.
+Prototype Crescent is another solid craftable choice for Lyney. However, its massive 
+ATK % buff requires you to consistently land headshots on enemy weak points, making 
+it somewhat situational depending on the enemy type you are fighting.
+Best Artifacts for Lyney
+Marechaussee Hunter
+Marechaussee Hunter
+2-Piece Set
+: Normal and Charged Attack DMG +15%
+4-Piece Set
+: When current HP increases or decreases, CRIT Rate will be increased by 12% for 5s. Max 3 stacks.
+Marechaussee Hunter is by far Lyney's best artifact set. Because his Charged Attacks 
+inherently consume his HP and he heals himself using his Elemental Skill, he easily 
+maintains the 3-stack buff. This provides a massive 36% CRIT Rate, allowing you to focus 
+heavily on CRIT DMG and ATK % on your artifact pieces.
+Lavawalker
+Lavawalker
+2-Piece Set
+: Pyro RES increased by 40%.
+4-Piece Set
+: Increases DMG against opponents affected by Pyro by 35%.
+Lavawalker is a viable alternative if you are playing Lyney in his standard Mono-Pyro 
+team composition. Since enemies will constantly be affected by
+Pyro
+, 
+Lyney will maintain 100% uptime on the 35% DMG bonus provided by the 4-piece set.
+Lyney's Stat Priority
+:
+ATK %
+:
+Pyro
+DMG
+:
+CRIT DMG
+Substats:
+CRIT Rate / CRIT DMG > ATK % > Energy Recharge
+Lyney primarily wants ATK %, CRIT DMG, and CRIT Rate. Because
+Marechaussee Hunter
+provides 36% CRIT Rate, and Lyney ascends with CRIT Rate, 
+you want to ensure you build a CRIT DMG
+. Be very careful not 
+to overcap on CRIT Rate; 64% CRIT Rate on your stat screen is the absolute maximum you 
+should aim for before the Marechaussee buff activates.
+Recommended Stats for Lyney
+Listed below are our recommended stats for Lyney. 
+  Build recommendations assume a Main DPS Lyney utilizing Marechaussee Hunter.
+ATK:
+2,000 - 2,400+
+CRIT Rate:
+40 - 64% (Before Marechaussee stacks)
+CRIT DMG:
+200 - 240%+
+Energy Recharge:
+120 - 150%
+Lyney's Talent Priority
+Talent Priority:
+Card Force Translocation
+>
+Bewildering Lights
+=
+Wondrous Trick: Miracle Parade
+Lyney's Normal Attack talent is by far the most important to level, as it scales the 
+damage of his Prop Arrows and Grin-Malkin Hats. His Elemental Skill and Elemental Burst 
+deal solid damage and are roughly similar in value, so level them equally after maxing 
+his Normal Attacks.
+How to Play Lyney
+Lyney's gameplay is centered heavily around his Charged Attacks. You want to hold his 
+attack to the second charge level to fire a "Prop Arrow". This will summon a
+Grin-Malkin Hat
+on the field and consume a portion of Lyney's HP (if he 
+is above 60% HP), perfectly stacking his
+Marechaussee Hunter
+set.
+The Grin-Malkin Hat is incredibly useful, as it taunts nearby enemies to keep their 
+attention away from you, making it much easier to safely charge your shots! When destroyed 
+or when its duration expires, the hat deals AoE
+Pyro
+DMG. This 
+can even occur when Lyney is off-field.
+His Elemental Skill,
+Bewildering Lights
+, deals front-loaded AoE 
+Pyro damage based on how many "Prop Surplus" stacks he generated from consuming HP. It 
+also detonates any active Grin-Malkin Hats and heals Lyney based on the stacks consumed.
+Finally, Lyney's Elemental Burst,
+Wondrous Trick: Miracle Parade
+, turns 
+him into a Grin-Malkin Cat that moves rapidly around the field, dealing Pyro DMG to 
+enemies he passes through. You can end the state early by pressing the Elemental Skill 
+button, which will deal a final instance of AoE Pyro DMG and summon another Grin-Malkin Hat.
+Lyney's Best Constellations
+Lyney's constellations offer strong damage increases, with C2 being an incredible 
+stopping point for low spenders.
+Investment Priority:
+Signature Weapon > Constellation 1 > Constellation 2
+Whimsical Wonders
+(C1) allows Lyney to have two Grin-Malkin Hats 
+on the field simultaneously. Additionally, his Prop Arrows will summon two hats instead 
+of one and grant an extra Prop Surplus stack, significantly speeding up his rotation and burst potential.
+Loquacious Cajoling
+(C2) is arguably his best early constellation. 
+It provides a massive, unconditional CRIT DMG increase (up to 60%) simply for keeping 
+Lyney on the field for 6 seconds, heavily rewarding his standard Main DPS playstyle.
+Lyney's Best Team Compositions
+To learn all about Lyney's synergies and best team compositions, check 
+our dedicated Lyney team page below:
+Lyney's Best Teams
+Changelog
+20 Apr. 2026:
+Updated for 6.5.
+26 Oct. 2025:
+Updated for 6.1.
+12 Feb. 2025:
+Reviewed for 5.4.
+03 Feb. 2025:
+Updated for 5.3.
+03 Jun. 2024:
+Reviewed for 4.7.
+20 Apr. 2024:
+Guide Updated for 4.6.
+22 Jan. 2024:
+Guide added.
+Show more
+Show less
+Profile & Talents
+Build Guide
+Team Guide
+Need any help? Check out our
+General Discussion Forum
+!
+1 comment
+In The Same Category
+Lyney Team Guide
+Lyney Profile & Talents
+Nicole Best Builds Guide
+Xinyan Best Builds Guide
+Bennett Best Builds Guide
+Xiangling Best Builds Guide
+Mavuika Profile & Talents
+Diluc Profile & Talents
+Diluc Team Guide
+Klee Best Builds Guide
+Bennett Profile & Talents
+Yanfei Best Builds Guide
+ABOUT THE AUTHOR
+Asher is a Genshin Impact and Wuthering Waves creator and theorycrafter 
+        with over three years of experience in Teyvat and one year in Solaris-3. 
+        He has been producing guides and analysis content consistently for the past 
+        six months, building a growing YouTube community of more than 8,000 subscribers. 
+        He focuses on creating simple, clear, and beginner-friendly guides designed 
+        to help new players understand characters, builds, and meta strategies with ease.
+SUPPORT OUR WRITERS

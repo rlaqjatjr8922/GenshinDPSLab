@@ -10,9 +10,11 @@ GEAR_JSON = DATA_DIR / "gear.json"
 FAILED_CSV_PATH = OUTPUT_DIR / "failed_runs.csv"
 FAILED_JSON_PATH = OUTPUT_DIR / "failed_runs.json"
 
+SIM_TOTAL = 24
+
 
 def norm(s: str) -> str:
-    return s.strip().lower()
+    return str(s).strip().lower().replace(" ", "")
 
 
 def load_json(path):
@@ -78,9 +80,10 @@ def run(app_state, progress_callback=None, log_callback=None):
         else:
             print(message)
 
-    def set_progress(value: float):
-        if progress_callback:
-            progress_callback(value)
+    ui = getattr(app_state, "ui", None)
+    controller = getattr(ui, "controller", None)
+
+    log("[engine] 3단계 시작")
 
     if not TEAMS_JSON.exists():
         raise FileNotFoundError(f"teams.json 없음: {TEAMS_JSON}")
@@ -97,8 +100,14 @@ def run(app_state, progress_callback=None, log_callback=None):
     if total == 0:
         raise ValueError("teams.json이 비어 있습니다.")
 
+    if controller:
+        controller.set_stage3_progress(0, total, 0, SIM_TOTAL)
+    elif progress_callback:
+        progress_callback(0)
+
     results = []
     failed_set = set()
+    sim_done = 0
 
     for i, (main_name, members) in enumerate(items, start=1):
         if main_name in failed_set:
@@ -119,6 +128,10 @@ def run(app_state, progress_callback=None, log_callback=None):
             results.append(result)
             log(f"[{i}/{total}] {main_name} 완료")
 
+            sim_done += 1
+            if sim_done > SIM_TOTAL:
+                sim_done = SIM_TOTAL
+
         except Exception as e:
             log(f"[오류] {main_name}: {e}")
             failed_set.add(main_name)
@@ -126,7 +139,10 @@ def run(app_state, progress_callback=None, log_callback=None):
             save_failed_json(failed_set)
             log(f"[engine] 실패 저장 완료: {main_name}")
 
-        set_progress((i / total) * 100.0)
+        if controller:
+            controller.set_stage3_progress(i, total, sim_done, SIM_TOTAL)
+        elif progress_callback:
+            progress_callback((i / total) * 100.0)
 
     app_state.stage3 = {
         "status": "done",
@@ -136,6 +152,11 @@ def run(app_state, progress_callback=None, log_callback=None):
         "failed_csv_path": str(FAILED_CSV_PATH) if failed_set else "",
         "failed_json_path": str(FAILED_JSON_PATH) if failed_set else "",
     }
+
+    if controller:
+        controller.set_stage3_progress(total, total, sim_done, SIM_TOTAL)
+    elif progress_callback:
+        progress_callback(100)
 
     log("[engine] 3단계 완료")
     return app_state.stage3

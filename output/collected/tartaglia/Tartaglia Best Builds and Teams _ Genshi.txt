@@ -1,0 +1,654 @@
+Tartaglia Best Builds and Teams | Genshin Impact | PrimoGuides.gg | The best and easy-to-understand guides for your favorite games
+🚧
+PrimoGuides.GG is in soft launch!
+Some character guides are still a work in progress. Most build recommendations are live, with detailed explanations coming soon.
+Tartaglia
+★★★★★
+Hydro
+Bow
+On-Field
+DPS
+Builds Update
+6.2
+Teams Update
+6.2
+Is this guide outdated or incomplete?
+📜 Request Update
+construction
+Builds
+groups
+Teams
+Main DPS
+Tartaglia (a.k.a. Childe) is a
+Hydro
+Main DPS who can switch stances with his
+Skill
+. He uses a combination of
+Normal
+and
+Charged Attacks
+in his melee mode to deal damage, and his
+Burst
+also deals decent damage regardless if he's in ranged or melee mode.
+Best Artifacts
+4pc
+Nymph's Dream
+(2)
+Hydro
+DMG Bonus
++15%
+(4)
+After
+Normal
+,
+Charged
+, and
+Plunging Attacks
+,
+Elemental Skills
+, and
+Elemental Bursts
+hit opponents,
+1
+stack of Mirrored Nymph will triggered, lasting
+8s
+. When under the effect of
+1
+,
+2
+, or
+3
+or more Mirrored Nymph stacks,
+ATK
+will be increased by
+7%
+/
+16%
+/
+25%
+, and
+Hydro
+DMG
+will be increased by
+4%
+/
+9%
+/
+15%
+. Mirrored Nymph created by
+Normal
+,
+Charged
+, and
+Plunging Attacks
+,
+Elemental Skills
+, and
+Elemental Bursts
+exist independently.
+Best set for Childe, providing a total of
+30%
+Hydro
+DMG Bonus
+and
+25%
+ATK
+buff at full stacks which he can maintain easily due to him being able to use various types of attacks.
+4pc
+Heart of Depth
+(2)
+Hydro
+DMG Bonus
++15%
+(4)
+After using an
+Elemental Skill
+, increases
+Normal Attack
+and
+Charged Attack
+DMG
+by
+30%
+for
+15s
+.
+Great alternative and more consistent if only focusing on
+Normal
+and
+Charged Attacks
+.
+2pc
+Heart of Depth
+(2)
+Hydro
+DMG Bonus
++15%
+(4)
+After using an
+Elemental Skill
+, increases
+Normal Attack
+and
+Charged Attack
+DMG
+by
+30%
+for
+15s
+.
+add
+2pc
+Nymph's Dream
+(2)
+Hydro
+DMG Bonus
++15%
+(4)
+After
+Normal
+,
+Charged
+, and
+Plunging Attacks
+,
+Elemental Skills
+, and
+Elemental Bursts
+hit opponents,
+1
+stack of Mirrored Nymph will triggered, lasting
+8s
+. When under the effect of
+1
+,
+2
+, or
+3
+or more Mirrored Nymph stacks,
+ATK
+will be increased by
+7%
+/
+16%
+/
+25%
+, and
+Hydro
+DMG
+will be increased by
+4%
+/
+9%
+/
+15%
+. Mirrored Nymph created by
+Normal
+,
+Charged
+, and
+Plunging Attacks
+,
+Elemental Skills
+, and
+Elemental Bursts
+exist independently.
+2pc
+Heart of Depth
+(2)
+Hydro
+DMG Bonus
++15%
+(4)
+After using an
+Elemental Skill
+, increases
+Normal Attack
+and
+Charged Attack
+DMG
+by
+30%
+for
+15s
+.
+add
+2pc
+Gladiator's Finale
+(2)
+ATK
++18%
+.
+(4)
+If the wielder of this artifact set uses a Sword, Claymore or Polearm, increases their
+Normal Attack
+DMG
+by
+35%
+.
+Best Stats
+Sands
+ATK%
+Goblet
+Hydro
+DMG Bonus
+Circlet
+CRIT Rate
+/
+CRIT DMG
+Substats
+CRIT Rate
+/
+CRIT DMG
+/
+ATK%
+/
+Elemental Mastery
+/
+Energy Recharge
+Best Weapons
+1
+Polar Star
+5★
+Base ATK
+608
+CRIT Rate
++33.1%
+Source
+Event Wish
+Daylight's Augury
+Elemental Skill
+and
+Elemental Burst
+DMG
+increased by
+12
+~
+24%
+. After a
+Normal Attack
+,
+Charged Attack
+,
+Elemental Skill
+or
+Elemental Burst
+hits an opponent,
+1
+stack of Ashen Nightstar will be gained for
+12s
+. When
+1
+/
+2
+/
+3
+/
+4
+stacks of Ashen Nightstar are present,
+ATK
+is increased by
+10
+/
+20
+/
+30
+/
+48
+~
+20
+/
+40
+/
+60
+/
+96%
+. The stack of Ashen Nightstar created by the
+Normal Attack
+,
+Charged Attack
+,
+Elemental Skill
+or
+Elemental Burst
+will be counted independently of the others.
+Childe's signature weapon.
+2
+Aqua Simulacra
+5★
+Base ATK
+542
+CRIT DMG
++88.2%
+Source
+Event Wish
+The Cleansing Form
+HP
+is increased by
+16
+~
+32%
+. When there are opponents nearby, the
+DMG
+dealt by the wielder of this weapon is increased by
+20
+~
+40%
+. This will take effect whether the character is on-field or not.
+3
+Hunter's Path
+5★
+Base ATK
+542
+CRIT Rate
++44.1%
+Source
+Event Wish
+At the End of the Beast-Paths
+Gain
+12
+~
+24%
+All Elemental
+DMG Bonus
+. Obtain the Tireless Hunt effect after hitting an opponent with a
+Charged Attack
+. This effect increases
+Charged Attack
+DMG
+by
+160
+~
+320%
+of
+Elemental Mastery
+. This effect will be removed after
+12
+Charged Attacks
+or
+10s
+. Only
+1
+instance of Tireless Hunt can be gained every
+12s
+.
+4
+Skyward Harp
+5★
+Base ATK
+674
+CRIT Rate
++22.1%
+Source
+Wish
+Echoing Ballad
+Increases
+CRIT DMG
+by
+20
+~
+40%
+. Hits have a
+60
+~
+100%
+chance to inflict a small AoE attack, dealing
+125%
+Physical
+ATK
+DMG
+. Can only occur once every
+4
+~
+2s
+.
+5
+Thundering Pulse
+5★
+Base ATK
+608
+CRIT DMG
++66.2%
+Source
+Event Wish
+Rule By Thunder
+Increases
+ATK
+by
+20
+~
+40%
+and grants the might of the Thunder Emblem. At stack levels
+1
+/
+2
+/
+3
+, the Thunder Emblem increases
+Normal Attack
+DMG
+by
+12
+/
+24
+/
+40
+~
+24
+/
+48
+/
+80%
+. The character will obtain
+1
+stack of Thunder Emblem in each of the following scenarios:
+Normal Attack
+deals
+DMG
+(stack lasts
+5s
+), casting
+Elemental Skill
+(stack lasts
+10s
+); Energy is less than
+100%
+(stack disappears when Energy is full). Each stack's duration is calculated independently.
+6
+The First Great Magic
+5★
+Base ATK
+608
+CRIT DMG
++66.2%
+Source
+Event Wish
+Parsifal the Great
+DMG
+dealt by
+Charged Attacks
+increased by
+16
+~
+32%
+. For every party member with the same Elemental Type as the wielder (including the wielder themselves), gain
+1
+Gimmick stack. For every party member with a different Elemental Type from the wielder, gain
+1
+Theatrics stack. When the wielder has
+1
+/
+2
+/
+3
+or more Gimmick stacks,
+ATK
+will be increased by
+16%
+/
+32%
+/
+48%
+~
+32%
+/
+64%
+/
+96%
+. When the wielder has
+1
+/
+2
+/
+3
+or more Theatrics stacks, Movement SPD will be increased by
+4%
+/
+7%
+/
+10%
+~
+12%
+/
+15%
+/
+18%
+.
+7
+The Viridescent Hunt
+4★
+Base ATK
+510
+CRIT Rate
++27.6%
+Source
+Battle Pass
+Verdant Wind
+Upon hit,
+Normal
+and Aimed Shot Attacks have a
+50%
+chance to generate a Cyclone, which will continuously attract surrounding opponents, dealing
+40
+~
+80%
+of
+ATK
+as
+DMG
+to these opponents every
+0.5s
+for
+4s
+. This effect can only occur once every
+14
+~
+10s
+.
+8
+Scion of the Blazing Sun
+4★
+Base ATK
+565
+CRIT Rate
++18.4%
+Source
+Battle Pass
+The Way of Sunfire
+After a
+Charged Attack
+hits an opponent, a Sunfire Arrow will descend upon the opponent hit, dealing
+60
+~
+120%
+ATK
+as
+DMG
+, and applying the Heartsearer effect to the opponent damaged by said Arrow for
+10s
+. Opponents affected by Heartsearer take
+28
+~
+56%
+more
+Charged Attack
+DMG
+from the wielder. A Sunfire Arrow can be triggered once every
+10s
+.
+9
+Rust
+4★
+Base ATK
+510
+ATK
++41.3%
+Source
+Wish
+Rapid Firing
+Increases
+Normal Attack
+DMG
+by
+40
+~
+80%
+but decreases
+Charged Attack
+DMG
+by
+10%
+.
+10
+Hamayumi
+4★
+Base ATK
+454
+ATK
++55.1%
+Source
+Forging
+Full Draw
+Increases
+Normal Attack
+DMG
+by
+16
+~
+32%
+and
+Charged Attack
+DMG
+by
+12
+~
+24%
+. When the equipping character's Energy reaches
+100%
+, this effect is increased by
+100%
+.
+11
+Blackcliff Warbow
+4★
+Base ATK
+565
+CRIT DMG
++36.8%
+Source
+Paimon's Bargains
+Press the Advantage
+After defeating an opponent,
+ATK
+is increased by
+12
+~
+24%
+for
+30s
+. This effect has a maximum of
+3
+stacks, and the duration of each stack is independent of the others.
+Copyright © 2025 PrimoGuides.GG
+·
+Privacy Policy
