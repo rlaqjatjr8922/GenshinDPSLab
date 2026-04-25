@@ -1,0 +1,50 @@
+options iteration=1000 duration=10.5 swap_delay=6 workers=4;
+options hitlag=true defhalt=false ignore_burst_energy=true;
+
+target lvl=100 resist=0.1 pos=1,0 radius=3 freeze_resist=0;
+
+active furina;
+
+# =========================
+# 캐릭터 1 (furina)
+# =========================
+furina char lvl=90/90 cons=0 talent=9,9,9;
+furina add weapon="splendoroftranquilwaters" refine=1 lvl=90/90;
+furina add set="goldentroupe" count=4;
+
+# =========================
+# 캐릭터 2 (baizhu)
+# =========================
+baizhu char lvl=90/90 cons=0 talent=9,9,9;
+baizhu add weapon="favoniuscodex" refine=1 lvl=90/90;
+baizhu add set="deepwoodmemories" count=4;
+
+# =========================
+# 캐릭터 3 (ayaka)
+# =========================
+ayaka char lvl=90/90 cons=0 talent=9,9,9;
+ayaka add weapon="mistsplitterreforged" refine=1 lvl=90/90;
+ayaka add set="blizzardstrayer" count=4;
+
+# =========================
+# 캐릭터 4 (bennett)
+# =========================
+bennett char lvl=90/90 cons=0 talent=9,9,9;
+bennett add weapon="aquilafavonia" refine=1 lvl=90/90;
+bennett add set="noblesseoblige" count=4;
+
+
+# Entry Order
+# furina -> ayaka -> baizhu -> bennett
+furina skill;
+furina burst;
+furina attack;
+ayaka skill;
+ayaka burst;
+ayaka attack;
+baizhu skill;
+baizhu burst;
+baizhu attack;
+bennett skill;
+bennett burst;
+bennett attack;

@@ -1,0 +1,50 @@
+options iteration=1000 duration=10.5 swap_delay=6 workers=4;
+options hitlag=true defhalt=false ignore_burst_energy=true;
+
+target lvl=100 resist=0.1 pos=1,0 radius=3 freeze_resist=0;
+
+active gaming;
+
+# =========================
+# 캐릭터 1 (gaming)
+# =========================
+gaming char lvl=90/90 cons=0 talent=9,9,9;
+gaming add weapon="serpentspine" refine=1 lvl=90/90;
+gaming add set="crimsonwitchofflames" count=4;
+
+# =========================
+# 캐릭터 2 (bennett)
+# =========================
+bennett char lvl=90/90 cons=0 talent=9,9,9;
+bennett add weapon="aquilafavonia" refine=1 lvl=90/90;
+bennett add set="noblesseoblige" count=4;
+
+# =========================
+# 캐릭터 3 (chevreuse)
+# =========================
+chevreuse char lvl=90/90 cons=0 talent=9,9,9;
+chevreuse add weapon="blacktassel" refine=1 lvl=90/90;
+chevreuse add set="songofdayspast" count=4;
+
+# =========================
+# 캐릭터 4 (fischl)
+# =========================
+fischl char lvl=90/90 cons=0 talent=9,9,9;
+fischl add weapon="polarstar" refine=1 lvl=90/90;
+fischl add set="goldentroupe" count=4;
+
+
+# Entry Order
+# chevreuse -> fischl -> gaming -> bennett
+chevreuse skill;
+chevreuse burst;
+chevreuse attack;
+fischl skill;
+fischl burst;
+fischl attack;
+gaming skill;
+gaming burst;
+gaming attack;
+bennett skill;
+bennett burst;
+bennett attack;

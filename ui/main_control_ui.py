@@ -13,7 +13,7 @@ class MainControllerUI:
         self.root = root
         self.app_state = app_state
 
-        self.root.title("LOLSTERT 메인 컨트롤")
+        self.root.title("원신 dps 메인 컨트롤")
         self.root.geometry("1260x780")
         self.root.minsize(1080, 720)
 

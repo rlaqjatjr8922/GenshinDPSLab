@@ -7,7 +7,7 @@ def create_header(parent, status_var):
 
     ttk.Label(
         frame,
-        text="LOLSTERT 메인 컨트롤",
+        text="원신 dps 시뮬레이터",
         font=("맑은 고딕", 18, "bold"),
     ).grid(row=0, column=0, sticky="w")
 
