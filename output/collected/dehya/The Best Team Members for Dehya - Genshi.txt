@@ -1,0 +1,144 @@
+The Best Team Members for Dehya - Genshin Impact
+By
+Elara Leclair
+Published
+Feb 28, 2023, 10:05 PM EST
+Elara is a passionate List Writer and avid gamer. She loves writing about rpg, simulation, casual co-op games as well as tech and anime. Her current favourite games are Genshin Impact and Honkai: Star Rail.
+Sign in to your
+GameRant
+account
+Add Us On
+follow
+Follow
+followed
+Followed
+Like
+Like
+Log in
+Here is a fact-based summary of the story contents:
+Try something different:
+Show me the facts
+Explain it like I’m 5
+Give me a lighthearted recap
+Dehya
+Pyro
+Claymore
+Sumeru
+Guides
+Ascension
+Builds
+Weapons
+Team Comp
+Constellation
+Player Mistakes
+Back to All Characters
+With the release of the Version 3.5 Update, Dehya is available as a playable character in
+Genshin Impact
+. Despite her popularity among players for her appealing personality and appearance, her gameplay kit may seem ahead of its time, as there aren't many character compositions that truly work well with her playstyle, particularly when it comes to Elemental Reactions. However, for those who have taken a liking to her, she can bring a fresh and new gameplay style that can complement the existing roster of characters. As new characters are introduced in the future, her true potential can be hopefully better realized.
+Related:
+Genshin Impact: Best Cyno Team Compositions Guide
+Dehya is designed to be played by utilizing her Elemental Skill and Elemental Burst heavily. This makes her a suitable choice as a Sub-DPS character, especially in teams that employ quick swaps between other characters. While she may not be the strongest DPS character in the
+Genshin Impact
+roster, with the right team compositions she can offer a robust gameplay experience and a unique playstyle that sets her apart from the typical popular Pyro elemental reaction team compositions. Interestingly, her previous role as the bodyguard of Dunyarzad in the game lore also aligns with her team composition role, since she can mitigate damage and protect her allies.
+Dehya + Xiangling + Bennett + Kazuha
+A mono-Pyro team composed of Bennett, Xiangling, Kazuha, and Dehya is a potent lineup that brings a wide range of abilities and playstyles to the table. Unlike other teams that rely on Elemental Reactions, this team's strength lies in its constant Pyro damage output. The playstyle is not too dissimilar from other mono-Pyro teams that use Klee, Yanfei, or Yoimiya as
+the main DPS
+. However, this team requires a high level of Energy Recharge to keep Dehya's Burst active for maximum Pyro damage. The strategy of this team revolves around utilizing each character's Skills and Bursts in rotation, ensuring that all of them are up and running for maximum damage output. It is also a relatively low-investment team composition, since both Bennett and Xiangling are 4-star characters who have been available since the launch of
+Genshin Impact
+.
+Bennett is the cornerstone of this team as a powerful support character, who can boost his allies' damage and healing output and act as an Energy Battery. Kazuha also brings significant battery potential to the team, and his main role is to increase the team's Pyro damage with his Elemental Burst and by using the Viridescent Venerer artifact set. Xiangling serves as the sub-DPS, thanks to Guoba and her Elemental Burst. To maximize damage, players should ensure that Dehya is within Bennett's and Kazuha's Elemental Burst zones respectively before activating her Elemental Burst.
+Team Role
+Dehya:
+Sub-DPS, Burst DPS
+Bennett:
+Healer, Buffer, Battery
+Kazuha:
+Buffer, Debuffer
+Xiangling:
+Sub-DPS
+Dehya + Mona + Kokomi + Sucrose
+A Vaporize team comprised of Dehya, Mona, Kokomi, and Sucrose operates differently from other standard Pyro team compositions that include characters such as Hu Tao. Unlike Hu Tao, Dehya lacks Pyro infusion in her normal attacks and therefore cannot be used with characters like
+Yelan or Xingqui
+for this purpose. Additionally, her
+Burst animation
+is not considered a normal attack and does not synergize with these characters. However, Dehya can still utilize Mona's Elemental Burst in combination with her own Elemental Burst.
+Related:
+Genshin Impact: Best Team Compositions For Mona
+This team composition leverages the synergy between Kokomi and Dehya by applying Hydro and Pyro respectively, resulting in consistent Vaporize reactions throughout Dehya's AoE field. The presence of both Kokomi and Mona ensures more consistent Hydro application, and also triggers Hydro resonance, providing Dehya with an HP buff. Sucrose plays the role of buffing the team's Elemental Mastery and reducing the enemy's Elemental Resistance, using Viridescent Venerer. If players have a C6 Sucrose, she can also boost the team's Elemental Damage with her Burst. Since this composition is less efficient in particle generation compared to mono-Pyro teams, it is recommended to have
+Sucrose at C1
+, due to her higher battery potential, although players can also opt for Kazuha or Venti. Timing is crucial in this composition and players should ensure to activate Mona's Burst in coordination with Dehya's Elemental Burst, ideally by applying Pyro first and Mona's Burst and waiting a few moments for ICD and Omen to activate, before using Dehya's Burst.
+Team Role
+Dehya:
+Sub-DPS, Burst DPS, Pyro Enabler
+Kokomi:
+Healer, Buffer, Hydro Enabler
+Sucrose:
+Buffer, Debuffer, Battery
+Mona:
+Buffer, Hydro Enabler
+Dehya + Nahida + Kokomi + Candace
+In contrast to the popularity of some
+Dendro Elemental reactions
+, Burgeon is less commonly used among players. This team composition aims to utilize Dehya's Elemental Skill to activate the Burgeon reaction by interacting with Dendro Cores. Unlike Nilou who has a specific advantage toward Bloom, Dehya's Elemental Skill still proves useful for the Burgeon reaction despite not having a direct niche benefit. This is because her Pyro application is steady and slow, and her AoE ability can trigger multiple cores at once without needing to gather them. Since this composition emphasizes Dehya's Elemental Skill over her Elemental Burst, it is not as reliant on a battery character as other options.
+RELATED:
+Genshin Impact: Best Nilou Team Compositions Guide
+The presence of two Hydro characters, similar to the Vaporize composition, brings great benefits to the team as Kokomi, Candace, and Dehya can all utilize the HP buff and have extra defense against the damage inflicted by the Burgeon reaction. Having
+a competent healer
+such as Kokomi is crucial, while Dehya can lessen some of the damage within her AoE field. Candace's role may be more specialized, but she works well with Dehya, unlike many other characters. If players desire a character with more main damage potential, they can replace Candace with Ayato. The combination of Kokomi and another Hydro character will ensure consistent Hydro application both on and off the field, and Nahida can effectively generate Dendro cores. Overall, the characters on the team can be played interchangeably without needing a rigid combo rotation.
+Team Role
+Dehya:
+Sub-DPS, Burst DPS, Pyro Enabler
+Kokomi:
+Healer, Buffer, Hydro Enabler
+Nahida:
+Sub-DPS, Buffer, Dendro Enabler
+Candace:
+Buffer, Hydro Enabler
+Dehya + Ganyu + Nahida + Bennett
+Although Dendro and Cryo do not have a direct elemental reaction, utilizing the Burning reaction can increase the consistency of Pyro application and enhance Ganyu's melting ability. Although Dehya's off-field Pyro application is not as strong as Xiangling's, it can offer a unique playstyle. Dehya and Nahida will maintain a consistent Burning reaction, while Ganyu can charge her attacks for the Melt reaction. This playstyle requires players to be strategic with their Cryo application, as a strong Cryo application from Ganyu could override the Burning reaction.
+In this
+Ganyu Melt team composition
+, the Pyro resonance provides both Ganyu and Dehya with an ATK buff in addition to Bennett's Healing and ATK buff. Moreover, Dehya's AoE field offers benefits to Ganyu by giving resistance to interruption and allowing for damage mitigation, thus freeing up a spot that was typically occupied by Zhongli. This is how Nahida can fit into the team, as there would have otherwise been no room.
+Team Role
+Dehya:
+Sub-DPS, Burst DPS, Pyro Enabler
+Ganyu:
+Main DPS, Melt Enabler
+Nahida:
+Sub-DPS, Buffer, Dendro Enabler
+Bennett:
+Healer, Buffer, Battery
+Genshin Impact
+is now available on Mobile, PC, PS4, and PS5. A Switch version is in development.
+Strategy Guides
+Genshin Impact
+Follow
+Followed
+Like
+Share
+Facebook
+X
+WhatsApp
+Threads
+Bluesky
+LinkedIn
+Reddit
+Flipboard
+Copy link
+Email
+Close
+Poll
+POLL
+Which recently released Nintendo cozy game do you prefer?
+Pokemon Pokopia
+Pokemon Pokopia
+56.7%
+Tomodachi Life: Living the Dream
+Tomodachi Life: Living the Dream
+43.3%
+See Results
+Submit
+Trending Now
+Naruto: 6 Best Naruto and Sasuke Combo Attacks
+Avatar: The Last Airbender: Could Bloodbending Ever Have Been "Good"?
+Fullmetal Alchemist: Every Type of Alchemy, Ranked

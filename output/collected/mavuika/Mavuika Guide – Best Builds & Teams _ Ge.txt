@@ -1,0 +1,152 @@
+The Pyro Archon of Natlan, Mavuika, rides into Genshin Impact 5.3 as a 5-star Claymore wielder who can dominate the battlefield with blazing AoE and nuking potential. Her dual-role flexibility as a Main DPS or Sub-DPS, combined with her signature motorcycle and energy-free Burst, makes her one of the most dynamic units ever introduced. Here’s a deep-dive guide to Mavuika’s builds, teams, weapons, and playstyle.
+Mavuika Genshin Impact Guide: Best Builds, Weapons, Teams & Combos
+Character Overview
+Element:
+Pyro
+Weapon:
+Claymore
+Role:
+Main DPS / Sub-DPS
+Mechanic:
+Uses “Fighting Spirit” instead of Energy Recharge
+Release Version:
+5.3
+Constellation:
+Sol Invictus
+Mavuika’s kit features an alternate energy system called Fighting Spirit, gained through allies’ actions. Her Elemental Burst is a nuke followed by enhanced Pyro attacks while riding her Flamestrider, providing massive field presence.
+Best Builds for Mavuika
+Let’s break down how to gear Mavuika for maximum performance depending on whether she’s your primary damage dealer or supporting from off-field.
+Main DPS (On-Field)
+Artifact Set:
+Choose one of these sets to boost her Pyro potential during on-field time.
+4pc Obsidian Codex (Best-in-slot)
+Alternatives: 4pc Marechaussee Hunter (with Furina), 2pc Pyro + 2pc ATK
+Main Stats:
+Use standard DPS stat priorities here.
+Sands: ATK% or EM (for Melt/Vape comps)
+Goblet: Pyro DMG Bonus
+Circlet: CRIT Rate / CRIT DMG (to balance 1:2 ratio)
+Substats Priority:
+Aim for high CRIT consistency and offensive power.
+CRIT > ATK% > EM > Flat ATK
+Talent Priority:
+Level these talents in order to unleash her strongest damage window.
+Elemental Burst
+Elemental Skill
+Ignore Normal Attack
+Sub-DPS (Off-Field)
+Even in a supporting role, Mavuika can deal solid damage and buff allies.
+Artifact Set:
+4pc Scroll of the Hero of Cinder City (Team buffer + personal DMG)
+Alternative: 4pc Obsidian Codex (if another unit uses Scroll)
+Playstyle:
+Tap Skill summons a Pyro Ring for AoE Pyro application. Use Burst for big damage and A4 buff.
+Best Weapons
+Choosing the right weapon is critical to match your playstyle—focus on CRIT stats and synergy with her Burst mechanics.
+Top 5-Star Options:
+A Thousand Blazing Suns — Best-in-slot with CRIT + ATK + Burst synergy
+Beacon of the Reed Sea — CRIT Rate + Off-field buffing
+Redhorn Stonethresher — High CRIT DMG
+4-Star / F2P Options:
+Budget-friendly options that still pack a punch.
+Serpent Spine (BP) — High CRIT Rate, risk-reward passive
+Mailed Flower — EM-based, good for Melt/Vape
+Tidal Shadow / Earth Shaker — ATK-based, free options
+Avoid Energy Recharge weapons — Mavuika doesn’t need ER due to her unique system.
+Best Team Compositions
+Here’s how to build around Mavuika whether she’s the main star or providing powerful Pyro support.
+On-Field Melt Team:
+Ideal for maximizing damage with Cryo reactions.
+Mavuika (Main DPS)
+Citlali (Cryo / Buffs / Shield)
+Xilonen or Kazuha (Support + Scroll holder)
+Bennett (ATK buff + healing)
+On-Field Vaporize Team:
+Use Hydro supports for Vaporize reactions.
+Mavuika
+Furina / Yelan (Hydro application)
+Xilonen (Support)
+Bennett
+Overloaded / Mono-Pyro Team:
+Go for raw Pyro output with Electro support.
+Mavuika
+Chevreuse (Electro support)
+Ororon (Natlan synergy)
+Bennett
+Burning / Double Geo / Rainbow Team:
+Non-standard but highly effective elemental setups.
+Kinich / Emilie / Navia (Main DPS)
+Mavuika (Sub-DPS)
+Xilonen (Geo / Scroll support)
+Flex Buffer / Healer
+Sub-DPS Setup:
+Plug her into off-field roles for reliable Pyro application.
+Main DPS (Navia, Kinich, etc.)
+Mavuika (Scroll set holder)
+Xilonen (Geo/Scroll support)
+Healer or Buffer
+Note:
+At least one Natlan character is essential to generate Nightsoul points for charging Fighting Spirit. Xilonen and Citlali are the best enablers.
+Talents and Abilities
+Here’s how her kit works and the mechanics that define her gameplay.
+Elemental Skill (The Named Moment):
+Choose between Tap for support or Hold to ride Flamestrider for full DPS mode.
+Tap: Pyro Ring for off-field AoE damage (Nightsoul-aligned Pyro)
+Hold: Ride Flamestrider for Pyro-infused Normal/Charged attacks and terrain traversal
+Elemental Burst (Hour of Burning Skies):
+A powerful nuke that fuels her Crucible state for huge follow-up damage.
+Costs 50–100+ Fighting Spirit (not Energy)
+Massive AoE nuke + activates Crucible of Death and Life
+Converts all attacks into boosted Pyro, with full interruption resistance
+Fighting Spirit Mechanics:
+Understand how to build and manage the resource that powers her Burst.
+Gained when party members consume Nightsoul points or land Normal Attacks
+1.5 Spirit gained per Normal Attack (max 200)
+Burst is stronger the more Spirit you consume
+Passives:
+Support and traversal bonuses that round out her kit.
+Gift of Flaming Flowers: +30% ATK for 10s when ally triggers a Nightsoul Burst
+Kiongozi: Post-Burst, team gets up to 40% DMG Bonus for 20s based on Spirit used
+Night Realm’s Gift: Automatically gains Nightsoul points when terrain traversal triggers
+Utility Passive: Reduces Nightsoul Transmission cooldown for the whole party by 20%
+Constellation Highlights
+Invest in her constellations to dramatically increase her effectiveness across both roles.
+C1: +25% Fighting Spirit gain, +40% ATK boost
+C2: DEF shred (20%) with Ring; Burst/Skill ATK scaling boost (60–120%)
+C3: +3 Burst levels
+C4: Kiongozi buff no longer decays, adds +10% DMG
+C5: +3 Skill levels
+C6: Extra AoE Pyro explosions during Flamestrider & Ring; restores 80 Nightsoul points when not in combat
+C2 is highly impactful for both Off-field utility and On-field DMG ceiling. C6 is game-breaking.
+Combos & Rotations
+Here are some sample move sequences to make the most of her Burst uptime.
+Melt Combo:
+Use this to optimize Cryo-triggered damage with high-speed dashes.
+Q > C3F > Dash > C3F (timed with Cryo application from Citlali or Rosaria)
+Simplified Vape Combo:
+Best for Hydro reactions with less mechanical complexity.
+Q > Jump > C8 or C4 > Jump > C4 (lets Hydro apply first)
+Rotation Tips:
+Optimize her uptime and team support synergy.
+Open with Tap Skill > Run support rotations (Citlali/Bennett) > Burst at full Spirit > Ride and spam Charged Attacks
+Off-Field Sub-DPS Use:
+Keep it simple when she’s not the star.
+E > Q (when needed) > swap out
+Exploration Utility
+Take advantage of her traversal-focused mechanics to explore Natlan like no other character.
+Mavuika’s Flamestrider lets her ride over water, mountains, and fly short distances
+Nightsoul Transmission gives instant remount and restores 50–80 Nightsoul points (every 10–15s)
+Perfect for overworld mobility in Natlan, matching or exceeding other Archons
+Final Thoughts
+Mavuika is not just a
+fiery spectacle
+; she’s a new standard for Pyro carries. Her unique energy mechanics, mobility, and nuking capability make her a top-tier pick for players willing to invest in synergies. Whether blazing through Melt comps or shredding enemies with Scroll buffs, Mavuika delivers style and substance in equal measure.
+She outshines older Pyro DPS like Xiangling and rivals Arlecchino in raw potential, though she’s more dependent on Natlan units and team setup.
+Prepare your teams, master her Burst timing, and let the Night-Igniting Flame reign supreme!
+Read More
+:
+Cookie Run Kingdom Boss Rush Guide: Meta Teams, Hidden Synergies & How to Beat All Stages
+Maelle Best Build in Clair Obscur: Expedition 33 – Ultimate DPS Guide
+Oblivion Remastered Enchanting Guide– Master Weapons, Armor & Sigil Stones
+Error 17 on Pokémon Center? Here’s How to Fix It
+Clair Obscur: Expedition 33 Attributes Guide & Best Builds

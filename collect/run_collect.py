@@ -5,12 +5,15 @@ from collect.character_pipeline import (
 )
 from collect.result_writer import (
     build_summary_row_from_saved_results,
-    count_saved_result_files,
 )
 from collect.save_collect_outputs import (
     append_summary_row,
     upsert_collect_outputs,
 )
+
+
+def norm_key(s: str) -> str:
+    return str(s).strip().lower().replace(" ", "")
 
 
 def run(app_state, progress_callback=None, log_callback=None):
@@ -36,6 +39,7 @@ def run(app_state, progress_callback=None, log_callback=None):
     summary_rows = []
 
     log(f"[collect] 시작 / 전체 파일 수: {total_files}")
+    log("[collect] 이어서하기 기준: teams.json + gear.json")
 
     if controller:
         controller.set_stage1_progress(
@@ -49,6 +53,12 @@ def run(app_state, progress_callback=None, log_callback=None):
 
     for index, character in enumerate(characters, start=1):
         total_done = index - 1
+        char_key = norm_key(character)
+
+        already_done = (
+            char_key in (app_state.teams or {})
+            and char_key in (app_state.gear or {})
+        )
 
         if controller:
             controller.set_stage1_progress(
@@ -61,12 +71,10 @@ def run(app_state, progress_callback=None, log_callback=None):
             progress_callback((total_done / total_files) * 100)
 
         if ui:
-            ui.set_status(f"{character} 수집 중")
+            ui.set_status(f"{character} 확인 중")
 
-        saved_count = count_saved_result_files(character)
-
-        if saved_count >= collect_total:
-            log(f"[skip] {character}")
+        if already_done:
+            log(f"[skip/json] {character} 이미 저장됨")
 
             if controller:
                 controller.set_stage1_progress(
@@ -89,6 +97,9 @@ def run(app_state, progress_callback=None, log_callback=None):
         else:
             try:
                 log(f"[collect] {character}")
+
+                if ui:
+                    ui.set_status(f"{character} 수집 중")
 
                 def on_doc_progress(done, total):
                     if controller:

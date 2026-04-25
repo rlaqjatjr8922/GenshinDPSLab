@@ -1,0 +1,261 @@
+Home
+»
+Genshin Impact
+»
+Guides
+»
+Genshin Impact Kirara Build Guide | Best Weapon, Artifacts and Teams
+Genshin Impact Kirara Build Guide | Best Weapon, Artifacts and Teams
+Here is everything you need in order to build Kirara, the newest Dendro 4-Star, in Genshin Impact. Kirara is an very interesting hybrid support who can created special Dendro shields while still packing a decent punch, and this guide will show you exactly how to best build her. This includes a look at her best weapons, artifact sets and team compositions.
+Jack Carson
+2023-05-23
+All content for:
+Genshin Impact
+Kirara is a cute new Inazuman 4-Star joining the roster of
+Genshin Impact
+in Version 3.7. She’s absolutely brimming with charm with some incredible animations for all of her abilities, a great character design based on a Nekomata and an extremely interesting kit which allows her to play the role of aggressive support. As a unit, Kirara has a ton of potential as a powerful hybrid support in Dendro team compositions, able to protect allies with Dendro shields while still dealing considerable damage on the side. With a distinct playstyle that wants you to keep her on the field to generate as much protection as possible, Kirara may well indeed find a place in some of your teams.
+Here’s how to build Kirara, the newest Dendro 4-Star, in
+Genshin Impact
+. This includes a breakdown of all of her abilities and Talents, what her best weapons and artifacts are and what teams you should run her in.
+Want more
+Genshin Impact
+content and build guides? You can find more here on KeenGamer:
+Genshin Impact
+Dehya Best Build Guide
+Genshin Impact
+Mika Best Build Guide
+Genshin Impact
+3.6 | All Udumbara Pistil Locations and How to Use Them
+Genshin Impact
+3.6 | All Girdle of the Sands Shrine of Depths Locations
+Genshin Impact
+: Ayamiya (Yoimiya + Ayaka) Genius Invokation TCG Deck Guide
+Table of Contents
+hide
+Kirara Ascension Materials
+Kirara Talent Overview
+Boxcutter (Normal Attack)
+Meow-teor Kick (Elemental Skill)
+Secret Art: Surprise Dispatch (Elemental Burst)
+Passive Talents
+Kirara Talent Priority Order
+Kirara Constellations
+Kirara’s Best Weapons in Genshin Impact
+Best in Slot
+Kirara Replacement Weapons
+Kirara Best Artifact Sets in Genshin Impact
+Most Important Main and Substats
+Best Kirara Team Compositions
+Premium Team
+F2P Team
+Kirara Ascension Materials
+To ascend Kirara and allow her to reach level 90, she will need the following resources:
+Amakumo Fruit
+(Inazuma Speciality)
+Nagadus Emerald Sliver / Nagadus Emerald Fragment / Nagadus Emerald Chunk / Nagadus Emerald Gemstone
+(Dendro Elemental Gems)
+Spectral Husk / Spectral Heart / Spectral Nucleus
+(Enemy Drop Materials)
+Evergloom Ring
+(World Boss Material)
+The Amakumo Fruit is an Inazuma speciality which can only be found on Seirai Island.
+They grow in clusters of three and Kirara will need 168 Amakumo Fruit to reach level 90.
+You can make the hunt for this Inazuma speciality easier by having Gorou in your team, whose Passive Talent
+Seeker of Shrines
+, to pinpoint the location of resources unique to Inazuma on your mini-map. Alternatively, you can use the
+Teyvat Interactive map
+for a precise location of each Amakumo Fruit in
+Genshin Impact
+.
+And Pose!
+Next, we have the Spectral series of enemy materials, which all drop from the Specter enemies. Specters can be found predominantly in Inazuma’s Watatsumi Island as well as Sumeru, and you use the Alchemy Table to transmute lower rarity variants into high rarity ones.
+Kirara needs 18 Spectral Husks, 30 Spectral Hearts and 36 Spectral Nucleuses to reach the maximum level.
+The Evergloom Rings drop from a new World Boss introduced in Version 3.6, the Inquitious Baptist. It can be found in the depths of a cave in the Girdle of the Sands and can be a tricky foe to take down. Each time you fight it, it will adopt a different combination of 3 elements – either Pyro, Cryo, Hydro or Electro – and will constantly spawn shields that need to be broken.
+In total, Kirara needs 46 Evergloom Rings.
+The final material worth going over is the Elemental gems. Every character in
+Genshin Impact
+requires a specific amount of Elemental Gemstones matching the element of their Vision: Kirara, as a Dendro Vision holder, needs Dendro Elemental Gems, also known as the Nagadus Emerald series of gems. These most commonly drops from Dendro-aligned World Bosses or as a random drop from completing Daily Commissions.
+Kirara needs 1 Emerald Sliver, 9 Emerald Fragment, 9 Emerald Chunks and 6 Emerald Gemstones.
+To bring it all together, raising Kirara to level 90 will take a total of 420k Mora and 416 Hero’s Wit EXP Books (or their equivalent). Satisfy these material needs and your Kirara will be max level in no time flat.
+Delivery Girl Kirara
+Kirara Talent Overview
+Boxcutter (Normal Attack)
+Kirara’s Normal Attack is
+Boxcutter
+and it will allow her to perform up to 4 rapid strikes with her Sword. The Charged Attack variant of this attack will do three rapid claw strikes instead, and the Plunging Attack is the same as all other Sword characters.
+Aside from the flashy animations, Kirara’s Normal Attack isn’t anything too special. It doesn’t interact with any other part of her kit outside of being her more consistent damage option. Her multipliers aren’t anything crazy, either. However, as we said, the animations are really nice.
+Normal Attack Boxcutter
+Meow-teor Kick (Elemental Skill)
+Meow-tear Kick
+is Kirara’s Elemental Skill and the most interesting, and attractive, part of her kit. It has two modes based on whether you press the Skill button or hold it.
+On a press, Kirara leaps into the air with the agility of a cat and thwacks her foes with a flying kick that deals Dendro AoE DMG. This will also create a Shield of Safe Transport, which has DMG absorption based on Kirara’s Max HP and can absorb Dendro DMG with 250% effectiveness. If you manage to recast the Shield of Safe Transport while one is already active, the remaining DMG absorption will stack onto the new shield.
+Meow-Teor Kick
+If you hold the button instead, Kirara will instantly cast Shield of Safe Transport on herself. She will also curl up into a special express delivery box, entering the Urgent Neko Parcel state: this state buffs her movement speed and jump height, lets her climb walls faster and makes her deal Dendro DMG to any opponent she crashes into. Upon releasing the skill (or when it ends automatically after 10s), Kirara will unleash a Flipclaw Strike that deals AoE Dendro DMG. The longer you spend in the Urgent Neko Parcelt state, the longer the CD of the Skill will be.
+This is easily the most interesting part of Kirara’s kit, giving us another mobility-focused character but one who has a focus on support via shields. This also puts her in the rare category of characters who can summon shields while not being Geo. This may help Dendro teams by providing some additional defensive support without sacrificing the Dendro Elemental Resonance. Being able to rush around the battlefield and prime enemies with Dendro is a nice bonus, too.
+Urgent Neko Parcel State
+Secret Art: Surprise Dispatch (Elemental Burst)
+Finally, we have
+Secret Art:
+Surpise Dispatch
+, Kirara’s Elemental Burst. Upon casting the Burst, Kirara will smash opponents with a Special Delivery Package used for punishing parcel thieves, causing Dendro AoE DMG. After the initial explosion, the Special Delivery Package will split up into many Cat Grass Cardamoms, small Dendro bombs that will either explode upon contact with an enemy or after a short duration.
+This adds another, admittedly strange, arrow to Kirara’s quiver. While her Skill revolves around shields and providing defensive support, her Burst seems geared more towards offensive support. The Cat Grass Cardamoms are a small, but meaningful, chunk of damage on their own but their potential to work into Dendro compositions and strategies (where they can support higher damage characters and Elemental Reactions) is where their value mainly lays. Giving Kirara this two-pronged approach, with both offensive and defensive abilities, makes her a really interesting character, especially considering what Dendro characters are currently in
+Genshin Impact
+.
+Special Delivery
+Passive Talents
+Kirara’s main Passive Skill is
+Cat’s Creeping Carriage
+. While Kirara is in the party, animals who produce Fowl, Raw Meat, or Chilled Meat will not be startled when party members approach them. In general play, this likely won’t do much at all. However, if you’re still hunting down animals for the Omni-Net achievements, this Passive could lend a hand.
+Next, we have Kirara’s Ascension 2 Talent,
+Bewitching, Betwitching Tails
+. When Kirara is in the Urgent Neko Parcel state of her Elemental Skill, each impact against an opponent will grant her one stack of Reinforced Packaging. This effect has a maximum of 3 stacks and will create a Shield of Safe Transport on Kirara once the Neko Parcel state ends: shields created in this manner have 20% of the DMG absorption of the original shield and they will stack on top of any pre-existing shield. In essence, this Talent lets you get additional defence and DMG absorption by ramming into enemies with your Skill, with the more enemies you crash into resulting in more defence.
+Lastly, there’s
+Pupillary Variance
+. For every 1000 Max HP Kirara possesses, the DMG dealt by
+Meow-teor Kick
+(Elemental Skill) will increase by 0.4% whereas the DMG dealt by
+Secret Art: Surprise Dispatch
+(Elemental Burst) will increase by 0.3%. This will help Kirara contribute more to the offensive side of the team, especially with her Burst and the damage increase of the Cat Grass Cardamoms. At the end of the day, though, Kirara is more of a versatile support who is capable of doing good damage, not a main damage dealer. Any increase to her DPS will be a nice bonus and an additional reason to stack HP, but her support capabilities should take priority.
+Curiosity and the Cat
+Kirara Talent Priority Order
+In terms of which order you should prioritise levelling up Kirara’s Talents, you should go with this order:
+Meow-Teor Kick
+(Elemental Skill)
+Secret Art: Surprise Dispatch
+Boxcutter
+(Normal Attack)
+Firstly we have the highest priority Talent,
+Meow-Teor Kick
+.
+No matter if you decide to run Kirara as a pure shielding unit or as a hybrid support, her Skill is her primary way of contributing to the team.
+As one of the only Dendro shielders (and the only one who’s not a 5-Star) her Skill is important in keeping your team alive and healthy: whether you decide to go all in on her shields is up to you, but neglecting
+Meow-Teor Kick
+for either other Talent robs Kirara of much of her utility and strength as a character. Levelling up her Skill will boost the damage absorption of her shield, the damage of her Flying Kick and the damage of her Urgent Neko Parcel State.
+Then we have
+Secret Art: Surprise Dispatch
+. This is a lot more useful in hybrid builds as it gives you some offensive power while still having a good source of Dendro application, but it should be levelled in any Kirara build. While still secondary to her ability to quickly and consistently generate shields, her Burst is a good source of delayed damage and Elemental Reaction application that can be applied whether Kirara is on or off the field. Levelling up her Elemental Burst will increase the damage of the Cat Grass Caradmoms and the damage of the initial explosions.
+Last up is
+Boxcutter,
+Kirara’s Normal Attack. As previously mentioned, Kirara is a support unit – offensive, defensive or hybrid – not a main or even a sub-DPS. Her Normal Attacks don’t synergise with her kit, they don’t have high multipliers and they aren’t included in her A4 Talent. These reasons easily put
+Boxcutter
+dead last in terms of priority. The only reason to level them is if you like her animations and are determined to make her work as a DPS.
+Bits and Bobs and Trinkets Galore
+Kirara Constellations
+As a 4-Star unit in
+Genshin Impact
+, Kirara’s Constellations are far easier to obtain than any 5-Star unit.
+Material Circulation:
+Every 8000 Max HP Kirara possesses will cause her to create 1 extra Cat Grass Cardamom when she uses
+Secret Art: Surprise Dispatch
+. A maximum of 4 extra can be created this way (or 32,000 HP).
+Perfectly Packaged:
+When Kirara is in the Urgent Neko Parcel state of
+Meow-teor Kick
+, she will grant other party members she crashes into Critical Transport Shields. The DMG absorption of Critical Transport Shield is 40% of the maximum absorption
+Meow-teor Kick’s
+normal Shields of Safe Transport are capable of, and will absorb Dendro DMG with 250% effectiveness.
+Universal Recognition:
+Increases the Level of
+Meow-teor Kick
+by 3.
+Steed of Skanda:
+After active character(s) protected by Shields of Safe Transport or Critical Transport Shields hit opponents with Normal, Charged, or Plunging Attacks, Kirara will perform a coordinated attack with them using Small Cat Grass Cardamoms, dealing 200% of her ATK as Dendro DMG. DMG dealt this way is considered Elemental Burst DMG. This effect can be triggered once every 3.8s.
+A Thousand Miles in a Day:
+Increases the Level of Secret Art: Surprise Dispatch by 3.
+Countless Sights to See:
+All nearby party members will gain a  12% Elemental DMG Bonus within 15s after Kirara uses her Elemental Skill or Burst.
+The most interesting Constellations Kirara has are her C1, C4 and C6.
+Her C1 allows her to become a more effective offensive support, tacking on additional sources of damage and Dendro application to her Burst while incentivising you further into building HP. Meanwhile, her C4 effectively lets her serve as a mini-Fischl and Oz combo, dealing off-field Dendro DMG by just triggering her shield. Lastly, we have her C6 which is just an overall boon, adding team-wide ATK buffing to her repertoire of abilities.
+What’s in the Box?
+Kirara’s Best Weapons in Genshin Impact
+Best in Slot
+Kirara’s best-in-slot weapon in
+Genshin Impact
+is the 5-Star Sword Key of Khaj-Nisut.
+As one of the best Swords for characters reliant on HP scaling, the Key of Khaj-Nisut is perfect for allowing Kirara to excel in her role as a hybrid support, buffing her damage output, her shield’s DMG absorption and more.
+At max level, the Key of Khaj-Nisut will have 542 ATK with a 66.2% HP substat. The main weapon skill is called Suken Song of the Sands and it increases the wielder’s HP by an additional 20% and grants them the Grand Hymn effect for 20s whenever they land a hit with their Elemental Skill. This effect stacks up to 3 times and will increase the equipped character’s Elemental Mastery by 0.12% of their HP for each stack. Additionally, upon reaching 3 stacks of Grand Hymn, the EM of the entire party will be raised by 0.2% of the wielder’s max HP for 20s.
+HP is Kirara’s most important stat and the Key of Khaj-Nisut simply allows her to not only gain more HP but utilise it in more ways. The more HP Kirara has, the more damage she deals and the more hits her shield can take: with the Key of Khaj-Nisut, that HP can also translate into a party-wide EM buff. Considering that Elemental Mastery is the most important stat for Dendro compositions, this makes Kirara’s value to a team shoot up, especially if you have some of her later Constellations which effectively turn her into the ultimate support machine. The Key of Khaj-Nisut is simply an upgrade to every part of Kirara’s kit, earning its place as her best-in-slot in
+Genshin
+.
+Key of Khaj-Nisut
+Kirara Replacement Weapons
+What if you don’t have the Key of Khaj-Nisut, though? Or what if you cannot pry it off your Nilou? Don’t fear because there are several other Swords Kirara can take advantage of, including several F2P ones.
+Before we break down the replacement recommendations, all the following weapons are going to be 4-Star in rarity. Most of the Swords that benefit Kirara and her needs are 4-Stars, but if you do have a 5-Star Sword consider trying it out on her first. 5-Star weapons have inherently higher stats and usually stronger weapon skills, so give them a spin first.
+For Kirara, we recommend using the Sacrificial Sword, Favonius Sword or the Sapwood Blade.
+The Sacrificial Sword
+The Sacrificial Sword can be summoned via Wishing and is a part of the standard pool of weapons. At level 90, it will provide 454 ATK alongside an Energy Recharge substat at 61.3%. The Sacrificial has the weapon skill Composed which has a 40% chance of immediately ending a Skill’s CD upon damaging an enemy with said Skill. For Kirara, this means more time in cat-box form which means more shields and more damage absorption. It allows you to almost always have a Shield of Safe Transport handy, no matter the situation.
+Then we have the Favonius Sword, another weapon which can be summoned during Wishes. At level 90, it grants 454 ATK with 61% Energy Recharge, just like the Sacrificial Sword. It has the weapon skill Windfall: CRIT Hits have a 60% chance to generate a small amount of Elemental Particles, which generate Burst Energy for the character. This weapon allows you to make Kirara’s flow state a bit smoother: her Urgent Neko Parcel state allows her to get off a good amount of hits on the enemy, which will generate shields while spawning Energy so you can jump right into your Burst. The Favonius Sword simply makes things go quicker, letting you utilise Kirara’s full capabilities more regularly.
+Finally, we have the Sapwood Blade. This F2P weapon can be crafted using Sumeru Midlander Bilets at a blacksmith: you can learn how to unlock the blueprint for this weapon from this guide. At level 90, the Sapwood Blade gives 565 ATK with a 30.6% Energy Recharge substat. The weapon skill, Forest Sanctuary, is built for Dendro characters and Dendro teams. Upon triggering a Dendro Elemental Reaction, a Leaf of Consciousness will be created which will grant the character who picks it up 60 Elemental Mastery for 12s. The Sapwood Blade allows Kirara to use her skill to soften up enemies and quickly grab the Leaves of Consciousness they created, powering up her Burst and letting it deal more damage.
+Sapwood Blade
+Kirara Best Artifact Sets in Genshin Impact
+Depending on which route you plan on taking Kirara down, she has two main options for artifact sets in
+Genshin Impact
+. One is for if you plan on going whole-hog on her shields and defensive capabilities, whereas the other is for if you want to emphasise her role as a flexible hybrid support, instead.
+If you plan on using Kirara as a pure shield generator, the best artifact set for her is 2-Piece Tenacity of the Millelith and 2-Piece Vourukasha’s Glow.
+Together, these artifacts will give Kirara an additional 40% HP (with 20% HP coming from the 2-Piece bonus of each set).
+As we’ve previously stated, HP controls the strength of everything in Kirara’s kit. The most important thing it manages, though, are her shields as they control how much DMG absorption they have. By using 2-Piece Millelith and 2-Piece Vourukasha’s, Kirara will be loaded on HP, allowing her to create insanely strong shields that synergise with Dendro and are on a fairly short cooldown. There’s honestly not much else to this strategy, just load her up with HP and Kirara will do most of the work for you.
+Shield Kirara Artifact Sets
+If you plan on using Kirara as hybrid support instead, the best artifact set for her is 4-Piece Deepwood Memories.
+With this set, Kirara will gain a 15% Dendro DMG bonus and she will lower the Dendro RES of any enemies hit by her Elemental Skill or her Elemental Burst for 8s. This final effect can be triggered even if she isn’t on the field, meaning the Cat Grass Cardamoms will trigger this effect.
+Deepwood Memories lets Kirara go all in on being a Dendro support, giving her a healthy damage boost to help her offensive and Elemental Reaction capabilities while still allowing her to shine as utility support. When she uses her skill to generate shields for the whole team, Kirara will now be lowering the Dendro RES of every enemy she hits: this massively benefits her and other Dendro DPS like Tighnari or Alhaitham, let Dendro Reactions like Spread deal absurd levels of damage. The uptime on this effect will also be high as Kirara can constantly hop in and out of her Urgent Neko Parcel form to run around the battlefield and lower enemy resistance.
+The only other set in contention here is 4-Piece Noblesse. This would increase Kirara’s Burst DMG by 20% and increase the ATK of all party members by 20% when Kirara uses her Burst. While this does give her another avenue of support as an ATK buffer, it may pigeonhole her a bit into relying purely on her Burst: Kirara shines as a hybrid support, after all, so throwing everything into her Burst may not be worthwhile. It’s viable, though, so give it a go if Deepwood Memories isn’t working out for you.
+Hybrid Kirara Artifact Sets
+Most Important Main and Substats
+The main stats you want on your artifacts for Kirara are:
+Hourglass (Sands)
+: HP%
+Goblet
+: HP% for shield build / HP% or Dendro DMG Bonus for a hybrid build
+Circlet:
+HP% for shield build / CRIT DMG or CRIT Rate for a hybrid build
+Stacking pure HP is going to work out best if you’re building Kirara as a pure shield generator: the additional HP will make sure that her shields are ridiculously strong and can withstand a ludicrous amount of damage, making them a perfect fit for your squishier DPS. Meanwhile, going for a more damage-oriented split if you’re running Kirara as a hybrid support will work out better in the long run. Have at least one HP% piece so her shield can remain strong, but then use the other two artifacts slot to pump up her damage so she can contribute to fights on the offensive front.
+Twin Tailed
+Meanwhile, the substats that you want to be on the lookout for are:
+HP%
+Energy Recharge
+CRIT Rate or CRIT DMG
+HP is simply the most important stat for Kirara and you’ll want every bit you can get, whether you’re running her as a shielder or a hybrid support. Similarly, picking up Energy Recharge allows Kirara to get her Burst back much faster, making it a supremely important stat when it comes to Kirara as a hybrid unit. Lastly, both CRIT stats are useful for making her abilities, especially her Burst, hit much harder without detracting from her supportive capabilities.
+One Smug Kitty
+Best Kirara Team Compositions
+Premium Team
+Kirara’s premium team should be one where she can support every character in it, whether with shields or additional Elemental Reactions. She should also be able to spend a good amount of time on the field to spawn more shields and spend time in her Neko Urgent Parcel state.
+As such, the recommended premium team for Kirara includes Alhaitham, Yae Miko and Kuki Shinobu.
+Alhaitham is our main DPS for this team. As a unit on his own, he deals very good damage and will gain a significant buff from the Dendro Elemental Resonance thanks to him and Kirara sharing an Element (which gives the entire team bonus Elemental Mastery). A lot of his big damage numbers will come from Aggravate and Spread Reactions, which Kirara can help produce, and he’ll be able to go on full-offence to spawn Chisel-Light Mirrors thanks to the constant protection from Kirara’s shield.
+Next, we have Yae Miko, a staple for many Dendro teams in Sumeru. With some incredibly strong off-field DPS capabilities, Yae will consistently be dealing high damage and constant Spread and Aggravate Reactions without needing to hog the spotlight: her Elemental Skill makes it so that any damage from Kirara or Alhiatham will be almost instantly backed up by a strong Electro attack, likely causing a powerful Elemental Reaction in the process. Putting Yae in is simply free damage without needing to do a lot of extra work, simply remember to switch back and use her skill now and again to refresh the timer on her talismans.
+Lastly, we have Kuki Shinobu. Honestly, the final slot is simply for some sort of healer and you can mix and match based on your preferences. Choosing Shinbou will let you trigger the Electro Elemental Resonance (giving your entire team easier Energy gains) and gives Kirara and Alhiatham a good source of off-field Electro for melee attacks with her
+Sanctifying Ring
+. Other good healer choices include Barbara or Kokomi for additional Bloom and Hyperbloom Reactions, or even Yaoyao if you want to run a main DPS that isn’t Dendro.
+Premium Team Main DPS
+F2P Team
+If you’re low on Primogems or just starting, there is also a free-to-play team for Kirara. While her role in this team is much the same as her place in the premium one, this team is a lot more deliberate and is about setting up scenarios rather than just spamming Skills and watching the world burn.
+The F2P team we recommend for Kirara includes Lisa, Barbara and Xiangling.
+Lisa will be our primary DPS in this team and, while she is a bit slower than some other options, her damage output and wide area of attack can make up for it. Switching back and forth between Kirara and Lisa can create a nice loop with some consistently high damage thanks to Spread and Aggravate. Kirara’s Skill can generate shields to protect Lisa during her attacks while also priming enemies with Dendro, allowing Lisa to use her Skill to hit a wide area with an instant burst of big Electro damage.
+Then we have Barbara. As we suggested in the premium team, Barbara is here as a healer who can also gel very well with Dendro. Her healing is great whenever Kirara’s shield just cannot cut it, and her position as a Catalyst allows her to work seamlessly with the rest of the team to cause an overflow of Reactions. In particular, her ability to produce Bloom Reactions gives the entire team access to a whole new set of Reactions like Hyperbloom and Burgeon, making her a great enabler as well as a healer.
+Finally, we have Xiangling as another off-field DPS. The main benefits of Xiangling come from her Elemental Burst which is a swirling tornado of fire around the active character. Using this and then popping Kirara’s Urgent Neko Parcel state will give you a near-invincible box cat with improved movement speed who Burns enemies on every hit and can trigger any spare Dendro Cores lying around. This combo is great for setting up enemies or weakening high-health targets for your later combos with Lisa.
+F2P Team Main DPS
+That was how to build Kirara in
+Genshin Impact
+.
+Best Guides for Genshin Impact
+Mavuika Build Guide | Mavuika Best Weapons, Artifacts, Teams
+5 Ways to Fix the Genshin Impact “Connection Timed Out” Error on Windows PCs
+Yumemizuki Mizuki Drip Marketing Released for Genshin Impact 5.4
+Voices We May Not Hear During Lantern Rite
+After Over 600 Days, Shenhe is Finally Getting a Rerun in Genshin Impact 5.3
+Top 10 Genshin Impact OST That Will Enrich Your Playlist
+Lan Yan Drip Marketing Released for Genshin Impact 5.3
+Mavuika (Pyro Archon) and Citlali Drip Marketing Released for Genshin Impact 5.3
+7 Ways You Can Fix Genshin Impact Not Launching on a Windows PC
+Jack Carson
+Jack is a UK-based English Creative Writing graduate with a passion for writing about games. He’s been writing creatively for many years and has been doing game journalism professionally for well over a year. The games he primarily writes about include Destiny 2, Genshin Impact, Honkai: Star Rail and Xenoblade Chronicles but he is especially keen on RPGs, looters and action games and specialises in writing guides. KeenGamer is the third publication he has written for.
+Leave a Reply
+Cancel Reply
+Sign in with:
+Your email address will not be published. Required fields are marked
+*
+Comment *
+You may use these
+HTML
+tags and attributes:
+<a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <s> <strike> <strong>
+Notify me of followup comments via e-mail.

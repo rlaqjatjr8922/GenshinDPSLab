@@ -1,0 +1,166 @@
+Chiori is a playable Geo character in Genshin Impact. She is one of the most powerful and thus popular champions. We decided to write this guide to help you learn more about Chiori. In our Genshin Impact Chiori Build and Best Team Comp post you will learn about Chiori’s talents, how they work and how to upgrade them. Also, you will read about her Constellations that will help you make Chiori even more powerful. After that, we have written Genshin Impact Chiori Build where you’ll see weapon and artifact set. And at last, we have mentioned the best team comps for Chiori as the Sub DPS hero.
+Genshin Impact All Characters List
+The whole information is presented in tables. You can use the navigation bar above to move quickly to the information block that you are most interested in.
+Talents
+Constellations
+Build
+Team
+Chiori Build
+Below you can see the best weapon option for playing Chiori in Genshin Impact. Accompanied by the best Chiori artifact set and its stat priorities.
+Sub DPS Build
+If you play this champion as a Sub DPS in your comp you should take the weapon and artifacts from the list below. They are believed to be the most effective ones in almost all situations.
+Weapon
+Uraku Misugiri
+Weapon Substitutes:
+Primordial Jade Cutter
+,
+Cinnabar Spindle
+,
+Harbinger of Dawn
+.
+Artifact Set
+Golden Troupe
+(4-Piece)
+Artifact Main Stats Priority:
+DEF%
+Geo DMG Bonus
+CRIT Rate / CRIT DMG
+Sub Stats Priority: CRIT Rate / CRIT DMG > DEF% > ATK% > Energy Recharge
+Talent Priority
+Fluttering Hasode > Hiyoku: Twin Blades > Weaving Blade
+Best Team Compositions for Chiori
+When you play Genshin Impact everything depends not only on your main character but also on the composition. You should learn how elements complement each other and build the best team for your main. Below you can see the best team composition for Chiori with Main and Sub DPS characters and one support. Also, we have included alternative characters for each role that go well with Chiori too.
+Chiori shines as a reliable source of off-field Geo DMG, especially in a Mono-Geo team setup. Her abilities and the passive effect boost the team’s Geo Resonance while smooth rotations are ensured by the presence of multiple teammates creating Geo Constructs. These constructs, like Itto’s Ushi, not only enhance damage but also add flexibility to team composition. Alongside, her ability to generate Geo particles effectively reduces the Energy Recharge demands for teammates like Itto and Gorou, ensuring that Chori’s Burst can be activated in every rotation. This synergy makes her an integral part of a powerful Mono Geo team, complementing Itto’s role as a formidable on-field DPS.
+Good characters for this comp:
+Noelle, Ningguang, Albedo, Bennett.
+Genshin Impact All Characters List
+In case you are still not sure what champion you want to pick as main we have
+Genshin Impact characters tier list
+with explanations on how to build your best team.
+Chiori Talents
+Below you can see the list of talents that Chiori uses during the fight. Each of them we have described with the main characteristics.
+Weaving Blade
+Normal Attack
+Normal Attack:
+Performs up to 4 rapid strikes.
+Charged Attack:
+Consumes a certain amount of Stamina to unleash 2 rapid sword strikes.
+At the end of the sequence, performs a more powerful slash.
+Plunging Attack:
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Fluttering Hasode
+Elemental Skill
+Dashes nimbly forward with silken steps. Once this dash ends, Chiori will summon the automaton doll “Tamoto” beside her and sweep her blade upward, dealing AoE Geo DMG to nearby opponents based on her ATK and DEF.
+Holding the Skill will cause it to behave differently.
+Hold
+Enter Aiming Mode to adjust the dash direction.
+Tamoto
+Will slash at nearby opponents at intervals, dealing AoE Geo DMG based on Chiori’s ATK and DEF.
+While active, if there are nearby Geo Construct(s) or Geo Construct(s) are created nearby, an additional Tamoto will be summoned next to your active character. Only 1 additional Tamoto can be summoned in this manner, and its duration is independently counted.
+Hiyoku: Twin Blades
+Elemental Burst
+Twin blades leave their sheaths as Chiori slices with the clean cuts of a master tailor, dealing AoE Geo DMG based on her ATK and DEF.
+Tailor-Made
+1st Ascension Passive
+Gain different effects depending on the next action you take within a short duration after using Fluttering Hasode’s upward sweep. If you (Press/Tap) the Elemental Skill, you will trigger the Tapestry effect. If you (Press/Tap) your Normal Attack, the Tailoring effect will be triggered instead.
+Tapestry
+Switches to the next character in your roster.
+Grants all your party members “Seize the Moment”: When your active party member’s Normal Attacks, Charged Attacks, and Plunging Attacks hit a nearby opponent, “Tamoto” will execute a coordinated attack, dealing 100% of Fluttering Hasode’s upward sweep DMG as AoE Geo DMG at the opponent’s location. DMG dealt this way is considered Elemental Skill DMG.
+“Seize the Moment” lasts 8s, and 1 of “Tamoto”‘s coordinated attack can be unleashed every 2s. 2 such coordinated attacks can occur per “Seize the Moment” effect duration.
+Tailoring
+Chiori gains Geo infusion for 5s.
+When on the field, if Chiori does not either (Press/Tap) her Elemental Skill or use a Normal Attack within a short time after using Fluttering Hasode’s upward sweep, the Tailoring effect will be triggered by default.
+The Finishing Touch
+4th Ascension Passive
+When a nearby party member creates a Geo Construct, Chiori will gain 20% Geo DMG Bonus for 20s.
+Brocaded Collar’s Beauteous Silhouette
+Utility Passive
+When any party member is wearing an outfit apart from their default outfit, or is wearing a wind glider other than the Wings of First Flight, your party members will obtain the Swift Stride effect: Movement SPD is increased by 10%.
+This effect does not take effect in Domains, Trounce Domains and the Spiral Abyss. Swift Stride does not stack.
+Every talent can be upgraded up to level 15. But to do so you will need to gather materials on particular days. The list of the needed materials for leveling Chiori’s talents is mentioned in the next block.
+Talent Leveling Materials
+So here you can see all materials that you will need in order to level up Chiori’s talents.
+Talent Level-Up Materials
+Light Books:
+Teachings of Light
+,
+Guide to Light
+,
+Philosophies of Light
+.
+Common Ascension Materials
+Spectral Husk
+,
+Spectral Heart
+,
+Spectral Nucleus
+.
+Weekly Boss Material
+Lightless Silk String
+Genshin Impact Enhancement Progression Calculator
+Some of them are required at the beginning for low levels and others are more advanced. We just wanted to focus your attention on material types in general.
+Chiori Constellations
+In Genshin Impact characters have a specific upgrade system called constellation. You will need to get a specific item called Stella Fortuna to increase the level of constellation. Each character has their own version of Stella Fortuna, which you get by obtaining a duplicate of the character from Wishes.
+Level 1
+Six Paths of Sage Silkcraft
+The AoE of the automaton doll “Tamoto” summoned by Fluttering Hasode is increased by 50%.
+Additionally, if there is a Geo party member other than Chiori, Fluttering Hasode will trigger the following after the dash is completed:
+Summon an additional Tamoto. Only one additional Tamoto can exist at the same time, whether summoned by Chiori this way or through the presence of a Geo Construct.
+Triggers the Passive Talent “The Finishing Touch.” This effect requires you to first unlock the Passive Talent “The Finishing Touch.”
+Level 2
+In Five Colors Dyed
+For 10s after using Hiyoku: Twin Blades, a simplified automaton doll, “Kinu,” will be summoned next to your active character every 3s. Kinu will attack nearby opponents, dealing AoE Geo DMG equivalent to 170% of Tamoto’s DMG. DMG dealt this way is considered Elemental Skill DMG.
+Kinu will leave the field after 1 attack or after lasting 3s.
+Level 3
+Four Brocade Embellishments
+Increases the Level of Fluttering Hasode by 3.
+Maximum upgrade level is 15.
+Level 4
+A Tailor’s Three Courtesies
+For 8s after triggering either follow-up effect of the Passive Talent “Tailor-Made,” when your current active character’s Normal, Charged, or Plunging Attacks hit a nearby opponent, a simplified automaton doll, “Kinu,” will be summoned near this opponent. You can summon 1 Kinu every 1s in this way, and up to 3 Kinu may be summoned this way during each instance of “Tailor-Made”‘s Seize the Moment or Tailoring effect. The above effect can be triggered up to once every 15s.
+Must unlock the Passive Talent “Tailor-Made” first.
+Level 5
+Two Silken Plumules
+Increases the Level of Hiyoku: Twin Blades by 3.
+Maximum upgrade level is 15.
+Level 6
+Sole Principle Pursuit
+After triggering a follow-up effect of the Passive Talent “Tailor-Made,” Chiori’s own Fluttering Hasode’s CD is decreased by 12s. Must unlock the Passive “Tailor-Made” first.
+In addition, the DMG dealt by Chiori’s own Normal Attacks is increased by an amount equal to 235% of her own DEF.
+Every Genshin Impact character has own set of constellations above you can see Chiori constellations list with descriptions.
+Ascension Materials
+In addition, there are ascension phases that increase the level cap for your character. After Chiori reaches the 20th level she can be ascended to the next ascension phase, up to phase 6, which allow getting 90th level.
+Character Ascension Materials
+Prithiva Topaz:
+Prithiva Topaz Sliver
+,
+Prithiva Topaz Fragment
+,
+Prithiva Topaz Chunk
+,
+Prithiva Topaz Gemstone
+.
+Artificed Spare Clockwork Component — Coppelia
+Common Ascension Materials
+Spectral Husk
+,
+Spectral Heart
+,
+Spectral Nucleus
+.
+Local Specialty
+Dendrobium
+Genshin Impact Enhancement Progression Calculator
+In order to level up ascension phases you’ll need materials. So the list of those required for Chiori is listed above.
+Artem R.
+I have been an avid gamer since childhood. My favorite genres are RPGs, Action, and MMOs. Some of my all-time favorite games include the Diablo and Path of Exile ARPG series, the Dark Souls series, and JRPGs like Xenoblade, Atelier, and the Final Fantasy. I am also a big fan of the PSP and PS Vita, and I currently enjoy gaming on my Nintendo Switch.
+Post Views:
+2,140
+Please share it with your friends
+Tags:
+Genshin Impact
+Post navigation
+Previous
+Myth of Empires Review: Unbiased Analysis and Overview
+Next
+Lightyear Frontier Review: The Fusion of Technology and Nature

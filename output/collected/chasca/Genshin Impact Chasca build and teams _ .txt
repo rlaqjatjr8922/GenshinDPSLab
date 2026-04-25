@@ -1,0 +1,88 @@
+Home
+Guides
+Genshin Impact
+Genshin Impact Chasca build and teams
+How to get the most from the high-flyin' rootin-tootin' Anemo DPS
+Image credit:
+HoYoverse
+Guide
+by
+Josh Broadwell
+Contributor
+Published on
+Nov. 21, 2024
+0 comments
+Follow Genshin Impact
+Putting together a good
+Genshin Impact
+Chasca build
+is easier than you might think, thanks to the 5-star Anemo character’s straightforward kit. Chasca needs attack and crit damage, and that’s about it. However, you’ll need to think a bit more carefully about the team you build around her. Chasca’s kit works best without the usual Anemo supports, and certain elements won’t do her any favors.
+Our Genshin Impact Chasca build guide explains which weapons and Artifacts are best and gives some Chasca team recommendations as well.
+Genshin Impact Chasca build
+Chasca weapons
+Chasca Artifacts
+Chasca stats
+Chasca teams
+Genshin Impact Chasca weapons
+Astral Vulture’s Crimson Plumage
+is Chasca’s signature bow. It gives the equipping character a big crit damage buff and, after they trigger Swirl, an attack buff of 24 percent for 12 seconds. If the user’s party has one or two allies of different elements, the equipping character’s charged attacks deal 20/48 percent more damage, and their elemental burst deals 10/24 percent more damage.
+There’s also Lyney’s bow,
+The First Great Magic
+, which works for Chasca since almost all of her damage comes from charged attacks. The First Great Magic gives the user a hefty crit damage boost, and its passive skill raises charged attack damage by 16 percent. The rest of the passive is rather less useful, though. The user gets Gimmick stats for having characters of the same element in their party and Theatrics stats for characters with different elements. Gimmick stacks raise attack, while Theatrics raise movement speed, but Chasca needs allies with different elements to work well.
+It’s been a while since Tartalgia’s banner, but if you have his
+Polar Star
+, it’s a solid choice for Chasca. It increases elemental skill and burst damage, which isn’t helpful, but when the user lands a hit with their normal attack, charged attack, skill, and burst, they gain a stack of
+Ashen
+Nightstar. Each raises the user’s attack, and they can have up to four, for a total of 48 percent extra attack.
+Skyward Harp
+is always a solid choice for any bow-wielding DPS character. It raises the user’s crit rate and crit damage, and it has a small chance of summoning a vortex that deals additional damage to nearby enemies.
+Scion of the Blazing Sun
+is a battle pass bow that marks enemies with a debuff that increases how much damage they take from charged attacks – very useful for Chasca.
+Chain Breaker
+was practically made for Chasca. It’s Natlan’s craftable bow, and its passive skill increases the user’s attack when they’re in a party with other Natlan characters or characters with elemental types different from their own.
+If you’re still early in Genshin Impact, the craftable
+Compound Bow
+should see you through until you get a stronger weapon. Landing a hit with a normal or charged attack increases the user’s attack by four to eight percent, and the effect stacks four times.
+Genshin Impact Chasca Artifacts
+Like with Natlan’s other DPS characters, Chasca’s best Artifact set is
+Obsidian Codex
+, since she’ll nearly always have its buffs active.
+Two-piece set: Increases damage by 15 percent when the wearer is in the Nightsoul Blessing state
+After the equipping character consumes one Nightsoul Point, their crit rate increases by 40 percent for six seconds. The effect can trigger once per second
+Chasca starts with 80 Nightsoul Points when she enters the Blessing state and consumes them while moving and attacking, so she’ll have that crit rate buff until she depletes her points and starts using Phlogiston.
+You
+can
+use
+Viridescent Venerer
+with Chasca, but it comes with a few more caveats.
+Two-piece effect: Increases Anemo damage by 15 percent
+Four-piece effect: Increases Swirl damage by 60 percent and decreases enemy resistance to the element used in Swirl by 40 percent
+Most of Chasca’s damage comes from the shells she fires that are under the elemental conversion effect, so extra Anemo damage isn’t much help. Swirl needs elemental mastery to work well, and investing in that means you’re losing out on higher attack stats. The other issue comes from Chasca’s party compositions. She needs a party with varied elemental types. Not only will just one, maybe two, of those party members benefit from the VV set’s resistance reduction, but Chasca might not even take advantage of it herself. The elemental conversion of her Shadowhunt Shells happens at random, so there’s no way to determine what elements she’ll fire.
+Genshin Impact Chasca stats
+Chasca’s skills only scale with attack, so you can treat her like you would most other DPS characters. She needs plenty of attack and benefits from crit rate and crit damage, and that’s about it. Even though Chasca can cause Swirl reactions without needing other characters’ abilities on the field, she deals more damage from her charged attacks in most cases. Elemental Mastery isn’t essential, even if you opt for the Viridescent Venerer set.
+Sands: Attack
+Goblet: Attack
+Circlet: Crit rate or crit damage (crit damage is more helpful if you’re using the Obsidian Codex set)
+Ideally, you’d want crit rate and crit damage for your substats, though elemental mastery and additional attack are helpful as well.
+Genshin Impact Chasca teams
+Chasca is a bit of an odd one as far as Anemo DPS characters go. Unlike Wanderer and pretty much anyone else who uses Anemo, she doesn’t want Faruzan as a support. Chasca’s talents means she deals more damage when the party has at least two elemental types that aren’t Anemo – or Geo or Dendro, for that matter. Chasca’s special Shadowhunt Shells only work with elements that Anemo can Swirl, which means you need to focus on Pyro, Hydro, Cryo, and Electro for her teammates.
+That said, if you’re using the Codex set, still want to reduce elemental resistances, and have Xilonen, you could put Xilonen as a fourth party member. Chasca deals slightly less damage this way than she does with a full team of varied Swirl elements, but reducing enemy resistances also means your sub-DPS characters can whittle foes down while off-field.
+One possible composition is:
+Chasca
+Fischl
+Xiangling
+Xingqiu
+These sub-DPS characters have skills that work while they remain off-field, so you’re firing off their abilities in addition to Chasca’s elemental conversions, triggering multiple reactions, and dealing even more damage. You could swap Yae Miko for Fischl, Bennett for Xiangling, or Mona or
+Furina
+for Xingqiu, if you have them. Another possible setup ditches Electro in favor of Cryo so you can add the powerful Freeze and Melt reactions to your rotation.
+Charlotte
+,
+Shenhe
+, or
+Ganyu
+make good Cryo substitutes.
+If you're saving up Primogems and materials for future
+Genshin Impact banners
+, which you should consider doing, what with Mavuika on the way, check out our up-do-date list of
+Genshin Impact codes
+for some free Primogems.

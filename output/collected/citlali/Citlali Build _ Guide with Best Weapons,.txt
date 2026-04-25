@@ -1,0 +1,325 @@
+Citlali
+5
+★
+Catalyst
+Cryo
+The great shaman from the Masters of the Night-Wind, the universally-revered Granny Itztli
+.
+Basic Stats
+Nv.
+90
+HP
+11634
+ATK
+127
+DEF
+763
+EM
+115.2
+Basic Stats
+Nv.
+90
+HP
+11634
+ATK
+127
+DEF
+763
+EM
+115.2
+Citlali
+Ascension Materials
+Shivada Jade Sliver
+Quenepa Berry
+Talisman of the Enigmatic Land
+Juvenile Fang
+Teachings of Kindling
+Denial and Judgment
+Citlali
+Best Weapon
+Starcaller's Watch
+Level
+.
+90
+ATK
+542
+Elemental Mastery
+264.6
+Refinement
+.
+5
+Increases Elemental Mastery by 200. Gain the "Mirror of Night" effect within 15s after the equipping character creates a shield: The current active party member deals 56% increased DMG to nearby opponents. You can gain the "Mirror of Night" effect once every 14s.
+Other Weapons
+2
+°
+A Thousand Floating Dreams
+Elemental Mastery
+3
+°
+Favonius Codex
+Energy Recharge
+4
+°
+Sacrificial Fragments
+Elemental Mastery
+Citlali
+Best Artifact Set
+Scroll of the Hero of Cinder City
+2 Pc
+:
+When a nearby party member triggers a Nightsoul Burst, the equipping character regenerates 6 Elemental Energy.
+4 Pc
+:
+After the equipping character triggers a reaction related to their Elemental Type, all nearby party members gain a 12% Elemental DMG Bonus for the Elemental Types involved in the elemental reaction for 15s. If the equipping character is in the Nightsoul's Blessing state when triggering this effect, all nearby party members gain an additional 28% Elemental DMG Bonus for the Elemental Types involved in the elemental reaction for 20s. The equipping character can trigger this effect while off-field, and the DMG bonus from Artifact Sets with the same name do not stack.
+Artifacts Main Stats
+Sands
+:
+ER % / EM
+Goblet
+:
+Elemental Mastery
+Circlet
+:
+Elemental Mastery
+Artifacts Substats
+Crit Rate
+Elemental Mastery
+Energy Recharge
+Other Artifacts Sets
+2
+°
+4x
+Tenacity of the Millelith
+3
+°
+4x
+Instructor
+Citlali
+Talent Priority
+1
+°
+Elemental Burst
+2
+°
+Elemental Skill
+Citlali
+Best Teams
+Time #
+1
+Main DPS
+Support
+Support
+Support
+Mavuika
+Xilonen
+Citlali
+Bennett
+Time #
+2
+Main DPS
+Sub-DPS
+Support
+Support
+Arlecchino
+Rosaria
+Citlali
+Bennett
+Citlali
+Ascension Costs
+Cost
+5
+→
+6
+120
+K
+Shivada Jade Gemstone
+6
+Talisman of the Enigmatic Land
+20
+Quenepa Berry
+60
+Tyrant's Fang
+24
+Citlali
+Talents Costs
+Cost
+9
+→
+10
+700
+K
+Philosophies of Kindling
+16
+Tyrant's Fang
+12
+Denial and Judgment
+2
+Crown of Insight
+1
+Citlali
+Talents
+Normal Attack
+Shadow-Stealing Spirit Vessel
+Normal Attack
+Calls upon secret arts passed down through the Masters of the Night-Wind from generation to generation, performing up to three strikes that deal
+Cryo DMG
+.
+Charged Attack
+Enters Aiming Mode, and after Holding, consumes a certain amount of Stamina to call forth a Frost Star that deals
+Cryo DMG
+to opponents in its path.
+Plunging Attack
+Gathers the power of Cryo and plunges towards the ground from mid-air, damaging all opponents in her path. Deals
+Aoe Cryo DMG
+upon impact with the ground.
+Elemental Skill
+Dawnfrost Darkstar
+Invoking secret pacts passed down by her tribe over the millennia, Citlali deploys an Opal Shield and calls forth
+"Obsidian Tzitzimitl: Itzpapa,"
+a creature that is (reputedly) terrifying beyond compare, dealing Nightsoul-aligned
+AoE Cryo DMG
+.
+The Opal Shield's DMG absorption scales based on Citlali's Elemental Mastery, and absorbs
+Cryo DMG
+with 250% efficiency. When it is deployed, it will cause Citlali to briefly be
+affected by Cryo
+.
+After using this skill, Citlali gains 24 Nightsoul points and enters the Nightsoul's Blessing state.
+Nightsoul's Blessing: Citlali
+When Itzpapa leaves the field, Citlali exits the Nightsoul's Blessing state.
+Itzpapa
+·Itzpapa will follow the character.
+·If Citlali has at least 50 Nightsoul points, Itzpapa enters the Opal Fire state and continuously consumes Nightsoul points to whip up a Frostfall Storm that follows the character and attacks opponents within its AoE, dealing Nightsoul-aligned
+Cryo DMG
+.
+·When Citlali's Nightsoul points are fully depleted, Itzpapa's Opal Fire state also ends.
+Usually, the wills that symbolize different stars cannot coexist, for how can purest black be reflected in purest white?
+Be that as it may, Citlali has never harbored a particular preference for colors themselves, and that is just how things played out.
+Elemental Burst
+Edict of Entwined Splendor
+Summons
+"allies"
+from the starry skies and the vast earth, hurling forth an ice storm to bombard the area in front and deal Nightsoul-aligned
+AoE Cryo DMG
+. This restores a set amount of Nightsoul points for Citlali, and also summons a
+Spiritvessel Skull
+near a maximum of 3 opponents within the AoE, with 1 Skull for each opponent. Spiritvessel Skulls explode after some time, dealing Nightsoul-aligned
+AoE Cryo DMG
+and restoring a set amount of Nightsoul points for Citlali.
+"Ugh, enough of this 'dark star, opal star' stuff! Citlalin, Itzpapa, get 'em!"
+Citlali
+Passives
+Passive
+1
+Mamaloaco's Frigid Rain
+While Itzpapa is on the field, after nearby party members trigger the Frozen or Melt reactions, the
+Pyro
+and
+Hydro
+RES of opponents affected by that reaction decreases by 20% for 12s. Additionally, Citlali will regain 16 Nightsoul points. Nightsoul points can be restored this way once every 8s.
+Passive
+2
+Itzpapalotl's Star Garments
+During the Elemental Skill
+Dawnfrost Darkstar
+, Itzpapa's Frostfall Storm DMG is increased by 90% of Citlali's Elemental Mastery. During the Elemental Burst
+Edict of Entwined Splendor
+, Ice Storm DMG is increased by 1200% of Citlali's Elemental Mastery.
+In addition, when nearby party members trigger Nightsoul Bursts, Citlali regains 4 Nightsoul points.
+Passive
+3
+Night Realm's Gift: Smoke, Mirrors, and the Flowing Winds
+While in an area with Phlogiston Mechanics within Natlan, can use Nightsoul Transmission: Citlali. When the active character is currently high enough in the air, the following will trigger when switching to Citlali: Citlali will leap up high, and will deploy
+"White Obsidian Tzitzimitl: Citlalin"
+to float in the air. Nightsoul Transmission can be triggered once every 10s by your party.
+Holding Aiming Mode will cause Citlali to enter the
+"Spiritspeaker"
+state, which will allow her to interact with
+"Nightspirit Graffiti"
+and
+"Nightspirit Sigils,"
+extracting information and power from them. The rules for interacting with these objects follow the same rules as those governing Iktomisaurus interactions.
+Additionally, holding the jump button will cause Citlali to consume 75 Stamina and leap. In areas within Natlan where Phlogiston mechanics are present, Citlali will prioritize consuming 5 Phlogiston to leap to a height higher still.
+When in the air, Citlali can Hold her Normal Attack to consume Phlogiston or Stamina and enter Aiming Mode and trigger Charged Attacks. When initiating Charged Attacks in mid-air, Citlali will prioritize consuming 20 Phlogiston.
+Passive
+4
+Songs of Profound Mystery
+While in an area with Phlogiston Mechanics within Natlan, triggering
+"Nightsoul Burst"
+restores 20 Phlogiston.
+This cannot take effect in Domains, Trounce Domains, or the Spiral Abyss.
+Citlali
+Constellations
+C
+1
+Radiant Blades of Centzon Mimixcoah
+When she uses the Elemental Skill
+Dawnfrost Darkstar
+, Citlali gains the
+"Opalstar Vestments"
+effect until Itzpapa leaves the field. During this time, she will obtain 10 stacks of Stellar Blade. When a nearby active character other than Citlali deals DMG using Normal, Charged, or Plunging Attacks, or Elemental Skills and Bursts, 1 stack of Stellar Blade will be consumed to increase the DMG dealt by 200% of Citlali's Elemental Mastery.
+After nearby party members trigger Frozen or Melt, Citlali will gain another 3 stacks of Stellar Blade. This effect can trigger once every 8s.
+Using the Elemental Skill
+Dawnfrost Darkstar
+will reset Stellar Blade stacks.
+Additionally, when Citlali is using her leap, or is Aiming or using her Charged Attack in mid-air, her Phlogiston consumption is decreased by 45%.
+C
+2
+Heart Devourer's Travail
+Citlali gains 125 Elemental Mastery, and other characters shielded by her Opal Shield, or who have Itzpapa following them, gain 250 Elemental Mastery.
+Additionally, when the Elemental Skill
+Dawnfrost Darkstar
+is used, nearby active characters will also be granted an Opal Shield.
+Also, the Passive Talent
+"Mamaloaco's Frigid Rain"
+has its effects enhanced:
+While Itzpapa is on the field, after nearby party members trigger Frozen or Melt, the opponent(s) affected by this reaction will have their
+Pyro
+and
+Hydro
+RES additionally decreased by 20% for 12s. You must first unlock the Passive Talent
+"Mamaloaco's Frigid Rain"
+to gain access to the above effect.
+C
+3
+Cloud Serpent's Feathered Crown
+Increases the Level of
+Dawnfrost Darkstar
+by 3.
+Maximum upgrade level is 15.
+C
+4
+Death Defier's Spirit Skull
+While the Elemental Skill
+Dawnfrost Darkstar
+is active, when Itzpapa's Frostfall Storm hits opponents, an additional
+Obsidian Spiritvessel Skull
+will be summoned. When a Spiritvessel Skull summoned this way explodes, it deals 1800% of Citlali's Elemental Mastery as Nightsoul-aligned
+AoE Cryo DMG
+and restores 16 Nightsoul points and 8 Energy for Citlali. This effect can trigger once every 8s. This DMG is not considered Elemental Burst DMG.
+C
+5
+Nemontemi's Hex
+Increases the Level of
+Edict of Entwined Splendor
+by 3.
+Maximum upgrade level is 15.
+C
+6
+Teoiztac's Secret Pact
+After being summoned with the Elemental Skill
+Dawnfrost Darkstar
+, Itzpapa will always be in the Opal Fire state, and when Nightsoul points are exhausted, this state will not end.
+Additionally, when
+Dawnfrost Darkstar
+is used, Itzpapa will consume all Nightsoul points, and while it is on the field, it will continuously consume Nightsoul points. Each Nightsoul point consumed in this way will grant Citlali 1
+"Cifra of the Secret Law"
+point.
+A maximum of 40 such points can be gained, and each point Citlali possesses will grant all nearby party members a 1.5%
+Pyro
+and
+Hydro
+DMG Bonus, and increase the DMG Citlali deals by 2.5%.
+When Itzpapa leaves the field, or upon using Citlali's Elemental Skill again, all
+"Cifra of the Secret Law"
+points she has will be removed.

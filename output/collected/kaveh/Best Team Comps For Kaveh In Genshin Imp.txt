@@ -1,0 +1,146 @@
+Best Team Comps For Kaveh In Genshin Impact 3.6
+Muhammad Kumar
+-
+May 04, 2023
+|
+Mobile Games
+If you are going to main Kaveh in Genshin Impact 3.6, running him as part of the following teams would be the most optimal.
+Best Team Comps For Baizhu In Genshin Impact 3.6
+5 Things Honkai Star Rail Did Better Than Genshin Impact
+Must-Avoid Mistakes When Using Baizhu In Genshin Impact
+Kaveh, a popular character from the Sumeru Archon and Alhaitham's Story Quests, has finally become playable in Genshin Impact with the release of the 3.6 update. As a 4-star Dendro Claymore user, Kaveh's role is to enable Dendro core reactions through his Elemental Burst and detonating them with his Elemental Skill and Burst. He is a valuable addition to Bloom-related Dendro reaction teams, and although he lacks synergy with Alhaitham, his kit allows for a range of team options, making him a versatile and interesting character in the game.
+In this article, Gurugamer is going to showcase the best team comps for Kaveh in Genshin Impact 3.6.
+Best Team Comps For Kaveh
+Kaveh and Nilou Teams
+Kaveh is skilled in creating Bloom reactions and is capable of detonating them regardless of the Dendro core enabler. The damage of these reactions is dependent on Kaveh's Elemental Mastery and talent level. Unlike Nilou, who needs to work with Dendro and Hydro characters exclusively, Kaveh is more flexible and can work well with a variety of character options available to players. Kaveh and Nilou complement each other well as Kaveh can also detonate Bountiful Cores, despite their different Dendro core explosion times. However, it is not necessary to use them together.
+Kaveh and Nilou
+If players want to use both Kaveh and Nilou in their team, an ideal setup would require a Dendro character to assist with Dendro application, another Hydro character to assist with Nilou's Hydro application, and to enable both elemental resonances for additional buffs. Several suitable options for Dendro enablers include Nahida, Baizhu, Yaoyao, and the Dendro Traveller, while Ayato, Yelan, Xingqiu, and Kokomi are well-suited for Hydro application and can complement the team. In these team compositions, Kaveh will be the primary on-field character.
+Kaveh + Nilou + Nahida + Kokomi
+Bloom 1
+Kaveh
+: Main DPS, Dendro Core Enabler
+Nilou
+: Sub-DPS, Hydro Enabler
+Nahida:
+Sub-DPS, Buffer, Dendro-Enabler
+Kokomi:
+Healer, Hydro Enabler
+Nahida is a potent and user-friendly Dendro character who excels in Dendro reactions, particularly Bloom reactions. For players who have Nahida available, this team composition can be highly effective. Nahida's Elemental Skill can mark multiple enemies, making it easy to trigger the tri-karma purification when the bloom explosions occur instantly. This results in consistent Dendro application and additional damage from Nahida's Elemental Skill with each explosion. Moreover, her Elemental Burst increases the active team members' Elemental Mastery, thereby boosting Kaveh's Dendro core explosion damage. If players have unlocked Nahida's second constellation, the bloom reactions can also crit, making her an even more powerful option for the team.
+Kokomi serves as the secondary Hydro enabler and healer. Although Kaveh has some self-healing abilities, there may be situations where it is insufficient to keep him alive. Additionally, other team members like Nahida can also suffer significant damage while on the field. Therefore, having a healer on a team where active characters can self-damage from bloom reactions is highly recommended, although not strictly necessary.
+Kaveh + Nilou + Baizhu + Yelan
+Bloom 2
+Kaveh
+: Main DPS, Dendro Core Enabler
+Nilou
+: Sub-DPS, Hydro Enabler
+Baizhu:
+Healer, Buffer, Shielder, Dendro-Enabler
+Yelan:
+Sub-DPS, Hydro Enabler
+Players who don't have Nahida can still create consistent and high-damage Dendro reactions using other options. One of these options is to use Baizhu as the Dendro character in the team. Baizhu is not only able to heal and shield, which is useful for Bloom reactions, but his passive ability can also be utilized to enhance Dendro reactions. When Baizhu's Elemental Burst creates a seamless shield that heals the active character, the damage of reactions is increased based on his HP. This makes him a great choice for players who want to generate potent Bloom reactions.
+Yelan is another important character in this team composition, whose role is to support Nilou with Hydro application. Yelan can apply the Hydro element consistently by attacking the enemy with each of Kaveh's normal attacks, creating more Dendro cores and increasing the team's overall damage output.
+Kaveh Flexible Bloom Teams
+Kaveh is a versatile character who can be used by players who do not have access to Nahida or Nilou. He does not require a specific set of elements in the team to create a strong Bloom reaction and can work well with support characters from other elements outside of Dendro and Hydro. For example, players can consider including a strong Anemo character such as Venti, Sucrose, or Kazuha in the team composition. Anemo characters are particularly useful because they can assist with swirling Hydro to facilitate Hydro application and provide crowd control by gathering enemies and Dendro cores together. Furthermore, the Anemo element can also boost Hydro damage when equipped with the Viridescent Venerer set.
+Bloom F2P
+This flexibility means that players can utilize the characters they have available and still create a strong team composition with Kaveh as the main DPS. While having access to certain characters may make it easier to create a strong team, it is still possible to create a successful team without them, as many of the characters can be swapped out for each other. The main focus should be on characters that can support Kaveh's Bloom reactions by providing consistent elemental application and amplifying his damage output.
+Kaveh + Sucrose + Yaoyao + Xingqiu
+4 Star team
+Kaveh
+: Main DPS, Dendro Core Enabler
+Sucrose
+: Support, Buffer, Debuffer, Hydro Application with infused Swirl, Battery
+Yaoyao:
+Healer, Buffer, Dendro-Enabler
+Xingqiu:
+Sub-DPS, Hydro Enabler
+The aim of this team composition is to be affordable for players and it consists only of 4-star characters. This means that players who do not have 5-star characters can still use this team. Moreover, characters can be swapped with their counterparts, such as Yaoyao for Baizhu, Xingqiu for Yelan, and Sucrose for Kazuha. This team is distinct from the Nilou Bloom team composition as it includes Sucrose. As an Anemo support character, Sucrose can provide crowd control by grouping enemies together, which can facilitate Bloom reactions. She can also buff her teammates' damage output, especially if she has high constellations, and decrease the Elemental Resistance of enemies. Furthermore, if players have unlocked her first constellation, she can be utilized as an Elemental particle generator.
+By having Kaveh on a budget-friendly team that doesn't require Nilou, players can build two teams that excel in Bloom reactions, provided that they have access to Nilou to use in different team compositions.
+Kaveh + Ganyu + Ayato + Venti
+Freeze bloom
+Kaveh
+: Main DPS, Dendro Core Enabler
+Ganyu:
+Sub-DPS, Cryo Enabler
+Ayato:
+Sub-DPS, Hydro Enabler
+Venti
+: Support, Debuffer, Crowd Control, Battery
+Although it may not seem intuitive, including Cryo in a team composition without Dendro reactions can provide creative opportunities to generate Bloom reactions. This team emphasizes the Freeze reaction, which allows for more blooms when Hydro is applied since frozen enemies retain their Hydro status for a longer period. While relying solely on Kaveh for Dendro application may be difficult, Anemo characters like Venti can help with crowd control to group enemies and create chances for Kaveh to apply Dendro. As a Claymore user, Kaveh can also consistently shatter the frozen enemies.
+Since Kaveh is the main DPS, players should focus on Ayato's Elemental Burst rather than his Elemental Skill to apply Hydro consistently with high energy generation. Ganyu's Elemental Burst can also maintain her Cryo application for an extended period. However, players can substitute Ganyu for another Cryo character like Kaeya or Rosaria, and Ayato and Venti for different Hydro and Anemo options. Ganyu and Ayato can also serve as both on-field DPS and off-field sub-DPS, allowing them to focus on their own DPS during Kaveh's cooldown. Note that this team does not include a healer as it is not necessary for Freeze teams, but players can choose to include characters like Sayu or Jean instead of Venti if they prefer a healer.
+Non-Bloom Teams
+Non-bloom
+It's advisable to try various team compositions to find the one that suits each player's playstyle and adapts to various situations. While Kaveh performs best in Bloom teams, players can experiment with other team compositions, using him as a Dendro DPS and applier with a different build. After his Elemental Burst, his Dendro-infused attacks can make him an impressive Dendro DPS. However, it's important to keep in mind that Spread reaction is not as beneficial for Kaveh as other Bloom-related reactions such as Hyperbloom and Burgeon.
+Kaveh + Raiden Shogun + Yelan + Kazuha
+Hyperbloom
+Kaveh
+: Main DPS, Dendro Core Enabler
+Raiden:
+Sub-DPS, Electro Enabler
+Yelan:
+Sub-DPS, Hydro Enabler
+Kazuha
+: Support, Buffer Debuffer, Crowd Control, Battery
+Players can include Kaveh in a Hyperbloom reaction team, where he serves as the primary and only Dendro applier. The team requires a fast Hydro applier, which Yelan is suitable for, and a consistent but slower Electro applier. Raiden Shogun is the best fit for this role, but building her specifically for this team requires a focus on Elemental Mastery, which can detract from her full potential. Alternatively, Kuki Shinobu can be considered since she will not have the same amount of adversity and can heal the party. Kazuha can also help in collecting enemies and Dendro cores while further buffing the team.
+It is important to note that players may need to pause between Kaveh's normal attacks to allow for the Hyperbloom reaction to occur since he can detonate Dendro cores at will. Hyperbloom reaction has a significantly higher base damage multiplier compared to Bloom, making it a worthwhile option to consider. Overall, players should experiment with different team compositions to see what works best for their playstyle and in various situations.
+Kaveh + Kokomi + Thoma + Flex
+Burgeon
+Kaveh
+: Main DPS, Dendro Core Enabler
+Kokomi:
+Healer, Hydro Enabler
+Thoma:
+Pyro Enabler, Shielder
+Flex:
+Any of the previously mentioned Anemo, Dendro or Hydro characters
+While Pyro-based Dendro reactions such as Burgeon and Burning are similar in concept to Hyperbloom, they are not as popular among players because there are not many viable character options to make them effective. Unlike Hyperbloom, Pyro-based Dendro reactions require a Pyro character, which can limit the options for team composition. Additionally, like Hyperbloom, Burgeon benefits from having a healer or shielder in the party, as Kaveh can't heal the self-damage caused by the reaction.
+To utilize Burgeon, Thoma is the only suitable Pyro character due to his optimal Pyro application for triggering the reaction. However, for players interested in using Dehya, they can substitute Thoma for her, despite her limited effectiveness. Burgeon is generally the least favorable among all Bloom-related reactions, as it requires more effort and underperforms in comparison to other, more adaptable options.
+>>> Read more:
+Best Team Comps For Baizhu In Genshin Impact 3.6
+Tags
+#Genshin Impact
+#Genshin Impact 3.6
+#Genshin Impact Characters
+#Genshin Impact Guide
+Comments
+Sort by
+Newest
+|
+Popular
+Please
+sign in
+to send your comment.
+Send
+View more comments
+Next story
+MOST POPULAR
+127468 views
+Mobile Games
+-
+Jun 05, 2025
+10 Hottest Mobile Games to Play in 2025 - They Are Super Addictive!
+110050 views
+Mobile Games
+-
+Jan 06, 2026
+How Popular is Free Fire in India in 2026?
+108071 views
+Mobile Games
+-
+Aug 16, 2021
+Azur Lane Equipment Tier List Complete Guide 2025 Updated
+97757 views
+Mobile Games
+-
+Dec 31, 2025
+Best Mobile Games Offline In 2026 You Should Give A Try
+95541 views
+Mobile Games
+-
+Sep 29, 2025
+Free Fire Headshot Hack: Everything About Headshot Hack In Free Fire (Updated 2025)
+FEATURED STORIES
+Free Fire MAX Redeem Codes March 31, 2026: Get Free Diamonds with 100% Working Codes
+Honkai Star Rail Sparxie 4.0 Hypercarry Guide
+Genshin Impact 6.3 Columbina Ultimate Build Guide
+BGMI Firearm Combat Power Leaderboards: Full Guide to Free Mythic Titles
+How To Boost Free Fire Honor Score Complete Guide 2025

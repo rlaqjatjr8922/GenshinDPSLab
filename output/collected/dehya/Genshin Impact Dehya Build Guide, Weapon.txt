@@ -1,0 +1,440 @@
+Dehya
+Character Profiler
+Dehya
+Information
+Character Information
+Rarity
+5-Star
+Element
+Pyro
+Weapon
+Claymore
+Progression Bonus
+HP%
+Combat Role
+Sub-DPS / Defensive Support
+Dehya
+Gameplay
+Dehya’s gameplay revolves around providing
+damage mitigation
+and limited
+off-field Pyro application
+while supporting her team’s survivability. Her kit focuses on maintaining her
+Fiery Sanctum field
+, allowing her to absorb a portion of the damage taken by teammates through
+Redmane’s Blood
+and grant
+resistance to interruption
+, making her a reliable defensive option in certain team compositions.
+Her Elemental Skill,
+Molten Inferno
+, creates a Fiery Sanctum that deals
+coordinated Pyro damage
+at intervals and transfers part of the damage taken by active characters to Dehya. This ability is the core of her kit, enabling both defensive utility and situational off-field contribution.
+When Dehya uses her Elemental Burst,
+Leonine Bite
+, she enters a short
+on-field state
+where she automatically unleashes a series of
+Pyro attacks
+, dealing damage in a limited window. While not her main strength, it provides additional damage during rotations.
+Dehya’s passive talents further improve her survivability by reducing incoming damage and allowing her to
+self-heal
+over time. While her personal damage is moderate, she performs best when built around
+HP scaling
+and team synergy to maximize her overall utility.
+Dehya
+Talent Priority
+Wriothesley
+’s talent priority focuses primarily on his
+Normal Attack
+, as it represents his main source of damage through his
+Enhanced Normal Attacks
+. His Elemental Skill comes next, as it enables his enhanced state, while his Elemental Burst is the lowest priority, serving mainly as additional damage during rotations.
+Talent
+Recommended Level
+Elemental Burst
+(Leonine Bite)
+6-8
+Elemental Skill
+(Molten Inferno)
+8-9
+Normal Attack
+(Sandstorm Assault)
+1-6
+Elemental Burst – Leonine Bite
+Dehya’s
+Elemental Burst
+allows her to enter a short
+on-field state
+, where she unleashes a series of
+automatic Pyro attacks
+. This represents her main source of personal damage, dealing damage in a limited window during rotations. While not the primary reason to use her, leveling her Burst increases her overall damage output, making it a secondary priority.
+Elemental Skill – Molten Inferno
+Dehya’s
+Elemental Skill
+is the core of her kit. It creates a
+Fiery Sanctum field
+that provides
+damage mitigation
+, transfers damage to Dehya through
+Redmane’s Blood
+, and grants
+resistance to interruption
+. While its damage is relatively low, it is essential for her
+defensive utility
+and overall team support, making it her highest priority. Leveling this talent improves her survivability and consistency in combat.
+Normal Attack – Sandstorm Assault
+Dehya’s
+Normal Attack
+is the least important part of her kit, as it is rarely used in most team compositions. Since her gameplay does not rely on standard attacks outside of her Burst, investing in this talent provides minimal value and should be prioritized last.
+Dehya Best Weapons
+To maximize Dehya’s performance, prioritize
+claymores
+that provide
+HP%, Energy Recharge, or CRIT stats
+, depending on whether you focus on her
+defensive utility or personal damage
+. Since her kit relies on maintaining her
+Elemental Skill field
+and using her
+Elemental Burst during rotations
+, having enough Energy Recharge and survivability is important. The following claymores are some of the best weapons for Dehya to enhance her overall performance:
+All-time best Weapons for Dehya
+Option 1
+Beacon of the Reed Sea (5★)
+Base ATK:
+608
+Bonus Stat:
++33.1% CRIT Rate
+Weapon Effect (R1):
+After the character's Elemental Skill hits an opponent, their ATK will be increased by
+20% / 25% / 30% / 35% / 40%
+for
+8s
+. After the character takes DMG, their ATK will be increased by
+20% / 25% / 30% / 35% / 40%
+for
+8s
+. The
+2
+aforementioned effects can be triggered even when the character is not on the field. Additionally, when not protected by a shield, the character's Max HP will be increased by
+32% / 40% / 48% / 56% / 64%
+.
+Option 2
+Wolf’s Gravestone (5★)
+Base ATK:
+608
+Bonus Stat:
++49.6% ATK
+Weapon Effect (R1):
+Increases ATK by
+20% / 25% / 30% / 35% / 40%
+. On hit, attacks against opponents with less than
+30%
+HP increase all party members' ATK by
+40% / 50% / 60% / 70% / 80%
+for
+12s
+. Can only occur once every
+30s
+.
+Option 3
+Favonius Greatsword (4★)
+Base ATK:
+454
+Bonus Stat:
++61.3% Energy Recharge
+Weapon Effect (R1):
+CRIT Hits have a
+60% / 70% / 80% / 90% / 100%
+chance to generate a small amount of Elemental Particles, which will regenerate
+6
+Energy for the character. Can only occur once every
+12 / 10.5 / 9 / 7.5 / 6 s
+.
+Option 4
+Mailed Flower (4★)
+Base ATK:
+565
+Bonus Stat:
++110.3 Elemental Mastery
+Weapon Effect (R1):
+Within
+8s
+after the character's Elemental Skill hits an opponent or the character triggers an Elemental Reaction, their ATK and Elemental Mastery will be increased by 12% / 15% / 18% / 21% / 24% and 48 / 60 / 72 / 84 / 96 respectively.
+Dehya Best Artifacts & Stats
+To maximize
+Wriothesley
+’s effectiveness as an
+on-field Cryo DPS
+, artifact choices should prioritize
+CRIT stats
+,
+ATK%
+, and
+Cryo DMG Bonus
+. Since his damage comes primarily from his
+Enhanced Normal Attacks
+, the best sets are those that directly increase his
+Normal Attack damage
+and overall DPS consistency.
+Best Choice
+Best Option
+Vourukasha’s Glow
+2-Pc:
+HP
++20%
+4-Pc:
+Elemental Skill and Elemental Burst DMG will be increased by
+10%
+. After the equipping character takes DMG, the aforementioned DMG Bonus is increased by
+80%
+for
+5s
+. This effect increase can have
+5
+stacks. The duration of each stack is counted independently. These effects can be triggered even when the equipping character is not on the field.
+Beginner Option
+Tenacity of the Millelith
+2-Pc:
+HP
++20%
+4-Pc:
+When an Elemental Skill hits an opponent, the ATK of all nearby party members is increased by
+20%
+and their Shield Strength is increased by
+30%
+for
+3s
+. This effect can be triggered once every
+0.5s
+. This effect can still be triggered even when the character who is using this artifact set is not on the field.
+Vourukasha’s Glow
+2-Pc:
+HP
++20%
+2-Pc:
+HP
++20%
+Tenacity of the Millelith
+Emblem of Severed Fate
+2-Pc:
+Energy Recharge
++20%
+4-Pc:
+Increases Elemental Burst DMG by
+25%
+of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.
+Recommended Stats and Sub-Stats
+Main Stat
+Sands:
+HP% / Energy Recharge
+Goblet:
+Pyro DMG Bonus / HP%
+Circlet:
+CRIT Rate / CRIT DMG / HP%
+Sub Stat
+HP% > Energy Recharge > CRIT Rate / CRIT DMG > ATK%
+Dehya Best Team Compositions
+Dehya performs best in teams where she can provide
+damage mitigation
+,
+interruption resistance
+, and
+limited off-field Pyro application
+. Since her Elemental Skill creates a
+Fiery Sanctum field
+, she fits well in teams that benefit from added survivability and smoother rotations. While her personal damage is moderate, her strength lies in improving overall
+team stability
+, making her a valuable option in certain
+Pyro-based
+and situational
+reaction teams
+.
+Dehya Overload Teams
+Main DPS
+Support 1
+Support 2
+Sustain
+Yoimiya (5★)
+Fischl (4★)
+Dehya (5★)
+Bennett (4★)
+Raiden Shogun (5★)
+Fischl (4★)
+Dehya (5★)
+Bennett (4★)
+Dehya Mono Pyro Teams
+Main DPS
+Support 1
+Support 2
+Sustain
+Lyney (5★)
+Xiangling (4★)
+Dehya (5★)
+Bennett (4★)
+Klee (5★)
+Kazuha (5★)
+Dehya (5★)
+Bennett (4★)
+Dehya Support Teams
+Main DPS
+Support 1
+Support 2
+Sustain
+Wanderer (5★)
+Faruzan (4★)
+Dehya (5★)
+Bennett (4★)
+Ganyu (5★)
+Bennett (4★)
+Dehya (5★)
+Zhongli (5★)
+Neuvillette (5★)
+Furina (5★)
+Dehya (5★)
+Baizhu (5★)
+Dehya Alternative Teams
+Main DPS
+Support 1
+Support 2
+Sustain
+Kinich (5★)
+Emilie (4★)
+Dehya (5★)
+Bennett (4★)
+Nahida (5★)
+Xingqiu (4★)
+Dehya (5★)
+Kokomi (4★)
+Dehya Constellations
+While Dehya is already functional at C0 as a
+defensive support and sub-DPS
+, her constellations can improve her
+damage output, survivability, and consistency
+. However, most of her constellations provide
+incremental improvements
+rather than major power spikes.
+Constellation Performance
+Constellation
+Rating
+Explanation
+C1
+★★★★☆
+Increases Dehya’s Max HP and improves her
+HP scaling
+, enhancing both her
+damage mitigation
+and overall damage. A strong and well-rounded upgrade.
+C2
+★★★★☆
+Increases the damage dealt by her
+Fiery Sanctum field
+, improving her
+off-field contribution
+and overall consistency.
+C4
+★★★☆☆
+Restores
+Energy
+during her Burst, helping improve
+Energy consistency
+and allowing for more frequent Burst usage.
+C6
+★★★★★
+Significantly boosts her
+Elemental Burst damage
+, greatly improving her personal damage during her on-field window. This is her strongest constellation for damage-focused builds.
+Constellation Effect
+Constellation
+Effect
+C1
+“The Flame Incandescent”
+Dehya's Max HP is increased by
+20%
+, and she deals bonus DMG based on her Max HP when using the following attacks:· Molten Inferno's DMG will be increased by
+3.6%
+of her Max HP.· Leonine Bite's DMG will be increased by
+6%
+of her Max HP.
+C2
+“The Sand-Blades Glittering”
+When Dehya uses Molten Inferno: Ranging Flame, the duration of the recreated Fiery Sanctum field will be increased by
+6s
+.Additionally, when a Fiery Sanctum exists on the field, DMG dealt by its next coordinated attack will be increased by
+50%
+when active character(s) within the Fiery Sanctum field are attacked.
+C3
+“A Rage Swift as Fire”
+Increases the Level of Leonine Bite by
+3
+.
+Maximum upgrade level is
+15
+.
+C4
+“An Oath Abiding”
+When Flame-Mane's Fist and Incineration Drive attacks unleashed during Leonine Bite hit opponents, they will restore
+1.5
+Energy for Dehya and
+2.5%
+of her Max HP. This effect can be triggered once every
+0.2s
+.
+C5
+“The Alpha Unleashed”
+Increases the Level of Molten Inferno by
+3
+.
+Maximum upgrade level is
+15
+.
+C6
+“The Burning Claws Cleaving”
+The CRIT Rate of Leonine Bite is increased by
+10%
+.Additionally, after a Flame-Mane's Fist attack hits an opponent and deals CRIT Hits during a single Blazing Lioness state, it will cause the CRIT DMG of Leonine Bite to increase by
+15%
+for the rest of Blazing Lioness's duration and extend that duration by
+0.5s
+. This effect can be triggered every
+0.2s
+. The duration can be extended for a maximum of
+2s
+and CRIT DMG can be increased by a maximum of
+60%
+this way..
+Conclusion
+This comprehensive guide demonstrates Dehya’s role as a
+5-star Pyro defensive support and sub-DPS
+in Genshin Impact, offering
+damage mitigation
+,
+interruption resistance
+, and
+limited off-field Pyro application
+. While her personal damage is moderate, her ability to improve
+team survivability and stability
+makes her a valuable option in certain
+Pyro-based
+and situational reaction teams. Although her playstyle is more utility-focused, she can still provide consistent support across various team compositions.
+While Dehya performs well at C0, her constellations can further improve her
+damage output, survivability, and consistency
+.
+C1
+enhances her HP scaling, improving both her defensive utility and overall damage, while
+C2
+increases her off-field damage contribution. Her
+C6
+provides the biggest upgrade by significantly boosting her Elemental Burst damage, making her more effective in damage-focused builds.
+To fully prepare for Dehya and maximize her potential, consider
+topping up Genshin Impact
+via LootBar to secure the
+Genesis Crystals
+and
+Primogems
+needed for upcoming banners and weapons that synergize with her. Having the right characters, weapons, and artifacts ready will ensure you can fully take advantage of Dehya’s
+support capabilities
+and overall team utility in the right compositions.
+Top Up With Discount Now!

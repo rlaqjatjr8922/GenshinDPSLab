@@ -1,0 +1,675 @@
+Genshin Impact Keqing Best Team Guide
+Last updated April 25, 2026. Looking for the best Keqing teams in
+        Genshin Impact? Start with the top team summary below, then pick the
+        lineup that fits your roster.
+This page shows the best teams for Keqing, primarily a DPS. Top teams include Thunder, Superconduct, Electro-Charged, and Overload compositions. Team positions can be adjusted based on your build and available characters.
+View Keqing's character page
+Keqing Team Summary
+#1
+Team Rating:SS
+Keqing Catalyze SS Team with Fischl, Collei, Zhongli
+C6
+#2
+Team Rating:SS
+Keqing Catalyze Team #2
+C6
+#3
+Team Rating:SS
+Keqing Catalyze SS+ Team 3
+C6
+#4
+Team Rating:S
+Keqing Thunder Team #1
+#5
+Team Rating:S
+Keqing Thunder Team #2
+C6
+#6
+Team Rating:S
+Keqing Thunder Team #3
+#7
+Team Rating:S
+Keqing Overload Team
+#8
+Team Rating:S
+Keqing Electro-Charge
+#1 Keqing Catalyze SS Team with Fischl, Collei, Zhongli
+Tier SS
+Catalyze Keqing team
+focused on maximizing Keqing's Electro damage while enabling Collei's Dendro damage through Catalyze. Fischl provides strong off-field Electro application and extra team damage, while Zhongli offers shielding and
+Deepwood Memories
+RES shred support.
+Keqing
+Main DPS
+Electro
+On-field driver and main damage dealer. Uses multi-hit attacks to trigger Catalyze reactions consistently.
+Artifacts
+Thundering Fury
+Main Stats
+Sands
+ATK% / Elemental Mastery
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / ATK% / Energy Recharge
+Weapons
+Primordial Jade Cutter
+Iron Sting
+Fischl
+Sub DPS
+Electro
+Constellation 6+
+Off-field Electro application and extra damage through Oz.
+C6
+significantly improves the team's overall performance.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Aqua Simulacra
+The Stringless
+Collei
+Sub DPS
+Dendro
+Provides off-field Dendro damage and enables Catalyze reactions. Her damage is amplified by Catalyzing.
+Artifacts
+Gilded Dreams
+Main Stats
+Sands
+ATK%
+Goblet
+Dendro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Elegy for the End
+Favonius Warbow
+Zhongli
+Support
+Geo
+Provides strong shielding for safe on-field play.
+Deepwood Memories
+helps reduce enemy Dendro RES for the team.
+Artifacts
+Deepwood Memories
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Staff of Homa
+Black Tassel
+#2 Keqing Catalyze Team #2
+Tier SS
+Keqing is the Main DPS. The team focuses on Catalyze reactions to maximize Electro damage, with Collei(C6) noted in the source as a damage amplifier, though the listed roster here includes Yaoyao and Kazuha for Dendro support, crowd control, and sustain.
+Keqing
+Main DPS
+Electro
+Keqing mainly uses multi-stage attacks to trigger Catalyze and deals the team's primary on-field damage.
+Artifacts
+Thundering Fury
+Main Stats
+Sands
+ATK% / Elemental Mastery
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / ATK% / Energy Recharge
+Weapons
+Primordial Jade Cutter
+Iron Sting
+Fischl
+Sub DPS
+Electro
+Constellation 6+
+Off-field Electro application from Oz supports continuous Catalyze reactions. C6 is a major team upgrade.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Aqua Simulacra
+The Stringless
+Kaedehara Kazuha
+Support
+Anemo
+Provides grouping, crowd control, damage buffing, and Elemental RES reduction with Viridescent Venerer.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Freedom-Sworn
+Iron Sting
+Yaoyao
+Support
+Dendro
+Healer and Dendro support. Tenacity of the Millelith can increase team ATK while keeping the party healthy.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+Healing Bonus
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Staff of Homa
+Black Tassel
+#3 Keqing Catalyze SS+ Team 3
+Tier SS
+Keqing Catalyze team focused on triggering Catalyze/Quicken consistently with
+Keqing
+as on-field DPS,
+Fischl C6
+providing off-field Electro application,
+Kazuha
+grouping and shredding RES, and
+Nahida
+enabling Dendro application and teamwide reaction damage. Notes mention that with two Electro characters, Nahida's Tri-Karma Purification trigger interval is reduced.
+Keqing
+Main DPS
+Electro
+On-field driver and main damage dealer. Uses multi-hit attacks to trigger Catalyze frequently. Best with 4pc Thundering Fury.
+Artifacts
+Thundering Fury
+Main Stats
+Sands
+ATK% / Elemental Mastery
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / ATK% / Energy Recharge
+Weapons
+Primordial Jade Cutter
+Iron Sting
+Fischl
+Sub DPS
+Electro
+Constellation 6+
+Off-field Electro applicator. Oz provides continuous Electro attachment to help maintain Catalyze/Quicken uptime. C6 is a significant team upgrade.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Aqua Simulacra
+The Stringless
+Kaedehara Kazuha
+Support
+Anemo
+Groups enemies, provides crowd control, buffs team damage, and reduces enemy Elemental RES via Viridescent Venerer. Built full Elemental Mastery.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Freedom-Sworn
+Iron Sting
+Nahida
+Sub DPS
+Dendro
+Off-field Dendro application and reaction damage. Elemental Skill links enemies and triggers Dendro damage for Catalyze setups. Burst buffs her Skill based on teammates' elements. Also provides healing support via Prototype Amber as noted in the guide.
+Artifacts
+Deepwood Memories
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Elemental Mastery / ATK% / Energy Recharge
+Weapons
+Prototype Amber
+#4 Keqing Thunder Team #1
+Tier S
+Keqing is the Main DPS in this team. The whole team deals
+Electro DMG
+, with Zhongli providing strong shielding and team ATK buff support.
+Keqing
+Main DPS
+Electro
+Main on-field DPS. Primarily uses
+Charged Attacks
+to deal damage. Her Elemental Burst is further supported by Zhongli and the
+Thundersoother
+set bonus.
+Artifacts
+Thundersoother
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Mistsplitter Reforged
+The Black Sword
+Beidou
+Sub DPS
+Electro
+Off-field Sub DPS. Her Elemental Burst can deal continuous Electro DMG from the background.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Skyward Pride
+Serpent Spine
+Fischl
+Sub DPS
+Electro
+Off-field Electro support. Her Elemental Skill provides continuous Electro DMG even while she is not on the field.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Aqua Simulacra
+The Stringless
+Zhongli
+Support
+Geo
+Shield support. His shield creates a safe environment for the team, and his full
+Tenacity of the Millelith
+set increases the ATK of the whole team.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP% / Energy Recharge
+Weapons
+Staff of Homa
+Black Tassel
+#5 Keqing Thunder Team #2
+Tier S
+Keqing is the Main DPS in the team. The Electro DMG of Keqing is maximized by Kujou Sara(C6)’s Electro CRIT DMG Bonus.
+Keqing
+Main DPS
+Electro
+Keqing mainly uses Heavy Attack to deal DMG. The DMG of Elemental Burst is maximized with the aid of Kujou Sara(C6), Kazuha and Zhongli.
+Artifacts
+Gladiator's Finale
+Thundering Fury
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Mistsplitter Reforged
+The Black Sword
+Kujou Sara
+Sub DPS
+Electro
+Constellation 6+
+Kujou Sara can provide ATK Bonus to teammates. And C6 Kujou Sara’s Elemental Burst can boost CRIT DMG of Electro DMG of Keqing.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Skyward Harp
+The Stringless
+Kaedehara Kazuha
+Support
+Anemo
+Kazuha can assist the team by grouping enemies together, applying crowd control, provide DMG buff to teammates and reduce Elemental Resistance of enemies.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Freedom-Sworn
+Iron Sting
+Zhongli
+Support
+Geo
+Zhongli’s shield provides safe environment for team members, and increase ATK of whole team by using full set of Tenacity of the Millelith.
+Artifacts
+Tenacity of the Millelith
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP / Energy Recharge
+Weapons
+Staff of Homa
+Black Tassel
+#6 Keqing Thunder Team #3
+Tier S
+Keqing is the Main DPS in the team.
+Keqing and Raiden Shogun switch to each other when their Elemental Bursts are on CD.
+Keqing
+Main DPS
+Electro
+Keqing mainly uses Heavy Attack to deal DMG. The DMG of Elemental Burst is maximized with the aid of Kazuha and Bennett.
+Artifacts
+Gladiator's Finale
+Thundering Fury
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Mistsplitter Reforged
+The Black Sword
+Raiden Shogun
+Main DPS
+Electro
+Raiden Shogun is the main DPS in the team. The DMG of Elemental Burst depends on the energy consumed by team members using their Elemental Burst.
+Raiden Shogun can boost Energy Recharge of their teammates by using Elemental Burst, and also increase DMG of teammates’ Elemental Burst by using Elemental Skill. This makes Raiden Shogun a all-rounded Main DPS.
+Raiden Shogun is switched to Keqing when the Elemental Burst is on CD.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+Energy Recharge
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Energy Recharge / Elemental Mastery / CRIT Rate / CRIT DMG
+Weapons
+Engulfing Lightning
+Kitain Cross Spear
+Kaedehara Kazuha
+Support
+Anemo
+Kazuha can assist the team by grouping enemies together, applying crowd control, provide DMG buff to teammates and reduce Elemental Resistance of enemies.
+Artifacts
+Viridescent Venerer
+Main Stats
+Sands
+Elemental Mastery
+Goblet
+Elemental Mastery
+Circlet
+Elemental Mastery
+Substats
+Elemental Mastery / CRIT DMG / CRIT Rate / ATK%
+Weapons
+Freedom-Sworn
+Iron Sting
+Bennett
+Support
+Pyro
+Bennett’s Elemental Burst provides huge ATK buff and healing to other members.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+#7 Keqing Overload Team
+Tier S
+Keqing is the Main DPS
+in this team. Keqing and Beidou deal Electro DMG, which reacts with Xiangling’s Pyro application to trigger Overload.
+Keqing
+Main DPS
+Electro
+Keqing mainly uses Heavy Attacks to deal DMG. She provides consistent Electro application to trigger Overload.
+Artifacts
+Gladiator's Finale
+Thundering Fury
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Mistsplitter Reforged
+The Black Sword
+Beidou
+Sub DPS
+Electro
+Beidou’s Elemental Burst provides Electro DMG off-field, helping trigger Overload consistently.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Skyward Pride
+Serpent Spine
+Xiangling
+Sub DPS
+Pyro
+Xiangling’s Elemental Burst deals strong damage and provides continuous Pyro application for Keqing and Beidou to trigger Overload.
+Artifacts
+Emblem of Severed Fate
+Main Stats
+Sands
+ATK% / Energy Recharge
+Goblet
+Pyro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Engulfing Lightning
+"The Catch"
+Bennett
+Support
+Pyro
+Bennett’s Elemental Burst provides a large ATK buff and healing to the team.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+#8 Keqing Electro-Charge
+Tier S
+Keqing drives an Electro-Charge reaction team with sustained Electro application from Fischl and Hydro uptime from Xingqiu. Bennett provides healing and a strong ATK buff to boost team damage.
+Keqing
+Main DPS
+Electro
+On-field driver and main damage dealer. Focus on Electro damage and CRIT stats.
+Artifacts
+Gladiator's Finale
+Thundering Fury
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT Rate / CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Mistsplitter Reforged
+The Black Sword
+Fischl
+Sub DPS
+Electro
+Provides continuous off-field Electro application, enabling frequent Electro-Charge reactions.
+Artifacts
+Golden Troupe
+Main Stats
+Sands
+ATK%
+Goblet
+Electro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / Energy Recharge / ATK%
+Weapons
+Aqua Simulacra
+The Stringless
+Xingqiu
+Sub DPS
+Hydro
+Burst keeps Hydro applied consistently, allowing Keqing and Fischl to trigger Electro-Charge reliably.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+ATK%
+Goblet
+Hydro DMG
+Circlet
+CRIT DMG
+Substats
+CRIT DMG / CRIT Rate / ATK% / Energy Recharge
+Weapons
+Sacrificial Sword
+Bennett
+Support
+Pyro
+Burst provides healing and a large ATK buff for the team.
+Artifacts
+Noblesse Oblige
+Main Stats
+Sands
+HP%
+Goblet
+HP%
+Circlet
+HP%
+Substats
+HP% / HP / Energy Recharge
+Weapons
+Skyward Blade
+Favonius Sword
+Keqing Teams FAQ
+What is the best Keqing team in Genshin Impact?
+Keqing Catalyze SS Team with Fischl, Collei, Zhongli is one of the strongest Keqing teams right now. Use the team summary and build cards on this page to pick the best version for your account.
+What are good Keqing teams without premium weapons?
+You can run strong Keqing teams without signature weapons by prioritizing reaction synergy, energy consistency, and artifact main stats shown in each build card.
+Which teammates are best with Keqing?
+Common high-performing partners include teams such as Keqing Catalyze SS Team with Fischl, Collei, Zhongli, Keqing Catalyze Team #2, Keqing Catalyze SS+ Team 3. Check each lineup section for role breakdowns and gear priorities.

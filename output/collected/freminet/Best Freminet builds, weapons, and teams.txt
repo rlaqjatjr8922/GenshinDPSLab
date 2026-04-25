@@ -1,0 +1,153 @@
+0
+Bookmark (
+0
+)
+Please login to bookmark
+Close
+Username or Email Address
+Password
+Remember Me
+Don't have an account? Register here.
+Create an account to bookmark articles.
+Username
+*
+3-60 characters, letters, numbers, spaces, and these symbols: @._-
+Email
+*
+You will receive an email to set your password after registration.
+Subscribe to The Destructoid Checkpoint Newsletter
+Get the latest gaming news and updates delivered to your inbox.
+Create Account
+Already have an account? Sign in here.
+Back to top
+Home
+Guides
+Best Freminet builds, weapons, and teams in Genshin Impact
+Let's dive in.
+Christine Choi
+| Sep 17, 2023 11:59 am
+Image via HoYoverse
+Freminet is a 4-star Cryo DPS in
+Genshin Impact
+.
+Here’s a deep dive into Freminet’s best weapons, artifacts, and teams.
+Recommended Videos
+Playstyles
+Freminet is an on-field DPS with an incredibly unique kit. You can choose whether to focus on his Physical or Cryo damage, which will affect his build and optimal combos.
+Physical Freminet will focus on his level four Shattering Pressure from his Skill. When you swap to Freminet, start by casting your Skill, then Burst, then three Normal Attacks (EN3). Your last Normal Attack will automatically convert to a level four Shattering Pressure hit. Repeat your Skill and Normal Attack combo until your Burst state expires. If your Skill’s cooldown has not reset by the end of an EN3 combo (possible with tight play or attack speed buffs), fill time with a Normal Attack. This should look something like:
+EQN3 EN3 EN3
+Cryo Freminet will use his level zero Shattering Pressure for higher Cryo scaling instead of Physical. This means casting his Skill twice in a row with no Normal Attacks to build stacks. The shorter time it takes to execute this combo lets you use five Shattering Pressures before his Burst expires, with one Normal Attack in between to fill time while his Skill is on cooldown. Cryo Freminet’s combo would therefore be:
+EEQ EEN1 EEN1 EEN1 EEN1
+Screenshot by Destructoid
+Weapons
+Song of Broken Pines
+/
+Skyward Pride
+– Recommended for Physical Freminet. Song of Broken Pines maximizes Freminet’s Physical damage. Skyward Pride helps to meet Energy Recharge requirements while dealing additional damage with Normal Attacks.
+Wolf’s Gravestone / Beacon of the Reed Sea / Redhorn Stonethresher / The Unforged
+– Good for either Physical or Cryo Freminet. Though he can’t always make effective use of these weapons’ passives, they are still excellent 5-star stat sticks.
+Serpent Spine
+– Good for either Physical or Cryo Freminet. Freminet’s long field time can make it difficult to maintain stacks of its passive effect. If you
+are
+able to consistently keep five stacks, Serpent Spine can be competitive with the 5-star options above. Try to bring a strong shielder if you use this weapon.
+Snow-Tombed Starsilver / Prototype Archaic / Tidal Shadow / Blackcliff Slasher
+– These are perfectly fine free-to-play options. Snow-Tombed Starsilver is only recommended for Physical Freminet, while the others can be used for either build. It is not worth refining Blackcliff weapons due to how unreliable their passives are. Make sure you bring a healer if using Tidal Shadow.
+Screenshot by Destructoid
+Artifacts
+4pc Pale Flame (4PF)
+– The best set for Physical Freminet. Because he spams his Skill so often, Freminet has no trouble stacking and maintaining the 4pc effect.
+4pc Blizzard Strayer (4BS)
+– The best set for Cryo Freminet. Because Freminet is a Claymore user, he will constantly proc Shatter, which removes the Freeze status from enemies. This means he can’t fully take advantage of the 4pc CRIT Rate buffs, but 4BS remains his best set.
+2pc combos
+– Though there’s definitely a gap between 2pc combos and the 4pc combos above, you may not want to commit to farming a full 4pc set. If that is the case, you can mix and match 2pc sets with useful set bonuses like Physical DMG, Cryo DMG, ATK, Energy Recharge, and Skill DMG.
+Artifact Stats
+Sands
+Goblet
+Circlet
+ATK
+Physical DMG
+Cryo DMG
+CRIT Rate/DMG
+With another Cryo teammate or a Favonius weapon holder, Physical Freminet will generally need around 140% Energy Recharge. Cryo Freminet uses more Skills, reducing his Energy Recharge requirements to around 130%. Freminet’s C2 reduces these figures by around 20%.
+Screenshot by Destructoid
+Teams
+Physical
+Physical Freminet benefits from both Superconduct and Shatter. Though you shouldn’t build Elemental Mastery for Shatter damage, some of Freminet’s passives and Constellation effects rely on triggering Shatter. This means Physical Freminet’s teams will consist of:
+An Electro teammate to enable Superconduct.
+Fischl
+is recommended here, but
+Yae Miko, Kuki Shinobu, or Raiden
+can work in a pinch.
+A Hydro teammate to enable Freeze and subsequent Shatters.
+Xingqiu or Yelan
+are best, but you can also bring
+Kokomi or Ayato
+. Ayato will need a monstrous amount of Energy Recharge though.
+Your last slot is flexible. A Cryo character is recommended to help generate Cryo particles.
+Mika, Layla, or Diona
+can provide defensive utility while
+Kaeya, Rosaria, or Shenhe
+are more offensive picks. You can also opt for non-Cryo characters like
+Zhongli, Xingqiu/Yelan, Beidou, or pre-C6 Bennett
+.
+Cryo
+Cryo Freminet teams want both Shatter and Swirl. These resemble Freeze teams, but since Freminet will Shatter enemies, you won’t actually be able to keep enemies Frozen.
+A Hydro teammate to enable Freeze and subsequent Shatters.
+Xingqiu or Yelan
+are best, but you can also bring
+Kokomi or Ayato
+as long as Ayato has enough Energy Recharge.
+An Anemo character with 4pc Viridescent Venerer to reduce enemy Cryo RES and group them together.
+Kazuha, Venti, Heizou, or Sucrose
+are all workable options, though Freminet may have trouble hitting lighter enemies lifted by Venti’s Burst. If you need healing, try
+Jean or Sayu
+instead, though their crowd-control capabilities are limited.
+A Cryo character to enable Cryo Resonance, generate Energy, and contribute to DPS.
+Shenhe
+is best here if you want to maximize Freminet’s Cryo hits. Otherwise,
+Kaeya or Rosaria
+work fine.
+Chongyun
+will convert Freminet’s Normal Attacks to Cryo damage, making for a unique playstyle. If you want defensive utility, try
+Layla or Diona.
+0
+Christine Choi
+Contributing Writer - Christine has been gaming since she first stole her brother's Game Boy as a kid. She's come a long way since then and has been creating content for Genshin Impact since 2021.
+Tags:
+Genshin Impact
+guides
+HoYoverse
+miHoYo
+mobile
+PC
+PS4
+PS5
+0
+Bookmark (
+0
+)
+Please login to bookmark
+Close
+Username or Email Address
+Password
+Remember Me
+Don't have an account? Register here.
+Create an account to bookmark articles.
+Username
+*
+3-60 characters, letters, numbers, spaces, and these symbols: @._-
+Email
+*
+You will receive an email to set your password after registration.
+Subscribe to The Destructoid Checkpoint Newsletter
+Get the latest gaming news and updates delivered to your inbox.
+Create Account
+Already have an account? Sign in here.
+Share
+this article
+Destructoid is supported by our audience. When you purchase through links on our site, we may earn a small affiliate commission.
+Learn more about our Affiliate Policy
+.
+Like our content? Set Destructoid as a
+Preferred Source on Google
+in just one step to ensure you see us more frequently in your Google searches!

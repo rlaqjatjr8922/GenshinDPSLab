@@ -1,0 +1,143 @@
+Table of Contents
+Skills
+Weapons
+Artifacts
+Team Comps
+Constellation
+Beidou is an Electro claymore user who can work as either sub-DPS or a full support due to her kit. She is great when it comes to creating Electro reactions and dealing damage while being off-field. Not only that, her Elemental Burst can be a great shield from damage and interruption.
+While Beidou’s rotation revolves around her using her Elemental Burst, she requires some setup in both her artifacts and team comps to fully utilize her Burst. Each path, whether sub-DPS or support, require their own artifacts and team comps, so it is important to understand how to build her in order to use her efficiently. Here you can learn how to optimize her build to reach his peak performance!
+Skills
+Normal Attack: Oceanborne
+Beidou strikes up to five times, and holding the attack deals consecutive slashes that consume stamina. After stopping the consecutive slashes, Beidou performs a powerful slash that deals extra damage. This skill is not as impactful as other skills. Thus,
+it takes the least priority in leveling up.
+Elemental Skill: Tidecaller
+If this skill is pressed, Beidou will perform a slash that deals Electro damage. On hold, Beidou will perform a stance that absorbs damage based on her maximum HP. Once released or when the stance’s duration expires, Beidou performs a slash that deals Electro damage. The damage scales of the number of times she’s been hit while in the stance, with two hits being the maximum number.
+If the damage dealt to Beidou exceeds the shield from her Elemental Skill, the shield will break, and she will take the remaining damage. This applies even to perfect counters. One thing to note is that Beidou applies Electro on her upon using the Elemental Skill, which can be useful for solving some puzzles, especially in Inazuma.
+Elemental Burst: Stormbreaker
+Beidou deals Electro damage and grants herself and her teammates “Thunderbeast’s Targe” buff, which deals Electro damage to enemies when they are hit by normal and charged attacks. Moreover, Thunderbeast’s Targe reduces damage taken and increases interruption resistance. Note that it only works on normal and charged attacks, which means it does not work on Raiden Shogun’s Burst.
+This ability is considered what’s known in the community as a snapshot ability, which means that its stats remains the same as the moment it was activated. It’s important to use this Burst immediately after buffs such as Bennett’s Burst to increase Beidou’s stats. Once it is used, even if the character leaves Bennett’s Burst, for example, Beidou’s Burst’s damage will not change. This is the most important skill for Beidou in general, so
+it takes the highest priority in leveling up.
+Passive: Retribution
+Pressing or holding the Elemental Skill just before an enemy attacks Beidou will count as a “perfect counter”, which will grant the maximum damage from obtaining two stacks.
+2nd Passive: Lightning Storm
+When the Elemental Skill is used with full stacks or after a perfect counter, damage dealt by normal and charged attacks will increase by 15% for 10 seconds. Moreover, normal and charged attacks will gain 15% attack speed and charged attacks have a reduced delay.
+Weapons
+Wolf’s Gravestone
+Wolf’s Gravestone has a high offensive capabilities from its high base damage along with its 49.6% attack from its secondary stat. This allows Beidou to be a great sub DPS along with buffing her Burst. Not only that, damaging enemies with HP less than 30% grants allies a 40-80% attack buff.
+Skyward Pride
+A good alternative for Beidou, especially if she is lacking energy recharge. Beidou’s Elemental Burst’s cost is quite high, so energy recharge is extremely important in keeping her Burst up. While its passive is fairly weak, its base attack is one of the highest for claymores.
+Luxurious Sea-Lord
+Luxurious Sea-Lord is a weapon that was given for free for completing Moonlight Merriment Event. This made it available to F2P players with a fifth refinement. While its base attack is fairly average, the secondary stat grants 55.1% attack, along with 24% Elemental Burst damage. This makes it a wonderful weapon for Beidou whether she is used as a sub DPS or full support.
+Artifacts
+For Beidou, there are multiple artifact sets that work on her depending on her team comp. For sub DPS Beidou, the best artifact set on her is 4-pieces
+Gladiator’s Finale
+. The 18% attack paired with the 35% attack buff on normal attack can help her deal massive damage before rotating to another character. It is also possible to use 2-pieces of
+Gladiator’s Finale
+and 2-pieces of
+Thundering Fury.
+As for the support Beidou, she can either use 4-pieces of
+Emblem of Severed Fate
+,
+Noblesse Oblige
+, or
+Thundering Fury
+.
+Emblem of Severed Fate
+is the best overall since it is more global and can work with majority of the teams while helping with Beidou’s energy issues. Meanwhile,
+Noblesse Oblige
+pairs well with Beidou only if there are no other members using it. The attack buff from Noblesse Oblige does not stack, so using it can be fairly limiting to one character per party.
+Finally,
+Thundering Fury
+can be situational in teams that depend on chemical reactions such as taser teams. The Electro buff along with the 40% damage bonus to Electro reactions can make her an amazing support in those teams. As for sub stats, Beidou requires two stats, energy recharge and atk%. Energy recharge above 200% should be enough and anything more than 250% is an overkill. Crit rate and damage can be fairly beneficial.
+Build:
+Sub-DPS (
+Gladiator’s Finale
+)
+Flower
+Plume
+Sands
+Goblet
+Circlet
+Substats
+1. HP
+1.  ATK
+1. ATK %
+1. Electro DMG Bonus
+1. Crit Rate/DMG %
+1. Elemental
+Recharge
+2. ATK %
+3. Crit Rate %
+4. Crit DMG %
+Also Read:
+Best Settings For Genshin Impact: Get The Highest Performance And Graphics.
+Build:
+Support (
+Emblem of Severed Fate
+,
+Noblesse Oblige
+, or
+Thundering Fury
+)
+Flower
+Plume
+Sands
+Goblet
+Circlet
+Substats
+1. HP
+1.  ATK
+1. ATK %
+1. Electro DMG Bonus
+1. ATK %
+1. Elemental
+Recharge
+2. ATK %
+3. Crit Rate %
+4. Crit DMG %
+Team Comps
+Beidou’s team comp depends a lot on whether she is used as a sub-DPS or as a support. As a sub-DPS, she is more oriented in teams of either reactions or teams with long down time. As for her support built, she is geared towards buffing allies through her Burst and artifacts/weapon.
+In either team, Beidou needs an Electro battery to keep her Burst up. The other teammate will be the main DPS who can benefit from her Burst. Finally, the final slot is fairly flexible between Anemo users, healers or a buffer.
+Fischl
+As an Electro battery, Fischl is one of, if not the best Electro battery in the game. She can generate a lot of particles while being off-field due to her Elemental Skill. Pairing her with Beidou will almost guarantee she will have her Burst always up and reduce the required energy recharge.
+Eula
+Eula can utilize Beidou’s kit so well due to her Cryo element along with being a Physical damage dealer. Using Eula’s Elemental Skill and Beidou’s Burst can shred enemies’ Physical resistance. Not only that, Eula’s normal attacks can utilize Beidou’s Elemental Burst by bouncing the Electric charge more. Overall, Eula and Beidou are a wonderful pair that utilize each other’s strengths.
+Childe/Ayato
+In a taser team, Beidou can excel in applying Electro through the Hydro users’ normal attacks. This makes characters such as Childe or Ayato pair well with her due to their Hydro application from their normal attacks. Not only that, but Beidou’s Burst can offer them protection from interruption and reduce the damage they take, which gives them more opportunity to attack within their rotations.
+Kazuha/Venti/Sucrose
+Also Read:
+Best Kazuha Build: Weapons, Artifacts & Team Comps
+Anemo users are great when it comes to causing swirl effect, especially in a taser team. Absorbing Hydro along with Beidou’s Burst can cause massive damage to enemies while grouping them up. One thing to note is that Sucrose does better since she is a catalyst. She can use Thrilling Tales of Dragon Slayers to boost the team’s damage or Sacrificial Fragments to generate particles to help Beidou keep her Burst up.
+Also Read:
+Best Venti Build: Weapons, Artifacts & Team Comps
+Yoimiya
+Yoimiya benefits from any support that buffs normal attacks. Beidou offers an Electro bounce with normal attacks with a bonus of interruption resistance, making her a good pair with Yoimiya. However, they are more situational pick since Overload reactions are not as strong as other reactions. One situation is enemies with Geo shield since Overload breaks them very easily.
+Bennet
+t
+Most of Beidou’s comps do not have a dedicated healer, but rather a free spot. Bennett can be one of the best characters to fill that free spot due to his attack buff along with his field’s heal. In a typical rotation, Beidou should use her Burst on Bennett’s field to maximize its potential.
+Also Read:
+Best Bennett Build: Weapons, Artifacts & Team Comps
+Constellation
+Sea Beast’s Scourge
+After using the Elemental Burst, Beidou grants a shield for 15 seconds that scales with 16% of Beidou’s maximum HP
+Upon the Turbulent Sea, the Thunder Arises
+The lightning from Beidou’s Burst can jump to 2 more enemies
+Summoner of Storm
+Increases the level of the Elemental Skill by 3 and the maximum level to 15
+Stunning Revenge
+When attacked, Beidou gains 20% Electro damage to her normal attacks for 10 seconds
+Crimson Tidewalker
+Increases the level of the Elemental Burst by 3 and the maximum level to 15
+Bane of Evil
+While Beidou’s Burst is up, surrounding enemies’ Electro resistance is reduced by 15%
+In terms of constellation, Beidou has three different constellations that are important depending on her build. For her support build, the second constellation is very important to maximize her damage, especially in a taser team.
+As for her fourth constellation, it is very important for her sub-DPS build since her perfect counter can activate it and it allows her to deal massive damage with her normal attacks. Finally, the sixth constellation is very beneficial for both builds. Overall,
+Beidou’s true potential lies in her sixth constellation.
+Overall, Beidou is a flexible character that can fit in multiple roles and is fairly easy to build in comparison to other characters. She can fit in different team comps and work effectively in all of them if buit properly.
+At her full potential, Beidou can be a wonderful support due to her offensive and defensive buffs. She can enable her teammates to deal massive damage while protecting them at the same time, making her a great investment even though she needs the sixth constellation.
+All image copyrights belong to
+Mihoyo
+,
+Genshin Impact fandom
+, and
+Genshin honeyhunterworld.

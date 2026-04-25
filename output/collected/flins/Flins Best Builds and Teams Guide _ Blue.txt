@@ -1,0 +1,289 @@
+Flins Best Builds and Teams Guide | BlueStacks
+Features
+All
+Game Controls
+Moments
+Multi-Instance
+Multi-Instance Sync
+Smart Controls
+Macros
+Native Gamepad Support
+Eco Mode
+Performance Modes
+Trim Memory
+Rerolling
+Real-time Translation
+Shooting Mode
+MOBA Mode
+Script
+High FPS
+High Definition Graphics
+UTC Converter
+Utility
+Games
+All
+Top Games
+Exclusive Games
+Action
+Role Playing
+Strategy
+Gamepad & Controller
+Adventure
+Arcade
+Card
+Casual
+Puzzle
+Racing
+Simulation
+Sports
+Word
+Blog
+Blog Home
+Games
+App Reviews
+Redeem Codes
+Inside BlueStacks
+BlueStacks Roundups
+News
+BlueStacks Videos
+Store
+%off
+Offers
+Support
+Download BlueStacks
+Games
+Home
+Games
+App Reviews
+Inside BlueStacks
+BlueStacks Roundups
+News
+Redeem Codes
+BlueStacks Videos
+Subscribe
+Home
+Games
+App Reviews
+Inside BlueStacks
+BlueStacks Roundups
+News
+Redeem Codes
+BlueStacks Videos
+Blog
+Games
+Genshin Impact
+Game Guides
+Genshin Impact – Flins Best Builds and Teams Guide
+Posted by:
+BlueStacks Content Team
+Editor’s Rating:
+Oct 10, 2025
+Play Genshin Impact on PC
+Flins is one of the most intricate characters
+Genshin Impact
+has introduced, combining Electro mastery with the unique Lunar-Charged reaction and Nod-Krai mechanics. As a 5-star Electro polearm user, Flins relies on chaining precise elemental reactions between Electro and Hydro to produce devastating bursts of damage. His playstyle emphasizes timing, rotation management, and synergy — rewarding players who build him with precision.
+Unlike traditional Electro carries who depend solely on Electro DMG bonuses, Flins scales through ATK, CRIT stats, and Elemental Mastery. His damage ceiling is extremely high but conditional on proper team building. When supported correctly — especially by other Nod-Krai characters like Ineffa — Flins becomes one of the strongest reaction-based
+DPS
+units in Genshin Impact.
+Understanding Flins’ Role and Playstyle
+Flins functions as an on-field reaction DPS, specializing in amplifying his own attacks through Lunar-Charged effects. His Elemental Skill lets him enter an empowered state that infuses his attacks with Electro, while his Elemental Burst unleashes massive AoE damage and recharges his Moonsign stacks. Both abilities scale heavily with his ATK and Elemental Mastery, making stat balance critical.
+The Moonsign system is central to his kit. When Flins teams up with other Nod-Krai characters, his damage bonuses stack further, granting enhanced reaction multipliers. Without these allies, his power dips noticeably, so building around Nod-Krai synergy is crucial.
+In practice, Flins rewards tight rotations and situational awareness. Proper sequencing of Hydro and Electro applications keeps his Lunar-Charged uptime consistent and ensures that his burst windows hit at full potential.
+Talent Priority and Constellations
+When investing in Flins, Elemental Burst should be the first priority as it provides both high burst potential and passive energy return. Elemental Skill follows closely, extending his uptime in Manifest Flame mode and enabling frequent reactions. Normal Attacks are less impactful and can be upgraded last.
+His passive talent, Whispering Flame, converts a percentage of ATK into Elemental Mastery, letting you build offensively without sacrificing reaction scaling.
+Flins’ early constellations are especially impactful. C1 reduces cooldowns and improves energy efficiency, while C2 adds
+AoE
+Electro damage and reduces enemy Electro resistance. C4 grants an ATK boost and increases EM scaling, and C6 empowers all Lunar-Charged reactions teamwide. Even at C0, however, Flins remains highly functional when properly supported.
+Best Weapons for Flins
+Flins’ weapon choice determines much of his consistency and scaling. He benefits from CRIT stats, EM, and ATK-based effects that align with his reaction-heavy kit. His signature weapon remains the best, but there are strong contenders for every rarity.
+Top 5-Star Options:
+Bloodsoaked Ruins (Signature Weapon):
+Provides CRIT Rate, boosts Lunar-Charged damage, and restores energy after Burst — his best-in-slot.
+Staff of Scarlet Sands:
+Converts EM to ATK and enhances reaction scaling; ideal for hybrid builds.
+Staff of Homa:
+Offers CRIT DMG and ATK boost at low HP, excellent for risk-takers.
+Fractured Halo:
+Great for Nod-Krai-focused teams that rely on Moonsign synergy.
+4-Star Options:
+Deathmatch:
+Reliable CRIT Rate and ATK bonus for consistent uptime.
+Ballad of the Fjords:
+Boosts CRIT Rate when multiple elements are present — perfect for reaction teams.
+Prospector’s Drill:
+Viable budget choice for balanced scaling.
+Balancing weapon choice with artifact stats is essential. If your weapon offers CRIT Rate, you can lean into CRIT DMG on your artifacts — and vice versa.
+Best Artifact Sets and Stats
+Flins’ optimal artifact set is Night of the Sky’s Unveiling (4-piece), designed to enhance Elemental Mastery and amplify reaction damage when allies trigger elemental effects nearby. This set synergizes perfectly with his kit, boosting both consistency and burst potential.
+If unavailable, Gilded Dreams (4-piece) is an excellent alternative, increasing EM and granting conditional ATK bonuses based on team composition. For early progression, Wanderer’s Troupe also works, especially when focusing on EM scaling. Players can mix Gilded Dreams (2-piece) with Gladiator’s Finale (2-piece) to balance ATK and EM efficiently.
+When it comes to stats:
+Sands:
+ATK% or EM (depending on weapon and ER needs)
+Goblet:
+ATK% (Electro DMG is less effective due to reaction scaling)
+Circlet:
+CRIT Rate or CRIT DMG (whichever keeps your ratio near optimal)
+Substats should prioritize CRIT Rate, CRIT DMG, and Elemental Mastery, followed by ATK% and enough Energy Recharge (~130%) for consistent Bursts.
+An ideal stat line would give Flins around 65–70% CRIT Rate, 180–200% CRIT DMG, 2,100 ATK, and moderate EM (250–350). This balance keeps both direct hits and reactions strong.
+Best Flins Teams and Synergies
+Flins thrives in Lunar-Charged reaction teams built around Electro and Hydro interplay. His performance improves drastically when accompanied by Nod-Krai allies that enable Moonsign scaling.
+Optimal Team (High-Investment):
+Flins (Main DPS)
+– Triggers and sustains Lunar-Charged reactions.
+Ineffa (Support/Shield)
+– Provides Moonsign synergy and survivability.
+Sucrose (Anemo Support)
+– Boosts EM, spreads Hydro/Electro, and shreds resistance.
+Aino or Yelan (Hydro Sub DPS)
+– Applies Hydro continuously for reaction uptime.
+This setup creates the most consistent reaction loop. Start with Ineffa’s shield, apply Hydro with Yelan or Aino, then swirl with Sucrose before switching to Flins for burst execution.
+F2P Team (Budget-Friendly):
+Flins
+Aino
+(Hydro support and Moonsign synergy)
+Fischl
+(Electro battery and off-field DPS)
+Kazuha or Lan Yan
+(crowd control and resistance shred)
+This composition delivers steady performance while remaining resource-efficient. Though slightly less powerful without Ineffa’s shielding, it remains reliable across most content.
+Tips for Playing Flins Effectively
+To get the best out of Flins, focus on maintaining reaction consistency and burst uptime. Always ensure Hydro application precedes your Electro attacks to trigger Lunar-Charged reliably. Time Sucrose or Kazuha’s abilities before Flins’ Burst to maximize resistance shred and EM buffs.
+Avoid overstacking Elemental Mastery beyond its effective threshold — once you have around 300–350 EM, shift focus to CRIT and ATK. Keep his Energy Recharge above 120% for smooth rotations and avoid long downtimes between Bursts. Lastly, practice quick-swapping through supports before activating Flins’ Manifest Flame mode to ensure all buffs are active during his main damage phase.
+Flins stands as one of the most rewarding DPS characters in Genshin Impact for players who enjoy managing reactions and team coordination. His Lunar-Charged mechanic bridges Electro and Hydro into a powerful, visually striking combat style that demands both skill and understanding. When supported by synergistic allies like Ineffa, Yelan, and Sucrose, Flins’ potential skyrockets — making him a formidable carry in both single-target and AoE scenarios.
+While his kit demands precision and investment, mastering Flins transforms him from a technical experiment into a powerhouse capable of top-tier performance in the Spiral Abyss and beyond. For the best gaming experience,
+play Genshin Impact on BlueStacks!
+Keep progressing in Genshin Impact with our other in-depth guides.
+Lisa Guide – The Scholar of Electro Powerplay in Genshin Impact
+Genshin Impact Venti Guide – Advanced Builds, Talents, Team Synergy & Abyss Strategy
+Arlecchino Build Guide – Mastering Genshin Impact’s Pyro Harbinger
+Genshin Impact Weapon Tier List Best Choices for Every Role
+Play Genshin Impact on PC
+You Might Like These
+News
+Sep 08, 2021
+Genshin Impact: Promise Of A People’s Dream Teaser Trailer
+News
+Jul 09, 2021
+Genshin Impact 2.0 : Release Date, New Characters, New Weapons, And More
+Updates
+Mar 09, 2021
+Genshin Impact Gets a New Form With Update 1.4
+BlueStacks Videos
+Oct 30, 2020
+Play Among Us(Mobile) on PC with BlueStacks for the Added Advantage
+Oct 30, 2020
+Top Android Games to Play this Halloween on BlueStacks
+Oct 16, 2020
+How to Play Final Fate TD on PC with BlueStacks
+View All
+Tags
+Tips and Tricks
+Role Playing
+RPG
+BlueStacks X
+Play Genshin Impact on PC
+Genshin Impact - FAQs
+What is the best weapon for Flins in Genshin Impact?
+The best weapon for Flins is Bloodsoaked Ruins, his signature polearm. It enhances CRIT Rate, increases Lunar-Charged damage after using Burst, and improves energy recovery.
+Which artifact set should I use for Flins in Genshin Impact?
+The Night of the Sky’s Unveiling (4-piece) set is ideal. It boosts Elemental Mastery and reaction damage, maximizing his synergy with Hydro teammates.
+What is Flins’ best team composition in Genshin Impact?
+The optimal lineup includes Flins, Ineffa, Sucrose, and Yelan or Aino for maximum reaction uptime and team buffs.
+Is Flins good at C0 in Genshin Impact?
+Yes, Flins performs excellently at C0, but his C1 and C2 constellations provide smoother rotations and higher damage efficiency.
+What stats should I focus on for Flins in Genshin Impact?
+Prioritize CRIT Rate, CRIT DMG, and ATK%, followed by Elemental Mastery and Energy Recharge for reaction consistency.
+Can Flins work without Nod-Krai allies in Genshin Impact?
+Yes, but he loses Moonsign synergy and some reaction bonuses. Without Ineffa or Aino, his damage potential drops slightly but remains viable with good artifact tuning.
+BlueStacks Roundups
+Jan 13, 2026
+Top 5 Free AI Image Generator Apps You Can Run on PC with BlueStacks
+Dec 03, 2025
+Top 10 Most Addictive Puzzle & Word Games of 2026
+Nov 26, 2025
+Top Android Games to Play on PC (2026)
+News
+Jan 16, 2026
+Truly Epic Doomsday: Last Survivors x Attack on Titan Collab Launched
+Jan 07, 2026
+Pre-register to Get an SSSR Mount! Stickman GO, the Viral Idle MMO Across Asia, Is Launching Soon in Europe and America!
+Dec 29, 2025
+Isekai Slow Life x Miss Kobayashi’s Dragon Maid Collaboration Returns in 2025
+Games. Guides. Trends. And more. Delivered to your inbox weekly.
+Subscribe
+By Clicking on Subscribe I agree to receive weekly updates from the BlueStacks Blog
+Thank You!
+Check out your inbox to confirm your invite.
+Get access to the most comprehensive gaming content in our weekly newsletter.
+Games. Guides. Trends. And more. Delivered to your inbox weekly.
+Subscribe
+By Clicking on Subscribe I agree to receive weekly updates from the BlueStacks Blog
+Thank You!
+Check out your inbox to confirm your invite.
+Play your favorite Android games on PC.
+Download BlueStacks
+Home
+Blog
+Games
+Genshin Impact
+Products
+BlueStacks Prime
+BlueStacks Mac
+BlueStacks 5
+Bluestacks AI
+Store
+nowBux
+Android 13
+PlayPal
+Games
+All Games
+Top Games
+Cloud Games
+Action
+Adventure
+Arcade
+Puzzle
+Racing
+Role Playing
+Simulation
+Sports
+Strategy
+Features
+All Features
+Game Controls
+Shooting Mode
+Moba Mode
+Multi-Instance
+Multi-Instance Sync
+Macros
+Eco Mode
+Real-time Translation
+Smart Controls
+Rerolling
+Performance Modes
+Trim Memory
+Script
+High FPS
+High Definition
+Utility
+UTC Converter
+About
+About BlueStacks
+Contact Bluestacks
+Careers
+Press
+Knowledge
+Play Android Games on PC
+What is an Android Emulator
+Gaming Glossary
+Support
+Update
+Follow us on
+Subscribe
+YouTube
+145K
+© 2026 BlueStacks name and logo are registered trademarks of now.gg, inc
+Terms and Privacy
+Copyright Dispute Policy
+EU Privacy

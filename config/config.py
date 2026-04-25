@@ -106,6 +106,47 @@ T_MAX = 30
 EARLY_STOP_DROP_RATIO = 0.05
 EARLY_STOP_STREAK = 3
 
+
+
+
+
+
+
+COLLECT_SETTINGS = {
+    "MAX_WORKERS": 4,
+    "SEARCH_RESULT_LIMIT": 10,
+    "MAX_DOCS_PER_CHARACTER": 8,
+    "MIN_TEXT_LENGTH": 300,
+    "SAVE_RAW_TEXT": True,
+
+    "IGNORE_KEYWORDS": [
+        "privacy policy",
+        "cookie",
+        "login",
+    ],
+
+    "BLOCK_SITES": [
+        "youtube",
+        "tistory",
+        "blog",
+    ],
+
+    # 🔽 추가
+    "SEARCH_KEYWORDS": [
+        "guide",
+        "build",
+        "rotation",
+        "team",
+        "weapon",
+        "artifact",
+    ],
+
+    "SEARCH_SUFFIXES": [
+        "genshin",
+        "dps",
+        "best build",
+    ],
+}
 # =========================================
 # 초기 폴더 생성 함수
 # =========================================

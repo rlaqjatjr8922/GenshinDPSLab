@@ -1,0 +1,196 @@
+Genshin Impact Kokomi Build
+Hydro
+Catalyst
+Support
+Kokomi Upgrade Materials
+Transience
+Hellfire Butterfly
+Varunada Lazurite Sliver
+Dew of Repudiation
+Sango Pearl
+Spectral Husk
+Kokomi Best Weapons
+1
+Thrilling Tales of Dragon Slayers
+2
+Prototype Amber
+3
+Hakushin Ring
+4
+Sacrificial Fragments
+5
+Everlasting Moonglow
+Kokomi Best Artifacts
+1
+Tenacity of the Millelith
+4
+2
+Ocean-Hued Clam
+4
+3
+Maiden Beloved
+4
+4
+Ocean-Hued Clam
+2
+Tenacity of the Millelith
+2
+5
+Maiden Beloved
+2
+Ocean-Hued Clam
+2
+Kokomi Best Stats
+Sands:
+HP% / Energy Recharge
+Goblet:
+HP%
+Circlet:
+HP% / Healing Bonus
+Substats:
+Energy Rechage > HP% > ATK%
+Character Builds by Genshin Impact Helper →
+Showcase
+Teams
+Talents
+Passives
+Constellations
+Ascension
+Kokomi Showcase
+Kokomi video guide by
+Braxophone
+.
+Check out his content!
+Best Kokomi Teams
+Nilou Bloom
+Ayaka Freeze
+Kokomi Electro-Charged
+Kokomi Talents
+Normal Attack
+The Shape of Water
+Normal Attack Performs up to 3 consecutive attacks that take the form of swimming fish, dealing
+Hydro
+DMG. Charged Attack Consumes a certain amount of Stamina to deal AoE
+Hydro
+DMG after a short casting time. Plunging Attack Gathering the might of Hydro, Kokomi plunges towards the ground from mid-air, damaging all opponents in her path. Deals AoE
+Hydro
+DMG upon impact with the ground.
+Elemental Skill
+Kurage's Oath
+Summons a "bake-kurage" created from water that can heal her allies. Using this skill will apply the Wet status to Sangonomiya Kokomi. Bake-Kurage Deals
+Hydro
+DMG to surrounding opponents and heal nearby active characters at fixed intervals. This healing is based on Kokomi's Max HP.
+Elemental Burst
+Nereid's Ascension
+The might of Watatsumi descends, dealing
+Hydro
+DMG to surrounding opponents, before robing Kokomi in a Ceremonial Garment made from the flowing waters of Sangonomiya. Ceremonial Garment Sangonomiya Kokomi's Normal Attack, Charged Attack and Bake-Kurage DMG are increased based on her Max HP. When her Normal and Charged Attacks hit opponents, Kokomi will restore HP for all nearby party members, and the amount restored is based on her Max HP. Increases Sangonomiya Kokomi's resistance to interruption and allows her to move on the water's surface. These effects will be cleared once Sangonomiya Kokomi leaves the field.
+Passive
+Flawless Strategy
+Sangonomiya Kokomi has a 25% Healing Bonus, but a 100% decrease in CRIT Rate.
+Kokomi Passives
+Ascension 1
+Tamanooya's Casket
+If Sangonomiya Kokomi's own Bake-Kurage are on the field when she uses Nereid's Ascension, the Bake-Kurage's duration will be refreshed.
+Ascension 4
+Song of Pearls
+While donning the Ceremonial Garment created by Nereid's Ascension, the Normal and Charged Attack DMG Bonus Sangonomiya Kokomi gains based on her Max HP will receive a further increase based on 15% of her Healing Bonus.
+Passive
+Princess of Watatsumi
+Decreases swimming Stamina consumption for your own party members by 20%. Not stackable with Passive Talents that provide the exact same effects.
+Kokomi Constellations
+Constellation 1
+At Water's Edge
+While donning the Ceremonial Garment created by Nereid's Ascension, the final Normal Attack in Sangonomiya Kokomi's combo will unleash a swimming fish to deal 30% of her Max HP as
+Hydro
+DMG. This DMG is not considered Normal Attack DMG.
+Constellation 2
+The Clouds Like Waves Rippling
+Sangonomiya Kokomi gains the following Healing Bonuses with regard to characters with 50% or less HP via the following methods: Kurage's Oath Bake-Kurage: 4.5% of Kokomi's Max HP. Nereid's Ascension Normal and Charged Attacks: 0.6% of Kokomi's Max HP.
+Constellation 3
+The Moon, A Ship O'er the Seas
+Increases the Level of Nereid's Ascension by 3. Maximum upgrade level is 15.
+Constellation 4
+The Moon Overlooks the Waters
+While donning the Ceremonial Garment created by Nereid's Ascension, Sangonomiya Kokomi's Normal Attack SPD is increased by 10%, and Normal Attacks that hit opponents will restore 0.8 Energy for her. This effect can occur once every 0.2s.
+Constellation 5
+All Streams Flow to the Sea
+Increase the Level of Kurage's Oath by 3. Maximum upgrade level is 15.
+Constellation 6
+Sango Isshin
+While donning the Ceremonial Garment created by Nereid's Ascension, Sangonomiya Kokomi gains a 40%
+Hydro
+DMG Bonus for 4s after her Normal and Charged Attacks heal a character with 80% or more HP.
+Kokomi Ascension Costs
+Rank
+Lvl
+Cost
+Material
+Material
+Material
+Material
+1
+20
+20000
+1
+Varunada Lazurite Sliver
+3
+Sango Pearl
+3
+Spectral Husk
+2
+40
+40000
+3
+Varunada Lazurite Fragment
+2
+Dew of Repudiation
+10
+Sango Pearl
+15
+Spectral Husk
+3
+50
+60000
+6
+Varunada Lazurite Fragment
+4
+Dew of Repudiation
+20
+Sango Pearl
+12
+Spectral Heart
+4
+60
+80000
+3
+Varunada Lazurite Chunk
+8
+Dew of Repudiation
+30
+Sango Pearl
+18
+Spectral Heart
+5
+70
+100000
+6
+Varunada Lazurite Chunk
+12
+Dew of Repudiation
+45
+Sango Pearl
+12
+Spectral Nucleus
+6
+80
+120000
+6
+Varunada Lazurite Gemstone
+20
+Dew of Repudiation
+60
+Sango Pearl
+24
+Spectral Nucleus
+Loading...

@@ -1,0 +1,164 @@
+Genshin Impact
+Guides
+Genshin Impact
+Characters
+Guides
+Genshin Impact Cyno Guide: Best Build, Artifacts, Weapons, Teams, and More
+Ethers
+October 5, 2022
+∙
+11
+Min read
+Cyno Guide
+In this article, I’ll be going over everything you need to know about Cyno, including his playstyle, best artifacts, weapons, teams, and more.
+Cyno is an Electro Polearm user that functions as an on-field carry focused on his Normal Attack/Elemental Skill DMG during his burst duration in order to maximize his damage.
+Active Talents
+Normal Attack – Invoker’s Spear
+Fairly standard attack string performing up to four consecutive spear strikes. It is recommended to prioritize this talent last. While Cyno’s Normal Attacks during his burst is still counted as Normal Attack Damage, those Normal Attacks still scale off of his Elemental Burst talent level.
+Elemental Skill – Secret Rite: Chasmic Soulfarer
+Upon casting, Cyno thrusts forward, dealing Electro DMG to opponents along the path. When Cyno is under his burst state (Pactsworn Pathclearer), this skill will deal AoE Electro DMG upon cast and extend the duration of your burst (4s increase). The cooldown of this skill outside of his burst state is 7.5s and 3s while used during his burst. This skill becomes even more relevant when taking Cyno’s A1 passive into account which I will get into the passive section.
+Elemental Burst – Sacred Rite: Wolf’s Swiftness
+Enters the Pactsworn Pathclearer state which converts your Normal, Charged, and Plunging Attacks to Electro DMG and cannot be overridden. Cyno will gain interruption resistance and an increase in Elemental Mastery (100) while gaining immunity to Electro-Charged DMG. The maximum duration of Cyno’s burst state is 18s and will be canceled when Cyno leaves the field.
+This talent is what enables Cyno to function as an on-field carry. It is highly recommended to prioritize this talent (along with your skill) due to the Pactsworn Pathclearer state being most, if not all of Cyno’s damage. Note that your Normal Attacks in this state are still considered Normal Attack DMG, which can benefit from DMG% buffs such as 4pc Gladiator, etc.
+Cyno Talent Priority
+Here’s a quick talent priority for Cyno.
+Elemental Burst = Elemental Skill > Normal Attack
+Character Best Combos
+While I will be mentioning combo options, there are many factors to take into account when executing said combos. Dodging, getting interrupted, stagger, low vs high hitlag opponents on top of the timing/variations that come from the 4 pc Thundering Fury set bonus are all very relevant factors to keep in mind.
+Basically, Cyno combos will require you to situationally adapt depending on the type of content you are facing in order to reliably proc his A1 passive and also require Elemental Skill management to make sure you have your skill available during your Endseer stance window.
+That being said, here are some combos to refer to:
+Notation:
+N = Normal Attack
+# = Number of Normal Attacks within the string
+E = Elemental Skill
+Q = Elemental Burst
+a1 = Endseer interval
+(Example: N5E = 5 hit Normal Attack sequence followed by Elemental Skill)
+Safe Generalist Combo (non TF):
+E Q > N3E > N5E (a1) > N5E >  N2E(a1) > N5E (a1)
+Thundering Fury Combo:
+E Q E > N4E > N4E (a1) > N4E > N4E (a1) > N5E (a1) > N4E
+Please take these combos with a grain of salt, as the many situational factors mentioned previously can limit your combo execution.
+TLDR;
+just make sure you prioritize executing his A1 passive during his burst.
+Passive Talents
+Ascension Stat
+As you ascend Cyno, he will gain
+Crit DMG.
+1st Ascension: Featherfall Judgment
+When Cyno is in the Pactsworn Pathclearer state activated by Sacred Rite: Wolf’s Swiftness, Cyno will enter the Endseer stance at intervals. If he activates Secret Rite: Chasmic Soulfarer while affected by this stance, he will activate the Judication effect, increasing the DMG of this Secret Rite: Chasmic Soulfarer by 35%, and firing off 3 Duststalker Bolts that deal 100% of Cyno’s ATK as Electro DMG. Duststalker Bolt DMG is considered Elemental Skill DMG.
+This passive provides Cyno with a much more unique/interactive playstyle while making your Elemental Skill significantly relevant in your combos. Since Duststalker Bolts are considered Elemental Skill DMG, this makes your skill valuable enough to level equally along with your Burst.
+Regarding the Endseer intervals, this makes your Elemental Skill cast management much more important, especially with the 4pc Thundering Fury set bonus. You ideally want to proc this passive every time you enter his Endseer stance on top of casting your skill outside of these stances, making Cyno’s DMG output highly reliant on your timing ability in order to maximize his DPS. Factoring in dodging/ getting interrupted, you can completely miss Endseer stances and lose damage which is something to keep in mind when playing Cyno.
+4th Ascension: Authority Over the Nine Bows
+Cyno’s DMG values will be increased based on his Elemental Mastery as follows:
+Normal Attack DMG in your burst state is increased by 125% of his Elemental Mastery
+Duststalker Bolt DMG from his 1st Ascension passive is increased by 250% of his Elemental Mastery
+Very straightforward passive. Gives Cyno more appreciable synergy with the Elemental Mastery stat.
+Utility Passive: The Gift of Silence
+Gains 25% more rewards when dispatched on a Sumeru Expedition for 20 hours.
+Constellations
+As always for constellations, every 5 star unit is completely functional at c0. Constellations in general and what they offer are far from needed. Cyno’s constellations – along with other 5 stars – usually translate to slight increases in damage/ clear time or quality of life aspects.
+Do keep in mind constellation value takes into account the value you lose going for another copy of the character rather than a completely different character that could impact your account far more than a constellation would.
+C1: Low Impact
+C2: Medium Impact
+C3: Low Impact
+C4: Low Impact
+C5: Low Impact
+C6: Low/ Medium Impact
+Constellation 1: Ordinance: Unceasing Veil
+After using Sacred Rite: Wolf’s Swiftness, Cyno’s Normal Attack SPD will be increased by 20% for 10s. If the Judication effect of his Passive Talent Featherfall Judgment is triggered during Secret Rite: Chasmic Soulfarer, the duration of this increase will be refreshed. You need to unlock the Passive Talent “Featherfall Judgment.”
+A quality of life constellation for the most part and mainly offering smoother combo execution.
+Constellation 2: Ceremony: Homecoming of Spirits
+When Cyno’s Normal Attacks hit opponents, his Electro DMG Bonus will increase by 10% for 4s. This effect can be triggered once every 0.1s. Max 5 stacks.
+This constellation offers quite the damage boost. Very straightforward as it is just more damage.
+Constellation 3: Precept: Lawful Enforcer
+Increases the Level of Sacred Rite: Wolf’s Swiftness by 3. Maximum upgrade level is 15.
+Constellation 4: Austerity Forbidding Guard
+When Cyno is in the Pactsworn Pathclearer state triggered by Sacred Rite: Wolf’s Swiftness, after he triggers Electro-Charged, Superconduct, Overloaded, Quicken, Aggravate, Hyperbloom, or an Electro Swirl reaction, he will restore 3 Elemental Energy for all nearby party members (except himself.) This effect can occur 5 times within one use of Sacred Rite: Wolf’s Swiftness.
+Another quality of life constellation that gives Cyno the ability to restore energy for his team. Not worth the quality of life for a fairly high constellation.
+Constellation 5: Funerary Rite: The Passing of Starlight
+Increases the Level of Secret Rite: Chasmic Soulfarer by 3.
+Maximum upgrade level is 15.
+Constellation 6: Raiment: Just Scales
+After using Sacred Rite: Wolf’s Swiftness or triggering the Judication effect of the Passive Talent “Featherfall Judgment,” Cyno will gain 4 stacks of the “Day of the Jackal” effect. When he hits opponents with Normal Attacks, he will consume 1 stack of “Day of the Jackal” to fire off one Duststalker Bolt. “Day of the Jackal” lasts for 8s. Max 8 stacks. It will be canceled once Pactsworn Pathclearer ends. A maximum of 1 Duststalker Bolt can be unleashed this way every 0.4s.
+You must first unlock the Passive Talent “Featherfall Judgment.”
+Another constellation offering a strong damage boost for Cyno. It effectively allows you to fire off Duststalker Bolts through his Normal Attacks in addition to the 3 Duststalker Bolts coming from his Elemental Skill.  Again, mostly translates to faster clear times.
+Playstyle
+Cyno is a fairly straightforward on-field carry that takes up a generous amount of field time. He mainly functions as an Aggravate carry or an on-fielder in Electrocharged comps.
+Off-field supports such as Fischl, Beidou, Xingqiu, etc pair great with him along with making use of external sources of buffs from teammates such as Instructors or Noblesse, etc. He has quite the interactive playstyle which could be a fun factor for some.
+Artifacts
+4 pc Gilded Dreams
+Great generalist set for Cyno. A versatile option that grants him stats based on the elemental composition of his team. An almost unconditional set that you can benefit from no matter what team you decide to put him in.
+4 pc Thundering Fury
+One of Cyno’s most optimal sets and adds a slight amount of depth when executing his combos. Due to the 4 set bonus, it requires you to manage his additional Elemental Skill casts while making sure you are able to reliably proc his A1 passive for each Endseer stance. Certain enemy attack patterns along with being susceptible to interruption/ stagger can grief your interval timings assuming you are also maximizing his non A1 skill casts.
+4 pc Thundersoother
+An exceptional set in theory under optimistic assumptions, however factors exist that can make meeting the conditions of the passive quite unreliable. External Auras from multiple sources (enemies, teammates, etc.) and many other factors can significantly lower this set’s potential. Not recommended to farm this set for Cyno specifically.
+4 pc Gladiator
+A solid alternative with a completely unconditional passive along with an ease of access factor. If you do not have any of the aforementioned 4 pieces, Cyno can make use of the Normal Attack DMG % while in his burst state, making this a viable option.
+Main Stats
+Circlet:
+Crit Rate/DMG
+Sands:
+ATK%/Elemental Mastery
+Goblet:
+Electro DMG Bonus
+Regarding your sands main stat, it’s mostly substat dependent. However EM is generally preferred with a low base ATK weapon while ATK% main stat is preferred with a high base ATK weapon. If you have his signature weapon, an EM sands is usually preferred. As always, do take into account external sources of buffs such as teammates and their supporting sets when optimizing your builds.
+Sub Stats
+Here’s the order of sub stats to prioritize:
+Energy Recharge (Up until requirement)
+Crit Rate/DMG
+Elemental Mastery/ATK%
+Energy Recharge
+Non 4TF with Fischl: 120
+Non 4TF with other Electro (Beidou etc): 140+
+Solo Electro: 160 – 180
+Weapons
+5-Star Weapons
+Staff of Scarlet Sands
+Best in slot weapon and eclipses other alternatives in terms of damage. Quite literally a weapon that is made for him and benefits from the passive extremely well.
+Primordial Jade Winged Spear
+Offers a high base ATK and appreciable Crit Rate. Cyno is able to utilize the stacks fairly easily while giving you ATK% as well as DMG%. His 2nd best 5 star option, albeit being a significant downgrade from Staff of Scarlet Sands
+Staff of Homa
+High Crit stat stick but an unreliable passive. Slightly worse than Primordial Jade Winged Spear and marginally better than R5 White Tassel.
+Skyward Spine
+At r1 it is worse than white tassel. At r5 it is marginally better. Gives you much appreciated ER, high base atk, and crit. However, the ATK speed that it provides is negligible at c0.
+4/3 Star Weapons
+White Tassel
+Hands down one of Cyno’s best f2p/non 5 star options. Offers a completely unconditional passive on top of the relevant Crit stat/DMG% it gives at r5. Only beaten by high refinement 4 star weapons with harder access. Very comparable to Staff of Homa. Hopefully you didn’t fodder this one!
+Deathmatch
+Can be used but not worth to use on Cyno at r1 vs r5 White tassel as they are very similar. Even at r5, Deathmatch is marginally better. Save ur money!!
+Kitain Cross Spear
+Another true f2p option with a passive that allows for Cyno to potentially forgo a battery. Cyno is able to proc passive twice during his DMG window but it is still worse than white tassel in standard double Electro even when assuming conditions are met. Refinements are negligible.
+Favonius Lance
+While a strong weapon in general, it is quite niche on Cyno due to low personal damage while changing his role to a driver mainly on EC comps while providing teamwide value in particle generation. Nonetheless, still a weapon always worth mentioning especially once we get into the team sections.
+Teams
+Cyno Aggravate Carry
+One of the ideal ways to play Cyno where he is able to constantly Aggravate during his burst duration. Composed of Cyno, another electro, a Dendro unit, and flex slot.
+Fishcl/Beidou/Kuki are solid options for your Electro slot. Your Dendro unit as of now is most likely Dendro Traveler. And your flex slot could be a VV unit/grouper or shielder.
+Something worth noting is that shielding/damage reduction on Cyno provides value in making sure you are able to execute your combos optimally and reliably.
+You could also go solo Electro Cyno, however, do note that he would have a much higher ER requirement. That being said the main idea of this team is setting up buffs/ auras for Cyno’s aggravate damage during his combo window.
+Keep in mind, our current Dendro options are quite limited at the moment and future characters could increase the potency of this team and its variants. As of now, the current strength of this team is fairly unknown. If I had to decide, this team is nowhere near top meta but more of a sub optimal alternative, which is a theme for most of Cyno’s comps in general.
+Cyno EC (Electrocharged)
+A team composed of Cyno, Beidou, Xingqiu, and Kazuha. A team I have personally delved into in which Cyno performs well in driving Xingqiu/Beidou along with Kazuha providing CC/double VV shred.
+This team boasts AoE potential and much smoother rotations compared to aggravate, in exchange for less Cyno field time. Burst uptime is also slightly mitigated due to assuming Favonius weapons on Cyno/Kazuha.
+In testing against 2-3 target scenarios, the rotations line up relatively well provided you refresh your rotation after Cyno’s 2nd/3rd A1 proc. Overall, I find this team to be potentially one of Cyno’s strongest teams currently in AoE/ Multi target situations.
+Example Rotation (non 4TF):
+XQ E, Q, N1E > Beidou Q, E > Kazuha N1 Q > Cyno  E Q > N3E > N5E (a1) > N5E >  N2E(a1) > N3E > repeat OR > N5E (a1) for another A1
+Assumptions:
+2-3 target 3.0 Abyss 12-1-1/ 12-3-1 [3x Ruin Drake/ 3x Bathysmal Vishaps]
+Favonius Lance C0 Cyno, 2pc TF/2pc EM
+Favonius Sword Kazuha
+C6 Beidou 180-200 ER, ER claymore
+Sac Sword XQ
+This team performed at the very least similarly if not better than a Cyno Aggravate team (Fischl/Kazuha/DMC) with his signature weapon and the same targets.
+Cyno National
+Unironically one of Cyno’s better teams but mainly due to the national core instead of Cyno. I almost didn’t put this in here due to the national core being so strong to the point where you can pair this core with any character and it’ll just work.
+I wouldn’t recommend it if you want Cyno to shine but it is still a strong option. Keep in mind this team takes up top tier units which you ideally would want to split between both sides of the abyss.
+Summary
+Overall, Cyno is quite the average unit with a potential fun factor to his kit regarding his Endseers. If you enjoy on-field carries that deal the majority of team damage, you might enjoy him!
+From a meta perspective, Cyno is nowhere near top meta (as of now) not because of himself necessarily, but due to the sheer strength of existing teams.
+In specific Abyss rotations requiring Electro, (current 3.1 12-3-2) he obviously performs well. In general however, he is more so a decent alternative along with being one of few on-field aggravate carries in the game.
+Genshin Impact
+Characters
+Guides
+0

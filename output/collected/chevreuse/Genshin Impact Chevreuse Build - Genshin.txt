@@ -1,0 +1,208 @@
+Genshin Impact Chevreuse Build
+Pyro
+Polearm
+Support
+Chevreuse Upgrade Materials
+Order
+Lightless Eye of the Maelstrom
+Agnidus Agate Sliver
+Fontemer Unihorn
+Lumidouce Bell
+Meshing Gear
+Chevreuse Best Weapons
+1
+Favonius Lance
+3
+Black Tassel
+4
+Rightful Reward
+5
+Prototype Starglitter
+Chevreuse Best Artifacts
+1
+Noblesse Oblige
+4
+2
+Ocean-Hued Clam
+4
+3
+Song of Days Past
+4
+4
+Tenacity of the Millelith
+2
+Vourukasha's Glow
+2
+5
+Ocean-Hued Clam
+2
+Tenacity of the Millelith
+2
+Chevreuse Best Stats
+Sands:
+HP%
+Goblet:
+HP%
+Circlet:
+HP%
+Substats:
+Energy Recharge > HP% > HP
+Character Builds by Genshin Impact Helper →
+Showcase
+Teams
+Talents
+Passives
+Constellations
+Ascension
+Chevreuse Showcase
+Chevreuse video guide by
+Zy0x
+.
+Check out his content!
+Best Chevreuse Teams
+Raiden Overload
+Yoimiya Overload
+Raiden Hypercarry
+Chevreuse Talents
+Normal Attack
+Line Bayonet Thrust EX
+Normal Attack Performs up to 4 consecutive spear strikes. Charged Attack Consumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way. Plunging Attack Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Elemental Skill
+Short-Range Rapid Interdiction Fire
+Chevreuse quickly shoulders her musket and fires at her opponent(s), dealing AoE
+Pyro
+DMG. For a short duration after Chevreuse fires a shot, she will continuously restore HP to the active character on the field. The amount healed is based on her Max HP. Hold to fire in a different fashion. Hold Enter Aiming Mode, locking a target in her sights to fire a precise interdiction shot. If Chevreuse has an Overcharged Ball, then she will fire the Overcharged Ball instead, dealing greater
+Pyro
+DMG in a larger area. Chevreuse gains 1 Overcharged Ball every time a nearby character in the party triggers an Overloaded reaction, and can have up to 1 Overcharged Ball at a time. Arkhe: Ousia Periodically, after Chevreuse's Short-Range Rapid Interdiction Fire hits, a Surging Blade will be called forth that deals Ousia-aligned
+Pyro
+DMG.
+Elemental Burst
+Ring of Bursting Grenades
+Chevreuse fires an explosive grenade at opponents with her musket, dealing AoE
+Pyro
+DMG. After the projectile hits, it will split into many secondary explosive shells. The secondary explosive shells will burst after a short interval, dealing
+Pyro
+DMG to nearby opponents.
+Chevreuse Passives
+1st Ascension Passive
+Vanguard's Coordinated Tactics
+When all party members are
+Pyro
+and
+Electro
+characters and there is at least one
+Pyro
+and one
+Electro
+character each in the party: Chevreuse grants "Coordinated Tactics" to nearby party members: After a character triggers the Overloaded reaction, the
+Pyro
+and
+Electro
+RES of the opponent(s) affected by this Overloaded reaction will be decreased by 40% for 6s. The "Coordinated Tactics" effect will be removed when the Elemental Types of the characters in the party do not meet the basic requirements for the Passive Talent.
+4th Ascension Passive
+Vertical Force Coordination
+After Chevreuse fires an Overcharged Ball using Short-Range Rapid Interdiction Fire, nearby
+Pyro
+and
+Electro
+characters in the party gain 1% increased ATK for every 1,000 Max HP Chevreuse has for 30s. ATK can be increased by up to 40% in this way.
+Passive
+Double Time March
+Decreases sprinting Stamina consumption for your own party members by 20%. Not stackable with Passive Talents that provide the exact same effects.
+Chevreuse Constellations
+Constellation 1
+Stable Front Line's Resolve
+When the active character with the "Coordinated Tactics" status (not including Chevreuse herself) triggers the Overloaded reaction, they will recover 6 Energy. This effect can be triggered once every 10s. You must first unlock the Passive Talent "Vanguard's Coordinated Tactics."
+Constellation 2
+Sniper Induced Explosion
+After Holding Short-Range Rapid Interdiction Fire and hitting a target, 2 chain explosions will be triggered near the location where said target is hit. Each explosion deals
+Pyro
+DMG equal to 120% of Chevreuse's ATK. This effect can be triggered up to once every 10s, and DMG dealt this way is considered Elemental Skill DMG.
+Constellation 3
+Practiced Field Stripping Technique
+Increases the Level of Short-Range Rapid Interdiction Fire by 3. Maximum upgrade level is 15.
+Constellation 4
+The Secret to Rapid-Fire Multishots
+After using Ring of Bursting Grenades, the Hold mode of Short-Range Rapid Interdiction Fire will not go on cooldown when Chevreuse uses it. This effect is removed after Short-Range Rapid Interdiction Fire has been fired twice using Hold or after 6s.
+Constellation 5
+Enhanced Incendiary Firepower
+Increases the Level of Ring of Bursting Grenades by 3. Maximum upgrade level is 15.
+Constellation 6
+In Pursuit of Ending Evil
+After 12s of the healing effect from Short-Range Rapid Interdiction Fire, all nearby party members recover HP equivalent to 10% of Chevreuse's Max HP once. After a party member is healed by Short-Range Rapid Interdiction Fire, they gain a 20%
+Pyro
+DMG Bonus and
+Electro
+DMG Bonus for 8s. Max 3 stacks. Each stack's duration is counted independently.
+Chevreuse Ascension Costs
+Rank
+Lvl
+Cost
+Material
+Material
+Material
+Material
+1
+20
+20000
+1
+Agnidus Agate Sliver
+3
+Lumidouce Bell
+3
+Meshing Gear
+2
+40
+40000
+3
+Agnidus Agate Fragment
+2
+Fontemer Unihorn
+10
+Lumidouce Bell
+15
+Meshing Gear
+3
+50
+60000
+6
+Agnidus Agate Fragment
+4
+Fontemer Unihorn
+20
+Lumidouce Bell
+12
+Mechanical Spur Gear
+4
+60
+80000
+3
+Agnidus Agate Chunk
+8
+Fontemer Unihorn
+30
+Lumidouce Bell
+18
+Mechanical Spur Gear
+5
+70
+100000
+6
+Agnidus Agate Chunk
+12
+Fontemer Unihorn
+45
+Lumidouce Bell
+12
+Artificed Dynamic Gear
+6
+80
+120000
+Agnidus Agate Gemstone
+20
+Fontemer Unihorn
+60
+Lumidouce Bell
+24
+Artificed Dynamic Gear
+Loading...

@@ -1,0 +1,198 @@
+Clorinde Best Guide: Weapon, Artifacts, Teams In-Depth Guide - Genshin Impact
+By
+KoeniginYU
+Last updated:
+8 May 2024
+0
+This post is about fully best build of Clorinde. Clorinde is a 5-star Sword Electro character, primarily designed as a damage dealer. Her main source of damage output comes from her Elemental Burst, which offers substantial damage. She can remain on the field even after using her Burst. She performs well in applying damage-boosting reactions on her own.
+This guide will go through her talents, constellations, weapon and artifact recommendations, and team compositions.
+Contents
+Clorinde Build Guide
+Character Introduction
+Skills and Talent Introduction
+Level up the skills Suggestion
+Constellations Overview
+Best Weapon
+Best Team Build
+Clorinde Build Guide
+However, there is a noticeable drawback to Clorinde, which is her HP. As a main DPS character heavily reliant on her Elemental Burst, which could consume a great amount of her HP.
+This is why it is a little bit hard to build Clorinde in high HP, high Crit, and high ATK.
+Character Introduction
+Name
+: Clorinde
+Birthday
+: ??
+Rarity
+:
+⭐⭐⭐⭐⭐
+Element
+: Elector
+Weapon
+: Sword
+Role Ranking
+: Main DPS
+First Release
+: Version 4.7
+Skills and Talent Introduction
+Normal Attack
+Clorinde normal attack consists of 5 hits. Same as other melee characters.
+Elemental Skill
+After using E skill, she brings out her gun. All attacks will turn into the Electro attack.
+Left klich will use the gun attack, and right click/ long holding will dash to the enemy.
+Elemental Burst
+Level up the skills Suggestion
+Here you can find more information about the Crown of Insight.
+Normally, leveling up her elemental skill first. Then level up her Elemental burst. However, the normal attack should also be at least in level 8.
+Constellations Overview
+C0 is strong enough. If you are going to pull more Clorinde, C1 is ok, but C2 or C3 and C6 are stronger. Depends how much primogems you want to use on her.
+Best Weapon
+Below is a ranking of recommended weapons based on practical gameplay and expected damage dealing:
+Crit Rate
+Crit DMG
+Energy Recharge
+Weapon
+Details
+Harbinger Of Dawn
+Increase Crit DMG
+Best 3-star weapon for f2p.
+Obtain: Wish.
+Festering Desire
+2nd choice best four-star weapon for f2p. Increase Elemental Mastery, Crite DMG and Crite Rate.
+Obtain: Version 1.2 Event.
+Cinnabar Spindle
+Best four-star weapon for f2p. Increase Elemental Skill DMG depending on your DEF
+Obtain: Version 2.3 Event
+Favonius Sword
+Good weapon for f2p. Increase Energy Recharge.
+Obtain: Wish.
+Blackcliff Longsword
+Best four-star weapon for F2P. Increase Crit DMG.
+Obtain: Starglitter Exchange.
+The Black Sword
+Best four-star weapon. Increase Crit Rate
+Obtain: Purchase Battle Pass.
+Mistsplitter Reforged
+If you don't pull her character weapon, this will be the best five stars weapon.
+Obtain: Wish, Ayaka Weapon Banner.
+Primordial Jade Cutter
+The second best choice. If you don't have Ayaka's weapon, or don't want to pull Clorinde weapon, this one will be the best five-star weapon.
+Obtain: Wish, Ayaka Weapon Banner.
+Skyward Blade
+A Good five-star weapon, that gives high energy recharge.
+Obtain: Weapon Wish, and obtaining difficulty is low.
+Uraku Misugiri
+One of the best five stars weapon, that gives high Crit DMG. But the sub-stats isn't so perfect on Clorinde.
+Obtain: Chiori's Wish, and obtaining difficulty is low.
+Absolution
+Best five stars weapon, that gives high Crit DMG and deal the damage by increasing the value of a Bond of Life.
+Obtain: Clorinde Wish, and obtaining difficulty is low.
+Best Artifacts
+Clorinde's ATK is important. Whether you are using a mixed element team, she has a consistent need for high Crit. Therefore, it is advisable to prioritize energy recharge in Clorinde build to guarantee the uptime of her Elemental Burst.
+The Artifacts stats that we should focus on:
+Crit DMG
+Crit Rate
+ATK
+Energy Recharge
+Elemental Mastery
+Main Stats on the Artifacts
+Sand (ATK)
+Goblet (Cryo DMG)
+Circlet (Crit DMG/Crit Rate)
+Artifact Name
+Details
+Gambler
+2-Piece
+: Increase Elemental skill DMG by 20%
+Obtain
+: Clear Pool and Mountain Cavern, Liyue
+The Exile
+2-Piece:
+Energy Recharge +20%
+4-Piece
+: Using an Elemental Burst regenerates 2 Energy for other party members every 2s for 6s. This effect cannot stack
+Obtain
+: All small bosses in the open world, such as Fatui, Cicin Mage, Abyss Mage, Ruin Guard, Helichurls, etc.
+Noblesse Oblige
+2-Piece:
+Elemental Burst DMG +20%
+4-Piece
+: After using an Elemental Burst, all teammates get +20% ATK.
+Obtain
+: Clear Pool & Mountain Cavern, Liyue
+Marechaussee Hunter
+2-Piece:
+Normal and Charged Attack DMG +15%
+4-Piece
+: When current HP increases or decreases, CRIT Rate will be increased by 12% for 5s. Max 3 stacks.
+Obtain
+: Fontaine
+Golden Troupe
+2-Piece:
+Increases Elemental Skill DMG by 20%.
+4-Piece
+: Increases Elemental Skill DMG by 25%. Additionally, when not on the field, Elemental Skill DMG will be further increased by 25%. This effect will be cleared 2s after taking the field.
+Obtain
+: Fontaine
+Gladiator
+2-Piece:
+ATK +18%
+4-Piece
+: If the wielder of this artifact set uses a Sword, Claymore or Polearm, increases their Normal Attack DMG by 35%
+Obtain
+: All Bosses
+Unfinished Reverie
+2-Piece:
+ATK +18%
+4-Piece
+: After leaving combat for 3s, DMG dealt increased by 50%. In combat, if no Burning opponents are nearby for more than 6s, this DMG Bonus will decrease by 10% per second until it reaches 0%. When a Burning opponent exists, it will increase by 10% instead until it reaches 50%. This effect still triggers when the equipping character is off-field.
+Obtain
+: Faded Theater, Fontaine
+Fragment Of Harmonic Whimsy
+2-Piece:
+ATK +18%
+4-Piece
+: Bond of Life increases or decreases, this character deals 18% increased DMG for 6 seconds. Max 3 stacks.
+Obtain
+: Faded Theater, Fontaine
+Best Team Build
+Clorinde can fit into various team compositions, and it largely depends on the playstyle and elemental reactions you want to focus on. Here are three possible team directions to consider:
+Easy to Build Team (Overloaded)
+DPS
+Clorinde
+Pyro Support
+Xiangling / Bennett / Chevreuse
+Hydro Support
+Xingqiu / Yelan
+Healer/Support
+(e.g., Barbara or Bennett)
+Barbara/ Bennett
+Clorinde
+Xiangilng
+Yelan / Xingqiu
+Bennett
+2. Easy to Build Team (Electro Charged and Super-conduct)
+DPS
+Clorinde
+Cryo Support
+Chongyun
+Other Support
+Furina / Sucrose / Kazuha
+Clorinde
+Kazuha
+Chongyun
+Furina
+3. Easy to Build Team
+DPS (Quicken)
+Clorinde
+Support
+Xiangling / Bennett / Chevreuse / Xingqiu
+Dendro Support
+Yaoyao / Collei
+Clorinde
+Yaoyao
+Xingqiu
+Bennett
+Good luck!
+Your turn:
+Like, Dislike, comment, or share!
+0
